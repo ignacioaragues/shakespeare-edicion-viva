@@ -1,0 +1,29 @@
+# Shakespeare · Edición viva
+
+An experimental, buildless bilingual and annotated Shakespeare reader. Currently ships a carefully marked **sample** from *Coriolanus* 1.1, rather than claiming to include a whole play.
+
+## What the site does
+
+- Synchronized English/Spanish speeches, with full speaker labels on both sides.
+- Contextual notes on words and constructions, as well as a small piece of textual criticism.
+- An accessible dramatis personae guide without spoilers beyond the sample.
+- Search in both languages, font controls, mobile language switch, browser-local bookmark.
+- Clear edition/provenance labels.
+
+## Adding plays and scenes
+
+The text/data model is in `data.js`. A work declares an `id`, titles and scene IDs. A scene declares an act, a scene, a setting, characters and an ordered array of bilingual blocks. Each block includes source line numbers, one speaker key, an English `en` string, an original Spanish `es` rendering, and optional notes keyed to a term in the English text. Notes whose terms overlap another annotation remain available as small supplementary buttons.
+
+The current interface reads the first scene in the array. Before adding a second scene, extend the library/scene navigation to select the correct scene; don't merely append it to the data and claim it's available. For substantial expansion, move each scene to its own JSON file and load scenes on demand, retaining this alignment model.
+
+## Sources and rights
+
+English base: [Folger Digital Texts, *Coriolanus* I.1](https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/), © editorial text Folger Shakespeare Library, [CC BY-NC 3.0](https://creativecommons.org/licenses/by-nc/3.0/). The extract has been segmented by individual speeches and given bilingual annotation markers; punctuation and spelling follow the modernized reading text in the main. Select textual readings were checked against the [Bodleian First Folio](https://firstfolio.bodleian.ox.ac.uk/). This version is **noncommercial**. The underlying Shakespeare play is public domain, but the Folger editorial text is separately licensed.
+
+The Spanish translations and Spanish critical notes in this sample are newly authored for this project. **Do not paste modern published Spanish translations into this repository without confirming their publication rights or obtaining permission.**
+
+No server-side accounts or remote user data: reader preferences and bookmarks are stored locally in the browser. Permanent library updates require publishing a new version of the website.
+
+## Publishing on GitHub Pages
+
+This repository is a static site ready to publish directly from its root directory on the `main` branch. In repository settings, choose **Pages → Deploy from a branch → main / (root)**. The page uses only relative paths, so it works at a GitHub project URL without a custom domain.
