@@ -1,0 +1,122 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#f7f5ef" />
+  <meta name="description" content="Shakespeare en hipertexto: original inglés y traducción española alineados, notas filológicas emergentes y guía de personajes." />
+  <title>Shakespeare · Edición viva</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+  <div class="app-shell" id="app-shell">
+    <header class="topbar">
+      <div class="brand">
+        <div class="brand-mark" aria-hidden="true">S<span>·</span></div>
+        <div class="brand-name"><span>SHAKESPEARE</span><small>EDICIÓN VIVA</small></div>
+      </div>
+      <div class="topbar-center">Un lector para detenerse en las palabras, sin perder la obra.</div>
+      <div class="topbar-actions">
+        <button class="top-button help-button" id="help-button" aria-label="Cómo usar el lector" title="Cómo usar el lector">?</button>
+        <button class="top-button mobile-contents-button" id="mobile-contents-button" aria-label="Mostrar contenidos" aria-expanded="false">☰ <span>Obras</span></button>
+      </div>
+    </header>
+
+    <aside class="sidebar" id="sidebar" aria-label="Biblioteca y navegación">
+      <div class="sidebar-inner">
+        <div class="side-overline">MI BIBLIOTECA</div>
+        <button class="work-picker" id="work-picker" aria-current="page">
+          <span class="work-monogram">C</span>
+          <span class="work-picker-copy"><strong>Coriolanus</strong><small>William Shakespeare</small></span>
+          <span class="work-picker-arrow">›</span>
+        </button>
+        <div class="side-overline chapter-label">NAVEGACIÓN</div>
+        <div class="act-label"><span>ACTO I</span><span class="act-count">01 / 05</span></div>
+        <button class="scene-nav active" id="scene-nav" aria-current="page"><span class="scene-number">01</span><span>Roma, una calle<small>Fragmento disponible</small></span><span class="scene-dot"></span></button>
+        <div class="upcoming-scenes"><span>Escenas 2–10</span><span>En preparación</span></div>
+        <div class="disabled-acts" aria-label="Actos todavía no incorporados">
+          <div>ACTO II <span>—</span></div>
+          <div>ACTO III <span>—</span></div>
+          <div>ACTO IV <span>—</span></div>
+          <div>ACTO V <span>—</span></div>
+        </div>
+        <div class="sidebar-bottom">
+          <div class="side-overline">TU LECTURA</div>
+          <div class="progress-bar" aria-label="Progreso de lectura"><span id="progress-fill"></span></div>
+          <div class="progress-copy" id="progress-copy">Todavía no hay un marcador.</div>
+          <button class="resume-button" id="resume-button" disabled>Continuar leyendo <span>↗</span></button>
+          <div class="quiet-note">El marcador queda guardado en este navegador.</div>
+        </div>
+      </div>
+    </aside>
+
+    <main class="main-content" id="main-content">
+      <div class="reader-heading">
+        <div class="eyebrow"><span class="eyebrow-square"></span> TRAGEDIA ROMANA <span class="separator-dot">·</span> LECTOR BILINGÜE</div>
+        <div class="heading-line">
+          <div><h1>Coriolanus<span class="title-period">.</span></h1><p class="heading-translation">Coriolano <span>— William Shakespeare</span></p></div>
+          <div class="act-ornament" aria-hidden="true">I<span>.</span>I</div>
+        </div>
+        <div class="heading-rule"><div class="chapter-title">ACTO PRIMERO <span>/</span> ESCENA PRIMERA</div><div class="heading-place">ROMA · UNA CALLE</div></div>
+        <p class="scene-introduction" id="scene-introduction"></p>
+        <div class="sample-notice"><span class="notice-symbol">✳</span><div><strong>Primera muestra de la edición.</strong> Esta página contiene el comienzo de la escena I.1, hasta el primer intercambio con Menenio. El resto de la obra todavía no está cargado.</div></div>
+      </div>
+
+      <div class="reader-controls" id="reader-controls">
+        <div class="controls-left">
+          <label class="search-wrap" for="search-input">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m16 16 5 5"/></svg>
+            <input id="search-input" type="search" placeholder="Buscar en esta escena..." autocomplete="off" />
+            <kbd>/</kbd>
+          </label>
+        </div>
+        <div class="controls-right">
+          <label class="notes-switch" title="Mostrar u ocultar las notas en el original"><input type="checkbox" id="notes-toggle" checked /><span class="switch-track"><span class="switch-thumb"></span></span><span>Notas</span></label>
+          <div class="control-divider"></div>
+          <button class="type-button" id="font-minus" aria-label="Reducir tamaño de letra">A−</button>
+          <button class="type-button" id="font-plus" aria-label="Aumentar tamaño de letra">A+</button>
+          <div class="control-divider desktop-only"></div>
+          <button class="guide-button" id="guide-button">Personajes <span>↗</span></button>
+        </div>
+      </div>
+      <div class="mobile-language-select" aria-label="Idioma visible en pantalla pequeña"><button id="lang-en" class="active" aria-pressed="true">Original inglés</button><button id="lang-es" aria-pressed="false">Traducción española</button></div>
+
+      <div class="reader" id="reader">
+        <div class="reader-columns-heading">
+          <div class="line-gutter-heading">LÍNEAS</div>
+          <div class="column-heading english-heading"><span class="lang-code">EN</span><span>Original · Shakespeare</span><small>Inglés moderno temprano</small></div>
+          <div class="column-heading spanish-heading"><span class="lang-code">ES</span><span>Traducción de apoyo</span><small>Versión propia, no literaria</small></div>
+        </div>
+        <div class="stage-direction" id="stage-direction"></div>
+        <div id="dialogue-container" aria-live="polite"></div>
+        <div class="empty-state" id="empty-state" hidden><strong>No encontramos ese texto.</strong><span>Probá con una palabra en inglés o español.</span><button id="clear-search">Limpiar búsqueda</button></div>
+      </div>
+
+      <section class="afterword">
+        <span class="afterword-kicker">NOTA DE EDICIÓN</span>
+        <h2>El original es el punto de partida.</h2>
+        <p>La traducción de la derecha sirve para contrastar la comprensión; las notas distinguen entre dificultades de lengua, decisiones editoriales y posibles interpretaciones. Una explicación interpretativa no debe confundirse con un significado obligatorio del texto.</p>
+        <p class="credits">Base inglesa: <a href="https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/" target="_blank" rel="noopener noreferrer">Folger Digital Texts, Folger Shakespeare Library</a>, bajo <a href="https://creativecommons.org/licenses/by-nc/3.0/" target="_blank" rel="noopener noreferrer">CC BY-NC 3.0</a>. El extracto fue segmentado por parlamentos y adaptado a este formato bilingüe; se incorporaron marcas de anotación. Cotejo puntual: <a href="https://firstfolio.bodleian.ox.ac.uk/" target="_blank" rel="noopener noreferrer">Bodleian First Folio</a>. Traducción y notas españolas elaboradas para este proyecto. Uso no comercial.</p>
+      </section>
+    </main>
+
+    <aside class="character-rail" id="character-rail" aria-label="Personajes de esta escena">
+      <div class="rail-sticky"><div class="side-overline">EN ESTA ESCENA</div><p class="rail-lead">Quién habla, quién responde y quién todavía no ha entrado.</p><div id="character-list"></div><button id="full-guide-button" class="all-characters-button">Ver guía completa <span>↗</span></button><div class="rail-hint"><span class="rail-hint-icon">i</span> Tocá cualquier nombre de personaje para ver su ficha.</div></div>
+    </aside>
+  </div>
+
+  <div id="note-popover" class="floating-popover" role="dialog" aria-modal="false" aria-label="Nota filológica" hidden><div class="popover-top"><span id="note-type"></span><button id="close-note" aria-label="Cerrar nota">×</button></div><h3 id="note-title"></h3><p id="note-body"></p><div class="popover-foot">CORIOLANUS · I.1</div></div>
+
+  <div class="modal-backdrop" id="modal-backdrop" hidden>
+    <div class="modal" role="dialog" aria-modal="true" aria-labelledby="modal-title">
+      <div class="modal-header"><div><span class="modal-kicker" id="modal-kicker">GUÍA DE LECTURA</span><h2 id="modal-title">Personajes</h2></div><button class="modal-close" id="modal-close" aria-label="Cerrar">×</button></div>
+      <div class="modal-content" id="modal-content"></div>
+    </div>
+  </div>
+  <script src="./data.js"></script>
+  <script src="./app.js"></script>
+</body>
+</html>
