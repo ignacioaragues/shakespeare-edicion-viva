@@ -32,7 +32,7 @@ window.SHAKESPEARE_READER_DATA = {
         { id: "all", short: "Ciudadanos", name: "Ciudadanos · a coro", english: "All", identity: "El grupo responde colectivamente. Conviene distinguir estas intervenciones de las de cada ciudadano individual.", color: "slate" },
         { id: "citizen2", short: "2.º ciudadano", name: "Segundo ciudadano", english: "Second Citizen", identity: "Otra voz de la protesta. Interroga al primer ciudadano y sostiene buena parte del diálogo con Menenio.", color: "olive" },
         { id: "menenius", short: "Menenio", name: "Menenio Agripa", english: "Menenius Agrippa", identity: "Patricio romano que intenta desactivar el conflicto con los ciudadanos. Interviene en la discusión y propone una fábula.", color: "ink" },
-        { id: "martius", short: "Marcio", name: "Cayo Marcio", english: "Caius Martius", identity: "Militar patricio al que los ciudadanos atribuyen buena parte de sus males. Se lo menciona antes de que aparezca en escena.", color: "violet", mentionedOnly: true }
+        { id: "martius", short: "Marcio", name: "Cayo Marcio", english: "Caius Martius", identity: "Militar patricio al que los ciudadanos atribuyen buena parte de sus males. Se lo menciona antes de que aparezca en escena.", color: "violet", mentionedOnly: true },
         {"id":"messenger","short":"Mensajero","name":"Mensajero","english":"Messenger","identity":"Anuncia el levantamiento de los volscos.","color":"slate"},
         {"id":"senator1","short":"Senador","name":"Primer senador","english":"First Senator","identity":"Senador que confirma la movilización volsca.","color":"ink"},
       ],
