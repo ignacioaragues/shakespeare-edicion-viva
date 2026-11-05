@@ -49,13 +49,22 @@
       "last_line": 173,
       "editorial_state": "translated_source_checked",
       "note": "Political application of the belly fable and Martius' entrance; four complete speech blocks."
+    },
+    {
+      "id": "coriolanus-1-1-174-200",
+      "act": 1,
+      "scene": 1,
+      "first_line": 174,
+      "last_line": 200,
+      "editorial_state": "translated_source_checked",
+      "note": "Martius' first invective, with Second Citizen's ironic response; three complete speech blocks."
     }
   ],
   "next_fragment": {
     "act": 1,
     "scene": 1,
-    "start_after_line": 173,
-    "instruction": "Continue with Martius' opening invective at Folger line 174."
+    "start_after_line": 200,
+    "instruction": "Continue at Folger line 201 with Menenius' answer about grain prices."
   },
   "completed_acts": [],
   "last_update_commit": "pending_atomic_commit",
