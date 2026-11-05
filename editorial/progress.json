@@ -40,13 +40,22 @@
       "last_line": 156,
       "editorial_state": "translated_source_checked",
       "note": "Menenius' belly answers; interruption and citizen's demand for application; four complete speeches."
+    },
+    {
+      "id": "coriolanus-1-1-157-173",
+      "act": 1,
+      "scene": 1,
+      "first_line": 157,
+      "last_line": 173,
+      "editorial_state": "translated_source_checked",
+      "note": "Political application of the belly fable and Martius' entrance; four complete speech blocks."
     }
   ],
   "next_fragment": {
     "act": 1,
     "scene": 1,
-    "start_after_line": 156,
-    "instruction": "Continue Menenius' explicit political application beginning Folger line 157."
+    "start_after_line": 173,
+    "instruction": "Continue with Martius' opening invective at Folger line 174."
   },
   "completed_acts": [],
   "last_update_commit": "pending_atomic_commit",
