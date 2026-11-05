@@ -199,7 +199,7 @@
       const copy = el('span', 'character-card-copy');
       copy.appendChild(el('span', 'character-card-name', character.name));
       copy.appendChild(el('span', 'character-card-sub', character.mentionedOnly ? 'Solo mencionado' : character.english));
-      button.append(initial, copy, el('span', 'character-card-arrow', '↗'));
+      button.append(initial, copy, el('span', 'character-card-arrow', '→'));
       button.addEventListener('click', () => openModal('character', character));
       container.appendChild(button);
     });
@@ -248,10 +248,10 @@
       $('modal-kicker').textContent = 'FUENTES Y LICENCIAS';
       $('modal-title').textContent = 'Sobre esta edición';
       modalSection(content, 'Texto inglés', 'El texto de lectura sigue Folger Digital Texts, Folger Shakespeare Library. Se organiza aquí en parlamentos alineados con traducción y anotaciones. La edición Folger tiene licencia Creative Commons Atribución–NoComercial 3.0.');
-      addSourceLink(content, 'Edición Folger · Coriolanus I.1 ↗', 'https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/');
-      addSourceLink(content, 'Licencia CC BY-NC 3.0 ↗', 'https://creativecommons.org/licenses/by-nc/3.0/');
+      addSourceLink(content, 'Edición Folger · Coriolanus I.1 →', 'https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/');
+      addSourceLink(content, 'Licencia CC BY-NC 3.0 →', 'https://creativecommons.org/licenses/by-nc/3.0/');
       modalSection(content, 'Cotejo y traducción', 'Algunas lecturas se cotejaron con el First Folio de 1623. La traducción y las notas en español son originales de este proyecto. Esta muestra es de uso educativo y no comercial.');
-      addSourceLink(content, 'Bodleian First Folio ↗', 'https://firstfolio.bodleian.ox.ac.uk/');
+      addSourceLink(content, 'Bodleian First Folio →', 'https://firstfolio.bodleian.ox.ac.uk/');
     } else {
       $('modal-kicker').textContent = 'CÓMO LEER ESTA EDICIÓN';
       $('modal-title').textContent = 'Una lectura a dos voces';
