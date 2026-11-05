@@ -121,13 +121,22 @@
       "last_line": 343,
       "editorial_state": "translated_source_checked",
       "note": "Opening of the Volscian senate scene; Aufidius reads intelligence from Rome, through the First Senator's reply. Three complete speeches. Folger global line numbering."
+    },
+    {
+      "id": "coriolanus-1-2-344-364",
+      "act": 1,
+      "scene": 2,
+      "first_line": 344,
+      "last_line": 364,
+      "editorial_state": "translated_source_checked",
+      "note": "Aufidius criticizes the leaked plans, Second Senator commissions him, and Aufidius vows to fight Martius; three complete speeches, Folger online checked."
     }
   ],
   "next_fragment": {
     "act": 1,
     "scene": 2,
-    "start_after_line": 343,
-    "instruction": "Continue Folger global line 344, Aufidius: 'Nor did you think it folly...'."
+    "start_after_line": 364,
+    "instruction": "Continue Folger global line 365, the farewell exchanges that conclude I.2."
   },
   "completed_acts": [],
   "last_update_commit": "atomic_commit_pending_sha",

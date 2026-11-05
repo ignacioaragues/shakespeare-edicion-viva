@@ -208,7 +208,7 @@ window.SHAKESPEARE_READER_DATA = {
   "scene": 2,
   "place": "Corioles · Cámara del Senado",
   "sourceRef": "Folger Shakespeare Library · Acto I, escena 2",
-  "sectionLabel": "Edición en curso · líneas Folger 322–343",
+  "sectionLabel": "Edición en curso · líneas Folger 322–364",
   "introduction": "En Corioles, Aufidio advierte a los senadores volscos de que Roma conoce sus preparativos militares. Una carta interceptada o recibida desde Roma confirma sus sospechas.",
   "stage": "Entran Tulo Aufidio y senadores de Corioles.",
   "characters": [
@@ -225,6 +225,9 @@ window.SHAKESPEARE_READER_DATA = {
       "english": "Tullus Aufidius",
       "identity": "Comandante volsco y rival militar de Cayo Marcio.",
       "color": "violet"
+    },
+    {
+      "id": "senator2", "name": "Segundo senador", "english": "Second Senator", "identity": "Senador volsco que encarga a Aufidio dirigir las tropas y confía en la defensa de Corioles.", "color": "olive"
     }
   ],
   "blocks": [
@@ -292,6 +295,114 @@ window.SHAKESPEARE_READER_DATA = {
           "type": "Sintaxis histórica",
           "title": "No dudar de que",
           "body": "La secuencia negativa never ... doubt but equivale a «nunca dudamos de que»; but no expresa aquí una excepción adversativa."
+        }
+      ]
+    },
+    {
+      "line": "344–351",
+      "speaker": "aufidius",
+      "en": "Nor did you think it folly To keep your great pretenses veiled till when They needs must show themselves, which, in the hatching, It seemed, appeared to Rome. By the discovery We shall be shortened in our aim, which was To take in many towns ere almost Rome Should know we were afoot.",
+      "es": "¿Y tampoco les pareció una imprudencia mantener ocultos sus grandes proyectos hasta que fuera inevitable revelarlos? Por lo visto, Roma los descubrió cuando apenas estaban gestándose. Ese descubrimiento frustrará parte de nuestro propósito: apoderarnos de muchas ciudades antes de que Roma llegara siquiera a saber que nos habíamos puesto en marcha.",
+      "notes": [
+        {
+          "term": "pretenses",
+          "type": "Semántica histórica",
+          "title": "pretenses",
+          "body": "Aquí son propósitos o planes declarados como pretensiones; no necesariamente engaños o fingimientos en el sentido moderno."
+        },
+        {
+          "term": "needs must",
+          "type": "Gramática histórica",
+          "title": "needs must",
+          "body": "Construcción modal enfática: «necesariamente», «por fuerza». La revelación de los planes se presenta como inevitable."
+        },
+        {
+          "term": "in the hatching",
+          "type": "Imagen retórica",
+          "title": "Planes en gestación",
+          "body": "La metáfora del huevo que empieza a incubarse subraya que los romanos conocieron la operación antes de que estuviera madura."
+        },
+        {
+          "term": "take in",
+          "type": "Léxico militar",
+          "title": "take in many towns",
+          "body": "Take in significa aquí tomar o conquistar ciudades, no acogerlas ni comprenderlas."
+        },
+        {
+          "term": "afoot",
+          "type": "Léxico",
+          "title": "afoot",
+          "body": "Estar en marcha, haber iniciado una operación; no se refiere literalmente a combatir a pie."
+        }
+      ]
+    },
+    {
+      "line": "352–357",
+      "speaker": "senator2",
+      "en": "Noble Aufidius, Take your commission; hie you to your bands. Let us alone to guard Corioles. If they set down before ’s, for the remove Bring up your army. But I think you’ll find They’ve not prepared for us.",
+      "es": "Noble Aufidio, recibe tu nombramiento y ve sin demora a reunirte con tus tropas. Déjanos a nosotros la defensa de Corioles. Si los romanos acampan ante nuestras murallas, trae tu ejército para obligarlos a levantar el sitio. Aunque creo que descubrirás que no están preparados para enfrentarse a nosotros.",
+      "notes": [
+        {
+          "term": "commission",
+          "type": "Léxico militar",
+          "title": "commission",
+          "body": "Designa el encargo o autoridad formal para mandar tropas, no una comisión deliberativa."
+        },
+        {
+          "term": "hie you",
+          "type": "Gramática histórica",
+          "title": "hie you",
+          "body": "Imperativo reflexivo arcaico que expresa urgencia: «date prisa», «ve enseguida»."
+        },
+        {
+          "term": "bands",
+          "type": "Léxico militar",
+          "title": "bands",
+          "body": "Grupos organizados de soldados; aquí, las tropas bajo el mando de Aufidio."
+        },
+        {
+          "term": "set down before ’s",
+          "type": "Léxico militar",
+          "title": "Acampar ante la ciudad",
+          "body": "Set down before us significa establecer posiciones frente a la ciudad, potencialmente para sitiarla; ’s es la contracción de us."
+        },
+        {
+          "term": "for the remove",
+          "type": "Interpretación",
+          "title": "Levantar el sitio",
+          "body": "La frase es elíptica: el senador pide traer refuerzos para forzar la retirada de los romanos. «Levantar el sitio» explicita ese resultado probable."
+        }
+      ]
+    },
+    {
+      "line": "358–364",
+      "speaker": "aufidius",
+      "en": "O, doubt not that; I speak from certainties. Nay, more, Some parcels of their power are forth already, And only hitherward. I leave your Honors. If we and Caius Martius chance to meet, ’Tis sworn between us we shall ever strike Till one can do no more.",
+      "es": "No lo duden: hablo con información segura. Es más, algunas unidades de su ejército ya han partido, y vienen precisamente hacia aquí. Me despido de sus señorías. Si Cayo Marcio y yo llegamos a encontrarnos, nos hemos jurado combatir sin tregua hasta que uno de los dos no pueda seguir luchando.",
+      "notes": [
+        {
+          "term": "parcels of their power",
+          "type": "Léxico militar",
+          "title": "Unidades del ejército",
+          "body": "Parcels son porciones o destacamentos de la fuerza militar, no paquetes materiales."
+        },
+        {
+          "term": "only hitherward",
+          "type": "Sintaxis y deixis",
+          "title": "Hacia aquí",
+          "body": "Hitherward indica dirección hacia el lugar donde hablan; only refuerza la exclusividad de ese destino."
+        },
+        {
+          "term": "your Honors",
+          "type": "Tratamiento",
+          "title": "Sus señorías",
+          "body": "Fórmula de respeto dirigida a los senadores como cuerpo; no es una referencia abstracta a su honor personal."
+        },
+        {
+          "term": "’Tis sworn between us",
+          "type": "Retórica",
+          "title": "Juramento entre enemigos",
+          "body": "Aufidio presenta la rivalidad con Marcio como un compromiso recíproco de combate a muerte. La escena no muestra cuándo ni cómo se formuló ese juramento."
         }
       ]
     }
