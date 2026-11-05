@@ -22,15 +22,24 @@
       "last_line": 97,
       "editorial_state": "translated_source_checked",
       "note": "Menenius rebuts the citizens; Second Citizen responds; Menenius introduces his belly fable. Folger online line numbering verified."
+    },
+    {
+      "id": "coriolanus-1-1-98-133",
+      "act": 1,
+      "scene": 1,
+      "first_line": 98,
+      "last_line": 133,
+      "editorial_state": "translated_source_checked",
+      "note": "Fable of the belly, through the citizen's complaint at line 133; 10 complete speech blocks."
     }
   ],
   "next_fragment": {
     "act": 1,
     "scene": 1,
-    "start_after_line": 97,
-    "instruction": "Begin Menenius' fable at Folger line 98. Preserve full speech blocks."
+    "start_after_line": 133,
+    "instruction": "Continue Menenius' answer beginning Folger line 134."
   },
   "completed_acts": [],
-  "last_update_commit": "3c9d412284a07f05a73f37e75c1e9830defb1060",
+  "last_update_commit": "pending_atomic_commit",
   "notes": "Folger online line 66 is 'We cannot, sir; we are undone already.' The original prototype had an off-by-one numbering error, corrected in this release. Text is still under editorial review."
 }
