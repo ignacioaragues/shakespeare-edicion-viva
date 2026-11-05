@@ -76,13 +76,22 @@
       "last_line": 245,
       "editorial_state": "translated_source_checked",
       "note": "Martius reports the dispersal and the concession of five tribunes; five complete speech blocks. Folger online checked."
+    },
+    {
+      "id": "coriolanus-1-1-246-258",
+      "act": 1,
+      "scene": 1,
+      "first_line": 246,
+      "last_line": 258,
+      "editorial_state": "translated_source_checked",
+      "note": "Messenger announces the Volscian mobilization; Martius admires Aufidius; six complete speeches."
     }
   ],
   "next_fragment": {
     "act": 1,
     "scene": 1,
-    "start_after_line": 245,
-    "instruction": "Continue with the Messenger's entrance and news of the Volsces at Folger line 246."
+    "start_after_line": 258,
+    "instruction": "Continue at Folger line 259 with Cominius' question."
   },
   "completed_acts": [],
   "last_update_commit": "atomic_commit_pending_sha",
