@@ -58,15 +58,24 @@
       "last_line": 200,
       "editorial_state": "translated_source_checked",
       "note": "Martius' first invective, with Second Citizen's ironic response; three complete speech blocks."
+    },
+    {
+      "id": "coriolanus-1-1-201-219",
+      "act": 1,
+      "scene": 1,
+      "first_line": 201,
+      "last_line": 219,
+      "editorial_state": "translated_source_checked",
+      "note": "Menenius reports the grain demand; Martius threatens slaughter; Menenius asks about the other crowd. Three complete speeches."
     }
   ],
   "next_fragment": {
     "act": 1,
     "scene": 1,
-    "start_after_line": 200,
-    "instruction": "Continue at Folger line 201 with Menenius' answer about grain prices."
+    "start_after_line": 219,
+    "instruction": "Continue at Folger line 220 with Martius' account of the other crowd and the concession of tribunes."
   },
   "completed_acts": [],
-  "last_update_commit": "pending_atomic_commit",
+  "last_update_commit": "atomic_commit_pending_sha",
   "notes": "Folger online line 66 is 'We cannot, sir; we are undone already.' The original prototype had an off-by-one numbering error, corrected in this release. Text is still under editorial review."
 }
