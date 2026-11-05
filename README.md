@@ -20,6 +20,8 @@ The current interface reads the first scene in the array. Before adding a second
 
 The home page opens at the site root. `#coriolanus` is a direct link to the currently available reader. The brand button returns to the library. Sources and license details remain accessible through the home-page attribution and the reader's **Fuentes** control.
 
+The three static assets linked in `index.html` carry a small `?v=` cache-busting version. Increase it when changing `styles.css`, `app.js` or `data.js`; otherwise readers may see the new HTML with cached old assets for a while after a GitHub Pages deployment.
+
 ## Sources and rights
 
 English base: [Folger Digital Texts, *Coriolanus* I.1](https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/), © editorial text Folger Shakespeare Library, [CC BY-NC 3.0](https://creativecommons.org/licenses/by-nc/3.0/). The extract has been segmented by individual speeches and given bilingual annotation markers; punctuation and spelling follow the modernized reading text in the main. Select textual readings were checked against the [Bodleian First Folio](https://firstfolio.bodleian.ox.ac.uk/). This version is **noncommercial**. The underlying Shakespeare play is public domain, but the Folger editorial text is separately licensed.
