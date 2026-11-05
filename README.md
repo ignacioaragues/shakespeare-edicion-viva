@@ -18,6 +18,8 @@ The text/data model is in `data.js`. A work declares an `id`, titles and scene I
 
 The current interface reads the first scene in the array. Before adding a second scene, extend the library/scene navigation to select the correct scene; don't merely append it to the data and claim it's available. For substantial expansion, move each scene to its own JSON file and load scenes on demand, retaining this alignment model.
 
+Incremental work on *Coriolanus* is tracked in [`editorial/progress.json`](editorial/progress.json), with the source, translation, quality and publication rules in [`editorial/WORKFLOW.md`](editorial/WORKFLOW.md). Each new batch must update the code and progress together; do not infer the next passage from a chat summary alone.
+
 The home page opens at the site root. `#coriolanus` is a direct link to the currently available reader. The brand button returns to the library. Sources and license details remain accessible through the home-page attribution and the reader's **Fuentes** control.
 
 The three static assets linked in `index.html` carry a small `?v=` cache-busting version. Increase it when changing `styles.css`, `app.js` or `data.js`; otherwise readers may see the new HTML with cached old assets for a while after a GitHub Pages deployment.

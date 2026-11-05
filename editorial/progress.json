@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "project": "Shakespeare · Edición viva",
+  "work_id": "coriolanus",
+  "work_title": "Coriolanus",
+  "status": "in_progress",
+  "published_segments": [
+    {
+      "id": "coriolanus-1-1-1-67",
+      "act": 1,
+      "scene": 1,
+      "first_line": 1,
+      "last_line": 67,
+      "editorial_state": "prototype_needs_recheck",
+      "note": "Initial sample, ending with Second Citizen: 'We cannot, sir; we are undone already.'"
+    }
+  ],
+  "next_fragment": {
+    "act": 1,
+    "scene": 1,
+    "start_after_line": 67,
+    "instruction": "Continue after 'We cannot, sir; we are undone already.' Avoid overlapping or skipping speeches."
+  },
+  "completed_acts": [],
+  "last_update_commit": "3c9d412284a07f05a73f37e75c1e9830defb1060",
+  "notes": "Scene and line references follow the online Folger Digital Texts reading edition. The bilingual first-scene blocks currently live in data.js; add real navigation before releasing further scenes."
+}
