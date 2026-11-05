@@ -6,22 +6,31 @@
   "status": "in_progress",
   "published_segments": [
     {
-      "id": "coriolanus-1-1-1-67",
+      "id": "coriolanus-1-1-1-66",
       "act": 1,
       "scene": 1,
       "first_line": 1,
-      "last_line": 67,
+      "last_line": 66,
       "editorial_state": "prototype_needs_recheck",
-      "note": "Initial sample, ending with Second Citizen: 'We cannot, sir; we are undone already.'"
+      "note": "Initial sample ends at Folger line 66; previous checkpoint erroneously counted it as line 67."
+    },
+    {
+      "id": "coriolanus-1-1-67-97",
+      "act": 1,
+      "scene": 1,
+      "first_line": 67,
+      "last_line": 97,
+      "editorial_state": "translated_source_checked",
+      "note": "Menenius rebuts the citizens; Second Citizen responds; Menenius introduces his belly fable. Folger online line numbering verified."
     }
   ],
   "next_fragment": {
     "act": 1,
     "scene": 1,
-    "start_after_line": 67,
-    "instruction": "Continue after 'We cannot, sir; we are undone already.' Avoid overlapping or skipping speeches."
+    "start_after_line": 97,
+    "instruction": "Begin Menenius' fable at Folger line 98. Preserve full speech blocks."
   },
   "completed_acts": [],
   "last_update_commit": "3c9d412284a07f05a73f37e75c1e9830defb1060",
-  "notes": "Scene and line references follow the online Folger Digital Texts reading edition. The bilingual first-scene blocks currently live in data.js; add real navigation before releasing further scenes."
+  "notes": "Folger online line 66 is 'We cannot, sir; we are undone already.' The original prototype had an off-by-one numbering error, corrected in this release. Text is still under editorial review."
 }
