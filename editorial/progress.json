@@ -103,13 +103,22 @@
       "last_line": 300,
       "editorial_state": "translated_source_checked",
       "note": "Military departure and the tribunes' critique of Martius; 13 complete speeches, Folger online checked."
+    },
+    {
+      "id": "coriolanus-1-1-301-321",
+      "act": 1,
+      "scene": 1,
+      "first_line": 301,
+      "last_line": 321,
+      "editorial_state": "translated_source_checked",
+      "note": "Brutus and Sicinius debate how Martius profits from serving under Cominius; five complete speeches through scene exit. Folger online checked."
     }
   ],
   "next_fragment": {
     "act": 1,
-    "scene": 1,
-    "start_after_line": 300,
-    "instruction": "Continue at Folger line 301 with Brutus' assessment of Martius' subordinate command."
+    "scene": 2,
+    "start_after_line": 0,
+    "instruction": "Begin Folger Act I scene 2, line 1. Implement scene navigation before adding the new scene."
   },
   "completed_acts": [],
   "last_update_commit": "atomic_commit_pending_sha",
