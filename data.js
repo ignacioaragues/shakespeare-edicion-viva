@@ -36,7 +36,7 @@ window.SHAKESPEARE_READER_DATA = {
       ],
       blocks: [
         { line: "1–2", speaker: "citizen1", en: "Before we proceed any further, hear me speak.", es: "Antes de que sigamos adelante, escúchenme.", notes: [] },
-        { line: "3", speaker: "all", en: "Speak, speak!", es: "¡Hablá, hablá!", notes: [] },
+        { line: "3", speaker: "all", en: "Speak, speak!", es: "¡Habla, habla!", notes: [] },
         { line: "4–5", speaker: "citizen1", en: "You are all resolved rather to die than to famish?", es: "¿Están todos decididos a morir antes que dejarse morir de hambre?", notes: [
           { term: "resolved", type: "Lengua", title: "resolved", body: "Aquí significa «decididos» o «resueltos», no «resignados». La construcción que sigue contrapone dos destinos terribles." },
           { term: "famish", type: "Léxico histórico", title: "famish", body: "Morir de hambre o padecer hambre extrema. En el inglés actual resulta arcaizante; el verbo to starve sería más corriente." }
@@ -93,7 +93,7 @@ window.SHAKESPEARE_READER_DATA = {
           { term: "soft-conscienced", type: "Semántica", title: "soft-conscienced", body: "Quienes juzgan con una conciencia demasiado blanda o indulgente. El primer ciudadano desacredita de antemano la lectura patriótica de las hazañas." },
           { term: "altitude of his virtue", type: "Interpretación", title: "altitude of his virtue", body: "La imagen de la altura concede que la virtud de Marcio es grande, pero sugiere que su orgullo crece hasta el mismo nivel. Un elogio queda absorbido por una acusación." }
         ] },
-        { line: "41–43", speaker: "citizen2", en: "What he cannot help in his nature you account a vice in him. You must in no way say he is covetous.", es: "Le atribuís como vicio algo que no puede evitar por su propia naturaleza. Lo que de ningún modo podés decir es que sea codicioso.", notes: [
+        { line: "41–43", speaker: "citizen2", en: "What he cannot help in his nature you account a vice in him. You must in no way say he is covetous.", es: "Le atribuyes como vicio algo que no puede evitar por su propia naturaleza. Lo que de ningún modo puedes decir es que sea codicioso.", notes: [
           { term: "What he cannot help", type: "Sintaxis", title: "What he cannot help in his nature", body: "La relativa libre aparece antepuesta como objeto de account: «You account what he cannot help in his nature a vice in him»." },
           { term: "covetous", type: "Léxico", title: "covetous", body: "Codicioso, especialmente de posesiones o riquezas. No es sinónimo general de «ambicioso» en todos los contextos." }
         ] },
@@ -104,7 +104,7 @@ window.SHAKESPEARE_READER_DATA = {
         ] },
         { line: "49", speaker: "all", en: "Come, come!", es: "¡Vamos, vamos!", notes: [] },
         { line: "50", speaker: "citizen1", en: "Soft, who comes here?", es: "Un momento, ¿quién viene ahí?", notes: [
-          { term: "Soft", type: "Léxico histórico", title: "Soft", body: "Interjección que pide detenerse o bajar el ritmo: «esperá», «un momento», «alto ahí». No debe traducirse literalmente como «suave»." }
+          { term: "Soft", type: "Léxico histórico", title: "Soft", body: "Interjección que pide detenerse o bajar el ritmo: «espera», «un momento», «alto ahí». No debe traducirse literalmente como «suave»." }
         ], stageBefore: "Entra Menenio Agripa." },
         { line: "51–52", speaker: "citizen2", en: "Worthy Menenius Agrippa, one that hath always loved the people.", es: "El digno Menenio Agripa, uno que siempre ha querido al pueblo.", notes: [] },
         { line: "53–54", speaker: "citizen1", en: "He’s one honest enough. Would all the rest were so!", es: "Ese es bastante honrado. ¡Ojalá los demás fueran como él!", notes: [

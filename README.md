@@ -4,10 +4,12 @@ An experimental, buildless bilingual and annotated Shakespeare reader. Currently
 
 ## What the site does
 
-- Synchronized English/Spanish speeches, with full speaker labels on both sides.
+- A literary landing page with a work selector, followed by the reading view. Only genuinely available works appear as readable cards.
+- Synchronized English/Spanish speeches, with full speaker labels on both sides. The Spanish uses a general register without Argentine *voseo* or *vosotros*.
 - Contextual notes on words and constructions, as well as a small piece of textual criticism.
 - An accessible dramatis personae guide without spoilers beyond the sample.
 - Search in both languages, font controls, mobile language switch, browser-local bookmark.
+- Optional horizontal speech separators, off by default, with the reader preference stored locally.
 - Clear edition/provenance labels.
 
 ## Adding plays and scenes
@@ -15,6 +17,8 @@ An experimental, buildless bilingual and annotated Shakespeare reader. Currently
 The text/data model is in `data.js`. A work declares an `id`, titles and scene IDs. A scene declares an act, a scene, a setting, characters and an ordered array of bilingual blocks. Each block includes source line numbers, one speaker key, an English `en` string, an original Spanish `es` rendering, and optional notes keyed to a term in the English text. Notes whose terms overlap another annotation remain available as small supplementary buttons.
 
 The current interface reads the first scene in the array. Before adding a second scene, extend the library/scene navigation to select the correct scene; don't merely append it to the data and claim it's available. For substantial expansion, move each scene to its own JSON file and load scenes on demand, retaining this alignment model.
+
+The home page opens at the site root. `#coriolanus` is a direct link to the currently available reader. The brand button returns to the library. Sources and license details remain accessible through the home-page attribution and the reader's **Fuentes** control.
 
 ## Sources and rights
 

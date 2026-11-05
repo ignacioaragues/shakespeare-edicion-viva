@@ -12,14 +12,43 @@
   <link rel="stylesheet" href="./styles.css" />
 </head>
 <body>
-  <div class="app-shell" id="app-shell">
+  <section class="home-screen" id="home-screen" aria-labelledby="home-title">
+    <header class="home-topbar">
+      <div class="home-identity"><span class="home-monogram" aria-hidden="true">S<span>·</span></span><span class="home-wordmark">SHAKESPEARE<small>EDICIÓN VIVA</small></span></div>
+      <span class="home-nav-label">BIBLIOTECA DE LECTURA</span>
+    </header>
+    <main class="home-main">
+      <div class="home-intro">
+        <div class="home-kicker"><span class="home-kicker-line"></span> UNA EDICIÓN PARA LEER DESPACIO</div>
+        <h1 id="home-title">Shakespeare,<br /><em>sin perder</em><br />el hilo<span class="home-title-dot">.</span></h1>
+        <p>El texto inglés y una traducción de apoyo, uno junto al otro. Notas filológicas que aparecen solo cuando las necesitas. Nombres completos, personajes identificados y ninguna obligación de abandonar la página para entender un pasaje.</p>
+        <div class="home-method"><span>01 <b>Leer el original</b></span><span>02 <b>Contrastar la traducción</b></span><span>03 <b>Consultar las notas</b></span></div>
+      </div>
+      <section class="home-library" aria-labelledby="library-title">
+        <div class="library-heading"><span>LA BIBLIOTECA</span><span>01 OBRA EN PREPARACIÓN</span></div>
+        <h2 id="library-title">Elegir una obra</h2>
+        <p class="library-subtitle">La colección irá creciendo escena por escena, con traducción y comentarios revisables.</p>
+        <article class="work-card">
+          <div class="work-card-top"><span class="work-card-number">01 / TRAGEDIA ROMANA</span><span class="work-card-status"><span class="status-dot"></span> Muestra disponible</span></div>
+          <div class="work-card-main"><span class="work-card-letter" aria-hidden="true">C.</span><div><h3>Coriolanus</h3><span class="work-card-translation">Coriolano</span><p>William Shakespeare</p></div></div>
+          <p class="work-card-description">Roma, el hambre y la voz del pueblo. Disponible el comienzo del acto I, escena 1.</p>
+          <button id="open-reader" class="work-card-action" type="button">Entrar en la obra <span aria-hidden="true">↗</span></button>
+        </article>
+        <div class="library-future"><span aria-hidden="true">✳</span><p>Otras escenas y obras se incorporarán a medida que estén preparadas. Las que todavía no existen no se muestran como disponibles.</p></div>
+      </section>
+    </main>
+    <footer class="home-footer"><span>UN PROYECTO DE LECTURA FILOLÓGICA</span><span>Texto inglés: <a href="https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/" target="_blank" rel="noopener noreferrer">Folger Shakespeare Library</a> · <a href="https://creativecommons.org/licenses/by-nc/3.0/" target="_blank" rel="noopener noreferrer">CC BY-NC 3.0</a> · Uso no comercial</span></footer>
+  </section>
+
+  <div class="app-shell" id="app-shell" hidden>
     <header class="topbar">
-      <div class="brand">
+      <button class="brand" id="home-button" type="button" title="Volver a la biblioteca" aria-label="Volver a la biblioteca">
         <div class="brand-mark" aria-hidden="true">S<span>·</span></div>
         <div class="brand-name"><span>SHAKESPEARE</span><small>EDICIÓN VIVA</small></div>
-      </div>
+      </button>
       <div class="topbar-center">Un lector para detenerse en las palabras, sin perder la obra.</div>
       <div class="topbar-actions">
+        <button class="source-button" id="source-button" type="button">Fuentes</button>
         <button class="top-button help-button" id="help-button" aria-label="Cómo usar el lector" title="Cómo usar el lector">?</button>
         <button class="top-button mobile-contents-button" id="mobile-contents-button" aria-label="Mostrar contenidos" aria-expanded="false">☰ <span>Obras</span></button>
       </div>
@@ -75,6 +104,7 @@
         </div>
         <div class="controls-right">
           <label class="notes-switch" title="Mostrar u ocultar las notas en el original"><input type="checkbox" id="notes-toggle" checked /><span class="switch-track"><span class="switch-thumb"></span></span><span>Notas</span></label>
+          <label class="notes-switch divider-switch" title="Mostrar u ocultar las líneas entre intervenciones"><input type="checkbox" id="dividers-toggle" /><span class="switch-track"><span class="switch-thumb"></span></span><span>Separadores</span></label>
           <div class="control-divider"></div>
           <button class="type-button" id="font-minus" aria-label="Reducir tamaño de letra">A−</button>
           <button class="type-button" id="font-plus" aria-label="Aumentar tamaño de letra">A+</button>
@@ -92,19 +122,12 @@
         </div>
         <div class="stage-direction" id="stage-direction"></div>
         <div id="dialogue-container" aria-live="polite"></div>
-        <div class="empty-state" id="empty-state" hidden><strong>No encontramos ese texto.</strong><span>Probá con una palabra en inglés o español.</span><button id="clear-search">Limpiar búsqueda</button></div>
+        <div class="empty-state" id="empty-state" hidden><strong>No encontramos ese texto.</strong><span>Prueba con una palabra en inglés o español.</span><button id="clear-search">Limpiar búsqueda</button></div>
       </div>
-
-      <section class="afterword">
-        <span class="afterword-kicker">NOTA DE EDICIÓN</span>
-        <h2>El original es el punto de partida.</h2>
-        <p>La traducción de la derecha sirve para contrastar la comprensión; las notas distinguen entre dificultades de lengua, decisiones editoriales y posibles interpretaciones. Una explicación interpretativa no debe confundirse con un significado obligatorio del texto.</p>
-        <p class="credits">Base inglesa: <a href="https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/" target="_blank" rel="noopener noreferrer">Folger Digital Texts, Folger Shakespeare Library</a>, bajo <a href="https://creativecommons.org/licenses/by-nc/3.0/" target="_blank" rel="noopener noreferrer">CC BY-NC 3.0</a>. El extracto fue segmentado por parlamentos y adaptado a este formato bilingüe; se incorporaron marcas de anotación. Cotejo puntual: <a href="https://firstfolio.bodleian.ox.ac.uk/" target="_blank" rel="noopener noreferrer">Bodleian First Folio</a>. Traducción y notas españolas elaboradas para este proyecto. Uso no comercial.</p>
-      </section>
     </main>
 
     <aside class="character-rail" id="character-rail" aria-label="Personajes de esta escena">
-      <div class="rail-sticky"><div class="side-overline">EN ESTA ESCENA</div><p class="rail-lead">Quién habla, quién responde y quién todavía no ha entrado.</p><div id="character-list"></div><button id="full-guide-button" class="all-characters-button">Ver guía completa <span>↗</span></button><div class="rail-hint"><span class="rail-hint-icon">i</span> Tocá cualquier nombre de personaje para ver su ficha.</div></div>
+      <div class="rail-sticky"><div class="side-overline">EN ESTA ESCENA</div><p class="rail-lead">Quién habla, quién responde y quién todavía no ha entrado.</p><div id="character-list"></div><button id="full-guide-button" class="all-characters-button">Ver guía completa <span>↗</span></button><div class="rail-hint"><span class="rail-hint-icon">i</span> Selecciona cualquier nombre para ver su ficha.</div></div>
     </aside>
   </div>
 
