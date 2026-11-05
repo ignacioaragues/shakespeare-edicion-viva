@@ -112,13 +112,22 @@
       "last_line": 321,
       "editorial_state": "translated_source_checked",
       "note": "Brutus and Sicinius debate how Martius profits from serving under Cominius; five complete speeches through scene exit. Folger online checked."
+    },
+    {
+      "id": "coriolanus-1-2-322-343",
+      "act": 1,
+      "scene": 2,
+      "first_line": 322,
+      "last_line": 343,
+      "editorial_state": "translated_source_checked",
+      "note": "Opening of the Volscian senate scene; Aufidius reads intelligence from Rome, through the First Senator's reply. Three complete speeches. Folger global line numbering."
     }
   ],
   "next_fragment": {
     "act": 1,
     "scene": 2,
-    "start_after_line": 0,
-    "instruction": "Begin Folger Act I scene 2, line 1. Implement scene navigation before adding the new scene."
+    "start_after_line": 343,
+    "instruction": "Continue Folger global line 344, Aufidius: 'Nor did you think it folly...'."
   },
   "completed_acts": [],
   "last_update_commit": "atomic_commit_pending_sha",

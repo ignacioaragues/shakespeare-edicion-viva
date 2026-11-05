@@ -13,7 +13,7 @@ window.SHAKESPEARE_READER_DATA = {
       spanishTitle: "Coriolano",
       kind: "Tragedia romana",
       source: "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/",
-      sceneIds: ["coriolanus-1-1"]
+      sceneIds: ["coriolanus-1-1", "coriolanus-1-2"]
     }
   ],
   scenes: [
@@ -201,5 +201,101 @@ window.SHAKESPEARE_READER_DATA = {
         {"line":"321","speaker":"brutus","en":"Let’s along.","es":"Vamos.","notes":[],"stageAfter":"Salen Sicinio y Bruto. Fin de la escena primera."}
       ]
     }
+  ,{
+  "id": "coriolanus-1-2",
+  "workId": "coriolanus",
+  "act": 1,
+  "scene": 2,
+  "place": "Corioles · Cámara del Senado",
+  "sourceRef": "Folger Shakespeare Library · Acto I, escena 2",
+  "sectionLabel": "Edición en curso · líneas Folger 322–343",
+  "introduction": "En Corioles, Aufidio advierte a los senadores volscos de que Roma conoce sus preparativos militares. Una carta interceptada o recibida desde Roma confirma sus sospechas.",
+  "stage": "Entran Tulo Aufidio y senadores de Corioles.",
+  "characters": [
+    {
+      "id": "senator1",
+      "name": "Primer senador",
+      "english": "First Senator",
+      "identity": "Senador volsco de Corioles que consulta a Aufidio sobre los planes romanos.",
+      "color": "ink"
+    },
+    {
+      "id": "aufidius",
+      "name": "Tulo Aufidio",
+      "english": "Tullus Aufidius",
+      "identity": "Comandante volsco y rival militar de Cayo Marcio.",
+      "color": "violet"
+    }
+  ],
+  "blocks": [
+    {
+      "line": "322–324",
+      "speaker": "senator1",
+      "en": "So, your opinion is, Aufidius, That they of Rome are entered in our counsels And know how we proceed.",
+      "es": "Así pues, Aufidio, ¿opinas que los romanos se han infiltrado en nuestras deliberaciones y saben cómo pensamos actuar?",
+      "notes": [
+        {
+          "term": "entered in our counsels",
+          "type": "Léxico y sintaxis",
+          "title": "Penetrar en los planes",
+          "body": "Entered in significa aquí haber tenido acceso a información reservada; counsels designa deliberaciones o planes, no consejeros."
+        }
+      ]
+    },
+    {
+      "line": "325–340",
+      "speaker": "aufidius",
+      "en": "Is it not yours? Whatever have been thought on in this state That could be brought to bodily act ere Rome Had circumvention? ’Tis not four days gone Since I heard thence. These are the words—I think I have the letter here. Yes, here it is. They have pressed a power, but it is not known Whether for east or west. The dearth is great. The people mutinous; and, it is rumored, Cominius, Martius your old enemy, Who is of Rome worse hated than of you, And Titus Lartius, a most valiant Roman, These three lead on this preparation Whither ’tis bent. Most likely ’tis for you. Consider of it.",
+      "es": "¿Acaso tú no lo crees? ¿Qué se ha proyectado en este Estado que pudiera llevarse a la práctica antes de que Roma lo descubriera? No hace ni cuatro días que recibí noticias de allí. Estas son las palabras… Creo que tengo la carta aquí. Sí, aquí está. «Han reclutado un ejército, pero no se sabe si se dirige al este o al oeste. La escasez de alimentos es grave y el pueblo está amotinado. Se rumorea que Cominio, Marcio —tu antiguo enemigo, más odiado en Roma que por ti— y Tito Larcio, un romano muy valeroso, encabezan los preparativos, sea cual sea su destino. Lo más probable es que vengan contra ustedes. Ténganlo en cuenta».",
+      "notes": [
+        {
+          "term": "bodily act",
+          "type": "Léxico",
+          "title": "De la intención al hecho",
+          "body": "Bodily act contrapone la ejecución material de un plan a su mera concepción."
+        },
+        {
+          "term": "circumvention",
+          "type": "Semántica histórica",
+          "title": "Descubrimiento preventivo",
+          "body": "Circumvention puede implicar anticipación y frustración de los planes; Aufidio reprocha que Roma se haya adelantado a sus movimientos."
+        },
+        {
+          "term": "pressed a power",
+          "type": "Léxico militar",
+          "title": "Leva de tropas",
+          "body": "Pressed se refiere a reclutar o movilizar hombres para el servicio militar; power significa aquí fuerza armada."
+        },
+        {
+          "term": "Who is of Rome worse hated than of you",
+          "type": "Sintaxis",
+          "title": "Una comparación provocadora",
+          "body": "Of Rome y of you introducen los agentes del odio: Marcio es, según la carta, más odiado por los romanos que por el propio Aufidio. Es una afirmación del informante, no una verdad corroborada por la escena."
+        },
+        {
+          "term": "Consider of it",
+          "type": "Gramática histórica",
+          "title": "Consider of",
+          "body": "La preposición of acompaña aquí a consider; en el inglés actual suele omitirse al emplear el verbo transitivamente."
+        }
+      ],
+      "stageBefore": "Aufidio saca una carta y la lee."
+    },
+    {
+      "line": "341–343",
+      "speaker": "senator1",
+      "en": "Our army’s in the field. We never yet made doubt but Rome was ready To answer us.",
+      "es": "Nuestro ejército ya está en campaña. Nunca hemos dudado de que Roma estuviera preparada para responder a nuestro ataque.",
+      "notes": [
+        {
+          "term": "made doubt but",
+          "type": "Sintaxis histórica",
+          "title": "No dudar de que",
+          "body": "La secuencia negativa never ... doubt but equivale a «nunca dudamos de que»; but no expresa aquí una excepción adversativa."
+        }
+      ]
+    }
+  ]
+}
   ]
 };

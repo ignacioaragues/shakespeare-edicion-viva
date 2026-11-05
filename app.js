@@ -3,8 +3,8 @@
 
   const data = window.SHAKESPEARE_READER_DATA;
   if (!data || !data.scenes || !data.scenes.length) return;
-  const scene = data.scenes[0];
-  const characters = new Map(scene.characters.map((character) => [character.id, character]));
+  let scene = data.scenes.find((s) => s.id === (localStorage.getItem('shakespeare-scene') || 'coriolanus-1-1')) || data.scenes[0];
+  let characters = new Map(scene.characters.map((character) => [character.id, character]));
   const $ = (id) => document.getElementById(id);
   const STORAGE_KEY = 'shakespeare-edicion-viva-v1';
 
@@ -18,14 +18,15 @@
     dividers: stored.dividers === true,
     navCollapsed: stored.navCollapsed === true,
     charactersCollapsed: stored.charactersCollapsed === true,
-    bookmark: Number.isInteger(stored.bookmark) && stored.bookmark >= 0 && stored.bookmark < scene.blocks.length ? stored.bookmark : null,
+    bookmark: null,
     mobileLang: stored.mobileLang === 'es' ? 'es' : 'en',
     query: ''
   };
+  state.bookmark = Number.isInteger(stored.bookmarks?.[scene.id]) && stored.bookmarks[scene.id] < scene.blocks.length ? stored.bookmarks[scene.id] : (scene.id === 'coriolanus-1-1' && Number.isInteger(stored.bookmark) && stored.bookmark < scene.blocks.length ? stored.bookmark : null);
   let currentNoteTrigger = null;
 
   function persist() {
-    try { localStorage.setItem(STORAGE_KEY, JSON.stringify({ fontSize: state.fontSize, notes: state.notes, dividers: state.dividers, navCollapsed: state.navCollapsed, charactersCollapsed: state.charactersCollapsed, bookmark: state.bookmark, mobileLang: state.mobileLang })); }
+    try { localStorage.setItem(STORAGE_KEY, JSON.stringify({ fontSize: state.fontSize, notes: state.notes, dividers: state.dividers, navCollapsed: state.navCollapsed, charactersCollapsed: state.charactersCollapsed, bookmark: state.bookmark, bookmarks: {...(stored.bookmarks || {}), [scene.id]: state.bookmark}, mobileLang: state.mobileLang })); }
     catch (_) { /* Browsers that disable local storage still get the reader. */ }
   }
 
@@ -296,8 +297,28 @@
     if (!state.notes) closeNote();
   }
 
+  function selectScene(target) {
+    scene = target;
+    characters = new Map(scene.characters.map(character => [character.id, character]));
+    try { localStorage.setItem('shakespeare-scene', scene.id); } catch (_) {}
+    state.bookmark = Number.isInteger(stored.bookmarks?.[scene.id]) && stored.bookmarks[scene.id] < scene.blocks.length ? stored.bookmarks[scene.id] : null;
+    state.query = ''; $('search-input').value = '';
+    $('scene-introduction').textContent = scene.introduction;
+    $('stage-direction').textContent = scene.stage;
+    document.querySelector('.act-ornament').textContent = `${scene.act}.${scene.scene}`;
+    document.querySelector('.chapter-title').textContent = `ACTO ${scene.act} / ESCENA ${scene.scene}`;
+    document.querySelector('.heading-place').textContent = scene.place.toUpperCase();
+    document.querySelector('.sample-notice').textContent = `Edición en curso: ${scene.sectionLabel}.`;
+    document.querySelector('.popover-foot').textContent = `CORIOLANUS · ${scene.act}.${scene.scene}`;
+    document.querySelectorAll('[data-scene-id]').forEach(button => { const active = button.dataset.sceneId === scene.id; button.classList.toggle('active', active); if (active) button.setAttribute('aria-current','page'); else button.removeAttribute('aria-current'); });
+    renderCharacters(); renderSpeeches(); updateBookmark(); persist();
+    $('sidebar').classList.remove('open'); $('mobile-contents-button').setAttribute('aria-expanded','false');
+  }
+
   function showView() {
-    const reading = window.location.hash.toLowerCase() === '#coriolanus';
+    const reading = window.location.hash.toLowerCase().startsWith('#coriolanus');
+    const requested = window.location.hash.toLowerCase().match(/^#coriolanus-(\d+)-(\d+)$/);
+    if (requested) { const target = data.scenes.find(s => s.act === Number(requested[1]) && s.scene === Number(requested[2])); if (target && target !== scene) selectScene(target); }
     $('home-screen').hidden = reading;
     $('app-shell').hidden = !reading;
     if (!reading) {
@@ -334,7 +355,7 @@
     $('source-button').addEventListener('click', () => openModal('sources'));
     $('help-button').addEventListener('click', () => openModal('help'));
     window.addEventListener('hashchange', showView);
-    $('scene-nav').addEventListener('click', () => { window.scrollTo({ top: 0, behavior: 'smooth' }); $('sidebar').classList.remove('open'); $('mobile-contents-button').setAttribute('aria-expanded', 'false'); });
+    document.querySelectorAll('[data-scene-id]').forEach(button => button.addEventListener('click', () => { const target = data.scenes.find(s => s.id === button.dataset.sceneId); if (target) { selectScene(target); window.location.hash = `coriolanus-${target.act}-${target.scene}`; window.scrollTo({top:0,behavior:'smooth'}); } }));
     $('mobile-contents-button').addEventListener('click', () => {
       const open = $('sidebar').classList.toggle('open');
       $('mobile-contents-button').setAttribute('aria-expanded', String(open));
@@ -364,8 +385,7 @@
 
   $('scene-introduction').textContent = scene.introduction;
   $('stage-direction').textContent = scene.stage;
-  renderCharacters();
-  renderSpeeches();
+  selectScene(scene);
   applyPreferences();
   updateBookmark();
   addListeners();
