@@ -67,13 +67,22 @@
       "last_line": 219,
       "editorial_state": "translated_source_checked",
       "note": "Menenius reports the grain demand; Martius threatens slaughter; Menenius asks about the other crowd. Three complete speeches."
+    },
+    {
+      "id": "coriolanus-1-1-220-245",
+      "act": 1,
+      "scene": 1,
+      "first_line": 220,
+      "last_line": 245,
+      "editorial_state": "translated_source_checked",
+      "note": "Martius reports the dispersal and the concession of five tribunes; five complete speech blocks. Folger online checked."
     }
   ],
   "next_fragment": {
     "act": 1,
     "scene": 1,
-    "start_after_line": 219,
-    "instruction": "Continue at Folger line 220 with Martius' account of the other crowd and the concession of tribunes."
+    "start_after_line": 245,
+    "instruction": "Continue with the Messenger's entrance and news of the Volsces at Folger line 246."
   },
   "completed_acts": [],
   "last_update_commit": "atomic_commit_pending_sha",
