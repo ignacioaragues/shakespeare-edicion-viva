@@ -94,13 +94,22 @@
       "last_line": 279,
       "editorial_state": "translated_source_checked",
       "note": "Martius and Aufidius as rivals; the command under Cominius and Lartius' pledge; nine complete speeches, Folger checked."
+    },
+    {
+      "id": "coriolanus-1-1-280-300",
+      "act": 1,
+      "scene": 1,
+      "first_line": 280,
+      "last_line": 300,
+      "editorial_state": "translated_source_checked",
+      "note": "Military departure and the tribunes' critique of Martius; 13 complete speeches, Folger online checked."
     }
   ],
   "next_fragment": {
     "act": 1,
     "scene": 1,
-    "start_after_line": 279,
-    "instruction": "Continue at Folger line 280 with Cominius' response."
+    "start_after_line": 300,
+    "instruction": "Continue at Folger line 301 with Brutus' assessment of Martius' subordinate command."
   },
   "completed_acts": [],
   "last_update_commit": "atomic_commit_pending_sha",
