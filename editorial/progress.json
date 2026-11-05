@@ -85,13 +85,22 @@
       "last_line": 258,
       "editorial_state": "translated_source_checked",
       "note": "Messenger announces the Volscian mobilization; Martius admires Aufidius; six complete speeches."
+    },
+    {
+      "id": "coriolanus-1-1-259-279",
+      "act": 1,
+      "scene": 1,
+      "first_line": 259,
+      "last_line": 279,
+      "editorial_state": "translated_source_checked",
+      "note": "Martius and Aufidius as rivals; the command under Cominius and Lartius' pledge; nine complete speeches, Folger checked."
     }
   ],
   "next_fragment": {
     "act": 1,
     "scene": 1,
-    "start_after_line": 258,
-    "instruction": "Continue at Folger line 259 with Cominius' question."
+    "start_after_line": 279,
+    "instruction": "Continue at Folger line 280 with Cominius' response."
   },
   "completed_acts": [],
   "last_update_commit": "atomic_commit_pending_sha",
