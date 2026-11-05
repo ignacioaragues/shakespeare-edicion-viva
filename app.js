@@ -16,6 +16,8 @@
     fontSize: Math.max(15, Math.min(22, Number(stored.fontSize) || 17)),
     notes: stored.notes !== false,
     dividers: stored.dividers === true,
+    navCollapsed: stored.navCollapsed === true,
+    charactersCollapsed: stored.charactersCollapsed === true,
     bookmark: Number.isInteger(stored.bookmark) && stored.bookmark >= 0 && stored.bookmark < scene.blocks.length ? stored.bookmark : null,
     mobileLang: stored.mobileLang === 'es' ? 'es' : 'en',
     query: ''
@@ -23,7 +25,7 @@
   let currentNoteTrigger = null;
 
   function persist() {
-    try { localStorage.setItem(STORAGE_KEY, JSON.stringify({ fontSize: state.fontSize, notes: state.notes, dividers: state.dividers, bookmark: state.bookmark, mobileLang: state.mobileLang })); }
+    try { localStorage.setItem(STORAGE_KEY, JSON.stringify({ fontSize: state.fontSize, notes: state.notes, dividers: state.dividers, navCollapsed: state.navCollapsed, charactersCollapsed: state.charactersCollapsed, bookmark: state.bookmark, mobileLang: state.mobileLang })); }
     catch (_) { /* Browsers that disable local storage still get the reader. */ }
   }
 
@@ -283,6 +285,14 @@
     $('lang-es').classList.toggle('active', state.mobileLang === 'es');
     $('lang-en').setAttribute('aria-pressed', String(state.mobileLang === 'en'));
     $('lang-es').setAttribute('aria-pressed', String(state.mobileLang === 'es'));
+    $('app-shell').classList.toggle('nav-collapsed', state.navCollapsed);
+    $('app-shell').classList.toggle('characters-collapsed', state.charactersCollapsed);
+    $('nav-panel-toggle').setAttribute('aria-expanded', String(!state.navCollapsed));
+    $('characters-panel-toggle').setAttribute('aria-expanded', String(!state.charactersCollapsed));
+    $('nav-panel-toggle').title = state.navCollapsed ? 'Desplegar navegación y posición de lectura' : 'Replegar navegación y posición de lectura';
+    $('characters-panel-toggle').title = state.charactersCollapsed ? 'Desplegar personajes' : 'Replegar personajes';
+    $('nav-toggle-icon').textContent = state.navCollapsed ? '→' : '←';
+    $('characters-toggle-icon').textContent = state.charactersCollapsed ? '←' : '→';
     if (!state.notes) closeNote();
   }
 
@@ -309,6 +319,8 @@
     $('clear-search').addEventListener('click', () => { $('search-input').value = ''; state.query = ''; renderSpeeches(); updateBookmark(); $('search-input').focus(); });
     $('notes-toggle').addEventListener('change', (event) => { state.notes = event.target.checked; applyPreferences(); persist(); });
     $('dividers-toggle').addEventListener('change', (event) => { state.dividers = event.target.checked; applyPreferences(); persist(); });
+    $('nav-panel-toggle').addEventListener('click', () => { state.navCollapsed = !state.navCollapsed; applyPreferences(); persist(); });
+    $('characters-panel-toggle').addEventListener('click', () => { state.charactersCollapsed = !state.charactersCollapsed; applyPreferences(); persist(); });
     $('font-minus').addEventListener('click', () => { state.fontSize = Math.max(15, state.fontSize - 1); applyPreferences(); persist(); });
     $('font-plus').addEventListener('click', () => { state.fontSize = Math.min(22, state.fontSize + 1); applyPreferences(); persist(); });
     $('lang-en').addEventListener('click', () => { state.mobileLang = 'en'; applyPreferences(); persist(); });
