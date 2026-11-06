@@ -265,13 +265,22 @@
       "last_line": 599,
       "editorial_state": "translated_source_checked",
       "note": "Three complete closing speeches: Lartius blesses Martius, Martius returns the wish, and Lartius summons the city officers; Folger online checked. I.5 complete pending review."
+    },
+    {
+      "id": "coriolanus-1-6-600-626",
+      "act": 1,
+      "scene": 6,
+      "first_line": 600,
+      "last_line": 626,
+      "editorial_state": "translated_source_checked",
+      "note": "Seven complete speech blocks: Cominius and messenger; checked against Folger online."
     }
   ],
   "next_fragment": {
     "act": 1,
     "scene": 6,
-    "start_after_line": 599,
-    "instruction": "Begin Folger 600 in I.6; add scene to navigation before publishing."
+    "start_after_line": 626,
+    "instruction": "Resume at Folger 627 with the arrival of bloodied Martius."
   },
   "completed_acts": [],
   "last_update_commit": "atomic_commit_pending_sha",

@@ -13,7 +13,7 @@ window.SHAKESPEARE_READER_DATA = {
       spanishTitle: "Coriolano",
       kind: "Tragedia romana",
       source: "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/",
-      sceneIds: ["coriolanus-1-1", "coriolanus-1-2", "coriolanus-1-3", "coriolanus-1-4", "coriolanus-1-5"]
+      sceneIds: ["coriolanus-1-1", "coriolanus-1-2", "coriolanus-1-3", "coriolanus-1-4", "coriolanus-1-5", "coriolanus-1-6"]
     }
   ],
   scenes: [
@@ -1751,6 +1751,231 @@ window.SHAKESPEARE_READER_DATA = {
         {"line":"590–593","speaker":"lartius","en":"Now the fair goddess Fortune Fall deep in love with thee, and her great charms Misguide thy opposers’ swords! Bold gentleman, Prosperity be thy page!","es":"¡Que ahora la hermosa diosa Fortuna se enamore perdidamente de ti y que sus poderosos encantos desvíen las espadas de tus adversarios! ¡Valiente caballero, que la prosperidad te acompañe como un paje!","notes":[{"term":"Fall deep in love","type":"Gramática histórica","title":"Deseo expresado sin may","body":"El verbo en forma simple introduce aquí un deseo o bendición: «que se enamore»; no describe un hecho."},{"term":"Misguide","type":"Léxico y retórica","title":"Desviar las espadas","body":"El verbo expresa que las armas enemigas pierdan su dirección, por intervención de Fortuna."},{"term":"Prosperity be thy page","type":"Personificación","title":"La prosperidad como paje","body":"Page designa al joven servidor o acompañante de un caballero. La prosperidad queda figurada como su asistente constante."}]},
         {"line":"594–595","speaker":"martius","en":"Thy friend no less Than those she placeth highest! So farewell.","es":"¡Y que sea tan amiga tuya como de aquellos a quienes eleva más alto! Adiós.","notes":[{"term":"Thy friend","type":"Sintaxis elíptica","title":"Continúa el deseo anterior","body":"Marcio retoma a Fortuna, mencionada por Larcio, y desea que también favorezca a su compañero."},{"term":"placeth","type":"Gramática histórica","title":"Terminación -eth","body":"Placeth es la tercera persona singular del presente de place; equivale a «coloca» o «sitúa»."}]},
         {"line":"596–599","speaker":"lartius","en":"Thou worthiest Martius! Go sound thy trumpet in the marketplace. Call thither all the officers o’ th’ town, Where they shall know our mind. Away!","es":"¡Marcio, el más digno de todos! Ve y haz sonar tu trompeta en la plaza del mercado. Convoca allí a todos los oficiales de la ciudad, donde conocerán nuestras órdenes. ¡En marcha!","stageBefore":"Marcio sale.","notes":[{"term":"Thou worthiest Martius","type":"Gramática y apelación","title":"Superlativo enfático","body":"Worthiest es el superlativo de worthy. La construcción apostrófica elogia directamente a Marcio."},{"term":"thither","type":"Léxico histórico","title":"Hacia allí","body":"Adverbio direccional que remite a la plaza del mercado recién mencionada."},{"term":"our mind","type":"Léxico contextual","title":"Nuestra voluntad","body":"Mind designa aquí la intención o decisión de los mandos romanos, que los oficiales deberán conocer."}]}
+      ]
+    },
+    {
+      "id": "coriolanus-1-6",
+      "workId": "coriolanus",
+      "act": 1,
+      "scene": 6,
+      "place": "Campo de batalla cercano a Corioles",
+      "sourceRef": "Folger Shakespeare Library · Acto I, escena 6",
+      "sectionLabel": "Edición en curso · líneas Folger 600–626",
+      "introduction": "Cominio ha hecho retroceder a sus hombres sin perder la disciplina. Mientras aguarda otro ataque, recibe noticias inquietantes del frente de Corioles.",
+      "stage": "Entra Cominio con soldados, en aparente retirada.",
+      "characters": [
+        {
+          "id": "cominius",
+          "name": "Cominio",
+          "english": "Cominius",
+          "identity": "General romano que dirige las tropas en este sector del campo de batalla.",
+          "color": "ink"
+        },
+        {
+          "id": "messenger",
+          "name": "Mensajero",
+          "english": "Messenger",
+          "identity": "Enviado que informa a Cominio de la situación ante Corioles.",
+          "color": "copper"
+        }
+      ],
+      "blocks": [
+        {
+          "line": "600–610",
+          "speaker": "cominius",
+          "en": "Breathe you, my friends. Well fought! We are come off Like Romans, neither foolish in our stands Nor cowardly in retire. Believe me, sirs, We shall be charged again. Whiles we have struck, By interims and conveying gusts we have heard The charges of our friends. The Roman gods Lead their successes as we wish our own, That both our powers, with smiling fronts encount’ring, May give you thankful sacrifice!",
+          "es": "Recobren el aliento, amigos. ¡Han combatido bien! Hemos salido del encuentro como romanos: sin obstinarnos neciamente al resistir ni acobardarnos al retirarnos. Créanme, señores: volverán a atacarnos. Mientras luchábamos, entre una pausa y otra, las ráfagas de viento nos trajeron el estruendo de las acometidas de nuestros compañeros. ¡Que los dioses de Roma guíen sus victorias, como deseamos que guíen las nuestras, para que ambos ejércitos, al reunirse con rostros alegres, puedan ofrecerles sacrificios de gratitud!",
+          "notes": [
+            {
+              "term": "Breathe you",
+              "type": "Gramática histórica",
+              "title": "Imperativo con pronombre",
+              "body": "La construcción exhorta a los soldados a tomar aliento; you aparece tras el verbo."
+            },
+            {
+              "term": "come off",
+              "type": "Léxico militar",
+              "title": "Salir del combate",
+              "body": "Significa salir de una acción militar, no necesariamente huir."
+            },
+            {
+              "term": "stands",
+              "type": "Léxico militar",
+              "title": "Resistencia",
+              "body": "Alude a mantenerse firme frente al enemigo."
+            },
+            {
+              "term": "retire",
+              "type": "Léxico histórico",
+              "title": "Retirada",
+              "body": "Aquí retire es sustantivo, no verbo."
+            },
+            {
+              "term": "Whiles",
+              "type": "Gramática histórica",
+              "title": "Mientras",
+              "body": "Variante histórica de while como conjunción."
+            },
+            {
+              "term": "conveying gusts",
+              "type": "Imagen acústica",
+              "title": "Ráfagas que transportan sonidos",
+              "body": "El viento lleva hasta Cominio el ruido del combate distante."
+            },
+            {
+              "term": "smiling fronts",
+              "type": "Retórica",
+              "title": "Rostros y frentes",
+              "body": "Fronts puede evocar rostros y frentes militares; la imagen anticipa el encuentro amistoso."
+            },
+            {
+              "term": "thankful sacrifice",
+              "type": "Contexto religioso",
+              "title": "Ofrenda de gratitud",
+              "body": "Sacrificio ofrecido a los dioses por una victoria, no sacrificio humano."
+            }
+          ]
+        },
+        {
+          "line": "611",
+          "speaker": "cominius",
+          "en": "Thy news?",
+          "es": "¿Qué noticias traes?",
+          "notes": [
+            {
+              "term": "Thy",
+              "type": "Gramática histórica",
+              "title": "Posesivo singular",
+              "body": "Thy equivale a «tu»; se dirige a un solo mensajero."
+            }
+          ],
+          "stageBefore": "Entra un mensajero."
+        },
+        {
+          "line": "612–615",
+          "speaker": "messenger",
+          "en": "The citizens of Corioles have issued And given to Lartius and to Martius battle. I saw our party to their trenches driven, And then I came away.",
+          "es": "Los habitantes de Corioles han salido de la ciudad y han presentado batalla a Larcio y a Marcio. Vi cómo obligaban a nuestras tropas a retroceder hasta sus trincheras; entonces me marché.",
+          "notes": [
+            {
+              "term": "issued",
+              "type": "Léxico histórico",
+              "title": "Salir",
+              "body": "Issue significa salir de un recinto; aquí, de la ciudad."
+            },
+            {
+              "term": "given to Lartius and to Martius battle",
+              "type": "Sintaxis",
+              "title": "Presentar batalla",
+              "body": "El orden de los complementos difiere del español habitual."
+            },
+            {
+              "term": "our party",
+              "type": "Léxico militar",
+              "title": "Nuestras tropas",
+              "body": "Party se refiere aquí a un destacamento militar."
+            },
+            {
+              "term": "trenches",
+              "type": "Léxico militar",
+              "title": "Trincheras",
+              "body": "El mensajero describe un retroceso hasta las posiciones romanas."
+            }
+          ]
+        },
+        {
+          "line": "616–618",
+          "speaker": "cominius",
+          "en": "Though thou speakest truth, Methinks thou speak’st not well. How long is ’t since?",
+          "es": "Aunque dices la verdad, me parece que no traes buenas noticias. ¿Cuánto tiempo hace de eso?",
+          "notes": [
+            {
+              "term": "Methinks",
+              "type": "Gramática histórica",
+              "title": "Me parece",
+              "body": "Construcción impersonal histórica."
+            },
+            {
+              "term": "speak’st not well",
+              "type": "Interpretación",
+              "title": "Verdad y malas noticias",
+              "body": "Cominio distingue la veracidad del informe de su contenido desfavorable."
+            }
+          ]
+        },
+        {
+          "line": "619",
+          "speaker": "messenger",
+          "en": "Above an hour, my lord.",
+          "es": "Más de una hora, señor.",
+          "notes": [
+            {
+              "term": "Above",
+              "type": "Léxico histórico",
+              "title": "Más de",
+              "body": "Expresa una cantidad superior, no posición espacial."
+            }
+          ]
+        },
+        {
+          "line": "620–622",
+          "speaker": "cominius",
+          "en": "’Tis not a mile; briefly we heard their drums. How couldst thou in a mile confound an hour And bring thy news so late?",
+          "es": "No hay ni una milla de distancia; hace poco oímos sus tambores. ¿Cómo has podido tardar una hora en recorrer una milla y traer las noticias tan tarde?",
+          "notes": [
+            {
+              "term": "briefly",
+              "type": "Léxico histórico",
+              "title": "Hace poco",
+              "body": "Aquí indica un momento reciente, no una duración breve."
+            },
+            {
+              "term": "confound an hour",
+              "type": "Retórica",
+              "title": "Consumir una hora",
+              "body": "Cominio reprocha la demora desproporcionada."
+            },
+            {
+              "term": "couldst thou",
+              "type": "Gramática histórica",
+              "title": "Segunda persona singular",
+              "body": "Couldst es forma histórica singular con thou."
+            }
+          ]
+        },
+        {
+          "line": "623–626",
+          "speaker": "messenger",
+          "en": "Spies of the Volsces Held me in chase, that I was forced to wheel Three or four miles about; else had I, sir, Half an hour since brought my report.",
+          "es": "Unos exploradores volscos me persiguieron, y tuve que dar un rodeo de tres o cuatro millas; de otro modo, señor, habría traído mi informe hace media hora.",
+          "notes": [
+            {
+              "term": "Spies",
+              "type": "Léxico militar",
+              "title": "Exploradores",
+              "body": "Agentes enemigos que vigilan movimientos y aquí persiguen al mensajero."
+            },
+            {
+              "term": "Held me in chase",
+              "type": "Locución",
+              "title": "Mantener la persecución",
+              "body": "Expresa que estuvo siendo perseguido durante el recorrido."
+            },
+            {
+              "term": "wheel",
+              "type": "Léxico de movimiento",
+              "title": "Dar un rodeo",
+              "body": "Cambiar de dirección para evitar a los perseguidores."
+            },
+            {
+              "term": "else had I",
+              "type": "Gramática histórica",
+              "title": "Condicional con inversión",
+              "body": "La inversión auxiliar-sujeto expresa un resultado hipotético."
+            }
+          ],
+          "stageBefore": "El mensajero sale."
+        }
       ]
     }
   ]
