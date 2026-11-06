@@ -283,13 +283,22 @@
       "last_line": 648,
       "editorial_state": "translated_source_checked",
       "note": "Eight complete speeches: Martius reunites with Cominius and reports Lartius' control of Corioles; checked against Folger online."
+    },
+    {
+      "id": "coriolanus-1-6-649-669",
+      "act": 1,
+      "scene": 6,
+      "first_line": 649,
+      "last_line": 669,
+      "editorial_state": "translated_source_checked",
+      "note": "Seven complete speeches: Cominius questions the messenger, Martius defends him and asks about Aufidius' vanguard; Folger online checked."
     }
   ],
   "next_fragment": {
     "act": 1,
     "scene": 6,
-    "start_after_line": 648,
-    "instruction": "Resume at Folger 649: Cominius calls for the messenger and Martius defends his earlier report."
+    "start_after_line": 669,
+    "instruction": "Resume at Folger 670: Martius asks to be set against Aufidius and the Antiates."
   },
   "completed_acts": [],
   "last_update_commit": "atomic_commit_pending_sha",

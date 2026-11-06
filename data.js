@@ -2156,7 +2156,183 @@ window.SHAKESPEARE_READER_DATA = {
                               "body": "Slip puede referirse a soltar un perro de caza; el símil sugiere el control de Larcio sobre Corioles, no necesariamente una decisión literal de liberarla."
                     }
           ]
-}
+},
+        {
+          "line": "649–651",
+          "speaker": "cominius",
+          "en": "Where is that slave Which told me they had beat you to your trenches? Where is he? Call him hither.",
+          "es": "¿Dónde está ese miserable que me dijo que los habían hecho retroceder hasta sus trincheras? ¿Dónde está? Que lo llamen.",
+          "notes": [
+            {
+              "term": "slave",
+              "type": "Insulto",
+              "title": "Descalificación del mensajero",
+              "body": "Cominio emplea slave como insulto, no como prueba de que el mensajero sea jurídicamente esclavo."
+            },
+            {
+              "term": "had beat you",
+              "type": "Gramática histórica",
+              "title": "Participio beat",
+              "body": "Beat funciona aquí como participio de beat, donde el inglés contemporáneo suele preferir beaten."
+            },
+            {
+              "term": "hither",
+              "type": "Léxico histórico",
+              "title": "Hacia aquí",
+              "body": "Adverbio direccional: Cominio exige que hagan venir al mensajero."
+            }
+          ]
+        },
+        {
+          "line": "652–656",
+          "speaker": "martius",
+          "en": "Let him alone. He did inform the truth. But for our gentlemen, The common file—a plague! Tribunes for them!— The mouse ne’er shunned the cat as they did budge From rascals worse than they.",
+          "es": "Déjalo en paz. Dijo la verdad. Si no hubiera sido por nuestros caballeros, la tropa común... ¡Que la peste se los lleve! ¡Y les conceden tribunos! Ni un ratón ha huido jamás de un gato como ellos huyeron de unos miserables peores que ellos.",
+          "notes": [
+            {
+              "term": "Let him alone",
+              "type": "Locución",
+              "title": "No lo molestes",
+              "body": "Marcio protege al mensajero: el informe era verdadero cuando se produjo."
+            },
+            {
+              "term": "common file",
+              "type": "Léxico militar",
+              "title": "La tropa común",
+              "body": "File puede designar a los soldados rasos, en contraste con los gentlemen mencionados antes."
+            },
+            {
+              "term": "Tribunes for them",
+              "type": "Contexto político",
+              "title": "La concesión de tribunos",
+              "body": "La exclamación retoma con desprecio la representación política concedida a la plebe en I.1."
+            },
+            {
+              "term": "ne’er shunned",
+              "type": "Léxico y comparación",
+              "title": "Nunca rehuyó",
+              "body": "Ne’er equivale a never; el ratón que evita al gato intensifica la acusación de cobardía."
+            },
+            {
+              "term": "But for",
+              "type": "Sintaxis e interpretación",
+              "title": "Contraste con los oficiales",
+              "body": "La construcción introduce una salvedad: Marcio distingue a los caballeros de la tropa común, a la que culpa de la retirada."
+            }
+          ]
+        },
+        {
+          "line": "657",
+          "speaker": "cominius",
+          "en": "But how prevailed you?",
+          "es": "Pero ¿cómo consiguieron imponerse?",
+          "notes": [
+            {
+              "term": "prevailed",
+              "type": "Léxico",
+              "title": "Prevalecer en combate",
+              "body": "Cominio pregunta por el resultado de la lucha, no por una opinión que haya convencido a otros."
+            }
+          ]
+        },
+        {
+          "line": "658–660",
+          "speaker": "martius",
+          "en": "Will the time serve to tell? I do not think. Where is the enemy? Are you lords o’ th’ field? If not, why cease you till you are so?",
+          "es": "¿Hay tiempo para contarlo? No lo creo. ¿Dónde está el enemigo? ¿Dominan ustedes el campo de batalla? Si no es así, ¿por qué se detienen antes de conseguirlo?",
+          "notes": [
+            {
+              "term": "Will the time serve",
+              "type": "Locución",
+              "title": "¿Hay tiempo suficiente?",
+              "body": "Serve expresa aquí que el tiempo alcance para una tarea."
+            },
+            {
+              "term": "lords o’ th’ field",
+              "type": "Metáfora militar",
+              "title": "Dueños del campo",
+              "body": "Ser señores del campo equivale a controlar la posición tras la batalla."
+            },
+            {
+              "term": "why cease you",
+              "type": "Sintaxis histórica",
+              "title": "Interrogación sin do",
+              "body": "El verbo léxico precede al sujeto sin el auxiliar do habitual en el inglés actual."
+            }
+          ]
+        },
+        {
+          "line": "661–662",
+          "speaker": "cominius",
+          "en": "Martius, we have at disadvantage fought And did retire to win our purpose.",
+          "es": "Marcio, hemos combatido en inferioridad de condiciones y nos retiramos para alcanzar nuestro objetivo.",
+          "notes": [
+            {
+              "term": "at disadvantage",
+              "type": "Léxico militar",
+              "title": "En condiciones desfavorables",
+              "body": "La expresión indica desventaja táctica, no necesariamente inferioridad numérica."
+            },
+            {
+              "term": "retire to win our purpose",
+              "type": "Estrategia",
+              "title": "Retirada deliberada",
+              "body": "Cominio presenta la retirada como un medio para lograr su objetivo; el texto no especifica aquí todos los detalles del plan."
+            }
+          ]
+        },
+        {
+          "line": "663–664",
+          "speaker": "martius",
+          "en": "How lies their battle? Know you on which side They have placed their men of trust?",
+          "es": "¿Cómo está dispuesto su ejército? ¿Sabes en qué flanco han situado a sus hombres de mayor confianza?",
+          "notes": [
+            {
+              "term": "battle",
+              "type": "Léxico militar",
+              "title": "Formación de combate",
+              "body": "Battle puede designar el cuerpo de tropas o su disposición, no solo el enfrentamiento mismo."
+            },
+            {
+              "term": "men of trust",
+              "type": "Léxico",
+              "title": "Tropas de confianza",
+              "body": "La expresión destaca a los soldados considerados más fiables por sus mandos."
+            }
+          ]
+        },
+        {
+          "line": "665–669",
+          "speaker": "cominius",
+          "en": "As I guess, Martius, Their bands i’ th’ vaward are the Antiates, Of their best trust; o’er them Aufidius, Their very heart of hope.",
+          "es": "Por lo que puedo deducir, Marcio, los destacamentos de la vanguardia son los de Ancio, sus tropas de mayor confianza. Los manda Aufidio, en quien depositan todas sus esperanzas.",
+          "notes": [
+            {
+              "term": "As I guess",
+              "type": "Modalidad",
+              "title": "Información no confirmada",
+              "body": "Cominio presenta la identificación de las tropas como una conjetura, no como certeza."
+            },
+            {
+              "term": "vaward",
+              "type": "Léxico militar histórico",
+              "title": "Vanguardia",
+              "body": "Forma histórica de vanward: la parte adelantada de una formación militar."
+            },
+            {
+              "term": "Antiates",
+              "type": "Geografía y gentilicio",
+              "title": "Los de Ancio",
+              "body": "Designa a los hombres de Antium (Ancio), ciudad volsca; no debe confundirse con el conjunto de los volscos."
+            },
+            {
+              "term": "heart of hope",
+              "type": "Metáfora",
+              "title": "Centro de sus esperanzas",
+              "body": "Aufidio aparece como el sostén principal de la confianza militar volsca."
+            }
+          ]
+        }
       ]
     }
   ]
