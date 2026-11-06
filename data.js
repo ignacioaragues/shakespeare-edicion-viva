@@ -782,7 +782,8 @@ window.SHAKESPEARE_READER_DATA = {
             "title": "Motivo bordado",
             "body": "Spot puede referirse a un pequeño motivo ornamental de la labor de aguja, no necesariamente a una mancha."
         }
-    ],
+    ]
+},
 {
   "line": "426",
   "speaker": "virgilia",
