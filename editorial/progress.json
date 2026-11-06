@@ -238,13 +238,22 @@
       "last_line": 564,
       "editorial_state": "translated_source_checked",
       "note": "Eight complete speeches: soldiers react to Marcio shut inside Corioles; Lartius praises him. Folger online checked."
+    },
+    {
+      "id": "coriolanus-1-4-565-567",
+      "act": 1,
+      "scene": 4,
+      "first_line": 565,
+      "last_line": 567,
+      "editorial_state": "translated_source_checked",
+      "note": "Two complete closing speeches: Martius returns bloodied and Lartius rallies the Romans to rescue him; Folger online checked. Scene I.4 complete pending full editorial review."
     }
   ],
   "next_fragment": {
     "act": 1,
-    "scene": 4,
-    "start_after_line": 564,
-    "instruction": "Continue at Folger 565, Martius returns bleeding; close scene I.4."
+    "scene": 5,
+    "start_after_line": 567,
+    "instruction": "Begin Folger 568 in I.5; create navigable scene before publishing new dialogue."
   },
   "completed_acts": [],
   "last_update_commit": "atomic_commit_pending_sha",
