@@ -465,7 +465,7 @@ window.SHAKESPEARE_READER_DATA = {
   "scene": 3,
   "place": "Roma · Casa de Cayo Marcio",
   "sourceRef": "Folger Shakespeare Library · Acto I, escena 3",
-  "sectionLabel": "Edición en curso · líneas Folger 370–389",
+  "sectionLabel": "Edición en curso · líneas Folger 370–409",
   "introduction": "Volumnia y Virgilia contraponen la gloria militar y el temor por la vida de Marcio.",
   "stage": "Entran Volumnia y Virgilia, madre y esposa de Marcio. Se sientan en dos taburetes bajos y cosen.",
   "characters": [
@@ -546,6 +546,117 @@ window.SHAKESPEARE_READER_DATA = {
           "type": "Léxico",
           "title": "La empresa",
           "body": "Designa la campaña militar, no un negocio comercial."
+        }
+      ]
+    },
+    {
+      "line": "390–396",
+      "speaker": "volumnia",
+      "en": "Then his good report should have been my son; I therein would have found issue. Hear me profess sincerely: had I a dozen sons, each in my love alike and none less dear than thine and my good Martius, I had rather had eleven die nobly for their country than one voluptuously surfeit out of action.",
+      "es": "Entonces su buena fama habría sido mi hijo; en ella habría encontrado descendencia. Escucha lo que afirmo con toda sinceridad: si tuviera doce hijos, a todos igualmente queridos y ninguno menos amado que tu esposo, mi buen Marcio, preferiría que once murieran noblemente por su patria antes que ver a uno solo entregarse a los placeres hasta hartarse, sin hacer nada.",
+      "notes": [
+        {
+          "term": "good report",
+          "type": "Léxico",
+          "title": "La fama que sobrevive",
+          "body": "Report designa aquí la reputación pública del muerto, no un informe. Volumnia convierte metafóricamente la fama póstuma en sustituto del hijo."
+        },
+        {
+          "term": "issue",
+          "type": "Semántica histórica",
+          "title": "Descendencia",
+          "body": "Issue significa prole o descendencia: Volumnia prolonga la metáfora al imaginar la reputación de Marcio como su descendiente."
+        },
+        {
+          "term": "had I a dozen sons",
+          "type": "Sintaxis",
+          "title": "Condicional invertida",
+          "body": "Had I equivale a if I had; la inversión introduce una hipótesis sin la conjunción if."
+        },
+        {
+          "term": "thine",
+          "type": "Gramática histórica",
+          "title": "Posesivo singular",
+          "body": "Thine es posesivo de segunda persona singular; Volumnia se dirige a Virgilia, esposa de Marcio."
+        },
+        {
+          "term": "voluptuously surfeit out of action",
+          "type": "Léxico y retórica",
+          "title": "Hastío de placeres e inacción",
+          "body": "Surfeit implica exceso hasta la saciedad. La expresión opone el morir noblemente en servicio activo a consumir la vida en placeres e inactividad; no alude a una muerte por indigestión literal."
+        }
+      ]
+    },
+    {
+      "line": "397–398",
+      "speaker": "gentlewoman",
+      "stageBefore": "Entra una dama de compañía.",
+      "en": "Madam, the Lady Valeria is come to visit you.",
+      "es": "Señora, lady Valeria ha venido a visitarla.",
+      "notes": [
+        {
+          "term": "is come",
+          "type": "Gramática histórica",
+          "title": "Perfecto con be",
+          "body": "Is come emplea be como auxiliar de un verbo de movimiento, construcción frecuente en inglés de la época; en español se expresa naturalmente como «ha venido»."
+        }
+      ]
+    },
+    {
+      "line": "399",
+      "speaker": "virgilia",
+      "en": "Beseech you, give me leave to retire myself.",
+      "es": "Le ruego que me permita retirarme.",
+      "notes": [
+        {
+          "term": "Beseech you",
+          "type": "Sintaxis",
+          "title": "Sujeto omitido",
+          "body": "Se sobreentiende I: «I beseech you». Es una fórmula cortés de petición."
+        }
+      ]
+    },
+    {
+      "line": "400–409",
+      "speaker": "volumnia",
+      "en": "Indeed you shall not. Methinks I hear hither your husband’s drum, See him pluck Aufidius down by th’ hair; As children from a bear, the Volsces shunning him. Methinks I see him stamp thus and call thus: “Come on, you cowards! You were got in fear, Though you were born in Rome.” His bloody brow With his mailed hand then wiping, forth he goes Like to a harvestman ⌜that’s⌝ tasked to mow Or all or lose his hire.",
+      "es": "De ningún modo te retirarás. Me parece oír llegar hasta aquí el tambor de tu esposo; lo veo derribar a Aufidio tirándole del cabello, mientras los volscos huyen de él como niños de un oso. Me parece verlo pisotear el suelo y gritar: «¡Vengan, cobardes! Aunque nacieron en Roma, fueron engendrados por el miedo». Luego se limpia la frente ensangrentada con la mano cubierta por el guantelete y sigue adelante, como un segador obligado a cortar toda la cosecha o perder su jornal.",
+      "notes": [
+        {
+          "term": "Methinks",
+          "type": "Gramática histórica",
+          "title": "Me parece",
+          "body": "Methinks es una construcción impersonal: «me parece». Su repetición organiza la visión imaginaria de Volumnia, que no presencia la batalla."
+        },
+        {
+          "term": "As children from a bear",
+          "type": "Imagen",
+          "title": "La huida ante el oso",
+          "body": "La comparación presenta a los volscos como niños que escapan aterrados de un oso; intensifica el carácter casi monstruoso que Volumnia atribuye a su hijo en combate."
+        },
+        {
+          "term": "You were got in fear",
+          "type": "Léxico",
+          "title": "Engendrados en el miedo",
+          "body": "Got tiene aquí el valor de «engendrados». Volumnia imagina a Marcio acusando a sus enemigos de cobardía innata."
+        },
+        {
+          "term": "mailed hand",
+          "type": "Léxico militar",
+          "title": "Mano protegida por malla",
+          "body": "Mailed significa cubierta de armadura de malla, no «enviada por correo»; la traducción usa «guantelete» como aproximación visual."
+        },
+        {
+          "term": "harvestman",
+          "type": "Imagen",
+          "title": "El segador",
+          "body": "La comparación con un trabajador obligado a segar todo el campo traslada la violencia de la batalla a una tarea exhaustiva remunerada."
+        },
+        {
+          "term": "⌜that’s⌝",
+          "type": "Crítica textual",
+          "title": "Suplemento editorial",
+          "body": "Los corchetes angulares de Folger señalan una intervención editorial en la lectura; no deben confundirse con signos pronunciados por el personaje."
         }
       ]
     }
