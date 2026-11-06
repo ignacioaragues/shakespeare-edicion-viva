@@ -130,13 +130,22 @@
       "last_line": 364,
       "editorial_state": "translated_source_checked",
       "note": "Aufidius criticizes the leaked plans, Second Senator commissions him, and Aufidius vows to fight Martius; three complete speeches, Folger online checked."
+    },
+    {
+      "id": "coriolanus-1-2-365-369",
+      "act": 1,
+      "scene": 2,
+      "first_line": 365,
+      "last_line": 369,
+      "editorial_state": "translated_source_checked",
+      "note": "Five complete farewell speeches, including the reciprocal divine blessing, close I.2. Folger online checked."
     }
   ],
   "next_fragment": {
     "act": 1,
-    "scene": 2,
-    "start_after_line": 364,
-    "instruction": "Continue Folger global line 365, the farewell exchanges that conclude I.2."
+    "scene": 3,
+    "start_after_line": 369,
+    "instruction": "Begin I.3 at global Folger line 370; add scene navigation and a new scene before publication."
   },
   "completed_acts": [],
   "last_update_commit": "atomic_commit_pending_sha",

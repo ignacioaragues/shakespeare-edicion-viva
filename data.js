@@ -208,7 +208,7 @@ window.SHAKESPEARE_READER_DATA = {
   "scene": 2,
   "place": "Corioles · Cámara del Senado",
   "sourceRef": "Folger Shakespeare Library · Acto I, escena 2",
-  "sectionLabel": "Edición en curso · líneas Folger 322–364",
+  "sectionLabel": "Escena completa · líneas Folger 322–369",
   "introduction": "En Corioles, Aufidio advierte a los senadores volscos de que Roma conoce sus preparativos militares. Una carta interceptada o recibida desde Roma confirma sus sospechas.",
   "stage": "Entran Tulo Aufidio y senadores de Corioles.",
   "characters": [
@@ -405,7 +405,57 @@ window.SHAKESPEARE_READER_DATA = {
           "body": "Aufidio presenta la rivalidad con Marcio como un compromiso recíproco de combate a muerte. La escena no muestra cuándo ni cómo se formuló ese juramento."
         }
       ]
-    }
+    },
+{
+      "line": "365",
+      "speaker": "all",
+      "en": "The gods assist you!",
+      "es": "¡Que los dioses te ayuden!",
+      "notes": [
+            {
+                  "term": "The gods",
+                  "type": "Contexto religioso",
+                  "title": "Invocación a los dioses",
+                  "body": "La despedida adopta la forma de un deseo de protección divina. La referencia es plural, acorde con el marco religioso romano de la acción."
+            }
+      ]
+},
+{
+      "line": "366",
+      "speaker": "aufidius",
+      "en": "And keep your Honors safe!",
+      "es": "¡Y que protejan a sus señorías!",
+      "notes": [
+            {
+                  "term": "And keep",
+                  "type": "Sintaxis",
+                  "title": "Elipsis del sujeto",
+                  "body": "El sujeto de keep se recupera de la intervención anterior: son los dioses quienes deben proteger a los senadores. La réplica forma una sola fórmula de despedida con el parlamento precedente."
+            }
+      ]
+},
+{
+      "line": "367",
+      "speaker": "senator1",
+      "en": "Farewell.",
+      "es": "Adiós.",
+      "notes": []
+},
+{
+      "line": "368",
+      "speaker": "senator2",
+      "en": "Farewell.",
+      "es": "Adiós.",
+      "notes": []
+},
+{
+      "line": "369",
+      "speaker": "all",
+      "en": "Farewell.",
+      "es": "Adiós.",
+      "notes": [],
+      "stageAfter": "Salen todos."
+}
   ]
 }
   ]
