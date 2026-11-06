@@ -161,6 +161,7 @@
       if (needle && !haystack.includes(needle)) return;
       if (block.stageBefore) container.appendChild(el('div', 'inline-stage', block.stageBefore));
       container.appendChild(renderSpeech(block, index));
+      if (block.stageAfter) container.appendChild(el('div', 'inline-stage', block.stageAfter));
       count++;
     });
     $('empty-state').hidden = count !== 0;
