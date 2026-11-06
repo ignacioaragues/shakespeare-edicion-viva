@@ -1225,6 +1225,65 @@ window.SHAKESPEARE_READER_DATA = {
       "body": "Volumnia contrapone el ánimo sombrío de Virgilia a la diversión que esperan disfrutar las demás mujeres."
     }
   ]
+},
+{
+  "line": "479–482",
+  "speaker": "valeria",
+  "en": "In troth, I think she would.—Fare you well, then.—Come, good sweet lady.—Prithee, Virgilia, turn thy solemness out o’ door, and go along with us.",
+  "es": "En verdad, creo que sí nos arruinaría la diversión. Entonces, adiós. Vamos, querida señora. Te lo ruego, Virgilia: deja tu seriedad fuera de casa y ven con nosotras.",
+  "notes": [
+    {
+      "term": "In troth",
+      "type": "Léxico",
+      "title": "En verdad",
+      "body": "Fórmula enfática de sinceridad. Valeria concede que Volumnia tiene razón sobre el efecto del ánimo de Virgilia."
+    },
+    {
+      "term": "Prithee",
+      "type": "Gramática histórica",
+      "title": "Te lo ruego",
+      "body": "Contracción histórica de «I pray thee»; Valeria pasa a una súplica directa y familiar."
+    },
+    {
+      "term": "solemness",
+      "type": "Léxico e interpretación",
+      "title": "Seriedad sombría",
+      "body": "Solemness designa aquí la gravedad o tristeza de Virgilia. «Echarla fuera de casa» prolonga la imagen doméstica de salir al exterior."
+    }
+  ]
+},
+{
+  "line": "483–484",
+  "speaker": "virgilia",
+  "en": "No, at a word, madam. Indeed, I must not. I wish you much mirth.",
+  "es": "No, señora; mi respuesta es definitiva. De verdad, no puedo ir. Les deseo que se diviertan mucho.",
+  "notes": [
+    {
+      "term": "at a word",
+      "type": "Expresión idiomática",
+      "title": "Respuesta definitiva",
+      "body": "La fórmula refuerza la negativa: Virgilia quiere cerrar la discusión sin dar más explicaciones."
+    },
+    {
+      "term": "must not",
+      "type": "Modalidad",
+      "title": "No puedo hacerlo",
+      "body": "Must not presenta la permanencia en casa como una obligación para Virgilia, no solo como una preferencia."
+    },
+    {
+      "term": "mirth",
+      "type": "Léxico",
+      "title": "Diversión",
+      "body": "Mirth retoma la «alegría» mencionada por Volumnia en 478 y subraya la distancia entre las visitantes y Virgilia."
+    }
+  ]
+},
+{
+  "line": "485",
+  "speaker": "valeria",
+  "en": "Well, then, farewell.",
+  "es": "Bien, entonces, adiós.",
+  "notes": []
 }
   ]
 }

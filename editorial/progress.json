@@ -193,13 +193,22 @@
       "last_line": 478,
       "editorial_state": "translated_source_checked",
       "note": "Eight complete speeches: Valeria's news from Corioles and Virgilia's refusal, ending with Volumnia's dismissal; Folger online checked."
+    },
+    {
+      "id": "coriolanus-1-3-479-485",
+      "act": 1,
+      "scene": 3,
+      "first_line": 479,
+      "last_line": 485,
+      "editorial_state": "translated_source_checked",
+      "note": "Three complete closing speeches and the exit of the ladies; Folger online checked. Scene I.3 complete, pending full editorial review."
     }
   ],
   "next_fragment": {
     "act": 1,
-    "scene": 3,
-    "start_after_line": 478,
-    "instruction": "Continue I.3 at Folger global line 479."
+    "scene": 4,
+    "start_after_line": 485,
+    "instruction": "Begin I.4 at Folger global line 486; add scene navigation and character metadata before publishing."
   },
   "completed_acts": [],
   "last_update_commit": "atomic_commit_pending_sha",
