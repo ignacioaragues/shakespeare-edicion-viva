@@ -465,7 +465,7 @@ window.SHAKESPEARE_READER_DATA = {
   "scene": 3,
   "place": "Roma · Casa de Cayo Marcio",
   "sourceRef": "Folger Shakespeare Library · Acto I, escena 3",
-  "sectionLabel": "Edición en curso · líneas Folger 370–440",
+  "sectionLabel": "Edición en curso · líneas Folger 370–458",
   "introduction": "Volumnia y Virgilia contraponen la gloria militar y el temor por la vida de Marcio.",
   "stage": "Entran Volumnia y Virgilia, madre y esposa de Marcio. Se sientan en dos taburetes bajos y cosen.",
   "characters": [
