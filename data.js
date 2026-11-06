@@ -2332,6 +2332,115 @@ window.SHAKESPEARE_READER_DATA = {
               "body": "Aufidio aparece como el sostén principal de la confianza militar volsca."
             }
           ]
+        },
+        {
+          "line": "670–678",
+          "speaker": "martius",
+          "en": "I do beseech you, By all the battles wherein we have fought, By th’ blood we have shed together, by th’ vows we have made To endure friends, that you directly set me Against Aufidius and his Antiates, And that you not delay the present, but, Filling the air with swords advanced and darts, We prove this very hour.",
+          "es": "Te lo suplico, por todas las batallas en que hemos luchado, por la sangre que hemos derramado juntos, por los juramentos que hemos hecho de seguir siendo amigos: ponme sin demora frente a Aufidio y sus hombres de Ancio. No dejemos pasar esta ocasión; alcemos espadas y lanzas hasta llenar el aire y pongámonos a prueba ahora mismo.",
+          "notes": [
+            {
+              "term": "beseech",
+              "type": "Léxico",
+              "title": "Súplica enfática",
+              "body": "Beseech expresa un ruego insistente; Marcio apela a la relación personal con Cominio, aunque se trata de una petición militar."
+            },
+            {
+              "term": "endure friends",
+              "type": "Sintaxis histórica",
+              "title": "Permanecer amigos",
+              "body": "Endure tiene aquí valor intransitivo de «perdurar» o «mantenerse»: los dos han jurado conservar su amistad."
+            },
+            {
+              "term": "directly",
+              "type": "Léxico histórico",
+              "title": "Sin demora",
+              "body": "El adverbio puede indicar inmediatez; la petición exige asignarlo enseguida al frente de Aufidio."
+            },
+            {
+              "term": "delay the present",
+              "type": "Interpretación",
+              "title": "No perder la ocasión",
+              "body": "Present se entiende como la oportunidad o situación actual; no se refiere a un obsequio."
+            },
+            {
+              "term": "prove",
+              "type": "Léxico",
+              "title": "Poner a prueba",
+              "body": "Prove puede significar «probar» o «demostrar mediante la experiencia»; aquí propone resolver el enfrentamiento en combate."
+            }
+          ]
+        },
+        {
+          "line": "679–683",
+          "speaker": "cominius",
+          "en": "Though I could wish You were conducted to a gentle bath And balms applied to you, yet dare I never Deny your asking. Take your choice of those That best can aid your action.",
+          "es": "Aunque preferiría que te llevaran a un baño reconfortante y te aplicaran ungüentos, jamás me atrevería a negarte lo que pides. Escoge a los hombres que mejor puedan ayudarte en la empresa.",
+          "notes": [
+            {
+              "term": "gentle bath",
+              "type": "Imagen",
+              "title": "Baño reparador",
+              "body": "El baño y los ungüentos contrastan con la sangre y la urgencia bélica de Marcio; Cominio expresa preocupación por su estado físico."
+            },
+            {
+              "term": "dare I never",
+              "type": "Sintaxis histórica",
+              "title": "Inversión enfática",
+              "body": "El auxiliar modal precede al sujeto en una construcción enfática negativa: «jamás me atrevería»."
+            },
+            {
+              "term": "action",
+              "type": "Léxico militar",
+              "title": "Operación de combate",
+              "body": "Action designa aquí la acción militar propuesta, no una acción genérica."
+            }
+          ]
+        },
+        {
+          "line": "684–693",
+          "speaker": "martius",
+          "en": "Those are they That most are willing. If any such be here— As it were sin to doubt—that love this painting Wherein you see me smeared; if any fear Lesser his person than an ill report; If any think brave death outweighs bad life, And that his country’s dearer than himself; Let him alone, or so many so minded, Wave thus to express his disposition And follow Martius.",
+          "es": "Son los que más desean hacerlo. Si hay aquí hombres así —y sería casi un pecado dudarlo—, que aprecien esta pintura con que me ven embadurnado; si alguno teme menos por su propia vida que por una reputación vergonzosa; si alguno cree que una muerte valerosa vale más que una vida indigna y que su patria le importa más que él mismo, que ese hombre, o cuantos piensen igual, hagan esta señal para mostrar su disposición y sigan a Marcio.",
+          "notes": [
+            {
+              "term": "Those are they",
+              "type": "Sintaxis",
+              "title": "La voluntad como criterio",
+              "body": "Marcio responde a la oferta de elegir a los más aptos: para él los mejores son quienes están más dispuestos a combatir."
+            },
+            {
+              "term": "as it were sin to doubt",
+              "type": "Retórica",
+              "title": "Duda casi sacrílega",
+              "body": "La hipérbole presenta como moralmente improcedente dudar del valor de los soldados; as it were atenúa literalmente la identificación con un pecado."
+            },
+            {
+              "term": "painting",
+              "type": "Metáfora",
+              "title": "La sangre como pintura",
+              "body": "Marcio convierte la sangre que lo cubre en una imagen visible de su experiencia en combate."
+            },
+            {
+              "term": "Lesser his person",
+              "type": "Léxico y sintaxis histórica",
+              "title": "Estimar menos la propia persona",
+              "body": "Lesser funciona verbalmente en la lectura modernizada de Folger: «considerar menos importante». La forma aparece marcada editorialmente por Folger; no se infiere aquí una variante sin cotejo documental."
+            },
+            {
+              "term": "brave death outweighs bad life",
+              "type": "Antítesis",
+              "title": "Muerte valerosa y vida indigna",
+              "body": "La oposición valora el honor por encima de la mera supervivencia, de acuerdo con el ideal marcial que enuncia el personaje."
+            },
+            {
+              "term": "Wave thus",
+              "type": "Deixis escénica",
+              "title": "El gesto acompaña al discurso",
+              "body": "Thus señala una demostración corporal; Folger añade una acotación en la que Marcio agita su espada."
+            }
+          ],
+          "stageBefore": null
         }
       ]
     }

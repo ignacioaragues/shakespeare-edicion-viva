@@ -292,13 +292,22 @@
       "last_line": 669,
       "editorial_state": "translated_source_checked",
       "note": "Seven complete speeches: Cominius questions the messenger, Martius defends him and asks about Aufidius' vanguard; Folger online checked."
+    },
+    {
+      "id": "coriolanus-1-6-670-693",
+      "act": 1,
+      "scene": 6,
+      "first_line": 670,
+      "last_line": 693,
+      "editorial_state": "translated_source_checked",
+      "note": "Three complete speeches: Martius requests the Antiates, Cominius permits him to choose, and Martius calls for volunteers. Folger online checked."
     }
   ],
   "next_fragment": {
     "act": 1,
     "scene": 6,
-    "start_after_line": 669,
-    "instruction": "Resume at Folger 670: Martius asks to be set against Aufidius and the Antiates."
+    "start_after_line": 693,
+    "instruction": "Resume at Folger 694: soldiers lift Martius; he responds and selects a detachment."
   },
   "completed_acts": [],
   "last_update_commit": "atomic_commit_pending_sha",
