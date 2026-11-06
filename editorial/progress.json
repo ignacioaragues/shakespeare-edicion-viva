@@ -229,13 +229,22 @@
       "last_line": 543,
       "editorial_state": "translated_source_checked",
       "note": "Martius curses the retreating Romans and rallies them at the gates; two complete speeches, Folger online checked."
+    },
+    {
+      "id": "coriolanus-1-4-544-564",
+      "act": 1,
+      "scene": 4,
+      "first_line": 544,
+      "last_line": 564,
+      "editorial_state": "translated_source_checked",
+      "note": "Eight complete speeches: soldiers react to Marcio shut inside Corioles; Lartius praises him. Folger online checked."
     }
   ],
   "next_fragment": {
     "act": 1,
     "scene": 4,
-    "start_after_line": 543,
-    "instruction": "Continue with soldiers' reactions after Martius enters the city gates, Folger global line 544."
+    "start_after_line": 564,
+    "instruction": "Continue at Folger 565, Martius returns bleeding; close scene I.4."
   },
   "completed_acts": [],
   "last_update_commit": "atomic_commit_pending_sha",
