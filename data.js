@@ -13,7 +13,7 @@ window.SHAKESPEARE_READER_DATA = {
       spanishTitle: "Coriolano",
       kind: "Tragedia romana",
       source: "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/",
-      sceneIds: ["coriolanus-1-1", "coriolanus-1-2"]
+      sceneIds: ["coriolanus-1-1", "coriolanus-1-2", "coriolanus-1-3"]
     }
   ],
   scenes: [
@@ -456,6 +456,99 @@ window.SHAKESPEARE_READER_DATA = {
       "notes": [],
       "stageAfter": "Salen todos."
 }
+  ]
+},
+{
+  "id": "coriolanus-1-3",
+  "workId": "coriolanus",
+  "act": 1,
+  "scene": 3,
+  "place": "Roma · Casa de Cayo Marcio",
+  "sourceRef": "Folger Shakespeare Library · Acto I, escena 3",
+  "sectionLabel": "Edición en curso · líneas Folger 370–389",
+  "introduction": "Volumnia y Virgilia contraponen la gloria militar y el temor por la vida de Marcio.",
+  "stage": "Entran Volumnia y Virgilia, madre y esposa de Marcio. Se sientan en dos taburetes bajos y cosen.",
+  "characters": [
+    {
+      "id": "volumnia",
+      "name": "Volumnia",
+      "english": "Volumnia",
+      "identity": "Madre de Cayo Marcio; considera el honor militar el mayor bien de su hijo.",
+      "color": "copper"
+    },
+    {
+      "id": "virgilia",
+      "name": "Virgilia",
+      "english": "Virgilia",
+      "identity": "Esposa de Cayo Marcio; teme por su vida mientras combate.",
+      "color": "olive"
+    }
+  ],
+  "blocks": [
+    {
+      "line": "370–387",
+      "speaker": "volumnia",
+      "en": "I pray you, daughter, sing, or express yourself in a more comfortable sort. If my son were my husband, I should freelier rejoice in that absence wherein he won honor than in the embracements of his bed where he would show most love. When yet he was but tender-bodied and the only son of my womb, when youth with comeliness plucked all gaze his way, when for a day of kings’ entreaties a mother should not sell him an hour from her beholding, I, considering how honor would become such a person—that it was no better than picture-like to hang by th’ wall, if renown made it not stir—was pleased to let him seek danger where he was like to find fame. To a cruel war I sent him, from whence he returned, his brows bound with oak. I tell thee, daughter, I sprang not more in joy at first hearing he was a man-child than now in first seeing he had proved himself a man.",
+      "es": "Te ruego, hija, que cantes o que te muestres más animada. Si mi hijo fuera mi esposo, me alegraría más de su ausencia, si en ella ganara honor, que de los abrazos de su lecho, donde podría demostrarme todo su amor. Cuando todavía era un niño de cuerpo delicado, el único hijo que había dado a luz; cuando su juventud y su belleza atraían todas las miradas; cuando ninguna madre habría aceptado, ni siquiera a ruegos de reyes, perderlo de vista una hora a cambio de un día entero, pensé en cuánto le sentaría el honor a alguien como él. Sin la fama que le diera vida, habría sido poco más que una figura colgada en la pared. Por eso consentí en que buscara el peligro allí donde podía alcanzar la gloria. Lo envié a una guerra cruel y regresó con las sienes coronadas de hojas de roble. Te aseguro, hija, que no salté de mayor alegría al saber por primera vez que había dado a luz a un varón que cuando vi que había demostrado ser un hombre.",
+      "notes": [
+        {
+          "term": "comfortable sort",
+          "type": "Léxico histórico",
+          "title": "Comfortable",
+          "body": "Aquí no significa comodidad física: Volumnia pide una disposición de ánimo más animosa."
+        },
+        {
+          "term": "freelier",
+          "type": "Gramática histórica",
+          "title": "Comparativo en -er",
+          "body": "Comparativo de freely: «más gustosamente»."
+        },
+        {
+          "term": "If my son were my husband",
+          "type": "Retórica",
+          "title": "Madre y esposa",
+          "body": "Volumnia imagina ocupar el lugar de Virgilia para anteponer la gloria pública a la intimidad conyugal."
+        },
+        {
+          "term": "picture-like",
+          "type": "Imagen",
+          "title": "Figura inmóvil",
+          "body": "Sin la fama, la belleza juvenil quedaría reducida a una imagen colgada de la pared."
+        },
+        {
+          "term": "bound with oak",
+          "type": "Contexto romano",
+          "title": "Corona de roble",
+          "body": "Alude a una distinción militar romana de hojas de roble, asociada especialmente con salvar a un ciudadano."
+        },
+        {
+          "term": "man-child",
+          "type": "Semántica",
+          "title": "Varón y hombre",
+          "body": "El contraste pasa de haber nacido varón a haber demostrado hombría en combate."
+        }
+      ]
+    },
+    {
+      "line": "388–389",
+      "speaker": "virgilia",
+      "en": "But had he died in the business, madam, how then?",
+      "es": "Pero, señora, ¿y si hubiera muerto en aquella empresa? ¿Qué habría pasado entonces?",
+      "notes": [
+        {
+          "term": "had he died",
+          "type": "Sintaxis histórica",
+          "title": "Condicional sin if",
+          "body": "La inversión de had y el sujeto equivale a «if he had died»."
+        },
+        {
+          "term": "the business",
+          "type": "Léxico",
+          "title": "La empresa",
+          "body": "Designa la campaña militar, no un negocio comercial."
+        }
+      ]
+    }
   ]
 }
   ]
