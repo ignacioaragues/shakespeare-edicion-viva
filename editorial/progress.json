@@ -202,13 +202,22 @@
       "last_line": 485,
       "editorial_state": "translated_source_checked",
       "note": "Three complete closing speeches and the exit of the ladies; Folger online checked. Scene I.3 complete, pending full editorial review."
+    },
+    {
+      "id": "coriolanus-1-4-486-502",
+      "act": 1,
+      "scene": 4,
+      "first_line": 486,
+      "last_line": 502,
+      "editorial_state": "translated_source_checked",
+      "note": "Opening before Corioles: wager, messenger's report and Martius's invocation to Mars; twelve complete speech blocks; Folger online checked."
     }
   ],
   "next_fragment": {
     "act": 1,
     "scene": 4,
-    "start_after_line": 485,
-    "instruction": "Begin I.4 at Folger global line 486; add scene navigation and character metadata before publishing."
+    "start_after_line": 502,
+    "instruction": "Continue with the parley and Volscian senators from Folger global line 503."
   },
   "completed_acts": [],
   "last_update_commit": "atomic_commit_pending_sha",

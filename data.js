@@ -13,7 +13,7 @@ window.SHAKESPEARE_READER_DATA = {
       spanishTitle: "Coriolano",
       kind: "Tragedia romana",
       source: "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/",
-      sceneIds: ["coriolanus-1-1", "coriolanus-1-2", "coriolanus-1-3"]
+      sceneIds: ["coriolanus-1-1", "coriolanus-1-2", "coriolanus-1-3", "coriolanus-1-4"]
     }
   ],
   scenes: [
@@ -1286,6 +1286,219 @@ window.SHAKESPEARE_READER_DATA = {
   "notes": []
 }
   ]
-}
+},
+    {
+      "id": "coriolanus-1-4",
+      "workId": "coriolanus",
+      "act": 1,
+      "scene": 4,
+      "place": "Ante las murallas de Corioles",
+      "sourceRef": "Folger Shakespeare Library · Acto I, escena 4",
+      "sectionLabel": "Edición en curso · líneas Folger 486–502",
+      "introduction": "Marcio y Tito Larcio aguardan noticias del ejército de Cominio mientras preparan el asalto a Corioles.",
+      "stage": "Entran Cayo Marcio y Tito Larcio, con trompeta, tambor, estandartes, capitanes y soldados ante Corioles. Se les une un mensajero.",
+      "characters": [
+        {
+          "id": "martius",
+          "name": "Cayo Marcio",
+          "english": "Caius Martius",
+          "identity": "Comandante romano que participa en el ataque a Corioles.",
+          "color": "violet"
+        },
+        {
+          "id": "lartius",
+          "name": "Tito Larcio",
+          "english": "Titus Lartius",
+          "identity": "Comandante romano que acompaña a Marcio.",
+          "color": "olive"
+        },
+        {
+          "id": "messenger",
+          "name": "Mensajero",
+          "english": "Messenger",
+          "identity": "Trae noticias de las posiciones del ejército de Cominio.",
+          "color": "slate"
+        }
+      ],
+      "blocks": [
+        {
+          "line": "486",
+          "speaker": "martius",
+          "en": "Yonder comes news. A wager they have met.",
+          "es": "Allí vienen noticias. Apuesto a que ya se han enfrentado.",
+          "notes": [
+            {
+              "term": "A wager",
+              "type": "Léxico",
+              "title": "Una apuesta",
+              "body": "La expresión introduce una apuesta informal sobre si los ejércitos han llegado a combatir."
+            }
+          ]
+        },
+        {
+          "line": "487",
+          "speaker": "lartius",
+          "en": "My horse to yours, no.",
+          "es": "Apuesto mi caballo contra el tuyo a que no.",
+          "notes": [
+            {
+              "term": "My horse to yours",
+              "type": "Elipsis",
+              "title": "La apuesta",
+              "body": "Se sobreentiende el verbo de apostar: Larcio ofrece su caballo frente al de Marcio."
+            }
+          ]
+        },
+        {
+          "line": "488",
+          "speaker": "martius",
+          "en": "’Tis done.",
+          "es": "Aceptado.",
+          "notes": []
+        },
+        {
+          "line": "489",
+          "speaker": "lartius",
+          "en": "Agreed.",
+          "es": "De acuerdo.",
+          "notes": []
+        },
+        {
+          "line": "490",
+          "speaker": "martius",
+          "stageBefore": "A un mensajero.",
+          "en": "Say, has our general met the enemy?",
+          "es": "Dime, ¿nuestro general se ha encontrado con el enemigo?",
+          "notes": [
+            {
+              "term": "our general",
+              "type": "Contexto",
+              "title": "Cominio",
+              "body": "Se refieren a Cominio, comandante de las fuerzas romanas que operan fuera de Corioles."
+            }
+          ]
+        },
+        {
+          "line": "491",
+          "speaker": "messenger",
+          "en": "They lie in view but have not spoke as yet.",
+          "es": "Están a la vista unos de otros, pero todavía no han entablado combate.",
+          "notes": [
+            {
+              "term": "have not spoke",
+              "type": "Gramática histórica",
+              "title": "Participio spoke",
+              "body": "Spoke aparece como participio donde el inglés actual estándar prefiere spoken. El contexto militar permite interpretar «no han entablado combate», aunque literalmente se alude a no haberse hablado."
+            }
+          ]
+        },
+        {
+          "line": "492",
+          "speaker": "lartius",
+          "en": "So the good horse is mine.",
+          "es": "Entonces el buen caballo es mío.",
+          "notes": []
+        },
+        {
+          "line": "493",
+          "speaker": "martius",
+          "en": "I’ll buy him of you.",
+          "es": "Te lo compraré.",
+          "notes": [
+            {
+              "term": "buy him of you",
+              "type": "Sintaxis histórica",
+              "title": "Comprar a alguien",
+              "body": "Of you expresa al vendedor, equivalente a from you en el inglés actual."
+            }
+          ]
+        },
+        {
+          "line": "494–495",
+          "speaker": "lartius",
+          "en": "No, I’ll nor sell nor give him. Lend you him I will For half a hundred years.—Summon the town.",
+          "es": "No: ni te lo venderé ni te lo regalaré. Pero sí te lo prestaré durante cincuenta años. ¡Intimen a la ciudad a rendirse!",
+          "notes": [
+            {
+              "term": "nor sell nor give",
+              "type": "Sintaxis",
+              "title": "Coordinación negativa",
+              "body": "La doble coordinación negativa refuerza la negativa de Larcio a desprenderse del caballo."
+            },
+            {
+              "term": "half a hundred years",
+              "type": "Léxico",
+              "title": "Cincuenta años",
+              "body": "La exagerada duración del préstamo convierte la apuesta en una broma amistosa."
+            },
+            {
+              "term": "Summon the town",
+              "type": "Léxico militar",
+              "title": "Requerir la rendición",
+              "body": "Summon se usa para exigir formalmente que una ciudad sitiada se rinda; no significa simplemente llamar a sus habitantes."
+            }
+          ]
+        },
+        {
+          "line": "496",
+          "speaker": "martius",
+          "en": "How far off lie these armies?",
+          "es": "¿A qué distancia están esos ejércitos?",
+          "notes": []
+        },
+        {
+          "line": "497",
+          "speaker": "messenger",
+          "en": "Within this mile and half.",
+          "es": "A menos de una milla y media.",
+          "notes": [
+            {
+              "term": "this mile and half",
+              "type": "Medidas",
+              "title": "Distancia aproximada",
+              "body": "La frase elide la segunda aparición de mile: una milla y media, sin necesidad de convertir la medida en el diálogo."
+            }
+          ]
+        },
+        {
+          "line": "498–502",
+          "speaker": "martius",
+          "en": "Then shall we hear their ’larum and they ours. Now, Mars, I prithee, make us quick in work, That we with smoking swords may march from hence To help our fielded friends!—Come, blow thy blast.",
+          "es": "Entonces oiremos su alarma de combate y ellos la nuestra. Ahora, Marte, te lo ruego, haz que actuemos con rapidez, para que podamos marchar de aquí con las espadas todavía humeantes y socorrer a nuestros compañeros que luchan en el campo. ¡Vamos, toca la trompeta!",
+          "notes": [
+            {
+              "term": "’larum",
+              "type": "Léxico militar",
+              "title": "Alarma de combate",
+              "body": "Forma abreviada de alarum, señal sonora de combate o alarma militar."
+            },
+            {
+              "term": "Mars",
+              "type": "Mitología",
+              "title": "Marte",
+              "body": "Invocación al dios romano de la guerra; no se trata de una referencia al propio Marcio."
+            },
+            {
+              "term": "smoking swords",
+              "type": "Imagen retórica",
+              "title": "Espadas humeantes",
+              "body": "Imagen hiperbólica de armas todavía calientes por la violencia del combate."
+            },
+            {
+              "term": "fielded friends",
+              "type": "Léxico militar",
+              "title": "Compañeros desplegados",
+              "body": "Fielded sitúa a los aliados en el campo de batalla, en contraste con las fuerzas ante la ciudad."
+            },
+            {
+              "term": "blow thy blast",
+              "type": "Léxico",
+              "title": "Toque de trompeta",
+              "body": "Blast designa aquí el sonido emitido por un instrumento de viento militar."
+            }
+          ]
+        }
+      ]
+    }
   ]
 };
