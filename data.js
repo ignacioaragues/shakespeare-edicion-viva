@@ -891,6 +891,187 @@ window.SHAKESPEARE_READER_DATA = {
       "body": "Crack puede designar a un muchacho pícaro o travieso; Virgilia matiza el elogio."
     }
   ]
+},
+{
+  "line": "441–442",
+  "speaker": "valeria",
+  "en": "Come, lay aside your stitchery. I must have you play the idle huswife with me this afternoon.",
+  "es": "Vamos, deja la costura. Esta tarde quiero que vengas conmigo a hacer de mujer ociosa.",
+  "notes": [
+    {
+      "term": "stitchery",
+      "type": "Léxico",
+      "title": "Labores de aguja",
+      "body": "Stitchery designa la costura o el bordado que están realizando las mujeres."
+    },
+    {
+      "term": "idle huswife",
+      "type": "Tono e interpretación",
+      "title": "La mujer ociosa",
+      "body": "Huswife es una forma histórica de housewife. Valeria juega con la oposición entre las labores domésticas y una tarde de ocio; no constituye necesariamente un insulto."
+    }
+  ]
+},
+{
+  "line": "443",
+  "speaker": "virgilia",
+  "en": "No, good madam, I will not out of doors.",
+  "es": "No, querida señora, no saldré de casa.",
+  "notes": [
+    {
+      "term": "will not out",
+      "type": "Sintaxis",
+      "title": "Verbo de movimiento omitido",
+      "body": "La construcción omite go: «I will not [go] out of doors». La negativa es tajante."
+    }
+  ]
+},
+{
+  "line": "444",
+  "speaker": "valeria",
+  "en": "Not out of doors?",
+  "es": "¿No saldrás de casa?",
+  "notes": []
+},
+{
+  "line": "445",
+  "speaker": "volumnia",
+  "en": "She shall, she shall.",
+  "es": "Sí saldrá, sí saldrá.",
+  "notes": [
+    {
+      "term": "shall",
+      "type": "Modalidad",
+      "title": "Voluntad de Volumnia",
+      "body": "Shall expresa aquí la determinación de Volumnia respecto de lo que hará Virgilia, no una simple predicción neutral."
+    }
+  ]
+},
+{
+  "line": "446–447",
+  "speaker": "virgilia",
+  "en": "Indeed, no, by your patience. I’ll not over the threshold till my lord return from the wars.",
+  "es": "De verdad que no, con su permiso. No cruzaré el umbral hasta que mi esposo regrese de la guerra.",
+  "notes": [
+    {
+      "term": "by your patience",
+      "type": "Fórmula de cortesía",
+      "title": "Con su permiso",
+      "body": "Expresión cortés que atenúa una negativa firme; no se refiere literalmente a la paciencia como virtud."
+    },
+    {
+      "term": "till my lord return",
+      "type": "Gramática histórica",
+      "title": "Subjuntivo sin -s",
+      "body": "Return, sin la terminación de tercera persona singular, aparece en una subordinada temporal de sentido futuro."
+    }
+  ]
+},
+{
+  "line": "448–449",
+  "speaker": "valeria",
+  "en": "Fie, you confine yourself most unreasonably. Come, you must go visit the good lady that lies in.",
+  "es": "¡Vamos, te encierras sin ninguna razón! Debes venir a visitar a la buena señora que acaba de dar a luz.",
+  "notes": [
+    {
+      "term": "Fie",
+      "type": "Interjección",
+      "title": "Reprobación leve",
+      "body": "Fie expresa desaprobación o impaciencia; aquí Valeria reprende amistosamente a Virgilia."
+    },
+    {
+      "term": "lies in",
+      "type": "Léxico histórico",
+      "title": "Guardar cama tras el parto",
+      "body": "Lie in alude al periodo de reposo asociado al parto; la mujer mencionada está de parto o acaba de dar a luz. El contexto no permite precisar más."
+    }
+  ]
+},
+{
+  "line": "450–451",
+  "speaker": "virgilia",
+  "en": "I will wish her speedy strength and visit her with my prayers, but I cannot go thither.",
+  "es": "Le desearé una pronta recuperación y la acompañaré con mis oraciones, pero no puedo ir allí.",
+  "notes": [
+    {
+      "term": "speedy strength",
+      "type": "Léxico",
+      "title": "Pronta recuperación",
+      "body": "Strength alude aquí a recuperar las fuerzas, en el contexto del parto."
+    },
+    {
+      "term": "thither",
+      "type": "Adverbio histórico",
+      "title": "Allí",
+      "body": "Thither indica movimiento hacia un lugar; hoy suele sustituirse por there."
+    }
+  ]
+},
+{
+  "line": "452",
+  "speaker": "volumnia",
+  "en": "Why, I pray you?",
+  "es": "¿Y por qué, dime?",
+  "notes": [
+    {
+      "term": "I pray you",
+      "type": "Fórmula discursiva",
+      "title": "Dime, por favor",
+      "body": "I pray you funciona como fórmula de petición, aquí incorporada a una pregunta insistente."
+    }
+  ]
+},
+{
+  "line": "453",
+  "speaker": "virgilia",
+  "en": "’Tis not to save labor, nor that I want love.",
+  "es": "No es por ahorrarme la molestia ni porque me falte afecto.",
+  "notes": [
+    {
+      "term": "want love",
+      "type": "Léxico histórico",
+      "title": "Faltar afecto",
+      "body": "Want tiene aquí el sentido de «carecer de», no el moderno «desear». Virgilia niega que su negativa sea falta de cariño."
+    }
+  ]
+},
+{
+  "line": "454–458",
+  "speaker": "valeria",
+  "en": "You would be another Penelope. Yet they say all the yarn she spun in Ulysses’ absence did but fill Ithaca full of moths. Come, I would your cambric were sensible as your finger, that you might leave pricking it for pity. Come, you shall go with us.",
+  "es": "Quieres ser otra Penélope. Pero dicen que todo el hilo que hiló mientras Ulises estaba ausente no sirvió más que para llenar Ítaca de polillas. Vamos, ojalá tu tela de batista sintiera tanto como tus dedos: así dejarías de pincharla por compasión. Ven, tienes que acompañarnos.",
+  "notes": [
+    {
+      "term": "Penelope",
+      "type": "Alusión clásica",
+      "title": "Penélope",
+      "body": "Esposa de Odiseo (Ulises), célebre por esperar su regreso y por su labor textil. Valeria emplea la comparación con ironía."
+    },
+    {
+      "term": "did but",
+      "type": "Sintaxis",
+      "title": "No hizo sino",
+      "body": "Did but equivale a «solo consiguió» o «no hizo más que»; Valeria reduce burlonamente la utilidad de la labor."
+    },
+    {
+      "term": "cambric",
+      "type": "Léxico textil",
+      "title": "Batista",
+      "body": "Cambric es un tejido fino de lino, llamado batista en español."
+    },
+    {
+      "term": "sensible",
+      "type": "Léxico histórico",
+      "title": "Capaz de sentir",
+      "body": "Sensible significa aquí «sensible al dolor» o «capaz de sentir»; Valeria personifica la tela que Virgilia pincha con la aguja."
+    },
+    {
+      "term": "I would",
+      "type": "Gramática histórica",
+      "title": "Deseo hipotético",
+      "body": "I would introduce un deseo equivalente a «ojalá»; were mantiene la modalidad irreal."
+    }
+  ]
 }
   ]
 }
