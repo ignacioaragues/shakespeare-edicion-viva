@@ -301,13 +301,22 @@
       "last_line": 693,
       "editorial_state": "translated_source_checked",
       "note": "Three complete speeches: Martius requests the Antiates, Cominius permits him to choose, and Martius calls for volunteers. Folger online checked."
+    },
+    {
+      "id": "coriolanus-1-6-694-706",
+      "act": 1,
+      "scene": 6,
+      "first_line": 694,
+      "last_line": 706,
+      "editorial_state": "translated_source_checked",
+      "note": "Two complete closing speeches, soldiers' acclamation and Cominius' command; Folger online checked. Scene I.6 complete pending review."
     }
   ],
   "next_fragment": {
     "act": 1,
-    "scene": 6,
-    "start_after_line": 693,
-    "instruction": "Resume at Folger 694: soldiers lift Martius; he responds and selects a detachment."
+    "scene": 7,
+    "start_after_line": 706,
+    "instruction": "Begin I.7 at Folger line 707; add scene navigation before publishing."
   },
   "completed_acts": [],
   "last_update_commit": "atomic_commit_pending_sha",

@@ -2441,7 +2441,91 @@ window.SHAKESPEARE_READER_DATA = {
             }
           ],
           "stageBefore": null
-        }
+        },
+        {
+          "line": "694–703",
+          "speaker": "martius",
+          "en": "O, me alone! Make you a sword of me? If these shows be not outward, which of you But is four Volsces? None of you but is Able to bear against the great Aufidius A shield as hard as his. A certain number, Though thanks to all, must I select from all. The rest shall bear the business in some other fight, As cause will be obeyed. Please you to march, And I shall quickly draw out my command, Which men are best inclined.",
+          "es": "¡Oh, déjenme en el suelo! ¿Pretenden convertirme en una espada? Si estas demostraciones no son mera apariencia, ¿quién de ustedes no vale por cuatro volscos? Todos son capaces de oponer al gran Aufidio un escudo tan resistente como el suyo. Sin embargo, debo escoger solo a un grupo, aunque les agradezco a todos. Los demás asumirán su parte de la tarea en otro combate, según lo exijan las circunstancias. Pónganse en marcha, por favor; enseguida formaré mi destacamento con los hombres mejor dispuestos.",
+          "stageBefore": "Todos gritan, agitan las espadas, levantan a Marcio en brazos y arrojan sus gorros al aire.",
+          "notes": [
+                    {
+                              "term": "Make you a sword of me",
+                              "type": "Metáfora y gesto escénico",
+                              "title": "¿Convertirme en espada?",
+                              "body": "Marcio protesta mientras lo alzan: la pregunta convierte figuradamente su cuerpo en arma. La imagen puede sugerir también que los soldados lo blandieran como una espada; esta segunda lectura es interpretativa."
+                    },
+                    {
+                              "term": "shows be not outward",
+                              "type": "Léxico y retórica",
+                              "title": "Apariencia y convicción",
+                              "body": "Shows son manifestaciones visibles de entusiasmo; outward contrapone el gesto exterior a una disposición auténtica. La condición pone a prueba la sinceridad de la aclamación."
+                    },
+                    {
+                              "term": "four Volsces",
+                              "type": "Hipérbole",
+                              "title": "Cuatro enemigos por hombre",
+                              "body": "La equivalencia de un romano con cuatro volscos es una exageración de arenga, no un cálculo militar."
+                    },
+                    {
+                              "term": "bear against",
+                              "type": "Léxico militar",
+                              "title": "Resistir frente a",
+                              "body": "Bear against expresa sostener o resistir el enfrentamiento; la mención del escudo prolonga la imagen defensiva."
+                    },
+                    {
+                              "term": "A certain number",
+                              "type": "Léxico",
+                              "title": "Un contingente limitado",
+                              "body": "Certain indica aquí un número determinado o limitado, no que el número sea seguro o conocido por el público."
+                    },
+                    {
+                              "term": "As cause will be obeyed",
+                              "type": "Sintaxis e interpretación",
+                              "title": "Según lo exija la necesidad",
+                              "body": "Cause puede significar la necesidad o exigencia de la situación militar. La construcción personifica esa exigencia como algo que debe obedecerse."
+                    },
+                    {
+                              "term": "draw out my command",
+                              "type": "Léxico militar",
+                              "title": "Seleccionar el destacamento",
+                              "body": "Draw out alude a separar hombres del conjunto; command designa aquí la fuerza puesta bajo las órdenes de Marcio."
+                    },
+                    {
+                              "term": "best inclined",
+                              "type": "Semántica",
+                              "title": "Los más dispuestos",
+                              "body": "Inclined señala inclinación o voluntad de participar, en consonancia con la selección de voluntarios iniciada en el parlamento anterior."
+                    }
+          ]
+},
+        {
+          "line": "704–706",
+          "speaker": "cominius",
+          "en": "March on, my fellows. Make good this ostentation, and you shall Divide in all with us.",
+          "es": "¡En marcha, compañeros! Demuestren con hechos lo que acaban de proclamar, y compartirán con nosotros todo lo que se consiga.",
+          "notes": [
+                    {
+                              "term": "Make good",
+                              "type": "Locución",
+                              "title": "Respaldar con hechos",
+                              "body": "Make good significa cumplir o demostrar en la práctica lo prometido; Cominio exige que la aclamación se traduzca en combate."
+                    },
+                    {
+                              "term": "ostentation",
+                              "type": "Léxico histórico",
+                              "title": "Demostración pública",
+                              "body": "Ostentation designa aquí la exhibición de ardor y valentía, sin exigir el sentido actual peyorativo de presunción."
+                    },
+                    {
+                              "term": "Divide in all with us",
+                              "type": "Sintaxis y léxico",
+                              "title": "Compartir los resultados",
+                              "body": "Divide in significa participar de una distribución; Cominio promete una parte de los resultados o recompensas, sin especificar aquí su naturaleza."
+                    }
+          ],
+          "stageAfter": "Salen todos."
+}
       ]
     }
   ]
