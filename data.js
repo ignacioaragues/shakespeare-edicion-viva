@@ -13,7 +13,7 @@ window.SHAKESPEARE_READER_DATA = {
       spanishTitle: "Coriolano",
       kind: "Tragedia romana",
       source: "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/",
-      sceneIds: ["coriolanus-1-1", "coriolanus-1-2", "coriolanus-1-3", "coriolanus-1-4", "coriolanus-1-5", "coriolanus-1-6", "coriolanus-1-7"]
+      sceneIds: ["coriolanus-1-1", "coriolanus-1-2", "coriolanus-1-3", "coriolanus-1-4", "coriolanus-1-5", "coriolanus-1-6", "coriolanus-1-7", "coriolanus-1-8"]
     }
   ],
   scenes: [
@@ -2626,6 +2626,207 @@ window.SHAKESPEARE_READER_DATA = {
               "type": "Sintaxis",
               "title": "Complemento adelantado",
               "body": "El destino aparece antes del imperativo conduct us; el orden español se reorganiza para facilitar la lectura."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "coriolanus-1-8",
+      "workId": "coriolanus",
+      "act": 1,
+      "scene": 8,
+      "place": "Campo de batalla · Cerca de Corioles",
+      "sourceRef": "Folger Shakespeare Library · Acto I, escena 8",
+      "sectionLabel": "Escena completa · líneas Folger 716–737",
+      "introduction": "Marcio y Aufidio se encuentran en pleno combate. Su duelo personal queda interrumpido por la intervención de soldados volscos, que Aufidio rechaza como una afrenta a su valor.",
+      "stage": "Suena la alarma de combate. Entran Marcio y Aufidio por puertas distintas.",
+      "characters": [
+        {
+          "id": "martius",
+          "name": "Cayo Marcio",
+          "english": "Caius Martius",
+          "identity": "Comandante romano que busca enfrentarse personalmente a Aufidio.",
+          "color": "violet"
+        },
+        {
+          "id": "aufidius",
+          "name": "Tulio Aufidio",
+          "english": "Tullus Aufidius",
+          "identity": "Jefe militar volsco y rival de Marcio.",
+          "color": "copper"
+        }
+      ],
+      "blocks": [
+        {
+          "line": "716–717",
+          "speaker": "martius",
+          "en": "I’ll fight with none but thee, for I do hate thee Worse than a promise-breaker.",
+          "es": "No lucharé contra nadie más que contra ti, porque te odio más que a quien falta a su palabra.",
+          "notes": [
+            {
+              "term": "none but thee",
+              "type": "Sintaxis",
+              "title": "Exclusividad del duelo",
+              "body": "None but equivale a «nadie salvo»; thee es la forma de objeto del pronombre singular de segunda persona."
+            },
+            {
+              "term": "promise-breaker",
+              "type": "Léxico y valoración",
+              "title": "El que rompe su promesa",
+              "body": "El compuesto designa a quien incumple su palabra. La comparación expresa la intensidad del odio de Marcio, no prueba que Aufidio haya quebrantado una promesa."
+            }
+          ]
+        },
+        {
+          "line": "718–720",
+          "speaker": "aufidius",
+          "en": "We hate alike. Not Afric owns a serpent I abhor More than thy fame and envy. Fix thy foot.",
+          "es": "Nuestro odio es igual. Ni siquiera África alberga una serpiente que yo aborrezca más que tu fama y la envidia que despiertas. ¡Mantente firme!",
+          "notes": [
+            {
+              "term": "Afric",
+              "type": "Léxico histórico",
+              "title": "África como imagen de peligro",
+              "body": "Afric es forma poética abreviada de Africa. La serpiente funciona como término de comparación del aborrecimiento, no como identificación zoológica precisa."
+            },
+            {
+              "term": "thy fame and envy",
+              "type": "Semántica",
+              "title": "Fama y envidia",
+              "body": "Envy puede nombrar la envidia que suscita una fama; la relación entre ambos sustantivos admite matices interpretativos. La traducción explicita esa lectura sin presentarla como única."
+            },
+            {
+              "term": "Fix thy foot",
+              "type": "Lengua y escena",
+              "title": "No retrocedas",
+              "body": "El imperativo pide fijar la posición para el enfrentamiento. Foot designa literalmente el pie, pero la orden concierne a mantenerse en el sitio."
+            }
+          ]
+        },
+        {
+          "line": "721–722",
+          "speaker": "martius",
+          "en": "Let the first budger die the other’s slave, And the gods doom him after!",
+          "es": "¡Que el primero que retroceda muera esclavo del otro y que después lo condenen los dioses!",
+          "notes": [
+            {
+              "term": "budger",
+              "type": "Léxico histórico",
+              "title": "Quien cede terreno",
+              "body": "Budger deriva de budge, «moverse» o «ceder»; en el desafío se refiere al primero que retroceda."
+            },
+            {
+              "term": "doom him",
+              "type": "Léxico",
+              "title": "Condena divina",
+              "body": "Doom es aquí un verbo de sentencia o condena; la maldición continúa más allá de la muerte."
+            }
+          ]
+        },
+        {
+          "line": "723–724",
+          "speaker": "aufidius",
+          "en": "If I fly, Martius, Hollo me like a hare.",
+          "es": "Si huyo, Marcio, persígueme a gritos como a una liebre.",
+          "notes": [
+            {
+              "term": "fly",
+              "type": "Léxico histórico",
+              "title": "Huir",
+              "body": "Fly significa aquí «huir», no «volar»; la construcción condicional retoma el desafío de no retroceder."
+            },
+            {
+              "term": "Hollo me",
+              "type": "Léxico de caza",
+              "title": "Gritar tras la presa",
+              "body": "Hollo evoca el grito empleado para azuzar o señalar una presa en la caza. La liebre convierte una eventual huida en una persecución humillante."
+            }
+          ]
+        },
+        {
+          "line": "725–730",
+          "speaker": "martius",
+          "en": "Within these three hours, Tullus, Alone I fought in your Corioles’ walls And made what work I pleased. ’Tis not my blood Wherein thou seest me masked. For thy revenge, Wrench up thy power to th’ highest.",
+          "es": "Hace menos de tres horas, Tulio, luché solo dentro de las murallas de Corioles e hice allí cuanto quise. No es mía la sangre que me cubre como una máscara. Si quieres vengarte, lleva tus fuerzas hasta el límite.",
+          "notes": [
+            {
+              "term": "Within these three hours",
+              "type": "Sintaxis temporal",
+              "title": "En las últimas tres horas",
+              "body": "Within señala un intervalo reciente contado hacia atrás desde el momento de habla, no una acción futura."
+            },
+            {
+              "term": "masked",
+              "type": "Imagen escénica",
+              "title": "Máscara de sangre",
+              "body": "Marcio atribuye a la sangre ajena el aspecto de máscara que cubre su rostro; el parlamento recuerda su entrada ensangrentada."
+            },
+            {
+              "term": "Wrench up",
+              "type": "Léxico y retórica",
+              "title": "Tensar al máximo",
+              "body": "Wrench up transmite la idea de elevar o forzar violentamente la intensidad. Power puede aludir a fuerza o capacidad combativa."
+            }
+          ]
+        },
+        {
+          "line": "731–734",
+          "speaker": "aufidius",
+          "en": "Wert thou the Hector That was the whip of your bragged progeny, Thou shouldst not scape me here.",
+          "es": "Aunque fueras aquel Héctor que fue el azote de los antepasados de los que tanto presumen, no escaparías de mí aquí.",
+          "notes": [
+            {
+              "term": "Wert thou",
+              "type": "Gramática histórica",
+              "title": "Hipótesis contraria a los hechos",
+              "body": "Wert thou equivale a «aunque fueras» o «si fueras»; la inversión sin if introduce una condición hipotética."
+            },
+            {
+              "term": "Hector",
+              "type": "Alusión clásica",
+              "title": "Héctor de Troya",
+              "body": "Héctor es el defensor troyano de la Ilíada. La tradición romana hacía remontar sus orígenes a los troyanos; el insulto de Aufidio explota esa genealogía."
+            },
+            {
+              "term": "bragged progeny",
+              "type": "Sintaxis e interpretación",
+              "title": "Ascendencia celebrada",
+              "body": "La frase se refiere a la ascendencia de la que los romanos presumen. La traducción reordena la relación entre Héctor y los antepasados para hacerla inteligible."
+            },
+            {
+              "term": "scape",
+              "type": "Léxico histórico",
+              "title": "Escapar",
+              "body": "Scape es forma abreviada de escape, frecuente en el inglés dramático de la época."
+            }
+          ]
+        },
+        {
+          "line": "735–737",
+          "speaker": "aufidius",
+          "en": "Officious and not valiant, you have shamed me In your condemnèd seconds.",
+          "es": "¡Entrometidos, no valientes! Me han deshonrado con esa ayuda condenable.",
+          "stageBefore": "Luchan. Varios volscos entran para ayudar a Aufidio. (Aufidio se dirige a ellos.)",
+          "stageAfter": "Marcio sigue combatiendo hasta que los volscos se retiran, sin aliento. Aufidio y Marcio salen por separado.",
+          "notes": [
+            {
+              "term": "Officious",
+              "type": "Léxico histórico",
+              "title": "Intervención inoportuna",
+              "body": "Officious significa aquí «entrometidos» o «solícitos en exceso», no «oficiales»."
+            },
+            {
+              "term": "seconds",
+              "type": "Léxico del duelo",
+              "title": "Ayudantes en combate",
+              "body": "Seconds designa a quienes intervienen como apoyos de un combatiente; no se refiere a unidades de tiempo. Aufidio considera vergonzosa esa ayuda."
+            },
+            {
+              "term": "condemnèd",
+              "type": "Pronunciación editorial",
+              "title": "La sílaba marcada",
+              "body": "El acento grave de condemnèd indica que la terminación -ed se pronuncia como sílaba en la lectura editorial; el juicio negativo pertenece al personaje."
             }
           ]
         }

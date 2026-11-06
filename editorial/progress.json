@@ -319,13 +319,22 @@
       "last_line": 715,
       "editorial_state": "translated_source_checked",
       "note": "Three complete speeches, Folger online verified; scene I.7 complete pending editorial review."
+    },
+    {
+      "id": "coriolanus-1-8-716-737",
+      "act": 1,
+      "scene": 8,
+      "first_line": 716,
+      "last_line": 737,
+      "editorial_state": "translated_source_checked",
+      "note": "Complete I.8: seven speech blocks and stage directions, Folger online checked. Pending full editorial review."
     }
   ],
   "next_fragment": {
     "act": 1,
-    "scene": 8,
-    "start_after_line": 715,
-    "instruction": "Begin I.8 at Folger line 716; add scene navigation before publishing."
+    "scene": 9,
+    "start_after_line": 737,
+    "instruction": "Begin I.9 at Folger line 738; add scene navigation before publishing."
   },
   "completed_acts": [],
   "last_update_commit": "atomic_commit_pending_sha",
