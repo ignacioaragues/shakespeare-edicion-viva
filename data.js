@@ -1760,8 +1760,8 @@ window.SHAKESPEARE_READER_DATA = {
       "scene": 6,
       "place": "Campo de batalla cercano a Corioles",
       "sourceRef": "Folger Shakespeare Library · Acto I, escena 6",
-      "sectionLabel": "Edición en curso · líneas Folger 600–626",
-      "introduction": "Cominio ha hecho retroceder a sus hombres sin perder la disciplina. Mientras aguarda otro ataque, recibe noticias inquietantes del frente de Corioles.",
+      "sectionLabel": "Edición en curso · líneas Folger 600–648",
+      "introduction": "Cominio reorganiza sus tropas y recibe noticias de Corioles. Marcio llega ensangrentado, se reencuentra con el general y describe la ciudad conquistada.",
       "stage": "Entra Cominio con soldados, en aparente retirada.",
       "characters": [
         {
@@ -1770,6 +1770,13 @@ window.SHAKESPEARE_READER_DATA = {
           "english": "Cominius",
           "identity": "General romano que dirige las tropas en este sector del campo de batalla.",
           "color": "ink"
+        },
+        {
+          "id": "martius",
+          "name": "Marcio",
+          "english": "Martius",
+          "identity": "Guerrero romano que acaba de combatir en Corioles.",
+          "color": "copper"
         },
         {
           "id": "messenger",
@@ -1975,7 +1982,181 @@ window.SHAKESPEARE_READER_DATA = {
             }
           ],
           "stageBefore": "El mensajero sale."
-        }
+        },
+        {
+          "line": "627–630",
+          "speaker": "cominius",
+          "en": "Who’s yonder, That does appear as he were flayed? O gods, He has the stamp of Martius, and I have Before-time seen him thus.",
+          "es": "¿Quién viene allí, con el aspecto de alguien a quien le hubieran arrancado la piel? ¡Dioses! Tiene el porte de Marcio, y ya lo he visto antes en semejante estado.",
+          "stageBefore": "Entra Marcio, cubierto de sangre.",
+          "notes": [
+                    {
+                              "term": "as he were flayed",
+                              "type": "Gramática y comparación",
+                              "title": "Como si lo hubieran desollado",
+                              "body": "As introduce una comparación hipotética con were; flayed significa «desollado». Cominio describe la sangre que cubre a Marcio, no una herida comprobada."
+                    },
+                    {
+                              "term": "stamp",
+                              "type": "Léxico figurado",
+                              "title": "Sello o impronta",
+                              "body": "Stamp designa aquí el aspecto distintivo que permite reconocer a una persona."
+                    },
+                    {
+                              "term": "Before-time",
+                              "type": "Léxico histórico",
+                              "title": "Anteriormente",
+                              "body": "Adverbio compuesto que remite a ocasiones anteriores en que Cominio vio a Marcio ensangrentado."
+                    }
+          ]
+},
+        {
+          "line": "631",
+          "speaker": "martius",
+          "en": "Come I too late?",
+          "es": "¿He llegado demasiado tarde?",
+          "notes": [
+                    {
+                              "term": "Come I",
+                              "type": "Sintaxis interrogativa",
+                              "title": "Inversión sin auxiliar",
+                              "body": "La interrogación coloca el verbo léxico delante del sujeto, construcción posible en el inglés de la época."
+                    }
+          ]
+},
+        {
+          "line": "632–634",
+          "speaker": "cominius",
+          "en": "The shepherd knows not thunder from a tabor More than I know the sound of Martius’ tongue From every meaner man.",
+          "es": "Un pastor no distingue el trueno de un tambor mejor de lo que yo distingo la voz de Marcio de la de cualquier hombre inferior a él.",
+          "notes": [
+                    {
+                              "term": "tabor",
+                              "type": "Léxico musical",
+                              "title": "Tambor pequeño",
+                              "body": "Tabor es un tambor usado, entre otros contextos, en música popular; contrasta con el trueno por su sonido."
+                    },
+                    {
+                              "term": "knows not thunder from a tabor",
+                              "type": "Retórica",
+                              "title": "Comparación de reconocimiento",
+                              "body": "Cominio afirma que reconoce la voz de Marcio de inmediato; la comparación exagerada sirve para subrayar su familiaridad."
+                    },
+                    {
+                              "term": "meaner",
+                              "type": "Léxico social",
+                              "title": "De rango o calidad menor",
+                              "body": "Comparativo de mean en su sentido histórico de «inferior»; el juicio pertenece al personaje."
+                    }
+          ]
+},
+        {
+          "line": "635",
+          "speaker": "martius",
+          "en": "Come I too late?",
+          "es": "¿He llegado demasiado tarde?",
+          "notes": [
+                    {
+                              "term": "too late",
+                              "type": "Repetición dramática",
+                              "title": "Urgencia de Marcio",
+                              "body": "La pregunta repetida muestra que Marcio antepone la situación de la batalla a las palabras de reconocimiento de Cominio."
+                    }
+          ]
+},
+        {
+          "line": "636–637",
+          "speaker": "cominius",
+          "en": "Ay, if you come not in the blood of others, But mantled in your own.",
+          "es": "Sí, si no vienes cubierto de sangre ajena, sino envuelto en la tuya.",
+          "notes": [
+                    {
+                              "term": "mantled",
+                              "type": "Imagen figurada",
+                              "title": "Envuelto como en un manto",
+                              "body": "Mantled representa la sangre como una capa que recubre el cuerpo; Cominio no sabe todavía si procede de heridas propias o de los enemigos."
+                    },
+                    {
+                              "term": "if you come not",
+                              "type": "Sintaxis",
+                              "title": "Condición restrictiva",
+                              "body": "La respuesta «sí» queda condicionada a que la sangre sea de Marcio: Cominio teme que haya llegado demasiado herido para combatir."
+                    }
+          ]
+},
+        {
+          "line": "638–641",
+          "speaker": "martius",
+          "en": "O, let me clip you In arms as sound as when I wooed, in heart As merry as when our nuptial day was done And tapers burnt to bedward!",
+          "es": "¡Ah, déjame abrazarte! Tengo los brazos tan fuertes como cuando cortejaba a mi esposa y el corazón tan alegre como cuando terminó nuestra boda y las velas ardían mientras nos encaminábamos al lecho.",
+          "stageAfter": "Se abrazan.",
+          "notes": [
+                    {
+                              "term": "clip",
+                              "type": "Léxico histórico",
+                              "title": "Abrazar",
+                              "body": "Clip significa aquí «rodear con los brazos», no «cortar»."
+                    },
+                    {
+                              "term": "sound",
+                              "type": "Léxico",
+                              "title": "Sano y fuerte",
+                              "body": "Sound califica el estado físico de los brazos; Marcio afirma que sigue en condiciones de luchar."
+                    },
+                    {
+                              "term": "tapers burnt to bedward",
+                              "type": "Costumbre y metáfora",
+                              "title": "Las velas y el lecho nupcial",
+                              "body": "Tapers son velas; bedward indica dirección hacia la cama. La evocación de la noche de bodas transforma el reencuentro militar en una escena de intimidad y júbilo."
+                    }
+          ]
+},
+        {
+          "line": "642",
+          "speaker": "cominius",
+          "en": "Flower of warriors, how is ’t with Titus Lartius?",
+          "es": "¡Flor de los guerreros! ¿Cómo está Tito Larcio?",
+          "notes": [
+                    {
+                              "term": "Flower of warriors",
+                              "type": "Metáfora encomiástica",
+                              "title": "Lo más selecto de los guerreros",
+                              "body": "Flower puede designar figuradamente la excelencia o lo mejor de un grupo."
+                    }
+          ]
+},
+        {
+          "line": "643–648",
+          "speaker": "martius",
+          "en": "As with a man busied about decrees, Condemning some to death and some to exile; Ransoming him or pitying, threat’ning th’ other; Holding Corioles in the name of Rome Even like a fawning greyhound in the leash, To let him slip at will.",
+          "es": "Está como un hombre ocupado en dictar sentencias: condena a unos a muerte y a otros al destierro; exige rescate por uno, se apiada de otro y amenaza a un tercero. Tiene a Corioles sometida en nombre de Roma, como a un galgo dócil sujeto con una correa, listo para soltarlo cuando quiera.",
+          "notes": [
+                    {
+                              "term": "decrees",
+                              "type": "Imagen jurídica",
+                              "title": "Decretos y sentencias",
+                              "body": "Marcio compara la autoridad militar de Larcio sobre la ciudad conquistada con la de un magistrado que decide destinos individuales."
+                    },
+                    {
+                              "term": "Ransoming",
+                              "type": "Léxico bélico",
+                              "title": "Exigir rescate",
+                              "body": "El verbo remite a la liberación de un cautivo a cambio de una suma u otra compensación."
+                    },
+                    {
+                              "term": "fawning greyhound",
+                              "type": "Símil",
+                              "title": "Galgo sumiso",
+                              "body": "Fawning describe una actitud dócil o aduladora; la ciudad sometida queda comparada con un perro de caza sujeto por su dueño."
+                    },
+                    {
+                              "term": "let him slip",
+                              "type": "Léxico de caza",
+                              "title": "Soltar de la correa",
+                              "body": "Slip puede referirse a soltar un perro de caza; el símil sugiere el control de Larcio sobre Corioles, no necesariamente una decisión literal de liberarla."
+                    }
+          ]
+}
       ]
     }
   ]

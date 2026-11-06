@@ -274,13 +274,22 @@
       "last_line": 626,
       "editorial_state": "translated_source_checked",
       "note": "Seven complete speech blocks: Cominius and messenger; checked against Folger online."
+    },
+    {
+      "id": "coriolanus-1-6-627-648",
+      "act": 1,
+      "scene": 6,
+      "first_line": 627,
+      "last_line": 648,
+      "editorial_state": "translated_source_checked",
+      "note": "Eight complete speeches: Martius reunites with Cominius and reports Lartius' control of Corioles; checked against Folger online."
     }
   ],
   "next_fragment": {
     "act": 1,
     "scene": 6,
-    "start_after_line": 626,
-    "instruction": "Resume at Folger 627 with the arrival of bloodied Martius."
+    "start_after_line": 648,
+    "instruction": "Resume at Folger 649: Cominius calls for the messenger and Martius defends his earlier report."
   },
   "completed_acts": [],
   "last_update_commit": "atomic_commit_pending_sha",
