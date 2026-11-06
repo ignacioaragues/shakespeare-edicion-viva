@@ -13,7 +13,7 @@ window.SHAKESPEARE_READER_DATA = {
       spanishTitle: "Coriolano",
       kind: "Tragedia romana",
       source: "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/",
-      sceneIds: ["coriolanus-1-1", "coriolanus-1-2", "coriolanus-1-3", "coriolanus-1-4", "coriolanus-1-5", "coriolanus-1-6"]
+      sceneIds: ["coriolanus-1-1", "coriolanus-1-2", "coriolanus-1-3", "coriolanus-1-4", "coriolanus-1-5", "coriolanus-1-6", "coriolanus-1-7"]
     }
   ],
   scenes: [
@@ -2526,6 +2526,109 @@ window.SHAKESPEARE_READER_DATA = {
           ],
           "stageAfter": "Salen todos."
 }
+      ]
+    },
+    {
+      "id": "coriolanus-1-7",
+      "workId": "coriolanus",
+      "act": 1,
+      "scene": 7,
+      "place": "Corioles · Puertas de la ciudad",
+      "sourceRef": "Folger Shakespeare Library · Acto I, escena 7",
+      "sectionLabel": "Escena completa · líneas Folger 707–715",
+      "introduction": "Tras asegurar Corioles, Tito Larcio deja una guarnición y marcha hacia el campamento de Cominio. La breve escena vincula la ocupación de la ciudad con la batalla que continúa fuera de sus murallas.",
+      "stage": "Tito Larcio, tras establecer una guardia en Corioles, marcha con tambores y trompetas hacia Cominio y Cayo Marcio. Entran con él un teniente, soldados y un explorador.",
+      "characters": [
+        {
+          "id": "lartius",
+          "name": "Tito Larcio",
+          "english": "Titus Lartius",
+          "identity": "Comandante romano encargado de asegurar Corioles antes de reunirse con Cominio.",
+          "color": "olive"
+        },
+        {
+          "id": "lieutenant",
+          "name": "Teniente",
+          "english": "Lieutenant",
+          "identity": "Oficial a quien Larcio encomienda la defensa de la ciudad.",
+          "color": "slate"
+        }
+      ],
+      "blocks": [
+        {
+          "line": "707–711",
+          "speaker": "lartius",
+          "en": "So, let the ports be guarded. Keep your duties As I have set them down. If I do send, dispatch Those centuries to our aid; the rest will serve For a short holding. If we lose the field, We cannot keep the town.",
+          "es": "Bien, que vigilen las puertas. Cumplan las funciones tal como se las he asignado. Si envío aviso, despachen esas centurias en nuestro auxilio; las demás bastarán para sostener la posición por poco tiempo. Si perdemos la batalla, no podremos conservar la ciudad.",
+          "notes": [
+            {
+              "term": "ports",
+              "type": "Léxico histórico",
+              "title": "Las puertas de la ciudad",
+              "body": "Ports designa aquí las puertas de acceso a una ciudad fortificada, no puertos marítimos."
+            },
+            {
+              "term": "centuries",
+              "type": "Terminología militar",
+              "title": "Centurias",
+              "body": "Centuries alude a unidades militares romanas llamadas centurias. No equivale aquí a períodos de cien años; la fuerza real de una centuria podía variar."
+            },
+            {
+              "term": "short holding",
+              "type": "Léxico militar",
+              "title": "Sostener la plaza por poco tiempo",
+              "body": "Holding expresa la acción de mantener una posición militar. Short limita la duración prevista de esa defensa."
+            },
+            {
+              "term": "field",
+              "type": "Metonimia militar",
+              "title": "El campo de batalla",
+              "body": "Lose the field equivale a perder la batalla; la oposición con town establece que la ciudad conquistada depende del resultado de la lucha exterior."
+            }
+          ]
+        },
+        {
+          "line": "712",
+          "speaker": "lieutenant",
+          "en": "Fear not our care, sir.",
+          "es": "No tema por nuestra diligencia, señor.",
+          "notes": [
+            {
+              "term": "care",
+              "type": "Léxico",
+              "title": "Cuidado y responsabilidad",
+              "body": "Care se refiere aquí a la atención y responsabilidad con que el oficial cumplirá las órdenes, no a una preocupación afectiva."
+            }
+          ]
+        },
+        {
+          "line": "713–715",
+          "speaker": "lartius",
+          "en": "Hence, and shut your gates upon ’s. Our guider, come. To th’ Roman camp conduct us.",
+          "es": "Entonces, ve y cierra las puertas detrás de nosotros. Tú, nuestro guía, ven: condúcenos al campamento romano.",
+          "stageBefore": "(Al explorador, después de dirigirse al teniente.)",
+          "stageAfter": "Salen: el teniente por un lado y Larcio con los demás por otro.",
+          "notes": [
+            {
+              "term": "upon ’s",
+              "type": "Gramática histórica",
+              "title": "Contracción pronominal",
+              "body": "’s representa aquí us («nosotros»): la orden es cerrar las puertas una vez que el grupo de Larcio haya salido."
+            },
+            {
+              "term": "guider",
+              "type": "Léxico",
+              "title": "Guía",
+              "body": "Guider es el agente que conduce al destacamento. La acotación de Folger dirige estas palabras al explorador."
+            },
+            {
+              "term": "To th’ Roman camp",
+              "type": "Sintaxis",
+              "title": "Complemento adelantado",
+              "body": "El destino aparece antes del imperativo conduct us; el orden español se reorganiza para facilitar la lectura."
+            }
+          ]
+        }
       ]
     }
   ]

@@ -310,13 +310,22 @@
       "last_line": 706,
       "editorial_state": "translated_source_checked",
       "note": "Two complete closing speeches, soldiers' acclamation and Cominius' command; Folger online checked. Scene I.6 complete pending review."
+    },
+    {
+      "id": "coriolanus-1-7-707-715",
+      "act": 1,
+      "scene": 7,
+      "first_line": 707,
+      "last_line": 715,
+      "editorial_state": "translated_source_checked",
+      "note": "Three complete speeches, Folger online verified; scene I.7 complete pending editorial review."
     }
   ],
   "next_fragment": {
     "act": 1,
-    "scene": 7,
-    "start_after_line": 706,
-    "instruction": "Begin I.7 at Folger line 707; add scene navigation before publishing."
+    "scene": 8,
+    "start_after_line": 715,
+    "instruction": "Begin I.8 at Folger line 716; add scene navigation before publishing."
   },
   "completed_acts": [],
   "last_update_commit": "atomic_commit_pending_sha",
