@@ -256,13 +256,22 @@
       "last_line": 589,
       "editorial_state": "translated_source_checked",
       "note": "Seven complete speeches: soldiers loot Corioles, Martius rebukes them, directs Lartius to secure the city and departs to aid Cominius. Folger online checked."
+    },
+    {
+      "id": "coriolanus-1-5-590-599",
+      "act": 1,
+      "scene": 5,
+      "first_line": 590,
+      "last_line": 599,
+      "editorial_state": "translated_source_checked",
+      "note": "Three complete closing speeches: Lartius blesses Martius, Martius returns the wish, and Lartius summons the city officers; Folger online checked. I.5 complete pending review."
     }
   ],
   "next_fragment": {
     "act": 1,
-    "scene": 5,
-    "start_after_line": 589,
-    "instruction": "Continue at Folger 590 with Lartius's invocation to Fortune; close I.5 at 599 if natural."
+    "scene": 6,
+    "start_after_line": 599,
+    "instruction": "Begin Folger 600 in I.6; add scene to navigation before publishing."
   },
   "completed_acts": [],
   "last_update_commit": "atomic_commit_pending_sha",
