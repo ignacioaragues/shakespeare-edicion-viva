@@ -2839,8 +2839,8 @@ window.SHAKESPEARE_READER_DATA = {
   "scene": 9,
   "place": "Campo romano · Tras la batalla",
   "sourceRef": "Folger Shakespeare Library · Acto I, escena 9",
-  "sectionLabel": "Edición en curso · líneas Folger 738–759",
-  "introduction": "Cominio ensalza la actuación de Marcio ante el ejército. Larcio se une a ellos y Marcio rechaza los elogios, incluso los de su madre.",
+  "sectionLabel": "Edición en curso · líneas Folger 738–778",
+  "introduction": "Cominio ensalza la actuación de Marcio ante el ejército. Larcio se une a ellos; Marcio rechaza los elogios, mientras Cominio insiste en que Roma debe conocer sus hazañas y le ofrece parte del botín.",
   "stage": "Suena la alarma; se toca retirada y después una fanfarria. Entran Cominio y los romanos por una puerta; por otra, Marcio, con un brazo en cabestrillo.",
   "characters": [
     {
@@ -2957,7 +2957,97 @@ window.SHAKESPEARE_READER_DATA = {
           "body": "Effected indica haber realizado efectivamente una buena intención; Marcio declara que quien cumple por entero su propósito moral lo aventaja, una valoración suya y no un hecho objetivo."
         }
       ]
-    }
+    },
+        {
+                "line": "760–768",
+                "speaker": "cominius",
+                "en": "You shall not be The grave of your deserving. Rome must know The value of her own. ’Twere a concealment Worse than a theft, no less than a traducement, To hide your doings and to silence that Which, to the spire and top of praises vouched, Would seem but modest. Therefore, I beseech you— In sign of what you are, not to reward What you have done—before our army hear me.",
+                "es": "No permitiré que tus méritos queden sepultados contigo. Roma debe conocer el valor de uno de los suyos. Ocultar tus hazañas y callar lo que, aun proclamado con las mayores alabanzas, parecería modesto sería un encubrimiento peor que un robo, casi una difamación. Por eso te ruego que me escuches ante nuestro ejército: no para recompensar lo que has hecho, sino para dar testimonio de quién eres.",
+                "notes": [
+                          {
+                                    "term": "grave of your deserving",
+                                    "type": "Metáfora",
+                                    "title": "Sepultar los propios méritos",
+                                    "body": "Cominio presenta el silencio de Marcio como una tumba que impediría que sus servicios fueran conocidos públicamente."
+                          },
+                          {
+                                    "term": "traducement",
+                                    "type": "Léxico histórico",
+                                    "title": "Difamación",
+                                    "body": "Traducement es la acción de desacreditar o calumniar; para Cominio, ocultar los méritos equivale a perjudicar la reputación de Marcio."
+                          },
+                          {
+                                    "term": "spire and top",
+                                    "type": "Retórica",
+                                    "title": "La cima de los elogios",
+                                    "body": "La imagen arquitectónica acumula dos términos de altura para expresar el grado máximo de alabanza, que aun así resultaría insuficiente."
+                          },
+                          {
+                                    "term": "In sign of what you are",
+                                    "type": "Distinción retórica",
+                                    "title": "Reconocimiento, no pago",
+                                    "body": "Cominio distingue el testimonio público de la valía de Marcio de una recompensa material por sus acciones."
+                          }
+                ]
+      },
+        {
+                "line": "769–770",
+                "speaker": "martius",
+                "en": "I have some wounds upon me, and they smart To hear themselves remembered.",
+                "es": "Tengo algunas heridas, y me escuecen cuando oyen que las recuerdan.",
+                "notes": [
+                          {
+                                    "term": "smart",
+                                    "type": "Léxico",
+                                    "title": "Dolor punzante",
+                                    "body": "Smart significa doler o escocer; el verbo atribuye a las heridas una reacción física a las palabras."
+                          },
+                          {
+                                    "term": "hear themselves remembered",
+                                    "type": "Personificación",
+                                    "title": "Heridas que escuchan",
+                                    "body": "Marcio personifica sus heridas como si pudieran oír las alabanzas y reaccionar al recuerdo de su origen."
+                          }
+                ]
+      },
+        {
+                "line": "771–778",
+                "speaker": "cominius",
+                "en": "Should they not, Well might they fester ’gainst ingratitude And tent themselves with death. Of all the horses— Whereof we have ta’en good and good store—of all The treasure in this field achieved and city, We render you the tenth, to be ta’en forth Before the common distribution At your only choice.",
+                "es": "Y si no les doliera, bien podrían supurar por nuestra ingratitud y abrirse hasta causar la muerte. De todos los caballos —hemos capturado muchos y buenos— y de todo el botín obtenido en este campo y en la ciudad, te concedemos una décima parte, para que la escojas a tu gusto antes del reparto general.",
+                "notes": [
+                          {
+                                    "term": "Should they not",
+                                    "type": "Gramática histórica",
+                                    "title": "Condicional elíptica",
+                                    "body": "La inversión equivale a «si no lo hicieran»: Cominio retoma el escozor de las heridas mencionado por Marcio."
+                          },
+                          {
+                                    "term": "tent themselves with death",
+                                    "type": "Léxico médico e imagen",
+                                    "title": "Heridas que se abren",
+                                    "body": "Tent puede remitir a explorar o mantener abierta una herida con una sonda o mecha; la expresión exagera el daño que provocaría la ingratitud. La interpretación exacta de la imagen es discutible."
+                          },
+                          {
+                                    "term": "good and good store",
+                                    "type": "Énfasis",
+                                    "title": "Calidad y cantidad",
+                                    "body": "La repetición de good distingue caballos valiosos y un número abundante de capturas."
+                          },
+                          {
+                                    "term": "the tenth",
+                                    "type": "Reparto del botín",
+                                    "title": "La décima parte",
+                                    "body": "Cominio ofrece a Marcio un diezmo del botín antes de su distribución entre los soldados; se trata de una concesión excepcional dentro de la escena."
+                          },
+                          {
+                                    "term": "At your only choice",
+                                    "type": "Sintaxis",
+                                    "title": "A su exclusiva elección",
+                                    "body": "Only restringe la elección a Marcio, que podrá seleccionar personalmente los bienes de su décima parte."
+                          }
+                ]
+      }
   ]
 }
   ]
