@@ -1294,7 +1294,7 @@ window.SHAKESPEARE_READER_DATA = {
       "scene": 4,
       "place": "Ante las murallas de Corioles",
       "sourceRef": "Folger Shakespeare Library · Acto I, escena 4",
-      "sectionLabel": "Edición en curso · líneas Folger 486–502",
+      "sectionLabel": "Edición en curso · líneas Folger 486–525",
       "introduction": "Marcio y Tito Larcio aguardan noticias del ejército de Cominio mientras preparan el asalto a Corioles.",
       "stage": "Entran Cayo Marcio y Tito Larcio, con trompeta, tambor, estandartes, capitanes y soldados ante Corioles. Se les une un mensajero.",
       "characters": [
@@ -1318,7 +1318,8 @@ window.SHAKESPEARE_READER_DATA = {
           "english": "Messenger",
           "identity": "Trae noticias de las posiciones del ejército de Cominio.",
           "color": "slate"
-        }
+        },
+        {"id":"senator1","name":"Primer senador volsco","english":"First Senator","identity":"Defensor de Corioles que desafía a Marcio desde las murallas.","color":"ink"}
       ],
       "blocks": [
         {
@@ -1497,7 +1498,12 @@ window.SHAKESPEARE_READER_DATA = {
               "body": "Blast designa aquí el sonido emitido por un instrumento de viento militar."
             }
           ]
-        }
+        },
+        {"line":"503","speaker":"martius","stageBefore":"Suena una señal de parlamento. Entran dos senadores y otros volscos sobre las murallas de Corioles.","en":"Tullus Aufidius, is he within your walls?","es":"¿Está Tulo Aufidio dentro de sus murallas?","notes":[{"term":"within your walls","type":"Léxico","title":"Dentro de la ciudad","body":"La referencia a las murallas identifica a Corioles como plaza fortificada; Marcio pregunta por la presencia de su rival."}]},
+        {"line":"504–514","speaker":"senator1","en":"No, nor a man that fears you less than he: That’s lesser than a little. Hark, our drums Are bringing forth our youth. We’ll break our walls Rather than they shall pound us up. Our gates, Which yet seem shut, we have but pinned with rushes. They’ll open of themselves. Hark you, far off! There is Aufidius. List what work he makes Amongst your cloven army.","es":"No, ni hay aquí hombre alguno que les tema menos que él; y eso es menos que casi nada. ¡Escuchen! Nuestros tambores llaman a los jóvenes a salir. Antes derribaríamos nuestras propias murallas que dejarnos encerrar por ustedes. Nuestras puertas, aunque parezcan cerradas, están sujetas apenas con juncos: se abrirán solas. ¡Escuchen allá a lo lejos! Allí está Aufidio. Oigan el estrago que causa entre su ejército dividido.","stageBefore":"Un tambor suena a lo lejos durante el parlamento; más tarde se oye otra alarma distante.","notes":[{"term":"lesser than a little","type":"Retórica","title":"Menos que casi nada","body":"La réplica intensifica mediante una comparación paradójica el desprecio que los defensores dicen sentir por los romanos."},{"term":"pound us up","type":"Léxico histórico","title":"Encerrarnos","body":"Pound funciona como verbo de encerrar o confinar, como se hace con animales en un cercado; no significa aquí golpear."},{"term":"pinned with rushes","type":"Imagen","title":"Apenas sujetas con juncos","body":"Los juncos son cierres proverbialmente débiles: el senador afirma que las puertas pueden abrirse fácilmente para una salida ofensiva."},{"term":"List","type":"Gramática histórica","title":"Escuchen","body":"Imperativo de list, forma abreviada o variante de listen."},{"term":"cloven army","type":"Interpretación","title":"Ejército dividido","body":"Cloven significa partido o hendido; el senador presenta como hecho la ruptura de las filas romanas, en tono provocador."}]},
+        {"line":"515","speaker":"martius","stageBefore":"Los senadores se retiran de las murallas.","en":"O, they are at it!","es":"¡Ah, ya están combatiendo!","notes":[{"term":"at it","type":"Expresión idiomática","title":"En plena acción","body":"La expresión remite aquí al combate que se oye fuera de escena."}]},
+        {"line":"516","speaker":"lartius","en":"Their noise be our instruction.—Ladders, ho!","es":"Que el estruendo nos sirva de señal. ¡Escalas, aquí!","notes":[{"term":"Their noise be our instruction","type":"Sintaxis","title":"Que el ruido nos guíe","body":"Be tiene valor exhortativo: Larcio propone tomar el ruido del combate como señal para actuar."},{"term":"Ladders","type":"Léxico militar","title":"Escalas de asalto","body":"Son escalas para franquear una muralla, no escaleras domésticas."}]},
+        {"line":"517–525","speaker":"martius","stageBefore":"Sale el ejército volsco por las puertas de la ciudad.","en":"They fear us not but issue forth their city.— Now put your shields before your hearts, and fight With hearts more proof than shields.—Advance, brave Titus. They do disdain us much beyond our thoughts, Which makes me sweat with wrath.—Come on, my fellows! He that retires, I’ll take him for a Volsce, And he shall feel mine edge.","es":"No nos temen: salen de su ciudad a enfrentarnos. ¡Pongan ahora los escudos delante del pecho y combatan con corazones más resistentes que los escudos! ¡Adelante, valiente Tito! Nos desprecian mucho más de lo que imaginábamos, y eso me hace sudar de rabia. ¡Vamos, compañeros! Al que retroceda lo consideraré un volsco, y sentirá el filo de mi espada.","notes":[{"term":"issue forth","type":"Léxico","title":"Salir en formación","body":"Issue forth significa salir al exterior; aquí designa una salida militar desde las puertas de la ciudad."},{"term":"more proof than shields","type":"Retórica","title":"Más resistentes que los escudos","body":"Proof expresa resistencia a un ataque. La exhortación contrapone la firmeza interior al equipo defensivo."},{"term":"disdain","type":"Léxico","title":"Despreciar","body":"El desprecio que Marcio atribuye a los volscos provoca su ira, antes incluso del choque."},{"term":"He that retires","type":"Sintaxis","title":"Quien retroceda","body":"He that es una construcción relativa generalizadora; retires significa aquí retirarse del combate."},{"term":"mine edge","type":"Metonimia","title":"El filo de mi espada","body":"Edge designa por metonimia el arma cortante con la que amenaza a sus propios soldados."}]}
       ]
     }
   ]

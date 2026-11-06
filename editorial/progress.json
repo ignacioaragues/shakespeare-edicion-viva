@@ -211,13 +211,22 @@
       "last_line": 502,
       "editorial_state": "translated_source_checked",
       "note": "Opening before Corioles: wager, messenger's report and Martius's invocation to Mars; twelve complete speech blocks; Folger online checked."
+    },
+    {
+      "id": "coriolanus-1-4-503-525",
+      "act": 1,
+      "scene": 4,
+      "first_line": 503,
+      "last_line": 525,
+      "editorial_state": "translated_source_checked",
+      "note": "Parley at the walls, Volscian challenge, and Martius's exhortation; five complete speeches, Folger online checked."
     }
   ],
   "next_fragment": {
     "act": 1,
     "scene": 4,
-    "start_after_line": 502,
-    "instruction": "Continue with the parley and Volscian senators from Folger global line 503."
+    "start_after_line": 525,
+    "instruction": "Continue with Martius's curse after the Roman retreat, Folger global line 526."
   },
   "completed_acts": [],
   "last_update_commit": "atomic_commit_pending_sha",
