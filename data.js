@@ -465,7 +465,7 @@ window.SHAKESPEARE_READER_DATA = {
   "scene": 3,
   "place": "Roma · Casa de Cayo Marcio",
   "sourceRef": "Folger Shakespeare Library · Acto I, escena 3",
-  "sectionLabel": "Edición en curso · líneas Folger 370–425",
+  "sectionLabel": "Edición en curso · líneas Folger 370–440",
   "introduction": "Volumnia y Virgilia contraponen la gloria militar y el temor por la vida de Marcio.",
   "stage": "Entran Volumnia y Virgilia, madre y esposa de Marcio. Se sientan en dos taburetes bajos y cosen.",
   "characters": [
@@ -782,7 +782,114 @@ window.SHAKESPEARE_READER_DATA = {
             "title": "Motivo bordado",
             "body": "Spot puede referirse a un pequeño motivo ornamental de la labor de aguja, no necesariamente a una mancha."
         }
-    ]
+    ],
+{
+  "line": "426",
+  "speaker": "virgilia",
+  "en": "I thank your Ladyship; well, good madam.",
+  "es": "Gracias por preguntar, señora. Está bien.",
+  "notes": [
+    {
+      "term": "your Ladyship",
+      "type": "Tratamiento",
+      "title": "Fórmula de cortesía",
+      "body": "Tratamiento respetuoso a Valeria, sin equivalente literal natural en español."
+    }
+  ]
+},
+{
+  "line": "427–428",
+  "speaker": "volumnia",
+  "en": "He had rather see the swords and hear a drum than look upon his schoolmaster.",
+  "es": "Prefiere ver espadas y oír un tambor antes que mirar a su maestro.",
+  "notes": [
+    {
+      "term": "had rather",
+      "type": "Gramática histórica",
+      "title": "Preferencia",
+      "body": "Had rather equivale a would rather. Volumnia celebra la inclinación bélica del niño."
+    }
+  ]
+},
+{
+  "line": "429–437",
+  "speaker": "valeria",
+  "en": "O’ my word, the father’s son! I’ll swear ’tis a very pretty boy. O’ my troth, I looked upon him o’ Wednesday half an hour together. H’as such a confirmed countenance. I saw him run after a gilded butterfly, and when he caught it, he let it go again, and after it again, and over and over he comes, and up again, catched it again. Or whether his fall enraged him or how ’twas, he did so set his teeth and tear it. O, I warrant how he mammocked it!",
+  "es": "¡Por mi palabra, es igual que su padre! Juro que es un niño encantador. El miércoles lo estuve observando durante media hora seguida. Tiene una expresión tan resuelta... Lo vi perseguir una mariposa dorada; cuando la atrapó, la soltó y volvió a correr tras ella. Una y otra vez se caía, se levantaba y volvía a atraparla. No sé si lo enfureció alguna caída o qué ocurrió, pero apretó los dientes y la despedazó. ¡Vaya si la hizo pedazos!",
+  "notes": [
+    {
+      "term": "the father’s son",
+      "type": "Retórica",
+      "title": "De tal padre, tal hijo",
+      "body": "Valeria interpreta el comportamiento del niño como reproducción del temperamento paterno: es su juicio, no una afirmación del editor."
+    },
+    {
+      "term": "confirmed countenance",
+      "type": "Léxico",
+      "title": "Expresión firme",
+      "body": "Confirmed sugiere firmeza o determinación en el rostro del niño."
+    },
+    {
+      "term": "gilded butterfly",
+      "type": "Léxico",
+      "title": "Mariposa dorada",
+      "body": "Gilded puede describir el brillo dorado, sin implicar un baño de oro literal."
+    },
+    {
+      "term": "catched",
+      "type": "Gramática histórica",
+      "title": "Pasado de catch",
+      "body": "Catched es una forma histórica del pasado de catch; hoy predomina caught."
+    },
+    {
+      "term": "mammocked",
+      "type": "Léxico histórico",
+      "title": "Hacer pedazos",
+      "body": "Mammock significa despedazar o destrozar. El juego infantil culmina en una imagen de violencia."
+    }
+  ]
+},
+{
+  "line": "438",
+  "speaker": "volumnia",
+  "en": "One on ’s father’s moods.",
+  "es": "Uno de los arrebatos de su padre.",
+  "notes": [
+    {
+      "term": "on ’s",
+      "type": "Gramática histórica",
+      "title": "Contracción",
+      "body": "On ’s representa aquí «of his»; Volumnia reconoce en el niño el carácter de Marcio."
+    }
+  ]
+},
+{
+  "line": "439",
+  "speaker": "valeria",
+  "en": "Indeed, la, ’tis a noble child.",
+  "es": "Desde luego, ¡vaya que es un niño noble!",
+  "notes": [
+    {
+      "term": "la",
+      "type": "Partícula discursiva",
+      "title": "Interjección",
+      "body": "La es una partícula exclamativa coloquial que refuerza la afirmación."
+    }
+  ]
+},
+{
+  "line": "440",
+  "speaker": "virgilia",
+  "en": "A crack, madam.",
+  "es": "Un pequeño travieso, señora.",
+  "notes": [
+    {
+      "term": "crack",
+      "type": "Léxico histórico",
+      "title": "Muchacho travieso",
+      "body": "Crack puede designar a un muchacho pícaro o travieso; Virgilia matiza el elogio."
+    }
+  ]
 }
   ]
 }
