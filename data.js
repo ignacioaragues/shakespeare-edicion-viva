@@ -465,7 +465,7 @@ window.SHAKESPEARE_READER_DATA = {
   "scene": 3,
   "place": "Roma · Casa de Cayo Marcio",
   "sourceRef": "Folger Shakespeare Library · Acto I, escena 3",
-  "sectionLabel": "Edición en curso · líneas Folger 370–409",
+  "sectionLabel": "Edición en curso · líneas Folger 370–425",
   "introduction": "Volumnia y Virgilia contraponen la gloria militar y el temor por la vida de Marcio.",
   "stage": "Entran Volumnia y Virgilia, madre y esposa de Marcio. Se sientan en dos taburetes bajos y cosen.",
   "characters": [
@@ -659,7 +659,131 @@ window.SHAKESPEARE_READER_DATA = {
           "body": "Los corchetes angulares de Folger señalan una intervención editorial en la lectura; no deben confundirse con signos pronunciados por el personaje."
         }
       ]
-    }
+    },
+{
+    "line": "410",
+    "speaker": "virgilia",
+    "en": "His bloody brow? O Jupiter, no blood!",
+    "es": "¿Su frente ensangrentada? ¡Oh, Júpiter, que no haya sangre!",
+    "notes": [
+        {
+            "term": "O Jupiter",
+            "type": "Invocación",
+            "title": "Júpiter",
+            "body": "Virgilia invoca al dios supremo romano en una súplica que contrasta con la exaltación bélica de Volumnia."
+        }
+    ]
+},
+{
+    "line": "411–416",
+    "speaker": "volumnia",
+    "en": "Away, you fool! It more becomes a man Than gilt his trophy. The breasts of Hecuba, When she did suckle Hector, looked not lovelier Than Hector’s forehead when it spit forth blood At Grecian sword, contemning.—Tell Valeria We are fit to bid her welcome.",
+    "es": "¡Basta, necia! La sangre le sienta mejor a un hombre que el dorado a su trofeo. Los pechos de Hécuba, cuando amamantaba a Héctor, no eran más hermosos que la frente de Héctor cuando, desafiando una espada griega, brotaba sangre de ella. Dile a Valeria que estamos listas para recibirla.",
+    "stageAfter": "Sale la dama de compañía.",
+    "notes": [
+        {
+            "term": "becomes",
+            "type": "Léxico",
+            "title": "Sentar bien",
+            "body": "Become significa aquí «favorecer» o «sentar bien», no «convertirse en»."
+        },
+        {
+            "term": "gilt his trophy",
+            "type": "Imagen",
+            "title": "El dorado y la sangre",
+            "body": "Volumnia compara la sangre que adorna al combatiente con el dorado que embellece un trofeo: una valoración estética deliberadamente provocadora."
+        },
+        {
+            "term": "Hecuba",
+            "type": "Mitología",
+            "title": "Hécuba y Héctor",
+            "body": "Hécuba es la madre de Héctor, defensor de Troya. La imagen opone la lactancia materna a la sangre del guerrero adulto."
+        },
+        {
+            "term": "contemning",
+            "type": "Sintaxis e interpretación",
+            "title": "Desafiando",
+            "body": "El participio expresa desprecio o desafío ante la espada griega; la puntuación permite cierta ambigüedad sobre la relación exacta con la acción de sangrar."
+        }
+    ]
+},
+{
+    "line": "417",
+    "speaker": "virgilia",
+    "en": "Heavens bless my lord from fell Aufidius!",
+    "es": "¡Que los cielos protejan a mi esposo del feroz Aufidio!",
+    "notes": [
+        {
+            "term": "fell",
+            "type": "Léxico histórico",
+            "title": "Feroz",
+            "body": "Fell, aplicado a Aufidio, significa «cruel» o «feroz», no el pasado de fall."
+        }
+    ]
+},
+{
+    "line": "418–419",
+    "speaker": "volumnia",
+    "en": "He’ll beat Aufidius’ head below his knee And tread upon his neck.",
+    "es": "Le hundirá a Aufidio la cabeza por debajo de la rodilla y le pisoteará el cuello.",
+    "notes": [
+        {
+            "term": "below his knee",
+            "type": "Imagen",
+            "title": "Humillación física",
+            "body": "La imagen exagera la derrota del adversario hasta representarlo literalmente sometido bajo el cuerpo de Marcio."
+        }
+    ]
+},
+{
+    "line": "420",
+    "speaker": "valeria",
+    "stageBefore": "Entra Valeria acompañada por un ujier y una dama de compañía.",
+    "en": "My ladies both, good day to you.",
+    "es": "Buenos días a las dos, señoras.",
+    "notes": []
+},
+{
+    "line": "421",
+    "speaker": "volumnia",
+    "en": "Sweet madam.",
+    "es": "Mi querida señora.",
+    "notes": []
+},
+{
+    "line": "422",
+    "speaker": "virgilia",
+    "en": "I am glad to see your Ladyship.",
+    "es": "Me alegra verla, señora.",
+    "notes": [
+        {
+            "term": "your Ladyship",
+            "type": "Tratamiento",
+            "title": "Fórmula de cortesía",
+            "body": "Tratamiento respetuoso dirigido a una mujer de posición social elevada; se evita traducirlo literalmente como «su señoría» para conservar la naturalidad del diálogo."
+        }
+    ]
+},
+{
+    "line": "423–425",
+    "speaker": "valeria",
+    "en": "How do you both? You are manifest housekeepers. What are you sewing here? A fine spot, in good faith. How does your little son?",
+    "es": "¿Cómo están las dos? Se ve que son muy hogareñas. ¿Qué están bordando? Un trabajo delicado, de veras. ¿Cómo está tu hijito?",
+    "notes": [
+        {
+            "term": "manifest housekeepers",
+            "type": "Léxico y tono",
+            "title": "Mujeres de casa",
+            "body": "Valeria comenta, con un matiz juguetón, que las encuentra ocupadas en labores domésticas; housekeepers no significa aquí empleadas de limpieza."
+        },
+        {
+            "term": "spot",
+            "type": "Léxico",
+            "title": "Motivo bordado",
+            "body": "Spot puede referirse a un pequeño motivo ornamental de la labor de aguja, no necesariamente a una mancha."
+        }
+    ]
+}
   ]
 }
   ]
