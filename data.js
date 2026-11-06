@@ -13,7 +13,7 @@ window.SHAKESPEARE_READER_DATA = {
       spanishTitle: "Coriolano",
       kind: "Tragedia romana",
       source: "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/",
-      sceneIds: ["coriolanus-1-1", "coriolanus-1-2", "coriolanus-1-3", "coriolanus-1-4", "coriolanus-1-5", "coriolanus-1-6", "coriolanus-1-7", "coriolanus-1-8"]
+      sceneIds: ["coriolanus-1-1", "coriolanus-1-2", "coriolanus-1-3", "coriolanus-1-4", "coriolanus-1-5", "coriolanus-1-6", "coriolanus-1-7", "coriolanus-1-8", "coriolanus-1-9"]
     }
   ],
   scenes: [
@@ -2831,6 +2831,134 @@ window.SHAKESPEARE_READER_DATA = {
           ]
         }
       ]
+    },
+    {
+  "id": "coriolanus-1-9",
+  "workId": "coriolanus",
+  "act": 1,
+  "scene": 9,
+  "place": "Campo romano · Tras la batalla",
+  "sourceRef": "Folger Shakespeare Library · Acto I, escena 9",
+  "sectionLabel": "Edición en curso · líneas Folger 738–759",
+  "introduction": "Cominio ensalza la actuación de Marcio ante el ejército. Larcio se une a ellos y Marcio rechaza los elogios, incluso los de su madre.",
+  "stage": "Suena la alarma; se toca retirada y después una fanfarria. Entran Cominio y los romanos por una puerta; por otra, Marcio, con un brazo en cabestrillo.",
+  "characters": [
+    {
+      "id": "cominius",
+      "name": "Cominio",
+      "english": "Cominius",
+      "identity": "General romano que elogia los méritos militares de Marcio.",
+      "color": "olive"
+    },
+    {
+      "id": "martius",
+      "name": "Cayo Marcio",
+      "english": "Caius Martius",
+      "identity": "Guerrero romano, herido después del combate.",
+      "color": "violet"
+    },
+    {
+      "id": "lartius",
+      "name": "Tito Larcio",
+      "english": "Titus Lartius",
+      "identity": "Oficial romano que regresa de la persecución de los volscos.",
+      "color": "slate"
     }
+  ],
+  "blocks": [
+    {
+      "line": "738–749",
+      "speaker": "cominius",
+      "en": "If I should tell thee o’er this thy day’s work, Thou ’t not believe thy deeds. But I’ll report it Where senators shall mingle tears with smiles; Where great patricians shall attend and shrug, I’ th’ end admire; where ladies shall be frighted And, gladly quaked, hear more; where the dull tribunes, That with the fusty plebeians hate thine honors, Shall say against their hearts “We thank the gods Our Rome hath such a soldier.” Yet cam’st thou to a morsel of this feast, Having fully dined before.",
+      "es": "Si te relatara una por una las hazañas de hoy, ni tú mismo las creerías. Pero las contaré donde los senadores mezclarán lágrimas y sonrisas; donde los grandes patricios escucharán, se encogerán de hombros y acabarán admirados; donde las damas se estremecerán y, aun temblando de gusto, querrán oír más; donde los torpes tribunos, que junto con los rancios plebeyos detestan tus honores, dirán contra su propia voluntad: «Damos gracias a los dioses porque Roma tiene un soldado así». Y, sin embargo, llegaste apenas a probar un bocado de este banquete, pues ya habías comido hasta saciarte.",
+      "stageBefore": "(Cominio se dirige a Marcio.)",
+      "notes": [
+        {
+          "term": "Thou ’t not",
+          "type": "Gramática histórica",
+          "title": "Negación y elisión",
+          "body": "La forma elidida equivale en contexto a «tú no creerías»; el verbo auxiliar queda reducido en el verso."
+        },
+        {
+          "term": "gladly quaked",
+          "type": "Retórica",
+          "title": "Temor placentero",
+          "body": "La yuxtaposición une el estremecimiento del miedo con el placer de escuchar más; es una reacción imaginada por Cominio."
+        },
+        {
+          "term": "fusty",
+          "type": "Léxico",
+          "title": "Rancio",
+          "body": "Fusty designa lo enmohecido o rancio y funciona aquí como insulto social hacia los plebeyos."
+        },
+        {
+          "term": "against their hearts",
+          "type": "Expresión idiomática",
+          "title": "Contra su voluntad",
+          "body": "Los tribunos pronunciarían elogios contrarios a sus sentimientos; Cominio imagina una alabanza forzada."
+        },
+        {
+          "term": "morsel of this feast",
+          "type": "Metáfora",
+          "title": "La batalla como banquete",
+          "body": "La comida figurada representa el combate: Marcio había luchado abundantemente antes de sumarse al ejército de Cominio."
+        }
+      ]
+    },
+    {
+      "line": "750–752",
+      "speaker": "lartius",
+      "en": "O general, Here is the steed, we the caparison. Hadst thou beheld—",
+      "es": "¡General! Aquí está el corcel; nosotros no somos más que sus arreos. Si hubieras visto...",
+      "stageBefore": "Entra Tito Larcio con sus tropas, de regreso de la persecución.",
+      "notes": [
+        {
+          "term": "steed",
+          "type": "Metáfora",
+          "title": "El caballo y sus arreos",
+          "body": "Larcio identifica a Marcio con el caballo de guerra y al resto con su equipamiento: la imagen subordina la contribución colectiva a la fuerza del héroe."
+        },
+        {
+          "term": "Hadst thou beheld",
+          "type": "Gramática histórica",
+          "title": "Condicional sin if",
+          "body": "La inversión del auxiliar y el sujeto equivale a «si hubieras visto»; el parlamento queda interrumpido por Marcio."
+        }
+      ]
+    },
+    {
+      "line": "753–759",
+      "speaker": "martius",
+      "en": "Pray now, no more. My mother, Who has a charter to extol her blood, When she does praise me grieves me. I have done As you have done—that’s what I can; Induced as you have been—that’s for my country. He that has but effected his good will Hath overta’en mine act.",
+      "es": "Te ruego que no sigas. Hasta mi madre, que tiene pleno derecho a ensalzar a su propia sangre, me incomoda cuando me elogia. He hecho lo mismo que ustedes: eso es cuanto puedo decir. Me ha movido el mismo impulso que a ustedes: servir a mi patria. Quien haya llevado a cabo todo el bien que se propuso ha superado mis actos.",
+      "notes": [
+        {
+          "term": "charter",
+          "type": "Léxico jurídico",
+          "title": "Derecho reconocido",
+          "body": "Charter es una carta de privilegio o autorización; Marcio concede figuradamente a su madre el derecho a celebrar a su hijo."
+        },
+        {
+          "term": "her blood",
+          "type": "Metonimia",
+          "title": "Su descendencia",
+          "body": "Blood alude al parentesco: Marcio es sangre de su madre."
+        },
+        {
+          "term": "Induced",
+          "type": "Semántica",
+          "title": "Motivación compartida",
+          "body": "Induced se refiere al impulso o motivo que llevó a combatir; Marcio insiste en que no actuó por una razón distinta a la de sus compañeros."
+        },
+        {
+          "term": "effected his good will",
+          "type": "Interpretación",
+          "title": "Intención y acción",
+          "body": "Effected indica haber realizado efectivamente una buena intención; Marcio declara que quien cumple por entero su propósito moral lo aventaja, una valoración suya y no un hecho objetivo."
+        }
+      ]
+    }
+  ]
+}
   ]
 };

@@ -328,13 +328,22 @@
       "last_line": 737,
       "editorial_state": "translated_source_checked",
       "note": "Complete I.8: seven speech blocks and stage directions, Folger online checked. Pending full editorial review."
+    },
+    {
+      "id": "coriolanus-1-9-738-759",
+      "act": 1,
+      "scene": 9,
+      "first_line": 738,
+      "last_line": 759,
+      "editorial_state": "translated_source_checked",
+      "note": "Three complete speeches: Cominius praises Martius, Lartius adds a horse metaphor, and Martius rejects the praise; Folger online checked."
     }
   ],
   "next_fragment": {
     "act": 1,
     "scene": 9,
-    "start_after_line": 737,
-    "instruction": "Begin I.9 at Folger line 738; add scene navigation before publishing."
+    "start_after_line": 759,
+    "instruction": "Continue with Cominius at Folger line 760; retain complete speech boundaries."
   },
   "completed_acts": [],
   "last_update_commit": "atomic_commit_pending_sha",
