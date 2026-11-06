@@ -13,7 +13,7 @@ window.SHAKESPEARE_READER_DATA = {
       spanishTitle: "Coriolano",
       kind: "Tragedia romana",
       source: "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/",
-      sceneIds: ["coriolanus-1-1", "coriolanus-1-2", "coriolanus-1-3", "coriolanus-1-4"]
+      sceneIds: ["coriolanus-1-1", "coriolanus-1-2", "coriolanus-1-3", "coriolanus-1-4", "coriolanus-1-5"]
     }
   ],
   scenes: [
@@ -1520,6 +1520,234 @@ window.SHAKESPEARE_READER_DATA = {
 ,
         {"line":"565","speaker":"soldier1","stageBefore":"Entra Marcio, ensangrentado, desde Corioles, acosado por los enemigos.","en":"Look, sir.","es":"Mire, señor.","notes":[{"term":"Look","type":"Dramaturgia","title":"Reconocimiento visual","body":"La intervención brevísima interrumpe el elogio fúnebre de Larcio: la aparición de Marcio desmiente inmediatamente la noticia de su muerte."}]},
         {"line":"566–567","speaker":"lartius","en":"O, ’tis Martius! Let’s fetch him off or make remain alike.","es":"¡Ah, es Marcio! ¡Vamos a rescatarlo o a quedarnos allí con él!","stageAfter":"Combaten y todos entran en la ciudad. Salen de escena.","notes":[{"term":"fetch him off","type":"Léxico dramático","title":"Rescatarlo","body":"Fetch off significa sacar a alguien de una situación de peligro, aquí apartarlo de los atacantes."},{"term":"make remain alike","type":"Sintaxis e interpretación","title":"Compartir su suerte","body":"La elipsis contrapone traer de vuelta a Marcio y permanecer con él; alike subraya la suerte común de quienes entren a auxiliarlo. La traducción explicita la alternativa sin añadir una muerte segura."}]}
+      ]
+    },
+    {
+      "id": "coriolanus-1-5",
+      "workId": "coriolanus",
+      "act": 1,
+      "scene": 5,
+      "place": "Corioles · Interior de la ciudad",
+      "sourceRef": "Folger Shakespeare Library · Acto I, escena 5",
+      "sectionLabel": "Edición en curso · líneas Folger 568–589",
+      "introduction": "Tras la entrada de los romanos en Corioles, algunos soldados se entregan al saqueo. Marcio los reprende y decide acudir al campo de batalla para auxiliar a Cominio.",
+      "stage": "Entran varios soldados romanos con objetos tomados como botín.",
+      "characters": [
+        {
+          "id": "roman1",
+          "name": "Primer romano",
+          "english": "First Roman",
+          "identity": "Soldado romano que lleva botín de Corioles.",
+          "color": "slate"
+        },
+        {
+          "id": "roman2",
+          "name": "Segundo romano",
+          "english": "Second Roman",
+          "identity": "Otro soldado romano que participa en el saqueo.",
+          "color": "copper"
+        },
+        {
+          "id": "roman3",
+          "name": "Tercer romano",
+          "english": "Third Roman",
+          "identity": "Soldado que descubre que su botín no es de plata.",
+          "color": "olive"
+        },
+        {
+          "id": "martius",
+          "name": "Cayo Marcio",
+          "english": "Caius Martius",
+          "identity": "Comandante romano que reprende el saqueo y se dispone a auxiliar a Cominio.",
+          "color": "violet"
+        },
+        {
+          "id": "lartius",
+          "name": "Tito Larcio",
+          "english": "Titus Lartius",
+          "identity": "Comandante encargado de asegurar Corioles.",
+          "color": "ink"
+        }
+      ],
+      "blocks": [
+        {
+          "line": "568",
+          "speaker": "roman1",
+          "en": "This will I carry to Rome.",
+          "es": "Esto me lo llevaré a Roma.",
+          "notes": [
+            {
+              "term": "This will I",
+              "type": "Sintaxis",
+              "title": "Objeto antepuesto",
+              "body": "El objeto this precede al auxiliar will; la inversión enfatiza el objeto que el soldado se dispone a llevarse."
+            }
+          ]
+        },
+        {
+          "line": "569",
+          "speaker": "roman2",
+          "en": "And I this.",
+          "es": "Y yo, esto.",
+          "notes": [
+            {
+              "term": "And I this",
+              "type": "Elipsis",
+              "title": "Respuesta abreviada",
+              "body": "Se sobreentiende el verbo de la intervención anterior: «y yo llevaré esto»."
+            }
+          ]
+        },
+        {
+          "line": "570",
+          "speaker": "roman3",
+          "en": "A murrain on ’t! I took this for silver.",
+          "es": "¡Maldita sea! Creí que esto era plata.",
+          "notes": [
+            {
+              "term": "murrain",
+              "type": "Léxico histórico",
+              "title": "Maldición de enfermedad",
+              "body": "Murrain designa una peste del ganado; aquí se usa como imprecación, sin referencia a una epidemia efectiva."
+            },
+            {
+              "term": "took this for",
+              "type": "Sintaxis",
+              "title": "Confundir una cosa con otra",
+              "body": "Take for expresa identificar equivocadamente un objeto como otro."
+            }
+          ]
+        },
+        {
+          "line": "571–575",
+          "speaker": "martius",
+          "stageBefore": "Entran Marcio y Tito Larcio, acompañados de un trompeta.",
+          "en": "See here these movers that do prize their hours At a cracked drachma. Cushions, leaden spoons, Irons of a doit, doublets that hangmen would Bury with those that wore them, these base slaves, Ere yet the fight be done, pack up. Down with them!",
+          "es": "¡Miren a estos hombres que valoran su tiempo en una dracma rajada! Cojines, cucharas de plomo, baratijas de un ochavo, jubones que hasta los verdugos enterrarían con quienes los llevaban: ¡estos miserables se dedican a recogerlo todo antes de que termine la batalla! ¡Abajo con ellos!",
+          "notes": [
+            {
+              "term": "movers",
+              "type": "Léxico e interpretación",
+              "title": "Los que trasladan el botín",
+              "body": "Marcio señala despectivamente a quienes se afanan en transportar objetos. El valor preciso de movers depende del contexto de saqueo."
+            },
+            {
+              "term": "cracked drachma",
+              "type": "Léxico monetario",
+              "title": "Dracma rajada",
+              "body": "La moneda dañada sirve para representar un valor ínfimo; el pasaje contrapone el tiempo de combate al provecho mezquino."
+            },
+            {
+              "term": "Irons of a doit",
+              "type": "Léxico histórico",
+              "title": "Objetos de valor mínimo",
+              "body": "Doit es una moneda de escaso valor; irons se refiere a objetos de hierro. La expresión subraya la insignificancia del botín."
+            },
+            {
+              "term": "doublets",
+              "type": "Indumentaria",
+              "title": "Jubones",
+              "body": "El doublet era una prenda ajustada del torso, común en la indumentaria masculina de la época de Shakespeare."
+            },
+            {
+              "term": "Ere yet",
+              "type": "Gramática histórica",
+              "title": "Antes de que",
+              "body": "Ere es una conjunción temporal equivalente a before; yet refuerza que el combate todavía no ha terminado."
+            },
+            {
+              "term": "pack up",
+              "type": "Léxico contextual",
+              "title": "Recoger el botín",
+              "body": "En este contexto indica reunir y cargar objetos para llevárselos, no prepararse militarmente."
+            }
+          ]
+        },
+        {
+          "line": "576–581",
+          "speaker": "martius",
+          "stageBefore": "Salen los romanos que llevaban botín. Continúa oyéndose a lo lejos la alarma de combate.",
+          "en": "And hark, what noise the General makes! To him! There is the man of my soul’s hate, Aufidius, Piercing our Romans. Then, valiant Titus, take Convenient numbers to make good the city, Whilst I, with those that have the spirit, will haste To help Cominius.",
+          "es": "¡Escucha el estruendo que viene del general! ¡Vamos a socorrerlo! Allí está Aufidio, el hombre a quien odio con toda mi alma, atravesando a nuestros romanos. Así pues, valiente Tito, toma suficientes hombres para asegurar la ciudad, mientras yo me apresuro con quienes tengan ánimo para ayudar a Cominio.",
+          "notes": [
+            {
+              "term": "the General",
+              "type": "Referencia dramática",
+              "title": "Cominio",
+              "body": "El general al que Marcio se refiere es Cominio, a quien nombra explícitamente al final del parlamento."
+            },
+            {
+              "term": "my soul’s hate",
+              "type": "Retórica",
+              "title": "Enemistad absoluta",
+              "body": "El posesivo sitúa el odio en lo más íntimo del hablante, intensificando la rivalidad con Aufidio."
+            },
+            {
+              "term": "Piercing",
+              "type": "Léxico militar",
+              "title": "Atravesando a los soldados",
+              "body": "La forma participial presenta a Aufidio hiriendo o traspasando a los romanos en pleno combate."
+            },
+            {
+              "term": "Convenient numbers",
+              "type": "Léxico histórico",
+              "title": "Fuerzas suficientes",
+              "body": "Convenient significa aquí apropiado o adecuado para la tarea, no cómodo."
+            },
+            {
+              "term": "make good the city",
+              "type": "Locución militar",
+              "title": "Asegurar Corioles",
+              "body": "Make good expresa consolidar o mantener el control de una posición conquistada."
+            }
+          ]
+        },
+        {
+          "line": "582–584",
+          "speaker": "lartius",
+          "en": "Worthy sir, thou bleed’st. Thy exercise hath been too violent For a second course of fight.",
+          "es": "Noble señor, estás sangrando. El esfuerzo que has hecho ha sido demasiado intenso para afrontar otra ronda de combate.",
+          "notes": [
+            {
+              "term": "thou bleed’st",
+              "type": "Gramática histórica",
+              "title": "Segunda persona singular",
+              "body": "Thou y la terminación -st marcan una forma singular de trato directo; la traducción emplea «tú»."
+            },
+            {
+              "term": "second course",
+              "type": "Metáfora",
+              "title": "Otra ronda de lucha",
+              "body": "Course puede designar una etapa o una sucesión de acciones; Larcio considera excesivo que Marcio vuelva a combatir."
+            }
+          ]
+        },
+        {
+          "line": "585–589",
+          "speaker": "martius",
+          "en": "Sir, praise me not. My work hath yet not warmed me. Fare you well. The blood I drop is rather physical Than dangerous to me. To Aufidius thus I will appear and fight.",
+          "es": "Señor, no me elogies. Lo que he hecho todavía no me ha hecho entrar en calor. Adiós. La sangre que pierdo me resulta más saludable que peligrosa. Así me presentaré ante Aufidio para combatir con él.",
+          "notes": [
+            {
+              "term": "hath yet not warmed me",
+              "type": "Hipérbole",
+              "title": "Todavía no he entrado en calor",
+              "body": "Marcio minimiza el esfuerzo de la batalla recién librada, como si apenas hubiese empezado a ejercitarse."
+            },
+            {
+              "term": "physical",
+              "type": "Léxico histórico",
+              "title": "Saludable o medicinal",
+              "body": "Physical puede significar medicinal o beneficioso para la salud; la afirmación desafiante invierte el valor habitual de la pérdida de sangre."
+            },
+            {
+              "term": "thus",
+              "type": "Deixis escénica",
+              "title": "En este estado",
+              "body": "Thus señala la apariencia actual de Marcio, ensangrentado, con la que piensa presentarse ante Aufidio."
+            }
+          ]
+        }
       ]
     }
   ]
