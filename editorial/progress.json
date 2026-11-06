@@ -220,13 +220,22 @@
       "last_line": 525,
       "editorial_state": "translated_source_checked",
       "note": "Parley at the walls, Volscian challenge, and Martius's exhortation; five complete speeches, Folger online checked."
+    },
+    {
+      "id": "coriolanus-1-4-526-543",
+      "act": 1,
+      "scene": 4,
+      "first_line": 526,
+      "last_line": 543,
+      "editorial_state": "translated_source_checked",
+      "note": "Martius curses the retreating Romans and rallies them at the gates; two complete speeches, Folger online checked."
     }
   ],
   "next_fragment": {
     "act": 1,
     "scene": 4,
-    "start_after_line": 525,
-    "instruction": "Continue with Martius's curse after the Roman retreat, Folger global line 526."
+    "start_after_line": 543,
+    "instruction": "Continue with soldiers' reactions after Martius enters the city gates, Folger global line 544."
   },
   "completed_acts": [],
   "last_update_commit": "atomic_commit_pending_sha",
