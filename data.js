@@ -1072,6 +1072,159 @@ window.SHAKESPEARE_READER_DATA = {
       "body": "I would introduce un deseo equivalente a «ojalá»; were mantiene la modalidad irreal."
     }
   ]
+},
+{
+  "line": "459–460",
+  "speaker": "virgilia",
+  "en": "No, good madam, pardon me; indeed, I will not forth.",
+  "es": "No, señora, discúlpeme; de verdad, no saldré.",
+  "notes": [
+    {
+      "term": "forth",
+      "type": "Léxico",
+      "title": "Salir de casa",
+      "body": "El adverbio forth completa el verbo de movimiento elidido: Virgilia insiste en que no saldrá."
+    }
+  ]
+},
+{
+  "line": "461–462",
+  "speaker": "valeria",
+  "en": "In truth, la, go with me, and I’ll tell you excellent news of your husband.",
+  "es": "De veras, vamos, acompáñame y te contaré excelentes noticias de tu esposo.",
+  "notes": [
+    {
+      "term": "la",
+      "type": "Partícula conversacional",
+      "title": "Una interjección familiar",
+      "body": "La es una partícula enfática o familiar, frecuente en el diálogo de la época; no es aquí una nota musical."
+    }
+  ]
+},
+{
+  "line": "463",
+  "speaker": "virgilia",
+  "en": "O, good madam, there can be none yet.",
+  "es": "¡Ay, señora! Todavía no puede haber noticias.",
+  "notes": [
+    {
+      "term": "none yet",
+      "type": "Interpretación",
+      "title": "La incredulidad de Virgilia",
+      "body": "None retoma news: Virgilia considera demasiado pronto que hayan llegado noticias de la campaña; no afirma que su esposo haya muerto."
+    }
+  ]
+},
+{
+  "line": "464–465",
+  "speaker": "valeria",
+  "en": "Verily, I do not jest with you. There came news from him last night.",
+  "es": "En verdad, no estoy bromeando. Anoche llegaron noticias suyas.",
+  "notes": [
+    {
+      "term": "Verily",
+      "type": "Léxico",
+      "title": "Afirmación enfática",
+      "body": "Verily refuerza la veracidad de lo que sigue: «en verdad», «ciertamente»."
+    },
+    {
+      "term": "jest",
+      "type": "Léxico",
+      "title": "Bromear",
+      "body": "Jest significa hablar en broma. Valeria desmiente que esté tentando a Virgilia con una noticia inventada."
+    }
+  ]
+},
+{
+  "line": "466",
+  "speaker": "virgilia",
+  "en": "Indeed, madam!",
+  "es": "¿De verdad, señora?",
+  "notes": []
+},
+{
+  "line": "467–474",
+  "speaker": "valeria",
+  "en": "In earnest, it’s true. I heard a senator speak it. Thus it is: the Volsces have an army forth, against whom Cominius the General is gone with one part of our Roman power. Your lord and Titus Lartius are set down before their city Corioles. They nothing doubt prevailing, and to make it brief wars. This is true, on mine honor, and so, I pray, go with us.",
+  "es": "Lo digo en serio, es verdad. Oí contárselo a un senador. La situación es esta: los volscos han sacado un ejército al campo, y el general Cominio ha marchado contra ellos con una parte de nuestras fuerzas romanas. Tu esposo y Tito Larcio han tomado posiciones frente a su ciudad de Corioles. No dudan en absoluto de que vencerán y de que la guerra será breve. Te lo aseguro por mi honor; así que, por favor, ven con nosotras.",
+  "notes": [
+    {
+      "term": "In earnest",
+      "type": "Léxico",
+      "title": "Lo digo en serio",
+      "body": "La expresión contrasta con jest en la intervención anterior: Valeria insiste en que no bromea."
+    },
+    {
+      "term": "power",
+      "type": "Léxico militar",
+      "title": "Fuerzas armadas",
+      "body": "Power designa aquí el contingente militar romano, no el poder político abstracto."
+    },
+    {
+      "term": "set down before",
+      "type": "Léxico militar",
+      "title": "Tomar posiciones ante una ciudad",
+      "body": "Set down before expresa la instalación de tropas frente a una plaza para atacarla o sitiarla."
+    },
+    {
+      "term": "They nothing doubt",
+      "type": "Sintaxis histórica",
+      "title": "Negación adverbial",
+      "body": "Nothing funciona como modificador de doubt: «no dudan en absoluto»; no significa que no sospechen nada."
+    },
+    {
+      "term": "to make it brief wars",
+      "type": "Sintaxis e interpretación",
+      "title": "Una campaña breve",
+      "body": "La construcción coordina dos resultados esperados, prevalecer y abreviar la guerra. El plural wars puede aludir a las operaciones bélicas en conjunto."
+    },
+    {
+      "term": "on mine honor",
+      "type": "Fórmula de juramento",
+      "title": "Por mi honor",
+      "body": "Mine es la forma posesiva que aparece ante vocal en usos históricos; la fórmula garantiza la sinceridad de Valeria."
+    }
+  ]
+},
+{
+  "line": "475–476",
+  "speaker": "virgilia",
+  "en": "Give me excuse, good madam. I will obey you in everything hereafter.",
+  "es": "Discúlpeme, señora. De ahora en adelante la obedeceré en todo.",
+  "notes": [
+    {
+      "term": "Give me excuse",
+      "type": "Fórmula de cortesía",
+      "title": "Discúlpeme",
+      "body": "Virgilia pide que se excuse su negativa actual, aunque promete obediencia en el futuro."
+    },
+    {
+      "term": "hereafter",
+      "type": "Léxico",
+      "title": "De ahora en adelante",
+      "body": "Aquí hereafter se refiere a ocasiones futuras, sin implicar el más allá."
+    }
+  ]
+},
+{
+  "line": "477–478",
+  "speaker": "volumnia",
+  "en": "Let her alone, lady. As she is now, she will but disease our better mirth.",
+  "es": "Déjala, señora. En su estado actual, solo nos echaría a perder la alegría.",
+  "notes": [
+    {
+      "term": "disease",
+      "type": "Léxico histórico",
+      "title": "Perturbar o estropear",
+      "body": "Disease es aquí un verbo que significa incomodar o perturbar; no se refiere a transmitir una enfermedad."
+    },
+    {
+      "term": "better mirth",
+      "type": "Interpretación",
+      "title": "La alegría de las otras",
+      "body": "Volumnia contrapone el ánimo sombrío de Virgilia a la diversión que esperan disfrutar las demás mujeres."
+    }
+  ]
 }
   ]
 }

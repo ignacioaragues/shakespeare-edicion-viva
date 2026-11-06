@@ -184,13 +184,22 @@
       "last_line": 458,
       "editorial_state": "translated_source_checked",
       "note": "Valeria invites Virgilia to leave her sewing; Virgilia refuses to leave home; Valeria invokes Penelope. Ten complete speeches, checked against Folger online."
+    },
+    {
+      "id": "coriolanus-1-3-459-478",
+      "act": 1,
+      "scene": 3,
+      "first_line": 459,
+      "last_line": 478,
+      "editorial_state": "translated_source_checked",
+      "note": "Eight complete speeches: Valeria's news from Corioles and Virgilia's refusal, ending with Volumnia's dismissal; Folger online checked."
     }
   ],
   "next_fragment": {
     "act": 1,
     "scene": 3,
-    "start_after_line": 458,
-    "instruction": "Continue I.3 at Folger global line 459."
+    "start_after_line": 478,
+    "instruction": "Continue I.3 at Folger global line 479."
   },
   "completed_acts": [],
   "last_update_commit": "atomic_commit_pending_sha",
