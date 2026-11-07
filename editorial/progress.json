@@ -454,15 +454,24 @@
       "last_line": 978,
       "editorial_state": "translated_source_checked",
       "note": "Menenio's complete concluding invective, from priests and botcher's cushion to Deucalion and his departure; 14 Folger lines, online checked. Stage direction of attempted exit included."
+    },
+    {
+      "id": "coriolanus-2-1-979-996",
+      "act": 2,
+      "scene": 1,
+      "first_line": 979,
+      "last_line": 996,
+      "editorial_state": "translated_source_checked",
+      "note": "Entrance of Volumnia, Virgilia, Valeria; news and letters of Martius; nine complete speeches and stage directions. Folger online II.1 checked."
     }
   ],
   "next_fragment": {
     "act": 2,
     "scene": 1,
-    "first_line": 979,
-    "note": "Volumnia, Virgilia and Valeria enter as Menenius turns to greet them; verify the entrance and add characters to the scene before publishing the next speech."
+    "first_line": 997,
+    "note": "Menenio rejoices over his letter and compares it with Galen's prescriptions; check next full speech against Folger."
   },
   "completed_acts": [],
-  "last_update_commit": "checkpoint updated alongside Folger 965–978 publication",
+  "last_update_commit": "checkpoint updated alongside Folger 979–996 publication",
   "notes": "Folger online line 66 is 'We cannot, sir; we are undone already.' The original prototype had an off-by-one numbering error, corrected in this release. Text is still under editorial review."
 }
