@@ -508,15 +508,24 @@
       "last_line": 1074,
       "editorial_state": "translated_source_checked",
       "note": "Four complete speeches: Virgilia's tears, Menenius' blessing, Valeria's greeting and Volumnia's welcome. Folger online II.1 verified; private EPUB not consulted."
+    },
+    {
+      "id": "coriolanus-2-1-1075-1084",
+      "act": 2,
+      "scene": 1,
+      "first_line": 1075,
+      "last_line": 1084,
+      "editorial_state": "translated_source_checked",
+      "note": "Complete Menenius speech, Folger online checked; EPUB inaccessible."
     }
   ],
   "next_fragment": {
     "act": 2,
     "scene": 1,
-    "first_line": 1075,
-    "note": "Menenio welcomes the returning commanders, lines 1075 onward."
+    "first_line": 1085,
+    "note": "Cominius replies to Menenius."
   },
   "completed_acts": [],
-  "last_update_commit": "II.1 Folger 1063–1074; online verified; EPUB not consulted.",
+  "last_update_commit": "806e9c8877552eb4d34407211294847239865a31",
   "notes": "Folger online line 66 is 'We cannot, sir; we are undone already.' The original prototype had an off-by-one numbering error, corrected in this release. Text is still under editorial review."
 }
