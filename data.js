@@ -7545,6 +7545,104 @@ window.SHAKESPEARE_READER_DATA = {
               "body": "La construcción equivale a «go to sleep»; Bruto teme que el consulado de Coriolano vuelva inoperante la magistratura de los tribunos."
             }
           ]
+        },
+        {
+          "line": "1125–1127",
+          "speaker": "sicinius",
+          "en": "He cannot temp’rately transport his honors From where he should begin and end, but will Lose those he hath won.",
+          "es": "No sabrá llevar sus honores con moderación, dentro de los límites que debería respetar; acabará perdiendo los que ha ganado.",
+          "notes": [
+            {
+              "term": "temp’rately",
+              "type": "Léxico",
+              "title": "Con moderación",
+              "body": "El adverbio alude al dominio de sí mismo, virtud política que Sicinio niega a Coriolano."
+            },
+            {
+              "term": "transport his honors",
+              "type": "Interpretación",
+              "title": "Administrar los honores",
+              "body": "«Transport» sugiere llevar una dignidad dentro de los límites apropiados; la traducción explicita la falta de mesura."
+            }
+          ]
+        },
+        {
+          "line": "1128",
+          "speaker": "brutus",
+          "en": "In that there’s comfort.",
+          "es": "Eso nos da algún consuelo.",
+          "notes": [
+            {
+              "term": "comfort",
+              "type": "Ironía política",
+              "title": "Consuelo para los tribunos",
+              "body": "Bruto se consuela con la posibilidad de que el propio carácter de Coriolano destruya su prestigio."
+            }
+          ]
+        },
+        {
+          "line": "1129–1135",
+          "speaker": "sicinius",
+          "en": "Doubt not The commoners, for whom we stand, but they Upon their ancient malice will forget With the least cause these his new honors—which That he will give them make I as little question As he is proud to do ’t.",
+          "es": "No duden de los plebeyos, a quienes representamos: por su antigua animadversión, bastará el menor motivo para que olviden estos nuevos honores suyos. Y tan poco dudo de que él mismo les dará ese motivo como de que su orgullo lo empujará a hacerlo.",
+          "notes": [
+            {
+              "term": "for whom we stand",
+              "type": "Institución",
+              "title": "Representar a la plebe",
+              "body": "«Stand for» significa aquí actuar como representante de los ciudadanos comunes."
+            },
+            {
+              "term": "ancient malice",
+              "type": "Léxico",
+              "title": "Antiguo resentimiento",
+              "body": "«Malice» expresa hostilidad arraigada, no necesariamente maldad moral."
+            },
+            {
+              "term": "With the least cause",
+              "type": "Sintaxis",
+              "title": "El menor pretexto",
+              "body": "La frase indica la facilidad con que el resentimiento puede reactivarse."
+            },
+            {
+              "term": "make I as little question",
+              "type": "Gramática",
+              "title": "Inversión del sujeto",
+              "body": "«Make I» equivale a «I make»; «make little question» significa apenas dudar."
+            }
+          ]
+        },
+        {
+          "line": "1136–1141",
+          "speaker": "brutus",
+          "en": "I heard him swear, Were he to stand for consul, never would he Appear i’ th’ marketplace nor on him put The napless vesture of humility, Nor showing, as the manner is, his wounds To th’ people, beg their stinking breaths.",
+          "es": "Lo oí jurar que, si se presentaba al consulado, jamás comparecería en la plaza del mercado ni se pondría la gastada vestidura de la humildad; tampoco mostraría sus heridas al pueblo, como manda la costumbre, para mendigar sus apestosos votos.",
+          "notes": [
+            {
+              "term": "Were he to stand",
+              "type": "Gramática",
+              "title": "Condicional sin if",
+              "body": "«Were he to» equivale a «If he were to»: «si llegara a presentarse»."
+            },
+            {
+              "term": "napless vesture",
+              "type": "Léxico",
+              "title": "Vestidura sin pelo",
+              "body": "«Nap» es la pelusa superficial del tejido; «napless» evoca una prenda gastada."
+            },
+            {
+              "term": "as the manner is",
+              "type": "Contexto",
+              "title": "Exhibición de heridas",
+              "body": "La obra presenta la exhibición de heridas como costumbre electoral; no constituye por sí sola prueba histórica independiente."
+            },
+            {
+              "term": "stinking breaths",
+              "type": "Metonimia",
+              "title": "Aliento y voto",
+              "body": "El aliento representa la aprobación popular expresada de viva voz; el adjetivo manifiesta desprecio."
+            }
+          ]
         }
       ]
     }
