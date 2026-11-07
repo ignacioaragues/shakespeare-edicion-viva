@@ -481,15 +481,24 @@
       "last_line": 1034,
       "editorial_state": "translated_source_checked",
       "note": "Seven complete speeches on Senate letters, martial fame, wounds and candidacy. Folger online II.1 checked. Folger EPUB inaccessible for this run; its editorial notes not consulted."
+    },
+    {
+      "id": "coriolanus-2-1-1035-1045",
+      "act": 2,
+      "scene": 1,
+      "first_line": 1035,
+      "last_line": 1045,
+      "editorial_state": "translated_source_checked",
+      "note": "Four complete speeches; wounds counted and Volumnia announces the procession. Folger online checked; Folger EPUB Library materialization blocked, so its notes were not consulted."
     }
   ],
   "next_fragment": {
     "act": 2,
     "scene": 1,
-    "first_line": 1035,
-    "note": "Menenio counts Marcio's wounds; resume with his complete speech."
+    "first_line": 1046,
+    "note": "Herald proclaims the new name Coriolanus; add procession speakers and stage directions."
   },
   "completed_acts": [],
-  "last_update_commit": "II.1 Folger 1017–1034; Folger online verified; EPUB inaccessible this run.",
+  "last_update_commit": "II.1 Folger 1035–1045; Folger online verified; EPUB unavailable.",
   "notes": "Folger online line 66 is 'We cannot, sir; we are undone already.' The original prototype had an off-by-one numbering error, corrected in this release. Text is still under editorial review."
 }
