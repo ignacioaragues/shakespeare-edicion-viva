@@ -7177,7 +7177,88 @@ window.SHAKESPEARE_READER_DATA = {
               "body": "Volumnia desplaza la atención desde su propia recepción del héroe hacia Virgilia; el parlamento queda suspendido ante la respuesta de Coriolano."
             }
           ]
-        }
+        },
+        {
+          "line": "1063–1068",
+          "speaker": "coriolanus",
+          "en": "My gracious silence, hail. Wouldst thou have laughed had I come coffined home, That weep’st to see me triumph? Ah, my dear, Such eyes the widows in Corioles wear And mothers that lack sons.",
+          "es": "Te saludo, mi dulce y silenciosa esposa. ¿Te habrías reído si hubiera regresado a casa en un ataúd, tú que lloras al verme triunfar? Ah, querida mía, esos mismos ojos tienen las viudas de Corioles y las madres que han perdido a sus hijos.",
+          "notes": [
+                    {
+                              "term": "gracious silence",
+                              "type": "Retórica",
+                              "title": "El silencio de Virgilia",
+                              "body": "Coriolano se dirige a Virgilia mediante una personificación afectuosa de su silencio; la expresión también recuerda su reserva en I.3."
+                    },
+                    {
+                              "term": "Wouldst thou have laughed",
+                              "type": "Sintaxis",
+                              "title": "Interrogación contrafáctica",
+                              "body": "«Wouldst thou» equivale a «would you» singular; «had I come» es una prótasis condicional sin «if»: «si hubiera regresado»."
+                    },
+                    {
+                              "term": "coffined",
+                              "type": "Léxico",
+                              "title": "Regreso en un ataúd",
+                              "body": "«Coffined» funciona como participio: llegado dentro de un féretro, es decir, muerto."
+                    },
+                    {
+                              "term": "Such eyes",
+                              "type": "Dramaturgia",
+                              "title": "Lágrimas de vencedores y vencidos",
+                              "body": "La comparación traslada las lágrimas de Virgilia a las mujeres de Corioles, cuyos familiares han muerto en la campaña. El efecto puede leerse como una súbita conciencia del costo humano de la victoria."
+                    }
+          ]
+},
+        {
+          "line": "1069–1070",
+          "speaker": "menenius",
+          "en": "Now the gods crown thee!",
+          "es": "¡Que los dioses te colmen de honores!",
+          "notes": [
+                    {
+                              "term": "crown thee",
+                              "type": "Léxico y contexto",
+                              "title": "Coronar y recompensar",
+                              "body": "La bendición retoma la imaginería del triunfo y la corona de roble que ya lleva Coriolano."
+                    }
+          ]
+},
+        {
+          "line": "1071–1072",
+          "speaker": "coriolanus",
+          "en": "And live you yet? O, my sweet lady, pardon.",
+          "es": "¿Y tú sigues aquí? ¡Ah, mi querida señora, perdóname!",
+          "stageBefore": "Dirigiéndose a Valeria.",
+          "notes": [
+                    {
+                              "term": "And live you yet?",
+                              "type": "Dramaturgia",
+                              "title": "Reconocimiento de Valeria",
+                              "body": "Coriolano repara en la presencia de Valeria después de saludar a su esposa; la pregunta es una fórmula de sorpresa y reconocimiento, no una duda literal sobre su supervivencia."
+                    }
+          ]
+},
+        {
+          "line": "1073–1074",
+          "speaker": "volumnia",
+          "en": "I know not where to turn. O, welcome home!— And, welcome, general.—And you’re welcome all.",
+          "es": "No sé hacia dónde volverme. ¡Ah, bienvenido a casa! Y bienvenido tú también, general. ¡Sean todos bienvenidos!",
+          "notes": [
+                    {
+                              "term": "where to turn",
+                              "type": "Dramaturgia",
+                              "title": "Saludar a todos",
+                              "body": "La expresión indica que Volumnia no sabe a quién atender primero entre su hijo, el general y la comitiva."
+                    },
+                    {
+                              "term": "you’re welcome all",
+                              "type": "Sintaxis",
+                              "title": "Del singular al plural",
+                              "body": "Volumnia pasa de saludar a individuos a dirigirse al conjunto de los presentes; en español se refleja mediante «sean todos bienvenidos»."
+                    }
+          ]
+}
       ]
     }
   ]
