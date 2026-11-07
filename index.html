@@ -9,7 +9,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet" />
-  <link rel="stylesheet" href="./styles.css?v=20261107-13" />
+  <link rel="stylesheet" href="./styles.css?v=20261107-14" />
 </head>
 <body>
   <section class="home-screen" id="home-screen" aria-labelledby="home-title">
@@ -74,9 +74,15 @@
         </div>
         <div class="sidebar-bottom">
           <div class="side-overline">TU LECTURA</div>
-          <div class="progress-bar" aria-label="Progreso de lectura"><span id="progress-fill"></span></div>
-          <div class="progress-copy" id="progress-copy">Todavía no hay un marcador.</div>
-          <button class="resume-button" id="resume-button" disabled>Continuar leyendo <span>→</span></button>
+          <div class="reading-location-label">ÚLTIMA POSICIÓN · AUTOMÁTICA</div>
+          <div class="progress-copy" id="auto-position-copy">Todavía no hay una posición guardada.</div>
+          <button class="resume-button" id="auto-resume-button" disabled>Volver a donde quedé <span>→</span></button>
+          <div class="reading-manual">
+            <div class="reading-location-label">MARCADOR MANUAL ◇</div>
+            <div class="progress-bar" aria-label="Progreso marcado"><span id="progress-fill"></span></div>
+            <div class="progress-copy" id="progress-copy">Todavía no hay un marcador.</div>
+            <button class="resume-button" id="resume-button" disabled>Ir al marcador <span>→</span></button>
+          </div>
           </div>
         </div>
       </div>
@@ -144,6 +150,6 @@
     </div>
   </div>
   <script src="./data.js?v=20261107-17"></script>
-  <script src="./app.js?v=20261107-13"></script>
+  <script src="./app.js?v=20261107-14"></script>
 </body>
 </html>

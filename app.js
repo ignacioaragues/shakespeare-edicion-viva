@@ -23,11 +23,15 @@
     query: '',
     readAct: false,
     bookmarks: {...(stored.bookmarks || {})},
-    bookmarkSceneId: stored.bookmarkSceneId || scene.id
+    bookmarkSceneId: stored.bookmarkSceneId || scene.id,
+    autoPosition: stored.autoPosition && typeof stored.autoPosition.sceneId === 'string' && Number.isInteger(stored.autoPosition.index)
+      ? stored.autoPosition : null
   };
   if (scene.id === 'coriolanus-1-1' && !Number.isInteger(state.bookmarks[scene.id]) && Number.isInteger(stored.bookmark) && stored.bookmark >= 0 && stored.bookmark < scene.blocks.length) state.bookmarks[scene.id] = stored.bookmark;
   state.bookmark = Number.isInteger(state.bookmarks[scene.id]) && state.bookmarks[scene.id] >= 0 && state.bookmarks[scene.id] < scene.blocks.length ? state.bookmarks[scene.id] : null;
   let currentNoteTrigger = null;
+  let autoPositionTimer = null;
+  let pendingAutoResume = null;
 
   function persist() {
     try {
@@ -35,7 +39,7 @@
         fontSize: state.fontSize, notes: state.notes, dividers: state.dividers,
         navCollapsed: state.navCollapsed, charactersCollapsed: state.charactersCollapsed,
         bookmark: state.bookmark, bookmarks: state.bookmarks, bookmarkSceneId: state.bookmarkSceneId,
-        mobileLang: state.mobileLang
+        mobileLang: state.mobileLang, autoPosition: state.autoPosition
       }));
     } catch (_) { /* Reading works with storage disabled. */ }
   }
@@ -217,6 +221,62 @@
     });
     $('empty-state').hidden = count !== 0;
     $('reader-end').hidden = count === 0 || !!needle;
+  }
+
+  function updateAutoPosition() {
+    const saved = state.autoPosition;
+    const targetScene = saved && data.scenes.find(item => item.id === saved.sceneId);
+    const valid = !!targetScene && Number.isInteger(saved.index) && saved.index >= 0 && saved.index < targetScene.blocks.length;
+    $('auto-position-copy').textContent = valid
+      ? `Escena ${targetScene.act}.${targetScene.scene} · líneas ${targetScene.blocks[saved.index].line}`
+      : 'Todavía no hay una posición guardada.';
+    $('auto-resume-button').disabled = !valid;
+  }
+
+  function captureAutoPosition() {
+    if ($('app-shell').hidden || !$('modal-backdrop').hidden || state.query) return;
+    const focusY = Math.min(window.innerHeight * 0.33, 250);
+    let row = null;
+    for (const candidate of document.querySelectorAll('#dialogue-container .speech-row')) {
+      const box = candidate.getBoundingClientRect();
+      if (box.bottom >= focusY && box.top <= focusY) { row = candidate; break; }
+      if (!row && box.top > focusY && box.top < window.innerHeight * 0.72) row = candidate;
+      if (box.top > window.innerHeight * 0.72) break;
+    }
+    if (!row) return;
+    const index = Number(row.dataset.index);
+    const sceneId = row.dataset.sceneId;
+    if (!sceneId || !Number.isInteger(index) || index < 0) return;
+    if (state.autoPosition?.sceneId === sceneId && state.autoPosition.index === index) return;
+    state.autoPosition = { sceneId, index };
+    persist();
+    updateAutoPosition();
+  }
+
+  function jumpToPosition(sceneId, index) {
+    const target = $(`speech-${sceneId}-${index}`);
+    if (!target) return;
+    target.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    target.classList.remove('highlighted');
+    void target.offsetWidth;
+    target.classList.add('highlighted');
+    $('sidebar').classList.remove('open');
+    $('mobile-contents-button').setAttribute('aria-expanded', 'false');
+  }
+
+  function resumeAuto() {
+    const saved = state.autoPosition;
+    const targetScene = saved && data.scenes.find(item => item.id === saved.sceneId);
+    if (!targetScene || !Number.isInteger(saved.index) || saved.index < 0 || saved.index >= targetScene.blocks.length) return;
+    if (state.query) { state.query = ''; $('search-input').value = ''; renderSpeeches(); updateBookmark(); }
+    if ($(`speech-${saved.sceneId}-${saved.index}`)) {
+      jumpToPosition(saved.sceneId, saved.index);
+      return;
+    }
+    pendingAutoResume = { sceneId: saved.sceneId, index: saved.index };
+    const destination = `#coriolanus-${targetScene.act}-${targetScene.scene}`;
+    if (window.location.hash !== destination) window.location.hash = destination;
+    else { selectScene(targetScene, false); showView(); }
   }
 
   function updateBookmark() {
@@ -402,6 +462,7 @@
     renderCharacters();
     renderSpeeches();
     updateBookmark();
+    updateAutoPosition();
     persist();
     $('sidebar').classList.remove('open');
     $('mobile-contents-button').setAttribute('aria-expanded', 'false');
@@ -434,6 +495,11 @@
     }
     document.title = reading ? 'Coriolanus · Shakespeare · Edición viva' : 'Shakespeare · Edición viva';
     window.scrollTo({ top: 0, behavior: 'instant' });
+    if (reading && pendingAutoResume) {
+      const pending = pendingAutoResume;
+      pendingAutoResume = null;
+      requestAnimationFrame(() => requestAnimationFrame(() => jumpToPosition(pending.sceneId, pending.index)));
+    }
   }
 
   function addListeners() {
@@ -452,6 +518,13 @@
     $('lang-en').addEventListener('click', () => { state.mobileLang = 'en'; applyPreferences(); persist(); });
     $('lang-es').addEventListener('click', () => { state.mobileLang = 'es'; applyPreferences(); persist(); });
     $('resume-button').addEventListener('click', resume);
+    $('auto-resume-button').addEventListener('click', resumeAuto);
+    window.addEventListener('scroll', () => {
+      if (autoPositionTimer) clearTimeout(autoPositionTimer);
+      autoPositionTimer = setTimeout(captureAutoPosition, 160);
+    }, { passive: true });
+    window.addEventListener('pagehide', captureAutoPosition);
+    document.addEventListener('visibilitychange', () => { if (document.hidden) captureAutoPosition(); });
     $('guide-button').addEventListener('click', () => openModal('characters'));
     $('full-guide-button').addEventListener('click', () => openModal('characters'));
     $('work-picker').addEventListener('click', () => { window.location.hash = ''; showView(); });
@@ -505,6 +578,7 @@
   }
 
   selectScene(scene, false);
+  updateAutoPosition();
   applyPreferences();
   addListeners();
   showView();

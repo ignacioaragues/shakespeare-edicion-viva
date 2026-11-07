@@ -66,6 +66,9 @@ a{color:inherit}
 .resume-button{display:flex;align-items:center;justify-content:space-between;border:1px solid #dadbd2;background:transparent;border-radius:4px;padding:10px 12px;width:100%;font-size:11px;color:#495248;margin-top:7px}
 .resume-button:disabled{opacity:.44;cursor:default}
 .resume-button:not(:disabled):hover{border-color:var(--accent);color:var(--accent)}
+.reading-location-label{color:#92968d;font-size:9px;letter-spacing:.09em;margin-top:16px;line-height:1.4}
+.reading-manual{margin-top:23px;padding-top:3px;border-top:1px solid #e1e2da}
+.reading-manual .progress-bar{margin-top:12px}
 .quiet-note{font-size:10px;line-height:1.6;color:#a5a69f;margin-top:12px}
 .main-content{grid-column:2;grid-row:2;min-width:0;padding:0 38px 44px}
 .reader-heading{padding-top:49px}
