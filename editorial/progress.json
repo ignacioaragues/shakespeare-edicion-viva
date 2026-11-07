@@ -400,13 +400,22 @@
       "last_line": 873,
       "editorial_state": "translated_source_checked",
       "note": "Two complete speeches, Folger online verified."
+    },
+    {
+      "id": "coriolanus-1-10-874-879",
+      "act": 1,
+      "scene": 10,
+      "first_line": 874,
+      "last_line": 879,
+      "editorial_state": "translated_source_checked",
+      "note": "Three complete speeches and distinct exits close I.10; Folger online checked. Six numbered lines."
     }
   ],
   "next_fragment": {
-    "act": 1,
-    "scene": 10,
-    "first_line": 874,
-    "note": "Soldier asks about Aufidius' departure."
+    "act": 2,
+    "scene": 1,
+    "first_line": 880,
+    "note": "Begin Act II, scene 1; verify opening Folger numbering and scene architecture before insertion."
   },
   "completed_acts": [],
   "last_update_commit": "atomic_commit_pending_sha",

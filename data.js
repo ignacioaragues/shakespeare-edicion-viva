@@ -5532,7 +5532,7 @@ window.SHAKESPEARE_READER_DATA = {
       "scene": 10,
       "place": "Campamento volsco · Después de la derrota",
       "sourceRef": "Folger Shakespeare Library · Acto I, escena 10",
-      "sectionLabel": "Edición en curso · líneas 844–873",
+      "sectionLabel": "Acto I, escena 10 · completa · líneas 844–879",
       "introduction": "Derrotado, Aufidio contempla la pérdida de Corioles. La humillación transforma su rivalidad con Marcio en un propósito de venganza que ya no respetará las reglas del duelo.",
       "stage": "Entra Tulo Aufidio, ensangrentado, acompañado por dos o tres soldados.",
       "characters": [
@@ -5735,8 +5735,75 @@ window.SHAKESPEARE_READER_DATA = {
               "type": "Nota filológica"
             }
           ]
+        },
+        {
+          "line": "874",
+          "speaker": "soldier",
+          "en": "Will not you go?",
+          "es": "¿No irá usted?",
+          "notes": [
+            {
+              "term": "Will not you",
+              "type": "Sintaxis histórica",
+              "title": "Interrogación negativa",
+              "body": "El orden will not you, menos habitual en inglés actual que won't you, formula una pregunta directa sobre la partida de Aufidio; no expresa necesariamente una invitación."
+            }
+          ]
+        },
+        {
+          "line": "875–878",
+          "speaker": "aufidius",
+          "en": "I am attended at the cypress grove. I pray you— ’Tis south the city mills—bring me word thither How the world goes, that to the pace of it I may spur on my journey.",
+          "es": "Me esperan en el bosquecillo de cipreses. Les ruego que —está al sur de los molinos de la ciudad— me lleven allí noticias de cómo marchan las cosas, para que pueda apresurar mi viaje según su curso.",
+          "notes": [
+            {
+              "term": "I am attended",
+              "type": "Sintaxis y léxico",
+              "title": "Me esperan",
+              "body": "La pasiva attended expresa aquí que hay personas aguardando a Aufidio en un lugar convenido; no que lo estén acompañando en este momento."
+            },
+            {
+              "term": "cypress grove",
+              "type": "Espacio escénico",
+              "title": "Bosquecillo de cipreses",
+              "body": "El ciprés puede evocar asociaciones funerarias, pero aquí funciona explícitamente como referencia geográfica. Cualquier resonancia simbólica es interpretativa."
+            },
+            {
+              "term": "south the city mills",
+              "type": "Sintaxis histórica",
+              "title": "Al sur de los molinos",
+              "body": "South funciona como indicación de posición relativa, sin la preposición of que se esperaría en el inglés contemporáneo."
+            },
+            {
+              "term": "How the world goes",
+              "type": "Modismo",
+              "title": "Cómo marchan las cosas",
+              "body": "World designa aquí la situación o el curso de los acontecimientos, especialmente los resultados de la ocupación y las negociaciones."
+            },
+            {
+              "term": "to the pace of it",
+              "type": "Imagen ecuestre",
+              "title": "Al ritmo de los acontecimientos",
+              "body": "La imagen de spur on («espolear») prolonga pace: Aufidio adaptará la velocidad de su desplazamiento a las noticias recibidas."
+            }
+          ]
+        },
+        {
+          "line": "879",
+          "speaker": "soldier",
+          "en": "I shall, sir.",
+          "es": "Así lo haré, señor.",
+          "notes": [
+            {
+              "term": "I shall",
+              "type": "Elipsis",
+              "title": "Respuesta con auxiliar",
+              "body": "Shall recupera la acción solicitada en el parlamento anterior: llevar noticias al lugar indicado."
+            }
+          ]
         }
-      ]
+      ],
+      "endStage": "Salen por puertas distintas: Aufidio por una y los soldados por otra."
     }
   ]
 };
