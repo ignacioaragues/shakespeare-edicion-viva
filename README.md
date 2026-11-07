@@ -1,6 +1,6 @@
 # Shakespeare · Edición viva
 
-An experimental, buildless bilingual and annotated Shakespeare reader. Currently ships a incremental edition of *Coriolanus*, currently covering scenes 1.1–1.8, rather than claiming to include a whole play.
+An experimental, buildless bilingual and annotated Shakespeare reader. Currently ships a incremental edition of *Coriolanus*, currently covering scenes 1.1–1.9, rather than claiming to include a whole play.
 
 ## What the site does
 

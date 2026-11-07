@@ -4935,7 +4935,7 @@ window.SHAKESPEARE_READER_DATA = {
       "scene": 9,
       "place": "Campo romano · Tras la batalla",
       "sourceRef": "Folger Shakespeare Library · Acto I, escena 9",
-      "sectionLabel": "Edición en curso · líneas Folger 738–833",
+      "sectionLabel": "Escena completa · líneas 738–843",
       "introduction": "Tras recibir el nombre de Coriolano, Marcio escucha las órdenes de Cominio y pide la libertad de un anfitrión volscio que ha sido capturado.",
       "stage": "Suena la alarma; se toca retirada y después una fanfarria. Entran Cominio y los romanos por una puerta; por otra, Marcio, con un brazo en cabestrillo.",
       "characters": [
@@ -5426,6 +5426,99 @@ window.SHAKESPEARE_READER_DATA = {
               "type": "Retórica",
               "title": "Ira y compasión",
               "body": "La personificación de las pasiones presenta la ira del combate como una fuerza que ahoga la piedad; Coriolano reconoce su propia omisión."
+            }
+          ]
+        },
+        {
+          "line": "834–836",
+          "speaker": "cominius",
+          "en": "O, well begged! Were he the butcher of my son, he should Be free as is the wind.—Deliver him, Titus.",
+          "es": "¡Ah, bien pedido! Aunque hubiera asesinado a mi hijo, quedaría tan libre como el viento. Libéralo, Tito.",
+          "notes": [
+            {
+              "term": "well begged",
+              "type": "Retórica",
+              "title": "Una petición acertada",
+              "body": "Cominio aprueba la petición de clemencia; begged retoma el verbo beg empleado por Coriolano."
+            },
+            {
+              "term": "butcher of my son",
+              "type": "Hipérbole",
+              "title": "Hasta el asesino de su hijo",
+              "body": "Cominio exagera el alcance de su promesa: perdonaría incluso al asesino de su hijo. No se afirma que el prisionero haya cometido ese crimen."
+            },
+            {
+              "term": "free as is the wind",
+              "type": "Símil",
+              "title": "Libre como el viento",
+              "body": "La comparación expresa una libertad sin restricciones y refuerza la generosidad enfática de Cominio."
+            }
+          ]
+        },
+        {
+          "line": "837",
+          "speaker": "lartius",
+          "en": "Martius, his name?",
+          "es": "Marcio, ¿cómo se llama?",
+          "notes": [
+            {
+              "term": "his name",
+              "type": "Elipsis",
+              "title": "¿Cuál es su nombre?",
+              "body": "La pregunta omite el verbo: Larcio necesita identificar al prisionero para cumplir la orden."
+            }
+          ]
+        },
+        {
+          "line": "838–840",
+          "speaker": "coriolanus",
+          "en": "By Jupiter, forgot! I am weary; yea, my memory is tired. Have we no wine here?",
+          "es": "¡Por Júpiter, lo he olvidado! Estoy agotado; sí, hasta la memoria se me ha cansado. ¿No tenemos vino aquí?",
+          "notes": [
+            {
+              "term": "By Jupiter",
+              "type": "Invocación",
+              "title": "Juramento romano",
+              "body": "Júpiter es invocado como fórmula exclamativa; el juramento refuerza la sorpresa ante el olvido."
+            },
+            {
+              "term": "forgot",
+              "type": "Sintaxis",
+              "title": "Verbo sin auxiliar explícito",
+              "body": "La exclamación elide el sujeto y el auxiliar que exige una paráfrasis en español: «lo he olvidado»."
+            },
+            {
+              "term": "my memory is tired",
+              "type": "Personificación",
+              "title": "Una memoria fatigada",
+              "body": "Coriolano atribuye a la memoria el cansancio del cuerpo. La escena deja sin identificar al huésped que acaba de intentar salvar."
+            }
+          ]
+        },
+        {
+          "line": "841–843",
+          "speaker": "cominius",
+          "en": "Go we to our tent. The blood upon your visage dries; ’tis time It should be looked to. Come.",
+          "es": "Vayamos a nuestra tienda. La sangre se te está secando en el rostro; es hora de que te atiendan. Vamos.",
+          "stageAfter": "Suenan las cornetas en una fanfarria. Salen todos.",
+          "notes": [
+            {
+              "term": "Go we",
+              "type": "Sintaxis histórica",
+              "title": "Exhortación con inversión",
+              "body": "La inversión verbal de Go we equivale a una exhortación colectiva: «vayamos»."
+            },
+            {
+              "term": "looked to",
+              "type": "Léxico",
+              "title": "Atender las heridas",
+              "body": "Look to significa ocuparse de algo o atenderlo; aquí se refiere a la sangre y las heridas de Coriolano."
+            },
+            {
+              "term": "visage",
+              "type": "Léxico",
+              "title": "El rostro",
+              "body": "Visage es un sustantivo de registro elevado para «cara» o «rostro»."
             }
           ]
         }

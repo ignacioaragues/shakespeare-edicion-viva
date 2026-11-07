@@ -373,13 +373,22 @@
       "last_line": 833,
       "editorial_state": "translated_source_checked",
       "note": "Five complete speeches: Cominius orders dispatches, Lartius assents, and Coriolanus requests freedom for his Volscian host. Folger online checked."
+    },
+    {
+      "id": "coriolanus-1-9-834-843",
+      "act": 1,
+      "scene": 9,
+      "first_line": 834,
+      "last_line": 843,
+      "editorial_state": "translated_source_checked",
+      "note": "Four complete speeches and final exit close I.9; Folger online checked. The unnamed Volscian host remains unidentified."
     }
   ],
   "next_fragment": {
     "act": 1,
-    "scene": 9,
-    "first_line": 834,
-    "note": "Cominius grants Coriolanus's request; Lartius asks the prisoner's name."
+    "scene": 10,
+    "first_line": 844,
+    "note": "Opening of Aufidius's scene following the Roman victory; verify Folger numbering before adding a new scene."
   },
   "completed_acts": [],
   "last_update_commit": "atomic_commit_pending_sha",
