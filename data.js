@@ -5813,7 +5813,7 @@ window.SHAKESPEARE_READER_DATA = {
       "scene": 1,
       "place": "Roma · Un espacio público",
       "sourceRef": "Folger Shakespeare Library · Acto II, escena 1",
-      "sectionLabel": "Acto II, escena 1 · líneas 880–899 · en curso",
+      "sectionLabel": "Edición en curso · líneas 880–924",
       "introduction": "Menenio se encuentra con los tribunos Sicinio y Bruto. Antes de que lleguen noticias del ejército, discuten con ironía la relación entre Marcio y el pueblo.",
       "stage": "Entra Menenio con los dos tribunos del pueblo, Sicinio y Bruto.",
       "characters": [
@@ -6031,6 +6031,165 @@ window.SHAKESPEARE_READER_DATA = {
               "type": "Léxico y retórica",
               "title": "Superar a todos",
               "body": "To top significa «sobrepasar»; Bruto completa el catálogo de vicios con una acusación de jactancia."
+            }
+          ]
+        },
+        {
+          "line": "900–902",
+          "speaker": "menenius",
+          "en": "This is strange now. Do you two know how you are censured here in the city, I mean of us o’ th’ right-hand file, do you?",
+          "es": "Esto sí que es curioso. ¿Saben ustedes dos cómo se los juzga aquí, en la ciudad? Me refiero a lo que pensamos quienes estamos en las filas de la derecha. ¿Lo saben?",
+          "notes": [
+            {
+              "term": "censured",
+              "type": "Léxico histórico",
+              "title": "Juicio público",
+              "body": "Aquí «censured» significa «juzgados» o «evaluados», sin implicar necesariamente una sanción."
+            },
+            {
+              "term": "right-hand file",
+              "type": "Metáfora social y militar",
+              "title": "Las filas de la derecha",
+              "body": "«File» puede designar una hilera de soldados. Menenio se identifica figuradamente con un sector distinguido o favorable a los patricios; la expresión no nombra un partido político moderno."
+            }
+          ]
+        },
+        {
+          "line": "903",
+          "speaker": "both",
+          "en": "Why, how are we censured?",
+          "es": "Pues bien, ¿cómo se nos juzga?",
+          "notes": []
+        },
+        {
+          "line": "904–905",
+          "speaker": "menenius",
+          "en": "Because you talk of pride now, will you not be angry?",
+          "es": "Ya que ahora hablan de soberbia, ¿prometen no enojarse?",
+          "notes": [
+            {
+              "term": "Because",
+              "type": "Sintaxis discursiva",
+              "title": "Porque / ya que",
+              "body": "Introduce la razón por la que Menenio se dispone a hablar de la reputación de los tribunos, no una respuesta directa a «cómo»."
+            }
+          ]
+        },
+        {
+          "line": "906",
+          "speaker": "both",
+          "en": "Well, well, sir, well?",
+          "es": "Está bien, está bien, señor. ¿Y bien?",
+          "notes": []
+        },
+        {
+          "line": "907–912",
+          "speaker": "menenius",
+          "en": "Why, ’tis no great matter; for a very little thief of occasion will rob you of a great deal of patience. Give your dispositions the reins, and be angry at your pleasures, at the least, if you take it as a pleasure to you in being so. You blame Martius for being proud.",
+          "es": "Bah, no es gran cosa: basta una ocasión insignificante, como un ladronzuelo, para robarles buena parte de su paciencia. Suelten las riendas de su temperamento y enfádense cuanto quieran; al menos, si es que encuentran placer en hacerlo. Ustedes reprochan a Marcio su soberbia.",
+          "notes": [
+            {
+              "term": "thief of occasion",
+              "type": "Metáfora",
+              "title": "La ocasión como ladrón",
+              "body": "Personificación de un pretexto mínimo que arrebata a los tribunos su paciencia."
+            },
+            {
+              "term": "Give your dispositions the reins",
+              "type": "Metáfora ecuestre",
+              "title": "Soltar las riendas",
+              "body": "Imagen de dejar libre el temperamento, en vez de contenerlo."
+            },
+            {
+              "term": "at your pleasures",
+              "type": "Léxico y sintaxis",
+              "title": "A voluntad",
+              "body": "Equivale a «como gusten»; Menenio ironiza sobre la facilidad con que se irritan."
+            }
+          ]
+        },
+        {
+          "line": "913",
+          "speaker": "brutus",
+          "en": "We do it not alone, sir.",
+          "es": "No somos los únicos en hacerlo, señor.",
+          "notes": [
+            {
+              "term": "not alone",
+              "type": "Sintaxis",
+              "title": "No solo nosotros",
+              "body": "Bruto afirma que la censura de Marcio es compartida por otros, no que la pronuncien juntos ambos tribunos."
+            }
+          ]
+        },
+        {
+          "line": "914–920",
+          "speaker": "menenius",
+          "en": "I know you can do very little alone, for your helps are many, or else your actions would grow wondrous single. Your abilities are too infantlike for doing much alone. You talk of pride. O, that you could turn your eyes toward the napes of your necks and make but an interior survey of your good selves! O, that you could!",
+          "es": "Ya sé que solos pueden hacer muy poco: necesitan muchos apoyos; de lo contrario, sus acciones quedarían extraordinariamente aisladas. Sus capacidades son demasiado infantiles para hacer gran cosa sin ayuda. Hablan de soberbia. ¡Ah, si pudieran volver los ojos hacia sus propias nucas y examinarse por dentro! ¡Si tan solo pudieran!",
+          "notes": [
+            {
+              "term": "helps",
+              "type": "Léxico",
+              "title": "Ayudas y apoyos",
+              "body": "El plural designa los auxilios de los que dependen; Menenio convierte «no estamos solos» en un ataque a su incompetencia."
+            },
+            {
+              "term": "wondrous single",
+              "type": "Ironía",
+              "title": "Extraordinariamente solos",
+              "body": "«Single» prolonga la burla de «alone» y puede sugerir aislamiento o falta de respaldo."
+            },
+            {
+              "term": "infantlike",
+              "type": "Léxico",
+              "title": "Infantiles",
+              "body": "El adjetivo degrada las capacidades políticas de los tribunos comparándolas con las de niños."
+            },
+            {
+              "term": "napes of your necks",
+              "type": "Imagen corporal",
+              "title": "Mirarse la nuca",
+              "body": "La imposibilidad física de mirarse la propia nuca dramatiza su falta de autoconocimiento."
+            },
+            {
+              "term": "interior survey",
+              "type": "Retórica",
+              "title": "Examen interior",
+              "body": "Menenio contrapone el escrutinio de Marcio al autoexamen que los tribunos rehúyen."
+            }
+          ]
+        },
+        {
+          "line": "921",
+          "speaker": "both",
+          "en": "What then, sir?",
+          "es": "¿Y entonces, señor?",
+          "notes": []
+        },
+        {
+          "line": "922–924",
+          "speaker": "menenius",
+          "en": "Why, then you should discover a brace of unmeriting, proud, violent, testy magistrates, alias fools, as any in Rome.",
+          "es": "Pues descubrirían a un par de magistrados sin mérito, soberbios, violentos e irascibles; en otras palabras, a dos necios tan grandes como cualquiera de Roma.",
+          "notes": [
+            {
+              "term": "a brace",
+              "type": "Léxico",
+              "title": "Un par",
+              "body": "«Brace» designa una pareja; aquí reduce a los dos tribunos a una unidad de burla."
+            },
+            {
+              "term": "unmeriting",
+              "type": "Léxico moral",
+              "title": "Sin mérito",
+              "body": "Adjetivo que niega que los magistrados merezcan el cargo o el reconocimiento que ostentan."
+            },
+            {
+              "term": "alias fools",
+              "type": "Retórica",
+              "title": "O, dicho de otro modo, necios",
+              "body": "«Alias» introduce una denominación alternativa y remata el inventario de defectos con un insulto directo."
             }
           ]
         }

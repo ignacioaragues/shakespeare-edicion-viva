@@ -418,15 +418,24 @@
       "last_line": 899,
       "editorial_state": "translated_source_checked",
       "note": "Opening exchange Menenius, Brutus, Sicinius and both tribunes, through Brutus' boasting accusation; fourteen complete speeches. Folger online II.1 verified."
+    },
+    {
+      "id": "coriolanus-2-1-900-924",
+      "act": 2,
+      "scene": 1,
+      "first_line": 900,
+      "last_line": 924,
+      "editorial_state": "translated_source_checked",
+      "note": "Nine complete speeches: Menenius challenges the tribunes' reputation, mocks their anger and dependence on allies, and ends by calling them fools. Folger online II.1 verified."
     }
   ],
   "next_fragment": {
     "act": 2,
     "scene": 1,
-    "first_line": 900,
-    "note": "Continue with Menenius' reply beginning 'This is strange now'; preserve complete speeches."
+    "first_line": 925,
+    "note": "Continue with Sicinius' 'Menenius, you are known well enough, too' and Menenius' long self-portrait; avoid breaking his extended speech."
   },
   "completed_acts": [],
-  "last_update_commit": "checkpoint updated alongside scene II.1 publication",
+  "last_update_commit": "checkpoint updated alongside Folger 900–924 publication",
   "notes": "Folger online line 66 is 'We cannot, sir; we are undone already.' The original prototype had an off-by-one numbering error, corrected in this release. Text is still under editorial review."
 }
