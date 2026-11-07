@@ -9,7 +9,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet" />
-  <link rel="stylesheet" href="./styles.css?v=20261107-12" />
+  <link rel="stylesheet" href="./styles.css?v=20261107-13" />
 </head>
 <body>
   <section class="home-screen" id="home-screen" aria-labelledby="home-title">
@@ -27,14 +27,12 @@
       <section class="home-library" aria-labelledby="library-title">
         <div class="library-heading"><span>LA BIBLIOTECA</span><span>01 OBRA EN PREPARACIÓN</span></div>
         <h2 id="library-title">Elegir una obra</h2>
-        <p class="library-subtitle">La colección irá creciendo escena por escena, con traducción y comentarios revisables.</p>
         <article class="work-card">
           <div class="work-card-top"><span class="work-card-number">01 / TRAGEDIA ROMANA</span><span class="work-card-status"><span class="status-dot"></span> Edición en curso</span></div>
           <div class="work-card-main"><span class="work-card-letter" aria-hidden="true">C.</span><div><h3>Coriolanus</h3><span class="work-card-translation">Coriolano</span><p>William Shakespeare</p></div></div>
-          <p class="work-card-description">Roma, el hambre y la voz del pueblo. Disponibles las escenas I.1–I.10; la primera requiere revisión editorial.</p>
+          <p class="work-card-description">Roma, el hambre y la voz del pueblo.</p>
           <button id="open-reader" class="work-card-action" type="button">Entrar en la obra <span aria-hidden="true">→</span></button>
         </article>
-        <div class="library-future"><span aria-hidden="true">✳</span><p>Otras escenas y obras se incorporarán a medida que estén preparadas. Las que todavía no existen no se muestran como disponibles.</p></div>
       </section>
     </main>
     <footer class="home-footer"><span>UN PROYECTO DE LECTURA FILOLÓGICA</span><span>Texto inglés: <a href="https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/" target="_blank" rel="noopener noreferrer">Folger Shakespeare Library</a> · <a href="https://creativecommons.org/licenses/by-nc/3.0/" target="_blank" rel="noopener noreferrer">CC BY-NC 3.0</a> · Uso no comercial</span></footer>
@@ -46,7 +44,7 @@
         <div class="brand-mark" aria-hidden="true">S<span>·</span></div>
         <div class="brand-name"><span>SHAKESPEARE</span><small>EDICIÓN VIVA</small></div>
       </button>
-      <div class="topbar-center">Un lector para detenerse en las palabras, sin perder la obra.</div>
+      <div class="topbar-center" aria-hidden="true"></div>
       <div class="topbar-actions">
         <button class="source-button" id="source-button" type="button">Fuentes</button>
         <button class="top-button help-button" id="help-button" aria-label="Cómo usar el lector" title="Cómo usar el lector">?</button>
@@ -66,8 +64,8 @@
         </button>
         <div class="side-overline chapter-label">NAVEGACIÓN</div>
         <div class="act-label"><span>ACTO I</span><span class="act-count">01 / 05</span></div>
-        <button class="scene-nav active" id="scene-nav" data-scene-id="coriolanus-1-1" aria-current="page"><span class="scene-number">01</span><span>Roma, una calle<small>Fragmento disponible</small></span><span class="scene-dot"></span></button>
-        <button class="scene-nav" data-scene-id="coriolanus-1-2"><span class="scene-number">02</span><span>Corioles, Senado<small>Escena completa</small></span><span class="scene-dot"></span></button><button class="scene-nav" data-scene-id="coriolanus-1-3"><span class="scene-number">03</span><span>Casa de Marcio<small>Escena completa</small></span><span class="scene-dot"></span></button><button class="scene-nav" data-scene-id="coriolanus-1-4"><span class="scene-number">04</span><span>Murallas de Corioles<small>Escena completa</small></span><span class="scene-dot"></span></button><button class="scene-nav" data-scene-id="coriolanus-1-5"><span class="scene-number">05</span><span>Corioles, interior<small>Escena completa</small></span><span class="scene-dot"></span></button><button class="scene-nav" data-scene-id="coriolanus-1-7"><span class="scene-number">07</span><span>Corioles, puertas<small>Escena completa</small></span><span class="scene-dot"></span></button><button class="scene-nav" data-scene-id="coriolanus-1-8"><span class="scene-number">08</span><span>Duelo en el campo<small>Escena completa</small></span><span class="scene-dot"></span></button><button class="scene-nav" data-scene-id="coriolanus-1-9"><span class="scene-number">09</span><span>Después de la batalla<small>Escena completa</small></span><span class="scene-dot"></span></button><button class="scene-nav" data-scene-id="coriolanus-1-10"><span class="scene-number">10</span><span>Campamento volsco<small>Fragmento disponible</small></span><span class="scene-dot"></span></button><div class="upcoming-scenes"><span>Acto II</span><span>En preparación</span></div>
+        <button class="scene-nav active" id="scene-nav" data-scene-id="coriolanus-1-1" aria-current="page"><span class="scene-number">01</span><span>Roma, una calle</span><span class="scene-dot"></span></button>
+        <button class="scene-nav" data-scene-id="coriolanus-1-2"><span class="scene-number">02</span><span>Corioles, Senado</span><span class="scene-dot"></span></button><button class="scene-nav" data-scene-id="coriolanus-1-3"><span class="scene-number">03</span><span>Casa de Marcio</span><span class="scene-dot"></span></button><button class="scene-nav" data-scene-id="coriolanus-1-4"><span class="scene-number">04</span><span>Murallas de Corioles</span><span class="scene-dot"></span></button><button class="scene-nav" data-scene-id="coriolanus-1-5"><span class="scene-number">05</span><span>Corioles, interior</span><span class="scene-dot"></span></button><button class="scene-nav" data-scene-id="coriolanus-1-7"><span class="scene-number">07</span><span>Corioles, puertas</span><span class="scene-dot"></span></button><button class="scene-nav" data-scene-id="coriolanus-1-8"><span class="scene-number">08</span><span>Duelo en el campo</span><span class="scene-dot"></span></button><button class="scene-nav" data-scene-id="coriolanus-1-9"><span class="scene-number">09</span><span>Después de la batalla</span><span class="scene-dot"></span></button><button class="scene-nav" data-scene-id="coriolanus-1-10"><span class="scene-number">10</span><span>Campamento volsco</span><span class="scene-dot"></span></button><div class="upcoming-scenes"><span>Acto II</span><span>En preparación</span></div>
         <div class="disabled-acts" aria-label="Actos todavía no incorporados">
           <div>ACTO II <span>—</span></div>
           <div>ACTO III <span>—</span></div>
@@ -79,8 +77,7 @@
           <div class="progress-bar" aria-label="Progreso de lectura"><span id="progress-fill"></span></div>
           <div class="progress-copy" id="progress-copy">Todavía no hay un marcador.</div>
           <button class="resume-button" id="resume-button" disabled>Continuar leyendo <span>→</span></button>
-          <div class="quiet-note">El marcador queda guardado en este navegador.</div>
-        </div>
+          </div>
         </div>
       </div>
     </aside>
@@ -94,7 +91,7 @@
         </div>
         <div class="heading-rule"><div class="chapter-title">ACTO PRIMERO <span>/</span> ESCENA PRIMERA</div><div class="heading-place">ROMA · UNA CALLE</div></div>
         <p class="scene-introduction" id="scene-introduction"></p>
-        <div class="sample-notice"><span class="notice-symbol">✳</span><div><strong>Primera muestra de la edición.</strong> Las escenas I.2–I.4 están completas; I.1 requiere revisión y I.5 está completa; I.6–I.8 están completas; I.9 está en curso.</div></div>
+        <div class="reader-mode"><button id="read-act-toggle" type="button" aria-pressed="false">Leer acto I completo</button></div>
       </div>
 
       <div class="reader-controls" id="reader-controls">
@@ -120,19 +117,20 @@
       <div class="reader" id="reader">
         <div class="reader-columns-heading">
           <div class="line-gutter-heading">LÍNEAS</div>
-          <div class="column-heading english-heading"><span class="lang-code">EN</span><span>Original · Shakespeare</span><small>Inglés moderno temprano</small></div>
-          <div class="column-heading spanish-heading"><span class="lang-code">ES</span><span>Traducción de apoyo</span><small>Versión propia, no literaria</small></div>
+          <div class="column-heading english-heading"><span class="lang-code">EN</span><span>Original</span></div>
+          <div class="column-heading spanish-heading"><span class="lang-code">ES</span><span>Traducción</span></div>
         </div>
         <div class="stage-direction" id="stage-direction"></div>
         <div id="dialogue-container" aria-live="polite"></div>
         <div class="empty-state" id="empty-state" hidden><strong>No encontramos ese texto.</strong><span>Prueba con una palabra en inglés o español.</span><button id="clear-search">Limpiar búsqueda</button></div>
+        <nav class="reader-end" id="reader-end" aria-label="Continuar leyendo"><span class="reader-end-label" id="reader-end-label"></span><div class="reader-end-actions"><button type="button" id="read-mode-footer" class="reader-end-secondary"></button><button type="button" id="next-scene" class="reader-end-primary" hidden></button></div></nav>
       </div>
     </main>
 
     <aside class="character-rail" id="character-rail" aria-label="Personajes de esta escena">
       <div class="rail-sticky">
         <button class="panel-toggle" id="characters-panel-toggle" type="button" aria-expanded="true" aria-controls="characters-panel-content" title="Replegar personajes"><span class="panel-toggle-icon" id="characters-toggle-icon" aria-hidden="true">→</span><span>Personajes</span></button>
-        <div class="rail-content" id="characters-panel-content"><div class="side-overline">EN ESTA ESCENA</div><p class="rail-lead">Quién habla, quién responde y quién todavía no ha entrado.</p><div id="character-list"></div><button id="full-guide-button" class="all-characters-button">Ver guía completa <span>→</span></button><div class="rail-hint"><span class="rail-hint-icon">i</span> Selecciona cualquier nombre para ver su ficha.</div></div>
+        <div class="rail-content" id="characters-panel-content"><div class="side-overline">EN ESTA ESCENA</div><div id="character-list"></div><button id="full-guide-button" class="all-characters-button">Ver guía completa <span>→</span></button></div>
       </div>
     </aside>
   </div>
@@ -146,6 +144,6 @@
     </div>
   </div>
   <script src="./data.js?v=20261107-11"></script>
-  <script src="./app.js?v=20261107-12"></script>
+  <script src="./app.js?v=20261107-13"></script>
 </body>
 </html>
