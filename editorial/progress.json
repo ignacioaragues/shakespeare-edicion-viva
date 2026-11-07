@@ -463,15 +463,24 @@
       "last_line": 996,
       "editorial_state": "translated_source_checked",
       "note": "Entrance of Volumnia, Virgilia, Valeria; news and letters of Martius; nine complete speeches and stage directions. Folger online II.1 checked."
+    },
+    {
+      "id": "coriolanus-2-1-997-1016",
+      "act": 2,
+      "scene": 1,
+      "first_line": 997,
+      "last_line": 1016,
+      "editorial_state": "translated_source_checked",
+      "note": "Eight complete speeches: Menenius celebrates the letter, debates wounds and laurel with Virgilia and Volumnia, and asks about Aufidius and the Senate. Folger online and privately supplied Spanish PDF consulted independently; no Spanish text copied."
     }
   ],
   "next_fragment": {
     "act": 2,
     "scene": 1,
-    "first_line": 997,
-    "note": "Menenio rejoices over his letter and compares it with Galen's prescriptions; check next full speech against Folger."
+    "first_line": 1017,
+    "note": "Volumnia replies about the Senate's letters and Coriolanus' feats; begin at the next complete speech."
   },
   "completed_acts": [],
-  "last_update_commit": "checkpoint updated alongside Folger 979–996 publication",
+  "last_update_commit": "Publication of II.1 Folger lines 997–1016; data and checkpoint updated in sequence.",
   "notes": "Folger online line 66 is 'We cannot, sir; we are undone already.' The original prototype had an off-by-one numbering error, corrected in this release. Text is still under editorial review."
 }
