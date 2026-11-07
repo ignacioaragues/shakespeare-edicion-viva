@@ -5813,7 +5813,7 @@ window.SHAKESPEARE_READER_DATA = {
       "scene": 1,
       "place": "Roma · Un espacio público",
       "sourceRef": "Folger Shakespeare Library · Acto II, escena 1",
-      "sectionLabel": "Edición en curso · líneas 880–1124",
+      "sectionLabel": "Edición en curso · líneas 880–1162",
       "introduction": "Menenio se encuentra con los tribunos Sicinio y Bruto. Antes de que lleguen noticias del ejército, discuten con ironía la relación entre Marcio y el pueblo.",
       "stage": "Entra Menenio con los dos tribunos del pueblo, Sicinio y Bruto.",
       "characters": [
@@ -7641,6 +7641,137 @@ window.SHAKESPEARE_READER_DATA = {
               "type": "Metonimia",
               "title": "Aliento y voto",
               "body": "El aliento representa la aprobación popular expresada de viva voz; el adjetivo manifiesta desprecio."
+            }
+          ]
+        },
+        {
+          "line": "1142",
+          "speaker": "sicinius",
+          "en": "’Tis right.",
+          "es": "Así es.",
+          "notes": []
+        },
+        {
+          "line": "1143–1145",
+          "speaker": "brutus",
+          "en": "It was his word. O, he would miss it rather Than carry it but by the suit of the gentry to him And the desire of the nobles.",
+          "es": "Eso fue lo que dijo. ¡Ah! Preferiría renunciar al consulado antes que obtenerlo únicamente por las súplicas de los caballeros y el deseo de los nobles.",
+          "notes": [
+            {
+              "term": "miss it",
+              "type": "Léxico",
+              "title": "miss it",
+              "body": "Aquí significa quedarse sin el consulado."
+            },
+            {
+              "term": "suit of the gentry",
+              "type": "Léxico político",
+              "title": "suit of the gentry",
+              "body": "«Suit» es una petición insistente; «gentry» alude a sectores socialmente distinguidos."
+            },
+            {
+              "term": "carry it",
+              "type": "Léxico",
+              "title": "carry it",
+              "body": "Significa conseguir el cargo."
+            }
+          ]
+        },
+        {
+          "line": "1146–1148",
+          "speaker": "sicinius",
+          "en": "I wish no better Than have him hold that purpose and to put it In execution.",
+          "es": "No deseo nada mejor que verlo mantenerse en esa resolución y llevarla a la práctica.",
+          "notes": [
+            {
+              "term": "hold that purpose",
+              "type": "Sintaxis",
+              "title": "hold that purpose",
+              "body": "Mantener el propósito de no solicitar el voto popular."
+            }
+          ]
+        },
+        {
+          "line": "1149",
+          "speaker": "brutus",
+          "en": "’Tis most like he will.",
+          "es": "Lo más probable es que así lo haga.",
+          "notes": [
+            {
+              "term": "most like",
+              "type": "Léxico histórico",
+              "title": "most like",
+              "body": "Equivale a «most likely»: muy probable."
+            }
+          ]
+        },
+        {
+          "line": "1150–1151",
+          "speaker": "sicinius",
+          "en": "It shall be to him then as our good wills, A sure destruction.",
+          "es": "Entonces eso será para él, tal como nosotros deseamos, su ruina segura.",
+          "notes": [
+            {
+              "term": "as our good wills",
+              "type": "Sintaxis",
+              "title": "as our good wills",
+              "body": "Construcción elíptica: conforme a lo que desean los tribunos."
+            },
+            {
+              "term": "A sure destruction",
+              "type": "Retórica",
+              "title": "A sure destruction",
+              "body": "El sintagma remata enfáticamente la predicción de Sicinio."
+            }
+          ]
+        },
+        {
+          "line": "1152–1162",
+          "speaker": "brutus",
+          "en": "So it must fall out To him, or our authority’s for an end. We must suggest the people in what hatred He still hath held them; that to ’s power he would Have made them mules, silenced their pleaders, and Dispropertied their freedoms; holding them In human action and capacity Of no more soul nor fitness for the world Than camels in their war, who have their provand Only for bearing burdens, and sore blows For sinking under them.",
+          "es": "Así tiene que acabar para él; de lo contrario, nuestra autoridad estará perdida. Debemos inculcar al pueblo cuánto odio le ha tenido siempre; hacerle ver que, de haber podido, los habría convertido en mulas, habría acallado a sus defensores y los habría despojado de sus libertades. Para él, en cuanto a su condición y capacidad humanas, no tendrían más alma ni serían más aptos para vivir en el mundo que los camellos de un ejército: reciben su ración únicamente para cargar pesos, y duros golpes cuando se desploman bajo ellos.",
+          "notes": [
+            {
+              "term": "our authority’s for an end",
+              "type": "Sintaxis",
+              "title": "our authority’s for an end",
+              "body": "Expresa la pérdida o desaparición de la autoridad de los tribunos."
+            },
+            {
+              "term": "suggest the people",
+              "type": "Semántica histórica",
+              "title": "suggest the people",
+              "body": "«Suggest» puede significar instigar o inculcar una idea; Bruto propone influir deliberadamente en la opinión pública."
+            },
+            {
+              "term": "to ’s power",
+              "type": "Gramática",
+              "title": "to ’s power",
+              "body": "«’s» abrevia «his»: en la medida de su poder."
+            },
+            {
+              "term": "Dispropertied their freedoms",
+              "type": "Léxico político",
+              "title": "Dispropertied their freedoms",
+              "body": "Verbo infrecuente que presenta las libertades como algo de lo que se puede despojar a una persona."
+            },
+            {
+              "term": "pleaders",
+              "type": "Instituciones",
+              "title": "pleaders",
+              "body": "Quienes defienden o abogan por los plebeyos; no implica necesariamente una profesión jurídica moderna."
+            },
+            {
+              "term": "provand",
+              "type": "Léxico militar",
+              "title": "provand",
+              "body": "Pienso o ración de provisiones para animales de carga."
+            },
+            {
+              "term": "camels in their war",
+              "type": "Imagen",
+              "title": "camels in their war",
+              "body": "El símil militar compara a la plebe con bestias de carga; Bruto atribuye esa actitud a Coriolano, sin citarlo literalmente."
             }
           ]
         }

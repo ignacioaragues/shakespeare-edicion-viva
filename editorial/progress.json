@@ -544,15 +544,24 @@
       "last_line": 1141,
       "editorial_state": "translated_source_checked",
       "note": "Four complete speeches on the tribunes' expectation of Coriolanus' self-defeat and his refusal to seek votes; Folger online checked. EPUB inaccessible."
+    },
+    {
+      "id": "coriolanus-2-1-1142-1162",
+      "act": 2,
+      "scene": 1,
+      "first_line": 1142,
+      "last_line": 1162,
+      "editorial_state": "translated_source_checked",
+      "note": "Six complete speeches on the tribunes' political strategy; Folger online checked. EPUB annotations not consulted."
     }
   ],
   "next_fragment": {
     "act": 2,
     "scene": 1,
-    "first_line": 1142,
-    "note": "Sicinius and Brutus discuss the refusal and its consequences."
+    "first_line": 1163,
+    "note": "Sicinius responds to Brutus' proposal."
   },
   "completed_acts": [],
-  "last_update_commit": "II.1 through 1141; publication commit pending",
+  "last_update_commit": "II.1 through 1162; see latest Git commit",
   "notes": "Folger online line 66 is 'We cannot, sir; we are undone already.' The original prototype had an off-by-one numbering error, corrected in this release. Text is still under editorial review."
 }
