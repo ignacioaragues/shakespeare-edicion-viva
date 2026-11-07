@@ -490,15 +490,24 @@
       "last_line": 1045,
       "editorial_state": "translated_source_checked",
       "note": "Four complete speeches; wounds counted and Volumnia announces the procession. Folger online checked; Folger EPUB Library materialization blocked, so its notes were not consulted."
+    },
+    {
+      "id": "coriolanus-2-1-1046-1062",
+      "act": 2,
+      "scene": 1,
+      "first_line": 1046,
+      "last_line": 1062,
+      "editorial_state": "translated_source_checked",
+      "note": "Six complete speeches and ceremonial stage directions; Folger online II.1 checked. Folger EPUB Library read failed; editorial notes not consulted."
     }
   ],
   "next_fragment": {
     "act": 2,
     "scene": 1,
-    "first_line": 1046,
-    "note": "Herald proclaims the new name Coriolanus; add procession speakers and stage directions."
+    "first_line": 1063,
+    "note": "Coriolanus addresses Virgilia, lines 1063 onward."
   },
   "completed_acts": [],
-  "last_update_commit": "II.1 Folger 1035–1045; Folger online verified; EPUB unavailable.",
+  "last_update_commit": "II.1 Folger 1046–1062; online verified; EPUB Library read failed.",
   "notes": "Folger online line 66 is 'We cannot, sir; we are undone already.' The original prototype had an off-by-one numbering error, corrected in this release. Text is still under editorial review."
 }
