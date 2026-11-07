@@ -5813,7 +5813,7 @@ window.SHAKESPEARE_READER_DATA = {
       "scene": 1,
       "place": "Roma · Un espacio público",
       "sourceRef": "Folger Shakespeare Library · Acto II, escena 1",
-      "sectionLabel": "Edición en curso · líneas 880–964",
+      "sectionLabel": "Edición en curso · líneas 880–978",
       "introduction": "Menenio se encuentra con los tribunos Sicinio y Bruto. Antes de que lleguen noticias del ejército, discuten con ironía la relación entre Marcio y el pueblo.",
       "stage": "Entra Menenio con los dos tribunos del pueblo, Sicinio y Bruto.",
       "characters": [
@@ -6386,6 +6386,81 @@ window.SHAKESPEARE_READER_DATA = {
               "type": "Léxico institucional",
               "title": "Quien ocupa un escaño",
               "body": "«Bencher» es quien se sienta en un banco o asiento de autoridad; la referencia al Capitolio sitúa el contraste en la esfera política romana."
+            }
+          ]
+        },
+        {
+          "line": "965–978",
+          "speaker": "menenius",
+          "en": "Our very priests must become mockers if they shall encounter such ridiculous subjects as you are. When you speak best unto the purpose, it is not worth the wagging of your beards, and your beards deserve not so honorable a grave as to stuff a botcher’s cushion or to be entombed in an ass’s packsaddle. Yet you must be saying Martius is proud, who, in a cheap estimation, is worth all your predecessors since Deucalion, though peradventure some of the best of ’em were hereditary hangmen. Good e’en to your Worships. More of your conversation would infect my brain, being the herdsmen of the beastly plebeians. I will be bold to take my leave of you.",
+          "es": "Hasta nuestros sacerdotes tendrían que volverse burlones si se encontraran con sujetos tan ridículos como ustedes. Cuando hablan con la mayor sensatez posible, lo que dicen no merece ni el movimiento de sus barbas; y esas barbas no merecen una sepultura tan honorable como servir de relleno al cojín de un remendón o quedar enterradas en la albarda de un asno. Y, sin embargo, insisten en decir que Marcio es soberbio, cuando él, aun valorándolo por lo bajo, vale más que todos sus antecesores desde los tiempos de Deucalión, aunque quizá algunos de los mejores fueran verdugos de oficio hereditario. Buenas tardes, señorías. Seguir conversando con ustedes me infectaría el cerebro, pues son los pastores de esos plebeyos embrutecidos. Me tomaré la libertad de despedirme.",
+          "stageAfter": "Menenio hace ademán de retirarse. Bruto y Sicinio se apartan.",
+          "notes": [
+            {
+              "term": "Our very priests must become mockers",
+              "type": "Retórica",
+              "title": "La burla alcanza a los sacerdotes",
+              "body": "Very intensifica «hasta nuestros propios sacerdotes». Menenio imagina que incluso quienes deben guardar gravedad religiosa se verían obligados a burlarse de los tribunos."
+            },
+            {
+              "term": "unto the purpose",
+              "type": "Léxico y sintaxis",
+              "title": "Hablar con pertinencia",
+              "body": "La locución significa «al caso», «con relación al asunto». El superlativo best no elogia a los tribunos: introduce una concesión irónica."
+            },
+            {
+              "term": "wagging of your beards",
+              "type": "Imagen satírica",
+              "title": "El movimiento de las barbas",
+              "body": "Wagging designa el movimiento físico de las barbas al hablar. Menenio considera que ni ese mínimo esfuerzo merece la pena."
+            },
+            {
+              "term": "botcher’s cushion",
+              "type": "Cultura material",
+              "title": "El cojín del remendón",
+              "body": "Botcher es quien remienda ropa; su cojín podía rellenarse con desperdicios o materiales baratos. La barba ni siquiera merecería ese uso degradante."
+            },
+            {
+              "term": "ass’s packsaddle",
+              "type": "Cultura material",
+              "title": "La albarda del asno",
+              "body": "Packsaddle es la albarda empleada para cargar bultos. La imagen prolonga la degradación cómica de las barbas hasta un objeto de uso animal."
+            },
+            {
+              "term": "in a cheap estimation",
+              "type": "Léxico",
+              "title": "Valorado por lo bajo",
+              "body": "Cheap no califica aquí a Marcio de barato o vulgar: modifica estimation, una valoración deliberadamente modesta que, aun así, lo sitúa por encima de los tribunos."
+            },
+            {
+              "term": "Deucalion",
+              "type": "Alusión mitológica",
+              "title": "Deucalión y la humanidad renovada",
+              "body": "Deucalión sobrevivió al diluvio en la mitología griega y participó en la repoblación del mundo. La referencia exagera la antigüedad del linaje de los tribunos; no establece una genealogía histórica."
+            },
+            {
+              "term": "peradventure",
+              "type": "Léxico histórico",
+              "title": "Quizá",
+              "body": "Adverbio equivalente a «perhaps». Introduce una nueva pulla dentro de la aparente concesión de Menenio."
+            },
+            {
+              "term": "hereditary hangmen",
+              "type": "Sátira social",
+              "title": "Verdugos hereditarios",
+              "body": "Hangmen son ejecutores de condenas a muerte. La expresión convierte el supuesto linaje distinguido de los tribunos en una sucesión infamante de verdugos."
+            },
+            {
+              "term": "Good e’en",
+              "type": "Fórmula de despedida",
+              "title": "Buenas tardes",
+              "body": "Contracción de good even, fórmula de despedida que en este contexto interrumpe bruscamente la disputa. La cortesía es irónica."
+            },
+            {
+              "term": "herdsmen of the beastly plebeians",
+              "type": "Metáfora política",
+              "title": "Los tribunos como pastores",
+              "body": "Herdsmen equipara a los tribunos con pastores y a los plebeyos con ganado; beastly refuerza el desprecio de clase expresado por Menenio, no una caracterización neutral del pueblo."
             }
           ]
         }
