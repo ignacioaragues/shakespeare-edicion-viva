@@ -5813,7 +5813,7 @@ window.SHAKESPEARE_READER_DATA = {
       "scene": 1,
       "place": "Roma · Un espacio público",
       "sourceRef": "Folger Shakespeare Library · Acto II, escena 1",
-      "sectionLabel": "Edición en curso · líneas 880–1034",
+      "sectionLabel": "Edición en curso · líneas 880–1045",
       "introduction": "Menenio se encuentra con los tribunos Sicinio y Bruto. Antes de que lleguen noticias del ejército, discuten con ironía la relación entre Marcio y el pueblo.",
       "stage": "Entra Menenio con los dos tribunos del pueblo, Sicinio y Bruto.",
       "characters": [
@@ -6935,6 +6935,106 @@ window.SHAKESPEARE_READER_DATA = {
               "type": "Léxico",
               "title": "Heridas",
               "body": "Sustantivo que designa lesiones físicas, no agravios emocionales."
+            }
+          ]
+        },
+        {
+          "line": "1035–1036",
+          "speaker": "menenius",
+          "en": "One i’ th’ neck and two i’ th’ thigh—there’s nine that I know.",
+          "es": "Una en el cuello y dos en el muslo: son nueve las que yo conozco.",
+          "notes": [
+            {
+              "term": "there’s nine",
+              "type": "Sintaxis",
+              "title": "Concordancia en la lengua hablada",
+              "body": "El singular existencial «there’s» introduce aquí un plural; la construcción se conserva como rasgo de oralidad."
+            },
+            {
+              "term": "One i’ th’ neck",
+              "type": "Dramaturgia",
+              "title": "Un recuento incierto",
+              "body": "Menenio añade tres heridas al recuerdo de las siete mencionadas por Volumnia, pero concluye que conoce nueve: la discrepancia puede producir un efecto cómico; no debe corregirse silenciosamente."
+            }
+          ]
+        },
+        {
+          "line": "1037–1038",
+          "speaker": "volumnia",
+          "en": "He had, before this last expedition, twenty-five wounds upon him.",
+          "es": "Antes de esta última expedición ya tenía veinticinco heridas en el cuerpo.",
+          "notes": [
+            {
+              "term": "before this last expedition",
+              "type": "Cronología dramática",
+              "title": "Heridas anteriores",
+              "body": "Volumnia distingue el historial de heridas previo a la campaña reciente del número que Menenio acaba de calcular."
+            },
+            {
+              "term": "upon him",
+              "type": "Léxico",
+              "title": "En el cuerpo",
+              "body": "«Upon him» se refiere a las marcas corporales del soldado, no a una carga figurada."
+            }
+          ]
+        },
+        {
+          "line": "1039–1041",
+          "speaker": "menenius",
+          "en": "Now it’s twenty-seven. Every gash was an enemy’s grave. Hark, the trumpets!",
+          "es": "Ahora son veintisiete. Cada tajo fue la tumba de un enemigo. ¡Escuchen, las trompetas!",
+          "stageAfter": "Se oyen vítores y una fanfarria.",
+          "notes": [
+            {
+              "term": "twenty-seven",
+              "type": "Dramaturgia",
+              "title": "Aritmética de las heridas",
+              "body": "El total de veintisiete presupone dos heridas nuevas, aunque la conversación anterior ha mencionado otras cifras; la tensión numérica es propia del diálogo y no se normaliza."
+            },
+            {
+              "term": "Every gash was an enemy’s grave",
+              "type": "Retórica",
+              "title": "Metáfora de equivalencia",
+              "body": "La herida del vencedor se convierte metafóricamente en sepultura de un enemigo: el dolor propio prueba la destrucción ajena."
+            },
+            {
+              "term": "Hark",
+              "type": "Léxico",
+              "title": "Escuchen",
+              "body": "Imperativo de atención que introduce un sonido procedente de fuera de escena."
+            }
+          ]
+        },
+        {
+          "line": "1042–1045",
+          "speaker": "volumnia",
+          "en": "These are the ushers of Martius: before him he carries noise, and behind him he leaves tears. Death, that dark spirit, in ’s nervy arm doth lie, Which, being advanced, declines, and then men die.",
+          "es": "Son los heraldos de Marcio: delante de él avanza el estruendo y detrás deja lágrimas. La Muerte, ese espíritu sombrío, habita en su brazo vigoroso; cuando el brazo se alza y luego desciende, los hombres mueren.",
+          "stageAfter": "Suena una señal ceremonial de trompetas.",
+          "notes": [
+            {
+              "term": "ushers",
+              "type": "Léxico",
+              "title": "Precursores ceremoniales",
+              "body": "Los sonidos anuncian la llegada de Marcio como si fueran ujieres que preceden a un personaje importante."
+            },
+            {
+              "term": "before him he carries noise, and behind him he leaves tears",
+              "type": "Retórica",
+              "title": "Paralelismo y contraste",
+              "body": "La oposición espacial entre «before» y «behind» vincula la fama que precede al guerrero con el duelo que deja a su paso."
+            },
+            {
+              "term": "nervy arm",
+              "type": "Léxico",
+              "title": "Brazo vigoroso",
+              "body": "«Nervy» remite a tendones y fuerza muscular, no al sentido moderno de nerviosismo."
+            },
+            {
+              "term": "being advanced, declines",
+              "type": "Sintaxis e imagen",
+              "title": "Ascenso y descenso del brazo",
+              "body": "El sujeto implícito es el brazo armado: el movimiento de levantarlo y abatirlo se convierte en una acción letal; «declines» no significa aquí decadencia moral."
             }
           ]
         }
