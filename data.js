@@ -4935,8 +4935,8 @@ window.SHAKESPEARE_READER_DATA = {
       "scene": 9,
       "place": "Campo romano · Tras la batalla",
       "sourceRef": "Folger Shakespeare Library · Acto I, escena 9",
-      "sectionLabel": "Edición en curso · líneas Folger 738–795",
-      "introduction": "Cominio ofrece a Marcio parte del botín; este rechaza la recompensa y reprende las aclamaciones como adulación.",
+      "sectionLabel": "Edición en curso · líneas Folger 738–816",
+      "introduction": "Cominio elogia las hazañas de Marcio, que rechaza el botín y los vítores. El general lo honra con un caballo y el sobrenombre de Coriolano.",
       "stage": "Suena la alarma; se toca retirada y después una fanfarria. Entran Cominio y los romanos por una puerta; por otra, Marcio, con un brazo en cabestrillo.",
       "characters": [
         {
@@ -4959,6 +4959,13 @@ window.SHAKESPEARE_READER_DATA = {
           "english": "Titus Lartius",
           "identity": "Oficial romano que regresa de la persecución de los volscos.",
           "color": "slate"
+        },
+        {
+          "id": "coriolanus",
+          "name": "Cayo Marcio Coriolano",
+          "english": "Caius Martius Coriolanus",
+          "identity": "Marcio recibe aquí el sobrenombre honorífico de Coriolano por su actuación en Corioles.",
+          "color": "violet"
         }
       ],
       "blocks": [
@@ -5218,6 +5225,108 @@ window.SHAKESPEARE_READER_DATA = {
               "type": "Metáfora",
               "title": "Elogios como alimento",
               "body": "Dieted y sauced convierten las alabanzas en comida condimentada con mentiras."
+            }
+          ]
+        },
+        {
+          "line": "796–809",
+          "speaker": "cominius",
+          "en": "Too modest are you, More cruel to your good report than grateful To us that give you truly. By your patience, If ’gainst yourself you be incensed, we’ll put you, Like one that means his proper harm, in manacles, Then reason safely with you. Therefore be it known, As to us to all the world, that Caius Martius Wears this war’s garland, in token of the which My noble steed, known to the camp, I give him, With all his trim belonging. And from this time, For what he did before Corioles, call him, With all th’ applause and clamor of the host, Martius Caius Coriolanus! Bear Th’ addition nobly ever!",
+          "es": "Eres demasiado modesto: tratas tu buena fama con más crueldad que gratitud nos muestras a quienes te elogiamos con verdad. Con tu permiso, si estás tan enojado contigo mismo, te pondremos grilletes, como a quien pretende hacerse daño, y entonces podremos razonar contigo sin peligro. Que todo el mundo sepa, como nosotros sabemos, que Cayo Marcio merece la corona de esta guerra. Como señal de ello, le entrego mi noble caballo, conocido por todo el campamento, con todos sus arreos. Y desde ahora, por lo que hizo ante Corioles, que todo el ejército lo aclame con este nombre: ¡Marcio Cayo Coriolano! ¡Lleva siempre con nobleza ese nombre añadido!",
+          "stageAfter": "Fanfarria. Suenan trompetas y tambores.",
+          "notes": [
+            {
+              "term": "More cruel to your good report",
+              "type": "Retórica",
+              "title": "Crueldad contra la propia reputación",
+              "body": "Cominio presenta la modestia de Marcio como un daño infligido a su propia fama; la personificación invierte la virtud aparente en falta."
+            },
+            {
+              "term": "give you truly",
+              "type": "Sintaxis y léxico",
+              "title": "Alabanza veraz",
+              "body": "Give se entiende aquí en relación con el reconocimiento o elogio que los demás le otorgan; truly insiste en su sinceridad."
+            },
+            {
+              "term": "By your patience",
+              "type": "Fórmula de cortesía",
+              "title": "Con tu permiso",
+              "body": "Expresión que introduce una réplica potencialmente incómoda; no significa literalmente que se pida paciencia física."
+            },
+            {
+              "term": "proper harm",
+              "type": "Léxico histórico",
+              "title": "Su propio daño",
+              "body": "Proper puede significar «propio» o «personal» en inglés moderno temprano."
+            },
+            {
+              "term": "manacles",
+              "type": "Léxico",
+              "title": "Grilletes",
+              "body": "La amenaza de sujetarlo es figurada: Cominio compara el rechazo de los elogios con una conducta autodestructiva."
+            },
+            {
+              "term": "this war’s garland",
+              "type": "Imagen honorífica",
+              "title": "La corona de la victoria",
+              "body": "Garland designa una guirnalda o corona; en este contexto es emblema del mérito militar, no una coronación política."
+            },
+            {
+              "term": "trim belonging",
+              "type": "Léxico",
+              "title": "Los arreos del caballo",
+              "body": "Trim designa aquí los adornos o aparejos que acompañan al caballo regalado."
+            },
+            {
+              "term": "Th’ addition",
+              "type": "Onomástica",
+              "title": "El sobrenombre honorífico",
+              "body": "Addition es un nombre o título agregado al nombre personal; Coriolanus recuerda la toma de Corioles. No implica que Marcio cambie de identidad."
+            }
+          ]
+        },
+        {
+          "line": "810",
+          "speaker": "all",
+          "en": "Martius Caius Coriolanus!",
+          "es": "¡Marcio Cayo Coriolano!",
+          "notes": []
+        },
+        {
+          "line": "811–816",
+          "speaker": "coriolanus",
+          "en": "I will go wash; And when my face is fair, you shall perceive Whether I blush or no. Howbeit, I thank you. I mean to stride your steed and at all times To undercrest your good addition To th’ fairness of my power.",
+          "es": "Voy a lavarme; cuando tenga limpio el rostro, podrán ver si me sonrojo o no. Sea como sea, les doy las gracias. Montaré tu caballo y procuraré sostener siempre el nombre honorable que me has concedido, hasta donde alcancen mis fuerzas.",
+          "notes": [
+            {
+              "term": "when my face is fair",
+              "type": "Doble sentido",
+              "title": "El rostro limpio",
+              "body": "Fair puede aludir al rostro limpio y también a su aspecto presentable; la sangre del combate impide advertir si se ruboriza."
+            },
+            {
+              "term": "Howbeit",
+              "type": "Léxico histórico",
+              "title": "Sea como sea",
+              "body": "Conector concesivo equivalente a «sin embargo» o «en cualquier caso»."
+            },
+            {
+              "term": "stride your steed",
+              "type": "Léxico",
+              "title": "Montar a horcajadas",
+              "body": "Stride significa aquí montar o sentarse a horcajadas sobre el caballo recibido."
+            },
+            {
+              "term": "undercrest",
+              "type": "Imagen heráldica",
+              "title": "Sostener el nombre recibido",
+              "body": "El verbo, poco común, evoca el blasón o la cimera; la interpretación como «honrar» o «estar a la altura» del sobrenombre es contextual, no una equivalencia léxica simple."
+            },
+            {
+              "term": "To th’ fairness of my power",
+              "type": "Interpretación",
+              "title": "En la medida de sus fuerzas",
+              "body": "Power puede referirse a capacidad o fuerza; la formulación mantiene una reserva sobre cuánto podrá corresponder al honor."
             }
           ]
         }
