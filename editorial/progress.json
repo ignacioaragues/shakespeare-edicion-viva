@@ -409,15 +409,24 @@
       "last_line": 879,
       "editorial_state": "translated_source_checked",
       "note": "Three complete speeches and distinct exits close I.10; Folger online checked. Six numbered lines."
+    },
+    {
+      "id": "coriolanus-2-1-880-899",
+      "act": 2,
+      "scene": 1,
+      "first_line": 880,
+      "last_line": 899,
+      "editorial_state": "translated_source_checked",
+      "note": "Opening exchange Menenius, Brutus, Sicinius and both tribunes, through Brutus' boasting accusation; fourteen complete speeches. Folger online II.1 verified."
     }
   ],
   "next_fragment": {
     "act": 2,
     "scene": 1,
-    "first_line": 880,
-    "note": "Begin Act II, scene 1; verify opening Folger numbering and scene architecture before insertion."
+    "first_line": 900,
+    "note": "Continue with Menenius' reply beginning 'This is strange now'; preserve complete speeches."
   },
   "completed_acts": [],
-  "last_update_commit": "atomic_commit_pending_sha",
+  "last_update_commit": "checkpoint updated alongside scene II.1 publication",
   "notes": "Folger online line 66 is 'We cannot, sir; we are undone already.' The original prototype had an off-by-one numbering error, corrected in this release. Text is still under editorial review."
 }
