@@ -5800,10 +5800,10 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "Respuesta con auxiliar",
               "body": "Shall recupera la acción solicitada en el parlamento anterior: llevar noticias al lugar indicado."
             }
-          ]
+          ],
+          "stageAfter": "Salen por puertas distintas: Aufidio por una y los soldados por otra."
         }
-      ],
-      "endStage": "Salen por puertas distintas: Aufidio por una y los soldados por otra."
+      ]
     }
   ]
 };
