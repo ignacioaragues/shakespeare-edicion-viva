@@ -5532,7 +5532,7 @@ window.SHAKESPEARE_READER_DATA = {
       "scene": 10,
       "place": "Campamento volsco · Después de la derrota",
       "sourceRef": "Folger Shakespeare Library · Acto I, escena 10",
-      "sectionLabel": "Edición en curso · líneas 844–859",
+      "sectionLabel": "Edición en curso · líneas 844–873",
       "introduction": "Derrotado, Aufidio contempla la pérdida de Corioles. La humillación transforma su rivalidad con Marcio en un propósito de venganza que ya no respetará las reglas del duelo.",
       "stage": "Entra Tulo Aufidio, ensangrentado, acompañado por dos o tres soldados.",
       "characters": [
@@ -5645,6 +5645,94 @@ window.SHAKESPEARE_READER_DATA = {
               "type": "Antítesis",
               "title": "Ira o astucia",
               "body": "La pareja contrapone impulso violento y cálculo estratégico; ambos quedan subordinados al objetivo de vencer a Marcio."
+            }
+          ]
+        },
+        {
+          "line": "860",
+          "speaker": "soldier",
+          "en": "He’s the devil.",
+          "es": "Es el diablo.",
+          "notes": [
+            {
+              "term": "the devil",
+              "type": "Comparación",
+              "title": "El diablo",
+              "body": "El soldado atribuye a Marcio una fuerza casi sobrenatural; Aufidio matiza la comparación."
+            }
+          ]
+        },
+        {
+          "line": "861–873",
+          "speaker": "aufidius",
+          "en": "Bolder, though not so subtle. My valor’s poisoned With only suff’ring stain by him; for him Shall fly out of itself. Nor sleep nor sanctuary, Being naked, sick, nor fane nor Capitol, The prayers of priests nor times of sacrifice, Embarquements all of fury, shall lift up Their rotten privilege and custom ’gainst My hate to Martius. Where I find him, were it At home, upon my brother’s guard, even there, Against the hospitable canon, would I Wash my fierce hand in ’s heart. Go you to th’ city; Learn how ’tis held and what they are that must Be hostages for Rome.",
+          "es": "Más audaz, aunque no tan astuto. Mi valor se ha envenenado con solo soportar la deshonra que él me inflige; por su causa se saldrá de sus propios límites. Ni el sueño ni el derecho de asilo, ni hallarlo desnudo o enfermo, ni un templo ni el Capitolio, ni las plegarias de los sacerdotes ni los momentos de sacrificio —todos ellos frenos a la furia— podrán oponer sus privilegios y costumbres, ya corrompidos, a mi odio contra Marcio. Dondequiera que lo encuentre, aunque sea en su casa, bajo la protección de mi propio hermano, incluso allí, contra las leyes de la hospitalidad, hundiría mi mano feroz en su corazón. Vayan a la ciudad; averigüen cómo está ocupada y quiénes deberán quedar como rehenes de Roma.",
+          "notes": [
+            {
+              "term": "Bolder, though not so subtle",
+              "title": "Audacia y astucia",
+              "body": "Aufidio distingue la osadía de Marcio de la sutileza diabólica.",
+              "type": "Nota filológica"
+            },
+            {
+              "term": "suff’ring stain",
+              "title": "Deshonra soportada",
+              "body": "Suff’ring significa soportar; stain es una mancha en el honor.",
+              "type": "Nota filológica"
+            },
+            {
+              "term": "Shall fly out of itself",
+              "title": "Valor sin límites",
+              "body": "El sujeto es valor: Aufidio promete abandonar sus restricciones anteriores.",
+              "type": "Nota filológica"
+            },
+            {
+              "term": "sanctuary",
+              "title": "Derecho de asilo",
+              "body": "Protección sagrada que Aufidio declara dispuesto a violar.",
+              "type": "Nota filológica"
+            },
+            {
+              "term": "fane",
+              "title": "Templo",
+              "body": "Voz poética para templo o santuario.",
+              "type": "Nota filológica"
+            },
+            {
+              "term": "Embarquements all of fury",
+              "title": "Barreras a la furia",
+              "body": "Embarquements designa aquí impedimentos o contenciones, no embarcaciones.",
+              "type": "Nota filológica"
+            },
+            {
+              "term": "rotten privilege and custom",
+              "title": "Salvaguardias despreciadas",
+              "body": "El calificativo expresa el juicio de Aufidio, no el del editor.",
+              "type": "Nota filológica"
+            },
+            {
+              "term": "upon my brother’s guard",
+              "title": "Protección familiar",
+              "body": "Ni siquiera el amparo de su propio hermano detendría a Aufidio.",
+              "type": "Nota filológica"
+            },
+            {
+              "term": "hospitable canon",
+              "title": "Norma de hospitalidad",
+              "body": "Canon es una regla; aquí, el deber de respetar al huésped.",
+              "type": "Nota filológica"
+            },
+            {
+              "term": "in ’s heart",
+              "title": "Contracción posesiva",
+              "body": "In ’s equivale a in his, «en su corazón».",
+              "type": "Nota filológica"
+            },
+            {
+              "term": "hostages for Rome",
+              "title": "Rehenes",
+              "body": "Personas retenidas como garantía de los acuerdos con Roma.",
+              "type": "Nota filológica"
             }
           ]
         }

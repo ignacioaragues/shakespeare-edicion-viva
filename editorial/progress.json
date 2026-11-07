@@ -391,13 +391,22 @@
       "last_line": 859,
       "editorial_state": "translated_source_checked",
       "note": "Three complete speeches: Aufidius learns of Corioles' fall and abandons the ideal of honorable single combat. Folger online I.10 checked."
+    },
+    {
+      "id": "coriolanus-1-10-860-873",
+      "act": 1,
+      "scene": 10,
+      "first_line": 860,
+      "last_line": 873,
+      "editorial_state": "translated_source_checked",
+      "note": "Two complete speeches, Folger online verified."
     }
   ],
   "next_fragment": {
     "act": 1,
     "scene": 10,
-    "first_line": 860,
-    "note": "Soldier calls Martius the devil; Aufidius continues his vow of revenge."
+    "first_line": 874,
+    "note": "Soldier asks about Aufidius' departure."
   },
   "completed_acts": [],
   "last_update_commit": "atomic_commit_pending_sha",
