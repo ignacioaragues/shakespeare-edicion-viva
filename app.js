@@ -20,14 +20,24 @@
     charactersCollapsed: stored.charactersCollapsed === true,
     bookmark: null,
     mobileLang: stored.mobileLang === 'es' ? 'es' : 'en',
-    query: ''
+    query: '',
+    readAct: false,
+    bookmarks: {...(stored.bookmarks || {})},
+    bookmarkSceneId: stored.bookmarkSceneId || scene.id
   };
-  state.bookmark = Number.isInteger(stored.bookmarks?.[scene.id]) && stored.bookmarks[scene.id] < scene.blocks.length ? stored.bookmarks[scene.id] : (scene.id === 'coriolanus-1-1' && Number.isInteger(stored.bookmark) && stored.bookmark < scene.blocks.length ? stored.bookmark : null);
+  if (scene.id === 'coriolanus-1-1' && !Number.isInteger(state.bookmarks[scene.id]) && Number.isInteger(stored.bookmark) && stored.bookmark >= 0 && stored.bookmark < scene.blocks.length) state.bookmarks[scene.id] = stored.bookmark;
+  state.bookmark = Number.isInteger(state.bookmarks[scene.id]) && state.bookmarks[scene.id] >= 0 && state.bookmarks[scene.id] < scene.blocks.length ? state.bookmarks[scene.id] : null;
   let currentNoteTrigger = null;
 
   function persist() {
-    try { localStorage.setItem(STORAGE_KEY, JSON.stringify({ fontSize: state.fontSize, notes: state.notes, dividers: state.dividers, navCollapsed: state.navCollapsed, charactersCollapsed: state.charactersCollapsed, bookmark: state.bookmark, bookmarks: {...(stored.bookmarks || {}), [scene.id]: state.bookmark}, mobileLang: state.mobileLang })); }
-    catch (_) { /* Browsers that disable local storage still get the reader. */ }
+    try {
+      localStorage.setItem(STORAGE_KEY, JSON.stringify({
+        fontSize: state.fontSize, notes: state.notes, dividers: state.dividers,
+        navCollapsed: state.navCollapsed, charactersCollapsed: state.charactersCollapsed,
+        bookmark: state.bookmark, bookmarks: state.bookmarks, bookmarkSceneId: state.bookmarkSceneId,
+        mobileLang: state.mobileLang
+      }));
+    } catch (_) { /* Reading works with storage disabled. */ }
   }
 
   function el(tag, className, content) {
@@ -114,27 +124,33 @@
     return button;
   }
 
-  function renderSpeech(block, index) {
+  function renderSpeech(block, index, sourceScene) {
     const row = el('article', 'speech-row');
     row.dataset.index = String(index);
-    row.id = `speech-${index}`;
-    if (state.bookmark === index) row.classList.add('bookmarked');
+    row.dataset.sceneId = sourceScene.id;
+    row.id = `speech-${sourceScene.id}-${index}`;
+    const selected = state.bookmarks[sourceScene.id] === index;
+    if (selected) row.classList.add('bookmarked');
 
     const gutter = el('div', 'line-gutter');
     gutter.appendChild(el('span', '', block.line));
-    const mark = el('button', 'mark-button', state.bookmark === index ? '◆' : '◇');
+    const mark = el('button', 'mark-button', selected ? '◆' : '◇');
     mark.type = 'button';
     mark.title = `Guardar marcador en las líneas ${block.line}`;
     mark.setAttribute('aria-label', `Marcar lectura en las líneas ${block.line}`);
     mark.addEventListener('click', () => {
-      state.bookmark = state.bookmark === index ? null : index;
+      if (state.bookmarks[sourceScene.id] === index) delete state.bookmarks[sourceScene.id];
+      else state.bookmarks[sourceScene.id] = index;
+      state.bookmarkSceneId = sourceScene.id;
+      state.bookmark = Number.isInteger(state.bookmarks[scene.id]) ? state.bookmarks[scene.id] : null;
       persist();
       updateBookmark();
     });
     gutter.appendChild(mark);
     row.appendChild(gutter);
 
-    const character = characters.get(block.speaker);
+    const character = sourceScene.characters.find(item => item.id === block.speaker)
+      || { name: block.speaker, english: block.speaker, color: 'slate', identity: '' };
     const englishCell = el('div', 'speech-cell english');
     englishCell.appendChild(characterButton(character, false));
     const englishParagraph = el('p', 'speech-text');
@@ -149,40 +165,83 @@
     return row;
   }
 
+  function scenesInAct() {
+    return data.scenes.filter(item => item.act === scene.act).sort((a, b) => a.scene - b.scene);
+  }
+
+  function activeCharacters() {
+    const present = state.readAct ? scenesInAct().flatMap(item => item.characters) : scene.characters;
+    const seen = new Set();
+    return present.filter(item => {
+      if (seen.has(item.id)) return false;
+      seen.add(item.id);
+      return true;
+    });
+  }
+
+  function focusedBookmarkScene() {
+    return state.readAct ? scenesInAct().find(item => item.id === state.bookmarkSceneId) || scene : scene;
+  }
+
   function renderSpeeches() {
     closeNote();
     const container = $('dialogue-container');
     container.replaceChildren();
     const needle = state.query.trim().toLocaleLowerCase();
     let count = 0;
-    scene.blocks.forEach((block, index) => {
-      const character = characters.get(block.speaker);
-      const haystack = `${block.en} ${block.es} ${character.name} ${character.english}`.toLocaleLowerCase();
-      if (needle && !haystack.includes(needle)) return;
-      if (block.stageBefore) container.appendChild(el('div', 'inline-stage', block.stageBefore));
-      container.appendChild(renderSpeech(block, index));
-      if (block.stageAfter) container.appendChild(el('div', 'inline-stage', block.stageAfter));
-      count++;
+    const readingScenes = state.readAct ? scenesInAct() : [scene];
+
+    readingScenes.forEach(sourceScene => {
+      const matches = sourceScene.blocks.map((block, index) => ({ block, index })).filter(({ block }) => {
+        const character = sourceScene.characters.find(item => item.id === block.speaker);
+        const haystack = `${block.en} ${block.es} ${character?.name || ''} ${character?.english || ''}`.toLocaleLowerCase();
+        return !needle || haystack.includes(needle);
+      });
+      if (!matches.length) return;
+      const section = state.readAct ? el('section', 'act-scene') : container;
+      if (state.readAct) {
+        section.id = `act-scene-${sourceScene.act}-${sourceScene.scene}`;
+        const heading = el('div', 'act-scene-heading');
+        heading.appendChild(el('span', 'act-scene-number', `ESCENA ${sourceScene.scene}`));
+        heading.appendChild(el('span', 'act-scene-place', sourceScene.place));
+        section.appendChild(heading);
+        if (sourceScene.stage) section.appendChild(el('div', 'stage-direction act-stage', sourceScene.stage));
+      }
+      matches.forEach(({ block, index }) => {
+        if (block.stageBefore) section.appendChild(el('div', 'inline-stage', block.stageBefore));
+        section.appendChild(renderSpeech(block, index, sourceScene));
+        if (block.stageAfter) section.appendChild(el('div', 'inline-stage', block.stageAfter));
+        count++;
+      });
+      if (state.readAct) container.appendChild(section);
     });
     $('empty-state').hidden = count !== 0;
+    $('reader-end').hidden = count === 0 || !!needle;
   }
 
   function updateBookmark() {
-    document.querySelectorAll('.speech-row').forEach((row) => {
-      const selected = Number(row.dataset.index) === state.bookmark;
+    document.querySelectorAll('.speech-row').forEach(row => {
+      const selected = Number(row.dataset.index) === state.bookmarks[row.dataset.sceneId];
       row.classList.toggle('bookmarked', selected);
       row.querySelector('.mark-button').textContent = selected ? '◆' : '◇';
     });
-    const percentage = state.bookmark === null ? 0 : ((state.bookmark + 1) / scene.blocks.length) * 100;
+    const targetScene = focusedBookmarkScene();
+    const index = state.bookmarks[targetScene.id];
+    const valid = Number.isInteger(index) && index >= 0 && index < targetScene.blocks.length;
+    const percentage = valid ? ((index + 1) / targetScene.blocks.length) * 100 : 0;
     $('progress-fill').style.width = `${percentage}%`;
-    $('progress-copy').textContent = state.bookmark === null ? 'Todavía no hay un marcador.' : `Marcador en las líneas ${scene.blocks[state.bookmark].line} · ${Math.round(percentage)} % de la muestra`;
-    $('resume-button').disabled = state.bookmark === null;
+    $('progress-copy').textContent = valid
+      ? `Escena ${targetScene.act}.${targetScene.scene} · líneas ${targetScene.blocks[index].line}`
+      : 'Todavía no hay un marcador.';
+    $('resume-button').disabled = !valid;
   }
 
   function resume() {
-    if (state.bookmark === null) return;
+    const targetScene = focusedBookmarkScene();
+    const index = state.bookmarks[targetScene.id];
+    if (!Number.isInteger(index) || index < 0 || index >= targetScene.blocks.length) return;
     if (state.query) { state.query = ''; $('search-input').value = ''; renderSpeeches(); }
-    const target = $(`speech-${state.bookmark}`);
+    const target = $(`speech-${targetScene.id}-${index}`);
     if (target) {
       target.scrollIntoView({ behavior: 'smooth', block: 'center' });
       target.classList.remove('highlighted');
@@ -196,7 +255,7 @@
   function renderCharacters() {
     const container = $('character-list');
     container.replaceChildren();
-    scene.characters.forEach((character) => {
+    activeCharacters().forEach(character => {
       const button = el('button', 'character-card');
       button.type = 'button';
       const initial = el('span', `character-initial color-${character.color}`, character.name.charAt(0));
@@ -246,8 +305,8 @@
       renderCharacterDetail(target, content);
     } else if (mode === 'characters') {
       $('modal-kicker').textContent = 'SIN ADELANTOS DE LA TRAMA';
-      $('modal-title').textContent = 'Personajes de la escena';
-      scene.characters.forEach((character) => renderCharacterDetail(character, content));
+      $('modal-title').textContent = state.readAct ? 'Personajes del acto' : 'Personajes de la escena';
+      activeCharacters().forEach((character) => renderCharacterDetail(character, content));
     } else if (mode === 'sources') {
       $('modal-kicker').textContent = 'FUENTES Y LICENCIAS';
       $('modal-title').textContent = 'Sobre esta edición';
@@ -298,28 +357,73 @@
     if (!state.notes) closeNote();
   }
 
-  function selectScene(target) {
+  function selectScene(target, readAct = false) {
     scene = target;
+    state.readAct = readAct;
     characters = new Map(scene.characters.map(character => [character.id, character]));
     try { localStorage.setItem('shakespeare-scene', scene.id); } catch (_) {}
-    state.bookmark = Number.isInteger(stored.bookmarks?.[scene.id]) && stored.bookmarks[scene.id] < scene.blocks.length ? stored.bookmarks[scene.id] : null;
-    state.query = ''; $('search-input').value = '';
+    if (!readAct) state.bookmarkSceneId = scene.id;
+    state.bookmark = Number.isInteger(state.bookmarks[scene.id]) && state.bookmarks[scene.id] >= 0
+      && state.bookmarks[scene.id] < scene.blocks.length ? state.bookmarks[scene.id] : null;
+    state.query = '';
+    $('search-input').value = '';
+
     $('scene-introduction').textContent = scene.introduction;
+    $('scene-introduction').hidden = readAct;
     $('stage-direction').textContent = scene.stage;
-    document.querySelector('.act-ornament').textContent = `${scene.act}.${scene.scene}`;
-    document.querySelector('.chapter-title').textContent = `ACTO ${scene.act} / ESCENA ${scene.scene}`;
-    document.querySelector('.heading-place').textContent = scene.place.toUpperCase();
-    document.querySelector('.sample-notice').textContent = `Edición en curso: ${scene.sectionLabel}.`;
-    document.querySelector('.popover-foot').textContent = `CORIOLANUS · ${scene.act}.${scene.scene}`;
-    document.querySelectorAll('[data-scene-id]').forEach(button => { const active = button.dataset.sceneId === scene.id; button.classList.toggle('active', active); if (active) button.setAttribute('aria-current','page'); else button.removeAttribute('aria-current'); });
-    renderCharacters(); renderSpeeches(); updateBookmark(); persist();
-    $('sidebar').classList.remove('open'); $('mobile-contents-button').setAttribute('aria-expanded','false');
+    $('stage-direction').hidden = readAct;
+    document.querySelector('.act-ornament').textContent = readAct ? String(scene.act) : `${scene.act}.${scene.scene}`;
+    document.querySelector('.chapter-title').textContent = readAct
+      ? `ACTO ${scene.act} / LECTURA CONTINUA`
+      : `ACTO ${scene.act} / ESCENA ${scene.scene}`;
+    document.querySelector('.heading-place').textContent = readAct
+      ? `${scenesInAct().length} ESCENAS` : scene.place.toUpperCase();
+    document.querySelector('.popover-foot').textContent = `CORIOLANUS · ${scene.act}`;
+    const railTitle = document.querySelector('.rail-content .side-overline');
+    if (railTitle) railTitle.textContent = readAct ? 'EN ESTE ACTO' : 'EN ESTA ESCENA';
+    $('character-rail').setAttribute('aria-label', readAct ? 'Personajes del acto' : 'Personajes de esta escena');
+    $('search-input').placeholder = readAct ? 'Buscar en el acto...' : 'Buscar en esta escena...';
+
+    const modeLabel = readAct ? 'Leer por escenas' : `Leer acto ${scene.act} completo`;
+    $('read-act-toggle').textContent = modeLabel;
+    $('read-act-toggle').setAttribute('aria-pressed', String(readAct));
+    $('read-mode-footer').textContent = modeLabel;
+    $('reader-end-label').textContent = readAct ? `Fin del acto ${scene.act}` : `Fin de la escena ${scene.act}.${scene.scene}`;
+    const index = data.scenes.findIndex(item => item.id === scene.id);
+    const next = data.scenes[index + 1];
+    $('next-scene').hidden = readAct || !next;
+    $('next-scene').textContent = next ? `Escena ${next.act}.${next.scene} →` : '';
+
+    document.querySelectorAll('[data-scene-id]').forEach(button => {
+      const active = !readAct && button.dataset.sceneId === scene.id;
+      button.classList.toggle('active', active);
+      if (active) button.setAttribute('aria-current', 'page'); else button.removeAttribute('aria-current');
+    });
+    renderCharacters();
+    renderSpeeches();
+    updateBookmark();
+    persist();
+    $('sidebar').classList.remove('open');
+    $('mobile-contents-button').setAttribute('aria-expanded', 'false');
   }
 
   function showView() {
-    const reading = window.location.hash.toLowerCase().startsWith('#coriolanus');
-    const requested = window.location.hash.toLowerCase().match(/^#coriolanus-(\d+)-(\d+)$/);
-    if (requested) { const target = data.scenes.find(s => s.act === Number(requested[1]) && s.scene === Number(requested[2])); if (target && target !== scene) selectScene(target); }
+    const hash = window.location.hash.toLowerCase();
+    const reading = hash.startsWith('#coriolanus');
+    const requestedAct = hash.match(/^#coriolanus-act-(\d+)$/);
+    const requestedScene = hash.match(/^#coriolanus-(\d+)-(\d+)$/);
+    if (reading) {
+      if (requestedAct) {
+        const actNumber = Number(requestedAct[1]);
+        const target = scene.act === actNumber ? scene : data.scenes.find(item => item.act === actNumber);
+        if (target) selectScene(target, true);
+      } else if (requestedScene) {
+        const target = data.scenes.find(item => item.act === Number(requestedScene[1]) && item.scene === Number(requestedScene[2]));
+        if (target) selectScene(target, false);
+      } else {
+        selectScene(scene, false);
+      }
+    }
     $('home-screen').hidden = reading;
     $('app-shell').hidden = !reading;
     if (!reading) {
@@ -356,7 +460,23 @@
     $('source-button').addEventListener('click', () => openModal('sources'));
     $('help-button').addEventListener('click', () => openModal('help'));
     window.addEventListener('hashchange', showView);
-    document.querySelectorAll('[data-scene-id]').forEach(button => button.addEventListener('click', () => { const target = data.scenes.find(s => s.id === button.dataset.sceneId); if (target) { selectScene(target); window.location.hash = `coriolanus-${target.act}-${target.scene}`; window.scrollTo({top:0,behavior:'smooth'}); } }));
+    document.querySelectorAll('[data-scene-id]').forEach(button => button.addEventListener('click', () => {
+      const target = data.scenes.find(item => item.id === button.dataset.sceneId);
+      if (!target) return;
+      const destination = `#coriolanus-${target.act}-${target.scene}`;
+      if (window.location.hash === destination) { selectScene(target, false); window.scrollTo({ top: 0, behavior: 'smooth' }); }
+      else window.location.hash = destination;
+    }));
+    const toggleMode = () => {
+      window.location.hash = state.readAct ? `coriolanus-${scene.act}-${scene.scene}` : `coriolanus-act-${scene.act}`;
+    };
+    $('read-act-toggle').addEventListener('click', toggleMode);
+    $('read-mode-footer').addEventListener('click', toggleMode);
+    $('next-scene').addEventListener('click', () => {
+      const index = data.scenes.findIndex(item => item.id === scene.id);
+      const next = data.scenes[index + 1];
+      if (next) window.location.hash = `coriolanus-${next.act}-${next.scene}`;
+    });
     $('mobile-contents-button').addEventListener('click', () => {
       const open = $('sidebar').classList.toggle('open');
       $('mobile-contents-button').setAttribute('aria-expanded', String(open));
@@ -384,11 +504,8 @@
     });
   }
 
-  $('scene-introduction').textContent = scene.introduction;
-  $('stage-direction').textContent = scene.stage;
-  selectScene(scene);
+  selectScene(scene, false);
   applyPreferences();
-  updateBookmark();
   addListeners();
   showView();
 })();
