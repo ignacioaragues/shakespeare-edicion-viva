@@ -5813,7 +5813,7 @@ window.SHAKESPEARE_READER_DATA = {
       "scene": 1,
       "place": "Roma · Un espacio público",
       "sourceRef": "Folger Shakespeare Library · Acto II, escena 1",
-      "sectionLabel": "Edición en curso · líneas 880–996",
+      "sectionLabel": "Edición en curso · líneas 880–1034",
       "introduction": "Menenio se encuentra con los tribunos Sicinio y Bruto. Antes de que lleguen noticias del ejército, discuten con ironía la relación entre Marcio y el pueblo.",
       "stage": "Entra Menenio con los dos tribunos del pueblo, Sicinio y Bruto.",
       "characters": [
@@ -6788,6 +6788,153 @@ window.SHAKESPEARE_READER_DATA = {
               "type": "Léxico",
               "title": "Estar al corriente",
               "body": "«Possessed of» significa aquí «estar informado de», no «poseer» materialmente."
+            }
+          ]
+        },
+        {
+          "line": "1017–1020",
+          "speaker": "volumnia",
+          "en": "Good ladies, let’s go.—Yes, yes, yes. The Senate has letters from the General, wherein he gives my son the whole name of the war. He hath in this action outdone his former deeds doubly.",
+          "es": "Señoras, vamos.—Sí, sí, sí. El Senado ha recibido cartas del general, en las que atribuye a mi hijo toda la gloria de esta guerra. En esta campaña ha superado con creces sus hazañas anteriores.",
+          "notes": [
+            {
+              "term": "whole name of the war",
+              "type": "Retórica",
+              "title": "El nombre de la guerra",
+              "body": "La hipérbole presenta a Marcio como quien concentra en sí toda la fama de la campaña; «name» se relaciona aquí con renombre y crédito."
+            },
+            {
+              "term": "hath",
+              "type": "Gramática histórica",
+              "title": "Tercera persona singular",
+              "body": "Forma de «have» usada con sujeto singular en el inglés moderno temprano."
+            },
+            {
+              "term": "outdone his former deeds doubly",
+              "type": "Intensificación",
+              "title": "Superar las propias hazañas",
+              "body": "«Doubly» intensifica la comparación con sus victorias anteriores; no exige entender un cálculo literal de méritos."
+            }
+          ]
+        },
+        {
+          "line": "1021–1022",
+          "speaker": "valeria",
+          "en": "In troth, there’s wondrous things spoke of him.",
+          "es": "En verdad, se cuentan cosas extraordinarias de él.",
+          "notes": [
+            {
+              "term": "In troth",
+              "type": "Léxico",
+              "title": "En verdad",
+              "body": "Fórmula de aseveración equivalente a «truly»."
+            },
+            {
+              "term": "there’s wondrous things spoke",
+              "type": "Sintaxis",
+              "title": "Concordancia y participio",
+              "body": "«There’s» aparece ante un plural y «spoke» funciona como participio pasivo: «se dicen cosas extraordinarias»."
+            }
+          ]
+        },
+        {
+          "line": "1023–1024",
+          "speaker": "menenius",
+          "en": "Wondrous? Ay, I warrant you, and not without his true purchasing.",
+          "es": "¿Extraordinarias? Sí, se lo aseguro, y bien ganadas por sus propios méritos.",
+          "notes": [
+            {
+              "term": "true purchasing",
+              "type": "Léxico",
+              "title": "Mérito adquirido",
+              "body": "«Purchasing» remite a lo conseguido o ganado, no necesariamente a una compra monetaria: las alabanzas tienen fundamento en sus actos."
+            }
+          ]
+        },
+        {
+          "line": "1025",
+          "speaker": "virgilia",
+          "en": "The gods grant them true.",
+          "es": "Que los dioses hagan que sean ciertas.",
+          "notes": [
+            {
+              "term": "grant them true",
+              "type": "Sintaxis",
+              "title": "Deseo con «grant»",
+              "body": "«Grant» introduce una fórmula optativa: Virgilia desea que los informes resulten verdaderos, sin expresar certeza."
+            }
+          ]
+        },
+        {
+          "line": "1026",
+          "speaker": "volumnia",
+          "en": "True? Pow waw!",
+          "es": "¿Ciertas? ¡Bah, qué tontería!",
+          "notes": [
+            {
+              "term": "Pow waw",
+              "type": "Interjección",
+              "title": "Desdén de Volumnia",
+              "body": "Exclamación despectiva ante las dudas de Virgilia; su grafía y valor expresivo no deben confundirse con un argumento."
+            }
+          ]
+        },
+        {
+          "line": "1027–1030",
+          "speaker": "menenius",
+          "en": "True? I’ll be sworn they are true. Where is he wounded? God save your good Worships! Martius is coming home; he has more cause to be proud.—Where is he wounded?",
+          "es": "¿Ciertas? Juro que lo son. ¿Dónde está herido? ¡Dios guarde a sus señorías! Marcio regresa a casa y tiene todavía más motivos para sentirse orgulloso.—¿Dónde está herido?",
+          "notes": [
+            {
+              "term": "I’ll be sworn",
+              "type": "Fórmula",
+              "title": "Afirmación jurada",
+              "body": "Equivale a asegurar enfáticamente la veracidad de una noticia."
+            },
+            {
+              "term": "your good Worships",
+              "type": "Tratamiento e ironía",
+              "title": "Sus señorías",
+              "body": "Menenio se dirige a los tribunos con una fórmula respetuosa cuyo efecto, después de la disputa, puede entenderse como irónico."
+            },
+            {
+              "term": "more cause to be proud",
+              "type": "Dramaturgia",
+              "title": "El orgullo discutido",
+              "body": "Menenio retoma la acusación de soberbia de los tribunos y la convierte en reconocimiento de los méritos militares de Marcio."
+            }
+          ],
+          "stageBefore": "Menenio se vuelve hacia los tribunos al saludarlos."
+        },
+        {
+          "line": "1031–1034",
+          "speaker": "volumnia",
+          "en": "I’ th’ shoulder and i’ th’ left arm. There will be large cicatrices to show the people when he shall stand for his place. He received in the repulse of Tarquin seven hurts i’ th’ body.",
+          "es": "En el hombro y en el brazo izquierdo. Tendrá grandes cicatrices que mostrar al pueblo cuando se presente al cargo. Durante la expulsión de Tarquinio recibió siete heridas en el cuerpo.",
+          "notes": [
+            {
+              "term": "cicatrices",
+              "type": "Léxico",
+              "title": "Cicatrices",
+              "body": "Latinismo usado para las marcas dejadas por heridas ya cerradas; anticipa su exhibición pública."
+            },
+            {
+              "term": "stand for his place",
+              "type": "Contexto político",
+              "title": "Presentarse al cargo",
+              "body": "Alude a la candidatura de Marcio a una magistratura, que exigirá presentarse ante el pueblo."
+            },
+            {
+              "term": "repulse of Tarquin",
+              "type": "Referencia histórica",
+              "title": "Tarquinio",
+              "body": "Evoca la expulsión de la monarquía romana; la obra integra esta referencia en el historial heroico de Marcio, sin precisar aquí su cronología."
+            },
+            {
+              "term": "hurts",
+              "type": "Léxico",
+              "title": "Heridas",
+              "body": "Sustantivo que designa lesiones físicas, no agravios emocionales."
             }
           ]
         }
