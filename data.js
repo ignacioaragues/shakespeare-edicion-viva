@@ -5813,7 +5813,7 @@ window.SHAKESPEARE_READER_DATA = {
       "scene": 1,
       "place": "Roma · Un espacio público",
       "sourceRef": "Folger Shakespeare Library · Acto II, escena 1",
-      "sectionLabel": "Edición en curso · líneas 880–924",
+      "sectionLabel": "Edición en curso · líneas 880–946",
       "introduction": "Menenio se encuentra con los tribunos Sicinio y Bruto. Antes de que lleguen noticias del ejército, discuten con ironía la relación entre Marcio y el pueblo.",
       "stage": "Entra Menenio con los dos tribunos del pueblo, Sicinio y Bruto.",
       "characters": [
@@ -6190,6 +6190,100 @@ window.SHAKESPEARE_READER_DATA = {
               "type": "Retórica",
               "title": "O, dicho de otro modo, necios",
               "body": "«Alias» introduce una denominación alternativa y remata el inventario de defectos con un insulto directo."
+            }
+          ]
+        },
+        {
+          "line": "925",
+          "speaker": "sicinius",
+          "en": "Menenius, you are known well enough, too.",
+          "es": "Menenio, a ti también te conocemos de sobra.",
+          "notes": [
+            {
+              "term": "known well enough",
+              "type": "Pragmática",
+              "title": "Una réplica ambigua",
+              "body": "Sicinio devuelve a Menenio el juicio sobre la reputación: «bien conocido» puede insinuar que sus defectos son públicos. La amenaza queda implícita."
+            }
+          ]
+        },
+        {
+          "line": "926–946",
+          "speaker": "menenius",
+          "en": "I am known to be a humorous patrician and one that loves a cup of hot wine with not a drop of allaying Tiber in ’t; said to be something imperfect in favoring the first complaint, hasty and tinder-like upon too trivial motion; one that converses more with the buttock of the night than with the forehead of the morning. What I think I utter, and spend my malice in my breath. Meeting two such wealsmen as you are—I cannot call you Lycurguses—if the drink you give me touch my palate adversely, I make a crooked face at it. I cannot say your Worships have delivered the matter well when I find the ass in compound with the major part of your syllables. And though I must be content to bear with those that say you are reverend grave men, yet they lie deadly that tell you have good faces. If you see this in the map of my microcosm, follows it that I am known well enough too? What harm can your bisson conspectuities glean out of this character, if I be known well enough too?",
+          "es": "Se me conoce como un patricio de humor cambiante, aficionado a una copa de vino caliente sin una sola gota de agua del Tíber que lo rebaje. Dicen que tengo el defecto de atender a la primera queja, que soy impaciente y que me enciendo como yesca ante la menor provocación; que trato más con las posaderas de la noche que con la frente de la mañana. Digo lo que pienso y descargo toda mi malicia hablando. Cuando me encuentro con dos hombres de Estado como ustedes —no puedo llamarlos Licurgos—, si la bebida que me ofrecen me sabe mal, hago una mueca. No puedo decir que sus señorías hayan expuesto bien un asunto cuando descubro que la necedad se mezcla con la mayor parte de sus palabras. Y aunque debo soportar que algunos los llamen hombres venerables y graves, mienten descaradamente quienes afirman que tienen buen rostro. Si todo esto aparece en el mapa de mi pequeño universo, ¿se sigue de ahí que también a mí me conocen de sobra? ¿Qué mal pueden sacar de este retrato sus miradas casi ciegas, por mucho que crean conocerme?",
+          "notes": [
+            {
+              "term": "humorous patrician",
+              "type": "Léxico histórico",
+              "title": "Humorous",
+              "body": "No significa simplemente «gracioso»: remite al temperamento variable, según la antigua noción de los humores corporales. Menenio se presenta como alguien de carácter peculiar."
+            },
+            {
+              "term": "allaying Tiber",
+              "type": "Léxico e imagen",
+              "title": "Agua que rebaja el vino",
+              "body": "Allay es «diluir, atemperar»; Tiber designa metonímicamente el agua del río romano. La copa de vino sin agua subraya su gusto por beber fuerte."
+            },
+            {
+              "term": "favoring the first complaint",
+              "type": "Sintaxis e interpretación",
+              "title": "La primera queja",
+              "body": "La construcción puede referirse a dar crédito demasiado pronto a quien se queja primero. «Something imperfect» atenúa irónicamente un defecto que Menenio reconoce."
+            },
+            {
+              "term": "tinder-like",
+              "type": "Imagen",
+              "title": "Como yesca",
+              "body": "La yesca prende con facilidad: el símil describe una irritabilidad que se inflama por estímulos insignificantes."
+            },
+            {
+              "term": "buttock of the night",
+              "type": "Metáfora",
+              "title": "Las posaderas de la noche",
+              "body": "Contrasta burlescamente el final de la noche con la «frente» de la mañana: Menenio admite sus hábitos nocturnos y su inclinación a trasnochar."
+            },
+            {
+              "term": "spend my malice in my breath",
+              "type": "Retórica",
+              "title": "Malicia verbal",
+              "body": "La expresión presenta la agresividad de Menenio como algo que se consume en palabras, no necesariamente en actos."
+            },
+            {
+              "term": "wealsmen",
+              "type": "Léxico político",
+              "title": "Hombres de Estado",
+              "body": "Weal significa «bienestar público» o «comunidad política»; wealsmen designa a quienes intervienen en sus asuntos. Aquí hay ironía dirigida a los tribunos."
+            },
+            {
+              "term": "Lycurguses",
+              "type": "Alusión clásica",
+              "title": "Licurgo",
+              "body": "Licurgo es el legislador tradicional de Esparta, paradigma antiguo de autoridad normativa. El plural irónico niega a los tribunos semejante talla."
+            },
+            {
+              "term": "the ass in compound",
+              "type": "Juego verbal",
+              "title": "El asno en la mezcla",
+              "body": "Ass («asno», «necio») figura como ingrediente de la mayoría de las sílabas de los tribunos: Menenio ridiculiza su discurso como una mezcla de necedades."
+            },
+            {
+              "term": "reverend grave men",
+              "type": "Léxico y tono",
+              "title": "Venerables y graves",
+              "body": "Reverend y grave son fórmulas de respeto y seriedad; Menenio finge concederles dignidad mientras la deshace con el ataque a sus rostros."
+            },
+            {
+              "term": "map of my microcosm",
+              "type": "Imagen filosófica",
+              "title": "El mapa del microcosmos",
+              "body": "Microcosm llama al individuo un «pequeño mundo». El mapa es aquí un autorretrato de hábitos y defectos, no una descripción literal."
+            },
+            {
+              "term": "bisson conspectuities",
+              "type": "Léxico infrecuente",
+              "title": "Miradas casi ciegas",
+              "body": "Bisson significa «ciego» o «de vista defectuosa»; conspectuities es una formación llamativa para la capacidad de ver. El efecto es un insulto deliberadamente ampuloso."
             }
           ]
         }

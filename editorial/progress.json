@@ -427,15 +427,24 @@
       "last_line": 924,
       "editorial_state": "translated_source_checked",
       "note": "Nine complete speeches: Menenius challenges the tribunes' reputation, mocks their anger and dependence on allies, and ends by calling them fools. Folger online II.1 verified."
+    },
+    {
+      "id": "coriolanus-2-1-925-946",
+      "act": 2,
+      "scene": 1,
+      "first_line": 925,
+      "last_line": 946,
+      "editorial_state": "translated_source_checked",
+      "note": "Sicinius' retort and Menenius' full extended self-portrait; two complete speeches, checked against Folger online II.1. Source marks 'cannot' as editorially supplied; translation follows the reading text."
     }
   ],
   "next_fragment": {
     "act": 2,
     "scene": 1,
-    "first_line": 925,
-    "note": "Continue with Sicinius' 'Menenius, you are known well enough, too' and Menenius' long self-portrait; avoid breaking his extended speech."
+    "first_line": 947,
+    "note": "Brutus replies 'Come, sir, come; we know you well enough' and Menenius launches another long attack (948–961). Prefer complete speeches."
   },
   "completed_acts": [],
-  "last_update_commit": "checkpoint updated alongside Folger 900–924 publication",
+  "last_update_commit": "checkpoint updated alongside Folger 925–946 publication",
   "notes": "Folger online line 66 is 'We cannot, sir; we are undone already.' The original prototype had an off-by-one numbering error, corrected in this release. Text is still under editorial review."
 }
