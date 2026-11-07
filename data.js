@@ -5813,7 +5813,7 @@ window.SHAKESPEARE_READER_DATA = {
       "scene": 1,
       "place": "Roma · Un espacio público",
       "sourceRef": "Folger Shakespeare Library · Acto II, escena 1",
-      "sectionLabel": "Edición en curso · líneas 880–978",
+      "sectionLabel": "Edición en curso · líneas 880–996",
       "introduction": "Menenio se encuentra con los tribunos Sicinio y Bruto. Antes de que lleguen noticias del ejército, discuten con ironía la relación entre Marcio y el pueblo.",
       "stage": "Entra Menenio con los dos tribunos del pueblo, Sicinio y Bruto.",
       "characters": [
@@ -5844,6 +5844,34 @@ window.SHAKESPEARE_READER_DATA = {
           "english": "Both Tribunes",
           "identity": "Sicinio y Bruto responden juntos.",
           "color": "ink"
+        },
+        {
+          "id": "volumnia",
+          "name": "Volumnia",
+          "english": "Volumnia",
+          "identity": "Madre de Cayo Marcio; considera el honor militar el mayor bien de su hijo.",
+          "color": "copper"
+        },
+        {
+          "id": "virgilia",
+          "name": "Virgilia",
+          "english": "Virgilia",
+          "identity": "Esposa de Cayo Marcio; teme por su vida mientras combate.",
+          "color": "olive"
+        },
+        {
+          "id": "valeria",
+          "name": "Valeria",
+          "english": "Valeria",
+          "identity": "Dama romana, amiga de Volumnia y Virgilia.",
+          "color": "slate"
+        },
+        {
+          "id": "valeria-virgilia",
+          "name": "Valeria y Virgilia",
+          "english": "Valeria and Virgilia",
+          "identity": "Intervención conjunta de las dos damas.",
+          "color": "olive"
         }
       ],
       "blocks": [
@@ -6461,6 +6489,152 @@ window.SHAKESPEARE_READER_DATA = {
               "type": "Metáfora política",
               "title": "Los tribunos como pastores",
               "body": "Herdsmen equipara a los tribunos con pastores y a los plebeyos con ganado; beastly refuerza el desprecio de clase expresado por Menenio, no una caracterización neutral del pueblo."
+            }
+          ]
+        },
+        {
+          "line": "979–981",
+          "speaker": "menenius",
+          "stageBefore": "Entran Volumnia, Virgilia y Valeria.",
+          "en": "How now, my as fair as noble ladies—and the moon, were she earthly, no nobler—whither do you follow your eyes so fast?",
+          "es": "¿Qué sucede, señoras tan hermosas como nobles —y ni la luna, si fuera de este mundo, sería más noble—? ¿Adónde van tan deprisa, siguiendo sus miradas?",
+          "notes": [
+            {
+              "term": "were she earthly",
+              "type": "Sintaxis",
+              "title": "Condicional sin «if»",
+              "body": "Inversión de «if she were earthly», construcción condicional propia del inglés literario."
+            },
+            {
+              "term": "follow your eyes",
+              "type": "Imagen",
+              "title": "Seguir los ojos",
+              "body": "La mirada precede al movimiento del cuerpo: Menenio percibe la urgencia de las mujeres."
+            }
+          ]
+        },
+        {
+          "line": "982–983",
+          "speaker": "volumnia",
+          "en": "Honorable Menenius, my boy Martius approaches. For the love of Juno, let’s go!",
+          "es": "Honorable Menenio, mi hijo Marcio está por llegar. ¡Por amor de Juno, vamos!",
+          "notes": [
+            {
+              "term": "my boy Martius",
+              "type": "Caracterización",
+              "title": "El hijo adulto",
+              "body": "«Boy» marca la relación materna, no la edad de Marcio."
+            },
+            {
+              "term": "Juno",
+              "type": "Mitología",
+              "title": "Juno",
+              "body": "Diosa romana invocada aquí en una exclamación de urgencia."
+            }
+          ]
+        },
+        {
+          "line": "984",
+          "speaker": "menenius",
+          "en": "Ha? Martius coming home?",
+          "es": "¿Cómo? ¿Marcio vuelve a casa?",
+          "notes": []
+        },
+        {
+          "line": "985–986",
+          "speaker": "volumnia",
+          "en": "Ay, worthy Menenius, and with most prosperous approbation.",
+          "es": "Sí, digno Menenio, y con el reconocimiento más favorable.",
+          "notes": [
+            {
+              "term": "prosperous approbation",
+              "type": "Léxico",
+              "title": "Reconocimiento del éxito",
+              "body": "«Approbation» designa aprobación o reconocimiento; el regreso es también un triunfo público."
+            }
+          ]
+        },
+        {
+          "line": "987–989",
+          "speaker": "menenius",
+          "en": "Take my cap, Jupiter, and I thank thee! Hoo! Martius coming home?",
+          "es": "¡Júpiter, recibe mi sombrero, y gracias te doy! ¡Hurra! ¿Marcio vuelve a casa?",
+          "stageBefore": "Menenio lanza su sombrero al aire.",
+          "notes": [
+            {
+              "term": "Take my cap, Jupiter",
+              "type": "Gesto teatral",
+              "title": "El sombrero al aire",
+              "body": "La acotación Folger indica que Menenio arroja su sombrero: el gesto expresa júbilo."
+            },
+            {
+              "term": "thee",
+              "type": "Gramática",
+              "title": "Segunda persona singular",
+              "body": "Forma de objeto del pronombre singular; Menenio se dirige a Júpiter."
+            }
+          ]
+        },
+        {
+          "line": "990",
+          "speaker": "valeria-virgilia",
+          "en": "Nay, ’tis true.",
+          "es": "¡Sí, es verdad!",
+          "notes": [
+            {
+              "term": "Nay",
+              "type": "Pragmática",
+              "title": "Respuesta a la incredulidad",
+              "body": "La negación rechaza la duda de Menenio, no la noticia del regreso."
+            }
+          ]
+        },
+        {
+          "line": "991–993",
+          "speaker": "volumnia",
+          "en": "Look, here’s a letter from him. The state hath another, his wife another, and I think there’s one at home for you.",
+          "es": "Mira, aquí tengo una carta suya. El Estado ha recibido otra, su esposa otra, y creo que en casa hay una para ti.",
+          "stageBefore": "Volumnia muestra una carta.",
+          "notes": [
+            {
+              "term": "hath",
+              "type": "Gramática histórica",
+              "title": "Forma de «have»",
+              "body": "Tercera persona singular en inglés moderno temprano."
+            },
+            {
+              "term": "his wife another",
+              "type": "Elipsis",
+              "title": "Otra para su esposa",
+              "body": "Se sobreentiende el verbo de la proposición anterior: «hath»."
+            }
+          ]
+        },
+        {
+          "line": "994–995",
+          "speaker": "menenius",
+          "en": "I will make my very house reel tonight. A letter for me?",
+          "es": "Esta noche haré que hasta mi propia casa se tambalee. ¿Una carta para mí?",
+          "notes": [
+            {
+              "term": "house reel",
+              "type": "Hipérbole",
+              "title": "Casa tambaleante",
+              "body": "«Reel» significa tambalearse; imagen de una celebración exuberante."
+            }
+          ]
+        },
+        {
+          "line": "996",
+          "speaker": "virgilia",
+          "en": "Yes, certain, there’s a letter for you; I saw ’t.",
+          "es": "Sí, por supuesto, hay una carta para ti; yo la vi.",
+          "notes": [
+            {
+              "term": "certain",
+              "type": "Uso adverbial",
+              "title": "Por supuesto",
+              "body": "Afirmación enfática, equivalente aquí a «certainly»."
             }
           ]
         }
