@@ -16,7 +16,8 @@ window.SHAKESPEARE_READER_DATA = {
         "coriolanus-1-6",
         "coriolanus-1-7",
         "coriolanus-1-8",
-        "coriolanus-1-9"
+        "coriolanus-1-9",
+        "coriolanus-1-10"
       ]
     }
   ],
@@ -5519,6 +5520,131 @@ window.SHAKESPEARE_READER_DATA = {
               "type": "Léxico",
               "title": "El rostro",
               "body": "Visage es un sustantivo de registro elevado para «cara» o «rostro»."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "coriolanus-1-10",
+      "workId": "coriolanus",
+      "act": 1,
+      "scene": 10,
+      "place": "Campamento volsco · Después de la derrota",
+      "sourceRef": "Folger Shakespeare Library · Acto I, escena 10",
+      "sectionLabel": "Edición en curso · líneas 844–859",
+      "introduction": "Derrotado, Aufidio contempla la pérdida de Corioles. La humillación transforma su rivalidad con Marcio en un propósito de venganza que ya no respetará las reglas del duelo.",
+      "stage": "Entra Tulo Aufidio, ensangrentado, acompañado por dos o tres soldados.",
+      "characters": [
+        {
+          "id": "aufidius",
+          "name": "Tulo Aufidio",
+          "english": "Tullus Aufidius",
+          "identity": "General volsco derrotado por Marcio; su rivalidad militar se convierte aquí en un deseo de venganza sin límites.",
+          "color": "violet"
+        },
+        {
+          "id": "soldier",
+          "name": "Soldado volsco",
+          "english": "Volscian Soldier",
+          "identity": "Soldado que informa a Aufidio de las posibles condiciones de rendición.",
+          "color": "slate"
+        }
+      ],
+      "blocks": [
+        {
+          "line": "844",
+          "speaker": "aufidius",
+          "en": "The town is ta’en.",
+          "es": "Han tomado la ciudad.",
+          "notes": [
+            {
+              "term": "ta’en",
+              "type": "Gramática histórica",
+              "title": "Participio contraído",
+              "body": "Ta’en es la forma contraída de taken; la oración pasiva comunica que Corioles ha caído en manos romanas."
+            }
+          ]
+        },
+        {
+          "line": "845",
+          "speaker": "soldier",
+          "en": "’Twill be delivered back on good condition.",
+          "es": "Nos la devolverán si se acuerdan condiciones favorables.",
+          "notes": [
+            {
+              "term": "delivered back",
+              "type": "Léxico",
+              "title": "Devolución de la ciudad",
+              "body": "Delivered back significa restituir o devolver; el soldado confía en una devolución negociada, no en una nueva victoria militar."
+            },
+            {
+              "term": "on good condition",
+              "type": "Interpretación",
+              "title": "Condiciones de rendición",
+              "body": "Condition alude a los términos de un acuerdo; el singular puede tener valor colectivo. No sabemos todavía cuáles serán esos términos."
+            }
+          ]
+        },
+        {
+          "line": "846–859",
+          "speaker": "aufidius",
+          "en": "Condition? I would I were a Roman, for I cannot, Being a Volsce, be that I am. Condition? What good condition can a treaty find I’ th’ part that is at mercy? Five times, Martius, I have fought with thee; so often hast thou beat me And wouldst do so, I think, should we encounter As often as we eat. By th’ elements, If e’er again I meet him beard to beard, He’s mine, or I am his. Mine emulation Hath not that honor in ’t it had; for where I thought to crush him in an equal force, True sword to sword, I’ll potch at him some way Or wrath or craft may get him.",
+          "es": "¿Condiciones? ¡Ojalá fuera romano! Porque, siendo volsco, no puedo ser quien realmente soy. ¿Condiciones? ¿Qué condiciones favorables puede obtener en un tratado la parte que está a merced del vencedor? Cinco veces he luchado contigo, Marcio, y las cinco me has vencido. Y creo que volverías a hacerlo aunque nos enfrentáramos con tanta frecuencia como comemos. ¡Por los elementos! Si vuelvo a encontrarlo cara a cara, uno de los dos acabará en manos del otro. Mi rivalidad ya no conserva el honor que antes tenía: antes pensaba derrotarlo en igualdad de fuerzas, espada contra espada; ahora buscaré cómo atacarlo por cualquier medio que me ofrezcan la ira o la astucia.",
+          "notes": [
+            {
+              "term": "I would I were",
+              "type": "Sintaxis histórica",
+              "title": "Deseo irreal",
+              "body": "Would introduce aquí un deseo contrario a la realidad, equivalente a «ojalá fuera»; no es un condicional ordinario."
+            },
+            {
+              "term": "Being a Volsce, be that I am",
+              "type": "Interpretación",
+              "title": "Identidad y derrota",
+              "body": "Aufidio siente que su condición de volsco derrotado le impide realizar su identidad o valía. La frase admite matices: la traducción hace explícita esa frustración."
+            },
+            {
+              "term": "at mercy",
+              "type": "Léxico político",
+              "title": "A merced del vencedor",
+              "body": "La parte vencida depende de la clemencia de quien domina; Aufidio cuestiona que pueda negociar en pie de igualdad."
+            },
+            {
+              "term": "should we encounter",
+              "type": "Sintaxis histórica",
+              "title": "Condicional invertida",
+              "body": "Should we encounter equivale a «si nos encontráramos»; el auxiliar antecede al sujeto sin necesidad de if."
+            },
+            {
+              "term": "beard to beard",
+              "type": "Imagen retórica",
+              "title": "Cara a cara",
+              "body": "La imagen de las barbas enfrentadas intensifica la proximidad física de un combate personal."
+            },
+            {
+              "term": "Mine emulation",
+              "type": "Léxico histórico",
+              "title": "Rivalidad competitiva",
+              "body": "Emulation designa aquí rivalidad o afán de superar al adversario, no simplemente imitación admirativa."
+            },
+            {
+              "term": "equal force",
+              "type": "Ética guerrera",
+              "title": "Combate en igualdad",
+              "body": "Aufidio contrapone la antigua aspiración a un duelo equilibrado con la disposición a recurrir a cualquier procedimiento."
+            },
+            {
+              "term": "potch",
+              "type": "Léxico histórico",
+              "title": "Atacar de modo irregular",
+              "body": "Potch es un verbo raro asociado a golpear o pinchar; en este contexto señala una agresión oportunista, en contraste con el duelo limpio."
+            },
+            {
+              "term": "wrath or craft",
+              "type": "Antítesis",
+              "title": "Ira o astucia",
+              "body": "La pareja contrapone impulso violento y cálculo estratégico; ambos quedan subordinados al objetivo de vencer a Marcio."
             }
           ]
         }

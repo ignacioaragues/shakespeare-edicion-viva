@@ -382,13 +382,22 @@
       "last_line": 843,
       "editorial_state": "translated_source_checked",
       "note": "Four complete speeches and final exit close I.9; Folger online checked. The unnamed Volscian host remains unidentified."
+    },
+    {
+      "id": "coriolanus-1-10-844-859",
+      "act": 1,
+      "scene": 10,
+      "first_line": 844,
+      "last_line": 859,
+      "editorial_state": "translated_source_checked",
+      "note": "Three complete speeches: Aufidius learns of Corioles' fall and abandons the ideal of honorable single combat. Folger online I.10 checked."
     }
   ],
   "next_fragment": {
     "act": 1,
     "scene": 10,
-    "first_line": 844,
-    "note": "Opening of Aufidius's scene following the Roman victory; verify Folger numbering before adding a new scene."
+    "first_line": 860,
+    "note": "Soldier calls Martius the devil; Aufidius continues his vow of revenge."
   },
   "completed_acts": [],
   "last_update_commit": "atomic_commit_pending_sha",
