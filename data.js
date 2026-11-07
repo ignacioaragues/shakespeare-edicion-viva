@@ -5813,7 +5813,7 @@ window.SHAKESPEARE_READER_DATA = {
       "scene": 1,
       "place": "Roma · Un espacio público",
       "sourceRef": "Folger Shakespeare Library · Acto II, escena 1",
-      "sectionLabel": "Edición en curso · líneas 880–1102",
+      "sectionLabel": "Edición en curso · líneas 880–1124",
       "introduction": "Menenio se encuentra con los tribunos Sicinio y Bruto. Antes de que lleguen noticias del ejército, discuten con ironía la relación entre Marcio y el pueblo.",
       "stage": "Entra Menenio con los dos tribunos del pueblo, Sicinio y Bruto.",
       "characters": [
@@ -7429,6 +7429,120 @@ window.SHAKESPEARE_READER_DATA = {
               "type": "Contexto",
               "title": "El Capitolio",
               "body": "La comitiva se dirige al centro simbólico de la autoridad romana; el desplazamiento prepara la discusión política que sigue."
+            }
+          ]
+        },
+        {
+          "line": "1103–1120",
+          "speaker": "brutus",
+          "en": "All tongues speak of him, and the blearèd sights Are spectacled to see him. Your prattling nurse Into a rapture lets her baby cry While she chats him. The kitchen malkin pins Her richest lockram ’bout her reechy neck, Clamb’ring the walls to eye him. Stalls, bulks, windows Are smothered up, leads filled, and ridges horsed With variable complexions, all agreeing In earnestness to see him. Seld-shown flamens Do press among the popular throngs and puff To win a vulgar station. Our veiled dames Commit the war of white and damask in Their nicely-gauded cheeks to th’ wanton spoil Of Phoebus’ burning kisses. Such a pother, As if that whatsoever god who leads him Were slyly crept into his human powers And gave him graceful posture.",
+          "es": "Todas las lenguas hablan de él, y hasta los ojos empañados se ponen anteojos para verlo. La niñera parlanchina, arrebatada de entusiasmo, deja llorar a su bebé mientras no cesa de hablar de él. La criada de cocina se prende al cuello mugriento su mejor paño basto y trepa por las paredes para contemplarlo. Los puestos, los salientes y las ventanas están atestados; las azoteas se llenan y sobre los tejados se encaraman gentes de toda condición, unidas por el afán de verlo. Hasta los sacerdotes, que rara vez aparecen en público, se abren paso entre la multitud y jadean por conseguir un lugar entre el pueblo. Nuestras damas veladas exponen el blanco y el rosado de sus mejillas cuidadosamente adornadas al estrago impúdico de los ardientes besos de Febo. ¡Tal es el alboroto! Como si el dios que lo guía se hubiera introducido furtivamente en sus facultades humanas y le prestara su porte majestuoso.",
+          "notes": [
+            {
+              "term": "blearèd sights",
+              "type": "Léxico e imagen",
+              "title": "Ojos empañados",
+              "body": "«Blearèd» describe una visión turbia o legañosa; la hipérbole presenta incluso a quienes ven mal esforzándose por contemplar al héroe."
+            },
+            {
+              "term": "spectacled",
+              "type": "Juego verbal",
+              "title": "Anteojos para mirar",
+              "body": "El verbo deriva de «spectacles» (anteojos); prolonga la imagen de la mirada y el espectáculo público."
+            },
+            {
+              "term": "Into a rapture",
+              "type": "Léxico",
+              "title": "Arrebato",
+              "body": "«Rapture» expresa aquí un transporte o entusiasmo intenso, no una desaparición sobrenatural."
+            },
+            {
+              "term": "kitchen malkin",
+              "type": "Léxico social",
+              "title": "La criada de cocina",
+              "body": "«Malkin» puede designar despectivamente a una sirvienta o muchacha de baja condición; Bruto recorre distintos estratos de la ciudad."
+            },
+            {
+              "term": "lockram",
+              "type": "Indumentaria",
+              "title": "Tela basta",
+              "body": "Nombre de una tela de lino relativamente ordinaria; el superlativo «richest» resulta irónico al aplicarse a las mejores galas de la criada."
+            },
+            {
+              "term": "reechy",
+              "type": "Léxico",
+              "title": "Sucio de humo",
+              "body": "Adjetivo relacionado con el humo o el hollín; la suciedad del cuello contrasta con la tela festiva."
+            },
+            {
+              "term": "leads",
+              "type": "Arquitectura",
+              "title": "Azoteas emplomadas",
+              "body": "Aquí «leads» alude a cubiertas planas revestidas de plomo, no al verbo «conducir»."
+            },
+            {
+              "term": "ridges horsed",
+              "type": "Metáfora visual",
+              "title": "Cabalgar los tejados",
+              "body": "«Horsed» representa a los espectadores montados sobre las cumbreras como si fueran caballos."
+            },
+            {
+              "term": "flamens",
+              "type": "Contexto romano",
+              "title": "Sacerdotes romanos",
+              "body": "Los flámines eran sacerdotes asociados a cultos específicos en Roma; su presencia excepcional amplifica la fama del vencedor."
+            },
+            {
+              "term": "vulgar station",
+              "type": "Semántica histórica",
+              "title": "Un lugar entre el pueblo",
+              "body": "«Vulgar» significa aquí común o popular, sin la carga moderna de grosería."
+            },
+            {
+              "term": "white and damask",
+              "type": "Imagen cromática",
+              "title": "Blanco y rosado",
+              "body": "«Damask» evoca el tono rosado o rojo de las mejillas; el sol amenaza con alterar la delicada combinación de colores."
+            },
+            {
+              "term": "Phoebus’ burning kisses",
+              "type": "Mitología y personificación",
+              "title": "Besos ardientes de Febo",
+              "body": "Febo, epíteto de Apolo asociado al sol, personifica la exposición solar que las damas aceptan con tal de ver a Coriolano."
+            },
+            {
+              "term": "whatsoever god",
+              "type": "Interpretación",
+              "title": "Un dios dentro del héroe",
+              "body": "Bruto formula una comparación hipotética, no una afirmación de posesión divina: la multitud parece contemplar un poder sobrehumano."
+            }
+          ]
+        },
+        {
+          "line": "1121–1122",
+          "speaker": "sicinius",
+          "en": "On the sudden I warrant him consul.",
+          "es": "Estoy seguro de que lo harán cónsul de inmediato.",
+          "notes": [
+            {
+              "term": "On the sudden",
+              "type": "Léxico temporal",
+              "title": "De inmediato",
+              "body": "Locución equivalente a «suddenly» o «at once»; Sicinio anticipa una elección rápida."
+            }
+          ]
+        },
+        {
+          "line": "1123–1124",
+          "speaker": "brutus",
+          "en": "Then our office may, During his power, go sleep.",
+          "es": "Entonces, mientras él ejerza el poder, nuestro cargo bien puede echarse a dormir.",
+          "notes": [
+            {
+              "term": "go sleep",
+              "type": "Sintaxis e imagen política",
+              "title": "El cargo dormido",
+              "body": "La construcción equivale a «go to sleep»; Bruto teme que el consulado de Coriolano vuelva inoperante la magistratura de los tribunos."
             }
           ]
         }

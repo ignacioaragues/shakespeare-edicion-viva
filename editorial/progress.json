@@ -526,13 +526,22 @@
       "last_line": 1102,
       "editorial_state": "translated_source_checked",
       "note": "Seven complete speeches and ceremonial exit through Capitol procession. Folger online II.1 checked. Folger EPUB Library read failed; editorial annotations not consulted."
+    },
+    {
+      "id": "coriolanus-2-1-1103-1124",
+      "act": 2,
+      "scene": 1,
+      "first_line": 1103,
+      "last_line": 1124,
+      "editorial_state": "translated_source_checked",
+      "note": "Brutus' spectacle of public acclaim and the tribunes' fear for their office; three complete speeches. Folger online II.1 checked; private EPUB not consulted."
     }
   ],
   "next_fragment": {
     "act": 2,
     "scene": 1,
-    "first_line": 1103,
-    "note": "Brutus describes the crowds acclaiming Coriolanus."
+    "first_line": 1125,
+    "note": "Sicinius predicts Coriolanus will forfeit honors through intemperance."
   },
   "completed_acts": [],
   "last_update_commit": "320efbc3df6830a13ca322e3aeaec51bf430a37b",
