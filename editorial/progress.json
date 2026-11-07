@@ -535,15 +535,24 @@
       "last_line": 1124,
       "editorial_state": "translated_source_checked",
       "note": "Brutus' spectacle of public acclaim and the tribunes' fear for their office; three complete speeches. Folger online II.1 checked; private EPUB not consulted."
+    },
+    {
+      "id": "coriolanus-2-1-1125-1141",
+      "act": 2,
+      "scene": 1,
+      "first_line": 1125,
+      "last_line": 1141,
+      "editorial_state": "translated_source_checked",
+      "note": "Four complete speeches on the tribunes' expectation of Coriolanus' self-defeat and his refusal to seek votes; Folger online checked. EPUB inaccessible."
     }
   ],
   "next_fragment": {
     "act": 2,
     "scene": 1,
-    "first_line": 1125,
-    "note": "Sicinius predicts Coriolanus will forfeit honors through intemperance."
+    "first_line": 1142,
+    "note": "Sicinius and Brutus discuss the refusal and its consequences."
   },
   "completed_acts": [],
-  "last_update_commit": "320efbc3df6830a13ca322e3aeaec51bf430a37b",
+  "last_update_commit": "II.1 through 1141; publication commit pending",
   "notes": "Folger online line 66 is 'We cannot, sir; we are undone already.' The original prototype had an off-by-one numbering error, corrected in this release. Text is still under editorial review."
 }
