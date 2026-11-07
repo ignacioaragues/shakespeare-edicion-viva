@@ -5813,7 +5813,7 @@ window.SHAKESPEARE_READER_DATA = {
       "scene": 1,
       "place": "Roma · Un espacio público",
       "sourceRef": "Folger Shakespeare Library · Acto II, escena 1",
-      "sectionLabel": "Edición en curso · líneas 880–1045",
+      "sectionLabel": "Edición en curso · líneas 880–1062",
       "introduction": "Menenio se encuentra con los tribunos Sicinio y Bruto. Antes de que lleguen noticias del ejército, discuten con ironía la relación entre Marcio y el pueblo.",
       "stage": "Entra Menenio con los dos tribunos del pueblo, Sicinio y Bruto.",
       "characters": [
@@ -5871,6 +5871,35 @@ window.SHAKESPEARE_READER_DATA = {
           "name": "Valeria y Virgilia",
           "english": "Valeria and Virgilia",
           "identity": "Intervención conjunta de las dos damas.",
+          "color": "olive"
+        }
+        ,
+        {
+          "id": "herald",
+          "name": "Heraldo",
+          "english": "Herald",
+          "identity": "Proclama públicamente el sobrenombre honorífico de Coriolano.",
+          "color": "slate"
+        },
+        {
+          "id": "all",
+          "name": "Todos",
+          "english": "All",
+          "identity": "La comitiva responde a la proclamación del heraldo.",
+          "color": "ink"
+        },
+        {
+          "id": "coriolanus",
+          "name": "Cayo Marcio Coriolano",
+          "english": "Caius Martius Coriolanus",
+          "identity": "General romano victorioso, llamado Coriolano por su hazaña en Corioles.",
+          "color": "violet"
+        },
+        {
+          "id": "cominius",
+          "name": "Cominio",
+          "english": "Cominius",
+          "identity": "General romano que acompaña al vencedor en su regreso.",
           "color": "olive"
         }
       ],
@@ -7035,6 +7064,117 @@ window.SHAKESPEARE_READER_DATA = {
               "type": "Sintaxis e imagen",
               "title": "Ascenso y descenso del brazo",
               "body": "El sujeto implícito es el brazo armado: el movimiento de levantarlo y abatirlo se convierte en una acción letal; «declines» no significa aquí decadencia moral."
+            }
+          ]
+        },
+        {
+          "line": "1046–1050",
+          "speaker": "herald",
+          "en": "Know, Rome, that all alone Martius did fight Within Corioles’ gates, where he hath won, With fame, a name to Martius Caius; these In honor follows “Coriolanus.” Welcome to Rome, renownèd Coriolanus.",
+          "es": "Que Roma sepa que Marcio combatió él solo dentro de las puertas de Corioles, donde conquistó, junto con la gloria, un nombre para Cayo Marcio. A sus nombres se añade ahora, como honor, «Coriolano». Bienvenido a Roma, ilustre Coriolano.",
+          "stageBefore": "Entran Cominio y Tito Larcio, llevando entre ambos a Coriolano, coronado con hojas de roble; los acompañan capitanes, soldados y un heraldo. Suenan las trompetas.",
+          "stageAfter": "Suena una fanfarria.",
+          "notes": [
+            {
+              "term": "all alone",
+              "type": "Retórica",
+              "title": "La hazaña individual",
+              "body": "La proclamación enfatiza que Marcio luchó solo dentro de las puertas; es un elogio ceremonial que condensa la acción representada en I.4."
+            },
+            {
+              "term": "a name",
+              "type": "Onomástica",
+              "title": "El sobrenombre militar",
+              "body": "El nombre Coriolano deriva de Corioles, la ciudad conquistada. El heraldo presenta su incorporación como recompensa pública por la victoria."
+            },
+            {
+              "term": "these In honor follows",
+              "type": "Sintaxis",
+              "title": "La fórmula del heraldo",
+              "body": "«These» remite a los nombres ya mencionados; la construcción anuncia que a ellos se suma el título «Coriolanus». La concordancia resulta irregular para el uso actual."
+            }
+          ]
+        },
+        {
+          "line": "1051",
+          "speaker": "all",
+          "en": "Welcome to Rome, renownèd Coriolanus!",
+          "es": "¡Bienvenido a Roma, ilustre Coriolano!",
+          "notes": [
+            {
+              "term": "renownèd",
+              "type": "Prosodia",
+              "title": "Pronunciación de «renownèd»",
+              "body": "La grafía editorial con acento indica que la terminación -ed se pronuncia como sílaba independiente."
+            }
+          ]
+        },
+        {
+          "line": "1052–1053",
+          "speaker": "coriolanus",
+          "en": "No more of this. It does offend my heart. Pray now, no more.",
+          "es": "Basta ya. Todo esto me incomoda profundamente. Les ruego que no sigan.",
+          "notes": [
+            {
+              "term": "offend my heart",
+              "type": "Interpretación",
+              "title": "Rechazo de la alabanza",
+              "body": "«Offend» expresa molestia o disgusto; el contraste entre la aclamación pública y su respuesta abre la cuestión dramática de cómo recibe Coriolano los honores."
+            }
+          ]
+        },
+        {
+          "line": "1054",
+          "speaker": "cominius",
+          "en": "Look, sir, your mother.",
+          "es": "Mira, señor: tu madre.",
+          "notes": []
+        },
+        {
+          "line": "1055–1057",
+          "speaker": "coriolanus",
+          "en": "O, You have, I know, petitioned all the gods For my prosperity.",
+          "es": "¡Ah! Sé que has rogado a todos los dioses por mi buena fortuna.",
+          "stageAfter": "Coriolano se arrodilla ante Volumnia.",
+          "notes": [
+            {
+              "term": "petitioned",
+              "type": "Léxico",
+              "title": "Suplicar a los dioses",
+              "body": "«Petition» significa presentar una súplica; el vocabulario de petición se traslada aquí a la esfera religiosa."
+            },
+            {
+              "term": "prosperity",
+              "type": "Léxico",
+              "title": "Buena fortuna",
+              "body": "En este contexto designa el éxito y la supervivencia de la campaña, no solamente riqueza material."
+            }
+          ]
+        },
+        {
+          "line": "1058–1062",
+          "speaker": "volumnia",
+          "en": "Nay, my good soldier, up. My gentle Martius, worthy Caius, and By deed-achieving honor newly named— What is it? Coriolanus must I call thee? But, O, thy wife—",
+          "es": "No, mi buen soldado, levántate. Mi querido Marcio, digno Cayo, ahora distinguido con un nuevo nombre por el honor que has ganado con tus hazañas... ¿Cómo es? ¿Debo llamarte Coriolano? Pero, ¡ah!, tu esposa...",
+          "stageBefore": "Coriolano se pone de pie.",
+          "notes": [
+            {
+              "term": "By deed-achieving honor",
+              "type": "Sintaxis y retórica",
+              "title": "El honor ganado por los hechos",
+              "body": "La expresión vincula el nuevo nombre con acciones realizadas, no con un título heredado; el orden de palabras es condensado y poético."
+            },
+            {
+              "term": "What is it?",
+              "type": "Dramaturgia",
+              "title": "La madre pregunta por el nuevo nombre",
+              "body": "La pregunta interrumpe su elogio: Volumnia celebra el honor antes de fijar verbalmente el sobrenombre."
+            },
+            {
+              "term": "But, O, thy wife",
+              "type": "Dramaturgia",
+              "title": "Cambio de interlocutora",
+              "body": "Volumnia desplaza la atención desde su propia recepción del héroe hacia Virgilia; el parlamento queda suspendido ante la respuesta de Coriolano."
             }
           ]
         }
