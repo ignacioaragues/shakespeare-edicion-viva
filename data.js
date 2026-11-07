@@ -17,7 +17,8 @@ window.SHAKESPEARE_READER_DATA = {
         "coriolanus-1-7",
         "coriolanus-1-8",
         "coriolanus-1-9",
-        "coriolanus-1-10"
+        "coriolanus-1-10",
+        "coriolanus-2-1"
       ]
     }
   ],
@@ -5802,6 +5803,236 @@ window.SHAKESPEARE_READER_DATA = {
             }
           ],
           "stageAfter": "Salen por puertas distintas: Aufidio por una y los soldados por otra."
+        }
+      ]
+    },
+    {
+      "id": "coriolanus-2-1",
+      "workId": "coriolanus",
+      "act": 2,
+      "scene": 1,
+      "place": "Roma · Un espacio público",
+      "sourceRef": "Folger Shakespeare Library · Acto II, escena 1",
+      "sectionLabel": "Acto II, escena 1 · líneas 880–899 · en curso",
+      "introduction": "Menenio se encuentra con los tribunos Sicinio y Bruto. Antes de que lleguen noticias del ejército, discuten con ironía la relación entre Marcio y el pueblo.",
+      "stage": "Entra Menenio con los dos tribunos del pueblo, Sicinio y Bruto.",
+      "characters": [
+        {
+          "id": "menenius",
+          "name": "Menenio Agripa",
+          "english": "Menenius Agrippa",
+          "identity": "Patricio romano, defensor de Marcio y adversario verbal de los tribunos.",
+          "color": "olive"
+        },
+        {
+          "id": "brutus",
+          "name": "Junio Bruto",
+          "english": "Junius Brutus",
+          "identity": "Tribuno del pueblo; cuestiona la conducta y la ambición de Marcio.",
+          "color": "slate"
+        },
+        {
+          "id": "sicinius",
+          "name": "Sicinio Veluto",
+          "english": "Sicinius Velutus",
+          "identity": "Tribuno del pueblo; acusa a Marcio de soberbia.",
+          "color": "copper"
+        },
+        {
+          "id": "both",
+          "name": "Ambos tribunos",
+          "english": "Both Tribunes",
+          "identity": "Sicinio y Bruto responden juntos.",
+          "color": "ink"
+        }
+      ],
+      "blocks": [
+        {
+          "line": "880–881",
+          "speaker": "menenius",
+          "en": "The augurer tells me we shall have news tonight.",
+          "es": "El augur me dice que esta noche tendremos noticias.",
+          "notes": [
+            {
+              "term": "augurer",
+              "type": "Contexto romano",
+              "title": "El augur",
+              "body": "En Roma, los augures interpretaban signos para orientar decisiones públicas. La intervención introduce un pronóstico, no una noticia confirmada."
+            }
+          ]
+        },
+        {
+          "line": "882",
+          "speaker": "brutus",
+          "en": "Good or bad?",
+          "es": "¿Buenas o malas?",
+          "notes": []
+        },
+        {
+          "line": "883–884",
+          "speaker": "menenius",
+          "en": "Not according to the prayer of the people, for they love not Martius.",
+          "es": "No serán las que el pueblo desea, porque no quieren a Marcio.",
+          "notes": [
+            {
+              "term": "Not according to the prayer",
+              "type": "Sintaxis e ironía",
+              "title": "Deseos contrariados",
+              "body": "La negación responde a la pregunta anterior: las noticias no coincidirán con lo que el pueblo pide o espera. Menenio anticipa un resultado favorable a Marcio."
+            }
+          ]
+        },
+        {
+          "line": "885",
+          "speaker": "sicinius",
+          "en": "Nature teaches beasts to know their friends.",
+          "es": "La naturaleza enseña a las bestias a reconocer a sus amigos.",
+          "notes": [
+            {
+              "term": "beasts",
+              "type": "Retórica",
+              "title": "Animalización polémica",
+              "body": "Sicinio presenta el rechazo popular de Marcio como una reacción natural de autoprotección; «bestias» permite la réplica irónica de Menenio."
+            }
+          ]
+        },
+        {
+          "line": "886",
+          "speaker": "menenius",
+          "en": "Pray you, who does the wolf love?",
+          "es": "Dime, ¿a quién ama el lobo?",
+          "notes": [
+            {
+              "term": "Pray you",
+              "type": "Pragmática histórica",
+              "title": "Fórmula de interlocución",
+              "body": "Pray you equivale a «te ruego» o «dime» y puede introducir una pregunta incisiva sin implicar una súplica literal."
+            }
+          ]
+        },
+        {
+          "line": "887",
+          "speaker": "sicinius",
+          "en": "The lamb.",
+          "es": "Al cordero.",
+          "notes": []
+        },
+        {
+          "line": "888–889",
+          "speaker": "menenius",
+          "en": "Ay, to devour him, as the hungry plebeians would the noble Martius.",
+          "es": "Sí, para devorarlo, como los plebeyos hambrientos quisieran devorar al noble Marcio.",
+          "notes": [
+            {
+              "term": "to devour him",
+              "type": "Retórica",
+              "title": "El doble sentido de «amar»",
+              "body": "Menenio subvierte el verbo love: el lobo «ama» al cordero como presa. La analogía representa a los plebeyos como depredadores de Marcio."
+            },
+            {
+              "term": "would the noble Martius",
+              "type": "Sintaxis histórica",
+              "title": "Elipsis del verbo",
+              "body": "Tras would se sobreentiende devour; la construcción evita repetir el verbo en el segundo término de la comparación."
+            }
+          ]
+        },
+        {
+          "line": "890",
+          "speaker": "brutus",
+          "en": "He’s a lamb indeed, that baas like a bear.",
+          "es": "Vaya cordero, uno que bala como un oso.",
+          "notes": [
+            {
+              "term": "baas like a bear",
+              "type": "Ironía y sonido",
+              "title": "Una imagen deliberadamente incongruente",
+              "body": "Bruto mezcla el balido del cordero con el oso para ridiculizar la supuesta mansedumbre de Marcio."
+            }
+          ]
+        },
+        {
+          "line": "891–893",
+          "speaker": "menenius",
+          "en": "He’s a bear indeed, that lives like a lamb. You two are old men; tell me one thing that I shall ask you.",
+          "es": "Y vaya oso, uno que vive como un cordero. Ustedes dos son hombres mayores; respondan a una pregunta que voy a hacerles.",
+          "notes": [
+            {
+              "term": "lives like a lamb",
+              "type": "Antítesis",
+              "title": "Conducta frente a apariencia",
+              "body": "Menenio devuelve la imagen animal: aunque Marcio parezca feroz, su vida sería, según Menenio, inocente. Es una valoración del personaje, no una constatación editorial."
+            }
+          ]
+        },
+        {
+          "line": "894",
+          "speaker": "both",
+          "en": "Well, sir.",
+          "es": "Muy bien, señor.",
+          "notes": []
+        },
+        {
+          "line": "895–896",
+          "speaker": "menenius",
+          "en": "In what enormity is Martius poor in, that you two have not in abundance?",
+          "es": "¿Qué falta grave le escasea a Marcio y no les sobra a ustedes dos?",
+          "notes": [
+            {
+              "term": "enormity",
+              "type": "Léxico histórico",
+              "title": "Falta grave",
+              "body": "Enormity puede designar una falta o desviación moral, no necesariamente un acto de magnitud extraordinaria."
+            },
+            {
+              "term": "poor in",
+              "type": "Sintaxis",
+              "title": "Pobreza figurada",
+              "body": "La construcción enfrenta «ser pobre en» defectos con «tenerlos en abundancia», invirtiendo la acusación de los tribunos."
+            }
+          ]
+        },
+        {
+          "line": "897",
+          "speaker": "brutus",
+          "en": "He’s poor in no one fault, but stored with all.",
+          "es": "No le falta un solo defecto: los tiene todos.",
+          "notes": [
+            {
+              "term": "stored with all",
+              "type": "Léxico",
+              "title": "Provisto de todos",
+              "body": "Stored with significa «abastecido de»; Bruto rechaza la premisa irónica de Menenio y exagera la acumulación de vicios."
+            }
+          ]
+        },
+        {
+          "line": "898",
+          "speaker": "sicinius",
+          "en": "Especially in pride.",
+          "es": "Sobre todo, de soberbia.",
+          "notes": [
+            {
+              "term": "pride",
+              "type": "Léxico moral",
+              "title": "Soberbia",
+              "body": "Pride en esta disputa es un vicio político y personal atribuido a Marcio; la traducción «soberbia» conserva el sentido acusatorio."
+            }
+          ]
+        },
+        {
+          "line": "899",
+          "speaker": "brutus",
+          "en": "And topping all others in boasting.",
+          "es": "Y en fanfarronería supera a todos los demás.",
+          "notes": [
+            {
+              "term": "topping all others",
+              "type": "Léxico y retórica",
+              "title": "Superar a todos",
+              "body": "To top significa «sobrepasar»; Bruto completa el catálogo de vicios con una acusación de jactancia."
+            }
+          ]
         }
       ]
     }
