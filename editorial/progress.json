@@ -364,13 +364,22 @@
       "last_line": 816,
       "editorial_state": "translated_source_checked",
       "note": "Three complete speeches: Cominius confers the name Coriolanus, the army acclaims him, and Coriolanus accepts the horse and name. Folger online checked."
+    },
+    {
+      "id": "coriolanus-1-9-817-833",
+      "act": 1,
+      "scene": 9,
+      "first_line": 817,
+      "last_line": 833,
+      "editorial_state": "translated_source_checked",
+      "note": "Five complete speeches: Cominius orders dispatches, Lartius assents, and Coriolanus requests freedom for his Volscian host. Folger online checked."
     }
   ],
   "next_fragment": {
     "act": 1,
     "scene": 9,
-    "first_line": 817,
-    "note": "Cominius directs the officers back to camp and orders news sent to Rome."
+    "first_line": 834,
+    "note": "Cominius grants Coriolanus's request; Lartius asks the prisoner's name."
   },
   "completed_acts": [],
   "last_update_commit": "atomic_commit_pending_sha",

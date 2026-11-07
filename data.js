@@ -4935,8 +4935,8 @@ window.SHAKESPEARE_READER_DATA = {
       "scene": 9,
       "place": "Campo romano · Tras la batalla",
       "sourceRef": "Folger Shakespeare Library · Acto I, escena 9",
-      "sectionLabel": "Edición en curso · líneas Folger 738–816",
-      "introduction": "Cominio elogia las hazañas de Marcio, que rechaza el botín y los vítores. El general lo honra con un caballo y el sobrenombre de Coriolano.",
+      "sectionLabel": "Edición en curso · líneas Folger 738–833",
+      "introduction": "Tras recibir el nombre de Coriolano, Marcio escucha las órdenes de Cominio y pide la libertad de un anfitrión volscio que ha sido capturado.",
       "stage": "Suena la alarma; se toca retirada y después una fanfarria. Entran Cominio y los romanos por una puerta; por otra, Marcio, con un brazo en cabestrillo.",
       "characters": [
         {
@@ -5327,6 +5327,105 @@ window.SHAKESPEARE_READER_DATA = {
               "type": "Interpretación",
               "title": "En la medida de sus fuerzas",
               "body": "Power puede referirse a capacidad o fuerza; la formulación mantiene una reserva sobre cuánto podrá corresponder al honor."
+            }
+          ]
+        },
+        {
+          "line": "817–822",
+          "speaker": "cominius",
+          "en": "So, to our tent, Where, ere we do repose us, we will write To Rome of our success.—You, Titus Lartius, Must to Corioles back. Send us to Rome The best, with whom we may articulate For their own good and ours.",
+          "es": "Bien, vayamos a nuestra tienda. Antes de descansar, escribiremos a Roma para informar de nuestra victoria. Tú, Tito Larcio, debes regresar a Corioles. Envíanos a Roma a los hombres más capaces, con quienes podamos negociar en beneficio de ellos y nuestro.",
+          "notes": [
+            {
+              "term": "ere",
+              "type": "Léxico histórico",
+              "title": "Antes de",
+              "body": "Ere es una forma literaria de «antes de que»; aquí introduce el descanso todavía pendiente."
+            },
+            {
+              "term": "articulate",
+              "type": "Léxico político",
+              "title": "Negociar condiciones",
+              "body": "Articulate alude a formular o acordar artículos y condiciones; no significa simplemente «pronunciar con claridad»."
+            },
+            {
+              "term": "The best",
+              "type": "Interpretación",
+              "title": "Los más adecuados",
+              "body": "El superlativo se refiere a los representantes de Corioles que pueden negociar; la elección de «más capaces» explicita su función, no su posición social."
+            }
+          ]
+        },
+        {
+          "line": "823",
+          "speaker": "lartius",
+          "en": "I shall, my lord.",
+          "es": "Así lo haré, señor.",
+          "notes": []
+        },
+        {
+          "line": "824–826",
+          "speaker": "coriolanus",
+          "en": "The gods begin to mock me. I, that now Refused most princely gifts, am bound to beg Of my lord general.",
+          "es": "Los dioses empiezan a burlarse de mí. Yo, que acabo de rechazar regalos dignos de un príncipe, ahora me veo obligado a pedirle un favor a mi general.",
+          "notes": [
+            {
+              "term": "most princely gifts",
+              "type": "Retórica",
+              "title": "Contraste de dignidad",
+              "body": "La magnificencia de los regalos rechazados contrasta con la petición particular que Coriolano se dispone a hacer."
+            },
+            {
+              "term": "am bound to beg",
+              "type": "Sintaxis y matiz",
+              "title": "Obligado a pedir",
+              "body": "Bound to expresa obligación o necesidad; beg puede significar solicitar humildemente, sin implicar mendicidad material."
+            }
+          ]
+        },
+        {
+          "line": "827",
+          "speaker": "cominius",
+          "en": "Take ’t, ’tis yours. What is ’t?",
+          "es": "Concedido, es tuyo. ¿De qué se trata?",
+          "notes": [
+            {
+              "term": "Take ’t",
+              "type": "Retórica dramática",
+              "title": "Concesión anticipada",
+              "body": "Cominio acepta la petición antes de conocerla, señal de confianza y reconocimiento hacia Coriolano."
+            }
+          ]
+        },
+        {
+          "line": "828–833",
+          "speaker": "coriolanus",
+          "en": "I sometime lay here in Corioles At a poor man’s house; he used me kindly. He cried to me; I saw him prisoner; But then Aufidius was within my view, And wrath o’erwhelmed my pity. I request you To give my poor host freedom.",
+          "es": "En cierta ocasión me alojé aquí, en Corioles, en casa de un hombre pobre que me trató con bondad. Me llamó a gritos; lo vi prisionero, pero entonces tenía a Aufidio a la vista y la ira venció a mi compasión. Te pido que concedas la libertad a aquel pobre hombre que me hospedó.",
+          "notes": [
+            {
+              "term": "sometime",
+              "type": "Léxico histórico",
+              "title": "En cierta ocasión",
+              "body": "Sometime tiene aquí valor temporal indefinido («una vez», «en otro tiempo»), no el de «a veces»."
+            },
+            {
+              "term": "he used me kindly",
+              "type": "Léxico histórico",
+              "title": "Trato hospitalario",
+              "body": "Used me significa «me trató»; no tiene el sentido moderno de «utilizarme»."
+            },
+            {
+              "term": "He cried to me",
+              "type": "Interpretación",
+              "title": "Un llamado desde el cautiverio",
+              "body": "Cried to me señala que el prisionero llamó a Coriolano; no indica necesariamente que llorara."
+            },
+            {
+              "term": "wrath o’erwhelmed my pity",
+              "type": "Retórica",
+              "title": "Ira y compasión",
+              "body": "La personificación de las pasiones presenta la ira del combate como una fuerza que ahoga la piedad; Coriolano reconoce su propia omisión."
             }
           ]
         }
