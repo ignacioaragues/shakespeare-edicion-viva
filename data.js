@@ -5813,7 +5813,7 @@ window.SHAKESPEARE_READER_DATA = {
       "scene": 1,
       "place": "Roma · Un espacio público",
       "sourceRef": "Folger Shakespeare Library · Acto II, escena 1",
-      "sectionLabel": "Edición en curso · líneas 880–946",
+      "sectionLabel": "Edición en curso · líneas 880–964",
       "introduction": "Menenio se encuentra con los tribunos Sicinio y Bruto. Antes de que lleguen noticias del ejército, discuten con ironía la relación entre Marcio y el pueblo.",
       "stage": "Entra Menenio con los dos tribunos del pueblo, Sicinio y Bruto.",
       "characters": [
@@ -6284,6 +6284,108 @@ window.SHAKESPEARE_READER_DATA = {
               "type": "Léxico infrecuente",
               "title": "Miradas casi ciegas",
               "body": "Bisson significa «ciego» o «de vista defectuosa»; conspectuities es una formación llamativa para la capacidad de ver. El efecto es un insulto deliberadamente ampuloso."
+            }
+          ]
+        },
+        {
+          "line": "947",
+          "speaker": "brutus",
+          "en": "Come, sir, come; we know you well enough.",
+          "es": "Vamos, señor, vamos; lo conocemos bastante bien.",
+          "notes": [
+            {
+              "term": "Come, sir, come",
+              "type": "Pragmática",
+              "title": "Interrupción impaciente",
+              "body": "La repetición de «come» funciona como exhortación para que Menenio deje de hablar; no describe un desplazamiento físico."
+            }
+          ]
+        },
+        {
+          "line": "948–961",
+          "speaker": "menenius",
+          "en": "You know neither me, yourselves, nor anything. You are ambitious for poor knaves’ caps and legs. You wear out a good wholesome forenoon in hearing a cause between an orange-wife and a faucet-seller, and then rejourn the controversy of threepence to a second day of audience. When you are hearing a matter between party and party, if you chance to be pinched with the colic, you make faces like mummers, set up the bloody flag against all patience, and, in roaring for a chamber pot, dismiss the controversy bleeding, the more entangled by your hearing. All the peace you make in their cause is calling both the parties knaves. You are a pair of strange ones.",
+          "es": "No me conocen a mí, ni se conocen ustedes mismos, ni conocen nada. Ambicionan las reverencias y las genuflexiones de unos pobres infelices. Se pasan una mañana entera, perfectamente aprovechable, escuchando un pleito entre una vendedora de naranjas y un vendedor de grifos, y después aplazan hasta otra audiencia la disputa por tres peniques. Cuando están oyendo un asunto entre dos partes, si por casualidad les da un cólico, hacen muecas como actores de pantomima, enarbolan la bandera sangrienta contra toda paciencia y, mientras braman pidiendo un orinal, despachan el litigio malherido, todavía más enredado por su intervención. Toda la paz que consiguen entre los litigantes consiste en llamar bribones a ambos. Son ustedes una pareja singular.",
+          "notes": [
+            {
+              "term": "caps and legs",
+              "type": "Costumbre social",
+              "title": "Sombreros y reverencias",
+              "body": "La expresión reúne dos gestos de deferencia: quitarse el sombrero y doblar la pierna en señal de respeto. Menenio acusa a los tribunos de codiciar esas muestras de sumisión."
+            },
+            {
+              "term": "orange-wife",
+              "type": "Léxico social",
+              "title": "Vendedora de naranjas",
+              "body": "«Wife» puede designar aquí a una mujer de oficio o condición popular, no a la esposa de alguien mencionado en la escena."
+            },
+            {
+              "term": "faucet-seller",
+              "type": "Léxico",
+              "title": "Vendedor de grifos",
+              "body": "«Faucet» designa una espita o llave para extraer líquido de un recipiente. La pareja de comerciantes sitúa el litigio en un ámbito cotidiano y de escasa cuantía."
+            },
+            {
+              "term": "rejourn",
+              "type": "Léxico jurídico",
+              "title": "Aplazar una audiencia",
+              "body": "Variante de «adjourn»: suspender o trasladar el examen de un asunto a otra sesión. La burla se dirige a la dilación desproporcionada."
+            },
+            {
+              "term": "threepence",
+              "type": "Moneda",
+              "title": "Tres peniques",
+              "body": "Una suma pequeña, que acentúa el contraste cómico entre la insignificancia económica del litigio y el tiempo que los magistrados le dedican."
+            },
+            {
+              "term": "mummers",
+              "type": "Teatro y cultura",
+              "title": "Actores enmascarados",
+              "body": "Los «mummers» participaban en representaciones populares, a menudo disfrazados. La comparación ridiculiza las contorsiones del rostro de los tribunos."
+            },
+            {
+              "term": "bloody flag",
+              "type": "Imagen retórica",
+              "title": "La bandera sangrienta",
+              "body": "Imagen de hostilidad o combate aplicada hiperbólicamente al ataque de cólico. «Against all patience» hace de la paciencia el enemigo al que se declara la guerra."
+            },
+            {
+              "term": "chamber pot",
+              "type": "Cultura material",
+              "title": "Orinal",
+              "body": "Recipiente de uso doméstico para las necesidades corporales. El detalle escatológico rebaja la solemnidad del procedimiento judicial."
+            },
+            {
+              "term": "dismiss the controversy bleeding",
+              "type": "Personificación",
+              "title": "Un litigio herido",
+              "body": "La disputa es figurada como un cuerpo que sale sangrando de la audiencia: lejos de resolverla, los jueces la dejan en peor estado."
+            },
+            {
+              "term": "knaves",
+              "type": "Léxico y sátira",
+              "title": "Bribones",
+              "body": "«Knave» puede significar pícaro, sinvergüenza o persona despreciable. El fallo que Menenio atribuye a los tribunos se reduce a insultar a las dos partes."
+            }
+          ]
+        },
+        {
+          "line": "962–964",
+          "speaker": "brutus",
+          "en": "Come, come. You are well understood to be a perfecter giber for the table than a necessary bencher in the Capitol.",
+          "es": "Vamos, vamos. Todos saben que es usted más hábil para soltar burlas en la mesa que para ocupar un asiento útil en el Capitolio.",
+          "notes": [
+            {
+              "term": "perfecter giber",
+              "type": "Gramática y léxico",
+              "title": "Más consumado en las burlas",
+              "body": "«Perfecter» es un comparativo de «perfect»; «giber» designa a quien se mofa o lanza pullas. Bruto contrapone el ingenio social de Menenio a su utilidad pública."
+            },
+            {
+              "term": "bencher",
+              "type": "Léxico institucional",
+              "title": "Quien ocupa un escaño",
+              "body": "«Bencher» es quien se sienta en un banco o asiento de autoridad; la referencia al Capitolio sitúa el contraste en la esfera política romana."
             }
           ]
         }
