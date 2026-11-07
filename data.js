@@ -7258,7 +7258,45 @@ window.SHAKESPEARE_READER_DATA = {
                               "body": "Volumnia pasa de saludar a individuos a dirigirse al conjunto de los presentes; en español se refleja mediante «sean todos bienvenidos»."
                     }
           ]
-}
+},
+        {
+          "line": "1075–1084",
+          "speaker": "menenius",
+          "en": "A hundred thousand welcomes! I could weep, And I could laugh; I am light and heavy. Welcome. A curse begin at very root on ’s heart That is not glad to see thee! ⌜You⌝ are three That Rome should dote on; yet, by the faith of men, We have some old crab trees here at home that will not Be grafted to your relish. Yet welcome, warriors! We call a nettle but a nettle, and The faults of fools but folly.",
+          "es": "¡Cien mil veces bienvenidos! Podría llorar y podría reír; me siento ligero y apesadumbrado a la vez. Bienvenidos. ¡Que una maldición arraigue en lo más hondo del corazón de quien no se alegre de verte! Ustedes tres merecen que Roma los adore; pero, a fe mía, aquí en casa tenemos algunos viejos manzanos silvestres que no aceptarán injertos de su gusto. ¡Sean bienvenidos, guerreros, de todos modos! Nosotros llamamos ortiga a la ortiga, y necedad a los defectos de los necios.",
+          "notes": [
+            {
+              "term": "light and heavy",
+              "type": "Retórica",
+              "title": "Emociones contrarias",
+              "body": "La antítesis reúne la ligereza de la alegría y el peso de la emoción."
+            },
+            {
+              "term": "⌜You⌝ are three",
+              "type": "Texto",
+              "title": "Pronombre suplido",
+              "body": "Folger marca «You» como intervención editorial; los tres son los comandantes de la comitiva."
+            },
+            {
+              "term": "old crab trees",
+              "type": "Léxico",
+              "title": "Manzanos silvestres",
+              "body": "Los frutos agrios evocan a los adversarios incapaces de aceptar el triunfo."
+            },
+            {
+              "term": "grafted to your relish",
+              "type": "Metáfora",
+              "title": "Injerto y gusto",
+              "body": "La horticultura se cruza con el gusto: los detractores no se adaptarán a la victoria."
+            },
+            {
+              "term": "a nettle but a nettle",
+              "type": "Retórica",
+              "title": "Nombrar las cosas",
+              "body": "La repetición afirma la franqueza de Menenio."
+            }
+          ]
+        }
       ]
     }
   ]
