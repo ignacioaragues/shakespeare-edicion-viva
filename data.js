@@ -6637,6 +6637,159 @@ window.SHAKESPEARE_READER_DATA = {
               "body": "Afirmación enfática, equivalente aquí a «certainly»."
             }
           ]
+        },
+        {
+          "line": "997–1002",
+          "speaker": "menenius",
+          "en": "A letter for me? It gives me an estate of seven years’ health, in which time I will make a lip at the physician. The most sovereign prescription in Galen is but empiricutic and, to this preservative, of no better report than a horse drench. Is he not wounded? He was wont to come home wounded.",
+          "es": "¿Una carta para mí? Me concede una reserva de salud para siete años; durante todo ese tiempo podré burlarme del médico. Hasta la receta más eficaz de Galeno no es más que un remedio de curandero y, comparada con este preservativo, tiene tan poco valor como una pócima para caballos. ¿Acaso no está herido? Antes solía regresar con heridas.",
+          "notes": [
+            {
+              "term": "estate of seven years’ health",
+              "type": "Metáfora",
+              "title": "La salud como patrimonio",
+              "body": "«Estate» designa una posesión o patrimonio: Menenio imagina que la carta le asegura siete años de salud."
+            },
+            {
+              "term": "make a lip",
+              "type": "Expresión idiomática",
+              "title": "Hacer un gesto de burla",
+              "body": "La expresión evoca torcer o sacar el labio en señal de desprecio hacia el médico."
+            },
+            {
+              "term": "Galen",
+              "type": "Historia de la medicina",
+              "title": "Galeno",
+              "body": "Médico de la Antigüedad cuya autoridad continuó siendo fundamental en la medicina europea de la época de Shakespeare."
+            },
+            {
+              "term": "empiricutic",
+              "type": "Léxico",
+              "title": "Un remedio de charlatán",
+              "body": "Vocablo despectivo y de formación llamativa, relacionado con los remedios empíricos; se opone aquí a la pretendida eficacia de la carta."
+            },
+            {
+              "term": "horse drench",
+              "type": "Léxico",
+              "title": "Pócima para un caballo",
+              "body": "«Drench» es una bebida medicinal administrada por la fuerza a un animal; la comparación rebaja los remedios de Galeno."
+            },
+            {
+              "term": "was wont",
+              "type": "Gramática histórica",
+              "title": "Costumbre en el pasado",
+              "body": "«Was wont to» significa «solía»; no expresa obligación."
+            }
+          ]
+        },
+        {
+          "line": "1003",
+          "speaker": "virgilia",
+          "en": "O no, no, no!",
+          "es": "¡Oh, no, no, no!",
+          "notes": []
+        },
+        {
+          "line": "1004",
+          "speaker": "volumnia",
+          "en": "O, he is wounded, I thank the gods for ’t.",
+          "es": "Oh, sí que está herido, y doy gracias a los dioses por ello.",
+          "notes": [
+            {
+              "term": "I thank the gods for ’t",
+              "type": "Caracterización",
+              "title": "El orgullo de Volumnia",
+              "body": "La madre agradece las heridas como pruebas de valor militar; su reacción contrasta con la alarma de Virgilia."
+            }
+          ]
+        },
+        {
+          "line": "1005–1006",
+          "speaker": "menenius",
+          "en": "So do I too, if it be not too much. Brings he victory in his pocket, the wounds become him.",
+          "es": "Yo también, siempre que no sean demasiadas. Si trae la victoria en el bolsillo, las heridas le sientan bien.",
+          "notes": [
+            {
+              "term": "become him",
+              "type": "Léxico",
+              "title": "Le sientan bien",
+              "body": "«Become» significa aquí «favorecer» o «sentar bien», no «convertirse en»."
+            }
+          ]
+        },
+        {
+          "line": "1007–1008",
+          "speaker": "volumnia",
+          "en": "On ’s brows, Menenius. He comes the third time home with the oaken garland.",
+          "es": "La trae sobre la frente, Menenio. Regresa por tercera vez con la corona de hojas de roble.",
+          "notes": [
+            {
+              "term": "On ’s brows",
+              "type": "Referencia",
+              "title": "La victoria en la frente",
+              "body": "Volumnia corrige la imagen del bolsillo: el triunfo se manifiesta en la corona que lleva en la cabeza."
+            },
+            {
+              "term": "oaken garland",
+              "type": "Contexto romano",
+              "title": "Corona de roble",
+              "body": "La corona cívica romana, hecha de hojas de roble, distinguía tradicionalmente a quien salvaba la vida de un ciudadano en combate; Shakespeare la emplea como insignia de honor militar."
+            }
+          ]
+        },
+        {
+          "line": "1009",
+          "speaker": "menenius",
+          "en": "Has he disciplined Aufidius soundly?",
+          "es": "¿Le ha dado una buena lección a Aufidio?",
+          "notes": [
+            {
+              "term": "disciplined",
+              "type": "Léxico",
+              "title": "Escarmiento militar",
+              "body": "«Discipline» se usa irónicamente como «castigar» o «dar una lección» al enemigo."
+            }
+          ]
+        },
+        {
+          "line": "1010–1011",
+          "speaker": "volumnia",
+          "en": "Titus Lartius writes they fought together, but Aufidius got off.",
+          "es": "Tito Larcio escribe que se enfrentaron, pero Aufidio logró escapar.",
+          "notes": [
+            {
+              "term": "got off",
+              "type": "Léxico",
+              "title": "Escapó",
+              "body": "El verbo frasal significa aquí que Aufidio consiguió librarse del enfrentamiento."
+            }
+          ]
+        },
+        {
+          "line": "1012–1016",
+          "speaker": "menenius",
+          "en": "And ’twas time for him too, I’ll warrant him that. An he had stayed by him, I would not have been so ’fidiused for all the chests in Corioles and the gold that’s in them. Is the Senate possessed of this?",
+          "es": "Y ya era hora de que escapara, te lo aseguro. Si se hubiera quedado junto a Marcio, yo no habría querido verme tan «aufidiado» ni a cambio de todos los cofres de Corioles y del oro que contienen. ¿Está enterado de esto el Senado?",
+          "notes": [
+            {
+              "term": "An he had stayed",
+              "type": "Gramática histórica",
+              "title": "Condicional con «an»",
+              "body": "«An» funciona como conjunción condicional equivalente a «if» («si»). La hipótesis se refiere a una permanencia que no ocurrió."
+            },
+            {
+              "term": "’fidiused",
+              "type": "Juego verbal",
+              "title": "El nombre de Aufidio como verbo",
+              "body": "Menenio convierte el nombre del enemigo en un verbo burlesco; «aufidiado» reproduce deliberadamente ese procedimiento, sin pretender que sea una palabra española establecida."
+            },
+            {
+              "term": "possessed of this",
+              "type": "Léxico",
+              "title": "Estar al corriente",
+              "body": "«Possessed of» significa aquí «estar informado de», no «poseer» materialmente."
+            }
+          ]
         }
       ]
     }
