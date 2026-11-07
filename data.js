@@ -5813,7 +5813,7 @@ window.SHAKESPEARE_READER_DATA = {
       "scene": 1,
       "place": "Roma · Un espacio público",
       "sourceRef": "Folger Shakespeare Library · Acto II, escena 1",
-      "sectionLabel": "Edición en curso · líneas 880–1062",
+      "sectionLabel": "Edición en curso · líneas 880–1102",
       "introduction": "Menenio se encuentra con los tribunos Sicinio y Bruto. Antes de que lleguen noticias del ejército, discuten con ironía la relación entre Marcio y el pueblo.",
       "stage": "Entra Menenio con los dos tribunos del pueblo, Sicinio y Bruto.",
       "characters": [
@@ -5872,8 +5872,7 @@ window.SHAKESPEARE_READER_DATA = {
           "english": "Valeria and Virgilia",
           "identity": "Intervención conjunta de las dos damas.",
           "color": "olive"
-        }
-        ,
+        },
         {
           "id": "herald",
           "name": "Heraldo",
@@ -7184,46 +7183,46 @@ window.SHAKESPEARE_READER_DATA = {
           "en": "My gracious silence, hail. Wouldst thou have laughed had I come coffined home, That weep’st to see me triumph? Ah, my dear, Such eyes the widows in Corioles wear And mothers that lack sons.",
           "es": "Te saludo, mi dulce y silenciosa esposa. ¿Te habrías reído si hubiera regresado a casa en un ataúd, tú que lloras al verme triunfar? Ah, querida mía, esos mismos ojos tienen las viudas de Corioles y las madres que han perdido a sus hijos.",
           "notes": [
-                    {
-                              "term": "gracious silence",
-                              "type": "Retórica",
-                              "title": "El silencio de Virgilia",
-                              "body": "Coriolano se dirige a Virgilia mediante una personificación afectuosa de su silencio; la expresión también recuerda su reserva en I.3."
-                    },
-                    {
-                              "term": "Wouldst thou have laughed",
-                              "type": "Sintaxis",
-                              "title": "Interrogación contrafáctica",
-                              "body": "«Wouldst thou» equivale a «would you» singular; «had I come» es una prótasis condicional sin «if»: «si hubiera regresado»."
-                    },
-                    {
-                              "term": "coffined",
-                              "type": "Léxico",
-                              "title": "Regreso en un ataúd",
-                              "body": "«Coffined» funciona como participio: llegado dentro de un féretro, es decir, muerto."
-                    },
-                    {
-                              "term": "Such eyes",
-                              "type": "Dramaturgia",
-                              "title": "Lágrimas de vencedores y vencidos",
-                              "body": "La comparación traslada las lágrimas de Virgilia a las mujeres de Corioles, cuyos familiares han muerto en la campaña. El efecto puede leerse como una súbita conciencia del costo humano de la victoria."
-                    }
+            {
+              "term": "gracious silence",
+              "type": "Retórica",
+              "title": "El silencio de Virgilia",
+              "body": "Coriolano se dirige a Virgilia mediante una personificación afectuosa de su silencio; la expresión también recuerda su reserva en I.3."
+            },
+            {
+              "term": "Wouldst thou have laughed",
+              "type": "Sintaxis",
+              "title": "Interrogación contrafáctica",
+              "body": "«Wouldst thou» equivale a «would you» singular; «had I come» es una prótasis condicional sin «if»: «si hubiera regresado»."
+            },
+            {
+              "term": "coffined",
+              "type": "Léxico",
+              "title": "Regreso en un ataúd",
+              "body": "«Coffined» funciona como participio: llegado dentro de un féretro, es decir, muerto."
+            },
+            {
+              "term": "Such eyes",
+              "type": "Dramaturgia",
+              "title": "Lágrimas de vencedores y vencidos",
+              "body": "La comparación traslada las lágrimas de Virgilia a las mujeres de Corioles, cuyos familiares han muerto en la campaña. El efecto puede leerse como una súbita conciencia del costo humano de la victoria."
+            }
           ]
-},
+        },
         {
           "line": "1069–1070",
           "speaker": "menenius",
           "en": "Now the gods crown thee!",
           "es": "¡Que los dioses te colmen de honores!",
           "notes": [
-                    {
-                              "term": "crown thee",
-                              "type": "Léxico y contexto",
-                              "title": "Coronar y recompensar",
-                              "body": "La bendición retoma la imaginería del triunfo y la corona de roble que ya lleva Coriolano."
-                    }
+            {
+              "term": "crown thee",
+              "type": "Léxico y contexto",
+              "title": "Coronar y recompensar",
+              "body": "La bendición retoma la imaginería del triunfo y la corona de roble que ya lleva Coriolano."
+            }
           ]
-},
+        },
         {
           "line": "1071–1072",
           "speaker": "coriolanus",
@@ -7231,34 +7230,34 @@ window.SHAKESPEARE_READER_DATA = {
           "es": "¿Y tú sigues aquí? ¡Ah, mi querida señora, perdóname!",
           "stageBefore": "Dirigiéndose a Valeria.",
           "notes": [
-                    {
-                              "term": "And live you yet?",
-                              "type": "Dramaturgia",
-                              "title": "Reconocimiento de Valeria",
-                              "body": "Coriolano repara en la presencia de Valeria después de saludar a su esposa; la pregunta es una fórmula de sorpresa y reconocimiento, no una duda literal sobre su supervivencia."
-                    }
+            {
+              "term": "And live you yet?",
+              "type": "Dramaturgia",
+              "title": "Reconocimiento de Valeria",
+              "body": "Coriolano repara en la presencia de Valeria después de saludar a su esposa; la pregunta es una fórmula de sorpresa y reconocimiento, no una duda literal sobre su supervivencia."
+            }
           ]
-},
+        },
         {
           "line": "1073–1074",
           "speaker": "volumnia",
           "en": "I know not where to turn. O, welcome home!— And, welcome, general.—And you’re welcome all.",
           "es": "No sé hacia dónde volverme. ¡Ah, bienvenido a casa! Y bienvenido tú también, general. ¡Sean todos bienvenidos!",
           "notes": [
-                    {
-                              "term": "where to turn",
-                              "type": "Dramaturgia",
-                              "title": "Saludar a todos",
-                              "body": "La expresión indica que Volumnia no sabe a quién atender primero entre su hijo, el general y la comitiva."
-                    },
-                    {
-                              "term": "you’re welcome all",
-                              "type": "Sintaxis",
-                              "title": "Del singular al plural",
-                              "body": "Volumnia pasa de saludar a individuos a dirigirse al conjunto de los presentes; en español se refleja mediante «sean todos bienvenidos»."
-                    }
+            {
+              "term": "where to turn",
+              "type": "Dramaturgia",
+              "title": "Saludar a todos",
+              "body": "La expresión indica que Volumnia no sabe a quién atender primero entre su hijo, el general y la comitiva."
+            },
+            {
+              "term": "you’re welcome all",
+              "type": "Sintaxis",
+              "title": "Del singular al plural",
+              "body": "Volumnia pasa de saludar a individuos a dirigirse al conjunto de los presentes; en español se refleja mediante «sean todos bienvenidos»."
+            }
           ]
-},
+        },
         {
           "line": "1075–1084",
           "speaker": "menenius",
@@ -7294,6 +7293,142 @@ window.SHAKESPEARE_READER_DATA = {
               "type": "Retórica",
               "title": "Nombrar las cosas",
               "body": "La repetición afirma la franqueza de Menenio."
+            }
+          ]
+        },
+        {
+          "line": "1085",
+          "speaker": "cominius",
+          "en": "Ever right.",
+          "es": "Como siempre, tienes razón.",
+          "notes": [
+            {
+              "term": "Ever right",
+              "type": "Pragmática",
+              "title": "Asentimiento de Cominio",
+              "body": "Cominio aprueba la sentencia final de Menenio; «ever» intensifica el asentimiento y también puede sugerir que Menenio siempre habla así."
+            }
+          ]
+        },
+        {
+          "line": "1086",
+          "speaker": "coriolanus",
+          "en": "Menenius ever, ever.",
+          "es": "Menenio, siempre el mismo, siempre.",
+          "notes": [
+            {
+              "term": "ever, ever",
+              "type": "Retórica",
+              "title": "La repetición afectuosa",
+              "body": "Coriolano reconoce la constancia del carácter y del modo de hablar de Menenio; la duplicación refuerza la familiaridad."
+            }
+          ]
+        },
+        {
+          "line": "1087",
+          "speaker": "herald",
+          "en": "Give way there, and go on!",
+          "es": "¡Abran paso! ¡Adelante!",
+          "notes": [
+            {
+              "term": "Give way",
+              "type": "Léxico escénico",
+              "title": "Abrir paso",
+              "body": "La orden del heraldo despeja el recorrido de la comitiva; no significa aquí rendirse."
+            }
+          ]
+        },
+        {
+          "line": "1088–1093",
+          "speaker": "coriolanus",
+          "en": "Your hand and yours. Ere in our own house I do shade my head, The good patricians must be visited, From whom I have received not only greetings, But with them change of honors.",
+          "es": "Tu mano, y la tuya. Antes de cobijarme bajo el techo de nuestra casa, debo visitar a los nobles patricios, de quienes he recibido no solo saludos, sino también nuevos honores.",
+          "stageBefore": "A Volumnia y Virgilia.",
+          "notes": [
+            {
+              "term": "Ere",
+              "type": "Gramática",
+              "title": "Antes de que",
+              "body": "«Ere» es una conjunción temporal equivalente a «before»."
+            },
+            {
+              "term": "shade my head",
+              "type": "Imagen",
+              "title": "Cobijarse en casa",
+              "body": "La expresión presenta la entrada en la propia casa como ponerse a cubierto; Coriolano antepone las obligaciones públicas al regreso doméstico."
+            },
+            {
+              "term": "change of honors",
+              "type": "Léxico e interpretación",
+              "title": "Honores renovados",
+              "body": "«Change» apunta a una modificación o intercambio de honores, no a un cambio de opinión; la traducción «nuevos honores» explicita el resultado en este contexto."
+            }
+          ]
+        },
+        {
+          "line": "1094–1098",
+          "speaker": "volumnia",
+          "en": "I have lived To see inherited my very wishes And the buildings of my fancy. Only There’s one thing wanting, which I doubt not but Our Rome will cast upon thee.",
+          "es": "He vivido lo suficiente para ver cumplidos mis propios deseos y las construcciones de mi imaginación. Solo falta una cosa, y no dudo de que nuestra Roma te la concederá.",
+          "notes": [
+            {
+              "term": "inherited my very wishes",
+              "type": "Sintaxis e imagen",
+              "title": "Deseos hechos realidad",
+              "body": "«Inherited» presenta los deseos como una herencia que finalmente llega a poseerse; la construcción comprimida hace que el logro parezca una adquisición."
+            },
+            {
+              "term": "buildings of my fancy",
+              "type": "Metáfora",
+              "title": "Arquitectura de la imaginación",
+              "body": "Volumnia imagina sus aspiraciones como edificios que ahora ve realizados."
+            },
+            {
+              "term": "cast upon thee",
+              "type": "Léxico político",
+              "title": "Conferir un cargo",
+              "body": "«Cast upon» significa aquí conferir o imponer un honor; la alusión anticipa el consulado sin nombrarlo todavía."
+            }
+          ]
+        },
+        {
+          "line": "1099–1101",
+          "speaker": "coriolanus",
+          "en": "Know, good mother, I had rather be their servant in my way Than sway with them in theirs.",
+          "es": "Debes saber, querida madre, que prefiero servirlos a mi manera antes que gobernar con ellos a la suya.",
+          "notes": [
+            {
+              "term": "had rather",
+              "type": "Gramática",
+              "title": "Preferencia",
+              "body": "«Had rather» expresa preferencia, equivalente al actual «would rather»."
+            },
+            {
+              "term": "servant ... sway",
+              "type": "Antítesis política",
+              "title": "Servicio y gobierno",
+              "body": "La contraposición entre servir y ejercer autoridad no es simple modestia: Coriolano rechaza ejercer el poder según las condiciones de otros."
+            },
+            {
+              "term": "in my way ... in theirs",
+              "type": "Retórica",
+              "title": "Dos maneras de actuar",
+              "body": "El paralelismo opone la autonomía del soldado a las exigencias de la vida política; «theirs» refiere a quienes condicionan el ejercicio del poder."
+            }
+          ]
+        },
+        {
+          "line": "1102",
+          "speaker": "cominius",
+          "en": "On, to the Capitol.",
+          "es": "Adelante, al Capitolio.",
+          "stageAfter": "Suenan las cornetas. La comitiva sale solemnemente, como antes. Bruto y Sicinio avanzan al primer plano.",
+          "notes": [
+            {
+              "term": "Capitol",
+              "type": "Contexto",
+              "title": "El Capitolio",
+              "body": "La comitiva se dirige al centro simbólico de la autoridad romana; el desplazamiento prepara la discusión política que sigue."
             }
           ]
         }

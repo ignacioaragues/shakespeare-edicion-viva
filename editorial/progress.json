@@ -517,15 +517,24 @@
       "last_line": 1084,
       "editorial_state": "translated_source_checked",
       "note": "Complete Menenius speech, Folger online checked; EPUB inaccessible."
+    },
+    {
+      "id": "coriolanus-2-1-1085-1102",
+      "act": 2,
+      "scene": 1,
+      "first_line": 1085,
+      "last_line": 1102,
+      "editorial_state": "translated_source_checked",
+      "note": "Seven complete speeches and ceremonial exit through Capitol procession. Folger online II.1 checked. Folger EPUB Library read failed; editorial annotations not consulted."
     }
   ],
   "next_fragment": {
     "act": 2,
     "scene": 1,
-    "first_line": 1085,
-    "note": "Cominius replies to Menenius."
+    "first_line": 1103,
+    "note": "Brutus describes the crowds acclaiming Coriolanus."
   },
   "completed_acts": [],
-  "last_update_commit": "806e9c8877552eb4d34407211294847239865a31",
+  "last_update_commit": "320efbc3df6830a13ca322e3aeaec51bf430a37b",
   "notes": "Folger online line 66 is 'We cannot, sir; we are undone already.' The original prototype had an off-by-one numbering error, corrected in this release. Text is still under editorial review."
 }
