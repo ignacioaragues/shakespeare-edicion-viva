@@ -9255,7 +9255,7 @@ window.SHAKESPEARE_READER_DATA = {
       "scene": 3,
       "place": "Roma · Plaza del mercado",
       "sourceRef": "Folger Shakespeare Library · Acto II, escena 3",
-      "sectionLabel": "Edición en curso · líneas 1374–1494",
+      "sectionLabel": "Edición en curso · líneas 1374–1507",
       "introduction": "Antes de que Coriolano solicite sus votos, los ciudadanos debaten hasta qué punto son libres de negárselos y qué exige la gratitud pública.",
       "stage": "Entran siete u ocho ciudadanos.",
       "characters": [
@@ -10272,7 +10272,77 @@ window.SHAKESPEARE_READER_DATA = {
             }
           ]
         }
-      ]
+,
+        {
+          "line": "1495–1507",
+          "speaker": "coriolanus",
+          "en": "Most sweet voices!\nBetter it is to die, better to starve,\nThan crave the ⌜hire⌝ which first we do deserve.\nWhy in this woolvish ⌜toge⌝ should I stand here\nTo beg of Hob and Dick that does appear\nTheir needless vouches? Custom calls me to ’t.\nWhat custom wills, in all things should we do ’t?\nThe dust on antique time would lie unswept\nAnd mountainous error be too highly heaped\nFor truth to o’erpeer. Rather than fool it so,\nLet the high office and the honor go\nTo one that would do thus. I am half through;\nThe one part suffered, the other will I do.",
+          "es": "¡Qué voces tan dulces! Más vale morir, más vale pasar hambre, que mendigar una recompensa que ya hemos merecido. ¿Por qué he de estar aquí, con esta toga de lobo, pidiéndoles a Juan y a Pedro sus innecesarios votos de aprobación? La costumbre me obliga. Pero ¿debemos hacer todo lo que manda la costumbre? Entonces el polvo de los tiempos antiguos quedaría sin barrer y el error se amontonaría como una montaña tan alta que la verdad no podría asomar por encima. Antes que hacer semejante papel de necio, prefiero que el alto cargo y sus honores vayan a quien esté dispuesto a hacerlo. Ya he soportado la mitad; soportaré también la otra.",
+          "notes": [
+            {
+              "term": "Most sweet voices",
+              "type": "Ironía",
+              "title": "La dulzura de los votos",
+              "gloss": "¡Qué votos tan dulces!",
+              "body": "El elogio sigue a la salida de los electores y contrasta con el desprecio que Coriolano acaba de manifestar. Interpretación dramática a partir de Folger, Coriolanus II.3, líneas 1491–1495: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/."
+            },
+            {
+              "term": "⌜hire⌝",
+              "type": "Léxico y variante editorial",
+              "title": "Recompensa por el mérito",
+              "gloss": "recompensa; pago",
+              "lemma": "hire",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/hire",
+              "body": "«Hire» designa una remuneración que, a juicio de Coriolano, ya le corresponde por sus servicios. Los corchetes angulares son marcas editoriales de Folger, no palabras pronunciadas; Shakespeare Online imprime «hire» sin esas marcas. Folger II.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; Shakespeare Online II.3: https://www.shakespeare-online.com/plays/corio_2_3.html."
+            },
+            {
+              "term": "woolvish ⌜toge⌝",
+              "type": "Imagen y léxico",
+              "title": "La toga de lobo",
+              "gloss": "toga lobuna",
+              "body": "«Woolvish» relaciona la vestimenta electoral con el lobo; la combinación puede sugerir una hostilidad incompatible con la humildad que exige el traje. «Toge» es una forma de «toga», no debe sustituirse silenciosamente por el inglés actual. Folger II.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; cotejo: https://www.shakespeare-online.com/plays/corio_2_3.html."
+            },
+            {
+              "term": "Hob and Dick",
+              "type": "Onomástica social",
+              "title": "Nombres genéricos",
+              "gloss": "Juan y Pedro; ciudadanos cualesquiera",
+              "body": "La pareja de nombres propios designa despectivamente a ciudadanos corrientes, sin identificar a dos personajes concretos. Folger, Coriolanus II.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/."
+            },
+            {
+              "term": "needless vouches",
+              "type": "Léxico político",
+              "title": "Aprobaciones que juzga superfluas",
+              "gloss": "votos de aprobación innecesarios",
+              "body": "«Vouches» alude al respaldo o testimonio de los electores. «Needless» expresa la valoración de Coriolano, no una constatación jurídica: la ceremonia exige los votos. Folger II.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/."
+            },
+            {
+              "term": "mountainous error",
+              "type": "Metáfora argumentativa",
+              "title": "El error acumulado",
+              "gloss": "error amontonado como una montaña",
+              "body": "El polvo no barrido de la antigüedad se transforma en una montaña de errores que impediría que la verdad sobresaliera: crítica a seguir toda costumbre sin examen. Folger II.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/."
+            },
+            {
+              "term": "o’erpeer",
+              "type": "Morfología y metáfora",
+              "title": "Asomarse por encima",
+              "gloss": "sobresalir; alcanzar a mirar por encima",
+              "lemma": "overpeer",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/overpeer",
+              "body": "Forma contraída de «overpeer»; la verdad aparece personificada como algo que intenta elevarse por encima de los errores acumulados. Folger II.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/."
+            },
+            {
+              "term": "fool it so",
+              "type": "Construcción verbal",
+              "title": "Hacer el papel de necio",
+              "gloss": "hacer el ridículo de ese modo",
+              "lemma": "fool",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/fool",
+              "body": "«Fool it» funciona como giro verbal: comportarse como un necio, no engañar a una persona determinada. Folger II.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/."
+            }
+          ]
+        }      ]
     }
   ]
 };
