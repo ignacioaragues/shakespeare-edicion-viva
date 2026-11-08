@@ -7928,7 +7928,7 @@ window.SHAKESPEARE_READER_DATA = {
       "scene": 2,
       "place": "Roma · El Capitolio",
       "sourceRef": "Folger Shakespeare Library · Acto II, escena 2",
-      "sectionLabel": "Edición en curso · líneas 1184–1321",
+      "sectionLabel": "Edición en curso · líneas 1184–1334",
       "introduction": "Dos oficiales discuten el mérito militar y la hostilidad de Coriolano hacia el pueblo. La conversación concluye con la entrada ceremonial del Senado.",
       "stage": "Entran dos oficiales para colocar cojines en el Capitolio.",
       "characters": [
@@ -8798,7 +8798,7 @@ window.SHAKESPEARE_READER_DATA = {
         },
         {
           "line": "1323–1324",
-          "speaker": "first_senator",
+          "speaker": "senator1",
           "en": "He cannot but with measure fit the honors\nWhich we devise him.",
           "es": "No cabe duda de que estará a la altura de los honores que pensamos concederle.",
           "notes": [
@@ -8876,14 +8876,14 @@ window.SHAKESPEARE_READER_DATA = {
         },
         {
           "line": "1333",
-          "speaker": "first_senator",
+          "speaker": "senator1",
           "en": "Call Coriolanus.",
           "es": "Llamen a Coriolano.",
           "notes": []
         },
         {
           "line": "1334",
-          "speaker": "officer",
+          "speaker": "officer1",
           "en": "He doth appear.",
           "es": "Ya se presenta.",
           "stageAfter": "Entra Coriolano.",
