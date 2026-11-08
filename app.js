@@ -471,6 +471,7 @@
   function showView() {
     const hash = window.location.hash.toLowerCase();
     const reading = hash.startsWith('#coriolanus');
+    const wasReading = !$('app-shell').hidden;
     const requestedAct = hash.match(/^#coriolanus-act-(\d+)$/);
     const requestedScene = hash.match(/^#coriolanus-(\d+)-(\d+)$/);
     if (reading) {
@@ -485,8 +486,10 @@
         selectScene(scene, false);
       }
     }
+    if (wasReading && !reading) window.dispatchEvent(new Event('edicion-viva:reading-exit'));
     $('home-screen').hidden = reading;
     $('app-shell').hidden = !reading;
+    if (!wasReading && reading) window.dispatchEvent(new Event('edicion-viva:reading-enter'));
     if (!reading) {
       closeNote();
       if (!$('modal-backdrop').hidden) closeModal();

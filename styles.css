@@ -21,7 +21,7 @@ a{color:inherit}
 .brand-name small{letter-spacing:.24em;font-size:9px;color:var(--accent);font-weight:700}
 .topbar-center{text-align:center;font-family:var(--serif);font-size:10px;color:var(--ink-pale);font-style:italic}
 .topbar-actions{display:flex;justify-content:flex-end;align-items:center;padding-right:21px}
-.source-button{border:0;background:transparent;color:#8b9087;margin-right:13px;font-size:10px;letter-spacing:.04em}
+.source-button{border:0;background:transparent;color:#8b9087;margin-right:13px;font-size:10px;letter-spacing:.04em;text-decoration:none}
 .source-button:hover{color:var(--accent)}
 .top-button{height:32px;min-width:32px;border:1px solid var(--line);background:transparent;color:var(--ink-mid);border-radius:50%;font-size:14px}
 .top-button:hover{border-color:var(--accent);color:var(--accent)}
@@ -69,6 +69,11 @@ a{color:inherit}
 .reading-location-label{color:#92968d;font-size:9px;letter-spacing:.09em;margin-top:16px;line-height:1.4}
 .reading-manual{margin-top:23px;padding-top:3px;border-top:1px solid #e1e2da}
 .reading-manual .progress-bar{margin-top:12px}
+.reading-stats{margin:23px 0 12px;border-top:1px solid var(--line);padding-top:15px}
+.reading-stats-heading{color:var(--accent)!important;font-size:9px!important;letter-spacing:.13em;font-weight:700;margin:0 0 13px}
+.reading-stats p:not(.reading-stats-heading){display:flex;justify-content:space-between;align-items:baseline;gap:7px;font-size:10px;color:var(--ink-mid);margin:10px 0}
+.reading-stats strong{font:11px var(--serif);color:var(--ink);white-space:nowrap}
+.readings-detail-link{display:inline-block;color:var(--green);font-size:10px;line-height:1.65;text-underline-offset:4px;margin-top:8px}
 .quiet-note{font-size:10px;line-height:1.6;color:#a5a69f;margin-top:12px}
 .main-content{grid-column:2;grid-row:2;min-width:0;padding:0 38px 44px}
 .reader-heading{padding-top:49px}
@@ -277,3 +282,4 @@ body.dividers-on .inline-stage,body.dividers-on .stage-direction{border-bottom:1
 @media(max-width:640px){.reader-end{align-items:flex-start;flex-direction:column}.reader-end-actions{width:100%;justify-content:flex-start}.reader-end button{flex:1}.act-scene-heading{padding:24px 4px 12px}.act-scene-place{font-size:10px}}
 
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*::before,*::after{animation-duration:.01ms!important;transition-duration:.01ms!important}}
+@media(max-width:460px){.topbar-actions .readings-link{display:none}}

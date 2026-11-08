@@ -32,6 +32,8 @@ The Spanish translations and Spanish critical notes in this sample are newly aut
 
 No server-side accounts or remote user data: reader preferences and bookmarks are stored locally in the browser. Permanent library updates require publishing a new version of the website.
 
+The reading-time panel is integrated with the general Edición Viva library. `index.html` loads `../edicion-viva/reading-tracker.js` from the companion GitHub Pages project. Preserve `data-reading-id="shakespeare-coriolanus"`, `data-reading-title` and `data-reading-active-selector="#app-shell"` on `<body>`, as well as the `edicion-viva:reading-exit`/`enter` events when switching between the landing page and the play. The public reading log is at `../edicion-viva/mis-lecturas.html`, with per-work daily and weekly charts. Reading records use browser-local storage shared between the two paths under `ignacioaragues.github.io`; transferring records to another device still requires JSON export/import.
+
 ## Publishing on GitHub Pages
 
 This repository is a static site ready to publish directly from its root directory on the `main` branch. In repository settings, choose **Pages → Deploy from a branch → main / (root)**. The page uses only relative paths, so it works at a GitHub project URL without a custom domain.

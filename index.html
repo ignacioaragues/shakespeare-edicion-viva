@@ -9,9 +9,9 @@
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet" />
-  <link rel="stylesheet" href="./styles.css?v=20261107-15" />
+  <link rel="stylesheet" href="./styles.css?v=20261108-reading" />
 </head>
-<body>
+<body data-reading-id="shakespeare-coriolanus" data-reading-title="Shakespeare · Coriolanus" data-reading-active-selector="#app-shell">
   <section class="home-screen" id="home-screen" aria-labelledby="home-title">
     <header class="home-topbar">
       <div class="home-identity"><span class="home-monogram" aria-hidden="true">S<span>·</span></span><span class="home-wordmark">SHAKESPEARE<small>EDICIÓN VIVA</small></span></div>
@@ -46,6 +46,7 @@
       </button>
       <div class="topbar-center" aria-hidden="true"></div>
       <div class="topbar-actions">
+        <a class="source-button readings-link" href="../edicion-viva/mis-lecturas.html">Mis lecturas</a>
         <button class="source-button" id="source-button" type="button">Fuentes</button>
         <button class="top-button help-button" id="help-button" aria-label="Cómo usar el lector" title="Cómo usar el lector">?</button>
         <button class="top-button mobile-contents-button" id="mobile-contents-button" aria-label="Mostrar contenidos" aria-expanded="false">☰ <span>Obras</span></button>
@@ -82,6 +83,13 @@
             <div class="progress-bar" aria-label="Progreso marcado"><span id="progress-fill"></span></div>
             <div class="progress-copy" id="progress-copy">Todavía no hay un marcador.</div>
             <button class="resume-button" id="resume-button" disabled>Ir al marcador <span>→</span></button>
+          </div>
+          <div class="reading-stats" aria-label="Tiempo de lectura">
+            <p class="reading-stats-heading">TIEMPO DE LECTURA</p>
+            <p><span>Hoy</span><strong id="reading-today">0 min</strong></p>
+            <p><span>Esta sesión</span><strong id="reading-session">0 min</strong></p>
+            <p><span>En esta obra</span><strong id="reading-total">0 min</strong></p>
+            <a href="../edicion-viva/mis-lecturas.html" class="readings-detail-link">Ver registro diario y semanal ↗</a>
           </div>
           </div>
         </div>
@@ -150,6 +158,7 @@
     </div>
   </div>
   <script src="./data.js?v=20261108-03"></script>
-  <script src="./app.js?v=20261107-14"></script>
+  <script src="./app.js?v=20261108-reading"></script>
+  <script src="../edicion-viva/reading-tracker.js?v=20261108-1"></script>
 </body>
 </html>
