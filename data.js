@@ -9255,7 +9255,7 @@ window.SHAKESPEARE_READER_DATA = {
       "scene": 3,
       "place": "Roma · Plaza del mercado",
       "sourceRef": "Folger Shakespeare Library · Acto II, escena 3",
-      "sectionLabel": "Edición en curso · líneas 1374–1410",
+      "sectionLabel": "Edición en curso · líneas 1374–1423",
       "introduction": "Antes de que Coriolano solicite sus votos, los ciudadanos debaten hasta qué punto son libres de negárselos y qué exige la gratitud pública.",
       "stage": "Entran siete u ocho ciudadanos.",
       "characters": [
@@ -9278,6 +9278,27 @@ window.SHAKESPEARE_READER_DATA = {
           "name": "Tercer ciudadano",
           "english": "Third Citizen",
           "identity": "Reflexiona irónicamente sobre la libertad del voto y el deber de gratitud.",
+          "color": "slate"
+        },
+        {
+          "id": "coriolanus",
+          "name": "Coriolano",
+          "english": "Coriolanus",
+          "identity": "General romano propuesto para el consulado; entra para solicitar los votos populares.",
+          "color": "copper"
+        },
+        {
+          "id": "menenius",
+          "name": "Menenio Agripa",
+          "english": "Menenius Agrippa",
+          "identity": "Patricio y consejero de Coriolano, que lo acompaña durante el rito electoral.",
+          "color": "olive"
+        },
+        {
+          "id": "all",
+          "name": "Ciudadanos · a coro",
+          "english": "All",
+          "identity": "Los ciudadanos responden colectivamente antes de retirarse.",
           "color": "slate"
         }
       ],
@@ -9520,6 +9541,78 @@ window.SHAKESPEARE_READER_DATA = {
               "type": "Pragmática",
               "title": "Aceptación resignada",
               "body": "La repetición puede interpretarse como una concesión ante la burla, no como permiso literal. Folger, II.3, líneas 1409–1410, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/."
+            }
+          ]
+        },
+        {
+          "line": "1411–1414",
+          "speaker": "citizen3",
+          "en": "Are you all resolved to give your voices?\nBut that’s no matter; the greater part carries it. I\nsay, if he would incline to the people, there was\nnever a worthier man.",
+          "es": "¿Están todos decididos a darle sus votos? Pero eso no importa: prevalece la mayoría. Digo que, si se mostrara favorable al pueblo, jamás habría habido un hombre más digno.",
+          "notes": [
+            {
+              "term": "give your voices",
+              "type": "Léxico político",
+              "title": "Dar el voto",
+              "body": "«Voices» designa los votos individuales de los ciudadanos. Folger Shakespeare Library, Coriolanus, II.3, líneas 1411–1414: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/."
+            },
+            {
+              "term": "the greater part carries it",
+              "type": "Procedimiento electoral",
+              "title": "Decide la mayoría",
+              "body": "El tercer ciudadano considera decisivo el parecer mayoritario, aunque acaba de preguntar si todos están de acuerdo. Es la regla que enuncia el personaje, no una descripción exhaustiva de los comicios romanos. Folger, Coriolanus, II.3, 1412: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/."
+            },
+            {
+              "term": "incline to the people",
+              "type": "Interpretación",
+              "title": "Una condición política",
+              "body": "«Incline» expresa una disposición favorable hacia el pueblo, no un movimiento físico. El elogio de su mérito queda condicionado a una actitud que los ciudadanos no le reconocen. Cotejo: Shakespeare Online, II.3: https://www.shakespeare-online.com/plays/corio_2_3.html."
+            }
+          ]
+        },
+        {
+          "line": "1415–1422",
+          "speaker": "citizen3",
+          "en": "⌜Enter Coriolanus in a gown of humility, with Menenius.⌝\nHere he comes, and in the gown of humility. Mark\nhis behavior. We are not to stay all together, but to\ncome by him where he stands, by ones, by twos,\nand by threes. He’s to make his requests by particulars,\nwherein every one of us has a single honor\nin giving him our own voices with our own tongues.\nTherefore follow me, and I’ll direct you how you\nshall go by him.",
+          "es": "⌜Entran Coriolano, vestido con la toga de la humildad, y Menenio.⌝\nAhí viene, y lleva la toga de la humildad. Observen cómo se comporta. No debemos quedarnos todos juntos, sino pasar ante él, donde está de pie, de uno en uno, de dos en dos o de tres en tres. Tiene que formular sus peticiones a cada persona por separado; así, cada uno de nosotros tiene el honor particular de concederle su propio voto con su propia voz. Por eso, síganme: les indicaré cómo deben pasar ante él.",
+          "notes": [
+            {
+              "term": "gown of humility",
+              "type": "Fuente histórica",
+              "title": "La vestimenta del candidato",
+              "body": "Plutarco, Vida de Coriolano 14.1, describe la costumbre de solicitar votos en el foro con toga y sin túnica debajo, bien como señal de humildad, bien para mostrar las heridas. La expresión dramática «gown of humility» es de Shakespeare; no debe identificarse sin matices con una descripción uniforme de toda elección romana. Plutarco, trad. Bernadotte Perrin, Loeb Classical Library, 1916: https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Coriolanus%2A.html."
+            },
+            {
+              "term": "Mark his behavior",
+              "type": "Dramaturgia",
+              "title": "Observar al candidato",
+              "body": "La invitación a observar el comportamiento de Coriolano anticipa que el modo de pedir los votos será tan importante como sus méritos. Folger, Coriolanus, II.3, 1415–1416: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/."
+            },
+            {
+              "term": "by particulars",
+              "type": "Sintaxis y léxico",
+              "title": "Peticiones individuales",
+              "body": "«By particulars» señala la solicitud a personas concretas, no una petición dirigida a toda la asamblea. La enumeración «by ones, by twos, and by threes» organiza escénicamente la circulación de votantes. Folger, II.3, 1417–1420: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/."
+            },
+            {
+              "term": "single honor",
+              "type": "Retórica política",
+              "title": "La dignidad de cada voz",
+              "body": "«Single» individualiza el honor de votar: el ciudadano insiste en que cada uno ejerce su propia voz, frente a la descalificación de la multitud como un único monstruo de muchas cabezas. Es una lectura de la contraposición dramática, no una afirmación histórica. Folger, II.3, 1419–1420: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/."
+            }
+          ]
+        },
+        {
+          "line": "1423",
+          "speaker": "all",
+          "en": "Content, content. ⌜Citizens exit.⌝",
+          "es": "De acuerdo, de acuerdo. ⌜Salen los ciudadanos.⌝",
+          "notes": [
+            {
+              "term": "Content",
+              "type": "Léxico",
+              "title": "Conformes",
+              "body": "«Content» funciona aquí como respuesta colectiva de asentimiento («de acuerdo»), no como sustantivo. Folger, Coriolanus, II.3, 1423: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/."
             }
           ]
         }
