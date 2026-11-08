@@ -7928,7 +7928,7 @@ window.SHAKESPEARE_READER_DATA = {
       "scene": 2,
       "place": "Roma · El Capitolio",
       "sourceRef": "Folger Shakespeare Library · Acto II, escena 2",
-      "sectionLabel": "Edición en curso · líneas 1184–1280",
+      "sectionLabel": "Edición en curso · líneas 1184–1321",
       "introduction": "Dos oficiales discuten el mérito militar y la hostilidad de Coriolano hacia el pueblo. La conversación concluye con la entrada ceremonial del Senado.",
       "stage": "Entran dos oficiales para colocar cojines en el Capitolio.",
       "characters": [
@@ -8645,6 +8645,140 @@ window.SHAKESPEARE_READER_DATA = {
               "type": "Elipsis y contraste",
               "title": "one on ’s ears",
               "body": "«One» retoma «limbs» de forma jocosa y el giro dirige la atención a los oídos: el héroe soporta el peligro físico, pero rehúye escuchar su elogio."
+            }
+          ]
+        },
+        {
+          "line": "1281–1321",
+          "speaker": "cominius",
+          "en": "I shall lack voice. The deeds of Coriolanus\nShould not be uttered feebly. It is held\nThat valor is the chiefest virtue and\nMost dignifies the haver; if it be,\nThe man I speak of cannot in the world\nBe singly counterpoised. At sixteen years,\nWhen Tarquin made a head for Rome, he fought\nBeyond the mark of others. Our then dictator,\nWhom with all praise I point at, saw him fight\nWhen with his Amazonian chin he drove\nThe bristled lips before him. He bestrid\nAn o’erpressed Roman and i’ th’ Consul’s view\nSlew three opposers. Tarquin’s self he met\nAnd struck him on his knee. In that day’s feats,\nWhen he might act the woman in the scene,\nHe proved best man i’ th’ field and for his meed\nWas brow-bound with the oak. His pupil age\nMan-entered thus, he waxèd like a sea,\nAnd in the brunt of seventeen battles since\nHe lurched all swords of the garland. For this last,\nBefore and in Corioles, let me say,\nI cannot speak him home. He stopped the flyers\nAnd by his rare example made the coward\nTurn terror into sport. As weeds before\nA vessel under sail, so men obeyed\nAnd fell below his stem. His sword, Death’s stamp,\nWhere it did mark, it took; from face to foot\nHe was a thing of blood, whose every motion\nWas timed with dying cries. Alone he entered\nThe mortal gate o’ th’ city, which he painted\nWith shunless destiny; aidless came off\nAnd with a sudden reinforcement struck\nCorioles like a planet. Now all’s his,\nWhen by and by the din of war gan pierce\nHis ready sense; then straight his doubled spirit\nRequickened what in flesh was fatigate,\nAnd to the battle came he, where he did\nRun reeking o’er the lives of men as if\n’Twere a perpetual spoil; and till we called\nBoth field and city ours, he never stood\nTo ease his breast with panting.",
+          "es": "Me faltará voz. Las hazañas de Coriolano no deben relatarse con debilidad. Se considera que el valor es la primera de las virtudes y la que más ennoblece a quien la posee. Si es así, no hay en el mundo hombre que, por sí solo, pueda igualar al que voy a describir. A los dieciséis años, cuando Tarquino reunió fuerzas contra Roma, combatió mejor que todos los demás. Nuestro dictador de entonces, a quien recuerdo con toda alabanza, lo vio luchar: todavía imberbe, hacía retroceder a guerreros de barbas erizadas. Se plantó sobre un romano abrumado por los enemigos y, a la vista del cónsul, mató a tres adversarios. Se enfrentó al propio Tarquino y lo hizo caer de rodillas. Aquel día, cuando por su juventud podría haber representado un papel femenino en el teatro, demostró ser el mejor hombre del campo de batalla y recibió como premio una corona de hojas de roble. Así entró en la edad adulta, todavía aprendiz, y desde entonces creció como el mar: en el fragor de otras diecisiete batallas arrebató a todas las espadas la corona de la victoria. En cuanto a la última campaña, frente a Corioles y dentro de sus muros, confieso que mis palabras no alcanzan a hacerle justicia. Detuvo a los que huían y, con su extraordinario ejemplo, hizo que los cobardes tomaran el terror por un juego. Como las algas que ceden ante la proa de un barco a toda vela, los hombres cedían y caían bajo su avance. Su espada era el sello de la Muerte: donde dejaba su marca, cobraba una vida. De la cabeza a los pies era una figura cubierta de sangre, y cada movimiento suyo llevaba el compás de los gritos de los moribundos. Entró solo por la puerta mortal de la ciudad, que tiñó con un destino imposible de eludir; salió sin ayuda y, al regresar con refuerzos repentinos, golpeó Corioles como un astro. Ya parecía tenerlo todo ganado cuando el estruendo de la batalla volvió a penetrar en sus atentos oídos. Entonces, su ánimo redoblado devolvió fuerzas a su cuerpo exhausto, y regresó al combate, corriendo entre las vidas de los hombres, empapado en sangre, como si el botín no fuera a terminar nunca. Hasta que proclamamos nuestros tanto el campo como la ciudad, no se detuvo siquiera a recobrar el aliento.",
+          "notes": [
+            {
+              "term": "lack voice",
+              "type": "Retórica",
+              "title": "La voz insuficiente",
+              "body": "Cominio abre con una declaración de insuficiencia expresiva: el elogio será necesariamente menor que las hazañas."
+            },
+            {
+              "term": "chiefest virtue",
+              "type": "Ética y retórica",
+              "title": "La virtud principal",
+              "body": "El orador presenta la primacía del valor como una opinión recibida («It is held»), no como una afirmación neutral del editor."
+            },
+            {
+              "term": "singly counterpoised",
+              "type": "Léxico",
+              "title": "Sin contrapeso individual",
+              "body": "«Counterpoised» pertenece a la imagen de la balanza; «singly» limita la comparación a un solo rival."
+            },
+            {
+              "term": "made a head",
+              "type": "Locución histórica",
+              "title": "Reunir fuerzas",
+              "body": "«Make a head» significa reunir una fuerza armada para resistir o atacar; no se refiere literalmente a una cabeza."
+            },
+            {
+              "term": "Amazonian chin",
+              "type": "Alusión cultural",
+              "title": "Barbilla de amazona",
+              "body": "La comparación con las amazonas alude a un mentón juvenil sin barba, en contraste con los guerreros de «bristled lips»."
+            },
+            {
+              "term": "He bestrid",
+              "type": "Gesto de combate",
+              "title": "Cubrir a un compañero",
+              "body": "«Bestride» es colocarse a horcajadas o sobre alguien; aquí implica defender al romano caído o acosado."
+            },
+            {
+              "term": "struck him on his knee",
+              "type": "Sintaxis",
+              "title": "Hacerlo arrodillarse",
+              "body": "La formulación permite entender que el golpe obligó a Tarquino a caer sobre una rodilla; no precisa la parte del cuerpo golpeada."
+            },
+            {
+              "term": "act the woman in the scene",
+              "type": "Historia teatral",
+              "title": "Papel femenino",
+              "body": "Alude a la convención del teatro inglés de que muchachos representaran papeles femeninos; Cominio contrapone juventud y valentía."
+            },
+            {
+              "term": "brow-bound with the oak",
+              "type": "Costumbre romana",
+              "title": "Corona de roble",
+              "body": "La corona cívica romana de roble se asociaba con salvar a un ciudadano en combate; el discurso la presenta como recompensa."
+            },
+            {
+              "term": "His pupil age",
+              "type": "Metáfora",
+              "title": "Edad de aprendiz",
+              "body": "«Pupil» subraya que el joven estaba aún aprendiendo, aunque ya había demostrado su capacidad militar."
+            },
+            {
+              "term": "waxèd like a sea",
+              "type": "Imagen",
+              "title": "Crecer como el mar",
+              "body": "«Wax» significa crecer o aumentar; el mar sugiere una fuerza que se expande y se intensifica."
+            },
+            {
+              "term": "lurched all swords of the garland",
+              "type": "Léxico y figura",
+              "title": "Arrebatar la corona",
+              "body": "«Lurch» puede expresar despojar o superar; «garland» representa el premio o la victoria, no una guirnalda material arrebatada a cada espada."
+            },
+            {
+              "term": "speak him home",
+              "type": "Idioma histórico",
+              "title": "Hacer justicia con palabras",
+              "body": "«Home» intensifica la idea de expresar plenamente: Cominio confiesa que no puede describirlo de manera adecuada."
+            },
+            {
+              "term": "flyers",
+              "type": "Léxico militar",
+              "title": "Los fugitivos",
+              "body": "«Flyers» designa a quienes huyen del combate, no a personas que vuelan."
+            },
+            {
+              "term": "weeds before",
+              "type": "Símil naval",
+              "title": "Algas y proa",
+              "body": "La imagen compara a los enemigos con vegetación marina desplazada por un barco en movimiento; «stem» es la proa."
+            },
+            {
+              "term": "Death’s stamp",
+              "type": "Personificación",
+              "title": "Sello de la Muerte",
+              "body": "La espada aparece como instrumento que imprime una marca mortal; la personificación intensifica la violencia del relato."
+            },
+            {
+              "term": "shunless destiny",
+              "type": "Formación léxica",
+              "title": "Destino inevitable",
+              "body": "«Shunless» significa imposible de esquivar; «destiny» se asocia aquí con la muerte en la puerta de la ciudad."
+            },
+            {
+              "term": "like a planet",
+              "type": "Imagen astral",
+              "title": "Como un astro",
+              "body": "El símil atribuye a la acometida una fuerza de alcance cósmico; no exige identificar un planeta determinado."
+            },
+            {
+              "term": "gan pierce",
+              "type": "Gramática histórica",
+              "title": "Comenzó a penetrar",
+              "body": "«Gan» es una forma abreviada de «began», frecuente en el verso."
+            },
+            {
+              "term": "fatigate",
+              "type": "Léxico histórico",
+              "title": "Exhausto",
+              "body": "«Fatigate» es una forma de «fatigued»: cansado o agotado; «requickened» indica que el espíritu reanima el cuerpo."
+            },
+            {
+              "term": "perpetual spoil",
+              "type": "Léxico bélico",
+              "title": "Botín inagotable",
+              "body": "«Spoil» alude al despojo o botín de guerra; la hipérbole sugiere una matanza que parece no terminar."
             }
           ]
         }
