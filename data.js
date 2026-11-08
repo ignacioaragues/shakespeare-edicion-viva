@@ -9255,7 +9255,7 @@ window.SHAKESPEARE_READER_DATA = {
       "scene": 3,
       "place": "Roma · Plaza del mercado",
       "sourceRef": "Folger Shakespeare Library · Acto II, escena 3",
-      "sectionLabel": "Edición en curso · líneas 1374–1442",
+      "sectionLabel": "Edición en curso · líneas 1374–1462",
       "introduction": "Antes de que Coriolano solicite sus votos, los ciudadanos debaten hasta qué punto son libres de negárselos y qué exige la gratitud pública.",
       "stage": "Entran siete u ocho ciudadanos.",
       "characters": [
@@ -9778,6 +9778,242 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "Desprecio corporal",
               "body": "La recomendación de higiene, tras la súplica de cortesía de Menenio, funciona como insulto a los electores. Es una interpretación contextual. Fuentes: Folger Shakespeare Library, Coriolanus II.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/); cotejo: Shakespeare Online (https://www.shakespeare-online.com/plays/corio_2_3.html).",
               "gloss": "que se laven la cara"
+            }
+          ]
+        },
+        {
+          "line": "1443–1444",
+          "speaker": "coriolanus",
+          "en": "⌜Enter three of the Citizens.⌝\nSo, here comes a brace.—\nYou know the cause, sir, of my standing here.",
+          "es": "⌜Entran tres ciudadanos.⌝\nBien, aquí viene un par. Ya sabe usted, señor, por qué estoy aquí.",
+          "notes": [
+            {
+              "term": "brace",
+              "type": "Léxico",
+              "title": "Un par",
+              "body": "«Brace» designa un par; la acotación menciona tres ciudadanos, pero Coriolano primero se fija en dos. La discordancia puede representarse mediante entradas escalonadas; no conviene corregir silenciosamente la acotación. Folger, Coriolanus II.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; cotejo de la atribución de parlamentos: https://www.shakespeare-online.com/plays/corio_2_3.html.",
+              "gloss": "un par"
+            },
+            {
+              "term": "cause",
+              "type": "Pragmática",
+              "title": "El motivo de su presencia",
+              "body": "El candidato presupone que los electores conocen el motivo de su presencia; su manera de hablar evita formular la petición esperada. Folger, Coriolanus II.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; cotejo de la atribución de parlamentos: https://www.shakespeare-online.com/plays/corio_2_3.html.",
+              "gloss": "motivo; razón"
+            }
+          ]
+        },
+        {
+          "line": "1445",
+          "speaker": "citizen3",
+          "en": "We do, sir. Tell us what hath brought you to ’t.",
+          "es": "Lo sabemos, señor. Díganos qué lo ha traído hasta aquí.",
+          "notes": [
+            {
+              "term": "hath",
+              "type": "Morfología histórica",
+              "title": "Tercera persona singular",
+              "body": "«Hath» equivale al actual «has», tercera persona singular del presente de «have». Folger, Coriolanus II.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; entrada léxica: https://en.wiktionary.org/wiki/have; cotejo de la atribución de parlamentos: https://www.shakespeare-online.com/plays/corio_2_3.html.",
+              "gloss": "ha",
+              "lemma": "have",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/have"
+            }
+          ]
+        },
+        {
+          "line": "1446",
+          "speaker": "coriolanus",
+          "en": "Mine own desert.",
+          "es": "Mis propios méritos.",
+          "notes": [
+            {
+              "term": "desert",
+              "type": "Léxico",
+              "title": "Mérito, no desierto",
+              "body": "El sustantivo «desert» designa lo que uno merece por sus acciones. La respuesta desplaza la atención de la voluntad popular a los servicios prestados. Folger, Coriolanus II.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; entrada léxica: https://en.wiktionary.org/wiki/desert; cotejo de la atribución de parlamentos: https://www.shakespeare-online.com/plays/corio_2_3.html.",
+              "gloss": "mérito; merecimiento",
+              "lemma": "desert",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/desert"
+            }
+          ]
+        },
+        {
+          "line": "1447",
+          "speaker": "citizen2",
+          "en": "Your own desert?",
+          "es": "¿Sus propios méritos?",
+          "notes": []
+        },
+        {
+          "line": "1448",
+          "speaker": "coriolanus",
+          "en": "Ay, but ⌜not⌝ mine own desire.",
+          "es": "Sí, pero no mi propio deseo.",
+          "notes": [
+            {
+              "term": "⌜not⌝",
+              "type": "Crítica textual",
+              "title": "Adición editorial señalada",
+              "body": "Los corchetes angulares de Folger señalan una intervención editorial: «not» se presenta como palabra añadida en el texto de lectura. La oposición «desert / desire» depende de esta negación en la formulación editada. Folger, Coriolanus II.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; cotejo de la atribución de parlamentos: https://www.shakespeare-online.com/plays/corio_2_3.html.",
+              "gloss": "no"
+            }
+          ]
+        },
+        {
+          "line": "1449",
+          "speaker": "citizen3",
+          "en": "How, not your own desire?",
+          "es": "¿Cómo que no es su propio deseo?",
+          "notes": []
+        },
+        {
+          "line": "1450–1451",
+          "speaker": "coriolanus",
+          "en": "No, sir, ’twas never my desire yet to trouble\nthe poor with begging.",
+          "es": "No, señor. Nunca he deseado molestar a los pobres mendigándoles nada.",
+          "notes": [
+            {
+              "term": "the poor",
+              "type": "Ironía social",
+              "title": "Los pobres como electores",
+              "body": "El patricio convierte la solicitud de votos en una escena de mendicidad: se presenta como alguien que pide a los pobres. La ironía proviene de la inversión de jerarquías. Folger, Coriolanus II.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; cotejo de la atribución de parlamentos: https://www.shakespeare-online.com/plays/corio_2_3.html.",
+              "gloss": "los pobres"
+            },
+            {
+              "term": "’twas",
+              "type": "Morfología histórica",
+              "title": "Contracción de «it was»",
+              "body": "La forma abreviada une el pronombre «it» y el pasado «was». Folger, Coriolanus II.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; entrada léxica: https://en.wiktionary.org/wiki/be; cotejo de la atribución de parlamentos: https://www.shakespeare-online.com/plays/corio_2_3.html.",
+              "gloss": "era; fue",
+              "lemma": "be",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/be"
+            }
+          ]
+        },
+        {
+          "line": "1452–1453",
+          "speaker": "citizen3",
+          "en": "You must think if we give you anything,\nwe hope to gain by you.",
+          "es": "Debe comprender que, si le concedemos algo, esperamos obtener algo de usted.",
+          "notes": [
+            {
+              "term": "gain by you",
+              "type": "Pragmática política",
+              "title": "Reciprocidad del voto",
+              "body": "El ciudadano expresa una expectativa de beneficio del cargo; la frase no establece por sí misma un soborno literal, sino una relación política de reciprocidad. Folger, Coriolanus II.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; cotejo de la atribución de parlamentos: https://www.shakespeare-online.com/plays/corio_2_3.html.",
+              "gloss": "obtener algo de usted"
+            }
+          ]
+        },
+        {
+          "line": "1454–1455",
+          "speaker": "coriolanus",
+          "en": "Well then, I pray, your price o’ th’\nconsulship?",
+          "es": "Entonces, díganme, por favor: ¿cuál es su precio por el consulado?",
+          "notes": [
+            {
+              "term": "price",
+              "type": "Retórica",
+              "title": "El voto como transacción",
+              "body": "Coriolano interpreta la expectativa del elector como precio de compra del consulado; la metáfora comercial intensifica su hostilidad ante la petición. Folger, Coriolanus II.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; cotejo de la atribución de parlamentos: https://www.shakespeare-online.com/plays/corio_2_3.html.",
+              "gloss": "precio"
+            },
+            {
+              "term": "o’ th’",
+              "type": "Gramática histórica",
+              "title": "Contracción de «of the»",
+              "body": "Reducción fonética frecuente en el verso y la prosa dramáticos. Folger, Coriolanus II.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; cotejo de la atribución de parlamentos: https://www.shakespeare-online.com/plays/corio_2_3.html.",
+              "gloss": "del"
+            }
+          ]
+        },
+        {
+          "line": "1456",
+          "speaker": "citizen1",
+          "en": "The price is to ask it kindly.",
+          "es": "El precio es que lo pida con cortesía.",
+          "notes": [
+            {
+              "term": "kindly",
+              "type": "Pragmática",
+              "title": "Con amabilidad",
+              "body": "La condición exigida no es dinero: se le pide una fórmula respetuosa. La réplica desactiva la metáfora monetaria anterior. Folger, Coriolanus II.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; cotejo de la atribución de parlamentos: https://www.shakespeare-online.com/plays/corio_2_3.html.",
+              "gloss": "amablemente; con cortesía"
+            }
+          ]
+        },
+        {
+          "line": "1457–1459",
+          "speaker": "coriolanus",
+          "en": "Kindly, sir, I pray, let me ha ’t. I have\nwounds to show you, which shall be yours in\nprivate.—Your good voice, sir. What say you?",
+          "es": "Con toda cortesía, señor, le ruego que me lo conceda. Tengo heridas que mostrarle, y se las enseñaré en privado. Su estimado voto, señor: ¿qué me dice?",
+          "notes": [
+            {
+              "term": "ha ’t",
+              "type": "Contracción",
+              "title": "«Have it» abreviado",
+              "body": "«Ha ’t» representa «have it»: aquí, obtener el consulado mediante el voto. La cortesía resulta deliberadamente mecánica. Folger, Coriolanus II.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; entrada léxica: https://en.wiktionary.org/wiki/have; cotejo de la atribución de parlamentos: https://www.shakespeare-online.com/plays/corio_2_3.html.",
+              "gloss": "obtenerlo",
+              "lemma": "have",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/have"
+            },
+            {
+              "term": "in\nprivate",
+              "type": "Dramaturgia",
+              "title": "Las heridas en privado",
+              "body": "La oferta de exhibir las heridas en privado contrasta con la exhibición pública esperada de los candidatos; puede oírse como burla, no como promesa sincera. Folger, Coriolanus II.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; cotejo de la atribución de parlamentos: https://www.shakespeare-online.com/plays/corio_2_3.html.",
+              "gloss": "en privado"
+            },
+            {
+              "term": "voice",
+              "type": "Léxico político",
+              "title": "Voz y voto",
+              "body": "«Voice» designa el voto del ciudadano, además de su voz literal. El pedido conserva la polisemia central de la escena. Folger, Coriolanus II.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; cotejo de la atribución de parlamentos: https://www.shakespeare-online.com/plays/corio_2_3.html.",
+              "gloss": "voto"
+            }
+          ]
+        },
+        {
+          "line": "1460",
+          "speaker": "citizen2",
+          "en": "You shall ha ’t, worthy sir.",
+          "es": "Lo tendrá, digno señor.",
+          "notes": [
+            {
+              "term": "worthy",
+              "type": "Tratamiento",
+              "title": "Digno señor",
+              "body": "El tratamiento es respetuoso y reconoce el mérito militar que el candidato reivindica. Folger, Coriolanus II.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; cotejo de la atribución de parlamentos: https://www.shakespeare-online.com/plays/corio_2_3.html.",
+              "gloss": "digno; meritorio"
+            }
+          ]
+        },
+        {
+          "line": "1461–1462",
+          "speaker": "coriolanus",
+          "en": "A match, sir. There’s in all two worthy\nvoices begged. I have your alms. Adieu.",
+          "es": "Trato hecho, señor. Ya he mendigado dos valiosos votos en total. He recibido su limosna. Adiós.",
+          "notes": [
+            {
+              "term": "A match",
+              "type": "Fórmula de acuerdo",
+              "title": "Trato hecho",
+              "body": "Expresión que cierra una negociación; prolonga el léxico comercial de «price». Folger, Coriolanus II.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; cotejo de la atribución de parlamentos: https://www.shakespeare-online.com/plays/corio_2_3.html.",
+              "gloss": "trato hecho"
+            },
+            {
+              "term": "alms",
+              "type": "Ironía social",
+              "title": "Limosna electoral",
+              "body": "Llamar «alms» a los votos rebaja la ceremonia a una escena de caridad y refuerza la imagen del candidato obligado a mendigar. Folger, Coriolanus II.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; cotejo de la atribución de parlamentos: https://www.shakespeare-online.com/plays/corio_2_3.html.",
+              "gloss": "limosna"
+            },
+            {
+              "term": "Adieu",
+              "type": "Préstamo francés",
+              "title": "Despedida",
+              "body": "Despedida de origen francés, usada en inglés; aquí cierra bruscamente el encuentro. Folger, Coriolanus II.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; cotejo de la atribución de parlamentos: https://www.shakespeare-online.com/plays/corio_2_3.html.",
+              "gloss": "adiós"
             }
           ]
         }
