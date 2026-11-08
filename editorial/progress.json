@@ -580,13 +580,22 @@
       "last_line": 1219,
       "editorial_state": "translated_source_checked",
       "note": "Three complete officer speeches and Senate entrance; checked against Folger online. Private reference editions not consulted."
+    },
+    {
+      "id": "coriolanus-2-2-1220-1244",
+      "act": 2,
+      "scene": 2,
+      "first_line": 1220,
+      "last_line": 1244,
+      "editorial_state": "translated_source_checked",
+      "note": "Three complete Senate speeches (Menenius, First Senator, Sicinius); Folger online II.2 checked. Private editions not consulted."
     }
   ],
   "next_fragment": {
     "act": 2,
     "scene": 2,
-    "first_line": 1220,
-    "note": "Menenio abre la sesión del Senado."
+    "first_line": 1245,
+    "note": "Bruto condiciona su apoyo al trato de Coriolano hacia el pueblo."
   },
   "completed_acts": [],
   "last_update_commit": null,
