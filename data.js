@@ -7976,6 +7976,13 @@ window.SHAKESPEARE_READER_DATA = {
           "color": "olive"
         },
         {
+          "id": "cominius",
+          "name": "Cominio",
+          "english": "Cominius",
+          "identity": "General romano que pronuncia el elogio militar de Coriolano.",
+          "color": "ink"
+        },
+        {
           "id": "coriolanus",
           "name": "Cayo Marcio Coriolano",
           "english": "Caius Martius Coriolanus",
