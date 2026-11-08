@@ -7945,6 +7945,27 @@ window.SHAKESPEARE_READER_DATA = {
           "english": "Second Officer",
           "identity": "Empleado del Capitolio que defiende la independencia de Coriolano frente a los halagos políticos.",
           "color": "olive"
+        },
+        {
+          "id": "menenius",
+          "name": "Menenio",
+          "english": "Menenius",
+          "color": "gold",
+          "identity": "Patricio romano, amigo de Coriolano."
+        },
+        {
+          "id": "senator1",
+          "name": "Primer senador",
+          "english": "First Senator",
+          "color": "slate",
+          "identity": "Senador romano que preside la deliberación."
+        },
+        {
+          "id": "sicinius",
+          "name": "Sicinio",
+          "english": "Sicinius",
+          "color": "red",
+          "identity": "Tribuno de la plebe."
         }
       ],
       "blocks": [
@@ -8184,6 +8205,151 @@ window.SHAKESPEARE_READER_DATA = {
             }
           ],
           "stageAfter": "Suena una fanfarria. Entran los patricios y los tribunos del pueblo, precedidos por lictores; con ellos, Coriolano, Menenio y Cominio, el cónsul. Los patricios se sientan; Sicinio y Bruto ocupan lugares aparte. Coriolano permanece de pie."
+        },
+        {
+          "line": "1220–1232",
+          "speaker": "menenius",
+          "en": "Having determined of the Volsces and\nTo send for Titus Lartius, it remains,\nAs the main point of this our after-meeting,\nTo gratify his noble service that\nHath thus stood for his country. Therefore please you,\nMost reverend and grave elders, to desire\nThe present consul and last general\nIn our well-found successes to report\nA little of that worthy work performed\nBy Martius Caius Coriolanus, whom\nWe met here both to thank and to remember\nWith honors like himself.",
+          "es": "Una vez resuelto lo relativo a los volscos y acordado llamar a Tito Larcio, nos queda el asunto principal de esta segunda reunión: recompensar los nobles servicios de quien tanto ha defendido a su patria. Por eso, venerables y respetables senadores, les ruego que pidan al actual cónsul, que comandó nuestras recientes y afortunadas campañas, que relate algo de las valiosas hazañas de Cayo Marcio Coriolano, a quien nos hemos reunido aquí para dar las gracias y honrar como merece.",
+          "notes": [
+            {
+              "term": "determined of the Volsces",
+              "type": "Sintaxis",
+              "title": "determined of",
+              "body": "«Determine of» significa decidir o resolver acerca de un asunto. Menenio da por concluida la deliberación sobre los volscos."
+            },
+            {
+              "term": "after-meeting",
+              "type": "Léxico",
+              "title": "after-meeting",
+              "body": "La expresión designa una reunión posterior o una segunda parte de la sesión; no necesariamente una asamblea de distinta naturaleza."
+            },
+            {
+              "term": "gratify",
+              "type": "Semántica histórica",
+              "title": "gratify",
+              "body": "Aquí significa recompensar o reconocer servicios, no simplemente complacer."
+            },
+            {
+              "term": "stood for his country",
+              "type": "Expresión",
+              "title": "stood for his country",
+              "body": "«Stand for» indica haber defendido o sostenido a la patria, con resonancia militar."
+            },
+            {
+              "term": "grave elders",
+              "type": "Tratamiento",
+              "title": "grave elders",
+              "body": "«Grave» denota seriedad y dignidad; «elders» se dirige a los senadores, sin reducirse a una referencia a su edad."
+            },
+            {
+              "term": "last general",
+              "type": "Sintaxis",
+              "title": "last general",
+              "body": "«Last» se refiere al mando de la campaña más reciente; Cominio es también el cónsul en ejercicio."
+            },
+            {
+              "term": "well-found successes",
+              "type": "Léxico",
+              "title": "well-found successes",
+              "body": "Alude a éxitos militares bien logrados o fundados, no a descubrimientos fortuitos."
+            },
+            {
+              "term": "Martius Caius Coriolanus",
+              "type": "Onomástica",
+              "title": "Martius Caius Coriolanus",
+              "body": "La secuencia solemne de nombres destaca el honorífico Coriolano, obtenido por la toma de Corioles."
+            },
+            {
+              "term": "honors like himself",
+              "type": "Retórica",
+              "title": "honors like himself",
+              "body": "La recompensa debe guardar proporción con la valía del homenajeado."
+            }
+          ],
+          "stageAfter": "Coriolano se sienta."
+        },
+        {
+          "line": "1233–1240",
+          "speaker": "senator1",
+          "en": "Speak, good Cominius.\nLeave nothing out for length, and make us think\nRather our state’s defective for requital\nThan we to stretch it out. Masters o’ th’ people,\nWe do request your kindest ears and, after,\nYour loving motion toward the common body\nTo yield what passes here.",
+          "es": "Habla, buen Cominio. No omitas nada por temor a extenderte: preferimos pensar que nuestro Estado no alcanza a recompensarlo debidamente antes que escatimar el reconocimiento. Señores representantes del pueblo, les pedimos que escuchen con la mejor disposición y que después promuevan entre los ciudadanos la aceptación de lo que aquí se acuerde.",
+          "notes": [
+            {
+              "term": "for length",
+              "type": "Sintaxis",
+              "title": "for length",
+              "body": "La preposición introduce el motivo de una posible omisión: por la extensión del relato."
+            },
+            {
+              "term": "defective for requital",
+              "type": "Léxico",
+              "title": "defective for requital",
+              "body": "El Estado podría resultar insuficiente para retribuir los méritos de Coriolano."
+            },
+            {
+              "term": "stretch it out",
+              "type": "Interpretación",
+              "title": "stretch it out",
+              "body": "La oposición retórica contrasta la insuficiencia de la recompensa pública con la posibilidad de exagerar o extender los honores."
+            },
+            {
+              "term": "Masters o’ th’ people",
+              "type": "Tratamiento",
+              "title": "Masters o’ th’ people",
+              "body": "El senador se dirige a los tribunos como representantes del pueblo; «masters» es una fórmula de tratamiento."
+            },
+            {
+              "term": "loving motion",
+              "type": "Léxico político",
+              "title": "loving motion",
+              "body": "«Motion» puede designar una propuesta o iniciativa favorable; se pide a los tribunos que favorezcan la aceptación popular."
+            },
+            {
+              "term": "common body",
+              "type": "Metáfora política",
+              "title": "common body",
+              "body": "La comunidad de ciudadanos se concibe como un cuerpo colectivo."
+            },
+            {
+              "term": "yield what passes here",
+              "type": "Sintaxis",
+              "title": "yield what passes here",
+              "body": "Se espera que el pueblo acepte o ratifique lo acordado en el Senado; «yield» implica conceder o dar curso."
+            }
+          ]
+        },
+        {
+          "line": "1241–1244",
+          "speaker": "sicinius",
+          "en": "We are convented\nUpon a pleasing treaty and have hearts\nInclinable to honor and advance\nThe theme of our assembly.",
+          "es": "Nos han convocado para tratar un asunto grato, y estamos bien dispuestos a honrar y promover el propósito de esta asamblea.",
+          "notes": [
+            {
+              "term": "convented",
+              "type": "Léxico histórico",
+              "title": "convented",
+              "body": "Significa reunidos o convocados; no tiene el sentido moderno de «convento»."
+            },
+            {
+              "term": "pleasing treaty",
+              "type": "Léxico",
+              "title": "pleasing treaty",
+              "body": "«Treaty» es aquí una deliberación o asunto que se trata, no un tratado diplomático."
+            },
+            {
+              "term": "Inclinable",
+              "type": "Forma histórica",
+              "title": "Inclinable",
+              "body": "Equivale a «inclined» o «disposed»: favorablemente dispuestos."
+            },
+            {
+              "term": "theme of our assembly",
+              "type": "Retórica",
+              "title": "theme of our assembly",
+              "body": "«Theme» designa el asunto central de la reunión: el reconocimiento de Coriolano."
+            }
+          ]
         }
       ]
     }
