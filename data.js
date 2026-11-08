@@ -9255,7 +9255,7 @@ window.SHAKESPEARE_READER_DATA = {
       "scene": 3,
       "place": "Roma · Plaza del mercado",
       "sourceRef": "Folger Shakespeare Library · Acto II, escena 3",
-      "sectionLabel": "Edición en curso · líneas 1374–1507",
+      "sectionLabel": "Edición en curso · líneas 1374–1522",
       "introduction": "Antes de que Coriolano solicite sus votos, los ciudadanos debaten hasta qué punto son libres de negárselos y qué exige la gratitud pública.",
       "stage": "Entran siete u ocho ciudadanos.",
       "characters": [
@@ -9299,6 +9299,19 @@ window.SHAKESPEARE_READER_DATA = {
           "name": "Ciudadanos · a coro",
           "english": "All",
           "identity": "Los ciudadanos responden colectivamente antes de retirarse.",
+          "color": "slate"
+        },
+        {
+          "id": "citizen6",
+          "name": "Sexto ciudadano",
+          "english": "Sixth Citizen",
+          "identity": "Reconoce los méritos militares de Coriolano.",
+          "color": "olive"
+        },
+        {
+          "id": "citizen7",
+          "name": "Séptimo ciudadano",
+          "english": "Se suma al apoyo electoral y desea que Coriolano sea amigo del pueblo.",
           "color": "slate"
         }
       ],
@@ -10271,8 +10284,7 @@ window.SHAKESPEARE_READER_DATA = {
               "gloss": "de todo corazón"
             }
           ]
-        }
-,
+        },
         {
           "line": "1495–1507",
           "speaker": "coriolanus",
@@ -10342,7 +10354,122 @@ window.SHAKESPEARE_READER_DATA = {
               "body": "«Fool it» funciona como giro verbal: comportarse como un necio, no engañar a una persona determinada. Folger II.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/."
             }
           ]
-        }      ]
+        },
+        {
+          "line": "1508–1515",
+          "speaker": "coriolanus",
+          "en": "⌜Enter three Citizens more.⌝\nHere come more voices.—\nYour voices! For your voices I have fought;\nWatched for your voices; for your voices bear\nOf wounds two dozen odd. Battles thrice six\nI have seen and heard of; for your voices have\nDone many things, some less, some more. Your\nvoices!\nIndeed, I would be consul.",
+          "es": "Entran otros tres ciudadanos.\nAquí vienen más votos. ¡Sus votos! Por sus votos he luchado; por sus votos he velado; por sus votos llevo más de dos docenas de heridas. He presenciado y oído hablar de dieciocho batallas; por sus votos he hecho muchas cosas, unas de menor importancia y otras de mayor. ¡Sus votos! En efecto, quisiera ser cónsul.",
+          "notes": [
+            {
+              "term": "voices",
+              "type": "Retórica política",
+              "title": "Repetición insistente",
+              "gloss": "votos; voces",
+              "body": "La repetición convierte la solicitud electoral en una enumeración casi mecánica. «Voices» conserva el doble valor de voz y voto; la insistencia puede representarse como parodia de la súplica ritual. Folger, Coriolanus II.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; cotejo: https://www.shakespeare-online.com/plays/corio_2_3.html."
+            },
+            {
+              "term": "Watched",
+              "type": "Léxico",
+              "title": "Vigilia militar",
+              "gloss": "he velado; he permanecido de guardia",
+              "lemma": "watch",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/watch",
+              "body": "Aquí no significa simplemente «mirar», sino mantenerse despierto o vigilante, en paralelo con «fought». Folger, Coriolanus II.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; cotejo: https://www.shakespeare-online.com/plays/corio_2_3.html."
+            },
+            {
+              "term": "two dozen odd",
+              "type": "Numeración",
+              "title": "Más de dos docenas",
+              "gloss": "más de veinticuatro",
+              "body": "«Odd» añadido a una cantidad redonda indica un excedente indeterminado, no que las heridas sean «extrañas». Folger, Coriolanus II.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; cotejo: https://www.shakespeare-online.com/plays/corio_2_3.html."
+            },
+            {
+              "term": "thrice six",
+              "type": "Numeración",
+              "title": "Tres veces seis",
+              "gloss": "dieciocho",
+              "body": "La multiplicación explícita introduce una cuenta enfática de batallas. No debe interpretarse como treinta y seis. Folger, Coriolanus II.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; cotejo: https://www.shakespeare-online.com/plays/corio_2_3.html."
+            },
+            {
+              "term": "some less, some more",
+              "type": "Retórica",
+              "title": "Escala deliberadamente vaga",
+              "gloss": "unas menores, otras mayores",
+              "body": "La fórmula evita especificar las hazañas y refuerza la impresión de un discurso de campaña pronunciado con desgana. Folger, Coriolanus II.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; cotejo: https://www.shakespeare-online.com/plays/corio_2_3.html."
+            }
+          ]
+        },
+        {
+          "line": "1516–1517",
+          "speaker": "citizen6",
+          "en": "He has done nobly, and cannot go\nwithout any honest man’s voice.",
+          "es": "Ha servido noblemente y no puede quedarse sin el voto de ningún hombre honrado.",
+          "notes": [
+            {
+              "term": "honest man’s voice",
+              "type": "Léxico cívico",
+              "title": "El voto del hombre honrado",
+              "gloss": "voto de un hombre honrado",
+              "body": "«Honest» asocia el reconocimiento de los servicios militares con la conducta honorable del elector; es la valoración del ciudadano, no una regla electoral. Folger, Coriolanus II.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; cotejo: https://www.shakespeare-online.com/plays/corio_2_3.html."
+            }
+          ]
+        },
+        {
+          "line": "1518–1520",
+          "speaker": "citizen7",
+          "en": "Therefore let him be consul. The\ngods give him joy, and make him good friend to\nthe people!",
+          "es": "Entonces, que sea cónsul. ¡Que los dioses le concedan felicidad y lo conviertan en un buen amigo del pueblo!",
+          "notes": [
+            {
+              "term": "good friend to the people",
+              "type": "Pragmática política",
+              "title": "Un deseo que anticipa el conflicto",
+              "gloss": "buen amigo del pueblo",
+              "body": "El ciudadano pide una amistad política todavía no demostrada. La súplica contrasta con el desprecio hacia la plebe que Coriolano ha manifestado en la escena. Folger, Coriolanus II.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; cotejo: https://www.shakespeare-online.com/plays/corio_2_3.html."
+            }
+          ]
+        },
+        {
+          "line": "1521",
+          "speaker": "all",
+          "en": "Amen, amen. God save thee, noble consul!\n⌜Citizens exit.⌝",
+          "es": "¡Amén, amén! ¡Que Dios te guarde, noble cónsul!\nSalen los ciudadanos.",
+          "notes": [
+            {
+              "term": "Amen, amen",
+              "type": "Registro religioso",
+              "title": "Aclamación colectiva",
+              "gloss": "amén, amén",
+              "body": "La fórmula cristiana «Amen» aparece en una escena situada en la Roma pagana; se conserva como rasgo del lenguaje dramático de Shakespeare, sin atribuirla a una práctica romana histórica. Folger, Coriolanus II.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; cotejo: https://www.shakespeare-online.com/plays/corio_2_3.html."
+            },
+            {
+              "term": "God save thee",
+              "type": "Fórmula de aclamación",
+              "title": "Bendición y tratamiento singular",
+              "gloss": "que Dios te guarde",
+              "lemma": "thee",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/thee",
+              "body": "«Thee» es pronombre de segunda persona singular en función de objeto. La fórmula resulta anacrónica en el contexto romano, pero es idiomática para el público isabelino-jacobeo. Folger, Coriolanus II.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; cotejo: https://www.shakespeare-online.com/plays/corio_2_3.html."
+            }
+          ]
+        },
+        {
+          "line": "1522",
+          "speaker": "coriolanus",
+          "en": "Worthy voices!\n⌜Enter Menenius, with Brutus and Sicinius.⌝",
+          "es": "¡Votos dignísimos!\nEntra Menenio con Bruto y Sicinio.",
+          "notes": [
+            {
+              "term": "Worthy voices",
+              "type": "Ironía dramática",
+              "title": "La última respuesta de Coriolano",
+              "gloss": "¡Votos dignísimos!",
+              "body": "Tras la aclamación de los ciudadanos, «worthy» puede oírse como un agradecimiento convencional o, dado el tono anterior del personaje, como una nueva ironía. La interpretación depende de la representación. Folger, Coriolanus II.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; cotejo: https://www.shakespeare-online.com/plays/corio_2_3.html."
+            }
+          ]
+        }
+      ]
     }
   ]
 };

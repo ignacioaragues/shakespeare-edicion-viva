@@ -724,13 +724,22 @@
       "last_line": 1507,
       "editorial_state": "translated_source_checked_external_references",
       "note": "Coriolanus soliloquy, 13 Folger lines, one complete speech; Folger checked against Shakespeare Online, selective sourced philological notes. Private reference editions not consulted."
+    },
+    {
+      "id": "coriolanus-2-3-1508-1522",
+      "act": 2,
+      "scene": 3,
+      "first_line": 1508,
+      "last_line": 1522,
+      "editorial_state": "translated_source_checked_external_references",
+      "note": "Five complete blocks; Folger II.3 compared with Shakespeare Online; original Spanish and nine contextual notes with citations; private references not consulted."
     }
   ],
   "next_fragment": {
     "act": 2,
     "scene": 3,
-    "first_line": 1508,
-    "note": "Three citizens enter; Coriolanus resumes the solicitation of votes."
+    "first_line": 1523,
+    "note": "Menenius and the tribunes confirm the votes and direct Coriolanus toward the Senate."
   },
   "completed_acts": [],
   "last_update_commit": null,
