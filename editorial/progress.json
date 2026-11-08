@@ -661,13 +661,22 @@
       "last_line": 1390,
       "editorial_state": "translated_source_checked",
       "note": "Four complete speeches opening II.3; Folger online checked; original Spanish and selective notes; private editions not consulted."
+    },
+    {
+      "id": "coriolanus-2-3-1391-1410",
+      "act": 2,
+      "scene": 3,
+      "first_line": 1391,
+      "last_line": 1410,
+      "editorial_state": "translated_source_checked_external_references",
+      "note": "Six complete speeches on the many-headed multitude, compass and blockhead jokes; Folger online checked against Shakespeare Online; cited variant abram/auburn. Private editions not consulted."
     }
   ],
   "next_fragment": {
     "act": 2,
     "scene": 3,
-    "first_line": 1391,
-    "note": "Third Citizen's reply about the many-headed multitude."
+    "first_line": 1411,
+    "note": "Third Citizen asks whether the citizens are resolved to vote for Coriolanus."
   },
   "completed_acts": [],
   "last_update_commit": null,
