@@ -616,13 +616,22 @@
       "last_line": 1321,
       "editorial_state": "translated_source_checked",
       "note": "Complete 41-line Cominius encomium, one uninterrupted speech; Folger online II.2 checked; original Spanish and selective lexical/rhetorical notes. Private reference editions not consulted."
+    },
+    {
+      "id": "coriolanus-2-2-1322-1334",
+      "act": 2,
+      "scene": 2,
+      "first_line": 1322,
+      "last_line": 1334,
+      "editorial_state": "translated_source_checked",
+      "note": "Six complete speeches, Senate response to Cominius through Coriolanus entrance; Folger online checked; private editions not consulted."
     }
   ],
   "next_fragment": {
     "act": 2,
     "scene": 2,
-    "first_line": 1322,
-    "note": "Menenius and First Senator respond to Cominius' encomium."
+    "first_line": 1335,
+    "note": "Senate nominates Coriolanus for consul and he resists asking the people for votes."
   },
   "completed_acts": [],
   "last_update_commit": null,

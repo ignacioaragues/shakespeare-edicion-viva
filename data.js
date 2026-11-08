@@ -8781,6 +8781,120 @@ window.SHAKESPEARE_READER_DATA = {
               "body": "«Spoil» alude al despojo o botín de guerra; la hipérbole sugiere una matanza que parece no terminar."
             }
           ]
+        },
+        {
+          "line": "1322",
+          "speaker": "menenius",
+          "en": "Worthy man!",
+          "es": "¡Qué hombre tan admirable!",
+          "notes": [
+            {
+              "term": "Worthy man",
+              "type": "Léxico",
+              "title": "Mérito",
+              "body": "«Worthy» elogia el mérito de Coriolano; no designa su riqueza."
+            }
+          ]
+        },
+        {
+          "line": "1323–1324",
+          "speaker": "first_senator",
+          "en": "He cannot but with measure fit the honors\nWhich we devise him.",
+          "es": "No cabe duda de que estará a la altura de los honores que pensamos concederle.",
+          "notes": [
+            {
+              "term": "with measure fit",
+              "type": "Sintaxis",
+              "title": "Proporción entre mérito y honores",
+              "body": "«Fit» indica correspondencia; «with measure» introduce la idea de una medida apropiada."
+            },
+            {
+              "term": "devise him",
+              "type": "Léxico",
+              "title": "Honores proyectados",
+              "body": "«Devise» significa aquí disponer o proyectar; «him» señala al destinatario."
+            }
+          ]
+        },
+        {
+          "line": "1325–1330",
+          "speaker": "cominius",
+          "en": "Our spoils he kicked at\nAnd looked upon things precious as they were\nThe common muck of the world. He covets less\nThan misery itself would give, rewards\nHis deeds with doing them, and is content\nTo spend the time to end it.",
+          "es": "Despreció nuestro botín y miró los objetos preciosos como si fueran el estiércol más vulgar del mundo. Codicia menos de lo que aceptaría incluso alguien sumido en la miseria; encuentra en la realización de sus hazañas su propia recompensa y se conforma con dedicar su tiempo a llevarlas a término.",
+          "notes": [
+            {
+              "term": "spoils",
+              "type": "Léxico militar",
+              "title": "Botín",
+              "body": "«Spoils» son los despojos obtenidos en la guerra."
+            },
+            {
+              "term": "kicked at",
+              "type": "Imagen",
+              "title": "Rechazo activo",
+              "body": "La expresión evoca un puntapié de desprecio, sin exigir una acción literal en escena."
+            },
+            {
+              "term": "common muck",
+              "type": "Imagen",
+              "title": "Estiércol",
+              "body": "«Muck» designa suciedad o estiércol: los objetos preciosos se rebajan a materia vil."
+            },
+            {
+              "term": "misery itself",
+              "type": "Hipérbole",
+              "title": "La miseria personificada",
+              "body": "Cominio exagera el desinterés material del héroe al compararlo con la indigencia extrema."
+            },
+            {
+              "term": "rewards",
+              "type": "Retórica",
+              "title": "La acción como recompensa",
+              "body": "El juego «deeds / doing» presenta la realización de la hazaña como premio suficiente."
+            },
+            {
+              "term": "spend the time to end it",
+              "type": "Interpretación",
+              "title": "Tiempo y conclusión",
+              "body": "El cierre comprimido puede entenderse como dedicar el tiempo a concluir la tarea; no exige leer un deseo de morir."
+            }
+          ]
+        },
+        {
+          "line": "1331–1332",
+          "speaker": "menenius",
+          "en": "He’s right noble.\nLet him be called for.",
+          "es": "Es verdaderamente noble. Que lo hagan llamar.",
+          "notes": [
+            {
+              "term": "right noble",
+              "type": "Gramática histórica",
+              "title": "Intensificador",
+              "body": "«Right» significa aquí «muy» o «verdaderamente»."
+            }
+          ]
+        },
+        {
+          "line": "1333",
+          "speaker": "first_senator",
+          "en": "Call Coriolanus.",
+          "es": "Llamen a Coriolano.",
+          "notes": []
+        },
+        {
+          "line": "1334",
+          "speaker": "officer",
+          "en": "He doth appear.",
+          "es": "Ya se presenta.",
+          "stageAfter": "Entra Coriolano.",
+          "notes": [
+            {
+              "term": "doth appear",
+              "type": "Gramática histórica",
+              "title": "Comparecencia",
+              "body": "«Doth» es el auxiliar de tercera persona singular; «appear» indica que Coriolano se presenta."
+            }
+          ]
         }
       ]
     }
