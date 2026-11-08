@@ -7928,7 +7928,7 @@ window.SHAKESPEARE_READER_DATA = {
       "scene": 2,
       "place": "Roma · El Capitolio",
       "sourceRef": "Folger Shakespeare Library · Acto II, escena 2",
-      "sectionLabel": "Edición en curso · líneas 1184–1219",
+      "sectionLabel": "Edición en curso · líneas 1184–1280",
       "introduction": "Dos oficiales discuten el mérito militar y la hostilidad de Coriolano hacia el pueblo. La conversación concluye con la entrada ceremonial del Senado.",
       "stage": "Entran dos oficiales para colocar cojines en el Capitolio.",
       "characters": [
@@ -8514,6 +8514,137 @@ window.SHAKESPEARE_READER_DATA = {
               "type": "Imagen corporal",
               "title": "my wounds to heal again",
               "body": "La comparación extrema opone el dolor físico de la guerra a la incomodidad de escuchar su propio elogio; la valoración es del personaje."
+            }
+          ]
+        },
+        {
+          "line": "1264–1265",
+          "speaker": "brutus",
+          "en": "Sir, I hope\nMy words disbenched you not?",
+          "es": "Señor, espero que mis palabras no lo hayan hecho levantarse de su asiento.",
+          "notes": [
+            {
+              "term": "disbenched",
+              "type": "Léxico y formación",
+              "title": "disbenched",
+              "body": "Verbo construido sobre «bench» (banco o escaño): hacer que alguien abandone su asiento. Bruto pregunta si su intervención motivó el gesto de Coriolano."
+            }
+          ]
+        },
+        {
+          "line": "1266–1270",
+          "speaker": "coriolanus",
+          "en": "No, sir. Yet oft,\nWhen blows have made me stay, I fled from words.\nYou soothed not, therefore hurt not; but your\npeople,\nI love them as they weigh.",
+          "es": "No, señor. Sin embargo, muchas veces, cuando los golpes me obligaban a permanecer en mi puesto, huía de las palabras. Usted no me aduló y, por tanto, no me ofendió. En cuanto a su pueblo, lo aprecio por lo que vale.",
+          "notes": [
+            {
+              "term": "When blows have made me stay",
+              "type": "Antítesis",
+              "title": "Golpes y palabras",
+              "body": "Coriolano contrapone su resistencia a los golpes en combate con su rechazo de los discursos laudatorios; la paradoja caracteriza su incomodidad ante el elogio."
+            },
+            {
+              "term": "soothed not",
+              "type": "Léxico histórico",
+              "title": "soothed",
+              "body": "Aquí «soothe» tiene el sentido de halagar o adular; no el moderno predominante de calmar o consolar."
+            },
+            {
+              "term": "as they weigh",
+              "type": "Metáfora valorativa",
+              "title": "as they weigh",
+              "body": "La imagen del peso equivale a estimar según el mérito o valor que se atribuye al pueblo. La frase es despectiva en su contexto, pero el texto no cuantifica ese valor."
+            },
+            {
+              "term": "your people",
+              "type": "Retórica política",
+              "title": "your people",
+              "body": "El posesivo atribuye a Bruto la representación del pueblo y mantiene la distancia de Coriolano respecto de los ciudadanos."
+            }
+          ]
+        },
+        {
+          "line": "1271",
+          "speaker": "menenius",
+          "en": "Pray now, sit down.",
+          "es": "Vamos, por favor, siéntate.",
+          "notes": [
+            {
+              "term": "Pray now",
+              "type": "Pragmática",
+              "title": "Pray now",
+              "body": "Fórmula de ruego que busca interrumpir la tensión y devolver a Coriolano a su asiento."
+            }
+          ]
+        },
+        {
+          "line": "1272–1274",
+          "speaker": "coriolanus",
+          "en": "I had rather have one scratch my head i’ th’ sun\nWhen the alarum were struck than idly sit\nTo hear my nothings monstered.",
+          "es": "Preferiría que alguien me rascara la cabeza bajo el sol, mientras sonara la alarma de combate, antes que quedarme sentado sin hacer nada escuchando cómo convierten mis insignificantes hazañas en prodigios.",
+          "stageAfter": "Sale Coriolano.",
+          "notes": [
+            {
+              "term": "I had rather",
+              "type": "Gramática histórica",
+              "title": "had rather",
+              "body": "La construcción expresa preferencia («preferiría»), como en la intervención anterior del personaje."
+            },
+            {
+              "term": "scratch my head",
+              "type": "Imagen y sintaxis",
+              "title": "scratch my head",
+              "body": "«Have one scratch» es una construcción causativa: que alguien le rasque la cabeza. La escena imagina un gesto trivial incluso en plena alarma militar."
+            },
+            {
+              "term": "alarum",
+              "type": "Léxico militar",
+              "title": "alarum",
+              "body": "Forma histórica de «alarm», aquí señal de alarma o llamada a las armas."
+            },
+            {
+              "term": "my nothings monstered",
+              "type": "Retórica",
+              "title": "my nothings monstered",
+              "body": "«Monstered» convierte los hechos que él minimiza («nothings») en algo enorme o monstruosamente exagerado. La autodepreciación contrasta con el elogio que se dispone a pronunciar Cominio."
+            }
+          ]
+        },
+        {
+          "line": "1275–1280",
+          "speaker": "menenius",
+          "en": "Masters of the people,\nYour multiplying spawn how can he flatter—\nThat’s thousand to one good one—when you now\nsee\nHe had rather venture all his limbs for honor\nThan one on ’s ears to hear it.—Proceed, Cominius.",
+          "es": "Señores representantes del pueblo, ¿cómo podría adular a esa descendencia suya que se multiplica —mil por cada uno que vale la pena—, cuando acaban de ver que prefiere arriesgar todos sus miembros por el honor antes que exponer siquiera uno de sus oídos a escuchar sus alabanzas? Continúa, Cominio.",
+          "notes": [
+            {
+              "term": "Masters of the people",
+              "type": "Tratamiento político",
+              "title": "Masters of the people",
+              "body": "Menenio vuelve a dirigirse a los tribunos mediante una fórmula de tratamiento que subraya su función representativa."
+            },
+            {
+              "term": "multiplying spawn",
+              "type": "Invectiva",
+              "title": "multiplying spawn",
+              "body": "«Spawn» alude a crías o prole numerosa y tiene aquí valor peyorativo. La deshumanización pertenece a la voz de Menenio."
+            },
+            {
+              "term": "thousand to one good one",
+              "type": "Hipérbole",
+              "title": "thousand to one good one",
+              "body": "La proporción de mil a uno expresa desprecio por la multitud, no un cálculo demográfico."
+            },
+            {
+              "term": "venture all his limbs",
+              "type": "Metonimia corporal",
+              "title": "venture all his limbs",
+              "body": "Arriesgar los miembros del cuerpo representa el riesgo físico de la guerra."
+            },
+            {
+              "term": "one on ’s ears",
+              "type": "Elipsis y contraste",
+              "title": "one on ’s ears",
+              "body": "«One» retoma «limbs» de forma jocosa y el giro dirige la atención a los oídos: el héroe soporta el peligro físico, pero rehúye escuchar su elogio."
             }
           ]
         }

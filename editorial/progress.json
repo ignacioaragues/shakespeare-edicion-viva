@@ -598,13 +598,22 @@
       "last_line": 1263,
       "editorial_state": "translated_source_checked",
       "note": "Seven complete speeches from Brutus' political reservation through Coriolanus' refusal to hear his wounds praised; Folger online II.2 checked. Private editions not consulted."
+    },
+    {
+      "id": "coriolanus-2-2-1264-1280",
+      "act": 2,
+      "scene": 2,
+      "first_line": 1264,
+      "last_line": 1280,
+      "editorial_state": "translated_source_checked",
+      "note": "Five complete speeches: Brutus' question, Coriolanus' rejection of praise and exit, Menenius' response; Folger online II.2 checked. Private editions not consulted."
     }
   ],
   "next_fragment": {
     "act": 2,
     "scene": 2,
-    "first_line": 1264,
-    "note": "Bruto pregunta si sus palabras han ofendido a Coriolano; respuesta de Coriolano."
+    "first_line": 1281,
+    "note": "Cominius begins his formal encomium of Coriolanus."
   },
   "completed_acts": [],
   "last_update_commit": null,
