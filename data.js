@@ -10016,6 +10016,124 @@ window.SHAKESPEARE_READER_DATA = {
               "gloss": "adiós"
             }
           ]
+        },
+        {
+          "line": "1463–1464",
+          "speaker": "citizen3",
+          "en": "⌜to the other Citizens⌝ But this is something\nodd.",
+          "es": "⌜A los otros ciudadanos.⌝ Pero esto es un tanto extraño.",
+          "notes": [
+            {
+              "term": "odd",
+              "type": "Nota filológica",
+              "title": "Extrañeza ante el candidato",
+              "body": "El tercer ciudadano advierte lo inusual de la conducta de Coriolano, sin retirar aún su voto. Fuentes: Folger, Coriolanus II.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/); cotejo: Shakespeare Online (https://www.shakespeare-online.com/plays/corio_2_3.html).",
+              "gloss": "extraño"
+            }
+          ]
+        },
+        {
+          "line": "1465–1466",
+          "speaker": "citizen2",
+          "en": "An ’twere to give again—but ’tis no\nmatter. ⌜These citizens⌝ exit.",
+          "es": "Si tuviéramos que volver a dar el voto… Pero no importa. ⌜Salen estos ciudadanos.⌝",
+          "notes": [
+            {
+              "term": "An ’twere",
+              "type": "Nota filológica",
+              "title": "Condicional arcaica",
+              "body": "«An» equivale aquí a «if» y «’twere» a «it were»; la idea de votar de nuevo queda interrumpida. Fuentes: Folger, Coriolanus II.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/); cotejo: Shakespeare Online (https://www.shakespeare-online.com/plays/corio_2_3.html).",
+              "gloss": "si hubiera que…"
+            },
+            {
+              "term": "give again",
+              "type": "Nota filológica",
+              "title": "Un voto reconsiderado",
+              "body": "El ciudadano insinúa una reconsideración, pero no llega a formularla. Fuentes: Folger, Coriolanus II.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/); cotejo: Shakespeare Online (https://www.shakespeare-online.com/plays/corio_2_3.html).",
+              "gloss": "volver a votar"
+            }
+          ]
+        },
+        {
+          "line": "1467–1469",
+          "speaker": "coriolanus",
+          "en": "Enter two other Citizens.\nPray you now, if it may stand with the\ntune of your voices that I may be consul, I have\nhere the customary gown.",
+          "es": "Entran otros dos ciudadanos.\nLes ruego que, si sus votos están en armonía con mi nombramiento como cónsul, observen que llevo la túnica prescrita por la costumbre.",
+          "notes": [
+            {
+              "term": "tune of your voices",
+              "type": "Nota filológica",
+              "title": "Metáfora musical",
+              "body": "«Tune» sugiere la concordancia musical que el candidato reclama irónicamente. Fuentes: Folger, Coriolanus II.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/); cotejo: Shakespeare Online (https://www.shakespeare-online.com/plays/corio_2_3.html).",
+              "gloss": "armonía de sus votos"
+            },
+            {
+              "term": "customary gown",
+              "type": "Nota filológica",
+              "title": "Vestimenta electoral",
+              "body": "La prenda funciona como señal escénica de la ceremonia. Para la fuente antigua de la solicitud electoral, véase Plutarco, Vida de Coriolano 14: https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Coriolanus*.html. Fuentes: Folger, Coriolanus II.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/); cotejo: Shakespeare Online (https://www.shakespeare-online.com/plays/corio_2_3.html).",
+              "gloss": "túnica ritual"
+            }
+          ]
+        },
+        {
+          "line": "1470–1471",
+          "speaker": "citizen4",
+          "en": "You have deserved nobly of your\ncountry, and you have not deserved nobly.",
+          "es": "Has prestado nobles servicios a tu patria y, sin embargo, no has obrado noblemente.",
+          "notes": [
+            {
+              "term": "deserved nobly",
+              "type": "Nota filológica",
+              "title": "Antítesis",
+              "body": "El juicio separa los méritos militares del comportamiento hacia los ciudadanos. Fuentes: Folger, Coriolanus II.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/); cotejo: Shakespeare Online (https://www.shakespeare-online.com/plays/corio_2_3.html).",
+              "gloss": "has obrado noblemente"
+            }
+          ]
+        },
+        {
+          "line": "1472",
+          "speaker": "coriolanus",
+          "en": "Your enigma?",
+          "es": "¿Qué significa ese enigma?",
+          "notes": [
+            {
+              "term": "enigma",
+              "type": "Nota filológica",
+              "title": "Contradicción aparente",
+              "body": "El personaje exige que el ciudadano explique la aparente contradicción. Fuentes: Folger, Coriolanus II.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/); cotejo: Shakespeare Online (https://www.shakespeare-online.com/plays/corio_2_3.html).",
+              "gloss": "enigma; acertijo"
+            }
+          ]
+        },
+        {
+          "line": "1473–1475",
+          "speaker": "citizen4",
+          "en": "You have been a scourge to her enemies;\nyou have been a rod to her friends. You have\nnot indeed loved the common people.",
+          "es": "Has sido un azote para los enemigos de tu patria y una vara de castigo para sus amigos. En verdad, no has amado al pueblo.",
+          "notes": [
+            {
+              "term": "scourge",
+              "type": "Nota filológica",
+              "title": "Azote militar",
+              "body": "El término evoca un castigo violento, ahora dirigido a enemigos externos. Fuentes: Folger, Coriolanus II.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/); cotejo: Shakespeare Online (https://www.shakespeare-online.com/plays/corio_2_3.html).",
+              "gloss": "azote"
+            },
+            {
+              "term": "rod",
+              "type": "Nota filológica",
+              "title": "Vara contra los amigos",
+              "body": "La imagen contrapone el daño infligido a enemigos y el infligido a los propios conciudadanos. Fuentes: Folger, Coriolanus II.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/); cotejo: Shakespeare Online (https://www.shakespeare-online.com/plays/corio_2_3.html).",
+              "gloss": "vara de castigo"
+            },
+            {
+              "term": "common people",
+              "type": "Nota filológica",
+              "title": "Pueblo llano",
+              "body": "Designa al pueblo común, objeto del desprecio de Coriolano. Fuentes: Folger, Coriolanus II.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/); cotejo: Shakespeare Online (https://www.shakespeare-online.com/plays/corio_2_3.html).",
+              "gloss": "plebeyos"
+            }
+          ]
         }
       ]
     }
