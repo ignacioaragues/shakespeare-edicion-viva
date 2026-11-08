@@ -71,6 +71,27 @@
     $('note-type').textContent = note.type;
     $('note-title').textContent = note.title;
     $('note-body').textContent = note.body;
+    let extra = $('note-lexical-extra');
+    if (!extra) {
+      extra = el('div', 'note-lexical-extra');
+      extra.id = 'note-lexical-extra';
+      extra.style.cssText = 'text-align:left;margin-top:0.65rem;font-size:0.86rem;line-height:1.5;';
+      $('note-body').insertAdjacentElement('afterend', extra);
+    }
+    extra.replaceChildren();
+    if (note.gloss) {
+      const gloss = el('div', 'note-gloss', note.gloss);
+      gloss.style.cssText = 'font-weight:600;text-align:left;';
+      extra.appendChild(gloss);
+    }
+    if (note.lemmaUrl && note.lemma) {
+      const link = el('a', 'note-lemma-link', 'Lema y flexión ↗');
+      link.href = note.lemmaUrl;
+      link.target = '_blank';
+      link.rel = 'noopener noreferrer';
+      link.style.cssText = 'display:inline-block;margin-top:0.3rem;font-size:0.78rem;';
+      extra.appendChild(link);
+    }
     popup.hidden = false;
     currentNoteTrigger = anchor;
     const rect = anchor.getBoundingClientRect();

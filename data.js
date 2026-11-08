@@ -9255,7 +9255,7 @@ window.SHAKESPEARE_READER_DATA = {
       "scene": 3,
       "place": "Roma · Plaza del mercado",
       "sourceRef": "Folger Shakespeare Library · Acto II, escena 3",
-      "sectionLabel": "Edición en curso · líneas 1374–1423",
+      "sectionLabel": "Edición en curso · líneas 1374–1442",
       "introduction": "Antes de que Coriolano solicite sus votos, los ciudadanos debaten hasta qué punto son libres de negárselos y qué exige la gratitud pública.",
       "stage": "Entran siete u ocho ciudadanos.",
       "characters": [
@@ -9613,6 +9613,171 @@ window.SHAKESPEARE_READER_DATA = {
               "type": "Léxico",
               "title": "Conformes",
               "body": "«Content» funciona aquí como respuesta colectiva de asentimiento («de acuerdo»), no como sustantivo. Folger, Coriolanus, II.3, 1423: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/."
+            }
+          ]
+        },
+        {
+          "line": "1424–1425",
+          "speaker": "menenius",
+          "en": "O sir, you are not right. Have you not known\nThe worthiest men have done ’t?",
+          "es": "Oh, señor, no tienes razón. ¿Acaso no sabes que los hombres más dignos han cumplido con esta costumbre?",
+          "notes": [
+            {
+              "term": "not right",
+              "type": "Pragmática",
+              "title": "No tienes razón",
+              "body": "Menenio objeta la actitud de Coriolano ante el ritual, no su posición física. Fuentes: Folger Shakespeare Library, Coriolanus II.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/); cotejo: Shakespeare Online (https://www.shakespeare-online.com/plays/corio_2_3.html).",
+              "gloss": "no tienes razón"
+            },
+            {
+              "term": "done ’t",
+              "type": "Elipsis",
+              "title": "Cumplir la costumbre",
+              "body": "El pronombre retoma el acto de solicitar votos; la contracción representa «done it». Fuentes: Folger Shakespeare Library, Coriolanus II.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/); cotejo: Shakespeare Online (https://www.shakespeare-online.com/plays/corio_2_3.html).",
+              "gloss": "lo han hecho",
+              "lemma": "do",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/do"
+            }
+          ]
+        },
+        {
+          "line": "1426–1431",
+          "speaker": "coriolanus",
+          "en": "What must I say?\n“I pray, sir?”—plague upon ’t! I cannot bring\nMy tongue to such a pace. “Look, sir, my wounds!\nI got them in my country’s service when\nSome certain of your brethren roared and ran\nFrom th’ noise of our own drums.”",
+          "es": "¿Qué tengo que decir? ¿«Se lo ruego, señor»? ¡Maldita sea! No consigo obligar a mi lengua a hablar de ese modo. «¡Mire, señor, mis heridas! Las recibí sirviendo a mi patria, mientras algunos de sus compatriotas gritaban y huían al oír el estruendo de nuestros propios tambores».",
+          "notes": [
+            {
+              "term": "I pray, sir",
+              "type": "Fórmula de cortesía",
+              "title": "La súplica electoral",
+              "body": "Coriolano ensaya la fórmula cortés que considera humillante; la reproduce con irritación. Fuentes: Folger Shakespeare Library, Coriolanus II.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/); cotejo: Shakespeare Online (https://www.shakespeare-online.com/plays/corio_2_3.html).",
+              "gloss": "se lo ruego, señor",
+              "lemma": "pray",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/pray"
+            },
+            {
+              "term": "plague upon ’t",
+              "type": "Imprecación",
+              "title": "Que caiga la peste",
+              "body": "Imprecación contra la fórmula que se ve obligado a pronunciar; «’t» sustituye «it». Fuentes: Folger Shakespeare Library, Coriolanus II.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/); cotejo: Shakespeare Online (https://www.shakespeare-online.com/plays/corio_2_3.html).",
+              "gloss": "¡maldita sea!"
+            },
+            {
+              "term": "bring\nMy tongue to such a pace",
+              "type": "Imagen verbal",
+              "title": "Forzar la lengua",
+              "body": "«Pace» presenta el discurso como una marcha o cadencia impuesta a la lengua; no se refiere a una velocidad concreta. Fuentes: Folger Shakespeare Library, Coriolanus II.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/); cotejo: Shakespeare Online (https://www.shakespeare-online.com/plays/corio_2_3.html).",
+              "gloss": "obligar a mi lengua a ese ritmo"
+            },
+            {
+              "term": "Some certain of your brethren",
+              "type": "Ironía política",
+              "title": "Algunos de los suyos",
+              "body": "La indefinición «some certain» evita identificar a los cobardes, pero la alusión a los conciudadanos es despectiva. Fuentes: Folger Shakespeare Library, Coriolanus II.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/); cotejo: Shakespeare Online (https://www.shakespeare-online.com/plays/corio_2_3.html).",
+              "gloss": "algunos de sus compatriotas"
+            },
+            {
+              "term": "our own drums",
+              "type": "Ironía militar",
+              "title": "Los propios tambores",
+              "body": "La cobardía queda acentuada: huyen incluso del ruido del ejército al que pertenecen. Fuentes: Folger Shakespeare Library, Coriolanus II.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/); cotejo: Shakespeare Online (https://www.shakespeare-online.com/plays/corio_2_3.html).",
+              "gloss": "nuestros propios tambores"
+            }
+          ]
+        },
+        {
+          "line": "1432–1434",
+          "speaker": "menenius",
+          "en": "O me, the gods!\nYou must not speak of that. You must desire them\nTo think upon you.",
+          "es": "¡Por todos los dioses! No debes hablar de eso. Tienes que pedirles que te tengan en consideración.",
+          "notes": [
+            {
+              "term": "think upon you",
+              "type": "Léxico",
+              "title": "Tenerlo presente",
+              "body": "Aquí «think upon» significa considerar favorablemente al candidato, no solo recordarlo. Fuentes: Folger Shakespeare Library, Coriolanus II.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/); cotejo: Shakespeare Online (https://www.shakespeare-online.com/plays/corio_2_3.html).",
+              "gloss": "tenerte en consideración",
+              "lemma": "think",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/think"
+            }
+          ]
+        },
+        {
+          "line": "1435–1437",
+          "speaker": "coriolanus",
+          "en": "Think upon me? Hang ’em!\nI would they would forget me, like the virtues\nWhich our divines lose by ’em.",
+          "es": "¿Que me tengan en consideración? ¡Que se vayan al diablo! Preferiría que me olvidaran, como olvidan las virtudes que nuestros sacerdotes intentan inculcarles.",
+          "notes": [
+            {
+              "term": "Hang ’em",
+              "type": "Imprecación",
+              "title": "Desprecio de los votantes",
+              "body": "«’em» representa «them». La expresión es una maldición coloquial, no una orden literal de ejecución. Fuentes: Folger Shakespeare Library, Coriolanus II.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/); cotejo: Shakespeare Online (https://www.shakespeare-online.com/plays/corio_2_3.html).",
+              "gloss": "¡que se vayan al diablo!"
+            },
+            {
+              "term": "I would they would",
+              "type": "Gramática histórica",
+              "title": "Deseo irreal",
+              "body": "El primer «would» expresa deseo («quisiera que»); el segundo forma parte de la proposición deseada. Fuentes: Folger Shakespeare Library, Coriolanus II.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/); cotejo: Shakespeare Online (https://www.shakespeare-online.com/plays/corio_2_3.html).",
+              "gloss": "quisiera que ellos…",
+              "lemma": "will",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/will"
+            },
+            {
+              "term": "divines",
+              "type": "Contexto religioso",
+              "title": "Sacerdotes y maestros religiosos",
+              "body": "«Divines» alude a autoridades religiosas. «Virtues … lose by ’em» admite una lectura irónica: sus enseñanzas morales se desperdician entre los oyentes; no se afirma que los sacerdotes pierdan su propia virtud. Fuentes: Folger Shakespeare Library, Coriolanus II.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/); cotejo: Shakespeare Online (https://www.shakespeare-online.com/plays/corio_2_3.html).",
+              "gloss": "sacerdotes; maestros religiosos"
+            }
+          ]
+        },
+        {
+          "line": "1438–1440",
+          "speaker": "menenius",
+          "en": "You’ll mar all.\nI’ll leave you. Pray you, speak to ’em, I pray you,\nIn wholesome manner. ⌜He exits.⌝",
+          "es": "Lo echarás todo a perder. Te dejo. Por favor, háblales, te lo ruego, de manera respetuosa. ⌜Sale Menenio.⌝",
+          "notes": [
+            {
+              "term": "mar all",
+              "type": "Léxico",
+              "title": "Arruinarlo todo",
+              "body": "«Mar» significa estropear o malograr; Menenio teme que el desprecio del candidato frustre la elección. Fuentes: Folger Shakespeare Library, Coriolanus II.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/); cotejo: Shakespeare Online (https://www.shakespeare-online.com/plays/corio_2_3.html).",
+              "gloss": "echarlo todo a perder",
+              "lemma": "mar",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/mar"
+            },
+            {
+              "term": "wholesome manner",
+              "type": "Pragmática",
+              "title": "Un tono adecuado",
+              "body": "«Wholesome» tiene aquí valor social y pragmático: hablar de manera apropiada y sin ofender a los ciudadanos. Fuentes: Folger Shakespeare Library, Coriolanus II.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/); cotejo: Shakespeare Online (https://www.shakespeare-online.com/plays/corio_2_3.html).",
+              "gloss": "de manera respetuosa"
+            }
+          ]
+        },
+        {
+          "line": "1441–1442",
+          "speaker": "coriolanus",
+          "en": "Bid them wash their faces\nAnd keep their teeth clean.",
+          "es": "Diles que se laven la cara y mantengan limpios los dientes.",
+          "notes": [
+            {
+              "term": "Bid them",
+              "type": "Gramática histórica",
+              "title": "Ordenar o decir",
+              "body": "«Bid» seguido de objeto y verbo en infinitivo sin «to» significa ordenar o indicar que alguien haga algo. Fuentes: Folger Shakespeare Library, Coriolanus II.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/); cotejo: Shakespeare Online (https://www.shakespeare-online.com/plays/corio_2_3.html).",
+              "gloss": "diles que",
+              "lemma": "bid",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/bid"
+            },
+            {
+              "term": "wash their faces",
+              "type": "Dramaturgia",
+              "title": "Desprecio corporal",
+              "body": "La recomendación de higiene, tras la súplica de cortesía de Menenio, funciona como insulto a los electores. Es una interpretación contextual. Fuentes: Folger Shakespeare Library, Coriolanus II.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/); cotejo: Shakespeare Online (https://www.shakespeare-online.com/plays/corio_2_3.html).",
+              "gloss": "que se laven la cara"
             }
           ]
         }
