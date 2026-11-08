@@ -688,13 +688,22 @@
       "last_line": 1442,
       "editorial_state": "translated_source_checked_external_references",
       "note": "Six complete speeches: Menenius coaches the electoral ritual and Coriolanus rejects it; Folger II.3 checked against Shakespeare Online; contextual glosses and selective lemma links. Private editions not consulted."
+    },
+    {
+      "id": "coriolanus-2-3-1443-1462",
+      "act": 2,
+      "scene": 3,
+      "first_line": 1443,
+      "last_line": 1462,
+      "editorial_state": "translated_source_checked_external_references",
+      "note": "Thirteen complete speech blocks, first citizens' voting exchange; Folger II.3 checked against Shakespeare Online (different speaker assignments); original Spanish, contextual glosses, selective morphological links. Private reference editions not consulted."
     }
   ],
   "next_fragment": {
     "act": 2,
     "scene": 3,
-    "first_line": 1443,
-    "note": "Citizens return; Coriolanus begins asking for their votes."
+    "first_line": 1463,
+    "note": "Third Citizen's response to Coriolanus's manner; continue from Folger 1463."
   },
   "completed_acts": [],
   "last_update_commit": null,
