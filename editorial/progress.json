@@ -589,13 +589,22 @@
       "last_line": 1244,
       "editorial_state": "translated_source_checked",
       "note": "Three complete Senate speeches (Menenius, First Senator, Sicinius); Folger online II.2 checked. Private editions not consulted."
+    },
+    {
+      "id": "coriolanus-2-2-1245-1263",
+      "act": 2,
+      "scene": 2,
+      "first_line": 1245,
+      "last_line": 1263,
+      "editorial_state": "translated_source_checked",
+      "note": "Seven complete speeches from Brutus' political reservation through Coriolanus' refusal to hear his wounds praised; Folger online II.2 checked. Private editions not consulted."
     }
   ],
   "next_fragment": {
     "act": 2,
     "scene": 2,
-    "first_line": 1245,
-    "note": "Bruto condiciona su apoyo al trato de Coriolano hacia el pueblo."
+    "first_line": 1264,
+    "note": "Bruto pregunta si sus palabras han ofendido a Coriolano; respuesta de Coriolano."
   },
   "completed_acts": [],
   "last_update_commit": null,

@@ -7966,6 +7966,21 @@ window.SHAKESPEARE_READER_DATA = {
           "english": "Sicinius",
           "color": "red",
           "identity": "Tribuno de la plebe."
+        },
+        {
+          "id": "brutus",
+          "short": "Bruto",
+          "name": "Junio Bruto",
+          "english": "Junius Brutus",
+          "identity": "Tribuno de la plebe que cuestiona las ambiciones de Marcio.",
+          "color": "olive"
+        },
+        {
+          "id": "coriolanus",
+          "name": "Cayo Marcio Coriolano",
+          "english": "Caius Martius Coriolanus",
+          "identity": "Marcio recibe aquí el sobrenombre honorífico de Coriolano por su actuación en Corioles.",
+          "color": "violet"
         }
       ],
       "blocks": [
@@ -8348,6 +8363,157 @@ window.SHAKESPEARE_READER_DATA = {
               "type": "Retórica",
               "title": "theme of our assembly",
               "body": "«Theme» designa el asunto central de la reunión: el reconocimiento de Coriolano."
+            }
+          ]
+        },
+        {
+          "line": "1245–1248",
+          "speaker": "brutus",
+          "en": "Which the rather\nWe shall be blest to do if he remember\nA kinder value of the people than\nHe hath hereto prized them at.",
+          "es": "Y tanto más grato nos resultará hacerlo si él aprende a valorar al pueblo con mayor consideración de la que le ha concedido hasta ahora.",
+          "notes": [
+            {
+              "term": "Which the rather",
+              "type": "Sintaxis",
+              "title": "Which the rather",
+              "body": "«Which» retoma el propósito de honrar a Coriolano; «the rather» introduce una condición que haría más deseable apoyarlo."
+            },
+            {
+              "term": "blest",
+              "type": "Matiz retórico",
+              "title": "blest",
+              "body": "«Blest» presenta la colaboración de los tribunos como algo venturoso o digno de aprobación."
+            },
+            {
+              "term": "kinder value",
+              "type": "Léxico",
+              "title": "kinder value",
+              "body": "«Value» designa la estimación concedida al pueblo; «kinder» pide una valoración más benévola."
+            },
+            {
+              "term": "hereto prized",
+              "type": "Semántica histórica",
+              "title": "hereto prized",
+              "body": "«Hereto» significa hasta este momento; «prized» equivale a tasado o estimado, no a premiado."
+            }
+          ]
+        },
+        {
+          "line": "1249–1251",
+          "speaker": "menenius",
+          "en": "That’s off, that’s off!\nI would you rather had been silent. Please you\nTo hear Cominius speak?",
+          "es": "¡Eso no viene al caso, no viene al caso! Habría preferido que guardaras silencio. ¿Quieren escuchar a Cominio?",
+          "notes": [
+            {
+              "term": "That’s off",
+              "type": "Pragmática",
+              "title": "That’s off",
+              "body": "Menenio declara inoportuna la objeción de Bruto e intenta devolver la sesión al homenaje militar."
+            },
+            {
+              "term": "I would you rather had been silent",
+              "type": "Sintaxis",
+              "title": "I would you rather had been silent",
+              "body": "«I would» expresa un deseo contrafáctico: Menenio habría preferido que Bruto callara."
+            },
+            {
+              "term": "Please you",
+              "type": "Fórmula de cortesía",
+              "title": "Please you",
+              "body": "El giro equivale a «¿les parece bien?»; el destinatario inmediato es la asamblea."
+            }
+          ]
+        },
+        {
+          "line": "1252–1254",
+          "speaker": "brutus",
+          "en": "Most willingly,\nBut yet my caution was more pertinent\nThan the rebuke you give it.",
+          "es": "Con muchísimo gusto. Pero mi advertencia era más pertinente que el reproche que le haces.",
+          "notes": [
+            {
+              "term": "Most willingly",
+              "type": "Respuesta formal",
+              "title": "Most willingly",
+              "body": "Bruto acepta escuchar a Cominio sin retirar su reserva política."
+            },
+            {
+              "term": "caution",
+              "type": "Léxico",
+              "title": "caution",
+              "body": "«Caution» es aquí una advertencia preventiva, no timidez ni simple prudencia."
+            },
+            {
+              "term": "pertinent",
+              "type": "Argumentación",
+              "title": "pertinent",
+              "body": "Bruto insiste en que la relación de Coriolano con el pueblo sí es relevante para la deliberación."
+            }
+          ]
+        },
+        {
+          "line": "1255–1258",
+          "speaker": "menenius",
+          "en": "He loves your people,\nBut tie him not to be their bedfellow.—\nWorthy Cominius, speak.\nNay, keep your place.",
+          "es": "Él quiere a ese pueblo de ustedes, pero no le exijan que duerma en la misma cama que sus ciudadanos. —Digno Cominio, habla. —No, quédate en tu sitio.",
+          "stageAfter": "Coriolano se levanta y hace ademán de retirarse antes de que Menenio le pida que permanezca.",
+          "notes": [
+            {
+              "term": "your people",
+              "type": "Perspectiva política",
+              "title": "your people",
+              "body": "El posesivo distancia a Menenio de la representación popular que ejercen los tribunos."
+            },
+            {
+              "term": "bedfellow",
+              "type": "Metáfora",
+              "title": "bedfellow",
+              "body": "La intimidad de compartir cama exagera irónicamente la exigencia de cercanía con el pueblo."
+            },
+            {
+              "term": "keep your place",
+              "type": "Situación escénica",
+              "title": "keep your place",
+              "body": "La orden se dirige a Coriolano, que se levanta para marcharse; la acotación de Folger precede a esta réplica."
+            }
+          ]
+        },
+        {
+          "line": "1259–1260",
+          "speaker": "senator1",
+          "en": "Sit, Coriolanus. Never shame to hear\nWhat you have nobly done.",
+          "es": "Siéntate, Coriolano. Nunca es motivo de vergüenza escuchar el relato de tus nobles hazañas.",
+          "notes": [
+            {
+              "term": "Never shame",
+              "type": "Elipsis",
+              "title": "Never shame",
+              "body": "Construcción condensada: «nunca es vergonzoso»; el senador intenta legitimar el elogio público ante el propio homenajeado."
+            }
+          ]
+        },
+        {
+          "line": "1261–1263",
+          "speaker": "coriolanus",
+          "en": "Your Honors, pardon.\nI had rather have my wounds to heal again\nThan hear say how I got them.",
+          "es": "Perdónenme, señores. Preferiría que mis heridas tuvieran que cicatrizar de nuevo antes que escuchar cómo me las hice.",
+          "notes": [
+            {
+              "term": "Your Honors",
+              "type": "Tratamiento",
+              "title": "Your Honors",
+              "body": "Coriolano se dirige respetuosamente a los senadores mediante un tratamiento honorífico plural."
+            },
+            {
+              "term": "I had rather",
+              "type": "Gramática histórica",
+              "title": "I had rather",
+              "body": "«Had rather» expresa preferencia: «preferiría»."
+            },
+            {
+              "term": "my wounds to heal again",
+              "type": "Imagen corporal",
+              "title": "my wounds to heal again",
+              "body": "La comparación extrema opone el dolor físico de la guerra a la incomodidad de escuchar su propio elogio; la valoración es del personaje."
             }
           ]
         }
