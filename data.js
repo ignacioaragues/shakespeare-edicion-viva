@@ -9255,7 +9255,7 @@ window.SHAKESPEARE_READER_DATA = {
       "scene": 3,
       "place": "Roma · Plaza del mercado",
       "sourceRef": "Folger Shakespeare Library · Acto II, escena 3",
-      "sectionLabel": "Edición en curso · líneas 1374–1462",
+      "sectionLabel": "Edición en curso · líneas 1374–1494",
       "introduction": "Antes de que Coriolano solicite sus votos, los ciudadanos debaten hasta qué punto son libres de negárselos y qué exige la gratitud pública.",
       "stage": "Entran siete u ocho ciudadanos.",
       "characters": [
@@ -10132,6 +10132,143 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "Pueblo llano",
               "body": "Designa al pueblo común, objeto del desprecio de Coriolano. Fuentes: Folger, Coriolanus II.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/); cotejo: Shakespeare Online (https://www.shakespeare-online.com/plays/corio_2_3.html).",
               "gloss": "plebeyos"
+            }
+          ]
+        },
+        {
+          "line": "1476–1486",
+          "speaker": "coriolanus",
+          "en": "You should account me the more virtuous\nthat I have not been common in my love. I will, sir,\nflatter my sworn brother, the people, to earn a\ndearer estimation of them; ’tis a condition they account\ngentle. And since the wisdom of their choice\nis rather to have my hat than my heart, I will practice\nthe insinuating nod and be off to them most\ncounterfeitly. That is, sir, I will counterfeit the bewitchment\nof some popular man and give it bountiful\nto the desirers. Therefore, beseech you, I may\nbe consul.",
+          "es": "Debería considerarme tanto más virtuoso por no haber prodigado mi afecto indiscriminadamente. Pero, señor, halagaré al pueblo, mi hermano jurado, para ganarme una estima mayor de su parte: es una conducta que ellos consideran cortés. Y puesto que, según la sabiduría con que eligen, prefieren mi sombrero a mi corazón, practicaré la inclinación de cabeza que busca congraciarse y me despediré de ellos con la mayor falsedad. Es decir, señor, fingiré el encanto de algún hombre popular y lo repartiré generosamente entre quienes lo deseen. Por tanto, le suplico que me permita ser cónsul.",
+          "notes": [
+            {
+              "term": "common in my love",
+              "type": "Juego léxico",
+              "title": "Un afecto nada común",
+              "body": "«Common» retoma «common people» de 1475: Coriolano convierte la acusación de no amar al pueblo en una pretendida virtud de selectividad afectiva. Folger, Coriolanus II.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; cotejo: https://www.shakespeare-online.com/plays/corio_2_3.html.",
+              "gloss": "indiscriminado en mi afecto"
+            },
+            {
+              "term": "sworn brother",
+              "type": "Ironía política",
+              "title": "Hermandad fingida",
+              "body": "El parentesco proclamado es irónico, pues anuncia su intención de halagar sin sinceridad. Folger, Coriolanus II.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; cotejo: https://www.shakespeare-online.com/plays/corio_2_3.html.",
+              "gloss": "hermano jurado"
+            },
+            {
+              "term": "dearer estimation",
+              "type": "Léxico",
+              "title": "Mayor aprecio",
+              "body": "«Dearer» indica aquí un grado mayor de estima, no un precio monetario. Folger, Coriolanus II.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; cotejo: https://www.shakespeare-online.com/plays/corio_2_3.html.",
+              "gloss": "estima más alta"
+            },
+            {
+              "term": "my hat than my heart",
+              "type": "Metonimia",
+              "title": "Sombrero y corazón",
+              "body": "Contraposición entre el saludo ceremonial (sombrero) y el afecto genuino (corazón); es la interpretación hostil de Coriolano de la demanda ciudadana. Folger, Coriolanus II.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; cotejo: https://www.shakespeare-online.com/plays/corio_2_3.html.",
+              "gloss": "gesto exterior antes que sentimiento"
+            },
+            {
+              "term": "insinuating nod",
+              "type": "Retórica gestual",
+              "title": "La inclinación aduladora",
+              "body": "«Insinuating» expresa la búsqueda calculada de favor; «nod» nombra el gesto corporal que acompaña la fingida deferencia. Folger, Coriolanus II.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; cotejo: https://www.shakespeare-online.com/plays/corio_2_3.html.",
+              "gloss": "saludo para congraciarse",
+              "lemma": "insinuate",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/insinuate"
+            },
+            {
+              "term": "counterfeitly",
+              "type": "Léxico",
+              "title": "Falsedad deliberada",
+              "body": "El adverbio subraya el carácter simulado de la cortesía; «counterfeit» se repite inmediatamente. Folger, Coriolanus II.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; cotejo: https://www.shakespeare-online.com/plays/corio_2_3.html.",
+              "gloss": "fingidamente",
+              "lemma": "counterfeit",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/counterfeit"
+            },
+            {
+              "term": "bewitchment",
+              "type": "Metáfora",
+              "title": "Encanto del político popular",
+              "body": "La magia es metáfora del atractivo personal que Coriolano promete imitar, no un hechizo literal. Folger, Coriolanus II.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; cotejo: https://www.shakespeare-online.com/plays/corio_2_3.html.",
+              "gloss": "poder de seducción"
+            },
+            {
+              "term": "bountiful",
+              "type": "Pragmática",
+              "title": "Generosidad teatral",
+              "body": "La abundancia del gesto fingido contrasta con la negativa del candidato a ofrecer afecto verdadero. Folger, Coriolanus II.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; cotejo: https://www.shakespeare-online.com/plays/corio_2_3.html.",
+              "gloss": "generosamente"
+            }
+          ]
+        },
+        {
+          "line": "1487–1488",
+          "speaker": "citizen5",
+          "en": "We hope to find you our friend, and\ntherefore give you our voices heartily.",
+          "es": "Esperamos encontrar en usted a un amigo y por eso le damos nuestros votos de todo corazón.",
+          "notes": [
+            {
+              "term": "heartily",
+              "type": "Contraste retórico",
+              "title": "Sinceridad del elector",
+              "body": "La respuesta retoma el campo afectivo de «heart» (1481), que Coriolano opone a los gestos exteriores. Folger, Coriolanus II.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; cotejo: https://www.shakespeare-online.com/plays/corio_2_3.html.",
+              "gloss": "de todo corazón"
+            }
+          ]
+        },
+        {
+          "line": "1489–1490",
+          "speaker": "citizen4",
+          "en": "You have received many wounds for\nyour country.",
+          "es": "Ha recibido muchas heridas por su patria.",
+          "notes": [
+            {
+              "term": "wounds",
+              "type": "Contexto dramático",
+              "title": "Las heridas como prueba",
+              "body": "El ciudadano alude al testimonio corporal esperado en la ceremonia electoral; Coriolano evita exhibirlo. Folger, Coriolanus II.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; cotejo: https://www.shakespeare-online.com/plays/corio_2_3.html.",
+              "gloss": "heridas de guerra"
+            }
+          ]
+        },
+        {
+          "line": "1491–1493",
+          "speaker": "coriolanus",
+          "en": "I will not seal your knowledge with showing\nthem. I will make much of your voices and so\ntrouble you no farther.",
+          "es": "No voy a confirmar lo que ustedes saben mostrándoselas. Apreciaré mucho sus votos y así no los molestaré más.",
+          "notes": [
+            {
+              "term": "seal your knowledge",
+              "type": "Metáfora documental",
+              "title": "Certificar lo sabido",
+              "body": "«Seal» representa la exhibición de heridas como sello que autenticaría un conocimiento previo. Folger, Coriolanus II.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; cotejo: https://www.shakespeare-online.com/plays/corio_2_3.html.",
+              "gloss": "confirmar lo que saben",
+              "lemma": "seal",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/seal"
+            },
+            {
+              "term": "make much of",
+              "type": "Fraseología",
+              "title": "Valorar en gran medida",
+              "body": "Fórmula convencional de gratitud que, tras su parlamento anterior, puede percibirse como insincera. Folger, Coriolanus II.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; cotejo: https://www.shakespeare-online.com/plays/corio_2_3.html.",
+              "gloss": "apreciar mucho"
+            }
+          ]
+        },
+        {
+          "line": "1494",
+          "speaker": "all",
+          "en": "The gods give you joy, sir, heartily.\n⌜Citizens exit.⌝",
+          "es": "Que los dioses le concedan alegría, señor, de todo corazón.\nSalen los ciudadanos.",
+          "notes": [
+            {
+              "term": "heartily",
+              "type": "Pragmática",
+              "title": "Despedida cordial",
+              "body": "Folger atribuye la despedida a «BOTH», es decir, a los dos ciudadanos presentes; «all» funciona aquí como voz colectiva del elenco. Folger, Coriolanus II.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; cotejo: https://www.shakespeare-online.com/plays/corio_2_3.html.",
+              "gloss": "de todo corazón"
             }
           ]
         }

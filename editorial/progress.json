@@ -706,13 +706,22 @@
       "last_line": 1475,
       "editorial_state": "translated_source_checked_external_references",
       "note": "Six complete speech blocks, second voting group and the citizen's contrast between military service and civic hostility; Folger and Shakespeare Online checked; Plutarch Coriolanus 14 consulted; private references not consulted."
+    },
+    {
+      "id": "coriolanus-2-3-1476-1494",
+      "act": 2,
+      "scene": 3,
+      "first_line": 1476,
+      "last_line": 1494,
+      "editorial_state": "translated_source_checked_external_references",
+      "note": "Five complete speech blocks, Folger II.3 checked against Shakespeare Online; lexical glosses and contextual notes with traceable sources. Private editions not consulted."
     }
   ],
   "next_fragment": {
     "act": 2,
     "scene": 3,
-    "first_line": 1476,
-    "note": "Coriolanus's complete 11-line ironic response through 1486."
+    "first_line": 1495,
+    "note": "Coriolanus's complete soliloquy through 1507."
   },
   "completed_acts": [],
   "last_update_commit": null,
