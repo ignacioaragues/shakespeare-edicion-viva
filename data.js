@@ -9026,6 +9026,104 @@ window.SHAKESPEARE_READER_DATA = {
               "body": "«Jot» designa una cantidad mínima; Sicinio exige el rito completo."
             }
           ]
+        },
+        {
+          "line": "1350–1353",
+          "speaker": "menenius",
+          "en": "Put them not to ’t.\nPray you, go fit you to the custom, and\nTake to you, as your predecessors have,\nYour honor with your form.",
+          "es": "No los obligues a insistir. Te ruego que te acomodes a la costumbre y que, como tus predecesores, recibas el honor junto con la formalidad que lo acompaña.",
+          "notes": [
+            {
+              "term": "Put them not to ’t",
+              "type": "Sintaxis histórica",
+              "title": "No los fuerces a ello",
+              "body": "El pronombre «them» remite a quienes exigen el cumplimiento de la ceremonia; «to ’t» equivale a «to it»."
+            },
+            {
+              "term": "fit you to the custom",
+              "type": "Léxico",
+              "title": "Acomodarse a la costumbre",
+              "body": "«Fit» funciona aquí como verbo transitivo reflexivo: adaptar la propia conducta a un uso establecido."
+            },
+            {
+              "term": "Your honor with your form",
+              "type": "Retórica política",
+              "title": "Honor y ceremonia",
+              "body": "Menenio presenta el rito público como inseparable del reconocimiento del cargo. «Form» alude al procedimiento, no a la apariencia física."
+            }
+          ]
+        },
+        {
+          "line": "1354–1356",
+          "speaker": "coriolanus",
+          "en": "It is a part\nThat I shall blush in acting, and might well\nBe taken from the people.",
+          "es": "Es un papel que me hará sonrojar al representarlo, y bien podría dispensarse al pueblo de esa representación.",
+          "notes": [
+            {
+              "term": "a part",
+              "type": "Metáfora teatral",
+              "title": "Un papel que representar",
+              "body": "Coriolano compara el trámite político con una actuación; la continuación «acting» vuelve explícita la imagen."
+            },
+            {
+              "term": "blush",
+              "type": "Léxico y caracterización",
+              "title": "Sonrojarse",
+              "body": "La vergüenza se refiere a representar una conducta que considera indigna de sí, no a temor ante los ciudadanos."
+            },
+            {
+              "term": "taken from the people",
+              "type": "Interpretación sintáctica",
+              "title": "Dispensar al pueblo",
+              "body": "La frase permite entender que el acto podría suprimirse para el pueblo; la referencia precisa de «it» depende del contexto ceremonial."
+            }
+          ]
+        },
+        {
+          "line": "1357",
+          "speaker": "brutus",
+          "en": "Mark you that?",
+          "es": "¿Has oído eso?",
+          "notes": [
+            {
+              "term": "Mark you that",
+              "type": "Gramática histórica",
+              "title": "Fíjate en eso",
+              "body": "«Mark» es imperativo; Bruto habla aparte a Sicinio y señala la actitud de Coriolano."
+            }
+          ]
+        },
+        {
+          "line": "1358–1361",
+          "speaker": "coriolanus",
+          "en": "To brag unto them “Thus I did, and thus!”\nShow them th’ unaching scars, which I should hide,\nAs if I had received them for the hire\nOf their breath only!",
+          "es": "¡Tener que jactarme ante ellos: «Hice esto y aquello»! ¡Mostrarles las cicatrices que ya no duelen, cuando debería ocultarlas, como si las hubiera recibido a cambio únicamente de sus votos!",
+          "notes": [
+            {
+              "term": "brag",
+              "type": "Léxico",
+              "title": "Jactarse",
+              "body": "El verbo expresa ostentación verbal; Coriolano rechaza convertir sus acciones militares en propaganda electoral."
+            },
+            {
+              "term": "unaching scars",
+              "type": "Léxico",
+              "title": "Cicatrices que ya no duelen",
+              "body": "«Unaching» indica que el dolor ha cesado, no que las heridas sean insignificantes."
+            },
+            {
+              "term": "hire",
+              "type": "Metáfora económica",
+              "title": "Pago o salario",
+              "body": "Coriolano rechaza que sus heridas parezcan obtenidas como contraprestación por la aprobación popular."
+            },
+            {
+              "term": "their breath",
+              "type": "Metonimia política",
+              "title": "El aliento de los votantes",
+              "body": "«Breath» es literalmente aliento, pero aquí representa la voz o el voto emitido por los ciudadanos."
+            }
+          ]
         }
       ]
     }

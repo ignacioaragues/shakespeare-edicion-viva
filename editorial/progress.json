@@ -634,13 +634,22 @@
       "last_line": 1349,
       "editorial_state": "translated_source_checked",
       "note": "Five complete speeches: nomination, resistance to popular suffrage, Sicinius' insistence; Folger online checked; private references not consulted."
+    },
+    {
+      "id": "coriolanus-2-2-1350-1361",
+      "act": 2,
+      "scene": 2,
+      "first_line": 1350,
+      "last_line": 1361,
+      "editorial_state": "translated_source_checked",
+      "note": "Four complete speeches on electoral ritual as theatrical performance; Folger II.2 checked. Private reference editions not consulted."
     }
   ],
   "next_fragment": {
     "act": 2,
     "scene": 2,
-    "first_line": 1350,
-    "note": "Menenius urges Coriolanus to observe the customary public voting ritual."
+    "first_line": 1362,
+    "note": "Menenius closes the Senate proceedings and the tribunes respond."
   },
   "completed_acts": [],
   "last_update_commit": null,
