@@ -5813,7 +5813,7 @@ window.SHAKESPEARE_READER_DATA = {
       "scene": 1,
       "place": "Roma · Un espacio público",
       "sourceRef": "Folger Shakespeare Library · Acto II, escena 1",
-      "sectionLabel": "Edición en curso · líneas 880–1162",
+      "sectionLabel": "Edición en curso · líneas 880–1183",
       "introduction": "Menenio se encuentra con los tribunos Sicinio y Bruto. Antes de que lleguen noticias del ejército, discuten con ironía la relación entre Marcio y el pueblo.",
       "stage": "Entra Menenio con los dos tribunos del pueblo, Sicinio y Bruto.",
       "characters": [
@@ -5900,6 +5900,14 @@ window.SHAKESPEARE_READER_DATA = {
           "english": "Cominius",
           "identity": "General romano que acompaña al vencedor en su regreso.",
           "color": "olive"
+        },
+        {
+          "id": "messenger",
+          "short": "Mensajero",
+          "name": "Mensajero",
+          "english": "Messenger",
+          "identity": "Convoca a los tribunos al Capitolio y describe la acogida popular de Coriolano.",
+          "color": "slate"
         }
       ],
       "blocks": [
@@ -7772,6 +7780,141 @@ window.SHAKESPEARE_READER_DATA = {
               "type": "Imagen",
               "title": "camels in their war",
               "body": "El símil militar compara a la plebe con bestias de carga; Bruto atribuye esa actitud a Coriolano, sin citarlo literalmente."
+            }
+          ]
+        },
+        {
+          "line": "1163–1169",
+          "speaker": "sicinius",
+          "en": "This, as you say, suggested At some time when his soaring insolence Shall touch the people—which time shall not want If he be put upon ’t, and that’s as easy As to set dogs on sheep—will be his fire To kindle their dry stubble, and their blaze Shall darken him forever.",
+          "es": "Si, como dices, se le inculca esto al pueblo cuando su arrogancia desmedida llegue a ofenderlo —y ese momento no tardará en presentarse si lo provocamos, cosa tan fácil como azuzar perros contra ovejas—, será la chispa que prenda fuego a su rastrojo seco; y las llamas de ellos lo dejarán para siempre en la sombra.",
+          "notes": [
+            {
+              "term": "suggested",
+              "type": "Semántica histórica",
+              "title": "suggested",
+              "body": "Retoma el «suggest» de Bruto: se trata de inculcar una interpretación política, no de sugerir inocentemente."
+            },
+            {
+              "term": "soaring insolence",
+              "type": "Retórica",
+              "title": "soaring insolence",
+              "body": "La insolencia se representa como algo que se eleva sin medida."
+            },
+            {
+              "term": "put upon ’t",
+              "type": "Sintaxis e interpretación",
+              "title": "put upon ’t",
+              "body": "Alude a provocar a Coriolano para que manifieste su arrogancia; el referente del pronombre es contextual."
+            },
+            {
+              "term": "dogs on sheep",
+              "type": "Símil",
+              "title": "dogs on sheep",
+              "body": "La facilidad de provocar una reacción se representa mediante perros azuzados contra ovejas."
+            },
+            {
+              "term": "dry stubble",
+              "type": "Imagen",
+              "title": "dry stubble",
+              "body": "El rastrojo seco representa un resentimiento popular dispuesto a inflamarse."
+            },
+            {
+              "term": "darken him forever",
+              "type": "Paradoja",
+              "title": "darken him forever",
+              "body": "El incendio popular oscurecerá políticamente al héroe: el fuego destruye su prestigio."
+            }
+          ]
+        },
+        {
+          "line": "1170",
+          "speaker": "brutus",
+          "en": "What’s the matter?",
+          "es": "¿Qué sucede?",
+          "notes": []
+        },
+        {
+          "line": "1171–1179",
+          "speaker": "messenger",
+          "en": "You are sent for to the Capitol. ’Tis thought That Martius shall be consul. I have seen The dumb men throng to see him, and the blind To hear him speak; matrons flung gloves, Ladies and maids their scarves and handkerchiefs, Upon him as he passed; the nobles bended As to Jove’s statue, and the Commons made A shower and thunder with their caps and shouts. I never saw the like.",
+          "es": "Los llaman al Capitolio. Se cree que Marcio será cónsul. He visto a los mudos agolparse para contemplarlo y a los ciegos acudir para oírlo hablar; las matronas le arrojaban guantes, y las damas y muchachas, echarpes y pañuelos, mientras pasaba. Los nobles se inclinaban como ante la estatua de Júpiter, y los plebeyos producían una lluvia y un trueno con sus gorros y sus gritos. Nunca vi nada semejante.",
+          "notes": [
+            {
+              "term": "sent for",
+              "type": "Sintaxis",
+              "title": "sent for",
+              "body": "La pasiva significa «han mandado llamarlos»."
+            },
+            {
+              "term": "dumb men",
+              "type": "Hipérbole",
+              "title": "dumb men",
+              "body": "Los mudos acuden a mirar y los ciegos a escuchar: la exageración subraya el entusiasmo público."
+            },
+            {
+              "term": "matrons",
+              "type": "Léxico social",
+              "title": "matrons",
+              "body": "Mujeres casadas de posición respetable, distinguidas de las damas y muchachas mencionadas a continuación."
+            },
+            {
+              "term": "Jove’s statue",
+              "type": "Mitología",
+              "title": "Jove’s statue",
+              "body": "Jove es Júpiter; el homenaje al vencedor se compara con la reverencia ante una estatua divina."
+            },
+            {
+              "term": "Commons",
+              "type": "Léxico político",
+              "title": "Commons",
+              "body": "El pueblo común, cuya aclamación contrasta con los temores de los tribunos."
+            },
+            {
+              "term": "shower and thunder",
+              "type": "Metáfora",
+              "title": "shower and thunder",
+              "body": "Los gorros y gritos de la multitud se describen como lluvia y trueno."
+            }
+          ]
+        },
+        {
+          "line": "1180–1182",
+          "speaker": "brutus",
+          "en": "Let’s to the Capitol, And carry with us ears and eyes for th’ time, But hearts for the event.",
+          "es": "Vamos al Capitolio. Por ahora llevemos allí ojos y oídos, pero reservemos el corazón para el desenlace.",
+          "notes": [
+            {
+              "term": "Let’s to the Capitol",
+              "type": "Elipsis",
+              "title": "Let’s to the Capitol",
+              "body": "El verbo de movimiento queda sobreentendido tras «let’s»."
+            },
+            {
+              "term": "ears and eyes",
+              "type": "Retórica",
+              "title": "ears and eyes",
+              "body": "Bruto propone observar y escuchar por ahora, sin revelar sus propósitos."
+            },
+            {
+              "term": "hearts for the event",
+              "type": "Interpretación",
+              "title": "hearts for the event",
+              "body": "«Event» es el desenlace; «hearts» puede indicar voluntad o resolución, además de sentimiento."
+            }
+          ]
+        },
+        {
+          "line": "1183",
+          "speaker": "sicinius",
+          "en": "Have with you.",
+          "es": "Voy contigo.",
+          "notes": [
+            {
+              "term": "Have with you",
+              "type": "Locución",
+              "title": "Have with you",
+              "body": "Fórmula de asentimiento para acompañar al interlocutor, no una posesión literal."
             }
           ]
         }
