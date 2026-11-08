@@ -9313,6 +9313,14 @@ window.SHAKESPEARE_READER_DATA = {
           "name": "Séptimo ciudadano",
           "english": "Se suma al apoyo electoral y desea que Coriolano sea amigo del pueblo.",
           "color": "slate"
+        },
+        {
+          "id": "brutus",
+          "short": "Bruto",
+          "name": "Junio Bruto",
+          "english": "Junius Brutus",
+          "identity": "Tribuno de la plebe que cuestiona las ambiciones de Marcio.",
+          "color": "olive"
         }
       ],
       "blocks": [
@@ -10667,6 +10675,148 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "Ambigüedad escénica",
               "gloss": "despedir / hacer pasar al pueblo",
               "body": "La expresión puede significar despedir a la gente, aunque inmediatamente se anuncia su entrada; la traducción sigue la continuidad escénica y registra la dificultad. Folger, Coriolanus II.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; cotejo Shakespeare Online: https://www.shakespeare-online.com/plays/corio_2_3.html."
+            }
+          ]
+        },
+        {
+          "line": "1544",
+          "speaker": "sicinius",
+          "en": "How now, my masters, have you chose this man?",
+          "es": "¿Qué sucede, señores? ¿Han elegido a este hombre?",
+          "notes": [
+            {
+              "term": "my masters",
+              "type": "Nota filológica",
+              "title": "my masters",
+              "gloss": "señores",
+              "body": "Tratamiento colectivo cuya deferencia puede ser estratégica. Folger: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; cotejo: https://www.shakespeare-online.com/plays/corio_2_3.html."
+            }
+          ]
+        },
+        {
+          "line": "1545",
+          "speaker": "citizen1",
+          "en": "He has our voices, sir.",
+          "es": "Tiene nuestros votos, señor.",
+          "notes": []
+        },
+        {
+          "line": "1546",
+          "speaker": "brutus",
+          "en": "We pray the gods he may deserve your loves.",
+          "es": "Rogamos a los dioses que llegue a merecer el afecto de ustedes.",
+          "notes": [
+            {
+              "term": "deserve your loves",
+              "type": "Nota filológica",
+              "title": "deserve your loves",
+              "gloss": "merecer su afecto",
+              "body": "Bruto introduce una reserva sobre la correspondencia entre el voto y la conducta futura. Folger: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; cotejo: https://www.shakespeare-online.com/plays/corio_2_3.html."
+            }
+          ]
+        },
+        {
+          "line": "1547–1548",
+          "speaker": "citizen2",
+          "en": "Amen, sir. To my poor unworthy notice,\nHe mocked us when he begged our voices.",
+          "es": "Amén, señor. Según mi humilde parecer,\nse burló de nosotros cuando nos pidió los votos.",
+          "notes": [
+            {
+              "term": "To my poor unworthy notice",
+              "type": "Nota filológica",
+              "title": "To my poor unworthy notice",
+              "gloss": "según mi humilde parecer",
+              "body": "Fórmula de modestia que atenúa formalmente una acusación directa. Folger: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; cotejo: https://www.shakespeare-online.com/plays/corio_2_3.html."
+            }
+          ]
+        },
+        {
+          "line": "1549",
+          "speaker": "citizen3",
+          "en": "Certainly, he flouted us downright.",
+          "es": "Sin duda, se mofó de nosotros abiertamente.",
+          "notes": [
+            {
+              "term": "flouted",
+              "type": "Nota filológica",
+              "title": "flouted",
+              "gloss": "se mofó",
+              "lemma": "flout",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/flout",
+              "body": "«Flout» expresa burla despectiva; «downright» intensifica su franqueza. Folger: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; cotejo: https://www.shakespeare-online.com/plays/corio_2_3.html."
+            }
+          ]
+        },
+        {
+          "line": "1550",
+          "speaker": "citizen1",
+          "en": "No, ’tis his kind of speech. He did not mock us.",
+          "es": "No; es su manera de hablar. No se burló de nosotros.",
+          "notes": [
+            {
+              "term": "’tis",
+              "type": "Nota filológica",
+              "title": "’tis",
+              "gloss": "es",
+              "lemma": "'tis",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/'tis",
+              "body": "Contracción de «it is», común en el diálogo dramático del período. Folger: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; cotejo: https://www.shakespeare-online.com/plays/corio_2_3.html."
+            }
+          ]
+        },
+        {
+          "line": "1551–1553",
+          "speaker": "citizen2",
+          "en": "Not one amongst us, save yourself, but says\nHe used us scornfully. He should have showed us\nHis marks of merit, wounds received for ’s country.",
+          "es": "Todos nosotros, salvo tú, decimos\nque nos trató con desprecio. Debería habernos mostrado\nlas pruebas de su mérito: las heridas recibidas por su patria.",
+          "notes": [
+            {
+              "term": "save yourself",
+              "type": "Nota filológica",
+              "title": "save yourself",
+              "gloss": "salvo tú",
+              "lemma": "save",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/save",
+              "body": "«Save» funciona como preposición exceptiva. Folger: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; cotejo: https://www.shakespeare-online.com/plays/corio_2_3.html."
+            },
+            {
+              "term": "marks of merit",
+              "type": "Nota filológica",
+              "title": "marks of merit",
+              "gloss": "pruebas de su mérito",
+              "body": "Las heridas son signos visibles de servicio militar; se reprocha que no las haya mostrado. Folger: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; cotejo: https://www.shakespeare-online.com/plays/corio_2_3.html."
+            }
+          ]
+        },
+        {
+          "line": "1554",
+          "speaker": "sicinius",
+          "en": "Why, so he did, I am sure.",
+          "es": "Pero estoy seguro de que lo hizo.",
+          "notes": [
+            {
+              "term": "I am sure",
+              "type": "Nota filológica",
+              "title": "I am sure",
+              "gloss": "estoy seguro",
+              "body": "Los ciudadanos desmienten inmediatamente a Sicinio; su sinceridad queda abierta a interpretación. Folger: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; cotejo: https://www.shakespeare-online.com/plays/corio_2_3.html."
+            }
+          ]
+        },
+        {
+          "line": "1555",
+          "speaker": "all",
+          "en": "No, no. No man saw ’em.",
+          "es": "No, no. Nadie las vio.",
+          "notes": [
+            {
+              "term": "’em",
+              "type": "Nota filológica",
+              "title": "’em",
+              "gloss": "las",
+              "lemma": "them",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/them",
+              "body": "Forma reducida de «them» referida a las heridas. Folger: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; cotejo: https://www.shakespeare-online.com/plays/corio_2_3.html."
             }
           ]
         }
