@@ -8902,6 +8902,130 @@ window.SHAKESPEARE_READER_DATA = {
               "body": "«Doth» es el auxiliar de tercera persona singular; «appear» indica que Coriolano se presenta."
             }
           ]
+        },
+        {
+          "line": "1335–1336",
+          "speaker": "menenius",
+          "en": "The Senate, Coriolanus, are well pleased\nTo make thee consul.",
+          "es": "Coriolano, el Senado se complace en proponerte para el consulado.",
+          "notes": [
+            {
+              "term": "well pleased",
+              "type": "Léxico",
+              "title": "Aprobación senatorial",
+              "body": "El Senado respalda la candidatura; todavía falta el voto popular."
+            },
+            {
+              "term": "thee",
+              "type": "Gramática histórica",
+              "title": "Segunda persona singular",
+              "body": "«Thee» es la forma objetiva singular del pronombre; aquí complementa «make»."
+            }
+          ]
+        },
+        {
+          "line": "1337–1338",
+          "speaker": "coriolanus",
+          "en": "I do owe them still\nMy life and services.",
+          "es": "Sigo debiéndoles mi vida y mis servicios.",
+          "notes": [
+            {
+              "term": "do owe",
+              "type": "Gramática histórica",
+              "title": "Auxiliar enfático",
+              "body": "«Do» refuerza la afirmación de la deuda."
+            },
+            {
+              "term": "still",
+              "type": "Léxico",
+              "title": "Continuidad",
+              "body": "«Still» señala que la obligación persiste."
+            }
+          ]
+        },
+        {
+          "line": "1339–1340",
+          "speaker": "menenius",
+          "en": "It then remains\nThat you do speak to the people.",
+          "es": "Queda, entonces, que hables con el pueblo.",
+          "notes": [
+            {
+              "term": "It then remains",
+              "type": "Sintaxis",
+              "title": "Paso pendiente",
+              "body": "La construcción impersonal introduce un requisito todavía no cumplido."
+            },
+            {
+              "term": "do speak",
+              "type": "Gramática histórica",
+              "title": "Auxiliar",
+              "body": "«Do» acompaña al verbo en una subordinada; no añade otra acción."
+            }
+          ]
+        },
+        {
+          "line": "1341–1346",
+          "speaker": "coriolanus",
+          "en": "I do beseech you,\nLet me o’erleap that custom, for I cannot\nPut on the gown, stand naked, and entreat them\nFor my wounds’ sake to give their suffrage. Please\nyou\nThat I may pass this doing.",
+          "es": "Les suplico que me permitan saltarme esa costumbre: no puedo ponerme la toga, mostrarme con el cuerpo descubierto y rogarles que me den su voto por consideración a mis heridas. Permítanme evitar ese trámite.",
+          "notes": [
+            {
+              "term": "o’erleap",
+              "type": "Metáfora",
+              "title": "Saltarse el rito",
+              "body": "El verbo «saltar por encima» significa aquí eludir una obligación ceremonial."
+            },
+            {
+              "term": "gown",
+              "type": "Contexto escénico",
+              "title": "Toga del candidato",
+              "body": "La vestimenta ceremonial permite mostrar las heridas; «stand naked» no exige desnudez completa."
+            },
+            {
+              "term": "suffrage",
+              "type": "Léxico político",
+              "title": "Voto",
+              "body": "«Suffrage» designa el voto que debe solicitar a los ciudadanos."
+            },
+            {
+              "term": "Please you",
+              "type": "Sintaxis histórica",
+              "title": "Petición cortés",
+              "body": "Fórmula equivalente a «si les parece bien»."
+            },
+            {
+              "term": "pass this doing",
+              "type": "Léxico",
+              "title": "Omitir el trámite",
+              "body": "«Pass» expresa evitar o dejar de realizar el acto exigido."
+            }
+          ]
+        },
+        {
+          "line": "1347–1349",
+          "speaker": "sicinius",
+          "en": "Sir, the people\nMust have their voices; neither will they bate\nOne jot of ceremony.",
+          "es": "Señor, el pueblo debe ejercer su derecho al voto; tampoco renunciará ni a la más mínima parte de la ceremonia.",
+          "notes": [
+            {
+              "term": "voices",
+              "type": "Léxico político",
+              "title": "Votos",
+              "body": "«Voices» significa aquí votos, no meras voces pronunciadas."
+            },
+            {
+              "term": "bate",
+              "type": "Léxico histórico",
+              "title": "Ceder",
+              "body": "«Bate» significa reducir o dispensar una parte."
+            },
+            {
+              "term": "One jot",
+              "type": "Modismo",
+              "title": "Ni un ápice",
+              "body": "«Jot» designa una cantidad mínima; Sicinio exige el rito completo."
+            }
+          ]
         }
       ]
     }
