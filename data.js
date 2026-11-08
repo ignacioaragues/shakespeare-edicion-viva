@@ -9124,6 +9124,126 @@ window.SHAKESPEARE_READER_DATA = {
               "body": "«Breath» es literalmente aliento, pero aquí representa la voz o el voto emitido por los ciudadanos."
             }
           ]
+        },
+        {
+          "line": "1362–1365",
+          "speaker": "menenius",
+          "en": "Do not stand upon ’t.—\nWe recommend to you, tribunes of the people,\nOur purpose to them, and to our noble consul\nWish we all joy and honor.",
+          "es": "No insistas en ello. A ustedes, tribunos del pueblo, les encomendamos que transmitan nuestra decisión a los ciudadanos; y a nuestro noble cónsul le deseamos todos alegría y honor.",
+          "notes": [
+            {
+              "term": "stand upon ’t",
+              "type": "Modismo",
+              "title": "No insistir",
+              "body": "«Stand upon» significa aquí empeñarse en un punto; «’t» abrevia «it», referido al trámite discutido."
+            },
+            {
+              "term": "recommend to you",
+              "type": "Léxico histórico",
+              "title": "Encomendar",
+              "body": "«Recommend» significa confiar una gestión a los tribunos, no simplemente elogiar."
+            },
+            {
+              "term": "Our purpose",
+              "type": "Contexto político",
+              "title": "Decisión del Senado",
+              "body": "La propuesta senatorial debe comunicarse al pueblo; la elección popular todavía no se ha consumado."
+            },
+            {
+              "term": "noble consul",
+              "type": "Tratamiento político",
+              "title": "Cónsul anticipado",
+              "body": "Menenio llama «consul» a Coriolano en el contexto de la nominación; no significa que ya haya obtenido los votos ciudadanos."
+            }
+          ]
+        },
+        {
+          "line": "1366",
+          "speaker": "senators",
+          "en": "To Coriolanus come all joy and honor!",
+          "es": "¡Que toda la alegría y el honor acompañen a Coriolano!",
+          "stageAfter": "Suenan las cornetas. Salen los senadores y los demás asistentes; Sicinio y Bruto permanecen.",
+          "notes": [
+            {
+              "term": "all joy and honor",
+              "type": "Retórica",
+              "title": "Aclamación colectiva",
+              "body": "El deseo colectivo cierra solemnemente la reunión; contrasta con el diálogo crítico que sigue entre los tribunos."
+            }
+          ]
+        },
+        {
+          "line": "1367",
+          "speaker": "brutus",
+          "en": "You see how he intends to use the people.",
+          "es": "Ya ves cómo piensa tratar al pueblo.",
+          "notes": [
+            {
+              "term": "use the people",
+              "type": "Léxico y política",
+              "title": "Tratar al pueblo",
+              "body": "«Use» designa aquí el modo de conducirse con los ciudadanos; Bruto interpreta la actitud de Coriolano como desprecio."
+            }
+          ]
+        },
+        {
+          "line": "1368–1370",
+          "speaker": "sicinius",
+          "en": "May they perceive ’s intent! He will require them\nAs if he did contemn what he requested\nShould be in them to give.",
+          "es": "¡Ojalá se den cuenta de sus intenciones! Les pedirá el voto como si despreciara aquello que solicita y que está en manos de ellos conceder.",
+          "notes": [
+            {
+              "term": "perceive ’s intent",
+              "type": "Gramática histórica",
+              "title": "Percibir su intención",
+              "body": "«’s» es aquí la contracción de «his», no una marca de posesivo añadida al verbo."
+            },
+            {
+              "term": "require them",
+              "type": "Léxico histórico",
+              "title": "Solicitarles algo",
+              "body": "«Require» tiene aquí el sentido de pedir o reclamar a los ciudadanos su voto."
+            },
+            {
+              "term": "contemn",
+              "type": "Léxico",
+              "title": "Despreciar",
+              "body": "Verbo de registro elevado que significa mirar con desprecio; refuerza la paradoja entre pedir y desdeñar."
+            },
+            {
+              "term": "in them to give",
+              "type": "Sintaxis",
+              "title": "En su potestad concederlo",
+              "body": "La construcción expresa que corresponde a los ciudadanos otorgar aquello que Coriolano solicita."
+            }
+          ]
+        },
+        {
+          "line": "1371–1373",
+          "speaker": "brutus",
+          "en": "Come, we’ll inform them\nOf our proceedings here. On th’ marketplace\nI know they do attend us.",
+          "es": "Vamos, informémosles de lo que ha sucedido aquí. Sé que nos esperan en la plaza del mercado.",
+          "stageAfter": "Salen Bruto y Sicinio.",
+          "notes": [
+            {
+              "term": "proceedings",
+              "type": "Léxico político",
+              "title": "Lo tratado en la sesión",
+              "body": "«Proceedings» alude a las actuaciones o decisiones de la reunión senatorial."
+            },
+            {
+              "term": "marketplace",
+              "type": "Espacio escénico",
+              "title": "Plaza del mercado",
+              "body": "Es el espacio público donde los tribunos esperan encontrar a los ciudadanos; prepara la escena siguiente."
+            },
+            {
+              "term": "attend us",
+              "type": "Léxico histórico",
+              "title": "Nos esperan",
+              "body": "«Attend» aquí significa esperar la llegada de alguien, no asistir a una reunión."
+            }
+          ]
         }
       ]
     }

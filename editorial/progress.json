@@ -643,13 +643,22 @@
       "last_line": 1361,
       "editorial_state": "translated_source_checked",
       "note": "Four complete speeches on electoral ritual as theatrical performance; Folger II.2 checked. Private reference editions not consulted."
+    },
+    {
+      "id": "coriolanus-2-2-1362-1373",
+      "act": 2,
+      "scene": 2,
+      "first_line": 1362,
+      "last_line": 1373,
+      "editorial_state": "translated_source_checked",
+      "note": "Five complete speeches close II.2; collective acclamation, exit, tribunes' discussion and final exit. Folger online checked; private reference editions not consulted."
     }
   ],
   "next_fragment": {
     "act": 2,
-    "scene": 2,
-    "first_line": 1362,
-    "note": "Menenius closes the Senate proceedings and the tribunes respond."
+    "scene": 3,
+    "first_line": 1374,
+    "note": "Opening of II.3, the citizens discussing the voting custom; verify Folger line boundary."
   },
   "completed_acts": [],
   "last_update_commit": null,
