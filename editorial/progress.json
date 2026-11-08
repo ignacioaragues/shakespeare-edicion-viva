@@ -742,13 +742,22 @@
       "last_line": 1543,
       "editorial_state": "translated_source_checked_external_references",
       "note": "Twelve complete blocks, electoral confirmation and change of clothing; Folger II.3 checked with Shakespeare Online; private references not consulted."
+    },
+    {
+      "id": "coriolanus-2-3-1544-1555",
+      "act": 2,
+      "scene": 3,
+      "first_line": 1544,
+      "last_line": 1555,
+      "editorial_state": "translated_source_checked_external_references",
+      "note": "Nine complete speeches, citizens debate mockery and wounds; Folger checked against Shakespeare Online; private editions not consulted."
     }
   ],
   "next_fragment": {
     "act": 2,
     "scene": 3,
-    "first_line": 1544,
-    "note": "Plebeians return and discuss Coriolanus' behavior."
+    "first_line": 1556,
+    "note": "Third Citizen reenacts Coriolanus' appeal, through 1565."
   },
   "completed_acts": [],
   "last_update_commit": null,
