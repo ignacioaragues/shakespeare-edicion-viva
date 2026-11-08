@@ -19,7 +19,8 @@ window.SHAKESPEARE_READER_DATA = {
         "coriolanus-1-9",
         "coriolanus-1-10",
         "coriolanus-2-1",
-        "coriolanus-2-2"
+        "coriolanus-2-2",
+        "coriolanus-2-3"
       ]
     }
   ],
@@ -9242,6 +9243,164 @@ window.SHAKESPEARE_READER_DATA = {
               "type": "Léxico histórico",
               "title": "Nos esperan",
               "body": "«Attend» aquí significa esperar la llegada de alguien, no asistir a una reunión."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "coriolanus-2-3",
+      "workId": "coriolanus",
+      "act": 2,
+      "scene": 3,
+      "place": "Roma · Plaza del mercado",
+      "sourceRef": "Folger Shakespeare Library · Acto II, escena 3",
+      "sectionLabel": "Edición en curso · líneas 1374–1390",
+      "introduction": "Antes de que Coriolano solicite sus votos, los ciudadanos debaten hasta qué punto son libres de negárselos y qué exige la gratitud pública.",
+      "stage": "Entran siete u ocho ciudadanos.",
+      "characters": [
+        {
+          "id": "citizen1",
+          "name": "Primer ciudadano",
+          "english": "First Citizen",
+          "identity": "Defiende la obligación de reconocer los méritos de Coriolano, pero recuerda sus insultos a la multitud.",
+          "color": "copper"
+        },
+        {
+          "id": "citizen2",
+          "name": "Segundo ciudadano",
+          "english": "Second Citizen",
+          "identity": "Sostiene que el voto es una facultad de los ciudadanos.",
+          "color": "olive"
+        },
+        {
+          "id": "citizen3",
+          "name": "Tercer ciudadano",
+          "english": "Third Citizen",
+          "identity": "Reflexiona irónicamente sobre la libertad del voto y el deber de gratitud.",
+          "color": "slate"
+        }
+      ],
+      "blocks": [
+        {
+          "line": "1374–1375",
+          "speaker": "citizen1",
+          "en": "Once, if he do require our voices, we\nought not to deny him.",
+          "es": "En principio, si nos pide nuestros votos, no deberíamos negárselos.",
+          "notes": [
+            {
+              "term": "Once",
+              "type": "Léxico histórico",
+              "title": "En principio",
+              "body": "Aquí introduce una premisa inicial del debate, no una referencia temporal a «una vez»."
+            },
+            {
+              "term": "voices",
+              "type": "Metonimia política",
+              "title": "Votos",
+              "body": "La voz pronunciada por cada ciudadano representa su sufragio."
+            },
+            {
+              "term": "do require",
+              "type": "Gramática histórica",
+              "title": "Do enfático",
+              "body": "El auxiliar «do» acompaña a «require» en una construcción afirmativa propia del inglés de la época; no expresa obligación."
+            }
+          ]
+        },
+        {
+          "line": "1376",
+          "speaker": "citizen2",
+          "en": "We may, sir, if we will.",
+          "es": "Podemos negárselo, señor, si queremos.",
+          "notes": [
+            {
+              "term": "may",
+              "type": "Modalidad",
+              "title": "Facultad, no deber",
+              "body": "El segundo ciudadano reivindica la posibilidad de negarse, frente al «ought» del primero."
+            },
+            {
+              "term": "if we will",
+              "type": "Gramática histórica",
+              "title": "Si queremos",
+              "body": "«Will» conserva aquí su sentido volitivo: tener la voluntad de hacerlo."
+            }
+          ]
+        },
+        {
+          "line": "1377–1386",
+          "speaker": "citizen3",
+          "en": "We have power in ourselves to do it, but\nit is a power that we have no power to do; for, if\nhe show us his wounds and tell us his deeds, we\nare to put our tongues into those wounds and\nspeak for them. So, if he tell us his noble deeds, we\nmust also tell him our noble acceptance of them.\nIngratitude is monstrous, and for the multitude to\nbe ingrateful were to make a monster of the multitude,\nof the which, we being members, should\nbring ourselves to be monstrous members.",
+          "es": "Tenemos en nuestras manos el poder de hacerlo, pero es un poder que no podemos ejercer. Porque, si nos muestra sus heridas y nos cuenta sus hazañas, debemos poner la lengua en esas heridas y hablar en nombre de ellas. Así, si nos relata sus nobles acciones, también nosotros debemos expresarle nuestra noble aceptación. La ingratitud es monstruosa; y que la multitud fuese ingrata sería convertirla en un monstruo. Como formamos parte de ella, acabaríamos siendo miembros monstruosos.",
+          "notes": [
+            {
+              "term": "power",
+              "type": "Paradoja retórica",
+              "title": "Poder sin poder",
+              "body": "La repetición contrapone la facultad formal de votar con la presión moral de reconocer el servicio militar."
+            },
+            {
+              "term": "if he show",
+              "type": "Gramática histórica",
+              "title": "Subjuntivo sin -s",
+              "body": "La forma «show» tras «if», con sujeto singular, corresponde a un subjuntivo posible en el inglés moderno temprano."
+            },
+            {
+              "term": "put our tongues into those wounds",
+              "type": "Imagen retórica",
+              "title": "Las heridas hablan",
+              "body": "Las lenguas de los votantes prestan voz a las heridas del soldado: la evidencia corporal se transforma en argumento electoral."
+            },
+            {
+              "term": "ingrateful",
+              "type": "Léxico histórico",
+              "title": "Ingrato",
+              "body": "Forma equivalente a «ungrateful», que reaparece en la figura de la monstruosidad colectiva."
+            },
+            {
+              "term": "members",
+              "type": "Juego semántico",
+              "title": "Miembros del cuerpo político",
+              "body": "«Members» significa integrantes de la multitud y evoca simultáneamente las partes corporales de un monstruo."
+            },
+            {
+              "term": "were to make",
+              "type": "Gramática histórica",
+              "title": "Hipótesis",
+              "body": "«Were» presenta una consecuencia hipotética: no afirma que la multitud ya sea ingrata."
+            }
+          ]
+        },
+        {
+          "line": "1387–1390",
+          "speaker": "citizen1",
+          "en": "And to make us no better thought of, a\nlittle help will serve; for once we stood up about\nthe corn, he himself stuck not to call us the many-headed\nmultitude.",
+          "es": "Y para que piensen todavía peor de nosotros, bastaría muy poco: cuando nos alzamos por el grano, él mismo no vaciló en llamarnos la multitud de muchas cabezas.",
+          "notes": [
+            {
+              "term": "a little help will serve",
+              "type": "Ironía",
+              "title": "Basta poco",
+              "body": "El ciudadano responde a la amenaza de ser considerados monstruosos: su reputación ya es mala."
+            },
+            {
+              "term": "stood up about the corn",
+              "type": "Contexto dramático",
+              "title": "Protesta por el grano",
+              "body": "Remite a la revuelta alimentaria con la que comienza la obra."
+            },
+            {
+              "term": "stuck not",
+              "type": "Léxico histórico",
+              "title": "No vaciló",
+              "body": "«Stick» con negación significa no dudar o no tener reparos en hacer algo."
+            },
+            {
+              "term": "many-headed",
+              "type": "Metáfora política",
+              "title": "Multitud de muchas cabezas",
+              "body": "La imagen del cuerpo colectivo multiplica las cabezas y enlaza con el «monstruo» del parlamento anterior."
             }
           ]
         }

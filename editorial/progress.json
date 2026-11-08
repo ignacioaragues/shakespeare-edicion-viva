@@ -652,13 +652,22 @@
       "last_line": 1373,
       "editorial_state": "translated_source_checked",
       "note": "Five complete speeches close II.2; collective acclamation, exit, tribunes' discussion and final exit. Folger online checked; private reference editions not consulted."
+    },
+    {
+      "id": "coriolanus-2-3-1374-1390",
+      "act": 2,
+      "scene": 3,
+      "first_line": 1374,
+      "last_line": 1390,
+      "editorial_state": "translated_source_checked",
+      "note": "Four complete speeches opening II.3; Folger online checked; original Spanish and selective notes; private editions not consulted."
     }
   ],
   "next_fragment": {
     "act": 2,
     "scene": 3,
-    "first_line": 1374,
-    "note": "Opening of II.3, the citizens discussing the voting custom; verify Folger line boundary."
+    "first_line": 1391,
+    "note": "Third Citizen's reply about the many-headed multitude."
   },
   "completed_acts": [],
   "last_update_commit": null,
