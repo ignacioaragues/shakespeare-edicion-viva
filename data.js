@@ -9255,7 +9255,7 @@ window.SHAKESPEARE_READER_DATA = {
       "scene": 3,
       "place": "Roma · Plaza del mercado",
       "sourceRef": "Folger Shakespeare Library · Acto II, escena 3",
-      "sectionLabel": "Edición en curso · líneas 1374–1390",
+      "sectionLabel": "Edición en curso · líneas 1374–1410",
       "introduction": "Antes de que Coriolano solicite sus votos, los ciudadanos debaten hasta qué punto son libres de negárselos y qué exige la gratitud pública.",
       "stage": "Entran siete u ocho ciudadanos.",
       "characters": [
@@ -9401,6 +9401,125 @@ window.SHAKESPEARE_READER_DATA = {
               "type": "Metáfora política",
               "title": "Multitud de muchas cabezas",
               "body": "La imagen del cuerpo colectivo multiplica las cabezas y enlaza con el «monstruo» del parlamento anterior."
+            }
+          ]
+        },
+        {
+          "line": "1391–1397",
+          "speaker": "citizen3",
+          "en": "We have been called so of many; not that\nour heads are some brown, some black, some\nabram, some bald, but that our wits are so diversely\ncolored; and truly I think if all our wits were to\nissue out of one skull, they would fly east, west,\nnorth, south, and their consent of one direct way\nshould be at once to all the points o’ th’ compass.",
+          "es": "Muchos nos han llamado así; no porque unos tengamos el pelo castaño, otros negro, otros rojizo y otros seamos calvos, sino porque nuestras maneras de pensar son de colores muy distintos. Y, francamente, creo que, si todas nuestras inteligencias salieran de un solo cráneo, volarían hacia el este, el oeste, el norte y el sur; y su acuerdo para seguir una misma dirección las llevaría, al mismo tiempo, a todos los puntos de la brújula.",
+          "notes": [
+            {
+              "term": "called so of many",
+              "type": "Gramática histórica",
+              "title": "Llamados así por muchos",
+              "body": "«Of» introduce el agente de la pasiva, donde hoy se usaría normalmente «by». Texto: Folger Shakespeare Library, Coriolanus, II.3, líneas 1391–1397, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/."
+            },
+            {
+              "term": "abram",
+              "type": "Variante textual",
+              "title": "Abram / auburn",
+              "body": "Folger imprime «abram» y Shakespeare Online «auburn», ambas referidas aquí a un color rojizo de cabello. Se conserva la lectura Folger; la diferencia entre ediciones no debe borrarse. Folger, II.3, línea 1393, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; Shakespeare Online, II.3, https://www.shakespeare-online.com/plays/corio_2_3.html."
+            },
+            {
+              "term": "wits",
+              "type": "Léxico",
+              "title": "Ingenios y juicios",
+              "body": "«Wits» se refiere a las facultades de entendimiento y juicio. Los colores del cabello se trasladan figuradamente a la diversidad de opiniones."
+            },
+            {
+              "term": "consent of one direct way",
+              "type": "Retórica",
+              "title": "El acuerdo que se dispersa",
+              "body": "Paradoja: si las opiniones convergieran en una sola cabeza, su presunto acuerdo conduciría simultáneamente a todos los puntos cardinales. Es una lectura retórica del pasaje."
+            }
+          ]
+        },
+        {
+          "line": "1398–1399",
+          "speaker": "citizen2",
+          "en": "Think you so? Which way do you\njudge my wit would fly?",
+          "es": "¿Eso crees? ¿Hacia dónde piensas que volaría mi inteligencia?",
+          "notes": [
+            {
+              "term": "Which way",
+              "type": "Diálogo",
+              "title": "De lo colectivo a lo personal",
+              "body": "La pregunta convierte la metáfora de la brújula colectiva en una evaluación del ingenio particular del segundo ciudadano."
+            }
+          ]
+        },
+        {
+          "line": "1400–1403",
+          "speaker": "citizen3",
+          "en": "Nay, your wit will not so soon out as another\nman’s will; ’tis strongly wedged up in a blockhead.\nBut if it were at liberty, ’twould sure\nsouthward.",
+          "es": "No: tu inteligencia no saldría tan pronto como la de otro; está bien encajada en una cabeza de madera. Pero, si lograra soltarse, iría sin duda hacia el sur.",
+          "notes": [
+            {
+              "term": "blockhead",
+              "type": "Juego de palabras",
+              "title": "Cabeza de madera",
+              "body": "El insulto «blockhead» evoca literalmente un bloque de madera, reforzado por «wedged» («encajada a presión»). Folger, II.3, líneas 1400–1403, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/."
+            },
+            {
+              "term": "’twould sure",
+              "type": "Sintaxis",
+              "title": "Con seguridad iría",
+              "body": "«’twould» = «it would»; «sure» tiene valor adverbial. Se sobreentiende el verbo de movimiento."
+            }
+          ]
+        },
+        {
+          "line": "1404",
+          "speaker": "citizen2",
+          "en": "Why that way?",
+          "es": "¿Por qué en esa dirección?",
+          "notes": []
+        },
+        {
+          "line": "1405–1408",
+          "speaker": "citizen3",
+          "en": "To lose itself in a fog, where, being three\nparts melted away with rotten dews, the fourth\nwould return for conscience’ sake, to help to get\nthee a wife.",
+          "es": "Para perderse en la niebla, donde los vapores malsanos disolverían tres cuartas partes de ella; la cuarta regresaría, por escrúpulo de conciencia, para ayudarte a conseguir esposa.",
+          "notes": [
+            {
+              "term": "three parts",
+              "type": "Léxico",
+              "title": "Tres cuartas partes",
+              "body": "«Three parts» contrasta con «the fourth»: se imagina que solo una cuarta parte del ingenio sobreviviría."
+            },
+            {
+              "term": "rotten dews",
+              "type": "Imagen",
+              "title": "Vapores malsanos",
+              "body": "La niebla y el rocío corrompido sugieren un ambiente nocivo. No se identifica expresamente un lugar geográfico; cualquier localización precisa sería conjetural."
+            },
+            {
+              "term": "for conscience’ sake",
+              "type": "Ironía",
+              "title": "Deber de conciencia",
+              "body": "La porción restante de inteligencia regresaría como si tuviera el deber moral de ayudar al interlocutor a conseguir esposa."
+            },
+            {
+              "term": "thee",
+              "type": "Gramática histórica",
+              "title": "Pronombre de objeto singular",
+              "body": "«Thee» es forma de objeto singular de segunda persona, traducida aquí mediante tuteo."
+            }
+          ]
+        },
+        {
+          "line": "1409–1410",
+          "speaker": "citizen2",
+          "en": "You are never without your tricks. You\nmay, you may.",
+          "es": "Siempre tienes alguna de tus bromas. Está bien, está bien.",
+          "notes": [
+            {
+              "term": "You may, you may",
+              "type": "Pragmática",
+              "title": "Aceptación resignada",
+              "body": "La repetición puede interpretarse como una concesión ante la burla, no como permiso literal. Folger, II.3, líneas 1409–1410, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/."
             }
           ]
         }
