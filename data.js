@@ -10468,6 +10468,207 @@ window.SHAKESPEARE_READER_DATA = {
               "body": "Tras la aclamación de los ciudadanos, «worthy» puede oírse como un agradecimiento convencional o, dado el tono anterior del personaje, como una nueva ironía. La interpretación depende de la representación. Folger, Coriolanus II.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; cotejo: https://www.shakespeare-online.com/plays/corio_2_3.html."
             }
           ]
+        },
+        {
+          "line": "1523–1526",
+          "speaker": "menenius",
+          "en": "You have stood your limitation, and the Tribunes\nEndue you with the people’s voice. Remains\nThat in th’ official marks invested, you\nAnon do meet the Senate.",
+          "es": "Has cumplido el plazo establecido, y los tribunos\nte confieren el voto del pueblo. Solo falta\nque, investido con las insignias oficiales,\nte presentes en breve ante el Senado.",
+          "notes": [
+            {
+              "term": "stood your limitation",
+              "type": "Nota filológica",
+              "title": "Plazo cumplido",
+              "gloss": "has cumplido el plazo",
+              "body": "«Limitation» se refiere al período o requisito formal de la solicitud, no a una incapacidad. Folger, Coriolanus II.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; cotejo Shakespeare Online: https://www.shakespeare-online.com/plays/corio_2_3.html."
+            },
+            {
+              "term": "Endue",
+              "type": "Nota filológica",
+              "title": "Investidura",
+              "gloss": "confieren; revisten",
+              "lemma": "endue",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/endue",
+              "body": "El verbo significa conferir o revestir de una cualidad o dignidad. Folger, Coriolanus II.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; cotejo Shakespeare Online: https://www.shakespeare-online.com/plays/corio_2_3.html."
+            },
+            {
+              "term": "official marks",
+              "type": "Nota filológica",
+              "title": "Insignias oficiales",
+              "gloss": "insignias del cargo",
+              "body": "Las señales externas de dignidad pública no se describen con precisión en el texto. Folger, Coriolanus II.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; cotejo Shakespeare Online: https://www.shakespeare-online.com/plays/corio_2_3.html."
+            },
+            {
+              "term": "Anon",
+              "type": "Nota filológica",
+              "title": "Adverbio temporal",
+              "gloss": "en breve",
+              "lemma": "anon",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/anon",
+              "body": "Adverbio característico del inglés moderno temprano. Folger, Coriolanus II.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; cotejo Shakespeare Online: https://www.shakespeare-online.com/plays/corio_2_3.html."
+            }
+          ]
+        },
+        {
+          "line": "1527",
+          "speaker": "coriolanus",
+          "en": "Is this done?",
+          "es": "¿Ya está hecho?",
+          "notes": []
+        },
+        {
+          "line": "1528–1530",
+          "speaker": "sicinius",
+          "en": "The custom of request you have discharged.\nThe people do admit you, and are summoned\nTo meet anon upon your approbation.",
+          "es": "Has cumplido la costumbre de solicitar los votos.\nEl pueblo acepta tu candidatura y ha sido convocado\npara reunirse pronto con motivo de tu aprobación.",
+          "notes": [
+            {
+              "term": "discharged",
+              "type": "Nota filológica",
+              "title": "Cumplir una obligación",
+              "gloss": "has cumplido",
+              "lemma": "discharge",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/discharge",
+              "body": "El requisito electoral se ha satisfecho, pero todavía resta una reunión posterior. Folger, Coriolanus II.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; cotejo Shakespeare Online: https://www.shakespeare-online.com/plays/corio_2_3.html."
+            },
+            {
+              "term": "approbation",
+              "type": "Nota filológica",
+              "title": "Aprobación política",
+              "gloss": "aprobación; ratificación",
+              "body": "La reunión posterior distingue el consentimiento inicial de la conclusión del procedimiento. Folger, Coriolanus II.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; cotejo Shakespeare Online: https://www.shakespeare-online.com/plays/corio_2_3.html."
+            }
+          ]
+        },
+        {
+          "line": "1531",
+          "speaker": "coriolanus",
+          "en": "Where? At the Senate House?",
+          "es": "¿Dónde? ¿En la sede del Senado?",
+          "notes": []
+        },
+        {
+          "line": "1532",
+          "speaker": "sicinius",
+          "en": "There, Coriolanus.",
+          "es": "Allí, Coriolano.",
+          "notes": []
+        },
+        {
+          "line": "1533",
+          "speaker": "coriolanus",
+          "en": "May I change these garments?",
+          "es": "¿Puedo cambiarme esta ropa?",
+          "notes": [
+            {
+              "term": "these garments",
+              "type": "Nota filológica",
+              "title": "Vestimenta electoral",
+              "gloss": "esta ropa",
+              "body": "Se refiere a la indumentaria humilde utilizada para pedir votos. Folger, Coriolanus II.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; cotejo Shakespeare Online: https://www.shakespeare-online.com/plays/corio_2_3.html."
+            }
+          ]
+        },
+        {
+          "line": "1534",
+          "speaker": "sicinius",
+          "en": "You may, sir.",
+          "es": "Puedes, señor.",
+          "notes": []
+        },
+        {
+          "line": "1535–1536",
+          "speaker": "coriolanus",
+          "en": "That I’ll straight do and, knowing myself again,\nRepair to th’ Senate House.",
+          "es": "Lo haré enseguida y, cuando vuelva a reconocerme a mí mismo,\nme dirigiré a la sede del Senado.",
+          "notes": [
+            {
+              "term": "knowing myself again",
+              "type": "Nota filológica",
+              "title": "Identidad y vestido",
+              "gloss": "volver a ser yo mismo",
+              "body": "La ropa de solicitante aparece como una identidad que el personaje siente ajena; es una lectura dramática. Folger, Coriolanus II.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; cotejo Shakespeare Online: https://www.shakespeare-online.com/plays/corio_2_3.html."
+            },
+            {
+              "term": "Repair",
+              "type": "Nota filológica",
+              "title": "Verbo de movimiento",
+              "gloss": "dirigirme",
+              "lemma": "repair",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/repair",
+              "body": "«Repair» significa aquí acudir a un lugar, no reparar un objeto. Folger, Coriolanus II.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; cotejo Shakespeare Online: https://www.shakespeare-online.com/plays/corio_2_3.html."
+            }
+          ]
+        },
+        {
+          "line": "1537",
+          "speaker": "menenius",
+          "en": "I’ll keep you company.—Will you along?",
+          "es": "Te acompañaré. ¿Vienen ustedes también?",
+          "notes": [
+            {
+              "term": "Will you along",
+              "type": "Nota filológica",
+              "title": "Elipsis verbal",
+              "gloss": "¿vienen también?",
+              "body": "El verbo de movimiento se sobreentiende; la pregunta se dirige a los tribunos. Folger, Coriolanus II.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; cotejo Shakespeare Online: https://www.shakespeare-online.com/plays/corio_2_3.html."
+            }
+          ]
+        },
+        {
+          "line": "1538",
+          "speaker": "brutus",
+          "en": "We stay here for the people.",
+          "es": "Nos quedamos aquí para esperar al pueblo.",
+          "notes": []
+        },
+        {
+          "line": "1539–1541",
+          "speaker": "sicinius",
+          "en": "Fare you well.\n⌜Coriolanus and Menenius exit.⌝\nHe has it now; and by his looks, methinks,\n’Tis warm at ’s heart.",
+          "es": "Que te vaya bien.\nSalen Coriolano y Menenio.\nYa lo ha conseguido y, a juzgar por su expresión, me parece\nque la satisfacción le calienta el corazón.",
+          "notes": [
+            {
+              "term": "methinks",
+              "type": "Nota filológica",
+              "title": "Construcción impersonal",
+              "gloss": "me parece",
+              "lemma": "methinks",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/methinks",
+              "body": "Forma histórica con dativo «me», distinta sintácticamente de «I think». Folger, Coriolanus II.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; cotejo Shakespeare Online: https://www.shakespeare-online.com/plays/corio_2_3.html."
+            },
+            {
+              "term": "warm at ’s heart",
+              "type": "Nota filológica",
+              "title": "Metáfora afectiva",
+              "gloss": "le calienta el corazón",
+              "body": "Sicinio infiere satisfacción a partir del rostro de Coriolano; la frase no certifica su estado interior. Folger, Coriolanus II.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; cotejo Shakespeare Online: https://www.shakespeare-online.com/plays/corio_2_3.html."
+            }
+          ]
+        },
+        {
+          "line": "1542–1543",
+          "speaker": "brutus",
+          "en": "With a proud heart he wore\nHis humble weeds. Will you dismiss the people?\n⌜Enter the Plebeians.⌝",
+          "es": "Con un corazón orgulloso llevaba\nsus humildes ropas. ¿Harás pasar al pueblo?\nEntran los plebeyos.",
+          "notes": [
+            {
+              "term": "humble weeds",
+              "type": "Nota filológica",
+              "title": "Vestido y antítesis",
+              "gloss": "ropa humilde",
+              "lemma": "weed",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/weed",
+              "body": "«Weeds» significa prendas; «proud / humble» contrapone orgullo interior y apariencia exterior. Folger, Coriolanus II.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; cotejo Shakespeare Online: https://www.shakespeare-online.com/plays/corio_2_3.html."
+            },
+            {
+              "term": "dismiss the people",
+              "type": "Nota filológica",
+              "title": "Ambigüedad escénica",
+              "gloss": "despedir / hacer pasar al pueblo",
+              "body": "La expresión puede significar despedir a la gente, aunque inmediatamente se anuncia su entrada; la traducción sigue la continuidad escénica y registra la dificultad. Folger, Coriolanus II.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; cotejo Shakespeare Online: https://www.shakespeare-online.com/plays/corio_2_3.html."
+            }
+          ]
         }
       ]
     }
