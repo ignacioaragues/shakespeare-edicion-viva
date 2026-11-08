@@ -18,7 +18,8 @@ window.SHAKESPEARE_READER_DATA = {
         "coriolanus-1-8",
         "coriolanus-1-9",
         "coriolanus-1-10",
-        "coriolanus-2-1"
+        "coriolanus-2-1",
+        "coriolanus-2-2"
       ]
     }
   ],
@@ -7915,6 +7916,133 @@ window.SHAKESPEARE_READER_DATA = {
               "type": "Locución",
               "title": "Have with you",
               "body": "Fórmula de asentimiento para acompañar al interlocutor, no una posesión literal."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "coriolanus-2-2",
+      "workId": "coriolanus",
+      "act": 2,
+      "scene": 2,
+      "place": "Roma · El Capitolio",
+      "sourceRef": "Folger Shakespeare Library · Acto II, escena 2",
+      "sectionLabel": "Edición en curso · líneas 1184–1198",
+      "introduction": "Dos oficiales preparan los asientos antes de la sesión del Senado. Su conversación contrapone el mérito militar de Coriolano y su desprecio por la opinión popular.",
+      "stage": "Entran dos oficiales para colocar cojines en el Capitolio.",
+      "characters": [
+        {
+          "id": "officer1",
+          "name": "Primer oficial",
+          "english": "First Officer",
+          "identity": "Empleado que prepara el espacio de reunión del Senado; critica la soberbia de Coriolano.",
+          "color": "slate"
+        },
+        {
+          "id": "officer2",
+          "name": "Segundo oficial",
+          "english": "Second Officer",
+          "identity": "Empleado del Capitolio que defiende la independencia de Coriolano frente a los halagos políticos.",
+          "color": "olive"
+        }
+      ],
+      "blocks": [
+        {
+          "line": "1184–1185",
+          "speaker": "officer1",
+          "en": "Come, come. They are almost here. How many stand for consulships?",
+          "es": "Vamos, vamos. Ya casi llegan. ¿Cuántos se presentan al consulado?",
+          "notes": [
+            {
+              "term": "stand for consulships",
+              "type": "Instituciones",
+              "title": "stand for consulships",
+              "body": "«Stand for» significa presentarse como candidato; el plural se refiere a las magistraturas consulares."
+            }
+          ]
+        },
+        {
+          "line": "1186–1187",
+          "speaker": "officer2",
+          "en": "Three, they say; but ’tis thought of everyone Coriolanus will carry it.",
+          "es": "Tres, según dicen; pero todo el mundo cree que Coriolano obtendrá el cargo.",
+          "notes": [
+            {
+              "term": "’tis thought of everyone",
+              "type": "Sintaxis",
+              "title": "’tis thought of everyone",
+              "body": "Construcción impersonal: «todos piensan». «Of» introduce aquí al agente de la opinión."
+            },
+            {
+              "term": "carry it",
+              "type": "Locución",
+              "title": "carry it",
+              "body": "Obtener el triunfo en la elección o llevarse el cargo."
+            }
+          ]
+        },
+        {
+          "line": "1188–1189",
+          "speaker": "officer1",
+          "en": "That’s a brave fellow, but he’s vengeance proud and loves not the common people.",
+          "es": "Es un hombre valiente, pero es terriblemente orgulloso y no quiere al pueblo.",
+          "notes": [
+            {
+              "term": "brave fellow",
+              "type": "Léxico",
+              "title": "brave fellow",
+              "body": "«Brave» alude al valor militar, no a la cortesía."
+            },
+            {
+              "term": "vengeance proud",
+              "type": "Intensificación",
+              "title": "vengeance proud",
+              "body": "«Vengeance» funciona como intensificador coloquial: extremadamente orgulloso."
+            },
+            {
+              "term": "loves not",
+              "type": "Gramática",
+              "title": "loves not",
+              "body": "Negación verbal sin el auxiliar «do», habitual en el inglés de Shakespeare."
+            }
+          ]
+        },
+        {
+          "line": "1190–1198",
+          "speaker": "officer2",
+          "en": "’Faith, there hath been many great men that have flattered the people who ne’er loved them; and there be many that they have loved they know not wherefore; so that, if they love they know not why, they hate upon no better a ground. Therefore, for Coriolanus neither to care whether they love or hate him manifests the true knowledge he has in their disposition and, out of his noble carelessness, lets them plainly see ’t.",
+          "es": "A fe mía, ha habido muchos grandes hombres que han halagado al pueblo sin quererlo jamás; y también hay muchos a quienes el pueblo ha querido sin saber por qué. De modo que, si quiere sin conocer la razón, tampoco tiene mejores motivos para odiar. Por eso, que a Coriolano le dé igual que lo quieran o lo odien demuestra cuánto conoce el carácter del pueblo; y, con su noble indiferencia, se lo deja ver claramente.",
+          "notes": [
+            {
+              "term": "’Faith",
+              "type": "Interjección",
+              "title": "’Faith",
+              "body": "Contracción de «in faith», fórmula enfática equivalente a «a fe mía»."
+            },
+            {
+              "term": "there hath been",
+              "type": "Gramática",
+              "title": "there hath been",
+              "body": "«Hath» aparece con una construcción existencial plural; la concordancia no coincide con la norma actual."
+            },
+            {
+              "term": "wherefore",
+              "type": "Léxico",
+              "title": "wherefore",
+              "body": "Aquí significa «por qué», no «dónde»."
+            },
+            {
+              "term": "upon no better a ground",
+              "type": "Sintaxis",
+              "title": "upon no better a ground",
+              "body": "«Ground» significa fundamento o motivo; la comparación se refiere a las razones del amor y del odio."
+            },
+            {
+              "term": "noble carelessness",
+              "type": "Interpretación",
+              "title": "noble carelessness",
+              "body": "El segundo oficial valora positivamente la indiferencia de Coriolano; no es una descripción neutral del narrador."
             }
           ]
         }

@@ -562,15 +562,24 @@
       "last_line": 1183,
       "editorial_state": "translated_source_checked",
       "note": "Five complete speeches through the exit of II.1; Folger online checked. Messenger entrance and final exit occur between/after blocks; EPUB not consulted."
+    },
+    {
+      "id": "coriolanus-2-2-1184-1198",
+      "act": 2,
+      "scene": 2,
+      "first_line": 1184,
+      "last_line": 1198,
+      "editorial_state": "translated_source_checked",
+      "note": "Four complete opening speeches of II.2, two officers debating Coriolanus; Folger online checked. Stage entrance included; private reference editions not consulted."
     }
   ],
   "next_fragment": {
     "act": 2,
     "scene": 2,
-    "first_line": 1184,
-    "note": "Start Senate scene; verify Folger numbering and navigation before publishing."
+    "first_line": 1199,
+    "note": "Continue First Officer's rebuttal, lines 1199–1206; keep speech whole."
   },
   "completed_acts": [],
-  "last_update_commit": "II.1 complete through 1183; see latest Git commit",
+  "last_update_commit": null,
   "notes": "Folger online line 66 is 'We cannot, sir; we are undone already.' The original prototype had an off-by-one numbering error, corrected in this release. Text is still under editorial review."
 }

@@ -1,6 +1,6 @@
 # Shakespeare · Edición viva
 
-An experimental, buildless bilingual and annotated Shakespeare reader. Currently ships a incremental edition of *Coriolanus*, currently covering Act I and the opening of II.1, rather than claiming to include a whole play.
+An experimental, buildless bilingual and annotated Shakespeare reader. Currently ships a incremental edition of *Coriolanus*, currently covering Act I and the opening of II.2, rather than claiming to include a whole play.
 
 ## What the site does
 
@@ -20,7 +20,7 @@ The reader supports explicit scene navigation, with scene-specific bookmarks and
 
 Incremental work on *Coriolanus* is tracked in [`editorial/progress.json`](editorial/progress.json), with the source, translation, quality and publication rules in [`editorial/WORKFLOW.md`](editorial/WORKFLOW.md). Each new batch must update the code and progress together; do not infer the next passage from a chat summary alone.
 
-The home page opens at the site root. `#coriolanus` opens the reader and `#coriolanus-1-2` selects scene I.2 and `#coriolanus-1-3` selects I.3; `#coriolanus-1-4` selects I.4; `#coriolanus-1-5` selects I.5; `#coriolanus-1-6` selects I.6; `#coriolanus-1-7` selects I.7; `#coriolanus-1-8` selects I.8; `#coriolanus-1-9` selects I.9; `#coriolanus-1-10` selects I.10; `#coriolanus-2-1` selects II.1. `#coriolanus-act-1` offers continuous reading of Act I. The brand button returns to the library. Sources and license details remain accessible through the home-page attribution and the reader's **Fuentes** control.
+The home page opens at the site root. `#coriolanus` opens the reader and `#coriolanus-1-2` selects scene I.2 and `#coriolanus-1-3` selects I.3; `#coriolanus-1-4` selects I.4; `#coriolanus-1-5` selects I.5; `#coriolanus-1-6` selects I.6; `#coriolanus-1-7` selects I.7; `#coriolanus-1-8` selects I.8; `#coriolanus-1-9` selects I.9; `#coriolanus-1-10` selects I.10; `#coriolanus-2-1` selects II.1; `#coriolanus-2-2` selects II.2. `#coriolanus-act-1` offers continuous reading of Act I. The brand button returns to the library. Sources and license details remain accessible through the home-page attribution and the reader's **Fuentes** control.
 
 The three static assets linked in `index.html` carry a small `?v=` cache-busting version. Increase it when changing `styles.css`, `app.js` or `data.js`; otherwise readers may see the new HTML with cached old assets for a while after a GitHub Pages deployment.
 
