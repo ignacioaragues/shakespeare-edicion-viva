@@ -571,13 +571,22 @@
       "last_line": 1198,
       "editorial_state": "translated_source_checked",
       "note": "Four complete opening speeches of II.2, two officers debating Coriolanus; Folger online checked. Stage entrance included; private reference editions not consulted."
+    },
+    {
+      "id": "coriolanus-2-2-1199-1219",
+      "act": 2,
+      "scene": 2,
+      "first_line": 1199,
+      "last_line": 1219,
+      "editorial_state": "translated_source_checked",
+      "note": "Three complete officer speeches and Senate entrance; checked against Folger online. Private reference editions not consulted."
     }
   ],
   "next_fragment": {
     "act": 2,
     "scene": 2,
-    "first_line": 1199,
-    "note": "Continue First Officer's rebuttal, lines 1199–1206; keep speech whole."
+    "first_line": 1220,
+    "note": "Menenio abre la sesión del Senado."
   },
   "completed_acts": [],
   "last_update_commit": null,

@@ -7928,8 +7928,8 @@ window.SHAKESPEARE_READER_DATA = {
       "scene": 2,
       "place": "Roma · El Capitolio",
       "sourceRef": "Folger Shakespeare Library · Acto II, escena 2",
-      "sectionLabel": "Edición en curso · líneas 1184–1198",
-      "introduction": "Dos oficiales preparan los asientos antes de la sesión del Senado. Su conversación contrapone el mérito militar de Coriolano y su desprecio por la opinión popular.",
+      "sectionLabel": "Edición en curso · líneas 1184–1219",
+      "introduction": "Dos oficiales discuten el mérito militar y la hostilidad de Coriolano hacia el pueblo. La conversación concluye con la entrada ceremonial del Senado.",
       "stage": "Entran dos oficiales para colocar cojines en el Capitolio.",
       "characters": [
         {
@@ -8045,6 +8045,145 @@ window.SHAKESPEARE_READER_DATA = {
               "body": "El segundo oficial valora positivamente la indiferencia de Coriolano; no es una descripción neutral del narrador."
             }
           ]
+        },
+        {
+          "line": "1199–1206",
+          "speaker": "officer1",
+          "en": "If he did not care whether he had their love or no, he waved indifferently ’twixt doing them neither good nor harm; but he seeks their hate with greater devotion than they can render it him and leaves nothing undone that may fully discover him their opposite. Now, to seem to affect the malice and displeasure of the people is as bad as that which he dislikes, to flatter them for their love.",
+          "es": "Si no le importara que el pueblo lo quisiera o no, oscilaría indiferente entre no hacerle ni bien ni mal. Pero busca su odio con más empeño del que el pueblo puede poner en odiarlo, y no deja de hacer nada que pueda mostrarle plenamente que es su adversario. Ahora bien, aparentar que uno desea la enemistad y el descontento del pueblo es tan malo como aquello que él censura: adularlo para ganarse su afecto.",
+          "notes": [
+            {
+              "term": "waved indifferently",
+              "type": "Léxico y sintaxis",
+              "title": "waved indifferently",
+              "body": "«Waved» expresa vacilación u oscilación; el oficial contrapone la neutralidad hipotética a la hostilidad activa."
+            },
+            {
+              "term": "’twixt",
+              "type": "Forma abreviada",
+              "title": "’twixt",
+              "body": "Contracción de «betwixt», «entre»."
+            },
+            {
+              "term": "with greater devotion",
+              "type": "Ironía",
+              "title": "with greater devotion",
+              "body": "«Devotion» intensifica paradójicamente el esfuerzo con que Coriolano procura hacerse odiar."
+            },
+            {
+              "term": "render it him",
+              "type": "Sintaxis",
+              "title": "render it him",
+              "body": "El orden equivale a «render it to him»: devolverle ese odio."
+            },
+            {
+              "term": "discover him their opposite",
+              "type": "Semántica histórica",
+              "title": "discover him their opposite",
+              "body": "«Discover» significa revelar o poner de manifiesto; «opposite» es adversario."
+            },
+            {
+              "term": "affect the malice",
+              "type": "Léxico",
+              "title": "affect the malice",
+              "body": "«Affect» aquí significa procurar o mostrar inclinación hacia algo, no «afectar» en el sentido moderno de perjudicar."
+            },
+            {
+              "term": "as bad as",
+              "type": "Argumentación",
+              "title": "as bad as",
+              "body": "El primer oficial equipara buscar el odio del pueblo con adularlo para obtener su amor; es su juicio político, no una conclusión del narrador."
+            }
+          ]
+        },
+        {
+          "line": "1207–1217",
+          "speaker": "officer2",
+          "en": "He hath deserved worthily of his country, and his ascent is not by such easy degrees as those who, having been supple and courteous to the people, bonneted, without any further deed to have them at all into their estimation and report; but he hath so planted his honors in their eyes and his actions in their hearts that for their tongues to be silent and not confess so much were a kind of ingrateful injury. To report otherwise were a malice that, giving itself the lie, would pluck reproof and rebuke from every ear that heard it.",
+          "es": "Ha prestado servicios dignos a su patria, y no ha ascendido por los caminos fáciles de quienes, mostrándose dóciles y corteses con el pueblo, se han limitado a quitarse el sombrero ante él, sin realizar ninguna otra acción que les ganara su estima y su buena fama. En cambio, ha grabado tanto sus honores ante los ojos del pueblo y sus hazañas en su corazón que callarlas y no reconocerlas sería una especie de ingratitud ofensiva. Afirmar lo contrario sería una malicia que se desmentiría a sí misma y provocaría la censura y el reproche de cualquiera que la oyera.",
+          "notes": [
+            {
+              "term": "deserved worthily",
+              "type": "Léxico",
+              "title": "deserved worthily",
+              "body": "La expresión valora los servicios prestados a la patria, no simplemente el rango social del personaje."
+            },
+            {
+              "term": "ascent",
+              "type": "Metáfora",
+              "title": "ascent",
+              "body": "La carrera pública se presenta como ascenso; el oficial la atribuye a hechos militares."
+            },
+            {
+              "term": "supple and courteous",
+              "type": "Matiz valorativo",
+              "title": "supple and courteous",
+              "body": "«Supple» sugiere flexibilidad y también servilismo en este contraste."
+            },
+            {
+              "term": "bonneted",
+              "type": "Uso verbal",
+              "title": "bonneted",
+              "body": "«Bonneted» describe quitarse o descubrirse la cabeza ante el pueblo como gesto de deferencia; aquí se usa con sentido crítico."
+            },
+            {
+              "term": "estimation and report",
+              "type": "Léxico social",
+              "title": "estimation and report",
+              "body": "«Estimation» es aprecio o consideración; «report», reputación difundida."
+            },
+            {
+              "term": "planted his honors",
+              "type": "Metáfora",
+              "title": "planted his honors",
+              "body": "La imagen de plantar o arraigar enlaza ojos, corazones y lenguas: reconocimiento visible, memoria afectiva y testimonio público."
+            },
+            {
+              "term": "were a kind of",
+              "type": "Gramática",
+              "title": "were a kind of",
+              "body": "«Were» expresa una consecuencia hipotética, equivalente a «sería»."
+            },
+            {
+              "term": "ingrateful injury",
+              "type": "Léxico",
+              "title": "ingrateful injury",
+              "body": "«Ingrateful» equivale a «ungrateful»: el silencio se considera una injusticia nacida de la ingratitud."
+            },
+            {
+              "term": "giving itself the lie",
+              "type": "Personificación",
+              "title": "giving itself the lie",
+              "body": "La acusación falsa se contradice a sí misma por la notoriedad de los hechos."
+            },
+            {
+              "term": "pluck reproof",
+              "type": "Metáfora",
+              "title": "pluck reproof",
+              "body": "«Pluck» representa el reproche como algo arrancado de los oídos de quienes escuchan."
+            }
+          ]
+        },
+        {
+          "line": "1218–1219",
+          "speaker": "officer1",
+          "en": "No more of him; he’s a worthy man. Make way. They are coming.",
+          "es": "No hablemos más de él; es un hombre de mérito. Dejen paso. Ya llegan.",
+          "notes": [
+            {
+              "term": "worthy man",
+              "type": "Caracterización",
+              "title": "worthy man",
+              "body": "El primer oficial concede el mérito de Coriolano sin retirar explícitamente su crítica a la hostilidad política."
+            },
+            {
+              "term": "Make way",
+              "type": "Acotación implícita",
+              "title": "Make way",
+              "body": "La orden señala el cambio de la conversación privada a la entrada ceremonial de las autoridades."
+            }
+          ],
+          "stageAfter": "Suena una fanfarria. Entran los patricios y los tribunos del pueblo, precedidos por lictores; con ellos, Coriolano, Menenio y Cominio, el cónsul. Los patricios se sientan; Sicinio y Bruto ocupan lugares aparte. Coriolano permanece de pie."
         }
       ]
     }
