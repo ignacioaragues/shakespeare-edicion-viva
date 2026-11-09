@@ -886,13 +886,22 @@
       "last_line": 1822,
       "editorial_state": "translated_source_checked_external_references",
       "note": "Four complete speeches; Folger III.1 checked against MIT, Plutarch Coriolanus 16 and North's Plutarch; contextual glosses and cited notes. Private references not consulted."
+    },
+    {
+      "id": "coriolanus-3-1-1823-1845",
+      "act": 3,
+      "scene": 1,
+      "first_line": 1823,
+      "last_line": 1845,
+      "editorial_state": "translated_source_checked_external_references",
+      "note": "One complete Coriolanus speech; Folger III.1 checked against Hudson's annotated edition and Shakespeare Online (noting variant native/motive and bosom multiplied/bisson multitude). Private editions not consulted."
     }
   ],
   "next_fragment": {
     "act": 3,
     "scene": 1,
-    "first_line": 1823,
-    "note": "Coriolanus' long speech 1823–1845: preserve complete speech in next coherent unit."
+    "first_line": 1846,
+    "note": "Menenius and Brutus 1846–1847, followed by Coriolanus' long speech 1848–1871; preserve coherent speech boundaries."
   },
   "completed_acts": [],
   "last_update_commit": null,
