@@ -9255,7 +9255,7 @@ window.SHAKESPEARE_READER_DATA = {
       "scene": 3,
       "place": "Roma · Plaza del mercado",
       "sourceRef": "Folger Shakespeare Library · Acto II, escena 3",
-      "sectionLabel": "Edición en curso · líneas 1374–1568",
+      "sectionLabel": "Edición en curso · líneas 1374–1583",
       "introduction": "Antes de que Coriolano solicite sus votos, los ciudadanos debaten hasta qué punto son libres de negárselos y qué exige la gratitud pública.",
       "stage": "Entran siete u ocho ciudadanos.",
       "characters": [
@@ -10900,6 +10900,99 @@ window.SHAKESPEARE_READER_DATA = {
               "lemma": "yield",
               "lemmaUrl": "https://en.wiktionary.org/wiki/yield",
               "body": "«Yield» implica ceder o entregar: el electorado tenía la facultad de negar su apoyo. Fuentes: Folger, Coriolanus II.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; cotejo Shakespeare Online, https://www.shakespeare-online.com/plays/corio_2_3.html."
+            }
+          ]
+        },
+        {
+          "line": "1569–1583",
+          "speaker": "brutus",
+          "en": "Could you not have told him\nAs you were lessoned? When he had no power,\nBut was a petty servant to the state,\nHe was your enemy, ever spake against\nYour liberties and the charters that you bear\nI’ th’ body of the weal; and, now arriving\nA place of potency and sway o’ th’ state,\nIf he should still malignantly remain\nFast foe to th’ plebeii, your voices might\nBe curses to yourselves. You should have said\nThat as his worthy deeds did claim no less\nThan what he stood for, so his gracious nature\nWould think upon you for your voices, and\nTranslate his malice towards you into love,\nStanding your friendly lord.",
+          "es": "¿No podían haberle dicho,\ncomo se les había enseñado, que cuando no tenía poder,\nsino que era un simple servidor del Estado,\nera enemigo de ustedes y siempre hablaba contra\nsus libertades y los derechos que poseen\ncomo miembros de la comunidad política; y que ahora, al alcanzar\nun puesto de autoridad y gobierno en el Estado,\nsi siguiera siendo, con la misma mala voluntad,\nenemigo declarado de los plebeyos, sus votos podrían\nconvertirse en una maldición para ustedes mismos? Debieron decirle\nque, así como sus hazañas merecían sobradamente\nel cargo al que aspiraba, también su noble disposición\nhabría de tenerlos presentes por sus votos y\ntransformar en afecto la hostilidad que les profesa,\npara convertirse en un señor favorable a ustedes.",
+          "notes": [
+            {
+              "term": "As you were lessoned",
+              "title": "As you were lessoned",
+              "type": "Nota filológica",
+              "gloss": "como se les había enseñado",
+              "body": "La pasiva remite a instrucciones previas de los tribunos: Bruto propone una respuesta preparada. Fuentes: Folger II.3 https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; cotejo Shakespeare Online https://www.shakespeare-online.com/plays/corio_2_3.html.",
+              "lemma": "lesson",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/lesson"
+            },
+            {
+              "term": "petty servant",
+              "title": "petty servant",
+              "type": "Nota filológica",
+              "gloss": "servidor de escasa autoridad",
+              "body": "Contrasta el rango anterior de Coriolano con el poder que está por adquirir. Fuentes: Folger II.3 https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; cotejo Shakespeare Online https://www.shakespeare-online.com/plays/corio_2_3.html."
+            },
+            {
+              "term": "ever spake",
+              "title": "ever spake",
+              "type": "Nota filológica",
+              "gloss": "siempre habló",
+              "body": "«Spake» es pretérito histórico de «speak»; «ever» aquí significa «siempre». Fuentes: Folger II.3 https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; cotejo Shakespeare Online https://www.shakespeare-online.com/plays/corio_2_3.html.",
+              "lemma": "speak",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/speak"
+            },
+            {
+              "term": "charters",
+              "title": "charters",
+              "type": "Nota filológica",
+              "gloss": "derechos reconocidos",
+              "body": "Vocabulario jurídico-político inglés trasladado a la Roma dramática, sin implicar documentos romanos idénticos. Fuentes: Folger II.3 https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; cotejo Shakespeare Online https://www.shakespeare-online.com/plays/corio_2_3.html."
+            },
+            {
+              "term": "body of the weal",
+              "title": "body of the weal",
+              "type": "Nota filológica",
+              "gloss": "cuerpo de la comunidad política",
+              "body": "«Weal» remite al bienestar colectivo; la imagen corporal recuerda la fábula del vientre de I.1. Fuentes: Folger II.3 https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; cotejo Shakespeare Online https://www.shakespeare-online.com/plays/corio_2_3.html.",
+              "lemma": "weal",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/weal"
+            },
+            {
+              "term": "potency and sway",
+              "title": "potency and sway",
+              "type": "Nota filológica",
+              "gloss": "poder y autoridad",
+              "body": "Pareja enfática que opone la antigua subordinación al mando futuro. Fuentes: Folger II.3 https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; cotejo Shakespeare Online https://www.shakespeare-online.com/plays/corio_2_3.html."
+            },
+            {
+              "term": "Fast foe",
+              "title": "Fast foe",
+              "type": "Nota filológica",
+              "gloss": "enemigo irreconciliable",
+              "body": "«Fast» expresa firmeza o permanencia, no rapidez. Fuentes: Folger II.3 https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; cotejo Shakespeare Online https://www.shakespeare-online.com/plays/corio_2_3.html."
+            },
+            {
+              "term": "plebeii",
+              "title": "plebeii",
+              "type": "Nota filológica",
+              "gloss": "plebeyos",
+              "body": "Latinismo plural que da color romano al parlamento. Fuentes: Folger II.3 https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; cotejo Shakespeare Online https://www.shakespeare-online.com/plays/corio_2_3.html."
+            },
+            {
+              "term": "voices might",
+              "title": "voices might",
+              "type": "Nota filológica",
+              "gloss": "sus votos podrían",
+              "body": "El modal expresa una posibilidad futura, no un daño ya producido. Fuentes: Folger II.3 https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; cotejo Shakespeare Online https://www.shakespeare-online.com/plays/corio_2_3.html."
+            },
+            {
+              "term": "Translate his malice",
+              "title": "Translate his malice",
+              "type": "Nota filológica",
+              "gloss": "transformar su hostilidad",
+              "body": "«Translate» significa aquí convertir de un estado a otro. Fuentes: Folger II.3 https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; cotejo Shakespeare Online https://www.shakespeare-online.com/plays/corio_2_3.html.",
+              "lemma": "translate",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/translate"
+            },
+            {
+              "term": "friendly lord",
+              "title": "friendly lord",
+              "type": "Nota filológica",
+              "gloss": "señor favorable",
+              "body": "La promesa de benevolencia mantiene una relación jerárquica, no igualitaria. Fuentes: Folger II.3 https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; cotejo Shakespeare Online https://www.shakespeare-online.com/plays/corio_2_3.html."
             }
           ]
         }
