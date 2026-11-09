@@ -796,13 +796,22 @@
       "last_line": 1634,
       "editorial_state": "translated_source_checked_external_references",
       "note": "Two speeches, Folger and MIT checked; eight contextual notes; private editions not consulted."
+    },
+    {
+      "id": "coriolanus-2-3-1635-1652",
+      "act": 2,
+      "scene": 3,
+      "first_line": 1635,
+      "last_line": 1652,
+      "editorial_state": "translated_source_checked_external_references",
+      "note": "Two speeches, Folger/MIT and Plutarch 1.1 compared; 16 contextual notes; private editions not consulted."
     }
   ],
   "next_fragment": {
     "act": 2,
     "scene": 3,
-    "first_line": 1635,
-    "note": "Brutus on Coriolanus' lineage."
+    "first_line": 1653,
+    "note": "Brutus directs the citizens to blame the tribunes and gather at the Capitol."
   },
   "completed_acts": [],
   "last_update_commit": null,

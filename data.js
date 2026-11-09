@@ -11426,6 +11426,156 @@ window.SHAKESPEARE_READER_DATA = {
               "lemmaUrl": "https://en.wiktionary.org/wiki/voice"
             }
           ]
+        },
+        {
+          "line": "1635–1645",
+          "speaker": "brutus",
+          "en": "Ay, spare us not. Say we read lectures to you,\nHow youngly he began to serve his country,\nHow long continued, and what stock he springs of,\nThe noble house o’ th’ Martians, from whence came\nThat Ancus Martius, Numa’s daughter’s son,\nWho after great Hostilius here was king,\nOf the same house Publius and Quintus were,\nThat our best water brought by conduits hither;\nAnd Censorinus, that was so surnamed,\nAnd nobly named so, twice being censor,\nWas his great ancestor.",
+          "es": "Sí, no nos perdonen nada. Digan que les dimos largas lecciones\nsobre lo joven que era cuando comenzó a servir a su patria,\ncuánto tiempo continuó haciéndolo y de qué linaje procede:\nla noble casa de los Marcios, de la que salió\nAnco Marcio, nieto de Numa por parte de su hija,\nque reinó aquí después del gran Hostilio.\nA esa misma familia pertenecieron Publio y Quinto,\nque trajeron hasta aquí nuestra mejor agua por acueductos;\ny también Censorino, que recibió ese sobrenombre,\ny con razón, por haber sido censor dos veces:\nfue uno de sus ilustres antepasados.",
+          "notes": [
+            {
+              "term": "spare us not",
+              "title": "spare us not",
+              "type": "Nota filológica",
+              "gloss": "no nos ahorren reproches",
+              "body": "Imperativo irónico: los tribunos piden ser culpados por los votantes. Referencias: Folger, II.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; Plutarco, Coriolano 1.1, https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Coriolanus*.html.",
+              "lemma": "spare",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/spare"
+            },
+            {
+              "term": "read lectures",
+              "title": "read lectures",
+              "type": "Nota filológica",
+              "gloss": "dar largas lecciones",
+              "body": "Sugiere una exposición insistente y aleccionadora. Referencias: Folger, II.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; Plutarco, Coriolano 1.1, https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Coriolanus*.html.",
+              "lemma": "lecture",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/lecture"
+            },
+            {
+              "term": "youngly",
+              "title": "youngly",
+              "type": "Nota filológica",
+              "gloss": "desde muy joven",
+              "body": "Adverbio inusual para destacar la precocidad militar. Referencias: Folger, II.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; Plutarco, Coriolano 1.1, https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Coriolanus*.html.",
+              "lemma": "youngly",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/youngly"
+            },
+            {
+              "term": "stock he springs of",
+              "title": "stock he springs of",
+              "type": "Nota filológica",
+              "gloss": "linaje del que procede",
+              "body": "Metáfora genealógica: «stock» es tronco o estirpe. Referencias: Folger, II.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; Plutarco, Coriolano 1.1, https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Coriolanus*.html.",
+              "lemma": "stock",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/stock"
+            },
+            {
+              "term": "house o’ th’ Martians",
+              "title": "house o’ th’ Martians",
+              "type": "Nota filológica",
+              "gloss": "casa de los Marcios",
+              "body": "Designa la gens Marcia, cuyo linaje enumera Plutarco. Referencias: Folger, II.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; Plutarco, Coriolano 1.1, https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Coriolanus*.html."
+            },
+            {
+              "term": "Ancus Martius",
+              "title": "Ancus Martius",
+              "type": "Nota filológica",
+              "gloss": "Anco Marcio",
+              "body": "Cuarto rey de Roma según la tradición, nieto de Numa y sucesor de Tulo Hostilio en Plutarco. Referencias: Folger, II.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; Plutarco, Coriolano 1.1, https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Coriolanus*.html."
+            },
+            {
+              "term": "Publius and Quintus",
+              "title": "Publius and Quintus",
+              "type": "Nota filológica",
+              "gloss": "Publio y Quinto",
+              "body": "Plutarco atribuye a dos Marcios la conducción de abundante agua a Roma; se trata de la tradición transmitida, no de una atribución histórica comprobada. Referencias: Folger, II.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; Plutarco, Coriolano 1.1, https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Coriolanus*.html."
+            },
+            {
+              "term": "conduits",
+              "title": "conduits",
+              "type": "Nota filológica",
+              "gloss": "conductos de agua; acueductos",
+              "body": "El objeto de «brought» es «our best water». Referencias: Folger, II.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; Plutarco, Coriolano 1.1, https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Coriolanus*.html.",
+              "lemma": "conduit",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/conduit"
+            },
+            {
+              "term": "Censorinus",
+              "title": "Censorinus",
+              "type": "Nota filológica",
+              "gloss": "Censorino",
+              "body": "Plutarco explica su sobrenombre por la doble censura. Folger marca «And Censorinus, that was so surnamed» como intervención editorial; MIT presenta una redacción diferente: la variante no debe confundirse con un hecho histórico. Referencias: Folger, II.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; Plutarco, Coriolano 1.1, https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Coriolanus*.html."
+            },
+            {
+              "term": "twice being censor",
+              "title": "twice being censor",
+              "type": "Nota filológica",
+              "gloss": "haber sido censor dos veces",
+              "body": "La censura era una magistratura romana; la relación entre cargo y sobrenombre sostiene la glosa. Referencias: Folger, II.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; Plutarco, Coriolano 1.1, https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Coriolanus*.html.",
+              "lemma": "censor",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/censor"
+            }
+          ]
+        },
+        {
+          "line": "1646–1652",
+          "speaker": "sicinius",
+          "en": "One thus descended,\nThat hath besides well in his person wrought\nTo be set high in place, we did commend\nTo your remembrances; but you have found,\nScaling his present bearing with his past,\nThat he’s your fixèd enemy, and revoke\nYour sudden approbation.",
+          "es": "A un hombre de semejante ascendencia,\nque además ha hecho méritos propios para ocupar\nun cargo elevado, se lo recomendamos\npara que lo tuvieran presente. Pero ustedes han comprobado,\nal comparar su conducta actual con la pasada,\nque es un enemigo declarado de ustedes, y por eso retiran\nla aprobación que le dieron precipitadamente.",
+          "notes": [
+            {
+              "term": "thus descended",
+              "title": "thus descended",
+              "type": "Nota filológica",
+              "gloss": "de semejante ascendencia",
+              "body": "Sicinio transforma la genealogía en un argumento de prestigio que ahora debe ser superado. Referencias: Folger, II.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; Plutarco, Coriolano 1.1, https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Coriolanus*.html."
+            },
+            {
+              "term": "in his person wrought",
+              "title": "in his person wrought",
+              "type": "Nota filológica",
+              "gloss": "hecho méritos propios",
+              "body": "Contrasta los servicios individuales con el prestigio heredado. Referencias: Folger, II.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; Plutarco, Coriolano 1.1, https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Coriolanus*.html.",
+              "lemma": "work",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/work"
+            },
+            {
+              "term": "commend",
+              "title": "commend",
+              "type": "Nota filológica",
+              "gloss": "recomendar",
+              "body": "La recomendación se dirige a la consideración de los electores. Referencias: Folger, II.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; Plutarco, Coriolano 1.1, https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Coriolanus*.html.",
+              "lemma": "commend",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/commend"
+            },
+            {
+              "term": "Scaling his present bearing with his past",
+              "title": "Scaling his present bearing with his past",
+              "type": "Nota filológica",
+              "gloss": "comparar su conducta actual con la anterior",
+              "body": "«Scaling» evoca pesar en una balanza; «bearing» significa comportamiento. Referencias: Folger, II.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; Plutarco, Coriolano 1.1, https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Coriolanus*.html.",
+              "lemma": "scale",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/scale"
+            },
+            {
+              "term": "fixèd enemy",
+              "title": "fixèd enemy",
+              "type": "Nota filológica",
+              "gloss": "enemigo declarado",
+              "body": "Calificación interesada de Sicinio, no una constatación imparcial. Referencias: Folger, II.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; Plutarco, Coriolano 1.1, https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Coriolanus*.html.",
+              "lemma": "fixed",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/fixed"
+            },
+            {
+              "term": "sudden approbation",
+              "title": "sudden approbation",
+              "type": "Nota filológica",
+              "gloss": "aprobación precipitada",
+              "body": "«Sudden» caracteriza como apresurado el respaldo electoral. Referencias: Folger, II.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; Plutarco, Coriolano 1.1, https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Coriolanus*.html.",
+              "lemma": "approbation",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/approbation"
+            }
+          ]
         }
       ]
     }
