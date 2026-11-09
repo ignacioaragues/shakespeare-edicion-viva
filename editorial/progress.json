@@ -940,15 +940,24 @@
       "last_line": 1944,
       "editorial_state": "translated_source_checked_external_references",
       "note": "Nine complete speech blocks: city-as-building image, death sentence, Tarpeian Rock, Menenius' plea; Folger and MIT compared; Oxford Classical Dictionary (Richmond and Patterson 2016) consulted. The Folger speaker at 1924 is Coriolanus (other editions attribute to Cominius). Private reference editions not consulted."
+    },
+    {
+      "id": "coriolanus-3-1-1945-1958",
+      "act": 3,
+      "scene": 1,
+      "first_line": 1945,
+      "last_line": 1958,
+      "editorial_state": "translated_source_checked_external_references",
+      "note": "Seven complete speeches; Brutus' medical metaphor, Coriolanus' armed defiance and Menenius' intervention. Folger III.1 and MIT compared; LitCharts scene commentary consulted. Folger stage directions (drawn sword, crowd driven back, address to Coriolanus) are not separately encoded as speech blocks; pending a stage-direction rendering review. Private reference files not consulted."
     }
   ],
   "next_fragment": {
     "act": 3,
     "scene": 1,
-    "first_line": 1945,
-    "note": "Brutus rejects Menenius' moderate course, comparing it to a poisonous treatment of violent disease."
+    "first_line": 1959,
+    "note": "Continue after Menenius urges Coriolanus home; check next Folger speaker and coherent speech boundary."
   },
   "completed_acts": [],
-  "last_update_commit": "0373716e22eb6d68117cea7c331323e3e4b22609",
+  "last_update_commit": "9f0e49634187abcdc839964fdbfebf3fdd362cff",
   "notes": "Folger online line 66 is 'We cannot, sir; we are undone already.' The original prototype had an off-by-one numbering error, corrected in this release. Text is still under editorial review."
 }

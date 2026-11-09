@@ -11730,7 +11730,7 @@ window.SHAKESPEARE_READER_DATA = {
       "scene": 1,
       "place": "Roma · Una calle, camino del Capitolio",
       "sourceRef": "Folger Shakespeare Library · Acto III, escena 1",
-      "sectionLabel": "Edición en curso · líneas 1669–1944",
+      "sectionLabel": "Edición en curso · líneas 1669–1958",
       "introduction": "Tras la votación, Coriolano conversa con los generales sobre Aufidio. La irrupción de los tribunos alterará pronto la marcha hacia el consulado.",
       "stage": "Suenan cornetas. Entran Coriolano, Menenio, Cominio, Tito Larcio, patricios y senadores.",
       "characters": [
@@ -13985,6 +13985,149 @@ window.SHAKESPEARE_READER_DATA = {
               "body": "«Redress» expresa corregir un daño o agravio; la disputa consiste en cómo hacerlo. Folger, Coriolanus III.1, 1942–1944, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/",
               "lemma": "redress",
               "lemmaUrl": "https://en.wiktionary.org/wiki/redress"
+            }
+          ]
+        },
+        {
+          "line": "1945–1948",
+          "speaker": "brutus",
+          "en": "Sir, those cold ways,\nThat seem like prudent helps, are very poisonous\nWhere the disease is violent.—Lay hands upon him,\nAnd bear him to the rock.",
+          "es": "Señor, esos procedimientos tibios,\nque parecen remedios prudentes, son muy venenosos\ncuando la enfermedad es violenta. ¡Sujétenlo\ny llévenlo a la roca!",
+          "notes": [
+            {
+              "term": "cold ways",
+              "title": "cold ways",
+              "type": "Nota filológica",
+              "gloss": "medidas tibias; procedimientos moderados",
+              "body": "Bruto transforma la prudencia de Menenio en una medicina inadecuada. «Cold» contrapone la moderación al carácter agudo de la supuesta enfermedad política. Referencias: Folger, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; LitCharts, Coriolanus III.1, https://www.litcharts.com/lit/coriolanus/act-3-scene-1."
+            },
+            {
+              "term": "very poisonous",
+              "title": "very poisonous",
+              "type": "Nota filológica",
+              "gloss": "sumamente perjudiciales; venenosos",
+              "body": "La metáfora médica invierte la intención curativa de Menenio: según Bruto, la moderación agravaría el peligro. Referencias: Folger, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, Coriolanus III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html."
+            },
+            {
+              "term": "rock",
+              "title": "rock",
+              "type": "Nota filológica",
+              "gloss": "roca Tarpeya",
+              "body": "Referencia abreviada a la roca Tarpeya, lugar de ejecución ya nombrado en 1935. Referencias: Folger, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, Coriolanus III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html."
+            }
+          ]
+        },
+        {
+          "line": "1949–1951",
+          "speaker": "coriolanus",
+          "en": "No, I’ll die here.\nThere’s some among you have beheld me fighting.\nCome, try upon yourselves what you have seen me.",
+          "es": "No. Moriré aquí.\nAlgunos de ustedes me han visto combatir.\nVamos, comprueben en carne propia lo que me han visto hacer.",
+          "notes": [
+            {
+              "term": "There’s some among you",
+              "title": "There’s some among you",
+              "type": "Nota filológica",
+              "gloss": "hay algunos entre ustedes",
+              "body": "Concordancia existencial con «there’s» ante plural, frecuente en el inglés hablado y dramático; el referente es el grupo que lo rodea. Referencias: Folger, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, Coriolanus III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html."
+            },
+            {
+              "term": "try upon yourselves",
+              "title": "try upon yourselves",
+              "type": "Nota filológica",
+              "gloss": "experimenten ustedes mismos",
+              "body": "Desafío amenazador: Coriolano invita a sus adversarios a padecer personalmente la destreza que le han visto desplegar en combate. Referencias: Folger, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, Coriolanus III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "lemma": "try",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/try"
+            }
+          ]
+        },
+        {
+          "line": "1952",
+          "speaker": "menenius",
+          "en": "Down with that sword!—Tribunes, withdraw awhile.",
+          "es": "¡Baja esa espada! Tribunos, retírense un momento.",
+          "notes": [
+            {
+              "term": "Down with that sword",
+              "title": "Down with that sword",
+              "type": "Nota filológica",
+              "gloss": "baja esa espada",
+              "body": "El imperativo pretende desarmar la confrontación. La orden no significa «maten con esa espada». Referencias: Folger, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, Coriolanus III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html."
+            }
+          ]
+        },
+        {
+          "line": "1953",
+          "speaker": "brutus",
+          "en": "Lay hands upon him!",
+          "es": "¡Sujétenlo!",
+          "notes": [
+            {
+              "term": "Lay hands upon him",
+              "title": "Lay hands upon him",
+              "type": "Nota filológica",
+              "gloss": "préndanlo; sujétenlo",
+              "body": "Fórmula de aprehensión física que repite la orden de 1947. Referencias: Folger, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, Coriolanus III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "lemma": "lay",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/lay"
+            }
+          ]
+        },
+        {
+          "line": "1954–1955",
+          "speaker": "menenius",
+          "en": "Help Martius, help!\nYou that be noble, help him, young and old!",
+          "es": "¡Ayuden a Marcio, ayúdenlo!\n¡Ustedes, los nobles, ayúdenlo, jóvenes y viejos!",
+          "notes": [
+            {
+              "term": "You that be noble",
+              "title": "You that be noble",
+              "type": "Nota filológica",
+              "gloss": "ustedes, los nobles",
+              "body": "«That» introduce una relativa con antecedente personal; «be» es una forma verbal no concordada según el estándar moderno. La exhortación se dirige a los patricios. Referencias: Folger, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, Coriolanus III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "lemma": "be",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/be"
+            }
+          ]
+        },
+        {
+          "line": "1956",
+          "speaker": "plebeians",
+          "en": "Down with him, down with him!",
+          "es": "¡Abajo con él! ¡Abajo con él!",
+          "notes": [
+            {
+              "term": "Down with him",
+              "title": "Down with him",
+              "type": "Nota filológica",
+              "gloss": "¡abajo con él!",
+              "body": "El grito colectivo responde al llamado de Menenio y acelera la representación de la violencia tumultuaria. Folger añade una acotación escénica de repliegue tras esta intervención. Referencias: Folger, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, Coriolanus III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html."
+            }
+          ]
+        },
+        {
+          "line": "1957–1958",
+          "speaker": "menenius",
+          "en": "Go, get you to your house. Begone, away.\nAll will be naught else.",
+          "es": "Vete, vuelve a tu casa. Márchate, de inmediato.\nDe lo contrario, todo acabará en desastre.",
+          "notes": [
+            {
+              "term": "get you to your house",
+              "title": "get you to your house",
+              "type": "Nota filológica",
+              "gloss": "vete a tu casa",
+              "body": "Construcción pronominal imperativa de movimiento; «get you» equivale aquí a «go». Referencias: Folger, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, Coriolanus III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "lemma": "get",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/get"
+            },
+            {
+              "term": "All will be naught else",
+              "title": "All will be naught else",
+              "type": "Nota filológica",
+              "gloss": "todo acabará mal; será un desastre",
+              "body": "«Naught» conserva el valor de «nada bueno», «ruina»; Menenio teme que la pelea destruya toda posibilidad de acuerdo. Referencias: Folger, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, Coriolanus III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "lemma": "naught",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/naught"
             }
           ]
         }
