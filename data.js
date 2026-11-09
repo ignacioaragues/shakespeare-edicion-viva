@@ -9255,7 +9255,7 @@ window.SHAKESPEARE_READER_DATA = {
       "scene": 3,
       "place": "Roma · Plaza del mercado",
       "sourceRef": "Folger Shakespeare Library · Acto II, escena 3",
-      "sectionLabel": "Edición en curso · líneas 1374–1583",
+      "sectionLabel": "Edición en curso · líneas 1374–1604",
       "introduction": "Antes de que Coriolano solicite sus votos, los ciudadanos debaten hasta qué punto son libres de negárselos y qué exige la gratitud pública.",
       "stage": "Entran siete u ocho ciudadanos.",
       "characters": [
@@ -10993,6 +10993,180 @@ window.SHAKESPEARE_READER_DATA = {
               "type": "Nota filológica",
               "gloss": "señor favorable",
               "body": "La promesa de benevolencia mantiene una relación jerárquica, no igualitaria. Fuentes: Folger II.3 https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; cotejo Shakespeare Online https://www.shakespeare-online.com/plays/corio_2_3.html."
+            }
+          ]
+        },
+        {
+          "line": "1584–1593",
+          "speaker": "sicinius",
+          "en": "Thus to have said,\nAs you were fore-advised, had touched his spirit\nAnd tried his inclination; from him plucked\nEither his gracious promise, which you might,\nAs cause had called you up, have held him to;\nOr else it would have galled his surly nature,\nWhich easily endures not article\nTying him to aught. So putting him to rage,\nYou should have ta’en th’ advantage of his choler\nAnd passed him unelected.",
+          "es": "Si hubieran hablado así,\ncomo se les había aconsejado de antemano, habrían tocado su orgullo\ny puesto a prueba sus intenciones; le habrían arrancado\no bien una promesa favorable, que ustedes podrían\nexigirle que cumpliera cuando hubiera motivo para reclamarla,\no bien habrían irritado su carácter áspero,\nque apenas tolera ninguna condición\nque lo obligue a algo. Así, al provocarle la ira,\npodrían haberse aprovechado de su arrebato\ny haber impedido su elección.",
+          "notes": [
+            {
+              "term": "fore-advised",
+              "title": "fore-advised",
+              "type": "Nota filológica",
+              "gloss": "aconsejados de antemano",
+              "body": "El consejo precede a la entrevista electoral. Fuentes: Folger II.3 https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; Shakespeare Online II.3 https://www.shakespeare-online.com/plays/corio_2_3.html."
+            },
+            {
+              "term": "tried his inclination",
+              "title": "tried his inclination",
+              "type": "Nota filológica",
+              "gloss": "puesto a prueba sus intenciones",
+              "body": "«Try» tiene aquí valor de someter a prueba. Fuentes: Folger II.3 https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; Shakespeare Online II.3 https://www.shakespeare-online.com/plays/corio_2_3.html.",
+              "lemma": "try",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/try"
+            },
+            {
+              "term": "plucked",
+              "title": "plucked",
+              "type": "Nota filológica",
+              "gloss": "arrancado",
+              "body": "Metáfora de la promesa obtenida mediante presión. Fuentes: Folger II.3 https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; Shakespeare Online II.3 https://www.shakespeare-online.com/plays/corio_2_3.html.",
+              "lemma": "pluck",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/pluck"
+            },
+            {
+              "term": "As cause had called you up",
+              "title": "As cause had called you up",
+              "type": "Nota filológica",
+              "gloss": "cuando hubiera motivo para reclamarla",
+              "body": "Prevé una ocasión futura para exigir responsabilidades. Fuentes: Folger II.3 https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; Shakespeare Online II.3 https://www.shakespeare-online.com/plays/corio_2_3.html."
+            },
+            {
+              "term": "galled",
+              "title": "galled",
+              "type": "Nota filológica",
+              "gloss": "irritado",
+              "body": "«Gall» expresa irritación física o moral. Fuentes: Folger II.3 https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; Shakespeare Online II.3 https://www.shakespeare-online.com/plays/corio_2_3.html.",
+              "lemma": "gall",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/gall"
+            },
+            {
+              "term": "article",
+              "title": "article",
+              "type": "Nota filológica",
+              "gloss": "cláusula o condición",
+              "body": "Estipulación que limitaría su conducta. Fuentes: Folger II.3 https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; Shakespeare Online II.3 https://www.shakespeare-online.com/plays/corio_2_3.html.",
+              "lemma": "article",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/article"
+            },
+            {
+              "term": "aught",
+              "title": "aught",
+              "type": "Nota filológica",
+              "gloss": "cualquier cosa",
+              "body": "Pronombre indefinido, frecuente en inglés moderno temprano. Fuentes: Folger II.3 https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; Shakespeare Online II.3 https://www.shakespeare-online.com/plays/corio_2_3.html.",
+              "lemma": "aught",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/aught"
+            },
+            {
+              "term": "ta’en th’ advantage of his choler",
+              "title": "ta’en th’ advantage of his choler",
+              "type": "Nota filológica",
+              "gloss": "aprovechado su arrebato de ira",
+              "body": "«Ta’en» contrae «taken»; «choler» remite al temperamento colérico. Fuentes: Folger II.3 https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; Shakespeare Online II.3 https://www.shakespeare-online.com/plays/corio_2_3.html.",
+              "lemma": "take",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/take"
+            },
+            {
+              "term": "passed him unelected",
+              "title": "passed him unelected",
+              "type": "Nota filológica",
+              "gloss": "impedido su elección",
+              "body": "El complemento «unelected» aclara que no se trata de aprobar la candidatura. Fuentes: Folger II.3 https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; Shakespeare Online II.3 https://www.shakespeare-online.com/plays/corio_2_3.html."
+            }
+          ]
+        },
+        {
+          "line": "1594–1601",
+          "speaker": "brutus",
+          "en": "Did you perceive\nHe did solicit you in free contempt\nWhen he did need your loves, and do you think\nThat his contempt shall not be bruising to you\nWhen he hath power to crush? Why, had your bodies\nNo heart among you? Or had you tongues to cry\nAgainst the rectorship of judgment?",
+          "es": "¿Se dieron cuenta\nde que les pidió sus votos con abierto desprecio\ncuando necesitaba su apoyo? ¿Y creen\nque ese desprecio no los lastimará\ncuando tenga poder para aplastarlos? ¿Acaso sus cuerpos\nno tenían corazón? ¿O tenían lengua para protestar\ncontra el gobierno del buen juicio?",
+          "notes": [
+            {
+              "term": "free contempt",
+              "title": "free contempt",
+              "type": "Nota filológica",
+              "gloss": "desprecio abierto",
+              "body": "«Free» subraya la falta de contención del desprecio. Fuentes: Folger II.3 https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; Shakespeare Online II.3 https://www.shakespeare-online.com/plays/corio_2_3.html."
+            },
+            {
+              "term": "loves",
+              "title": "loves",
+              "type": "Nota filológica",
+              "gloss": "apoyo, adhesión",
+              "body": "En este contexto electoral designa el favor de los ciudadanos. Fuentes: Folger II.3 https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; Shakespeare Online II.3 https://www.shakespeare-online.com/plays/corio_2_3.html."
+            },
+            {
+              "term": "bruising",
+              "title": "bruising",
+              "type": "Nota filológica",
+              "gloss": "que lastima",
+              "body": "La imagen se intensifica en «crush». Fuentes: Folger II.3 https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; Shakespeare Online II.3 https://www.shakespeare-online.com/plays/corio_2_3.html.",
+              "lemma": "bruise",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/bruise"
+            },
+            {
+              "term": "hath",
+              "title": "hath",
+              "type": "Nota filológica",
+              "gloss": "tiene",
+              "body": "Forma histórica de tercera persona singular, equivalente a «has». Fuentes: Folger II.3 https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; Shakespeare Online II.3 https://www.shakespeare-online.com/plays/corio_2_3.html.",
+              "lemma": "have",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/have"
+            },
+            {
+              "term": "No heart among you",
+              "title": "No heart among you",
+              "type": "Nota filológica",
+              "gloss": "¿no tenían valor?",
+              "body": "El corazón funciona como imagen del coraje. Fuentes: Folger II.3 https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; Shakespeare Online II.3 https://www.shakespeare-online.com/plays/corio_2_3.html."
+            },
+            {
+              "term": "rectorship of judgment",
+              "title": "rectorship of judgment",
+              "type": "Nota filológica",
+              "gloss": "gobierno del buen juicio",
+              "body": "«Rectorship» indica dirección o autoridad. Fuentes: Folger II.3 https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; Shakespeare Online II.3 https://www.shakespeare-online.com/plays/corio_2_3.html.",
+              "lemma": "rectorship",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/rectorship"
+            }
+          ]
+        },
+        {
+          "line": "1602–1604",
+          "speaker": "sicinius",
+          "en": "Have you ere now denied the asker? And now\nAgain, of him that did not ask but mock,\nBestow your sued-for tongues?",
+          "es": "¿Alguna vez antes le negaron algo a quien lo pedía? Y ahora,\nen cambio, ¿a alguien que no pidió, sino que se burló,\nle conceden las voces que debía suplicarles?",
+          "notes": [
+            {
+              "term": "ere now",
+              "title": "ere now",
+              "type": "Nota filológica",
+              "gloss": "antes de ahora",
+              "body": "«Ere» equivale a «before». Fuentes: Folger II.3 https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; Shakespeare Online II.3 https://www.shakespeare-online.com/plays/corio_2_3.html.",
+              "lemma": "ere",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/ere"
+            },
+            {
+              "term": "the asker",
+              "title": "the asker",
+              "type": "Nota filológica",
+              "gloss": "quien pide",
+              "body": "Contrasta con quien simula solicitar. Fuentes: Folger II.3 https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; Shakespeare Online II.3 https://www.shakespeare-online.com/plays/corio_2_3.html.",
+              "lemma": "asker",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/asker"
+            },
+            {
+              "term": "sued-for tongues",
+              "title": "sued-for tongues",
+              "type": "Nota filológica",
+              "gloss": "votos que debían solicitarse",
+              "body": "«Sue for» es suplicar; «tongues» designa metonímicamente los votos. Fuentes: Folger II.3 https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; Shakespeare Online II.3 https://www.shakespeare-online.com/plays/corio_2_3.html.",
+              "lemma": "sue",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/sue"
             }
           ]
         }
