@@ -17,6 +17,7 @@
     notes: stored.notes !== false,
     dividers: stored.dividers === true,
     navCollapsed: stored.navCollapsed === true,
+    collapsedActs: Array.isArray(stored.collapsedActs) ? stored.collapsedActs.map(String) : [],
     charactersCollapsed: stored.charactersCollapsed === true,
     bookmark: null,
     mobileLang: stored.mobileLang === 'es' ? 'es' : 'en',
@@ -38,6 +39,7 @@
       localStorage.setItem(STORAGE_KEY, JSON.stringify({
         fontSize: state.fontSize, notes: state.notes, dividers: state.dividers,
         navCollapsed: state.navCollapsed, charactersCollapsed: state.charactersCollapsed,
+        collapsedActs: state.collapsedActs,
         bookmark: state.bookmark, bookmarks: state.bookmarks, bookmarkSceneId: state.bookmarkSceneId,
         mobileLang: state.mobileLang, autoPosition: state.autoPosition
       }));
@@ -49,6 +51,62 @@
     if (className) node.className = className;
     if (content !== undefined && content !== null) node.textContent = content;
     return node;
+  }
+
+
+  function enableActAccordions() {
+    const sidebar = $('sidebar-content');
+    if (!sidebar) return;
+    Array.from(sidebar.querySelectorAll('.act-label')).forEach(label => {
+      const match = (label.querySelector('span')?.textContent || '').match(/ACTO\\s+([IVX]+)/i);
+      if (!match) return;
+      const act = match[1].toUpperCase();
+      const group = el('div', 'act-scenes');
+      group.id = 'act-scenes-' + act.toLowerCase();
+      let next = label.nextElementSibling;
+      while (next && next.classList.contains('scene-nav')) {
+        const moving = next;
+        next = next.nextElementSibling;
+        group.appendChild(moving);
+      }
+      label.after(group);
+      const toggle = el('button', 'act-toggle');
+      toggle.type = 'button';
+      toggle.setAttribute('aria-controls', group.id);
+      toggle.appendChild(label.querySelector('span')?.cloneNode(true) || el('span', '', 'ACTO ' + act));
+      const count = label.querySelector('.act-count');
+      if (count) toggle.appendChild(count.cloneNode(true));
+      toggle.appendChild(el('span', 'act-chevron', '⌄'));
+      label.replaceWith(toggle);
+      const apply = collapsed => {
+        group.hidden = collapsed;
+        toggle.setAttribute('aria-expanded', String(!collapsed));
+        toggle.classList.toggle('is-collapsed', collapsed);
+      };
+      apply(state.collapsedActs.includes(act));
+      toggle.addEventListener('click', () => {
+        const collapsed = !group.hidden;
+        state.collapsedActs = collapsed
+          ? [...new Set([...state.collapsedActs, act])]
+          : state.collapsedActs.filter(item => item !== act);
+        apply(collapsed);
+        persist();
+      });
+    });
+  }
+
+  function revealActiveAct() {
+    const selected = document.querySelector('.scene-nav.active');
+    const group = selected?.closest('.act-scenes');
+    if (!group || !group.hidden) return;
+    const toggle = document.querySelector('[aria-controls="' + group.id + '"]');
+    if (!toggle) return;
+    group.hidden = false;
+    toggle.setAttribute('aria-expanded', 'true');
+    toggle.classList.remove('is-collapsed');
+    const act = group.id.split('-').pop().toUpperCase();
+    state.collapsedActs = state.collapsedActs.filter(item => item !== act);
+    persist();
   }
 
   function notesForBlock(text, notes) {
@@ -480,6 +538,7 @@
       button.classList.toggle('active', active);
       if (active) button.setAttribute('aria-current', 'page'); else button.removeAttribute('aria-current');
     });
+    revealActiveAct();
     renderCharacters();
     renderSpeeches();
     updateBookmark();
@@ -601,6 +660,7 @@
     });
   }
 
+  enableActAccordions();
   selectScene(scene, false);
   updateAutoPosition();
   applyPreferences();

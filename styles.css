@@ -283,3 +283,11 @@ body.dividers-on .inline-stage,body.dividers-on .stage-direction{border-bottom:1
 
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*::before,*::after{animation-duration:.01ms!important;transition-duration:.01ms!important}}
 @media(max-width:460px){.topbar-actions .readings-link{display:none}}
+
+/* Collapsible act navigation; existing scene links remain untouched. */
+.act-toggle{display:flex;align-items:center;gap:8px;width:100%;border:0;background:transparent;color:inherit;font:inherit;text-align:left;cursor:pointer;padding:12px 9px 9px;letter-spacing:.09em;font-weight:700;font-size:11px}
+.act-toggle .act-count{margin-left:auto;font-weight:500;opacity:.65}
+.act-toggle .act-chevron{font-size:17px;line-height:1;transition:transform .18s ease;opacity:.7}
+.act-toggle.is-collapsed .act-chevron{transform:rotate(-90deg)}
+.act-toggle:hover,.act-toggle:focus-visible{background:rgba(100,100,90,.07);border-radius:5px}
+.act-scenes[hidden]{display:none!important}
