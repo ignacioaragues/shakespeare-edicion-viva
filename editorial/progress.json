@@ -769,13 +769,22 @@
       "last_line": 1583,
       "editorial_state": "translated_source_checked_external_references",
       "note": "Brutus' complete speech; Folger II.3 compared with Shakespeare Online; eleven contextual notes. Private editions not consulted."
+    },
+    {
+      "id": "coriolanus-2-3-1584-1604",
+      "act": 2,
+      "scene": 3,
+      "first_line": 1584,
+      "last_line": 1604,
+      "editorial_state": "translated_source_checked_external_references",
+      "note": "Three complete speeches; Folger online checked against Shakespeare Online; private reference editions not consulted."
     }
   ],
   "next_fragment": {
     "act": 2,
     "scene": 3,
-    "first_line": 1584,
-    "note": "Sicinius' reply 1584–1593."
+    "first_line": 1605,
+    "note": "Citizens reconsider and revoke their support."
   },
   "completed_acts": [],
   "last_update_commit": null,
