@@ -11338,6 +11338,94 @@ window.SHAKESPEARE_READER_DATA = {
               "lemmaUrl": "https://en.wiktionary.org/wiki/inveterate"
             }
           ]
+        },
+        {
+          "line": "1625–1628",
+          "speaker": "brutus",
+          "en": "Lay\nA fault on us, your tribunes, that we labored,\nNo impediment between, but that you must\nCast your election on him.",
+          "es": "Échennos la culpa a nosotros, sus tribunos: digan que insistimos,\nsin permitir que nada se interpusiera, en que ustedes\ndebían darle sus votos.",
+          "notes": [
+            {
+              "term": "Lay a fault on us",
+              "title": "Lay a fault on us",
+              "type": "Nota retórica",
+              "gloss": "échenos la culpa",
+              "body": "Bruto propone atribuir a los tribunos la responsabilidad de la elección; es una estrategia deliberada. Folger II.3, 1625–1628: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/.",
+              "lemma": "lay",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/lay"
+            },
+            {
+              "term": "No impediment between",
+              "title": "No impediment between",
+              "type": "Nota sintáctica",
+              "gloss": "sin que nada se interpusiera",
+              "body": "Inciso sobre la insistencia supuestamente ejercida por los tribunos. Cotejo: Folger II.3 y MIT II.3 https://shakespeare.mit.edu/coriolanus/coriolanus.2.3.html.",
+              "lemma": "impediment",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/impediment"
+            },
+            {
+              "term": "Cast your election on him",
+              "title": "Cast your election on him",
+              "type": "Nota léxica",
+              "gloss": "darle sus votos",
+              "body": "«Cast» expresa dirigir la elección hacia un candidato. Folger II.3, 1628: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/.",
+              "lemma": "cast",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/cast"
+            }
+          ]
+        },
+        {
+          "line": "1629–1634",
+          "speaker": "sicinius",
+          "en": "Say you chose him\nMore after our commandment than as guided\nBy your own true affections, and that your minds,\nPreoccupied with what you rather must do\nThan what you should, made you against the grain\nTo voice him consul. Lay the fault on us.",
+          "es": "Digan que lo eligieron más por obedecer nuestras órdenes\nque por seguir sus verdaderas inclinaciones; que, preocupados\npor lo que creían estar obligados a hacer, en vez de por lo que\nles correspondía hacer, terminaron, contra su voluntad,\ndándole sus votos para cónsul. Échennos la culpa.",
+          "notes": [
+            {
+              "term": "commandment",
+              "title": "commandment",
+              "type": "Nota léxica",
+              "gloss": "orden; mandato",
+              "body": "Sicinio propone presentar el consejo de los tribunos como imposición. Folger II.3, 1629–1634: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/.",
+              "lemma": "commandment",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/commandment"
+            },
+            {
+              "term": "true affections",
+              "title": "true affections",
+              "type": "Nota semántica",
+              "gloss": "inclinaciones auténticas",
+              "body": "«Affections» significa disposiciones o sentimientos propios, no solo afecto amoroso. Folger II.3, 1631: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/.",
+              "lemma": "affection",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/affection"
+            },
+            {
+              "term": "rather must do",
+              "title": "rather must do",
+              "type": "Nota sintáctica",
+              "gloss": "lo que se creían obligados a hacer",
+              "body": "La oposición «must» / «should» contrapone obligación y conveniencia. Folger II.3, 1632–1633: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/.",
+              "lemma": "must",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/must"
+            },
+            {
+              "term": "against the grain",
+              "title": "against the grain",
+              "type": "Nota idiomática",
+              "gloss": "a contrapelo; contra su voluntad",
+              "body": "Locución que describe el voto como contrario a la inclinación personal; es la versión interesada que Sicinio sugiere. Folger II.3, 1633: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/.",
+              "lemma": "grain",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/against_the_grain"
+            },
+            {
+              "term": "voice him consul",
+              "title": "voice him consul",
+              "type": "Nota léxica",
+              "gloss": "votarlo como cónsul",
+              "body": "«Voice» es verbo electoral y mantiene la asociación entre voz y poder político. Folger II.3, 1634: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/.",
+              "lemma": "voice",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/voice"
+            }
+          ]
         }
       ]
     }

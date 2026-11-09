@@ -787,13 +787,22 @@
       "last_line": 1624,
       "editorial_state": "translated_source_checked_external_references",
       "note": "Five complete speeches; Folger checked against MIT and historical commentary; private editions not consulted."
+    },
+    {
+      "id": "coriolanus-2-3-1625-1634",
+      "act": 2,
+      "scene": 3,
+      "first_line": 1625,
+      "last_line": 1634,
+      "editorial_state": "translated_source_checked_external_references",
+      "note": "Two speeches, Folger and MIT checked; eight contextual notes; private editions not consulted."
     }
   ],
   "next_fragment": {
     "act": 2,
     "scene": 3,
-    "first_line": 1625,
-    "note": "Brutus proposes blaming the tribunes for the original vote."
+    "first_line": 1635,
+    "note": "Brutus on Coriolanus' lineage."
   },
   "completed_acts": [],
   "last_update_commit": null,
