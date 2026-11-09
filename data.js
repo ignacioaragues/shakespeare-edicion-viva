@@ -11730,7 +11730,7 @@ window.SHAKESPEARE_READER_DATA = {
       "scene": 1,
       "place": "Roma · Una calle, camino del Capitolio",
       "sourceRef": "Folger Shakespeare Library · Acto III, escena 1",
-      "sectionLabel": "Edición en curso · líneas 1669–1767",
+      "sectionLabel": "Edición en curso · líneas 1669–1785",
       "introduction": "Tras la votación, Coriolano conversa con los generales sobre Aufidio. La irrupción de los tribunos alterará pronto la marcha hacia el consulado.",
       "stage": "Suenan cornetas. Entran Coriolano, Menenio, Cominio, Tito Larcio, patricios y senadores.",
       "characters": [
@@ -12697,6 +12697,179 @@ window.SHAKESPEARE_READER_DATA = {
               "body": "Verbo de súplica formal; el senador intenta contener a Coriolano antes de que agrave el conflicto. Fuentes: Folger Shakespeare Library, Coriolanus III.1 (texto y numeración), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, Coriolanus III.1 (cotejo), https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
               "lemma": "beseech",
               "lemmaUrl": "https://en.wiktionary.org/wiki/beseech"
+            }
+          ]
+        },
+        {
+          "line": "1768",
+          "speaker": "coriolanus",
+          "en": "How? No more?\nAs for my country I have shed my blood,\nNot fearing outward force, so shall my lungs\nCoin words till their decay against those measles\nWhich we disdain should tetter us, yet sought\nThe very way to catch them.",
+          "es": "¿Cómo? ¿Que no diga más?\nAsí como he derramado mi sangre por mi patria\nsin temer a los enemigos de fuera, mis pulmones\nseguirán acuñando palabras hasta agotarse contra esos apestados\ncuyo contagio desdeñamos, aunque nosotros mismos buscamos\nel modo de contraer su enfermedad.",
+          "notes": [
+            {
+              "term": "outward force",
+              "title": "outward force",
+              "type": "Nota filológica",
+              "gloss": "fuerza exterior; enemigo extranjero",
+              "body": "Contrapone la guerra contra enemigos externos al enfrentamiento verbal dentro de Roma; «as ... so» organiza la comparación. Fuentes: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; Cambridge Shakespeare, edición histórica digitalizada (aparato en III.1, comentario sobre «measles»), https://resources.warburg.sas.ac.uk/pdf/emh81b2456895.pdf."
+            },
+            {
+              "term": "coin words",
+              "title": "coin words",
+              "type": "Nota filológica",
+              "gloss": "acuñar palabras",
+              "body": "Metáfora monetaria: la voz produce palabras como una ceca acuña monedas; «till their decay» remite al agotamiento de los pulmones, no al desgaste de las palabras. Fuentes: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; Cambridge Shakespeare, edición histórica digitalizada (aparato en III.1, comentario sobre «measles»), https://resources.warburg.sas.ac.uk/pdf/emh81b2456895.pdf.",
+              "lemma": "coin",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/coin"
+            },
+            {
+              "term": "measles",
+              "title": "measles",
+              "type": "Nota filológica",
+              "gloss": "leprosos; apestados (insulto)",
+              "body": "No debe reducirse al sentido moderno de «sarampión». El aparato de Cambridge observa la confluencia histórica de «measle» (mancha) y «mesel» (leproso); aquí Coriolano convierte a los plebeyos en agentes de contagio. «Apestados» conserva el insulto sin fijar un diagnóstico. Fuentes: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; Cambridge Shakespeare, edición histórica digitalizada (aparato en III.1, comentario sobre «measles»), https://resources.warburg.sas.ac.uk/pdf/emh81b2456895.pdf.",
+              "lemma": "measle",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/measle"
+            },
+            {
+              "term": "tetter",
+              "title": "tetter",
+              "type": "Nota filológica",
+              "gloss": "infectar con una afección cutánea",
+              "body": "Verbo relacionado con «tetter», erupción o enfermedad de la piel. Folger lee «tetter», frente a «tatter» en MIT: esta última lectura desdibuja el campo semántico del contagio. Fuentes: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; Cambridge Shakespeare, edición histórica digitalizada (aparato en III.1, comentario sobre «measles»), https://resources.warburg.sas.ac.uk/pdf/emh81b2456895.pdf.",
+              "lemma": "tetter",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/tetter"
+            },
+            {
+              "term": "sought / The very way to catch them",
+              "title": "sought / The very way to catch them",
+              "type": "Nota filológica",
+              "gloss": "buscamos el modo de contagiarnos",
+              "body": "El sujeto de «sought» es el «we» patricio: reprocha a su clase haber creado el contacto político que dice temer. Es la interpretación sintáctica del parlamento. Fuentes: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; Cambridge Shakespeare, edición histórica digitalizada (aparato en III.1, comentario sobre «measles»), https://resources.warburg.sas.ac.uk/pdf/emh81b2456895.pdf."
+            }
+          ]
+        },
+        {
+          "line": "1774",
+          "speaker": "brutus",
+          "en": "You speak o’ th’ people\nAs if you were a god to punish, not\nA man of their infirmity.",
+          "es": "Hablas del pueblo\ncomo si fueras un dios con derecho a castigarlo,\ny no un hombre que comparte sus debilidades.",
+          "notes": [
+            {
+              "term": "a god to punish",
+              "title": "a god to punish",
+              "type": "Nota filológica",
+              "gloss": "un dios con poder de castigar",
+              "body": "Bruto denuncia la pretensión de superioridad sobre los conciudadanos: la oposición «god / man» es moral y política. Fuentes: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; Cambridge Shakespeare, edición histórica digitalizada (aparato en III.1, comentario sobre «measles»), https://resources.warburg.sas.ac.uk/pdf/emh81b2456895.pdf."
+            },
+            {
+              "term": "of their infirmity",
+              "title": "of their infirmity",
+              "type": "Nota filológica",
+              "gloss": "que comparte sus debilidades",
+              "body": "«Of» indica pertenencia a la misma condición humana; «infirmity» no exige aquí una enfermedad física. Fuentes: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; Cambridge Shakespeare, edición histórica digitalizada (aparato en III.1, comentario sobre «measles»), https://resources.warburg.sas.ac.uk/pdf/emh81b2456895.pdf.",
+              "lemma": "infirmity",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/infirmity"
+            }
+          ]
+        },
+        {
+          "line": "1777",
+          "speaker": "sicinius",
+          "en": "’Twere well\nWe let the people know ’t.",
+          "es": "Sería conveniente\nque se lo hiciéramos saber al pueblo.",
+          "notes": [
+            {
+              "term": "’Twere well",
+              "title": "’Twere well",
+              "type": "Nota filológica",
+              "gloss": "sería conveniente",
+              "body": "Condicional elíptico equivalente a «it would be well»; la propuesta es divulgar las palabras de Coriolano. Fuentes: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; Cambridge Shakespeare, edición histórica digitalizada (aparato en III.1, comentario sobre «measles»), https://resources.warburg.sas.ac.uk/pdf/emh81b2456895.pdf.",
+              "lemma": "were",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/were"
+            }
+          ]
+        },
+        {
+          "line": "1779",
+          "speaker": "menenius",
+          "en": "What, what? His choler?",
+          "es": "¿Qué? ¿Qué cosa? ¿Su arrebato de ira?",
+          "notes": [
+            {
+              "term": "choler",
+              "title": "choler",
+              "type": "Nota filológica",
+              "gloss": "ira; cólera",
+              "body": "Término vinculado a la bilis amarilla de la medicina humoral; Menenio intenta presentar el discurso como un acceso temperamental, no como doctrina política. Fuentes: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; Cambridge Shakespeare, edición histórica digitalizada (aparato en III.1, comentario sobre «measles»), https://resources.warburg.sas.ac.uk/pdf/emh81b2456895.pdf.",
+              "lemma": "choler",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/choler"
+            }
+          ]
+        },
+        {
+          "line": "1780",
+          "speaker": "coriolanus",
+          "en": "Choler?\nWere I as patient as the midnight sleep,\nBy Jove, ’twould be my mind.",
+          "es": "¿Ira?\nAunque tuviera la paciencia del sueño de medianoche,\n¡por Júpiter!, seguiría pensando lo mismo.",
+          "notes": [
+            {
+              "term": "Were I as patient",
+              "title": "Were I as patient",
+              "type": "Nota filológica",
+              "gloss": "aunque fuera tan paciente",
+              "body": "Inversión condicional sin «if», con valor concesivo en el contexto: no atribuye sus opiniones al arrebato. Fuentes: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; Cambridge Shakespeare, edición histórica digitalizada (aparato en III.1, comentario sobre «measles»), https://resources.warburg.sas.ac.uk/pdf/emh81b2456895.pdf.",
+              "lemma": "were",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/were"
+            },
+            {
+              "term": "midnight sleep",
+              "title": "midnight sleep",
+              "type": "Nota filológica",
+              "gloss": "sueño de medianoche",
+              "body": "Imagen de quietud extrema que contrasta con la agitación de la escena. Fuentes: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; Cambridge Shakespeare, edición histórica digitalizada (aparato en III.1, comentario sobre «measles»), https://resources.warburg.sas.ac.uk/pdf/emh81b2456895.pdf."
+            },
+            {
+              "term": "’twould be my mind",
+              "title": "’twould be my mind",
+              "type": "Nota filológica",
+              "gloss": "seguiría siendo mi opinión",
+              "body": "Coriolano rechaza la explicación de Menenio: aun sereno mantendría su juicio. Fuentes: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; Cambridge Shakespeare, edición histórica digitalizada (aparato en III.1, comentario sobre «measles»), https://resources.warburg.sas.ac.uk/pdf/emh81b2456895.pdf.",
+              "lemma": "would",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/would"
+            },
+            {
+              "term": "By Jove",
+              "title": "By Jove",
+              "type": "Nota filológica",
+              "gloss": "por Júpiter",
+              "body": "Juramento por Júpiter, deidad suprema romana; no se moderniza como juramento cristiano. Fuentes: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; Cambridge Shakespeare, edición histórica digitalizada (aparato en III.1, comentario sobre «measles»), https://resources.warburg.sas.ac.uk/pdf/emh81b2456895.pdf."
+            }
+          ]
+        },
+        {
+          "line": "1783",
+          "speaker": "sicinius",
+          "en": "It is a mind\nThat shall remain a poison where it is,\nNot poison any further.",
+          "es": "Es una opinión\nque quedará como veneno allí donde está,\nsin envenenar a nadie más.",
+          "notes": [
+            {
+              "term": "shall remain",
+              "title": "shall remain",
+              "type": "Nota filológica",
+              "gloss": "quedará; deberá permanecer",
+              "body": "El modal «shall» tiene fuerza de mandato o determinación política, no solo predicción; Coriolano retomará la palabra para cuestionar esa autoridad. Fuentes: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; Cambridge Shakespeare, edición histórica digitalizada (aparato en III.1, comentario sobre «measles»), https://resources.warburg.sas.ac.uk/pdf/emh81b2456895.pdf.",
+              "lemma": "shall",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/shall"
+            },
+            {
+              "term": "poison",
+              "title": "poison",
+              "type": "Nota filológica",
+              "gloss": "veneno; envenenar",
+              "body": "Repetición nominal y verbal: Sicinio invierte la imagen de contagio utilizada por Coriolano y presenta ahora sus ideas como la amenaza. Fuentes: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; Cambridge Shakespeare, edición histórica digitalizada (aparato en III.1, comentario sobre «measles»), https://resources.warburg.sas.ac.uk/pdf/emh81b2456895.pdf.",
+              "lemma": "poison",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/poison"
             }
           ]
         }
