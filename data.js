@@ -13664,7 +13664,7 @@ window.SHAKESPEARE_READER_DATA = {
           "line": "1905–1908",
           "speaker": "menenius",
           "en": "What is about to be? I am out of breath.\nConfusion’s near. I cannot speak. You, tribunes\nTo th’ people!—Coriolanus, patience!—\nSpeak, good Sicinius.",
-          "es": "¿Qué está por suceder? Me falta el aliento.\nEl desorden está cerca. No puedo hablar. ¡Ustedes, tribunos,\ndiríanse al pueblo! ¡Coriolano, paciencia!\nHabla, buen Sicinio.",
+          "es": "¿Qué está por suceder? Me falta el aliento.\nEl desorden está cerca. No puedo hablar. ¡Ustedes, tribunos,\ndiríjanse al pueblo! ¡Coriolano, paciencia!\nHabla, buen Sicinio.",
           "notes": [
             {
               "term": "Confusion’s near",
