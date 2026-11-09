@@ -760,13 +760,22 @@
       "last_line": 1568,
       "editorial_state": "translated_source_checked_external_references",
       "note": "Third Citizen's reenactment and Sicinius' response; Folger and Shakespeare Online compared; nine contextual notes. Private editions not consulted."
+    },
+    {
+      "id": "coriolanus-2-3-1569-1583",
+      "act": 2,
+      "scene": 3,
+      "first_line": 1569,
+      "last_line": 1583,
+      "editorial_state": "translated_source_checked_external_references",
+      "note": "Brutus' complete speech; Folger II.3 compared with Shakespeare Online; eleven contextual notes. Private editions not consulted."
     }
   ],
   "next_fragment": {
     "act": 2,
     "scene": 3,
-    "first_line": 1569,
-    "note": "Brutus' complete admonition, 1569–1583."
+    "first_line": 1584,
+    "note": "Sicinius' reply 1584–1593."
   },
   "completed_acts": [],
   "last_update_commit": null,
