@@ -9255,7 +9255,7 @@ window.SHAKESPEARE_READER_DATA = {
       "scene": 3,
       "place": "Roma · Plaza del mercado",
       "sourceRef": "Folger Shakespeare Library · Acto II, escena 3",
-      "sectionLabel": "Edición en curso · líneas 1374–1522",
+      "sectionLabel": "Edición en curso · líneas 1374–1568",
       "introduction": "Antes de que Coriolano solicite sus votos, los ciudadanos debaten hasta qué punto son libres de negárselos y qué exige la gratitud pública.",
       "stage": "Entran siete u ocho ciudadanos.",
       "characters": [
@@ -10817,6 +10817,89 @@ window.SHAKESPEARE_READER_DATA = {
               "lemma": "them",
               "lemmaUrl": "https://en.wiktionary.org/wiki/them",
               "body": "Forma reducida de «them» referida a las heridas. Folger: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; cotejo: https://www.shakespeare-online.com/plays/corio_2_3.html."
+            }
+          ]
+        },
+        {
+          "line": "1556–1565",
+          "speaker": "citizen3",
+          "en": "He said he had wounds, which he could show in\nprivate,\nAnd with his hat, thus waving it in scorn,\n“I would be consul,” says he. “Agèd custom,\nBut by your voices, will not so permit me;\nYour voices therefore.” When we granted that,\nHere was “I thank you for your voices. Thank you.\nYour most sweet voices! Now you have left your\nvoices,\nI have no further with you.” Was not this mockery?",
+          "es": "Dijo que tenía heridas que podía mostrarnos\nen privado;\ny, agitando así el sombrero con desprecio,\n«Quisiera ser cónsul», dijo. «La antigua costumbre,\nsin embargo, no me lo permite sin sus votos;\npor tanto, sus votos». Cuando se los concedimos,\nsiguió: «Les agradezco sus votos. Gracias.\n¡Sus dulcísimos votos! Ahora que han dejado aquí\nsus votos,\nya no tengo nada más que tratar con ustedes». ¿No era esto una burla?",
+          "notes": [
+            {
+              "term": "in private",
+              "type": "Nota filológica",
+              "title": "in private",
+              "gloss": "en privado",
+              "body": "Recuerda la oferta de mostrar las heridas fuera de la vista pública; el relato dramatiza una declaración anterior. Fuentes: Folger, Coriolanus II.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; cotejo Shakespeare Online, https://www.shakespeare-online.com/plays/corio_2_3.html."
+            },
+            {
+              "term": "with his hat",
+              "type": "Nota filológica",
+              "title": "with his hat",
+              "gloss": "con el sombrero",
+              "body": "«Thus waving it» invita al actor a imitar el gesto; el desprecio es la interpretación del ciudadano. Fuentes: Folger, Coriolanus II.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; cotejo Shakespeare Online, https://www.shakespeare-online.com/plays/corio_2_3.html."
+            },
+            {
+              "term": "Agèd custom",
+              "type": "Nota filológica",
+              "title": "Agèd custom",
+              "gloss": "antigua costumbre",
+              "lemma": "aged",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/aged",
+              "body": "«Agèd» modifica «custom»: no alude a un elector anciano. Fuentes: Folger, Coriolanus II.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; cotejo Shakespeare Online, https://www.shakespeare-online.com/plays/corio_2_3.html."
+            },
+            {
+              "term": "Your voices therefore",
+              "type": "Nota filológica",
+              "title": "Your voices therefore",
+              "gloss": "por tanto, sus votos",
+              "body": "«Voices» significa aquí sufragios; la repetición imita la insistencia interesada atribuida a Coriolano. Fuentes: Folger, Coriolanus II.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; cotejo Shakespeare Online, https://www.shakespeare-online.com/plays/corio_2_3.html."
+            },
+            {
+              "term": "left your voices",
+              "type": "Nota filológica",
+              "title": "left your voices",
+              "gloss": "han dejado aquí sus votos",
+              "body": "El ciudadano exagera el carácter instrumental de la petición: obtenido el voto, el candidato se desentiende del votante. Fuentes: Folger, Coriolanus II.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; cotejo Shakespeare Online, https://www.shakespeare-online.com/plays/corio_2_3.html."
+            },
+            {
+              "term": "I have no further with you",
+              "type": "Nota filológica",
+              "title": "I have no further with you",
+              "gloss": "ya no tengo nada más que tratar con ustedes",
+              "body": "Elipsis de una noción como «business»; es una cita en el relato del ciudadano, no transcripción literal del parlamento anterior. Fuentes: Folger, Coriolanus II.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; cotejo Shakespeare Online, https://www.shakespeare-online.com/plays/corio_2_3.html."
+            }
+          ]
+        },
+        {
+          "line": "1566–1568",
+          "speaker": "sicinius",
+          "en": "Why, either were you ignorant to see ’t\nOr, seeing it, of such childish friendliness\nTo yield your voices?",
+          "es": "Entonces, ¿fueron incapaces de advertirlo\no, aun advirtiéndolo, tan ingenuamente complacientes\nque le dieron sus votos?",
+          "notes": [
+            {
+              "term": "either ... Or",
+              "type": "Nota filológica",
+              "title": "either ... Or",
+              "gloss": "o bien… o bien",
+              "body": "La disyunción presenta ambas posibilidades como reprochables: falta de discernimiento o docilidad. Fuentes: Folger, Coriolanus II.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; cotejo Shakespeare Online, https://www.shakespeare-online.com/plays/corio_2_3.html."
+            },
+            {
+              "term": "childish friendliness",
+              "type": "Nota filológica",
+              "title": "childish friendliness",
+              "gloss": "ingenua complacencia",
+              "body": "La aparente amistad se califica de infantil: Sicinio reinterpreta el voto como una falta de juicio. Fuentes: Folger, Coriolanus II.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; cotejo Shakespeare Online, https://www.shakespeare-online.com/plays/corio_2_3.html."
+            },
+            {
+              "term": "yield your voices",
+              "type": "Nota filológica",
+              "title": "yield your voices",
+              "gloss": "dar sus votos",
+              "lemma": "yield",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/yield",
+              "body": "«Yield» implica ceder o entregar: el electorado tenía la facultad de negar su apoyo. Fuentes: Folger, Coriolanus II.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; cotejo Shakespeare Online, https://www.shakespeare-online.com/plays/corio_2_3.html."
             }
           ]
         }

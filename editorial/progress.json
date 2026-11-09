@@ -751,13 +751,22 @@
       "last_line": 1555,
       "editorial_state": "translated_source_checked_external_references",
       "note": "Nine complete speeches, citizens debate mockery and wounds; Folger checked against Shakespeare Online; private editions not consulted."
+    },
+    {
+      "id": "coriolanus-2-3-1556-1568",
+      "act": 2,
+      "scene": 3,
+      "first_line": 1556,
+      "last_line": 1568,
+      "editorial_state": "translated_source_checked_external_references",
+      "note": "Third Citizen's reenactment and Sicinius' response; Folger and Shakespeare Online compared; nine contextual notes. Private editions not consulted."
     }
   ],
   "next_fragment": {
     "act": 2,
     "scene": 3,
-    "first_line": 1556,
-    "note": "Third Citizen reenacts Coriolanus' appeal, through 1565."
+    "first_line": 1569,
+    "note": "Brutus' complete admonition, 1569–1583."
   },
   "completed_acts": [],
   "last_update_commit": null,
