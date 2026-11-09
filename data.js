@@ -11730,7 +11730,7 @@ window.SHAKESPEARE_READER_DATA = {
       "scene": 1,
       "place": "Roma · Una calle, camino del Capitolio",
       "sourceRef": "Folger Shakespeare Library · Acto III, escena 1",
-      "sectionLabel": "Edición en curso · líneas 1669–1890",
+      "sectionLabel": "Edición en curso · líneas 1669–1910",
       "introduction": "Tras la votación, Coriolano conversa con los generales sobre Aufidio. La irrupción de los tribunos alterará pronto la marcha hacia el consulado.",
       "stage": "Suenan cornetas. Entran Coriolano, Menenio, Cominio, Tito Larcio, patricios y senadores.",
       "characters": [
@@ -11782,6 +11782,34 @@ window.SHAKESPEARE_READER_DATA = {
           "english": "Sicinius",
           "identity": "Tribuno de la plebe.",
           "color": "olive"
+        },
+        {
+          "id": "patricians",
+          "name": "Patricios",
+          "english": "All Patricians",
+          "identity": "Grupo de nobles que ofrece responder por Coriolano.",
+          "color": "slate"
+        },
+        {
+          "id": "plebeians",
+          "name": "Plebeyos",
+          "english": "All Plebeians",
+          "identity": "Ciudadanos convocados por los tribunos.",
+          "color": "olive"
+        },
+        {
+          "id": "second-senator",
+          "name": "Segundo senador",
+          "english": "Second Senator",
+          "identity": "Senador que intenta contener el tumulto.",
+          "color": "slate"
+        },
+        {
+          "id": "all",
+          "name": "Todos",
+          "english": "All",
+          "identity": "Voces simultáneas en medio del tumulto.",
+          "color": "copper"
         }
       ],
       "blocks": [
@@ -13506,8 +13534,163 @@ window.SHAKESPEARE_READER_DATA = {
               "lemmaUrl": "https://en.wiktionary.org/wiki/weal"
             }
           ]
+        },
+        {
+          "line": "1891",
+          "speaker": "coriolanus",
+          "en": "Hence, old goat.",
+          "es": "¡Fuera de aquí, viejo macho cabrío!",
+          "notes": [
+            {
+              "term": "old goat",
+              "title": "old goat",
+              "type": "Nota filológica",
+              "gloss": "viejo macho cabrío",
+              "body": "Insulto animalizador dirigido a Sicinio; la brusquedad de la réplica niega de plano la autoridad de quien pretende detenerlo. Fuentes: Folger, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; David Crystal y Ben Crystal, Shakespeare's Words, Coriolanus III.1, https://shakespeareswords.com/Public/Play.aspx?Act=3&Content=Text&Scene=1&WorkId=3.",
+              "lemma": "goat",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/goat"
+            }
+          ]
+        },
+        {
+          "line": "1892",
+          "speaker": "patricians",
+          "en": "We’ll surety him.",
+          "es": "Nosotros responderemos por él.",
+          "notes": [
+            {
+              "term": "surety",
+              "title": "surety",
+              "type": "Nota filológica",
+              "gloss": "salir fiador; responder por alguien",
+              "body": "El verbo jurídico significa ofrecer garantía personal por el acusado: los patricios proponen hacerse responsables de Coriolano, no entregarlo. Shakespeare's Words registra aquí el sentido 'go bail for, act as a guarantor for'. Fuentes: Folger, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; David Crystal y Ben Crystal, Shakespeare's Words, Coriolanus III.1, https://shakespeareswords.com/Public/Play.aspx?Act=3&Content=Text&Scene=1&WorkId=3.",
+              "lemma": "surety",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/surety"
+            }
+          ]
+        },
+        {
+          "line": "1893",
+          "speaker": "cominius",
+          "en": "Agèd sir, hands off.",
+          "es": "Señor de edad, quite las manos de encima.",
+          "notes": []
+        },
+        {
+          "line": "1894–1895",
+          "speaker": "coriolanus",
+          "en": "Hence, rotten thing, or I shall shake thy bones\nOut of thy garments.",
+          "es": "¡Aparta, ser podrido, o te sacudiré los huesos\nhasta arrancártelos de la ropa!",
+          "notes": [
+            {
+              "term": "rotten thing",
+              "title": "rotten thing",
+              "type": "Nota filológica",
+              "gloss": "ser podrido; cosa corrupta",
+              "body": "Coriolano deshumaniza al tribuno al llamarlo 'thing'; la amenaza corporal extrema precipita el enfrentamiento. Fuentes: Folger, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; David Crystal y Ben Crystal, Shakespeare's Words, Coriolanus III.1, https://shakespeareswords.com/Public/Play.aspx?Act=3&Content=Text&Scene=1&WorkId=3.",
+              "lemma": "rotten",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/rotten"
+            }
+          ]
+        },
+        {
+          "line": "1896",
+          "speaker": "sicinius",
+          "en": "Help, you citizens!",
+          "es": "¡Ciudadanos, auxilio!",
+          "notes": []
+        },
+        {
+          "line": "1897",
+          "speaker": "menenius",
+          "en": "On both sides more respect!",
+          "es": "¡Más respeto por ambas partes!",
+          "notes": [
+            {
+              "term": "respect",
+              "title": "respect",
+              "type": "Nota filológica",
+              "gloss": "consideración; cortesía",
+              "body": "No se refiere a admiración, sino a la moderación y consideración recíprocas necesarias para evitar la violencia; Shakespeare's Words glosa 'courtesy, politeness, consideration'. Fuentes: Folger, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; David Crystal y Ben Crystal, Shakespeare's Words, Coriolanus III.1, https://shakespeareswords.com/Public/Play.aspx?Act=3&Content=Text&Scene=1&WorkId=3.",
+              "lemma": "respect",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/respect"
+            }
+          ]
+        },
+        {
+          "line": "1898",
+          "speaker": "sicinius",
+          "en": "Here’s he that would take from you all your power.",
+          "es": "¡Aquí está quien quiere quitarles todo su poder!",
+          "notes": []
+        },
+        {
+          "line": "1899",
+          "speaker": "brutus",
+          "en": "Seize him, aediles.",
+          "es": "¡Ediles, préndanlo!",
+          "notes": []
+        },
+        {
+          "line": "1900",
+          "speaker": "plebeians",
+          "en": "Down with him, down with him!",
+          "es": "¡Abajo con él! ¡Abajo con él!",
+          "notes": []
+        },
+        {
+          "line": "1901–1903",
+          "speaker": "second-senator",
+          "en": "Weapons, weapons, weapons!\nTribunes, patricians, citizens, what ho!\nSicinius, Brutus, Coriolanus, citizens!",
+          "es": "¡Las armas, las armas, las armas!\n¡Tribunos, patricios, ciudadanos, oigan!\n¡Sicinio, Bruto, Coriolano, ciudadanos!",
+          "notes": [
+            {
+              "term": "what ho",
+              "title": "what ho",
+              "type": "Nota filológica",
+              "gloss": "¡oigan!; ¡atención!",
+              "body": "Interjección de llamada en medio del tumulto; la enumeración de grupos y nombres reproduce la desorganización de la asamblea. Fuentes: Folger, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; David Crystal y Ben Crystal, Shakespeare's Words, Coriolanus III.1, https://shakespeareswords.com/Public/Play.aspx?Act=3&Content=Text&Scene=1&WorkId=3."
+            }
+          ]
+        },
+        {
+          "line": "1904",
+          "speaker": "all",
+          "en": "Peace, peace, peace! Stay, hold, peace!",
+          "es": "¡Calma, calma, calma! ¡Alto, deténganse, calma!",
+          "notes": []
+        },
+        {
+          "line": "1905–1908",
+          "speaker": "menenius",
+          "en": "What is about to be? I am out of breath.\nConfusion’s near. I cannot speak. You, tribunes\nTo th’ people!—Coriolanus, patience!—\nSpeak, good Sicinius.",
+          "es": "¿Qué está por suceder? Me falta el aliento.\nEl desorden está cerca. No puedo hablar. ¡Ustedes, tribunos,\ndiríanse al pueblo! ¡Coriolano, paciencia!\nHabla, buen Sicinio.",
+          "notes": [
+            {
+              "term": "Confusion’s near",
+              "title": "Confusion’s near",
+              "type": "Nota filológica",
+              "gloss": "se aproxima el caos",
+              "body": "La palabra 'confusion' anuncia una ruptura del orden civil; Menenio apenas consigue articular órdenes entrecortadas. Fuentes: Folger, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; David Crystal y Ben Crystal, Shakespeare's Words, Coriolanus III.1, https://shakespeareswords.com/Public/Play.aspx?Act=3&Content=Text&Scene=1&WorkId=3.",
+              "lemma": "confusion",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/confusion"
+            }
+          ]
+        },
+        {
+          "line": "1909",
+          "speaker": "sicinius",
+          "en": "Hear me, people! Peace!",
+          "es": "¡Pueblo, escúchenme! ¡Silencio!",
+          "notes": []
+        },
+        {
+          "line": "1910",
+          "speaker": "plebeians",
+          "en": "Let’s hear our tribune. Peace! Speak, speak, speak.",
+          "es": "Escuchemos a nuestro tribuno. ¡Silencio! ¡Habla, habla, habla!",
+          "notes": []
         }
-
       ]
     }
   ]
