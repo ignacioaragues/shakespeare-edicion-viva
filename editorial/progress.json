@@ -805,13 +805,22 @@
       "last_line": 1652,
       "editorial_state": "translated_source_checked_external_references",
       "note": "Two speeches, Folger/MIT and Plutarch 1.1 compared; 16 contextual notes; private editions not consulted."
+    },
+    {
+      "id": "coriolanus-2-3-1653-1668",
+      "act": 2,
+      "scene": 3,
+      "first_line": 1653,
+      "last_line": 1668,
+      "editorial_state": "translated_source_checked_external_references",
+      "note": "Four complete speeches close II.3; Folger online and MIT compared; contextual Spanish glosses and sourced notes; private reference editions not consulted."
     }
   ],
   "next_fragment": {
-    "act": 2,
-    "scene": 3,
-    "first_line": 1653,
-    "note": "Brutus directs the citizens to blame the tribunes and gather at the Capitol."
+    "act": 3,
+    "scene": 1,
+    "first_line": 1669,
+    "note": "Begin Act III, scene 1; verify Folger global line numbers and add scene navigation before publication."
   },
   "completed_acts": [],
   "last_update_commit": null,

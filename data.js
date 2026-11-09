@@ -11576,6 +11576,149 @@ window.SHAKESPEARE_READER_DATA = {
               "lemmaUrl": "https://en.wiktionary.org/wiki/approbation"
             }
           ]
+        },
+        {
+          "line": "1653–1656",
+          "speaker": "brutus",
+          "en": "Say you ne’er had done ’t—\nHarp on that still—but by our putting on.\nAnd presently, when you have drawn your number,\nRepair to th’ Capitol.",
+          "es": "Digan que nunca lo habrían hecho —\ninsistan una y otra vez en eso— de no ser por nuestra insistencia.\nY en cuanto hayan reunido a los suyos,\ndiríjanse al Capitolio.",
+          "notes": [
+            {
+              "term": "Harp on that still",
+              "title": "Harp on that still",
+              "type": "Nota filológica",
+              "gloss": "insistan sin cesar en eso",
+              "body": "La metáfora musical de «harp on» describe una repetición deliberada: Bruto dicta una versión de los hechos que los ciudadanos deberán sostener. Fuentes: Folger, Coriolanus II.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; MIT Shakespeare, II.3, https://shakespeare.mit.edu/coriolanus/coriolanus.2.3.html.",
+              "lemma": "harp",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/harp"
+            },
+            {
+              "term": "putting on",
+              "title": "putting on",
+              "type": "Nota filológica",
+              "gloss": "instigación; insistencia",
+              "body": "Aquí «putting on» significa incitación o presión, no vestirse; Bruto instruye a los ciudadanos para que atribuyan su voto a los tribunos. Fuentes: Folger, Coriolanus II.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; MIT Shakespeare, II.3, https://shakespeare.mit.edu/coriolanus/coriolanus.2.3.html.",
+              "lemma": "put_on",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/put_on"
+            },
+            {
+              "term": "drawn your number",
+              "title": "drawn your number",
+              "type": "Nota filológica",
+              "gloss": "reunido a los suyos",
+              "body": "«Number» alude al contingente de partidarios que los ciudadanos deben congregar, no al recuento formal de votos. Fuentes: Folger, Coriolanus II.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; MIT Shakespeare, II.3, https://shakespeare.mit.edu/coriolanus/coriolanus.2.3.html."
+            },
+            {
+              "term": "Repair to th’ Capitol",
+              "title": "Repair to th’ Capitol",
+              "type": "Nota filológica",
+              "gloss": "diríjanse al Capitolio",
+              "body": "«Repair» es un verbo de movimiento: acudir a un lugar; el Capitolio se convierte en escenario de la disputa política. Fuentes: Folger, Coriolanus II.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; MIT Shakespeare, II.3, https://shakespeare.mit.edu/coriolanus/coriolanus.2.3.html.",
+              "lemma": "repair",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/repair"
+            }
+          ]
+        },
+        {
+          "line": "1657–1658",
+          "speaker": "all",
+          "en": "We will so. Almost all\nRepent in their election.",
+          "es": "Así lo haremos. Casi todos\nse arrepienten de haberlo elegido.",
+          "notes": [
+            {
+              "term": "Almost all",
+              "title": "Almost all",
+              "type": "Nota filológica",
+              "gloss": "casi todos",
+              "body": "La declaración colectiva no prueba unanimidad: el texto conserva el matiz «casi», importante tras las discrepancias previas entre ciudadanos. Fuentes: Folger, Coriolanus II.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; MIT Shakespeare, II.3, https://shakespeare.mit.edu/coriolanus/coriolanus.2.3.html."
+            },
+            {
+              "term": "Repent in their election",
+              "title": "Repent in their election",
+              "type": "Nota filológica",
+              "gloss": "se arrepienten de haberlo elegido",
+              "body": "«Election» nombra aquí el acto de elección, no una campaña moderna; el arrepentimiento expresa el cambio de parecer que impulsaron los tribunos. Fuentes: Folger, Coriolanus II.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; MIT Shakespeare, II.3, https://shakespeare.mit.edu/coriolanus/coriolanus.2.3.html.",
+              "lemma": "repent",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/repent"
+            }
+          ]
+        },
+        {
+          "line": "1659–1664",
+          "speaker": "brutus",
+          "en": "Let them go on.\nThis mutiny were better put in hazard\nThan stay, past doubt, for greater.\nIf, as his nature is, he fall in rage\nWith their refusal, both observe and answer\nThe vantage of his anger.",
+          "es": "Que sigan adelante.\nEs preferible arriesgarse a este tumulto\nque esperar, sin duda, otro mayor.\nSi, como es propio de su carácter, estalla en cólera\nante el rechazo, debemos advertir y aprovechar\nla ventaja que nos dé su ira.",
+          "notes": [
+            {
+              "term": "mutiny",
+              "title": "mutiny",
+              "type": "Nota filológica",
+              "gloss": "tumulto; levantamiento",
+              "body": "La palabra militar y política intensifica la gravedad de la movilización que Bruto prefiere provocar ahora. Fuentes: Folger, Coriolanus II.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; MIT Shakespeare, II.3, https://shakespeare.mit.edu/coriolanus/coriolanus.2.3.html.",
+              "lemma": "mutiny",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/mutiny"
+            },
+            {
+              "term": "put in hazard",
+              "title": "put in hazard",
+              "type": "Nota filológica",
+              "gloss": "poner en riesgo; aventurar",
+              "body": "Construcción pasiva que presenta la agitación como un riesgo calculado, en contraste con la amenaza de otra mayor. Fuentes: Folger, Coriolanus II.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; MIT Shakespeare, II.3, https://shakespeare.mit.edu/coriolanus/coriolanus.2.3.html.",
+              "lemma": "hazard",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/hazard"
+            },
+            {
+              "term": "stay, past doubt, for greater",
+              "title": "stay, past doubt, for greater",
+              "type": "Nota filológica",
+              "gloss": "esperar, sin duda, uno mayor",
+              "body": "«Stay» significa esperar; el comparativo elide «mutiny». Bruto justifica una crisis inmediata como prevención de otra más grave. Fuentes: Folger, Coriolanus II.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; MIT Shakespeare, II.3, https://shakespeare.mit.edu/coriolanus/coriolanus.2.3.html.",
+              "lemma": "stay",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/stay"
+            },
+            {
+              "term": "observe and answer / The vantage",
+              "title": "observe and answer / The vantage",
+              "type": "Nota filológica",
+              "gloss": "detectar y aprovechar la oportunidad",
+              "body": "«Answer» puede entenderse como responder estratégicamente a la ocasión; la traducción explicita la acción política, sin convertir la predicción en un hecho. Fuentes: Folger, Coriolanus II.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; MIT Shakespeare, II.3, https://shakespeare.mit.edu/coriolanus/coriolanus.2.3.html.",
+              "lemma": "answer",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/answer"
+            }
+          ]
+        },
+        {
+          "line": "1665–1668",
+          "speaker": "sicinius",
+          "en": "To th’ Capitol, come.\nWe will be there before the stream o’ th’ people,\nAnd this shall seem, as partly ’tis, their own,\nWhich we have goaded onward.",
+          "es": "Vamos, al Capitolio.\nLlegaremos antes que la corriente del pueblo,\ny esto parecerá una iniciativa suya —como en parte lo es—,\naunque nosotros la hemos impulsado.",
+          "notes": [
+            {
+              "term": "stream o’ th’ people",
+              "title": "stream o’ th’ people",
+              "type": "Nota filológica",
+              "gloss": "corriente del pueblo",
+              "body": "Metáfora fluvial para la multitud en movimiento; sugiere fuerza colectiva y dirección. Fuentes: Folger, Coriolanus II.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; MIT Shakespeare, II.3, https://shakespeare.mit.edu/coriolanus/coriolanus.2.3.html.",
+              "lemma": "stream",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/stream"
+            },
+            {
+              "term": "as partly ’tis",
+              "title": "as partly ’tis",
+              "type": "Nota filológica",
+              "gloss": "como en parte lo es",
+              "body": "Sicinio reconoce que la iniciativa tiene un componente popular real, aunque los tribunos la han dirigido; matiza la oposición entre espontaneidad y manipulación. Fuentes: Folger, Coriolanus II.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; MIT Shakespeare, II.3, https://shakespeare.mit.edu/coriolanus/coriolanus.2.3.html."
+            },
+            {
+              "term": "goaded onward",
+              "title": "goaded onward",
+              "type": "Nota filológica",
+              "gloss": "aguijoneado; impulsado",
+              "body": "«Goad» evoca el aguijón con que se apremia a un animal: imagen de la presión ejercida sobre los ciudadanos. Fuentes: Folger, Coriolanus II.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; MIT Shakespeare, II.3, https://shakespeare.mit.edu/coriolanus/coriolanus.2.3.html.",
+              "lemma": "goad",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/goad"
+            }
+          ]
         }
       ]
     }
