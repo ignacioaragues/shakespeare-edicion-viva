@@ -11169,6 +11169,175 @@ window.SHAKESPEARE_READER_DATA = {
               "lemmaUrl": "https://en.wiktionary.org/wiki/sue"
             }
           ]
+        },
+        {
+          "line": "1605–1606",
+          "speaker": "citizen3",
+          "en": "He’s not confirmed.\nWe may deny him yet.",
+          "es": "Todavía no está confirmado.\nAún podemos rechazarlo.",
+          "notes": [
+            {
+              "term": "confirmed",
+              "title": "confirmed",
+              "type": "Nota filológica",
+              "gloss": "ratificado",
+              "body": "El ciudadano distingue entre los votos iniciales y la ratificación pendiente; no equivale a una reconstrucción histórica exhaustiva. Fuente primaria: Folger II.3 https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/.",
+              "lemma": "confirm",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/confirm"
+            }
+          ]
+        },
+        {
+          "line": "1607–1608",
+          "speaker": "citizen2",
+          "en": "And will deny him.\nI’ll have five hundred voices of that sound.",
+          "es": "Y lo rechazaremos.\nConseguiré quinientos votos que digan lo mismo.",
+          "notes": [
+            {
+              "term": "voices",
+              "title": "voices",
+              "type": "Nota filológica",
+              "gloss": "votos; voces",
+              "body": "Doble sentido electoral y acústico; véase SparkNotes, «The Ambiguous Power of Speech», https://www.sparknotes.com/shakespeare/coriolanus/quotes/theme/speech/. Fuente primaria: Folger II.3 https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/.",
+              "lemma": "voice",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/voice"
+            },
+            {
+              "term": "of that sound",
+              "title": "of that sound",
+              "type": "Nota filológica",
+              "gloss": "que digan lo mismo",
+              "body": "Imagen de voces coincidentes en una respuesta. Fuente primaria: Folger II.3 https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/."
+            }
+          ]
+        },
+        {
+          "line": "1609",
+          "speaker": "citizen1",
+          "en": "I twice five hundred, and their friends to piece ’em.",
+          "es": "Yo conseguiré el doble, y también a sus amigos para aumentar el número.",
+          "notes": [
+            {
+              "term": "to piece ’em",
+              "title": "to piece ’em",
+              "type": "Nota filológica",
+              "gloss": "para sumarlos",
+              "body": "«Piece» es verbo: añadir personas a los grupos mencionados. Fuente primaria: Folger II.3 https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/.",
+              "lemma": "piece",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/piece"
+            }
+          ]
+        },
+        {
+          "line": "1610–1614",
+          "speaker": "brutus",
+          "en": "Get you hence instantly, and tell those friends\nThey have chose a consul that will from them take\nTheir liberties, make them of no more voice\nThan dogs that are as often beat for barking\nAs therefor kept to do so.",
+          "es": "Váyanse de inmediato y digan a esos amigos\nque han elegido a un cónsul que les quitará\nsus libertades y les dejará tan poca voz\ncomo a los perros, a los que golpean por ladrar\ncon tanta frecuencia como los mantienen para que ladren.",
+          "notes": [
+            {
+              "term": "have chose",
+              "title": "have chose",
+              "type": "Nota filológica",
+              "gloss": "han elegido",
+              "body": "Participio «chose» en lugar del actual «chosen». Fuente primaria: Folger II.3 https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/.",
+              "lemma": "choose",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/choose"
+            },
+            {
+              "term": "no more voice",
+              "title": "no more voice",
+              "type": "Nota filológica",
+              "gloss": "sin más voz política",
+              "body": "El tribuno pasa del voto a la capacidad de expresarse: «voice» conserva ambos sentidos. Véase SparkNotes, «The Ambiguous Power of Speech», https://www.sparknotes.com/shakespeare/coriolanus/quotes/theme/speech/. Fuente primaria: Folger II.3 https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/."
+            },
+            {
+              "term": "therefor",
+              "title": "therefor",
+              "type": "Nota filológica",
+              "gloss": "para eso",
+              "body": "«Therefor» indica finalidad, distinto de «therefore». Una edición histórica https://upload.wikimedia.org/wikipedia/commons/2/28/Shakespeare%27s_tragedy_of_Coriolanus_%28IA_shakespearestrag03shakesp%29.pdf registra la lectura alternativa «they are». Fuente primaria: Folger II.3 https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/.",
+              "lemma": "therefor",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/therefor"
+            }
+          ]
+        },
+        {
+          "line": "1615–1624",
+          "speaker": "sicinius",
+          "en": "Let them assemble\nAnd, on a safer judgment, all revoke\nYour ignorant election. Enforce his pride\nAnd his old hate unto you. Besides, forget not\nWith what contempt he wore the humble weed,\nHow in his suit he scorned you; but your loves,\nThinking upon his services, took from you\nTh’ apprehension of his present portance,\nWhich most gibingly, ungravely, he did fashion\nAfter the inveterate hate he bears you.",
+          "es": "Que se reúnan todos\ny, con un juicio más prudente, revoquen\nla elección que hicieron sin saber lo que hacían. Insistan en su orgullo\ny en el antiguo odio que les profesa. Además, no olviden\ncon qué desprecio vistió la ropa humilde,\nni cómo los despreció al solicitar su apoyo. Pero el afecto de ustedes,\nal recordar sus servicios, les impidió\npercibir su conducta de ahora,\nque él modeló con burlas y sin ninguna seriedad,\na imagen del odio arraigado que les tiene.",
+          "notes": [
+            {
+              "term": "safer judgment",
+              "title": "safer judgment",
+              "type": "Nota filológica",
+              "gloss": "juicio más prudente",
+              "body": "«Safer» califica la reconsideración como más sensata. Fuente primaria: Folger II.3 https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/.",
+              "lemma": "safe",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/safe"
+            },
+            {
+              "term": "ignorant election",
+              "title": "ignorant election",
+              "type": "Nota filológica",
+              "gloss": "elección poco informada",
+              "body": "El adjetivo califica la decisión, no necesariamente la inteligencia de los electores. Fuente primaria: Folger II.3 https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/."
+            },
+            {
+              "term": "Enforce his pride",
+              "title": "Enforce his pride",
+              "type": "Nota filológica",
+              "gloss": "insistan en su orgullo",
+              "body": "«Enforce» equivale aquí a recalcar; edición histórica https://upload.wikimedia.org/wikipedia/commons/2/28/Shakespeare%27s_tragedy_of_Coriolanus_%28IA_shakespearestrag03shakesp%29.pdf, nota 17. Fuente primaria: Folger II.3 https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/.",
+              "lemma": "enforce",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/enforce"
+            },
+            {
+              "term": "humble weed",
+              "title": "humble weed",
+              "type": "Nota filológica",
+              "gloss": "ropa humilde",
+              "body": "«Weed» puede significar vestimenta: la toga ceremonial, no una planta. Fuente primaria: Folger II.3 https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/.",
+              "lemma": "weed",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/weed"
+            },
+            {
+              "term": "suit",
+              "title": "suit",
+              "type": "Nota filológica",
+              "gloss": "solicitud",
+              "body": "Aquí petición del consulado, con posible eco del sentido indumentario. Fuente primaria: Folger II.3 https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/.",
+              "lemma": "suit",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/suit"
+            },
+            {
+              "term": "present portance",
+              "title": "present portance",
+              "type": "Nota filológica",
+              "gloss": "conducta actual",
+              "body": "«Portance» es porte o comportamiento; edición histórica https://upload.wikimedia.org/wikipedia/commons/2/28/Shakespeare%27s_tragedy_of_Coriolanus_%28IA_shakespearestrag03shakesp%29.pdf, nota 18. Fuente primaria: Folger II.3 https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/.",
+              "lemma": "portance",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/portance"
+            },
+            {
+              "term": "gibingly, ungravely",
+              "title": "gibingly, ungravely",
+              "type": "Nota filológica",
+              "gloss": "con burlas y sin seriedad",
+              "body": "Adverbios que califican la conducta pública de Coriolano. Fuente primaria: Folger II.3 https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/.",
+              "lemma": "gibingly",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/gibingly"
+            },
+            {
+              "term": "inveterate hate",
+              "title": "inveterate hate",
+              "type": "Nota filológica",
+              "gloss": "odio arraigado",
+              "body": "La hostilidad persistente es la interpretación interesada de Sicinio. Fuente primaria: Folger II.3 https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/.",
+              "lemma": "inveterate",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/inveterate"
+            }
+          ]
         }
       ]
     }
