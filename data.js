@@ -11730,7 +11730,7 @@ window.SHAKESPEARE_READER_DATA = {
       "scene": 1,
       "place": "Roma · Una calle, camino del Capitolio",
       "sourceRef": "Folger Shakespeare Library · Acto III, escena 1",
-      "sectionLabel": "Edición en curso · líneas 1669–1845",
+      "sectionLabel": "Edición en curso · líneas 1669–1871",
       "introduction": "Tras la votación, Coriolano conversa con los generales sobre Aufidio. La irrupción de los tribunos alterará pronto la marcha hacia el consulado.",
       "stage": "Suenan cornetas. Entran Coriolano, Menenio, Cominio, Tito Larcio, patricios y senadores.",
       "characters": [
@@ -11768,6 +11768,20 @@ window.SHAKESPEARE_READER_DATA = {
           "english": "First Senator",
           "identity": "Senador romano que intenta moderar la disputa.",
           "color": "slate"
+        },
+        {
+          "id": "brutus",
+          "name": "Bruto",
+          "english": "Brutus",
+          "identity": "Tribuno de la plebe; se opone al poder de Coriolano.",
+          "color": "slate"
+        },
+        {
+          "id": "sicinius",
+          "name": "Sicinio",
+          "english": "Sicinius",
+          "identity": "Tribuno de la plebe.",
+          "color": "olive"
         }
       ],
       "blocks": [
@@ -12872,8 +12886,8 @@ window.SHAKESPEARE_READER_DATA = {
               "lemmaUrl": "https://en.wiktionary.org/wiki/poison"
             }
           ]
-        }
-        ,        {
+        },
+        {
           "line": "1786",
           "speaker": "coriolanus",
           "en": "“Shall remain”?\nHear you this Triton of the minnows? Mark you\nHis absolute “shall”?",
@@ -13040,8 +13054,7 @@ window.SHAKESPEARE_READER_DATA = {
               "body": "La réplica intenta devolver la acción al itinerario político interrumpido por la disputa. Fuentes: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, Coriolanus III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html."
             }
           ]
-        }
-        ,
+        },
         {
           "line": "1814–1816",
           "speaker": "coriolanus",
@@ -13143,81 +13156,186 @@ window.SHAKESPEARE_READER_DATA = {
           ]
         },
         {
-                  "line": "1823–1845",
-                  "speaker": "coriolanus",
-                  "en": "I’ll give my reasons,\nMore worthier than their voices. They know the\ncorn\nWas not our recompense, resting well assured\nThey ne’er did service for ’t. Being pressed to th’ war,\nEven when the navel of the state was touched,\nThey would not thread the gates. This kind of\nservice\nDid not deserve corn gratis. Being i’ th’ war,\nTheir mutinies and revolts, wherein they showed\nMost valor, spoke not for them. Th’ accusation\nWhich they have often made against the Senate,\nAll cause unborn, could never be the native\nOf our so frank donation. Well, what then?\nHow shall this bosom multiplied digest\nThe Senate’s courtesy? Let deeds express\nWhat’s like to be their words: “We did request it;\nWe are the greater poll, and in true fear\nThey gave us our demands.” Thus we debase\nThe nature of our seats and make the rabble\nCall our cares fears, which will in time\nBreak ope the locks o’ th’ Senate and bring in\nThe crows to peck the eagles.",
-                  "es": "Daré mis razones,\nmás valiosas que sus votos. Ellos saben que el grano\nno era una recompensa que les debiéramos,\npues estamos seguros de que nunca prestaron servicios para merecerlo. Cuando se los reclutó para la guerra,\nincluso cuando el corazón mismo del Estado estaba amenazado,\nse negaron a atravesar las puertas de la ciudad. Semejante servicio\nno merecía grano gratuito. Y durante la guerra,\nsus motines y rebeliones, en los que demostraron\nsu mayor valentía, tampoco los favorecían. Las acusaciones\nque tantas veces lanzaron contra el Senado,\ntodas ellas sin fundamento, jamás pudieron ser el origen\nde una concesión tan generosa. Pues bien, ¿qué sucederá?\n¿Cómo digerirá esta multitud de innumerables bocas\nla cortesía del Senado? Sus actos permiten anticipar\nsus palabras: «Lo exigimos nosotros;\nsomos la mayoría, y por verdadero miedo\nnos concedieron lo que pedíamos». Así rebajamos\nla dignidad de nuestros cargos y hacemos que la plebe\nconfunda nuestra preocupación con temor; con el tiempo,\neso abrirá por la fuerza las puertas del Senado\ny dejará entrar a los cuervos para que picoteen a las águilas.",
-                  "notes": [
-                            {
-                                      "term": "More worthier",
-                                      "title": "More worthier",
-                                      "type": "Nota filológica",
-                                      "gloss": "más valiosas; de mayor peso",
-                                      "body": "Doble comparativo característico de usos del inglés temprano moderno. Coriolano opone sus razones al voto popular, no a la voz física. Fuentes: Folger Shakespeare Library, Coriolanus III.1, líneas 1823–1845, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; Henry Norman Hudson (ed.), Shakespeare’s Tragedy of Coriolanus, notas a III.1, https://upload.wikimedia.org/wikipedia/commons/2/28/Shakespeare%27s_tragedy_of_Coriolanus_%28IA_shakespearestrag03shakesp%29.pdf.",
-                                      "lemma": "worthy",
-                                      "lemmaUrl": "https://en.wiktionary.org/wiki/worthy"
-                            },
-                            {
-                                      "term": "our recompense",
-                                      "title": "our recompense",
-                                      "type": "Nota filológica",
-                                      "gloss": "la recompensa que nosotros concederíamos",
-                                      "body": "El posesivo indica aquí al agente que paga o concede, no al receptor. Hudson señala expresamente este genitivo de sentido subjetivo. Fuentes: Folger Shakespeare Library, Coriolanus III.1, líneas 1823–1845, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; Henry Norman Hudson (ed.), Shakespeare’s Tragedy of Coriolanus, notas a III.1, https://upload.wikimedia.org/wikipedia/commons/2/28/Shakespeare%27s_tragedy_of_Coriolanus_%28IA_shakespearestrag03shakesp%29.pdf."
-                            },
-                            {
-                                      "term": "navel of the state",
-                                      "title": "navel of the state",
-                                      "type": "Nota filológica",
-                                      "gloss": "el centro vital del Estado",
-                                      "body": "La metáfora anatómica representa una amenaza contra el núcleo político; la imagen no obliga a identificar una parte geográfica concreta. Fuentes: Folger Shakespeare Library, Coriolanus III.1, líneas 1823–1845, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; Henry Norman Hudson (ed.), Shakespeare’s Tragedy of Coriolanus, notas a III.1, https://upload.wikimedia.org/wikipedia/commons/2/28/Shakespeare%27s_tragedy_of_Coriolanus_%28IA_shakespearestrag03shakesp%29.pdf."
-                            },
-                            {
-                                      "term": "thread the gates",
-                                      "title": "thread the gates",
-                                      "type": "Nota filológica",
-                                      "gloss": "atravesar las puertas",
-                                      "body": "Thread es verbo de movimiento: pasar por un paso estrecho, como se enhebra una aguja. Hudson remite a un uso comparable en Richard II. Fuentes: Folger Shakespeare Library, Coriolanus III.1, líneas 1823–1845, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; Henry Norman Hudson (ed.), Shakespeare’s Tragedy of Coriolanus, notas a III.1, https://upload.wikimedia.org/wikipedia/commons/2/28/Shakespeare%27s_tragedy_of_Coriolanus_%28IA_shakespearestrag03shakesp%29.pdf.",
-                                      "lemma": "thread",
-                                      "lemmaUrl": "https://en.wiktionary.org/wiki/thread"
-                            },
-                            {
-                                      "term": "the native",
-                                      "title": "the native",
-                                      "type": "Nota filológica",
-                                      "gloss": "el origen; la causa",
-                                      "body": "Native funciona como sustantivo de origen o fuente; la acusación popular no habría motivado la distribución. La edición Folger lee native, frente a motive en algunas transcripciones posteriores. Fuentes: Folger Shakespeare Library, Coriolanus III.1, líneas 1823–1845, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; Henry Norman Hudson (ed.), Shakespeare’s Tragedy of Coriolanus, notas a III.1, https://upload.wikimedia.org/wikipedia/commons/2/28/Shakespeare%27s_tragedy_of_Coriolanus_%28IA_shakespearestrag03shakesp%29.pdf."
-                            },
-                            {
-                                      "term": "bosom multiplied",
-                                      "title": "bosom multiplied",
-                                      "type": "Nota filológica",
-                                      "gloss": "multitud de innumerables pechos o bocas",
-                                      "body": "Imagen colectiva de una multitud multiplicada; Folger lee bosom multiplied. Otras ediciones transmiten bisson multitude: no son expresiones intercambiables y la traducción sigue Folger. Fuentes: Folger Shakespeare Library, Coriolanus III.1, líneas 1823–1845, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; Henry Norman Hudson (ed.), Shakespeare’s Tragedy of Coriolanus, notas a III.1, https://upload.wikimedia.org/wikipedia/commons/2/28/Shakespeare%27s_tragedy_of_Coriolanus_%28IA_shakespearestrag03shakesp%29.pdf."
-                            },
-                            {
-                                      "term": "greater poll",
-                                      "title": "greater poll",
-                                      "type": "Nota filológica",
-                                      "gloss": "la mayoría numérica",
-                                      "body": "Poll alude al recuento por cabezas, no a una encuesta moderna. Hudson explica el valor cuantitativo del término. Fuentes: Folger Shakespeare Library, Coriolanus III.1, líneas 1823–1845, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; Henry Norman Hudson (ed.), Shakespeare’s Tragedy of Coriolanus, notas a III.1, https://upload.wikimedia.org/wikipedia/commons/2/28/Shakespeare%27s_tragedy_of_Coriolanus_%28IA_shakespearestrag03shakesp%29.pdf.",
-                                      "lemma": "poll",
-                                      "lemmaUrl": "https://en.wiktionary.org/wiki/poll"
-                            },
-                            {
-                                      "term": "our cares fears",
-                                      "title": "our cares fears",
-                                      "type": "Nota filológica",
-                                      "gloss": "nuestra preocupación como miedo",
-                                      "body": "Antítesis sonora entre cares y fears: el cuidado político del Senado será interpretado por el pueblo como temor. Fuentes: Folger Shakespeare Library, Coriolanus III.1, líneas 1823–1845, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; Henry Norman Hudson (ed.), Shakespeare’s Tragedy of Coriolanus, notas a III.1, https://upload.wikimedia.org/wikipedia/commons/2/28/Shakespeare%27s_tragedy_of_Coriolanus_%28IA_shakespearestrag03shakesp%29.pdf."
-                            },
-                            {
-                                      "term": "crows to peck the eagles",
-                                      "title": "crows to peck the eagles",
-                                      "type": "Nota filológica",
-                                      "gloss": "cuervos que picotean a las águilas",
-                                      "body": "El cierre transforma la amenaza institucional en una inversión de jerarquías animales: las aves menores atacan al emblema de superioridad romana. Fuentes: Folger Shakespeare Library, Coriolanus III.1, líneas 1823–1845, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; Henry Norman Hudson (ed.), Shakespeare’s Tragedy of Coriolanus, notas a III.1, https://upload.wikimedia.org/wikipedia/commons/2/28/Shakespeare%27s_tragedy_of_Coriolanus_%28IA_shakespearestrag03shakesp%29.pdf."
-                            }
-                  ]
+          "line": "1823–1845",
+          "speaker": "coriolanus",
+          "en": "I’ll give my reasons,\nMore worthier than their voices. They know the\ncorn\nWas not our recompense, resting well assured\nThey ne’er did service for ’t. Being pressed to th’ war,\nEven when the navel of the state was touched,\nThey would not thread the gates. This kind of\nservice\nDid not deserve corn gratis. Being i’ th’ war,\nTheir mutinies and revolts, wherein they showed\nMost valor, spoke not for them. Th’ accusation\nWhich they have often made against the Senate,\nAll cause unborn, could never be the native\nOf our so frank donation. Well, what then?\nHow shall this bosom multiplied digest\nThe Senate’s courtesy? Let deeds express\nWhat’s like to be their words: “We did request it;\nWe are the greater poll, and in true fear\nThey gave us our demands.” Thus we debase\nThe nature of our seats and make the rabble\nCall our cares fears, which will in time\nBreak ope the locks o’ th’ Senate and bring in\nThe crows to peck the eagles.",
+          "es": "Daré mis razones,\nmás valiosas que sus votos. Ellos saben que el grano\nno era una recompensa que les debiéramos,\npues estamos seguros de que nunca prestaron servicios para merecerlo. Cuando se los reclutó para la guerra,\nincluso cuando el corazón mismo del Estado estaba amenazado,\nse negaron a atravesar las puertas de la ciudad. Semejante servicio\nno merecía grano gratuito. Y durante la guerra,\nsus motines y rebeliones, en los que demostraron\nsu mayor valentía, tampoco los favorecían. Las acusaciones\nque tantas veces lanzaron contra el Senado,\ntodas ellas sin fundamento, jamás pudieron ser el origen\nde una concesión tan generosa. Pues bien, ¿qué sucederá?\n¿Cómo digerirá esta multitud de innumerables bocas\nla cortesía del Senado? Sus actos permiten anticipar\nsus palabras: «Lo exigimos nosotros;\nsomos la mayoría, y por verdadero miedo\nnos concedieron lo que pedíamos». Así rebajamos\nla dignidad de nuestros cargos y hacemos que la plebe\nconfunda nuestra preocupación con temor; con el tiempo,\neso abrirá por la fuerza las puertas del Senado\ny dejará entrar a los cuervos para que picoteen a las águilas.",
+          "notes": [
+            {
+              "term": "More worthier",
+              "title": "More worthier",
+              "type": "Nota filológica",
+              "gloss": "más valiosas; de mayor peso",
+              "body": "Doble comparativo característico de usos del inglés temprano moderno. Coriolano opone sus razones al voto popular, no a la voz física. Fuentes: Folger Shakespeare Library, Coriolanus III.1, líneas 1823–1845, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; Henry Norman Hudson (ed.), Shakespeare’s Tragedy of Coriolanus, notas a III.1, https://upload.wikimedia.org/wikipedia/commons/2/28/Shakespeare%27s_tragedy_of_Coriolanus_%28IA_shakespearestrag03shakesp%29.pdf.",
+              "lemma": "worthy",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/worthy"
+            },
+            {
+              "term": "our recompense",
+              "title": "our recompense",
+              "type": "Nota filológica",
+              "gloss": "la recompensa que nosotros concederíamos",
+              "body": "El posesivo indica aquí al agente que paga o concede, no al receptor. Hudson señala expresamente este genitivo de sentido subjetivo. Fuentes: Folger Shakespeare Library, Coriolanus III.1, líneas 1823–1845, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; Henry Norman Hudson (ed.), Shakespeare’s Tragedy of Coriolanus, notas a III.1, https://upload.wikimedia.org/wikipedia/commons/2/28/Shakespeare%27s_tragedy_of_Coriolanus_%28IA_shakespearestrag03shakesp%29.pdf."
+            },
+            {
+              "term": "navel of the state",
+              "title": "navel of the state",
+              "type": "Nota filológica",
+              "gloss": "el centro vital del Estado",
+              "body": "La metáfora anatómica representa una amenaza contra el núcleo político; la imagen no obliga a identificar una parte geográfica concreta. Fuentes: Folger Shakespeare Library, Coriolanus III.1, líneas 1823–1845, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; Henry Norman Hudson (ed.), Shakespeare’s Tragedy of Coriolanus, notas a III.1, https://upload.wikimedia.org/wikipedia/commons/2/28/Shakespeare%27s_tragedy_of_Coriolanus_%28IA_shakespearestrag03shakesp%29.pdf."
+            },
+            {
+              "term": "thread the gates",
+              "title": "thread the gates",
+              "type": "Nota filológica",
+              "gloss": "atravesar las puertas",
+              "body": "Thread es verbo de movimiento: pasar por un paso estrecho, como se enhebra una aguja. Hudson remite a un uso comparable en Richard II. Fuentes: Folger Shakespeare Library, Coriolanus III.1, líneas 1823–1845, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; Henry Norman Hudson (ed.), Shakespeare’s Tragedy of Coriolanus, notas a III.1, https://upload.wikimedia.org/wikipedia/commons/2/28/Shakespeare%27s_tragedy_of_Coriolanus_%28IA_shakespearestrag03shakesp%29.pdf.",
+              "lemma": "thread",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/thread"
+            },
+            {
+              "term": "the native",
+              "title": "the native",
+              "type": "Nota filológica",
+              "gloss": "el origen; la causa",
+              "body": "Native funciona como sustantivo de origen o fuente; la acusación popular no habría motivado la distribución. La edición Folger lee native, frente a motive en algunas transcripciones posteriores. Fuentes: Folger Shakespeare Library, Coriolanus III.1, líneas 1823–1845, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; Henry Norman Hudson (ed.), Shakespeare’s Tragedy of Coriolanus, notas a III.1, https://upload.wikimedia.org/wikipedia/commons/2/28/Shakespeare%27s_tragedy_of_Coriolanus_%28IA_shakespearestrag03shakesp%29.pdf."
+            },
+            {
+              "term": "bosom multiplied",
+              "title": "bosom multiplied",
+              "type": "Nota filológica",
+              "gloss": "multitud de innumerables pechos o bocas",
+              "body": "Imagen colectiva de una multitud multiplicada; Folger lee bosom multiplied. Otras ediciones transmiten bisson multitude: no son expresiones intercambiables y la traducción sigue Folger. Fuentes: Folger Shakespeare Library, Coriolanus III.1, líneas 1823–1845, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; Henry Norman Hudson (ed.), Shakespeare’s Tragedy of Coriolanus, notas a III.1, https://upload.wikimedia.org/wikipedia/commons/2/28/Shakespeare%27s_tragedy_of_Coriolanus_%28IA_shakespearestrag03shakesp%29.pdf."
+            },
+            {
+              "term": "greater poll",
+              "title": "greater poll",
+              "type": "Nota filológica",
+              "gloss": "la mayoría numérica",
+              "body": "Poll alude al recuento por cabezas, no a una encuesta moderna. Hudson explica el valor cuantitativo del término. Fuentes: Folger Shakespeare Library, Coriolanus III.1, líneas 1823–1845, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; Henry Norman Hudson (ed.), Shakespeare’s Tragedy of Coriolanus, notas a III.1, https://upload.wikimedia.org/wikipedia/commons/2/28/Shakespeare%27s_tragedy_of_Coriolanus_%28IA_shakespearestrag03shakesp%29.pdf.",
+              "lemma": "poll",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/poll"
+            },
+            {
+              "term": "our cares fears",
+              "title": "our cares fears",
+              "type": "Nota filológica",
+              "gloss": "nuestra preocupación como miedo",
+              "body": "Antítesis sonora entre cares y fears: el cuidado político del Senado será interpretado por el pueblo como temor. Fuentes: Folger Shakespeare Library, Coriolanus III.1, líneas 1823–1845, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; Henry Norman Hudson (ed.), Shakespeare’s Tragedy of Coriolanus, notas a III.1, https://upload.wikimedia.org/wikipedia/commons/2/28/Shakespeare%27s_tragedy_of_Coriolanus_%28IA_shakespearestrag03shakesp%29.pdf."
+            },
+            {
+              "term": "crows to peck the eagles",
+              "title": "crows to peck the eagles",
+              "type": "Nota filológica",
+              "gloss": "cuervos que picotean a las águilas",
+              "body": "El cierre transforma la amenaza institucional en una inversión de jerarquías animales: las aves menores atacan al emblema de superioridad romana. Fuentes: Folger Shakespeare Library, Coriolanus III.1, líneas 1823–1845, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; Henry Norman Hudson (ed.), Shakespeare’s Tragedy of Coriolanus, notas a III.1, https://upload.wikimedia.org/wikipedia/commons/2/28/Shakespeare%27s_tragedy_of_Coriolanus_%28IA_shakespearestrag03shakesp%29.pdf."
+            }
+          ]
+        },
+        {
+          "line": "1846",
+          "speaker": "menenius",
+          "en": "Come, enough.",
+          "es": "Vamos, basta.",
+          "notes": []
+        },
+        {
+          "line": "1847",
+          "speaker": "brutus",
+          "en": "Enough, with over-measure.",
+          "es": "Basta, y de sobra.",
+          "notes": [
+            {
+              "term": "over-measure",
+              "title": "over-measure",
+              "type": "Nota filológica",
+              "gloss": "en exceso",
+              "body": "Bruto intensifica la exhortación de Menenio: Coriolano ya se excedió. Fuente: Folger Shakespeare Library, Coriolanus III.1, líneas 1846–1871, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/"
+            }
+          ]
+        },
+        {
+          "line": "1848–1871",
+          "speaker": "coriolanus",
+          "en": "No, take more!\nWhat may be sworn by, both divine and human,\nSeal what I end withal! This double worship—\nWhere one part does disdain with cause, the other\nInsult without all reason, where gentry, title, wisdom\nCannot conclude but by the yea and no\nOf general ignorance—it must omit\nReal necessities and give way the while\nTo unstable slightness. Purpose so barred, it follows\nNothing is done to purpose. Therefore, beseech you—\nYou that will be less fearful than discreet,\nThat love the fundamental part of state\nMore than you doubt the change on ’t, that prefer\nA noble life before a long, and wish\nTo jump a body with a dangerous physic\nThat’s sure of death without it—at once pluck out\nThe multitudinous tongue; let them not lick\nThe sweet which is their poison. Your dishonor\nMangles true judgment and bereaves the state\nOf that integrity which should become ’t,\nNot having the power to do the good it would\nFor th’ ill which doth control ’t.",
+          "es": "¡No, escuchen más!\nQue todo aquello por lo que se puede jurar, divino y humano,\nselle mis palabras finales. Esta doble autoridad,\nen la que una parte desprecia con razón y la otra\nse insolenta sin motivo; en la que el linaje, el rango y la prudencia\nno pueden decidir nada sin el sí o el no\nde la ignorancia general, tiene que desatender\nlas necesidades verdaderas y ceder entretanto\nante caprichos inconstantes. Cuando se obstaculiza así toda decisión,\nno se consigue nada de lo que se pretende. Por eso les ruego,\na ustedes, que prefieren la prudencia al miedo,\nque aman los fundamentos del Estado\nmás de lo que temen modificarlos, que anteponen\nuna vida noble a una vida larga y están dispuestos\na arriesgar el cuerpo con un remedio peligroso,\nsabiendo que sin él la muerte es segura: arranquen de una vez\nla lengua de la multitud. No permitan que saboree\nla dulzura que la envenena. Su deshonra\ndestroza el buen juicio y priva al Estado\nde la entereza que le corresponde,\npues le impide hacer el bien que desea\npor culpa del mal que lo domina.",
+          "notes": [
+            {
+              "term": "double worship",
+              "title": "double worship",
+              "type": "Nota filológica",
+              "gloss": "doble autoridad",
+              "body": "Worship significa dignidad o autoridad reconocida; «doble autoridad» es una interpretación contextual. Fuente: Folger Shakespeare Library, Coriolanus III.1, líneas 1846–1871, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/",
+              "lemma": "worship",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/worship"
+            },
+            {
+              "term": "Where one",
+              "title": "Where one",
+              "type": "Nota filológica",
+              "gloss": "donde una parte",
+              "body": "Folger marca editorialmente las palabras iniciales; el personaje contrapone el desdén y la insolencia. Fuente: Folger Shakespeare Library, Coriolanus III.1, líneas 1846–1871, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/"
+            },
+            {
+              "term": "yea and no",
+              "title": "yea and no",
+              "type": "Nota filológica",
+              "gloss": "sí y no; voto",
+              "body": "La fórmula binaria representa la aprobación o rechazo popular. Fuente: Folger Shakespeare Library, Coriolanus III.1, líneas 1846–1871, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/",
+              "lemma": "yea",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/yea"
+            },
+            {
+              "term": "unstable slightness",
+              "title": "unstable slightness",
+              "type": "Nota filológica",
+              "gloss": "ligereza inconstante",
+              "body": "Opuesto a «real necessities»: caprichos frente a necesidades reales. Fuente: Folger Shakespeare Library, Coriolanus III.1, líneas 1846–1871, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/"
+            },
+            {
+              "term": "Purpose so barred",
+              "title": "Purpose so barred",
+              "type": "Nota filológica",
+              "gloss": "decisión así obstaculizada",
+              "body": "Juego con la repetición de purpose: intención y resultado eficaz. Fuente: Folger Shakespeare Library, Coriolanus III.1, líneas 1846–1871, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/",
+              "lemma": "purpose",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/purpose"
+            },
+            {
+              "term": "jump a body",
+              "title": "jump a body",
+              "type": "Nota filológica",
+              "gloss": "arriesgar el cuerpo",
+              "body": "Jump significa aquí arriesgar, no saltar físicamente. Fuente: Folger Shakespeare Library, Coriolanus III.1, líneas 1846–1871, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/",
+              "lemma": "jump",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/jump"
+            },
+            {
+              "term": "dangerous physic",
+              "title": "dangerous physic",
+              "type": "Nota filológica",
+              "gloss": "tratamiento peligroso",
+              "body": "Physic designa una medicina o tratamiento; metáfora de reforma política de alto riesgo. Fuente: Folger Shakespeare Library, Coriolanus III.1, líneas 1846–1871, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/",
+              "lemma": "physic",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/physic"
+            },
+            {
+              "term": "multitudinous tongue",
+              "title": "multitudinous tongue",
+              "type": "Nota filológica",
+              "gloss": "voz de la multitud",
+              "body": "La lengua representa el voto popular; arrancarla implica suprimirlo. Sobre la violencia como estrategia retórica, véase Apostolos N. Stavelas, «The Aesthetics of Violence in the Case of Gaius Martius Coriolanus», Peitho 7.1 (2016), 265–272, https://doi.org/10.14746/pea.2016.1.14. Fuente: Folger Shakespeare Library, Coriolanus III.1, líneas 1846–1871, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/"
+            },
+            {
+              "term": "integrity",
+              "title": "integrity",
+              "type": "Nota filológica",
+              "gloss": "integridad institucional",
+              "body": "Coriolano vincula la entereza del Estado con su capacidad para actuar. Fuente: Folger Shakespeare Library, Coriolanus III.1, líneas 1846–1871, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/",
+              "lemma": "integrity",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/integrity"
+            }
+          ]
         }
       ]
     }
