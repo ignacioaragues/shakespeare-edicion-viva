@@ -11997,6 +11997,177 @@ window.SHAKESPEARE_READER_DATA = {
           "en": "At Antium.",
           "es": "En Ancio.",
           "notes": []
+        },
+        {
+          "line": "1692–1698",
+          "speaker": "coriolanus",
+          "en": "I wish I had a cause to seek him there,\nTo oppose his hatred fully. Welcome home.\n[Enter Sicinius and Brutus.]\nBehold, these are the tribunes of the people,\nThe tongues o’ th’ common mouth. I do despise\nthem,\nFor they do prank them in authority\nAgainst all noble sufferance.",
+          "es": "Ojalá tuviera un motivo para ir a buscarlo allí\ny enfrentarme de lleno a su odio. Bienvenidos a casa.\n[Entran Sicinio y Bruto.]\nMiren: ahí están los tribunos del pueblo,\nlas lenguas de esa boca colectiva. Los desprecio,\nporque se engalanan con su autoridad\npara agravio de toda noble paciencia.",
+          "notes": [
+            {
+              "term": "tongues o’ th’ common mouth",
+              "title": "tongues o’ th’ common mouth",
+              "type": "Nota filológica",
+              "gloss": "lenguas de la boca colectiva",
+              "body": "Metáfora corporal: los tribunos hablan en nombre de una pluralidad figurada como una sola boca; «common» tiene aquí valor político, no simplemente vulgar. Fuentes: Folger, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "lemma": "tongue",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/tongue"
+            },
+            {
+              "term": "prank them",
+              "title": "prank them",
+              "type": "Nota filológica",
+              "gloss": "se engalanan; se adornan",
+              "body": "«Prank» es aquí verbo de adornarse ostentosamente; «them» funciona reflexivamente («themselves»). La crítica a la autoridad es la perspectiva de Coriolano. Fuentes: Folger, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "lemma": "prank",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/prank"
+            },
+            {
+              "term": "noble sufferance",
+              "title": "noble sufferance",
+              "type": "Nota filológica",
+              "gloss": "paciencia de los nobles; tolerancia aristocrática",
+              "body": "«Sufferance» designa aguante o tolerancia. La expresión admite una lectura social (la paciencia de los nobles) y una valorativa (la paciencia noble); se privilegia la primera por el conflicto político. Fuentes: Folger, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "lemma": "sufferance",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/sufferance"
+            }
+          ]
+        },
+        {
+          "line": "1699",
+          "speaker": "sicinius",
+          "en": "Pass no further.",
+          "es": "No avance más.",
+          "notes": []
+        },
+        {
+          "line": "1700",
+          "speaker": "coriolanus",
+          "en": "Ha? What is that?",
+          "es": "¿Eh? ¿Qué significa eso?",
+          "notes": []
+        },
+        {
+          "line": "1701",
+          "speaker": "brutus",
+          "en": "It will be dangerous to go on. No further.",
+          "es": "Será peligroso seguir adelante. No dé un paso más.",
+          "notes": []
+        },
+        {
+          "line": "1702",
+          "speaker": "coriolanus",
+          "en": "What makes this change?",
+          "es": "¿A qué se debe este cambio?",
+          "notes": []
+        },
+        {
+          "line": "1703",
+          "speaker": "menenius",
+          "en": "The matter?",
+          "es": "¿Qué sucede?",
+          "notes": []
+        },
+        {
+          "line": "1704",
+          "speaker": "cominius",
+          "en": "Hath he not passed the noble and the common?",
+          "es": "¿No ha recibido ya la aprobación de los nobles y del pueblo?",
+          "notes": [
+            {
+              "term": "Hath he not",
+              "title": "Hath he not",
+              "type": "Nota filológica",
+              "gloss": "¿acaso no ha...?",
+              "body": "Interrogación con inversión de «hath» (tercera persona singular de «have») sin auxiliar moderno «does». Fuentes: Folger, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "lemma": "have",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/have"
+            },
+            {
+              "term": "the noble and the common",
+              "title": "the noble and the common",
+              "type": "Nota filológica",
+              "gloss": "los nobles y el pueblo",
+              "body": "Alude a los dos sectores cuyo asentimiento es relevante para el consulado; «passed» se interpreta como haber superado la instancia de aprobación, no como caminar físicamente entre ellos. Fuentes: Folger, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "lemma": "common",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/common"
+            }
+          ]
+        },
+        {
+          "line": "1705",
+          "speaker": "brutus",
+          "en": "Cominius, no.",
+          "es": "No, Cominio.",
+          "notes": []
+        },
+        {
+          "line": "1706",
+          "speaker": "coriolanus",
+          "en": "Have I had children’s voices?",
+          "es": "¿Acaso los votos que recibí eran de niños?",
+          "notes": [
+            {
+              "term": "children’s voices",
+              "title": "children’s voices",
+              "type": "Nota filológica",
+              "gloss": "votos de niños",
+              "body": "«Voices» mantiene su sentido electoral de votos. La comparación infantil desacredita su supuesta firmeza: Coriolano protesta porque el apoyo puede revocarse. Fuentes: Folger, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "lemma": "voice",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/voice"
+            }
+          ]
+        },
+        {
+          "line": "1707",
+          "speaker": "first_senator",
+          "en": "Tribunes, give way. He shall to th’ marketplace.",
+          "es": "Tribunos, dejen paso. Él irá a la plaza pública.",
+          "notes": [
+            {
+              "term": "He shall to th’ marketplace",
+              "title": "He shall to th’ marketplace",
+              "type": "Nota filológica",
+              "gloss": "él irá a la plaza pública",
+              "body": "El verbo de movimiento se sobreentiende después de «shall»; «marketplace» es el lugar público del procedimiento político. Fuentes: Folger, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "lemma": "shall",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/shall"
+            }
+          ]
+        },
+        {
+          "line": "1708",
+          "speaker": "brutus",
+          "en": "The people are incensed against him.",
+          "es": "El pueblo está indignado con él.",
+          "notes": [
+            {
+              "term": "incensed",
+              "title": "incensed",
+              "type": "Nota filológica",
+              "gloss": "indignado; enfurecido",
+              "body": "Participio adjetival que expresa una hostilidad ya encendida; el tribuno la presenta como razón para detenerlo. Fuentes: Folger, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "lemma": "incense",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/incense"
+            }
+          ]
+        },
+        {
+          "line": "1709–1710",
+          "speaker": "sicinius",
+          "en": "Stop,\nOr all will fall in broil.",
+          "es": "Deténganse,\no todo terminará en un tumulto.",
+          "notes": [
+            {
+              "term": "broil",
+              "title": "broil",
+              "type": "Nota filológica",
+              "gloss": "tumulto; enfrentamiento",
+              "body": "Aquí es sustantivo que significa riña o altercado, no el verbo moderno relativo a cocinar. Fuentes: Folger, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "lemma": "broil",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/broil"
+            }
+          ]
         }
       ]
     }
