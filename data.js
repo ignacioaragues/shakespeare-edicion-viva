@@ -11730,7 +11730,7 @@ window.SHAKESPEARE_READER_DATA = {
       "scene": 1,
       "place": "Roma · Una calle, camino del Capitolio",
       "sourceRef": "Folger Shakespeare Library · Acto III, escena 1",
-      "sectionLabel": "Edición en curso · líneas 1669–1749",
+      "sectionLabel": "Edición en curso · líneas 1669–1767",
       "introduction": "Tras la votación, Coriolano conversa con los generales sobre Aufidio. La irrupción de los tribunos alterará pronto la marcha hacia el consulado.",
       "stage": "Suenan cornetas. Entran Coriolano, Menenio, Cominio, Tito Larcio, patricios y senadores.",
       "characters": [
@@ -11761,6 +11761,13 @@ window.SHAKESPEARE_READER_DATA = {
           "english": "Menenius",
           "identity": "Patricio que acompaña al grupo.",
           "color": "olive"
+        },
+        {
+          "id": "first-senator",
+          "name": "Primer senador",
+          "english": "First Senator",
+          "identity": "Senador romano que intenta moderar la disputa.",
+          "color": "slate"
         }
       ],
       "blocks": [
@@ -12504,6 +12511,192 @@ window.SHAKESPEARE_READER_DATA = {
               "body": "Metáfora del ascenso político considerado merecido. Referencias: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
               "lemma": "plain",
               "lemmaUrl": "https://en.wiktionary.org/wiki/plain"
+            }
+          ]
+        },
+        {
+          "line": "1750–1751",
+          "speaker": "coriolanus",
+          "en": "Tell me of corn?\nThis was my speech, and I will speak ’t again.",
+          "es": "¿Ahora me hablan del grano?\nEso fue lo que dije, y volveré a decirlo.",
+          "notes": [
+            {
+              "term": "Tell me of corn?",
+              "title": "Tell me of corn?",
+              "type": "Nota filológica",
+              "gloss": "¿Me vienen con lo del grano?",
+              "body": "Pregunta de desafío, no solicitud de información: Coriolano se niega a retractarse de sus críticas al reparto de cereal. Fuentes: Folger Shakespeare Library, Coriolanus III.1 (texto y numeración), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, Coriolanus III.1 (cotejo), https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html."
+            },
+            {
+              "term": "speak ’t again",
+              "title": "speak ’t again",
+              "type": "Nota filológica",
+              "gloss": "volver a decirlo",
+              "body": "«’t» representa el pronombre «it», referido a su discurso anterior; el futuro «will» expresa aquí determinación. Fuentes: Folger Shakespeare Library, Coriolanus III.1 (texto y numeración), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, Coriolanus III.1 (cotejo), https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "lemma": "speak",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/speak"
+            }
+          ]
+        },
+        {
+          "line": "1752",
+          "speaker": "menenius",
+          "en": "Not now, not now.",
+          "es": "Ahora no, ahora no.",
+          "notes": []
+        },
+        {
+          "line": "1753",
+          "speaker": "first-senator",
+          "en": "Not in this heat, sir, now.",
+          "es": "No en medio de esta exaltación, señor; ahora no.",
+          "notes": [
+            {
+              "term": "in this heat",
+              "title": "in this heat",
+              "type": "Nota filológica",
+              "gloss": "en medio de esta exaltación",
+              "body": "«Heat» es figurado: el calor de la disputa, no una referencia meteorológica. Fuentes: Folger Shakespeare Library, Coriolanus III.1 (texto y numeración), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, Coriolanus III.1 (cotejo), https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "lemma": "heat",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/heat"
+            }
+          ]
+        },
+        {
+          "line": "1754–1765",
+          "speaker": "coriolanus",
+          "en": "Now, as I live, I will.\nMy nobler friends, I crave their pardons. For\nThe mutable, rank-scented meiny, let them\nRegard me, as I do not flatter, and\nTherein behold themselves. I say again,\nIn soothing them, we nourish ’gainst our senate\nThe cockle of rebellion, insolence, sedition,\nWhich we ourselves have plowed for, sowed, and\nscattered\nBy mingling them with us, the honored number,\nWho lack not virtue, no, nor power, but that\nWhich they have given to beggars.",
+          "es": "Ahora mismo, por mi vida, lo haré.\nA mis nobles amigos les pido disculpas. En cuanto a\nesa multitud voluble y maloliente, que me miren:\ncomo no los adulo, podrán reconocerse\nen lo que digo. Lo repito: al halagarlos, alimentamos\ncontra nuestro Senado la cizaña de la rebelión,\nla insolencia y la sedición, que nosotros mismos\nhemos preparado la tierra para cultivar, sembrado y esparcido\nal mezclarlos con nosotros, el estamento honorable,\nque no carece de virtud ni tampoco de poder,\nsalvo el que ha entregado a los mendigos.",
+          "notes": [
+            {
+              "term": "as I live",
+              "title": "as I live",
+              "type": "Nota filológica",
+              "gloss": "por mi vida",
+              "body": "Fórmula enfática de juramento; introduce la decisión de hablar pese a las interrupciones. Fuentes: Folger Shakespeare Library, Coriolanus III.1 (texto y numeración), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, Coriolanus III.1 (cotejo), https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html."
+            },
+            {
+              "term": "crave their pardons",
+              "title": "crave their pardons",
+              "type": "Nota filológica",
+              "gloss": "les pido disculpas",
+              "body": "El pronombre «their» remite a los amigos nobles a quienes se dirige, no a la multitud que insulta. Fuentes: Folger Shakespeare Library, Coriolanus III.1 (texto y numeración), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, Coriolanus III.1 (cotejo), https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "lemma": "crave",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/crave"
+            },
+            {
+              "term": "mutable",
+              "title": "mutable",
+              "type": "Nota filológica",
+              "gloss": "voluble; cambiante",
+              "body": "Calificativo peyorativo para la inconstancia política que Coriolano atribuye al pueblo. Fuentes: Folger Shakespeare Library, Coriolanus III.1 (texto y numeración), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, Coriolanus III.1 (cotejo), https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "lemma": "mutable",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/mutable"
+            },
+            {
+              "term": "rank-scented",
+              "title": "rank-scented",
+              "type": "Nota filológica",
+              "gloss": "maloliente",
+              "body": "Compuesto despectivo: «rank» intensifica la idea de olor fuerte y desagradable. Es una caracterización del personaje, no del editor. Fuentes: Folger Shakespeare Library, Coriolanus III.1 (texto y numeración), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, Coriolanus III.1 (cotejo), https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "lemma": "rank",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/rank"
+            },
+            {
+              "term": "meiny",
+              "title": "meiny",
+              "type": "Nota filológica",
+              "gloss": "séquito; conjunto de gente; multitud",
+              "body": "Folger lee «meiny», frente a «many» en MIT y otras transcripciones. Aquí designa despectivamente a la muchedumbre; la traducción evita confundir ambas lecturas. Véanse las dos ediciones citadas. Fuentes: Folger Shakespeare Library, Coriolanus III.1 (texto y numeración), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, Coriolanus III.1 (cotejo), https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "lemma": "meiny",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/meiny"
+            },
+            {
+              "term": "as I do not flatter",
+              "title": "as I do not flatter",
+              "type": "Nota filológica",
+              "gloss": "puesto que no los adulo",
+              "body": "«As» puede leerse causalmente: la franqueza agresiva permitiría al pueblo reconocerse en el retrato de Coriolano. Fuentes: Folger Shakespeare Library, Coriolanus III.1 (texto y numeración), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, Coriolanus III.1 (cotejo), https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "lemma": "flatter",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/flatter"
+            },
+            {
+              "term": "soothing them",
+              "title": "soothing them",
+              "type": "Nota filológica",
+              "gloss": "halagarlos; apaciguarlos",
+              "body": "«Soothe» no significa aquí simplemente consolar, sino ganar o calmar mediante concesiones; el matiz político procede del contexto. Fuentes: Folger Shakespeare Library, Coriolanus III.1 (texto y numeración), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, Coriolanus III.1 (cotejo), https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "lemma": "soothe",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/soothe"
+            },
+            {
+              "term": "cockle of rebellion",
+              "title": "cockle of rebellion",
+              "type": "Nota filológica",
+              "gloss": "cizaña de la rebelión",
+              "body": "«Cockle» es una mala hierba asociada a los sembrados: el discurso prolonga la imagen agrícola mediante «plowed», «sowed» y «scattered». Interpretación retórica basada en el texto, no identificación botánica taxativa. Fuentes: Folger Shakespeare Library, Coriolanus III.1 (texto y numeración), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, Coriolanus III.1 (cotejo), https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "lemma": "cockle",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/cockle"
+            },
+            {
+              "term": "plowed for, sowed, and scattered",
+              "title": "plowed for, sowed, and scattered",
+              "type": "Nota filológica",
+              "gloss": "preparado la tierra, sembrado y esparcido",
+              "body": "Secuencia verbal de cultivo. El sujeto «we ourselves» acusa a los patricios de haber creado las condiciones de la agitación; el lenguaje agrícola es especialmente irónico en una disputa por el grano. Fuentes: Folger Shakespeare Library, Coriolanus III.1 (texto y numeración), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, Coriolanus III.1 (cotejo), https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "lemma": "sow",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/sow"
+            },
+            {
+              "term": "mingling them with us",
+              "title": "mingling them with us",
+              "type": "Nota filológica",
+              "gloss": "mezclarlos con nosotros",
+              "body": "«Them» designa a los plebeyos y «us» al orden patricio; Coriolano considera esa mezcla una cesión ilegítima de rango y autoridad. Fuentes: Folger Shakespeare Library, Coriolanus III.1 (texto y numeración), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, Coriolanus III.1 (cotejo), https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "lemma": "mingle",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/mingle"
+            },
+            {
+              "term": "honored number",
+              "title": "honored number",
+              "type": "Nota filológica",
+              "gloss": "estamento honorable",
+              "body": "«Number» es aquí un grupo definido, no una cantidad concreta; el adjetivo expresa la autovaloración aristocrática del hablante. Fuentes: Folger Shakespeare Library, Coriolanus III.1 (texto y numeración), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, Coriolanus III.1 (cotejo), https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "lemma": "number",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/number"
+            },
+            {
+              "term": "given to beggars",
+              "title": "given to beggars",
+              "type": "Nota filológica",
+              "gloss": "entregado a los mendigos",
+              "body": "«Beggars» es un insulto clasista dirigido a los beneficiarios de la concesión de poder, no una descripción neutral de su situación económica. Fuentes: Folger Shakespeare Library, Coriolanus III.1 (texto y numeración), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, Coriolanus III.1 (cotejo), https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "lemma": "beggar",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/beggar"
+            }
+          ]
+        },
+        {
+          "line": "1766",
+          "speaker": "menenius",
+          "en": "Well, no more.",
+          "es": "Bien, basta ya.",
+          "notes": []
+        },
+        {
+          "line": "1767",
+          "speaker": "first-senator",
+          "en": "No more words, we beseech you.",
+          "es": "Ni una palabra más, se lo suplicamos.",
+          "notes": [
+            {
+              "term": "beseech",
+              "title": "beseech",
+              "type": "Nota filológica",
+              "gloss": "suplicar; rogar",
+              "body": "Verbo de súplica formal; el senador intenta contener a Coriolano antes de que agrave el conflicto. Fuentes: Folger Shakespeare Library, Coriolanus III.1 (texto y numeración), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, Coriolanus III.1 (cotejo), https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "lemma": "beseech",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/beseech"
             }
           ]
         }
