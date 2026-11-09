@@ -11730,7 +11730,7 @@ window.SHAKESPEARE_READER_DATA = {
       "scene": 1,
       "place": "Roma · Una calle, camino del Capitolio",
       "sourceRef": "Folger Shakespeare Library · Acto III, escena 1",
-      "sectionLabel": "Edición en curso · líneas 1669–1691",
+      "sectionLabel": "Edición en curso · líneas 1669–1749",
       "introduction": "Tras la votación, Coriolano conversa con los generales sobre Aufidio. La irrupción de los tribunos alterará pronto la marcha hacia el consulado.",
       "stage": "Suenan cornetas. Entran Coriolano, Menenio, Cominio, Tito Larcio, patricios y senadores.",
       "characters": [
@@ -12168,8 +12168,7 @@ window.SHAKESPEARE_READER_DATA = {
               "lemmaUrl": "https://en.wiktionary.org/wiki/broil"
             }
           ]
-        }
-        ,
+        },
         {
           "line": "1711–1717",
           "speaker": "coriolanus",
@@ -12375,6 +12374,136 @@ window.SHAKESPEARE_READER_DATA = {
               "type": "Nota filológica",
               "gloss": "no menos capaz de superar tu actuación",
               "body": "Réplica equívoca: Bruto devuelve el ataque a Cominio. «Each way» admite distintos matices; se mantiene la amplitud de «en cualquier caso». Fuentes: Folger, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html."
+            }
+          ]
+        },
+        {
+          "line": "1735–1737",
+          "speaker": "coriolanus",
+          "en": "Why then should I be consul? By yond clouds,\nLet me deserve so ill as you, and make me\nYour fellow tribune.",
+          "es": "¿Por qué habría entonces de ser cónsul? Por aquellas nubes,\n¡que llegue yo a merecer tan poco como ustedes, y háganme\ntribuno como ustedes!",
+          "notes": [
+            {
+              "term": "yond clouds",
+              "title": "yond clouds",
+              "type": "Nota filológica",
+              "gloss": "aquellas nubes",
+              "body": "Juramento exclamativo; «yond» es demostrativo de lejanía. Referencias: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "lemma": "yonder",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/yonder"
+            },
+            {
+              "term": "deserve so ill",
+              "title": "deserve so ill",
+              "type": "Nota filológica",
+              "gloss": "merecer tan poco",
+              "body": "Ironía despectiva: equipara ser tribuno con una falta de mérito. Referencias: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "lemma": "deserve",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/deserve"
+            },
+            {
+              "term": "fellow tribune",
+              "title": "fellow tribune",
+              "type": "Nota filológica",
+              "gloss": "colega tribuno",
+              "body": "Provocación retórica, no candidatura literal. Referencias: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "lemma": "tribune",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/tribune"
+            }
+          ]
+        },
+        {
+          "line": "1738–1744",
+          "speaker": "sicinius",
+          "en": "You show too much of that\nFor which the people stir. If you will pass\nTo where you are bound, you must inquire your\nway,\nWhich you are out of, with a gentler spirit,\nOr never be so noble as a consul,\nNor yoke with him for tribune.",
+          "es": "Muestras demasiado de aquello\nque ha provocado la agitación del pueblo. Si quieres llegar\nadonde te diriges, tendrás que buscar de nuevo\nel camino que has perdido, con un ánimo más moderado;\nde lo contrario, nunca alcanzarás la dignidad de cónsul\nni compartirás con él la autoridad como tribuno.",
+          "notes": [
+            {
+              "term": "stir",
+              "title": "stir",
+              "type": "Nota filológica",
+              "gloss": "agitación popular",
+              "body": "Sustantivo que designa el descontento y la movilización. Referencias: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "lemma": "stir",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/stir"
+            },
+            {
+              "term": "inquire your way",
+              "title": "inquire your way",
+              "type": "Nota filológica",
+              "gloss": "buscar el camino",
+              "body": "Metáfora del acceso al cargo y de la conducta necesaria para conseguirlo. Referencias: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "lemma": "inquire",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/inquire"
+            },
+            {
+              "term": "gentler spirit",
+              "title": "gentler spirit",
+              "type": "Nota filológica",
+              "gloss": "actitud más moderada",
+              "body": "«Spirit» designa aquí disposición o temperamento. Referencias: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "lemma": "gentle",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/gentle"
+            },
+            {
+              "term": "yoke with him",
+              "title": "yoke with him",
+              "type": "Nota filológica",
+              "gloss": "compartir autoridad con él",
+              "body": "El yugo evoca una pareja de animales unidos; «him» remite al cónsul. Referencias: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "lemma": "yoke",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/yoke"
+            }
+          ]
+        },
+        {
+          "line": "1745",
+          "speaker": "menenius",
+          "en": "Let’s be calm.",
+          "es": "Mantengamos la calma.",
+          "notes": []
+        },
+        {
+          "line": "1746–1749",
+          "speaker": "cominius",
+          "en": "The people are abused, set on. This palt’ring\nBecomes not Rome, nor has Coriolanus\nDeserved this so dishonored rub, laid falsely\nI’ th’ plain way of his merit.",
+          "es": "Al pueblo lo han engañado y azuzado. Estas artimañas\nno son dignas de Roma, ni Coriolano\nmerece semejante obstáculo deshonroso, colocado injustamente\nen el camino despejado de sus méritos.",
+          "notes": [
+            {
+              "term": "abused, set on",
+              "title": "abused, set on",
+              "type": "Nota filológica",
+              "gloss": "engañado e instigado",
+              "body": "Cominio acusa a terceros de manipular al pueblo; no es un hecho probado por el editor. Referencias: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "lemma": "abuse",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/abuse"
+            },
+            {
+              "term": "palt’ring",
+              "title": "palt’ring",
+              "type": "Nota filológica",
+              "gloss": "triquiñuelas",
+              "body": "Trato engañoso o maniobra insincera. Referencias: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "lemma": "palter",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/palter"
+            },
+            {
+              "term": "rub",
+              "title": "rub",
+              "type": "Nota filológica",
+              "gloss": "obstáculo",
+              "body": "Impedimento figurado en el camino de los méritos. Referencias: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "lemma": "rub",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/rub"
+            },
+            {
+              "term": "plain way",
+              "title": "plain way",
+              "type": "Nota filológica",
+              "gloss": "camino despejado",
+              "body": "Metáfora del ascenso político considerado merecido. Referencias: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "lemma": "plain",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/plain"
             }
           ]
         }
