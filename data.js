@@ -12169,6 +12169,215 @@ window.SHAKESPEARE_READER_DATA = {
             }
           ]
         }
+        ,
+        {
+          "line": "1711–1717",
+          "speaker": "coriolanus",
+          "en": "Are these your herd?\nMust these have voices, that can yield them now\nAnd straight disclaim their tongues? What are your\noffices?\nYou being their mouths, why rule you not their\nteeth?\nHave you not set them on?",
+          "es": "¿Son estos su rebaño?\n¿Han de tener voto quienes ahora lo conceden\ny enseguida reniegan de su propia palabra? ¿Cuál es\nla función de ustedes?\nSi son sus bocas, ¿por qué no gobiernan sus\ndientes?\n¿No los han incitado ustedes mismos?",
+          "notes": [
+            {
+              "term": "herd",
+              "title": "herd",
+              "type": "Nota filológica",
+              "gloss": "rebaño",
+              "body": "Metáfora despectiva que animaliza a los ciudadanos. Fuentes: Folger, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "lemma": "herd",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/herd"
+            },
+            {
+              "term": "voices",
+              "title": "voices",
+              "type": "Nota filológica",
+              "gloss": "votos; voces",
+              "body": "La doble acepción electoral y corporal prepara la imagen de bocas y dientes. Fuentes: Folger, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "lemma": "voice",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/voice"
+            },
+            {
+              "term": "straight disclaim their tongues",
+              "title": "straight disclaim their tongues",
+              "type": "Nota filológica",
+              "gloss": "enseguida reniegan de su palabra",
+              "body": "«Straight» significa inmediatamente; «disclaim» equivale a repudiar lo antes afirmado. Fuentes: Folger, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "lemma": "disclaim",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/disclaim"
+            },
+            {
+              "term": "mouths",
+              "title": "mouths",
+              "type": "Nota filológica",
+              "gloss": "bocas; portavoces",
+              "body": "Los tribunos representan la voz popular, pero Coriolano les exige controlar también sus dientes, figuración de su agresividad. Fuentes: Folger, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "lemma": "mouth",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/mouth"
+            },
+            {
+              "term": "set them on",
+              "title": "set them on",
+              "type": "Nota filológica",
+              "gloss": "los han instigado",
+              "body": "La pregunta atribuye a los tribunos una incitación que el personaje no demuestra. Fuentes: Folger, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "lemma": "set",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/set"
+            }
+          ]
+        },
+        {
+          "line": "1718",
+          "speaker": "menenius",
+          "en": "Be calm, be calm.",
+          "es": "Cálmate, cálmate.",
+          "notes": []
+        },
+        {
+          "line": "1719–1722",
+          "speaker": "coriolanus",
+          "en": "It is a purposed thing, and grows by plot,\nTo curb the will of the nobility.\nSuffer ’t, and live with such as cannot rule\nNor ever will be ruled.",
+          "es": "Esto se ha preparado deliberadamente y crece por una conspiración\npara poner freno a la voluntad de los nobles.\nToleren esto y tendrán que vivir con quienes no saben gobernar\nni aceptarán jamás ser gobernados.",
+          "notes": [
+            {
+              "term": "purposed thing",
+              "title": "purposed thing",
+              "type": "Nota filológica",
+              "gloss": "acción deliberada",
+              "body": "«Purposed» indica la supuesta intencionalidad de la agitación; es una acusación de Coriolano. Fuentes: Folger, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "lemma": "purpose",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/purpose"
+            },
+            {
+              "term": "curb",
+              "title": "curb",
+              "type": "Nota filológica",
+              "gloss": "frenar; contener",
+              "body": "Metáfora de sujeción, relacionada con el freno de una cabalgadura. Fuentes: Folger, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "lemma": "curb",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/curb"
+            },
+            {
+              "term": "Suffer ’t",
+              "title": "Suffer ’t",
+              "type": "Nota filológica",
+              "gloss": "toleren eso",
+              "body": "Imperativo de «suffer» en el sentido histórico de permitir o consentir. Fuentes: Folger, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "lemma": "suffer",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/suffer"
+            }
+          ]
+        },
+        {
+          "line": "1723–1727",
+          "speaker": "brutus",
+          "en": "Call ’t not a plot.\nThe people cry you mocked them; and, of late,\nWhen corn was given them gratis, you repined,\nScandaled the suppliants for the people, called them\nTimepleasers, flatterers, foes to nobleness.",
+          "es": "No lo llames conspiración.\nEl pueblo protesta porque te burlaste de él; y, hace poco,\ncuando se le distribuyó grano gratuitamente, te quejaste,\ndifamaste a quienes intercedían por el pueblo y los llamaste\noportunistas, aduladores y enemigos de la nobleza.",
+          "notes": [
+            {
+              "term": "repined",
+              "title": "repined",
+              "type": "Nota filológica",
+              "gloss": "te quejaste",
+              "body": "Pretérito de «repine», verbo que expresa descontento o protesta. Fuentes: Folger, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "lemma": "repine",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/repine"
+            },
+            {
+              "term": "suppliants for the people",
+              "title": "suppliants for the people",
+              "type": "Nota filológica",
+              "gloss": "quienes intercedían por el pueblo",
+              "body": "«For» señala representación o defensa de los intereses populares. Fuentes: Folger, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "lemma": "suppliant",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/suppliant"
+            },
+            {
+              "term": "Timepleasers",
+              "title": "Timepleasers",
+              "type": "Nota filológica",
+              "gloss": "oportunistas",
+              "body": "Compuesto despectivo para quienes acomodan sus opiniones al momento; «oportunistas» recoge el reproche contextual. Fuentes: Folger, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html."
+            }
+          ]
+        },
+        {
+          "line": "1728",
+          "speaker": "coriolanus",
+          "en": "Why, this was known before.",
+          "es": "Pero eso ya se sabía.",
+          "notes": []
+        },
+        {
+          "line": "1729",
+          "speaker": "brutus",
+          "en": "Not to them all.",
+          "es": "No todos lo sabían.",
+          "notes": []
+        },
+        {
+          "line": "1730",
+          "speaker": "coriolanus",
+          "en": "Have you informed them sithence?",
+          "es": "¿Y tú se lo has contado desde entonces?",
+          "notes": [
+            {
+              "term": "sithence",
+              "title": "sithence",
+              "type": "Nota filológica",
+              "gloss": "desde entonces",
+              "body": "Adverbio temporal arcaico equivalente a «since then». Fuentes: Folger, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "lemma": "sithence",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/sithence"
+            }
+          ]
+        },
+        {
+          "line": "1731–1732",
+          "speaker": "brutus",
+          "en": "How? I inform\nthem?",
+          "es": "¿Cómo? ¿Que yo se lo haya contado\na ellos?",
+          "notes": [
+            {
+              "term": "How? I inform",
+              "title": "How? I inform",
+              "type": "Nota filológica",
+              "gloss": "¿Cómo? ¿Que yo... ?",
+              "body": "Pregunta elíptica de incredulidad ante la insinuación de haber difundido esas palabras. Fuentes: Folger, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "lemma": "inform",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/inform"
+            }
+          ]
+        },
+        {
+          "line": "1733",
+          "speaker": "cominius",
+          "en": "You are like to do such business.",
+          "es": "Serías muy capaz de hacer algo así.",
+          "notes": [
+            {
+              "term": "like to",
+              "title": "like to",
+              "type": "Nota filológica",
+              "gloss": "capaz de; propenso a",
+              "body": "«Like» expresa probabilidad o inclinación, no agrado. Fuentes: Folger, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "lemma": "like",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/like"
+            }
+          ]
+        },
+        {
+          "line": "1734",
+          "speaker": "brutus",
+          "en": "Not unlike, each way, to better yours.",
+          "es": "No menos capaz, en cualquier caso, de hacerlo mejor que tú.",
+          "notes": [
+            {
+              "term": "Not unlike, each way, to better yours",
+              "title": "Not unlike, each way, to better yours",
+              "type": "Nota filológica",
+              "gloss": "no menos capaz de superar tu actuación",
+              "body": "Réplica equívoca: Bruto devuelve el ataque a Cominio. «Each way» admite distintos matices; se mantiene la amplitud de «en cualquier caso». Fuentes: Folger, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html."
+            }
+          ]
+        }
       ]
     }
   ]

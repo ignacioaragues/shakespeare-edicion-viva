@@ -832,13 +832,22 @@
       "last_line": 1710,
       "editorial_state": "translated_source_checked_external_references",
       "note": "Eleven complete speech blocks; Folger III.1 and MIT compared; contextual Spanish glosses, notes and external references; private editions not consulted."
+    },
+    {
+      "id": "coriolanus-3-1-1711-1734",
+      "act": 3,
+      "scene": 1,
+      "first_line": 1711,
+      "last_line": 1734,
+      "editorial_state": "translated_source_checked_external_references",
+      "note": "Ten complete speeches; Folger III.1 compared with MIT; contextual Spanish glosses and cited notes; private references not consulted."
     }
   ],
   "next_fragment": {
     "act": 3,
     "scene": 1,
-    "first_line": 1711,
-    "note": "Continue Coriolanus' accusation against the tribunes; verify Folger III.1."
+    "first_line": 1735,
+    "note": "Continue Coriolanus' reply; verify Folger III.1."
   },
   "completed_acts": [],
   "last_update_commit": null,
