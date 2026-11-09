@@ -922,15 +922,24 @@
       "last_line": 1910,
       "editorial_state": "translated_source_checked_external_references",
       "note": "Fourteen complete speech blocks in the arrest confrontation and public tumult; Folger III.1, Shakespeare's Words (Crystal & Crystal), and MIT III.1 consulted. Stage directions at Folger 1896 and 1901 are not speech lines; private reference editions not consulted."
+    },
+    {
+      "id": "coriolanus-3-1-1911-1923",
+      "act": 3,
+      "scene": 1,
+      "first_line": 1911,
+      "last_line": 1923,
+      "editorial_state": "translated_source_checked_external_references",
+      "note": "Eight complete speeches on popular liberties and the political meaning of the city; Folger and MIT compared. Original Spanish translation; private reference files not consulted."
     }
   ],
   "next_fragment": {
     "act": 3,
     "scene": 1,
-    "first_line": 1911,
-    "note": "Sicinius warns citizens of the threatened loss of their liberties."
+    "first_line": 1924,
+    "note": "Coriolanus replies with the image of the city collapsing into ruin."
   },
   "completed_acts": [],
-  "last_update_commit": null,
+  "last_update_commit": "0373716e22eb6d68117cea7c331323e3e4b22609",
   "notes": "Folger online line 66 is 'We cannot, sir; we are undone already.' The original prototype had an off-by-one numbering error, corrected in this release. Text is still under editorial review."
 }

@@ -13690,6 +13690,140 @@ window.SHAKESPEARE_READER_DATA = {
           "en": "Let’s hear our tribune. Peace! Speak, speak, speak.",
           "es": "Escuchemos a nuestro tribuno. ¡Silencio! ¡Habla, habla, habla!",
           "notes": []
+        },
+        {
+          "line": "1911–1913",
+          "speaker": "sicinius",
+          "en": "You are at point to lose your liberties.\nMartius would have all from you, Martius,\nWhom late you have named for consul.",
+          "es": "Están a punto de perder sus libertades.\nMarcio quiere arrebatárselas todas, ese Marcio\na quien hace poco propusieron para cónsul.",
+          "notes": [
+            {
+              "term": "at point",
+              "title": "at point",
+              "type": "Nota filológica",
+              "gloss": "a punto de",
+              "body": "Construcción temporal: «estar a punto de». El peligro se presenta como inmediato. Fuentes: Folger Shakespeare Library, Coriolanus III.1, líneas 1911–1923, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, Coriolanus III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "lemma": "point",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/point"
+            },
+            {
+              "term": "liberties",
+              "title": "liberties",
+              "type": "Nota filológica",
+              "gloss": "libertades; derechos políticos",
+              "body": "Plural que en este contexto alude a prerrogativas políticas colectivas, en particular la representación por tribunos. Es una interpretación contextual, no una equivalencia universal. Fuentes: Folger Shakespeare Library, Coriolanus III.1, líneas 1911–1923, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, Coriolanus III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "lemma": "liberty",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/liberty"
+            }
+          ]
+        },
+        {
+          "line": "1914–1915",
+          "speaker": "menenius",
+          "en": "Fie, fie, fie!\nThis is the way to kindle, not to quench.",
+          "es": "¡Qué vergüenza, qué vergüenza!\nAsí se aviva el fuego, no se apaga.",
+          "notes": [
+            {
+              "term": "kindle",
+              "title": "kindle",
+              "type": "Nota filológica",
+              "gloss": "encender; avivar",
+              "body": "Antítesis con «quench» («apagar»): Menenio acusa a Sicinio de intensificar el conflicto. La imagen del fuego es metafórica. Fuentes: Folger Shakespeare Library, Coriolanus III.1, líneas 1911–1923, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, Coriolanus III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "lemma": "kindle",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/kindle"
+            },
+            {
+              "term": "Fie",
+              "title": "Fie",
+              "type": "Nota filológica",
+              "gloss": "¡qué vergüenza!",
+              "body": "Interjección de desaprobación, repetida tres veces; no indica aquí asco físico. Fuentes: Folger Shakespeare Library, Coriolanus III.1, líneas 1911–1923, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, Coriolanus III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "lemma": "fie",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/fie"
+            }
+          ]
+        },
+        {
+          "line": "1916",
+          "speaker": "first-senator",
+          "en": "To unbuild the city and to lay all flat.",
+          "es": "Así se deshace la ciudad y se la arrasa por completo.",
+          "notes": [
+            {
+              "term": "unbuild",
+              "title": "unbuild",
+              "type": "Nota filológica",
+              "gloss": "deshacer lo construido; destruir",
+              "body": "Verbo formado con el prefijo reversivo «un-»; la destrucción de la ciudad continúa la advertencia de Menenio. Fuentes: Folger Shakespeare Library, Coriolanus III.1, líneas 1911–1923, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, Coriolanus III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "lemma": "unbuild",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/unbuild"
+            }
+          ]
+        },
+        {
+          "line": "1917",
+          "speaker": "sicinius",
+          "en": "What is the city but the people?",
+          "es": "¿Qué es la ciudad sino el pueblo?",
+          "notes": [
+            {
+              "term": "the city",
+              "title": "the city",
+              "type": "Nota filológica",
+              "gloss": "la ciudad como comunidad política",
+              "body": "La pregunta identifica la ciudad con su población, frente a una concepción que privilegia sus instituciones o a sus dirigentes. Lectura retórica del pasaje. Fuentes: Folger Shakespeare Library, Coriolanus III.1, líneas 1911–1923, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, Coriolanus III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "lemma": "city",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/city"
+            }
+          ]
+        },
+        {
+          "line": "1918–1919",
+          "speaker": "plebeians",
+          "en": "True,\nThe people are the city.",
+          "es": "Es verdad.\nEl pueblo es la ciudad.",
+          "notes": []
+        },
+        {
+          "line": "1920–1921",
+          "speaker": "brutus",
+          "en": "By the consent of all, we were established\nThe people’s magistrates.",
+          "es": "Con el consentimiento de todos fuimos instituidos\ncomo magistrados del pueblo.",
+          "notes": [
+            {
+              "term": "established",
+              "title": "established",
+              "type": "Nota filológica",
+              "gloss": "instituidos; nombrados",
+              "body": "Pasiva que presenta el tribunado como una magistratura legitimada por consentimiento colectivo. No equivale a una descripción histórica exacta del procedimiento romano. Fuentes: Folger Shakespeare Library, Coriolanus III.1, líneas 1911–1923, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, Coriolanus III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "lemma": "establish",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/establish"
+            }
+          ]
+        },
+        {
+          "line": "1922",
+          "speaker": "plebeians",
+          "en": "You so remain.",
+          "es": "Y así seguirán.",
+          "notes": []
+        },
+        {
+          "line": "1923",
+          "speaker": "menenius",
+          "en": "And so are like to do.",
+          "es": "Y probablemente así seguirá siendo.",
+          "notes": [
+            {
+              "term": "are like to",
+              "title": "are like to",
+              "type": "Nota filológica",
+              "gloss": "es probable que",
+              "body": "«Like» tiene aquí valor de probabilidad, no de semejanza ni de gusto. Menenio intenta contener la confrontación sin negar la legitimidad de los tribunos. Fuentes: Folger Shakespeare Library, Coriolanus III.1, líneas 1911–1923, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, Coriolanus III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "lemma": "like",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/like"
+            }
+          ]
         }
       ]
     }
