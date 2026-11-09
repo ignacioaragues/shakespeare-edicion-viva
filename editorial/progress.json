@@ -841,13 +841,22 @@
       "last_line": 1734,
       "editorial_state": "translated_source_checked_external_references",
       "note": "Ten complete speeches; Folger III.1 compared with MIT; contextual Spanish glosses and cited notes; private references not consulted."
+    },
+    {
+      "id": "coriolanus-3-1-1735-1749",
+      "act": 3,
+      "scene": 1,
+      "first_line": 1735,
+      "last_line": 1749,
+      "editorial_state": "translated_source_checked_external_references",
+      "note": "Four complete speeches, Folger and MIT compared, contextual Spanish glosses and sourced notes; private editions not consulted."
     }
   ],
   "next_fragment": {
     "act": 3,
     "scene": 1,
-    "first_line": 1735,
-    "note": "Continue Coriolanus' reply; verify Folger III.1."
+    "first_line": 1750,
+    "note": "Continue with Coriolanus' renewed corn argument."
   },
   "completed_acts": [],
   "last_update_commit": null,
