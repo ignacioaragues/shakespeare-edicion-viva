@@ -850,13 +850,22 @@
       "last_line": 1749,
       "editorial_state": "translated_source_checked_external_references",
       "note": "Four complete speeches, Folger and MIT compared, contextual Spanish glosses and sourced notes; private editions not consulted."
+    },
+    {
+      "id": "coriolanus-3-1-1750-1767",
+      "act": 3,
+      "scene": 1,
+      "first_line": 1750,
+      "last_line": 1767,
+      "editorial_state": "translated_source_checked_external_references",
+      "note": "Six complete speeches; Folger and MIT compared (meiny/many); contextual glosses and agricultural metaphor notes. Private reference editions not consulted."
     }
   ],
   "next_fragment": {
     "act": 3,
     "scene": 1,
-    "first_line": 1750,
-    "note": "Continue with Coriolanus' renewed corn argument."
+    "first_line": 1768,
+    "note": "Continue with Coriolanus' response to calls for silence."
   },
   "completed_acts": [],
   "last_update_commit": null,
