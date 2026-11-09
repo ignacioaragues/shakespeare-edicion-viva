@@ -20,7 +20,8 @@ window.SHAKESPEARE_READER_DATA = {
         "coriolanus-1-10",
         "coriolanus-2-1",
         "coriolanus-2-2",
-        "coriolanus-2-3"
+        "coriolanus-2-3",
+        "coriolanus-3-1"
       ]
     }
   ],
@@ -11719,6 +11720,283 @@ window.SHAKESPEARE_READER_DATA = {
               "lemmaUrl": "https://en.wiktionary.org/wiki/goad"
             }
           ]
+        }
+      ]
+    },
+    {
+      "id": "coriolanus-3-1",
+      "workId": "coriolanus",
+      "act": 3,
+      "scene": 1,
+      "place": "Roma · Una calle, camino del Capitolio",
+      "sourceRef": "Folger Shakespeare Library · Acto III, escena 1",
+      "sectionLabel": "Edición en curso · líneas 1669–1691",
+      "introduction": "Tras la votación, Coriolano conversa con los generales sobre Aufidio. La irrupción de los tribunos alterará pronto la marcha hacia el consulado.",
+      "stage": "Suenan cornetas. Entran Coriolano, Menenio, Cominio, Tito Larcio, patricios y senadores.",
+      "characters": [
+        {
+          "id": "coriolanus",
+          "name": "Coriolano",
+          "english": "Coriolanus",
+          "identity": "General romano, candidato al consulado, que sigue obsesionado con su rival Aufidio.",
+          "color": "copper"
+        },
+        {
+          "id": "lartius",
+          "name": "Tito Larcio",
+          "english": "Titus Lartius",
+          "identity": "Comandante romano que informa sobre la rendición de Corioles y el encuentro con Aufidio.",
+          "color": "olive"
+        },
+        {
+          "id": "cominius",
+          "name": "Cominio",
+          "english": "Cominius",
+          "identity": "General romano que juzga debilitados a los volscos.",
+          "color": "slate"
+        },
+        {
+          "id": "menenius",
+          "name": "Menenio Agripa",
+          "english": "Menenius",
+          "identity": "Patricio que acompaña al grupo.",
+          "color": "olive"
+        }
+      ],
+      "blocks": [
+        {
+          "line": "1669",
+          "speaker": "coriolanus",
+          "en": "Tullus Aufidius then had made new head?",
+          "es": "¿Así que Tulo Aufidio había reunido nuevas fuerzas?",
+          "notes": [
+            {
+              "term": "made new head",
+              "title": "made new head",
+              "type": "Nota filológica",
+              "gloss": "reunido nuevas fuerzas",
+              "body": "«Head» designa aquí una fuerza organizada capaz de reanudar la resistencia, no la cabeza corporal. Referencias: Folger, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "lemma": "head",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/head"
+            }
+          ]
+        },
+        {
+          "line": "1670–1671",
+          "speaker": "lartius",
+          "en": "He had, my lord, and that it was which caused\nOur swifter composition.",
+          "es": "Así es, señor, y precisamente eso nos llevó\na alcanzar un acuerdo más rápidamente.",
+          "notes": [
+            {
+              "term": "composition",
+              "title": "composition",
+              "type": "Nota filológica",
+              "gloss": "acuerdo; arreglo negociado",
+              "body": "No se trata de una composición escrita: el sustantivo significa arreglo o pacto entre partes enfrentadas. Referencias: Folger, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "lemma": "composition",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/composition"
+            },
+            {
+              "term": "swifter",
+              "title": "swifter",
+              "type": "Nota filológica",
+              "gloss": "más rápido",
+              "body": "El comparativo vincula la amenaza de nuevas fuerzas con la urgencia del acuerdo. Referencias: Folger, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "lemma": "swift",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/swift"
+            }
+          ]
+        },
+        {
+          "line": "1672–1674",
+          "speaker": "coriolanus",
+          "en": "So then the Volsces stand but as at first,\nReady, when time shall prompt them, to make road\nUpon ’s again.",
+          "es": "Entonces los volscos están como al principio,\npreparados para volver a atacarnos\nen cuanto se presente la ocasión.",
+          "notes": [
+            {
+              "term": "make road",
+              "title": "make road",
+              "type": "Nota filológica",
+              "gloss": "hacer una incursión; atacar",
+              "body": "«Road» tiene aquí el sentido histórico de incursión militar, no el de camino construido. Referencias: Folger, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "lemma": "road",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/road"
+            },
+            {
+              "term": "Upon ’s",
+              "title": "Upon ’s",
+              "type": "Nota filológica",
+              "gloss": "contra nosotros",
+              "body": "«’s» contrae «us»; la expresión completa indica el objetivo de una nueva ofensiva. Referencias: Folger, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "lemma": "us",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/us"
+            }
+          ]
+        },
+        {
+          "line": "1675–1677",
+          "speaker": "cominius",
+          "en": "They are worn, lord consul, so,\nThat we shall hardly in our ages see\nTheir banners wave again.",
+          "es": "Están tan agotados, señor cónsul,\nque difícilmente veremos ondear otra vez\nsus estandartes mientras vivamos.",
+          "notes": [
+            {
+              "term": "worn",
+              "title": "worn",
+              "type": "Nota filológica",
+              "gloss": "agotados; debilitados",
+              "body": "Participio de «wear» con valor de desgaste militar; Cominio contradice la alarma de Coriolano. Referencias: Folger, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "lemma": "wear",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/wear"
+            },
+            {
+              "term": "in our ages",
+              "title": "in our ages",
+              "type": "Nota filológica",
+              "gloss": "durante nuestras vidas",
+              "body": "«Ages» alude aquí a la duración de la vida de los presentes, no a una época histórica impersonal. Referencias: Folger, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "lemma": "age",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/age"
+            }
+          ]
+        },
+        {
+          "line": "1678",
+          "speaker": "coriolanus",
+          "en": "Saw you Aufidius?",
+          "es": "¿Viste a Aufidio?",
+          "notes": [
+            {
+              "term": "Saw you",
+              "title": "Saw you",
+              "type": "Nota filológica",
+              "gloss": "¿viste tú?",
+              "body": "Interrogativa sin auxiliar «did», construcción corriente en inglés moderno temprano; singular dirigido a Larcio. Referencias: Folger, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "lemma": "see",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/see"
+            }
+          ]
+        },
+        {
+          "line": "1679–1681",
+          "speaker": "lartius",
+          "en": "On safeguard he came to me, and did curse\nAgainst the Volsces, for they had so vilely\nYielded the town. He is retired to Antium.",
+          "es": "Vino a verme bajo salvoconducto y maldijo\na los volscos por haber entregado la ciudad\nde manera tan vergonzosa. Se ha retirado a Ancio.",
+          "notes": [
+            {
+              "term": "On safeguard",
+              "title": "On safeguard",
+              "type": "Nota filológica",
+              "gloss": "bajo salvoconducto",
+              "body": "Expresión de protección o garantía para acudir al encuentro; no implica que Aufidio fuera prisionero. Referencias: Folger, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "lemma": "safeguard",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/safeguard"
+            },
+            {
+              "term": "vilely",
+              "title": "vilely",
+              "type": "Nota filológica",
+              "gloss": "vergonzosamente",
+              "body": "Califica la rendición desde el punto de vista airado de Aufidio, no como juicio imparcial del narrador. Referencias: Folger, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "lemma": "vilely",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/vilely"
+            },
+            {
+              "term": "Antium",
+              "title": "Antium",
+              "type": "Nota filológica",
+              "gloss": "Ancio",
+              "body": "Ciudad volsca a la que se retira Aufidio; la identificación geográfica procede del propio diálogo y de la tradición dramática. Referencias: Folger, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html."
+            }
+          ]
+        },
+        {
+          "line": "1682",
+          "speaker": "coriolanus",
+          "en": "Spoke he of me?",
+          "es": "¿Habló de mí?",
+          "notes": [
+            {
+              "term": "Spoke he",
+              "title": "Spoke he",
+              "type": "Nota filológica",
+              "gloss": "¿habló él?",
+              "body": "Inversión interrogativa sin «did»; el interés de Coriolano se concentra en la opinión de su adversario. Referencias: Folger, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "lemma": "speak",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/speak"
+            }
+          ]
+        },
+        {
+          "line": "1683",
+          "speaker": "lartius",
+          "en": "He did, my lord.",
+          "es": "Sí, señor.",
+          "notes": []
+        },
+        {
+          "line": "1684",
+          "speaker": "coriolanus",
+          "en": "How? What?",
+          "es": "¿Cómo? ¿Qué dijo?",
+          "notes": []
+        },
+        {
+          "line": "1685–1689",
+          "speaker": "lartius",
+          "en": "How often he had met you sword to sword;\nThat of all things upon the earth he hated\nYour person most; that he would pawn his fortunes\nTo hopeless restitution, so he might\nBe called your vanquisher.",
+          "es": "Habló de cuántas veces se había enfrentado contigo,\nespada contra espada; dijo que, de todo cuanto existe,\na quien más odiaba era a ti, y que arriesgaría\nsu fortuna sin esperanza de recuperarla\ncon tal de que pudieran llamarlo tu vencedor.",
+          "notes": [
+            {
+              "term": "sword to sword",
+              "title": "sword to sword",
+              "type": "Nota filológica",
+              "gloss": "espada contra espada",
+              "body": "La repetición de «sword» acentúa la rivalidad personal entre ambos guerreros. Referencias: Folger, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "lemma": "sword",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/sword"
+            },
+            {
+              "term": "pawn his fortunes",
+              "title": "pawn his fortunes",
+              "type": "Nota filológica",
+              "gloss": "empeñar; arriesgar toda su fortuna",
+              "body": "«Pawn» pertenece al campo de las garantías y prendas: Aufidio sacrificaría su patrimonio por la victoria. Referencias: Folger, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "lemma": "pawn",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/pawn"
+            },
+            {
+              "term": "hopeless restitution",
+              "title": "hopeless restitution",
+              "type": "Nota filológica",
+              "gloss": "sin esperanza de recuperar lo perdido",
+              "body": "«Restitution» es recuperación o restitución de bienes; la fórmula extrema el precio que pagaría por vencer. Referencias: Folger, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "lemma": "restitution",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/restitution"
+            },
+            {
+              "term": "vanquisher",
+              "title": "vanquisher",
+              "type": "Nota filológica",
+              "gloss": "vencedor",
+              "body": "Forma nominal que concentra el deseo de ser reconocido públicamente como quien derrotó a Coriolano. Referencias: Folger, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "lemma": "vanquisher",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/vanquisher"
+            }
+          ]
+        },
+        {
+          "line": "1690",
+          "speaker": "coriolanus",
+          "en": "At Antium lives he?",
+          "es": "¿Vive en Ancio?",
+          "notes": []
+        },
+        {
+          "line": "1691",
+          "speaker": "lartius",
+          "en": "At Antium.",
+          "es": "En Ancio.",
+          "notes": []
         }
       ]
     }
