@@ -949,13 +949,22 @@
       "last_line": 1958,
       "editorial_state": "translated_source_checked_external_references",
       "note": "Seven complete speeches; Brutus' medical metaphor, Coriolanus' armed defiance and Menenius' intervention. Folger III.1 and MIT compared; LitCharts scene commentary consulted. Folger stage directions (drawn sword, crowd driven back, address to Coriolanus) are not separately encoded as speech blocks; pending a stage-direction rendering review. Private reference files not consulted."
+    },
+    {
+      "id": "coriolanus-3-1-1959-1975",
+      "act": 3,
+      "scene": 1,
+      "first_line": 1959,
+      "last_line": 1975,
+      "editorial_state": "translated_source_checked_external_references",
+      "note": "Eight complete speeches, Folger III.1 checked against MIT and historical commentary. Attribution of 1960–61 follows Folger (MIT: Cominius); surgical tent and ambiguous owe annotated. Private reference files not consulted."
     }
   ],
   "next_fragment": {
     "act": 3,
     "scene": 1,
-    "first_line": 1959,
-    "note": "Continue after Menenius urges Coriolanus home; check next Folger speaker and coherent speech boundary."
+    "first_line": 1976,
+    "note": "Continue after Menenius' advice, beginning Coriolanus' boast about fighting forty opponents."
   },
   "completed_acts": [],
   "last_update_commit": "9f0e49634187abcdc839964fdbfebf3fdd362cff",

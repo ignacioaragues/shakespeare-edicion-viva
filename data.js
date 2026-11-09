@@ -11730,7 +11730,7 @@ window.SHAKESPEARE_READER_DATA = {
       "scene": 1,
       "place": "Roma · Una calle, camino del Capitolio",
       "sourceRef": "Folger Shakespeare Library · Acto III, escena 1",
-      "sectionLabel": "Edición en curso · líneas 1669–1958",
+      "sectionLabel": "Edición en curso · líneas 1669–1975",
       "introduction": "Tras la votación, Coriolano conversa con los generales sobre Aufidio. La irrupción de los tribunos alterará pronto la marcha hacia el consulado.",
       "stage": "Suenan cornetas. Entran Coriolano, Menenio, Cominio, Tito Larcio, patricios y senadores.",
       "characters": [
@@ -14128,6 +14128,148 @@ window.SHAKESPEARE_READER_DATA = {
               "body": "«Naught» conserva el valor de «nada bueno», «ruina»; Menenio teme que la pelea destruya toda posibilidad de acuerdo. Referencias: Folger, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, Coriolanus III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
               "lemma": "naught",
               "lemmaUrl": "https://en.wiktionary.org/wiki/naught"
+            }
+          ]
+        },
+        {
+          "line": "1959",
+          "speaker": "second-senator",
+          "en": "Get you gone.",
+          "es": "Vete de una vez.",
+          "notes": []
+        },
+        {
+          "line": "1960–1961",
+          "speaker": "coriolanus",
+          "en": "Stand fast!\nWe have as many friends as enemies.",
+          "es": "¡Manténganse firmes!\nTenemos tantos amigos como enemigos.",
+          "notes": [
+            {
+              "term": "Stand fast",
+              "title": "Stand fast",
+              "type": "Nota filológica",
+              "gloss": "manténganse firmes; no retrocedan",
+              "body": "Exhortación militar a resistir. Folger atribuye el parlamento a Coriolano; la edición del MIT lo atribuye a Cominio. Se conserva la atribución de la edición base. Referencias: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "lemma": "stand",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/stand"
+            }
+          ]
+        },
+        {
+          "line": "1962",
+          "speaker": "menenius",
+          "en": "Shall it be put to that?",
+          "es": "¿Vamos a llegar a ese extremo?",
+          "notes": [
+            {
+              "term": "put to that",
+              "title": "put to that",
+              "type": "Nota filológica",
+              "gloss": "llevar la situación hasta ese extremo",
+              "body": "La pregunta de Menenio se refiere a resolver el conflicto mediante la fuerza, frente a la propuesta de resistencia armada. Referencia: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/"
+            }
+          ]
+        },
+        {
+          "line": "1963–1965",
+          "speaker": "first-senator",
+          "en": "The gods forbid!—\nI prithee, noble friend, home to thy house;\nLeave us to cure this cause.",
+          "es": "¡Que los dioses no lo permitan!\nTe lo ruego, noble amigo: vuelve a tu casa.\nDéjanos remediar este conflicto.",
+          "notes": [
+            {
+              "term": "I prithee",
+              "title": "I prithee",
+              "type": "Nota filológica",
+              "gloss": "te lo ruego; por favor",
+              "body": "Fórmula de súplica, contracción histórica de «I pray thee»; «thy» en el mismo parlamento mantiene el tratamiento singular. Referencia: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/",
+              "lemma": "prithee",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/prithee"
+            },
+            {
+              "term": "cure this cause",
+              "title": "cure this cause",
+              "type": "Nota filológica",
+              "gloss": "remediar este conflicto",
+              "body": "El senador introduce el léxico de la curación, que Menenio prolonga con «sore» y «tent». Referencia: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/"
+            }
+          ]
+        },
+        {
+          "line": "1966–1967",
+          "speaker": "menenius",
+          "en": "For ’tis a sore upon us\nYou cannot tent yourself. Begone, beseech you.",
+          "es": "Porque esto es una llaga que todos padecemos,\ny tú no puedes examinar y tratar tu propia herida. Vete, te lo suplico.",
+          "notes": [
+            {
+              "term": "sore",
+              "title": "sore",
+              "type": "Nota filológica",
+              "gloss": "llaga; herida",
+              "body": "Metáfora del conflicto civil como lesión del cuerpo político. El plural «us» incluye a quienes deben gestionar la crisis. Referencias: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; Medicine & Kindred Arts in the Plays of Shakespeare, sección «Surgery», p. 85, https://upload.wikimedia.org/wikipedia/commons/a/a4/Medicine_%26_kindred_arts_in_the_plays_of_Shakespeare_%28IA_b24853628%29.pdf"
+            },
+            {
+              "term": "tent yourself",
+              "title": "tent yourself",
+              "type": "Nota filológica",
+              "gloss": "explorar o tratar tu propia herida",
+              "body": "«Tent» es verbo técnico de cirugía: explorar una herida con una sonda o introducir una tira de material para mantenerla abierta. Menenio sostiene que Coriolano no puede ser a la vez el herido y quien interviene eficazmente. Referencias: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; Medicine & Kindred Arts in the Plays of Shakespeare, sección «Surgery», p. 85, https://upload.wikimedia.org/wikipedia/commons/a/a4/Medicine_%26_kindred_arts_in_the_plays_of_Shakespeare_%28IA_b24853628%29.pdf",
+              "lemma": "tent",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/tent"
+            }
+          ]
+        },
+        {
+          "line": "1968",
+          "speaker": "cominius",
+          "en": "Come, sir, along with us.",
+          "es": "Vamos, señor, ven con nosotros.",
+          "notes": []
+        },
+        {
+          "line": "1969–1972",
+          "speaker": "coriolanus",
+          "en": "I would they were barbarians, as they are,\nThough in Rome littered; not Romans, as they are\nnot,\nThough calved i’ th’ porch o’ th’ Capitol.",
+          "es": "Ojalá fueran considerados bárbaros, como en realidad lo son,\naunque hayan nacido en Roma; y no romanos, pues no lo son,\naunque hubieran nacido a las puertas del Capitolio.",
+          "notes": [
+            {
+              "term": "littered",
+              "title": "littered",
+              "type": "Nota filológica",
+              "gloss": "nacidos como crías de animales",
+              "body": "El verbo se aplica al parto de animales en camada. Coriolano niega a los plebeyos la dignidad cívica mediante una degradación zoológica. Referencias: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "lemma": "litter",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/litter"
+            },
+            {
+              "term": "calved",
+              "title": "calved",
+              "type": "Nota filológica",
+              "gloss": "paridos como terneros",
+              "body": "La segunda imagen animal intensifica el insulto; el Capitolio representa el corazón simbólico de Roma, pero ni nacer allí otorgaría, para Coriolano, la condición moral de romano. Referencia: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/",
+              "lemma": "calve",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/calve"
+            }
+          ]
+        },
+        {
+          "line": "1973–1975",
+          "speaker": "menenius",
+          "en": "Begone!\nPut not your worthy rage into your tongue.\nOne time will owe another.",
+          "es": "¡Vete!\nNo dejes que tu justa indignación se convierta en palabras.\nYa habrá otro momento que compense este.",
+          "notes": [
+            {
+              "term": "Put not your worthy rage into your tongue",
+              "title": "Put not your worthy rage into your tongue",
+              "type": "Nota filológica",
+              "gloss": "no conviertas tu indignación en palabras",
+              "body": "«Tongue» funciona metonímicamente por el habla: Menenio le pide contener la expresión pública de su cólera, sin negar necesariamente su motivo. Referencia: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/"
+            },
+            {
+              "term": "One time will owe another",
+              "title": "One time will owe another",
+              "type": "Nota filológica",
+              "gloss": "otro momento compensará este",
+              "body": "Expresión discutida: puede prometer una ocasión más favorable o advertir que los actos presentes tendrán consecuencias futuras. Hudson comenta esta última posibilidad; otros comentaristas, como Malone, favorecen la compensación futura. La traducción adopta esta segunda lectura sin presentarla como única. Referencias: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; The New Hudson Shakespeare, The Tragedy of Coriolanus, comentario a III.1, https://upload.wikimedia.org/wikipedia/commons/d/dc/The_tragedy_of_Coriolanus_%28IA_tragedyofcoriola00shak%29.pdf"
             }
           ]
         }
