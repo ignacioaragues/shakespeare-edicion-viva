@@ -11730,7 +11730,7 @@ window.SHAKESPEARE_READER_DATA = {
       "scene": 1,
       "place": "Roma · Una calle, camino del Capitolio",
       "sourceRef": "Folger Shakespeare Library · Acto III, escena 1",
-      "sectionLabel": "Edición en curso · líneas 1669–1975",
+      "sectionLabel": "Edición en curso · líneas 1669–1992",
       "introduction": "Tras la votación, Coriolano conversa con los generales sobre Aufidio. La irrupción de los tribunos alterará pronto la marcha hacia el consulado.",
       "stage": "Suenan cornetas. Entran Coriolano, Menenio, Cominio, Tito Larcio, patricios y senadores.",
       "characters": [
@@ -14272,6 +14272,123 @@ window.SHAKESPEARE_READER_DATA = {
               "body": "Expresión discutida: puede prometer una ocasión más favorable o advertir que los actos presentes tendrán consecuencias futuras. Hudson comenta esta última posibilidad; otros comentaristas, como Malone, favorecen la compensación futura. La traducción adopta esta segunda lectura sin presentarla como única. Referencias: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; The New Hudson Shakespeare, The Tragedy of Coriolanus, comentario a III.1, https://upload.wikimedia.org/wikipedia/commons/d/dc/The_tragedy_of_Coriolanus_%28IA_tragedyofcoriola00shak%29.pdf"
             }
           ]
+        },
+        {
+          "line": "1976–1977",
+          "speaker": "coriolanus",
+          "en": "On fair ground\nI could beat forty of them.",
+          "es": "En terreno abierto\npodría vencer a cuarenta de ellos.",
+          "notes": [
+            {
+              "term": "fair ground",
+              "title": "fair ground",
+              "type": "Nota filológica",
+              "gloss": "terreno abierto, sin obstáculos",
+              "body": "La condición imagina una confrontación militar franca, en contraste con la multitud de la calle. Referencias: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html"
+            },
+            {
+              "term": "forty",
+              "title": "forty",
+              "type": "Nota filológica",
+              "gloss": "cuarenta; un número muy elevado",
+              "body": "Hudson advierte que «forty» puede emplearse indefinidamente para expresar una gran cantidad; no es necesario leerlo como cálculo literal. Referencias: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; The New Hudson Shakespeare, comentario a III.1, https://upload.wikimedia.org/wikipedia/commons/d/dc/The_tragedy_of_Coriolanus_%28IA_tragedyofcoriola00shak%29.pdf"
+            }
+          ]
+        },
+        {
+          "line": "1978–1980",
+          "speaker": "menenius",
+          "en": "I could myself\nTake up a brace o’ th’ best of them, yea, the two\ntribunes.",
+          "es": "Yo mismo podría enfrentarme\na un par de los mejores, sí, incluso a los dos\ntribunos.",
+          "notes": [
+            {
+              "term": "brace",
+              "title": "brace",
+              "type": "Nota filológica",
+              "gloss": "pareja; par",
+              "body": "«Brace» designa dos individuos. Menenio transforma la fanfarronada de Coriolano en una provocación dirigida a los dos tribunos. Referencias: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; First Folio (1623), facsímil, III.1, https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_%281910%29/The_Tragedy_of_Coriolanus/Act_3_Scene_1",
+              "lemma": "brace",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/brace"
+            }
+          ]
+        },
+        {
+          "line": "1981–1987",
+          "speaker": "cominius",
+          "en": "But now ’tis odds beyond arithmetic,\nAnd manhood is called foolery when it stands\nAgainst a falling fabric. Will you hence,\nBefore the tag return, whose rage doth rend\nLike interrupted waters and o’erbear\nWhat they are used to bear?",
+          "es": "Pero ahora la desproporción supera cualquier cálculo,\ny el valor se convierte en insensatez cuando se enfrenta\na una estructura que se viene abajo. ¿Te marcharás\nantes de que regrese la chusma? Su furia irrumpe\ncomo aguas contenidas que rompen sus barreras\ny arrastran aquello que normalmente las contiene.",
+          "notes": [
+            {
+              "term": "odds beyond arithmetic",
+              "title": "odds beyond arithmetic",
+              "type": "Nota filológica",
+              "gloss": "una desproporción imposible de calcular",
+              "body": "Cominio abandona el alarde numérico anterior: la fuerza de la multitud no puede medirse como un duelo. Referencias: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html"
+            },
+            {
+              "term": "falling fabric",
+              "title": "falling fabric",
+              "type": "Nota filológica",
+              "gloss": "estructura que se derrumba",
+              "body": "«Fabric» alude a una construcción; la imagen puede sugerir un edificio que cae sobre quien intenta sostenerlo. Es una metáfora, no una acotación de derrumbe real. Referencias: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html"
+            },
+            {
+              "term": "tag",
+              "title": "tag",
+              "type": "Nota filológica",
+              "gloss": "chusma; gentuza",
+              "body": "Término despectivo para la gente humilde o desarrapada. Hudson lo vincula con «tag and rag»; la valoración pertenece al personaje, no al editor. Referencias: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; The New Hudson Shakespeare, comentario a III.1, https://upload.wikimedia.org/wikipedia/commons/d/dc/The_tragedy_of_Coriolanus_%28IA_tragedyofcoriola00shak%29.pdf",
+              "lemma": "tag",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/tag"
+            },
+            {
+              "term": "interrupted waters",
+              "title": "interrupted waters",
+              "type": "Nota filológica",
+              "gloss": "aguas represadas que irrumpen",
+              "body": "La comparación imagina aguas cuyo curso fue interrumpido y que desbordan sus límites. «O’erbear» expresa la fuerza que vence una resistencia. Referencias: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html",
+              "lemma": "overbear",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/overbear"
+            }
+          ]
+        },
+        {
+          "line": "1988–1991",
+          "speaker": "menenius",
+          "en": "Pray you, begone.\nI’ll try whether my old wit be in request\nWith those that have but little. This must be patched\nWith cloth of any color.",
+          "es": "Te lo ruego, vete.\nIntentaré averiguar si mi vieja astucia todavía sirve\nde algo entre quienes tienen tan poca. Habrá que remendar\neste asunto con tela de cualquier color.",
+          "notes": [
+            {
+              "term": "old wit",
+              "title": "old wit",
+              "type": "Nota filológica",
+              "gloss": "vieja astucia; experiencia",
+              "body": "Menenio se atribuye una capacidad negociadora que contrapone al poco juicio que concede a sus adversarios. Referencias: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html"
+            },
+            {
+              "term": "patched",
+              "title": "patched",
+              "type": "Nota filológica",
+              "gloss": "remendado; reparado provisionalmente",
+              "body": "La imagen textil presenta la solución política como un arreglo improvisado y no como una reconciliación de principios. Referencias: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html",
+              "lemma": "patch",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/patch"
+            },
+            {
+              "term": "cloth of any color",
+              "title": "cloth of any color",
+              "type": "Nota filológica",
+              "gloss": "tela de cualquier color",
+              "body": "La indiferencia al color sugiere flexibilidad pragmática: cualquier medio conciliador puede servir. Es una interpretación de la metáfora, no un modismo técnico acreditado. Referencias: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html"
+            }
+          ]
+        },
+        {
+          "line": "1992",
+          "speaker": "cominius",
+          "en": "Nay, come away.",
+          "es": "No, vamos, vámonos.",
+          "notes": []
         }
       ]
     }

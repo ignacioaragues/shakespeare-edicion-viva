@@ -958,13 +958,22 @@
       "last_line": 1975,
       "editorial_state": "translated_source_checked_external_references",
       "note": "Eight complete speeches, Folger III.1 checked against MIT and historical commentary. Attribution of 1960–61 follows Folger (MIT: Cominius); surgical tent and ambiguous owe annotated. Private reference files not consulted."
+    },
+    {
+      "id": "coriolanus-3-1-1976-1992",
+      "act": 3,
+      "scene": 1,
+      "first_line": 1976,
+      "last_line": 1992,
+      "editorial_state": "translated_source_checked_external_references",
+      "note": "Five complete speeches; Folger III.1 verified against MIT, First Folio facsimile and Hudson's commentary on forty/tag. Spanish contextual glosses and cited notes. Exit direction after 1992 pending independent stage-direction rendering. Private EPUB/PDF not consulted."
     }
   ],
   "next_fragment": {
     "act": 3,
     "scene": 1,
-    "first_line": 1976,
-    "note": "Continue after Menenius' advice, beginning Coriolanus' boast about fighting forty opponents."
+    "first_line": 1993,
+    "note": "Continue with Patrician's comment on Coriolanus' ruined fortune and Menenius' reply."
   },
   "completed_acts": [],
   "last_update_commit": "9f0e49634187abcdc839964fdbfebf3fdd362cff",
