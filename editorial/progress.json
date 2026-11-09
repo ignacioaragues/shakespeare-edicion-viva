@@ -904,13 +904,22 @@
       "last_line": 1871,
       "editorial_state": "translated_source_checked_external_references",
       "note": "Three complete speeches; Folger III.1 and Stavelas 2016 consulted; private reference files not consulted."
+    },
+    {
+      "id": "coriolanus-3-1-1872-1890",
+      "act": 3,
+      "scene": 1,
+      "first_line": 1872,
+      "last_line": 1890,
+      "editorial_state": "translated_source_checked_external_references",
+      "note": "Seven complete speeches; Folger III.1 and Nicholas Grene's commentary consulted; glosses and references included. Private references not consulted."
     }
   ],
   "next_fragment": {
     "act": 3,
     "scene": 1,
-    "first_line": 1872,
-    "note": "Brutus and Sicinius respond; continue through natural speech boundaries."
+    "first_line": 1891,
+    "note": "Arrest resisted; patricians intervene."
   },
   "completed_acts": [],
   "last_update_commit": null,

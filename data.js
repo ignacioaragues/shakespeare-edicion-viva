@@ -11730,7 +11730,7 @@ window.SHAKESPEARE_READER_DATA = {
       "scene": 1,
       "place": "Roma · Una calle, camino del Capitolio",
       "sourceRef": "Folger Shakespeare Library · Acto III, escena 1",
-      "sectionLabel": "Edición en curso · líneas 1669–1871",
+      "sectionLabel": "Edición en curso · líneas 1669–1890",
       "introduction": "Tras la votación, Coriolano conversa con los generales sobre Aufidio. La irrupción de los tribunos alterará pronto la marcha hacia el consulado.",
       "stage": "Suenan cornetas. Entran Coriolano, Menenio, Cominio, Tito Larcio, patricios y senadores.",
       "characters": [
@@ -13336,7 +13336,178 @@ window.SHAKESPEARE_READER_DATA = {
               "lemmaUrl": "https://en.wiktionary.org/wiki/integrity"
             }
           ]
+        },
+        {
+          "line": "1872",
+          "speaker": "brutus",
+          "en": "’Has said enough.",
+          "es": "Ya ha dicho bastante.",
+          "notes": [
+            {
+              "term": "’Has",
+              "title": "’Has",
+              "type": "Nota filológica",
+              "gloss": "ha (él)",
+              "body": "Contracción elíptica de he has. Referencias: Folger, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; Nicholas Grene, ensayo sobre Coriolanus, https://www.enotes.com/topics/coriolanus/criticism/coriolanus-vol-30/overviews/nicholas-grene-essay-date.",
+              "lemma": "have",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/have"
+            }
+          ]
+        },
+        {
+          "line": "1873–1874",
+          "speaker": "sicinius",
+          "en": "’Has spoken like a traitor and shall answer\nAs traitors do.",
+          "es": "Ha hablado como un traidor y tendrá que responder\ncomo responden los traidores.",
+          "notes": [
+            {
+              "term": "answer",
+              "title": "answer",
+              "type": "Nota filológica",
+              "gloss": "responder ante la justicia",
+              "body": "El verbo tiene valor jurídico: rendir cuentas de una acusación. Referencias: Folger, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; Nicholas Grene, ensayo sobre Coriolanus, https://www.enotes.com/topics/coriolanus/criticism/coriolanus-vol-30/overviews/nicholas-grene-essay-date.",
+              "lemma": "answer",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/answer"
+            }
+          ]
+        },
+        {
+          "line": "1875–1882",
+          "speaker": "coriolanus",
+          "en": "Thou wretch, despite o’erwhelm thee!\nWhat should the people do with these bald tribunes,\nOn whom depending, their obedience fails\nTo th’ greater bench? In a rebellion,\nWhen what’s not meet but what must be was law,\nThen were they chosen. In a better hour,\nLet what is meet be said it must be meet,\nAnd throw their power i’ th’ dust.",
+          "es": "¡Miserable, que el desprecio te abrume!\n¿Para qué necesita el pueblo a estos tribunos insustanciales,\nsi, al apoyarse en ellos, deja de obedecer\nal Senado? Fueron elegidos durante una rebelión,\ncuando no imperaba lo conveniente, sino lo impuesto\npor la necesidad. En tiempos mejores,\nreconozcamos como obligatorio lo que es justo\ny arrojemos su poder al polvo.",
+          "notes": [
+            {
+              "term": "despite o’erwhelm thee",
+              "title": "despite o’erwhelm thee",
+              "type": "Nota filológica",
+              "gloss": "que el desprecio te abrume",
+              "body": "Despite expresa desprecio o malquerencia en esta maldición. Referencias: Folger, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; Nicholas Grene, ensayo sobre Coriolanus, https://www.enotes.com/topics/coriolanus/criticism/coriolanus-vol-30/overviews/nicholas-grene-essay-date.",
+              "lemma": "despite",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/despite"
+            },
+            {
+              "term": "bald tribunes",
+              "title": "bald tribunes",
+              "type": "Nota filológica",
+              "gloss": "tribunos insustanciales",
+              "body": "Bald es un insulto figurado, no una descripción física; la edición anotada de Coriolanus lo glosa como senseless. Referencias: Folger, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; Nicholas Grene, ensayo sobre Coriolanus, https://www.enotes.com/topics/coriolanus/criticism/coriolanus-vol-30/overviews/nicholas-grene-essay-date.",
+              "lemma": "bald",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/bald"
+            },
+            {
+              "term": "greater bench",
+              "title": "greater bench",
+              "type": "Nota filológica",
+              "gloss": "Senado; autoridad superior",
+              "body": "Bench alude al órgano de gobierno superior al que Coriolano reclama obediencia. Referencias: Folger, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; Nicholas Grene, ensayo sobre Coriolanus, https://www.enotes.com/topics/coriolanus/criticism/coriolanus-vol-30/overviews/nicholas-grene-essay-date.",
+              "lemma": "bench",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/bench"
+            },
+            {
+              "term": "what’s not meet but what must be",
+              "title": "what’s not meet but what must be",
+              "type": "Nota filológica",
+              "gloss": "no lo conveniente, sino lo necesario",
+              "body": "Antítesis meet/must: contrapone lo legítimo a lo impuesto por necesidad; Grene señala que la magistratura concedida en la crisis ya integra el orden legal. Referencias: Folger, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; Nicholas Grene, ensayo sobre Coriolanus, https://www.enotes.com/topics/coriolanus/criticism/coriolanus-vol-30/overviews/nicholas-grene-essay-date.",
+              "lemma": "meet",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/meet"
+            },
+            {
+              "term": "In a better hour",
+              "title": "In a better hour",
+              "type": "Nota filológica",
+              "gloss": "en tiempos mejores",
+              "body": "Presenta la institución del tribunado como concesión revocable, tesis política de Coriolano, no hecho histórico establecido. Referencias: Folger, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; Nicholas Grene, ensayo sobre Coriolanus, https://www.enotes.com/topics/coriolanus/criticism/coriolanus-vol-30/overviews/nicholas-grene-essay-date."
+            }
+          ]
+        },
+        {
+          "line": "1883",
+          "speaker": "brutus",
+          "en": "Manifest treason.",
+          "es": "Traición manifiesta.",
+          "notes": [
+            {
+              "term": "treason",
+              "title": "treason",
+              "type": "Nota filológica",
+              "gloss": "traición al Estado",
+              "body": "La acusación invierte el argumento: abolir magistraturas existentes se interpreta como atacar el orden público. Referencias: Folger, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; Nicholas Grene, ensayo sobre Coriolanus, https://www.enotes.com/topics/coriolanus/criticism/coriolanus-vol-30/overviews/nicholas-grene-essay-date.",
+              "lemma": "treason",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/treason"
+            }
+          ]
+        },
+        {
+          "line": "1884",
+          "speaker": "sicinius",
+          "en": "This a consul? No.",
+          "es": "¿Y este pretende ser cónsul? No.",
+          "notes": []
+        },
+        {
+          "line": "1885",
+          "speaker": "brutus",
+          "en": "The aediles, ho! Let him be apprehended.",
+          "es": "¡Ediles, aquí! Que lo detengan.",
+          "notes": [
+            {
+              "term": "aediles",
+              "title": "aediles",
+              "type": "Nota filológica",
+              "gloss": "ediles; funcionarios romanos",
+              "body": "En la escena actúan como agentes de ejecución de las órdenes de los tribunos. Referencias: Folger, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; Nicholas Grene, ensayo sobre Coriolanus, https://www.enotes.com/topics/coriolanus/criticism/coriolanus-vol-30/overviews/nicholas-grene-essay-date.",
+              "lemma": "aedile",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/aedile"
+            },
+            {
+              "term": "apprehended",
+              "title": "apprehended",
+              "type": "Nota filológica",
+              "gloss": "detenido",
+              "body": "Apprehend se usa con el sentido de apresar por autoridad pública. Referencias: Folger, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; Nicholas Grene, ensayo sobre Coriolanus, https://www.enotes.com/topics/coriolanus/criticism/coriolanus-vol-30/overviews/nicholas-grene-essay-date.",
+              "lemma": "apprehend",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/apprehend"
+            }
+          ]
+        },
+        {
+          "line": "1886–1890",
+          "speaker": "sicinius",
+          "en": "Go, call the people; in whose name myself\nAttach thee as a traitorous innovator,\nA foe to th’ public weal. Obey, I charge thee,\nAnd follow to thine answer.",
+          "es": "Ve a llamar al pueblo. En su nombre, yo mismo\nte detengo como traidor que pretende alterar el orden,\nenemigo del bien común. Te ordeno que obedezcas\ny comparezcas para responder de tus actos.",
+          "notes": [
+            {
+              "term": "Attach thee",
+              "title": "Attach thee",
+              "type": "Nota filológica",
+              "gloss": "te detengo",
+              "body": "Attach es un tecnicismo jurídico para arrestar. Referencias: Folger, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; Nicholas Grene, ensayo sobre Coriolanus, https://www.enotes.com/topics/coriolanus/criticism/coriolanus-vol-30/overviews/nicholas-grene-essay-date.",
+              "lemma": "attach",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/attach"
+            },
+            {
+              "term": "traitorous innovator",
+              "title": "traitorous innovator",
+              "type": "Nota filológica",
+              "gloss": "traidor que altera el orden establecido",
+              "body": "Innovator tiene sentido político acusatorio, no el elogio contemporáneo de innovar. Referencias: Folger, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; Nicholas Grene, ensayo sobre Coriolanus, https://www.enotes.com/topics/coriolanus/criticism/coriolanus-vol-30/overviews/nicholas-grene-essay-date.",
+              "lemma": "innovator",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/innovator"
+            },
+            {
+              "term": "public weal",
+              "title": "public weal",
+              "type": "Nota filológica",
+              "gloss": "bien común",
+              "body": "Weal designa la prosperidad o el bienestar de la comunidad. Referencias: Folger, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; Nicholas Grene, ensayo sobre Coriolanus, https://www.enotes.com/topics/coriolanus/criticism/coriolanus-vol-30/overviews/nicholas-grene-essay-date.",
+              "lemma": "weal",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/weal"
+            }
+          ]
         }
+
       ]
     }
   ]
