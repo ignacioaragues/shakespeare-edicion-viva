@@ -58,7 +58,7 @@
     const sidebar = $('sidebar-content');
     if (!sidebar) return;
     Array.from(sidebar.querySelectorAll('.act-label')).forEach(label => {
-      const match = (label.querySelector('span')?.textContent || '').match(/ACTO\\s+([IVX]+)/i);
+      const match = (label.querySelector('span')?.textContent || '').match(/ACTO\s+([IVX]+)/i);
       if (!match) return;
       const act = match[1].toUpperCase();
       const group = el('div', 'act-scenes');
