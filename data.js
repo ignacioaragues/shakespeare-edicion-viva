@@ -13041,6 +13041,107 @@ window.SHAKESPEARE_READER_DATA = {
             }
           ]
         }
+        ,
+        {
+          "line": "1814–1816",
+          "speaker": "coriolanus",
+          "en": "Whoever gave that counsel to give forth\nThe corn o’ th’ storehouse gratis, as ’twas used\nSometime in Greece—",
+          "es": "Quienquiera que aconsejara repartir\nsin cobrar el grano de los almacenes, como se hacía\nantaño en Grecia…",
+          "notes": [
+            {
+              "term": "give forth",
+              "title": "give forth",
+              "type": "Nota filológica",
+              "gloss": "repartir; entregar",
+              "body": "La expresión verbal designa la entrega de las reservas públicas; no implica aquí venta. Fuentes: Folger Shakespeare Library, Coriolanus III.1 (líneas 1814–1822), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; Plutarco, Vida de Coriolano 16, https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Coriolanus%2A.html; Thomas North, traducción de Plutarco (1579), reproducida en The Temple Plutarch, https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/1805/0988-03_Bk.pdf.",
+              "lemma": "give",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/give"
+            },
+            {
+              "term": "gratis",
+              "title": "gratis",
+              "type": "Nota filológica",
+              "gloss": "gratuitamente; sin cobrar",
+              "body": "Latinismo presente en el original inglés; se conserva el contenido económico preciso de la disputa. Fuentes: Folger Shakespeare Library, Coriolanus III.1 (líneas 1814–1822), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; Plutarco, Vida de Coriolano 16, https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Coriolanus%2A.html; Thomas North, traducción de Plutarco (1579), reproducida en The Temple Plutarch, https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/1805/0988-03_Bk.pdf.",
+              "lemma": "gratis",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/gratis"
+            },
+            {
+              "term": "Sometime in Greece",
+              "title": "Sometime in Greece",
+              "type": "Nota filológica",
+              "gloss": "antaño en Grecia",
+              "body": "Sometime tiene aquí valor temporal de «en otro tiempo», no el moderno «alguna vez» indeterminado. La referencia a prácticas democráticas griegas forma parte de la argumentación del personaje, que Shakespeare reelabora a partir de Plutarco, Vida de Coriolano 16. Fuentes: Folger Shakespeare Library, Coriolanus III.1 (líneas 1814–1822), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; Plutarco, Vida de Coriolano 16, https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Coriolanus%2A.html; Thomas North, traducción de Plutarco (1579), reproducida en The Temple Plutarch, https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/1805/0988-03_Bk.pdf.",
+              "lemma": "sometime",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/sometime"
+            }
+          ]
+        },
+        {
+          "line": "1817",
+          "speaker": "menenius",
+          "en": "Well, well, no more of that.",
+          "es": "Está bien, está bien; basta de ese asunto.",
+          "notes": [
+            {
+              "term": "no more of that",
+              "title": "no more of that",
+              "type": "Nota filológica",
+              "gloss": "basta de ese asunto",
+              "body": "La repetición de well busca interrumpir la polémica y recuperar el control de la conversación; no expresa acuerdo con la tesis de Coriolano. Fuentes: Folger Shakespeare Library, Coriolanus III.1 (líneas 1814–1822), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; Plutarco, Vida de Coriolano 16, https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Coriolanus%2A.html; Thomas North, traducción de Plutarco (1579), reproducida en The Temple Plutarch, https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/1805/0988-03_Bk.pdf."
+            }
+          ]
+        },
+        {
+          "line": "1818–1820",
+          "speaker": "coriolanus",
+          "en": "Though there the people had more absolute power,\nI say they nourished disobedience, fed\nThe ruin of the state.",
+          "es": "Aunque allí el pueblo tenía un poder más absoluto,\nsostengo que con eso alimentaban la desobediencia,\nnutrían la ruina del Estado.",
+          "notes": [
+            {
+              "term": "more absolute power",
+              "title": "more absolute power",
+              "type": "Nota filológica",
+              "gloss": "mayor poder político",
+              "body": "Absolute califica la amplitud del poder popular en la Grecia invocada por Coriolano. No equivale necesariamente a la noción moderna de «absolutismo». Fuentes: Folger Shakespeare Library, Coriolanus III.1 (líneas 1814–1822), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; Plutarco, Vida de Coriolano 16, https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Coriolanus%2A.html; Thomas North, traducción de Plutarco (1579), reproducida en The Temple Plutarch, https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/1805/0988-03_Bk.pdf."
+            },
+            {
+              "term": "nourished disobedience",
+              "title": "nourished disobedience",
+              "type": "Nota filológica",
+              "gloss": "alimentaban la desobediencia",
+              "body": "La duplicación «nourished / fed» convierte el reparto de alimento en una metáfora de la nutrición de la sedición. Plutarco 16 presenta la misma acusación como discurso de Marcio, no como valoración histórica independiente. Fuentes: Folger Shakespeare Library, Coriolanus III.1 (líneas 1814–1822), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; Plutarco, Vida de Coriolano 16, https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Coriolanus%2A.html; Thomas North, traducción de Plutarco (1579), reproducida en The Temple Plutarch, https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/1805/0988-03_Bk.pdf.",
+              "lemma": "nourish",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/nourish"
+            }
+          ]
+        },
+        {
+          "line": "1821–1822",
+          "speaker": "brutus",
+          "en": "Why shall the people give\nOne that speaks thus their voice?",
+          "es": "¿Por qué habría de darle el pueblo su voto\na alguien que habla de esa manera?",
+          "notes": [
+            {
+              "term": "their voice",
+              "title": "their voice",
+              "type": "Nota filológica",
+              "gloss": "su voto; su apoyo electoral",
+              "body": "Voice recupera el campo léxico de la elección consular: el pueblo debe conceder su aprobación a un candidato que lo desprecia. El singular colectivo their voice se traduce «su voto» para preservar la función política. Fuentes: Folger Shakespeare Library, Coriolanus III.1 (líneas 1814–1822), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; Plutarco, Vida de Coriolano 16, https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Coriolanus%2A.html; Thomas North, traducción de Plutarco (1579), reproducida en The Temple Plutarch, https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/1805/0988-03_Bk.pdf.",
+              "lemma": "voice",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/voice"
+            },
+            {
+              "term": "shall",
+              "title": "shall",
+              "type": "Nota filológica",
+              "gloss": "habría de; debería",
+              "body": "El modal plantea la legitimidad de la decisión popular, no una predicción de futuro. Fuentes: Folger Shakespeare Library, Coriolanus III.1 (líneas 1814–1822), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; Plutarco, Vida de Coriolano 16, https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Coriolanus%2A.html; Thomas North, traducción de Plutarco (1579), reproducida en The Temple Plutarch, https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/1805/0988-03_Bk.pdf.",
+              "lemma": "shall",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/shall"
+            }
+          ]
+        }
       ]
     }
   ]

@@ -877,13 +877,22 @@
       "last_line": 1813,
       "editorial_state": "translated_source_checked_external_references",
       "note": "Four complete speeches; Folger/MIT and Malone 1821 apparatus (canon and good/God) compared; contextual Spanish glosses and notes. Private editions not consulted."
+    },
+    {
+      "id": "coriolanus-3-1-1814-1822",
+      "act": 3,
+      "scene": 1,
+      "first_line": 1814,
+      "last_line": 1822,
+      "editorial_state": "translated_source_checked_external_references",
+      "note": "Four complete speeches; Folger III.1 checked against MIT, Plutarch Coriolanus 16 and North's Plutarch; contextual glosses and cited notes. Private references not consulted."
     }
   ],
   "next_fragment": {
     "act": 3,
     "scene": 1,
-    "first_line": 1814,
-    "note": "Continue with the renewed argument over free grain."
+    "first_line": 1823,
+    "note": "Coriolanus' long speech 1823–1845: preserve complete speech in next coherent unit."
   },
   "completed_acts": [],
   "last_update_commit": null,
