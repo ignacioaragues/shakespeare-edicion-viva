@@ -11730,7 +11730,7 @@ window.SHAKESPEARE_READER_DATA = {
       "scene": 1,
       "place": "Roma · Una calle, camino del Capitolio",
       "sourceRef": "Folger Shakespeare Library · Acto III, escena 1",
-      "sectionLabel": "Edición en curso · líneas 1669–1785",
+      "sectionLabel": "Edición en curso · líneas 1669–1813",
       "introduction": "Tras la votación, Coriolano conversa con los generales sobre Aufidio. La irrupción de los tribunos alterará pronto la marcha hacia el consulado.",
       "stage": "Suenan cornetas. Entran Coriolano, Menenio, Cominio, Tito Larcio, patricios y senadores.",
       "characters": [
@@ -12870,6 +12870,174 @@ window.SHAKESPEARE_READER_DATA = {
               "body": "Repetición nominal y verbal: Sicinio invierte la imagen de contagio utilizada por Coriolano y presenta ahora sus ideas como la amenaza. Fuentes: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; Cambridge Shakespeare, edición histórica digitalizada (aparato en III.1, comentario sobre «measles»), https://resources.warburg.sas.ac.uk/pdf/emh81b2456895.pdf.",
               "lemma": "poison",
               "lemmaUrl": "https://en.wiktionary.org/wiki/poison"
+            }
+          ]
+        }
+        ,        {
+          "line": "1786",
+          "speaker": "coriolanus",
+          "en": "“Shall remain”?\nHear you this Triton of the minnows? Mark you\nHis absolute “shall”?",
+          "es": "¿«Quedará»?\n¿Oyen a este Tritón de los pececillos? ¿Se fijan\nen su «quedará» tan categórico?",
+          "notes": [
+            {
+              "term": "Shall remain",
+              "title": "Shall remain",
+              "type": "Nota filológica",
+              "gloss": "«quedará»; «deberá quedarse»",
+              "body": "Coriolano repite el modal de Sicinio y cuestiona su pretensión de dictar lo que ha de ocurrir; la repetición desplaza la disputa hacia la autoridad de una palabra. Fuentes: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, Coriolanus III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "lemma": "shall",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/shall"
+            },
+            {
+              "term": "Triton of the minnows",
+              "title": "Triton of the minnows",
+              "type": "Nota filológica",
+              "gloss": "Tritón de los pececillos",
+              "body": "Tritón, divinidad marina de la mitología griega, aparece degradado a caudillo de peces diminutos: insulto simultáneo al tribuno y a sus representados. Fuentes: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, Coriolanus III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html."
+            },
+            {
+              "term": "absolute “shall”",
+              "title": "absolute “shall”",
+              "type": "Nota filológica",
+              "gloss": "«deberá» terminante",
+              "body": "«Absolute» califica la fuerza imperativa que Coriolano atribuye al «shall» del tribuno, no un tiempo verbal diferente. Fuentes: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, Coriolanus III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "lemma": "shall",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/shall"
+            }
+          ]
+        },
+        {
+          "line": "1789",
+          "speaker": "cominius",
+          "en": "’Twas from the canon.",
+          "es": "Eso se aparta de la norma.",
+          "notes": [
+            {
+              "term": "from the canon",
+              "title": "from the canon",
+              "type": "Nota filológica",
+              "gloss": "fuera de la regla; según la regla (lectura alternativa)",
+              "body": "Pasaje discutido: Samuel Johnson entiende que la orden del tribuno contraviene la regla establecida; M. Mason sostiene lo contrario, que se ajusta al poder de veto tribunicio. La traducción adopta provisionalmente la primera lectura, sin presentar la controversia como resuelta. Johnson y Mason citados en el aparato de Malone (1821). Fuentes: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; Malone (ed.), The Plays and Poems of William Shakespeare, vol. XIV (1821), comentario a III.1, https://upload.wikimedia.org/wikipedia/commons/3/3f/The_Plays_and_Poems_of_William_Shakspeare_%281821%29_-_Vol._14.pdf."
+            }
+          ]
+        },
+        {
+          "line": "1790",
+          "speaker": "coriolanus",
+          "en": "“Shall”?\nO good but most unwise patricians, why,\nYou grave but reckless senators, have you thus\nGiven Hydra here to choose an officer,\nThat with his peremptory “shall,” being but\nThe horn and noise o’ th’ monster’s, wants not spirit\nTo say he’ll turn your current in a ditch\nAnd make your channel his? If he have power,\nThen vail your ignorance; if none, awake\nYour dangerous lenity. If you are learned,\nBe not as common fools; if you are not,\nLet them have cushions by you. You are plebeians,\nIf they be senators; and they are no less\nWhen, both your voices blended, the great’st taste\nMost palates theirs. They choose their magistrate,\nAnd such a one as he, who puts his “shall,”\nHis popular “shall,” against a graver bench\nThan ever frowned in Greece. By Jove himself,\nIt makes the consuls base! And my soul aches\nTo know, when two authorities are up,\nNeither supreme, how soon confusion\nMay enter ’twixt the gap of both and take\nThe one by th’ other.",
+          "es": "¿«Deberá»?\n¡Oh, buenos pero insensatísimos patricios! ¿Por qué,\nustedes, senadores respetables pero imprudentes, han permitido\nque esta Hidra elija a un magistrado\nque, con su «deberá» terminante, siendo apenas\nel cuerno y el estrépito del monstruo, se atreve\na decir que desviará la corriente de ustedes a una zanja\ny se apropiará de su cauce? Si tiene poder,\nreconozcan su error y agachen la cabeza; si no lo tiene, despierten\nde su peligrosa indulgencia. Si son instruidos,\nno se comporten como necios vulgares; si no lo son,\nconcédanles asientos a su lado. Ustedes son plebeyos\nsi ellos son senadores; y ellos no son menos que ustedes\ncuando, mezclados los votos de ambos, el sabor dominante\nes el que prefiere la mayoría de sus paladares. Ellos eligen a su magistrado,\ny a uno como este, que enfrenta su «deberá»,\nsu «deberá» popular, a un consejo más venerable\nque cuantos fruncieron el ceño en Grecia. ¡Por el propio Júpiter!,\n¡eso envilece a los cónsules! Y me duele el alma\nal pensar cuán pronto, cuando se alzan dos autoridades\nsin que ninguna sea suprema, el desorden\npuede abrirse paso por la brecha entre ambas\ny destruir una por medio de la otra.",
+          "notes": [
+            {
+              "term": "O good",
+              "title": "O good",
+              "type": "Nota filológica",
+              "gloss": "oh, buenos",
+              "body": "Folger imprime «good» entre corchetes editoriales; la primera edición en folio transmite «God». Malone (1821) recoge la defensa de la enmienda de Theobald y la discusión sobre el juramento anacrónico. Se conserva la opción de Folger y se documenta la variante. Fuentes: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, Coriolanus III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html."
+            },
+            {
+              "term": "grave but reckless",
+              "title": "grave but reckless",
+              "type": "Nota filológica",
+              "gloss": "respetables pero imprudentes",
+              "body": "Antítesis: «grave» evoca dignidad y prudencia institucional; «reckless» niega que hayan actuado con la cautela correspondiente. Fuentes: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, Coriolanus III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html."
+            },
+            {
+              "term": "Hydra",
+              "title": "Hydra",
+              "type": "Nota filológica",
+              "gloss": "Hidra; monstruo de múltiples cabezas",
+              "body": "La Hidra mitológica funciona como imagen despectiva de la multitud política. No se debe tomar como una descripción neutral del pueblo. Fuentes: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, Coriolanus III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html."
+            },
+            {
+              "term": "peremptory “shall”",
+              "title": "peremptory “shall”",
+              "type": "Nota filológica",
+              "gloss": "«deberá» terminante",
+              "body": "El verbo modal, citado como palabra autónoma, encarna para Coriolano la autoridad que Sicinio pretende ejercer. Fuentes: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, Coriolanus III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "lemma": "shall",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/shall"
+            },
+            {
+              "term": "horn and noise",
+              "title": "horn and noise",
+              "type": "Nota filológica",
+              "gloss": "cuerno y estrépito",
+              "body": "El tribuno aparece como instrumento sonoro del monstruo colectivo: una voz que amplifica la voluntad de la multitud, sin ser su fuente independiente. Fuentes: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, Coriolanus III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html."
+            },
+            {
+              "term": "turn your current in a ditch",
+              "title": "turn your current in a ditch",
+              "type": "Nota filológica",
+              "gloss": "desviar su corriente a una zanja",
+              "body": "Metáfora hidráulica: la autoridad senatorial es un cauce que el tribuno pretende desviar y apropiarse. Fuentes: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, Coriolanus III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html."
+            },
+            {
+              "term": "vail",
+              "title": "vail",
+              "type": "Nota filológica",
+              "gloss": "inclinar; bajar; someterse",
+              "body": "Forma antigua de «veil/vail» en el sentido de bajar o ceder; la lectura concreta es irónica: si los tribunos poseen realmente autoridad, los senadores deberían reconocer su propia falta de juicio. Fuentes: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, Coriolanus III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "lemma": "vail",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/vail"
+            },
+            {
+              "term": "lenity",
+              "title": "lenity",
+              "type": "Nota filológica",
+              "gloss": "indulgencia; blandura",
+              "body": "La moderación senatorial se presenta como peligrosa debilidad política; es un juicio de Coriolano, no una evaluación del editor. Fuentes: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, Coriolanus III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "lemma": "lenity",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/lenity"
+            },
+            {
+              "term": "cushions",
+              "title": "cushions",
+              "type": "Nota filológica",
+              "gloss": "asientos acolchados; puestos en el Senado",
+              "body": "Los cojines simbolizan aquí la dignidad y el asiento institucional: la invitación es sarcástica, pues igualaría a los tribunos con los senadores. Fuentes: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, Coriolanus III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html."
+            },
+            {
+              "term": "the great’st taste / Most palates theirs",
+              "title": "the great’st taste / Most palates theirs",
+              "type": "Nota filológica",
+              "gloss": "predomina el gusto de ellos",
+              "body": "Imagen gustativa de la decisión conjunta: al mezclar las voces de los dos órdenes, prevalece —según Coriolano— el parecer popular. La explicación de «palate» como sabor predominante se encuentra en el comentario histórico reproducido en ediciones del siglo XIX. Fuentes: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, Coriolanus III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html."
+            },
+            {
+              "term": "voices blended",
+              "title": "voices blended",
+              "type": "Nota filológica",
+              "gloss": "votos o voces mezclados",
+              "body": "«Voices» permite mantener a la vez la representación oral y el peso de las decisiones políticas, una recurrencia léxica fundamental de la obra. Fuentes: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, Coriolanus III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html."
+            },
+            {
+              "term": "graver bench",
+              "title": "graver bench",
+              "type": "Nota filológica",
+              "gloss": "consejo más venerable",
+              "body": "«Bench» es el cuerpo de magistrados o senadores; «graver» establece una jerarquía de dignidad frente a la autoridad popular. Fuentes: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, Coriolanus III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html."
+            },
+            {
+              "term": "two authorities",
+              "title": "two authorities",
+              "type": "Nota filológica",
+              "gloss": "dos poderes",
+              "body": "La conclusión articula el temor de Coriolano a una autoridad dividida entre Senado y tribunos: es un argumento del personaje, no una tesis histórica incontrovertible. Fuentes: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, Coriolanus III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html."
+            }
+          ]
+        },
+        {
+          "line": "1813",
+          "speaker": "cominius",
+          "en": "Well, on to th’ marketplace.",
+          "es": "Bien, sigamos hacia la plaza del mercado.",
+          "notes": [
+            {
+              "term": "marketplace",
+              "title": "marketplace",
+              "type": "Nota filológica",
+              "gloss": "plaza del mercado; lugar de la asamblea",
+              "body": "La réplica intenta devolver la acción al itinerario político interrumpido por la disputa. Fuentes: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, Coriolanus III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html."
             }
           ]
         }
