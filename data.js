@@ -11730,7 +11730,7 @@ window.SHAKESPEARE_READER_DATA = {
       "scene": 1,
       "place": "Roma · Una calle, camino del Capitolio",
       "sourceRef": "Folger Shakespeare Library · Acto III, escena 1",
-      "sectionLabel": "Edición en curso · líneas 1669–1910",
+      "sectionLabel": "Edición en curso · líneas 1669–1944",
       "introduction": "Tras la votación, Coriolano conversa con los generales sobre Aufidio. La irrupción de los tribunos alterará pronto la marcha hacia el consulado.",
       "stage": "Suenan cornetas. Entran Coriolano, Menenio, Cominio, Tito Larcio, patricios y senadores.",
       "characters": [
@@ -11810,6 +11810,13 @@ window.SHAKESPEARE_READER_DATA = {
           "english": "All",
           "identity": "Voces simultáneas en medio del tumulto.",
           "color": "copper"
+        },
+        {
+          "id": "aediles",
+          "name": "Ediles",
+          "english": "Aediles",
+          "identity": "Magistrados encargados de ejecutar las órdenes de los tribunos.",
+          "color": "slate"
         }
       ],
       "blocks": [
@@ -13822,6 +13829,162 @@ window.SHAKESPEARE_READER_DATA = {
               "body": "«Like» tiene aquí valor de probabilidad, no de semejanza ni de gusto. Menenio intenta contener la confrontación sin negar la legitimidad de los tribunos. Fuentes: Folger Shakespeare Library, Coriolanus III.1, líneas 1911–1923, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, Coriolanus III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
               "lemma": "like",
               "lemmaUrl": "https://en.wiktionary.org/wiki/like"
+            }
+          ]
+        },
+        {
+          "line": "1924–1927",
+          "speaker": "coriolanus",
+          "en": "That is the way to lay the city flat,\nTo bring the roof to the foundation\nAnd bury all which yet distinctly ranges\nIn heaps and piles of ruin.",
+          "es": "Ese es el modo de arrasar la ciudad,\nde hacer que el techo caiga sobre los cimientos\ny sepultar cuanto todavía se mantiene en su lugar\nbajo montones y cúmulos de ruinas.",
+          "notes": [
+            {
+              "term": "lay the city flat",
+              "title": "lay the city flat",
+              "type": "Nota filológica",
+              "gloss": "arrasar la ciudad",
+              "body": "Coriolano retoma la imagen de destrucción enunciada por el primer senador en 1916: ahora la atribuye a la autoridad de los tribunos. Lectura de la continuidad retórica: Folger, Coriolanus III.1, líneas 1916 y 1924–1927, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/"
+            },
+            {
+              "term": "distinctly ranges",
+              "title": "distinctly ranges",
+              "type": "Nota filológica",
+              "gloss": "permanece ordenado y diferenciado",
+              "body": "«Range» alude a elementos dispuestos en un orden reconocible; «distinctly» refuerza esa diferenciación. La imagen arquitectónica puede leerse como metáfora de la jerarquía civil. Cotejo: Folger, Coriolanus III.1, 1924–1927, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT, III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html",
+              "lemma": "range",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/range"
+            }
+          ]
+        },
+        {
+          "line": "1928",
+          "speaker": "sicinius",
+          "en": "This deserves death.",
+          "es": "Esto merece la muerte.",
+          "notes": []
+        },
+        {
+          "line": "1929–1933",
+          "speaker": "brutus",
+          "en": "Or let us stand to our authority\nOr let us lose it. We do here pronounce,\nUpon the part o’ th’ people, in whose power\nWe were elected theirs, Martius is worthy\nOf present death.",
+          "es": "O hacemos valer nuestra autoridad\no la perdemos. Aquí declaramos,\nen nombre del pueblo, por cuya potestad\nfuimos elegidos sus representantes, que Marcio merece\nla muerte inmediata.",
+          "notes": [
+            {
+              "term": "stand to our authority",
+              "title": "stand to our authority",
+              "type": "Nota filológica",
+              "gloss": "hacer valer nuestra autoridad",
+              "body": "«Stand to» implica mantenerse firme en una posición y sostener su validez. Bruto presenta la sentencia como una prueba decisiva de la autoridad tribunicia. Folger, Coriolanus III.1, 1929–1933, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/",
+              "lemma": "stand",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/stand"
+            },
+            {
+              "term": "Upon the part o’ th’ people",
+              "title": "Upon the part o’ th’ people",
+              "type": "Nota filológica",
+              "gloss": "en nombre del pueblo",
+              "body": "Fórmula de representación: Bruto reivindica actuar por delegación del pueblo. La legitimidad de esa declaración es precisamente el objeto del conflicto, no un hecho que la edición deba dar por sentado. Folger, Coriolanus III.1, 1929–1933, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/"
+            },
+            {
+              "term": "present death",
+              "title": "present death",
+              "type": "Nota filológica",
+              "gloss": "muerte inmediata",
+              "body": "«Present» tiene aquí valor temporal de inmediatez, no el de «presente» como objeto entregado. Folger, Coriolanus III.1, 1932–1933, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/",
+              "lemma": "present",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/present"
+            }
+          ]
+        },
+        {
+          "line": "1934–1936",
+          "speaker": "sicinius",
+          "en": "Therefore lay hold of him,\nBear him to th’ rock Tarpeian, and from thence\nInto destruction cast him.",
+          "es": "Por tanto, sujétenlo,\nllévenlo a la roca Tarpeya y desde allí\narrójenlo a la muerte.",
+          "notes": [
+            {
+              "term": "rock Tarpeian",
+              "title": "rock Tarpeian",
+              "type": "Nota filológica",
+              "gloss": "roca Tarpeya",
+              "body": "Escarpe del Capitolio romano asociado con la ejecución de condenados, especialmente traidores. Su localización precisa ha sido objeto de debate entre las fuentes antiguas; no debe darse por cierta una ubicación única. Ian A. Richmond y John Patterson, «Tarpeian Rock», Oxford Classical Dictionary (2016), DOI: https://doi.org/10.1093/acrefore/9780199381135.013.6225; Folger, Coriolanus III.1, 1935, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/"
+            }
+          ]
+        },
+        {
+          "line": "1937",
+          "speaker": "brutus",
+          "en": "Aediles, seize him!",
+          "es": "¡Ediles, deténganlo!",
+          "notes": [
+            {
+              "term": "Aediles",
+              "title": "Aediles",
+              "type": "Nota filológica",
+              "gloss": "ediles",
+              "body": "Magistrados romanos que aquí actúan como agentes de la orden de los tribunos. El drama adapta las instituciones republicanas a su conflicto escénico; no presupone una reconstrucción institucional exhaustiva. Folger, Coriolanus III.1, 1937, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/"
+            }
+          ]
+        },
+        {
+          "line": "1938",
+          "speaker": "plebeians",
+          "en": "Yield, Martius, yield!",
+          "es": "¡Ríndete, Marcio, ríndete!",
+          "notes": []
+        },
+        {
+          "line": "1939–1940",
+          "speaker": "menenius",
+          "en": "Hear me one word.\nBeseech you, tribunes, hear me but a word.",
+          "es": "Escúchenme un momento.\nSe lo ruego, tribunos: escúchenme tan solo un momento.",
+          "notes": [
+            {
+              "term": "one word",
+              "title": "one word",
+              "type": "Nota filológica",
+              "gloss": "un momento; unas palabras",
+              "body": "«One word» no exige que se pronuncie literalmente una sola palabra: es una petición de breve audiencia, reiterada para abrir espacio a la mediación. Folger, Coriolanus III.1, 1939–1940, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/"
+            }
+          ]
+        },
+        {
+          "line": "1941",
+          "speaker": "aediles",
+          "en": "Peace, peace!",
+          "es": "¡Silencio, silencio!",
+          "notes": []
+        },
+        {
+          "line": "1942–1944",
+          "speaker": "menenius",
+          "en": "Be that you seem, truly your country’s friend,\nAnd temp’rately proceed to what you would\nThus violently redress.",
+          "es": "Sean lo que aparentan ser: verdaderos amigos de su patria,\ny procedan con mesura al corregir aquello\nque ahora quieren remediar con tanta violencia.",
+          "notes": [
+            {
+              "term": "Be that you seem",
+              "title": "Be that you seem",
+              "type": "Nota filológica",
+              "gloss": "sean lo que aparentan ser",
+              "body": "Imperativo que contrapone apariencia pública y conducta efectiva. Menenio pide a los tribunos que prueben su patriotismo moderando la reacción. Folger, Coriolanus III.1, 1942–1944, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/"
+            },
+            {
+              "term": "temp’rately",
+              "title": "temp’rately",
+              "type": "Nota filológica",
+              "gloss": "con mesura; moderadamente",
+              "body": "Adverbio de «temperate», aquí opuesto a «violently» en el mismo parlamento; no se refiere a la temperatura. Folger, Coriolanus III.1, 1942–1944, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/",
+              "lemma": "temperately",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/temperately"
+            },
+            {
+              "term": "redress",
+              "title": "redress",
+              "type": "Nota filológica",
+              "gloss": "remediar; reparar un agravio",
+              "body": "«Redress» expresa corregir un daño o agravio; la disputa consiste en cómo hacerlo. Folger, Coriolanus III.1, 1942–1944, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/",
+              "lemma": "redress",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/redress"
             }
           ]
         }
