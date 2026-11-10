@@ -16847,6 +16847,160 @@ window.SHAKESPEARE_READER_DATA = {
               "lemmaUrl": "https://en.wiktionary.org/wiki/go"
             }
           ]
+        },
+        {
+          "line": "2309–2314",
+          "speaker": "brutus",
+          "en": "Put him to choler straight. He hath been used\nEver to conquer and to have his worth\nOf contradiction. Being once chafed, he cannot\nBe reined again to temperance; then he speaks\nWhat’s in his heart, and that is there which looks\nWith us to break his neck.",
+          "es": "Provóquenle la ira de inmediato. Está acostumbrado\na vencer siempre y a recibir toda la oposición que le corresponde.\nUna vez irritado, ya no se lo puede contener\nni devolver a la moderación; entonces dice\nlo que lleva en el corazón, y allí hay algo que,\nsi lo aprovechamos, acabará por perderlo.",
+          "notes": [
+            {
+              "term": "choler",
+              "title": "choler",
+              "type": "Nota filológica",
+              "gloss": "ira; cólera",
+              "body": "Designa una emoción y un temperamento irascible; Bruto propone provocarlo deliberadamente. Fuentes: Folger Shakespeare Library, Coriolanus III.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/); MIT Shakespeare, Coriolanus III.3 (https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html).",
+              "lemma": "choler",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/choler"
+            },
+            {
+              "term": "have his worth",
+              "title": "have his worth",
+              "type": "Nota filológica",
+              "gloss": "recibir su cuota de oposición",
+              "body": "Construcción interpretativamente difícil: «worth / Of contradiction» cuantifica la oposición que recibe. No equivale simplemente a elogios. Fuentes: Folger Shakespeare Library, Coriolanus III.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/); MIT Shakespeare, Coriolanus III.3 (https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html).",
+              "lemma": "worth",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/worth"
+            },
+            {
+              "term": "chafed",
+              "title": "chafed",
+              "type": "Nota filológica",
+              "gloss": "irritado",
+              "body": "Participio de «chafe», figurado para la irritación. Fuentes: Folger Shakespeare Library, Coriolanus III.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/); MIT Shakespeare, Coriolanus III.3 (https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html).",
+              "lemma": "chafe",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/chafe"
+            },
+            {
+              "term": "reined again to temperance",
+              "title": "reined again to temperance",
+              "type": "Nota filológica",
+              "gloss": "volver a contenerlo hasta la moderación",
+              "body": "La rienda convierte el autocontrol en la sujeción de un caballo; «temperance» es moderación. Fuentes: Folger Shakespeare Library, Coriolanus III.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/); MIT Shakespeare, Coriolanus III.3 (https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html).",
+              "lemma": "rein",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/rein"
+            },
+            {
+              "term": "break his neck",
+              "title": "break his neck",
+              "type": "Nota filológica",
+              "gloss": "acabar con él; causar su ruina",
+              "body": "Imagen violenta de destrucción, no necesariamente una fractura literal. Fuentes: Folger Shakespeare Library, Coriolanus III.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/); MIT Shakespeare, Coriolanus III.3 (https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html).",
+              "lemma": "neck",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/neck"
+            }
+          ]
+        },
+        {
+          "line": "2315",
+          "speaker": "sicinius",
+          "en": "Well, here he comes.",
+          "es": "Bien, aquí viene.",
+          "notes": []
+        },
+        {
+          "line": "2316–2317",
+          "speaker": "menenius",
+          "en": "Calmly, I do beseech\nyou.",
+          "es": "Con calma, te lo suplico.",
+          "notes": [
+            {
+              "term": "beseech",
+              "title": "beseech",
+              "type": "Nota filológica",
+              "gloss": "suplicar; rogar",
+              "body": "El auxiliar «do» intensifica la súplica. Folger divide tipográficamente «beseech / you». Fuentes: Folger Shakespeare Library, Coriolanus III.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/); MIT Shakespeare, Coriolanus III.3 (https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html).",
+              "lemma": "beseech",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/beseech"
+            }
+          ]
+        },
+        {
+          "line": "2318–2324",
+          "speaker": "coriolanus",
+          "en": "Ay, as an hostler that for th’ poorest piece\nWill bear the knave by th’ volume.—Th’ honored\ngods\nKeep Rome in safety and the chairs of justice\nSupplied with worthy men! Plant love among ’s!\nThrong our large temples with the shows of peace\nAnd not our streets with war!",
+          "es": "Sí, como un mozo de establo que, por la moneda más miserable,\nsoporta a un bribón y todas sus insolencias.—¡Que los venerables\ndioses\nmantengan a Roma a salvo y ocupen los puestos de justicia\ncon hombres dignos! ¡Que siembren el afecto entre nosotros!\n¡Que llenen nuestros grandes templos de manifestaciones de paz,\ny no nuestras calles de guerra!",
+          "notes": [
+            {
+              "term": "hostler",
+              "title": "hostler",
+              "type": "Nota filológica",
+              "gloss": "mozo de establo",
+              "body": "La comparación rebaja irónicamente la sumisión exigida a Coriolano; «hostler» es una forma histórica de «ostler». Fuentes: Folger Shakespeare Library, Coriolanus III.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/); MIT Shakespeare, Coriolanus III.3 (https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html).",
+              "lemma": "ostler",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/ostler"
+            },
+            {
+              "term": "poorest piece",
+              "title": "poorest piece",
+              "type": "Nota filológica",
+              "gloss": "moneda de valor ínfimo",
+              "body": "«Piece» es aquí una pieza monetaria: una recompensa insignificante. Fuentes: Folger Shakespeare Library, Coriolanus III.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/); MIT Shakespeare, Coriolanus III.3 (https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html).",
+              "lemma": "piece",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/piece"
+            },
+            {
+              "term": "bear the knave by th’ volume",
+              "title": "bear the knave by th’ volume",
+              "type": "Nota filológica",
+              "gloss": "soportar las insolencias del bribón en abundancia",
+              "body": "Locución difícil; «volume» puede sugerir cantidad o extensión. La traducción es interpretativa, no una lectura textual incontrovertible. Fuentes: Folger Shakespeare Library, Coriolanus III.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/); MIT Shakespeare, Coriolanus III.3 (https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html).",
+              "lemma": "volume",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/volume"
+            },
+            {
+              "term": "chairs of justice",
+              "title": "chairs of justice",
+              "type": "Nota filológica",
+              "gloss": "magistraturas; puestos de justicia",
+              "body": "Metonimia por quienes administran justicia; contrasta con el aparte sarcástico anterior. Fuentes: Folger Shakespeare Library, Coriolanus III.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/); MIT Shakespeare, Coriolanus III.3 (https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html).",
+              "lemma": "chair",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/chair"
+            },
+            {
+              "term": "Throng",
+              "title": "Throng",
+              "type": "Nota filológica",
+              "gloss": "llenar; abarrotar",
+              "body": "Imperativo transitivo dentro de la invocación a los dioses. Fuentes: Folger Shakespeare Library, Coriolanus III.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/); MIT Shakespeare, Coriolanus III.3 (https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html).",
+              "lemma": "throng",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/throng"
+            }
+          ]
+        },
+        {
+          "line": "2325",
+          "speaker": "first_senator",
+          "en": "Amen, amen.",
+          "es": "Amén, amén.",
+          "notes": [
+            {
+              "term": "Amen",
+              "title": "Amen",
+              "type": "Nota filológica",
+              "gloss": "así sea",
+              "body": "Fórmula de asentimiento religioso en la escena de la Roma antigua; su empleo corresponde al lenguaje dramático de Shakespeare. Fuentes: Folger Shakespeare Library, Coriolanus III.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/); MIT Shakespeare, Coriolanus III.3 (https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html).",
+              "lemma": "amen",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/amen"
+            }
+          ]
+        },
+        {
+          "line": "2326",
+          "speaker": "menenius",
+          "en": "A noble wish.",
+          "es": "Un noble deseo.",
+          "notes": []
         }
       ]
     }

@@ -1120,13 +1120,22 @@
       "last_line": 2308,
       "editorial_state": "translated_source_checked_external_references",
       "note": "Ten complete speeches; Folger III.3 checked against MIT; Plutarch Life of Coriolanus 20 used for Roman voting procedure. Folger hear vs MIT bear recorded cautiously. Private references and retrospective review pending."
+    },
+    {
+      "id": "coriolanus-3-3-2309-2326",
+      "act": 3,
+      "scene": 3,
+      "first_line": 2309,
+      "last_line": 2326,
+      "editorial_state": "translated_source_checked_external_references",
+      "note": "Six complete speeches, Folger III.3 and MIT compared. Twelve contextual notes with Spanish glosses and references. Private references and retrospective review pending."
     }
   ],
   "next_fragment": {
     "act": 3,
     "scene": 3,
-    "first_line": 2309,
-    "note": "Continue Brutus' speech after the Aedile exits; stop at a complete speech boundary."
+    "first_line": 2327,
+    "note": "Continue at Sicinius' summons to the people; preserve complete speech boundaries."
   },
   "completed_acts": [],
   "last_update_commit": "pending_atomic_commit",
