@@ -16558,9 +16558,9 @@ window.SHAKESPEARE_READER_DATA = {
       "scene": 3,
       "place": "Roma · El foro",
       "sourceRef": "Folger Shakespeare Library · Acto III, escena 3",
-      "sectionLabel": "Edición en curso · líneas 2277–2286",
+      "sectionLabel": "Edición en curso · líneas 2277–2308",
       "introduction": "Bruto y Sicinio preparan los cargos contra Coriolano antes de su comparecencia.",
-      "stage": "Entran Sicinio y Bruto. Entra un edil después de la línea 2281.",
+      "stage": "Entran Sicinio y Bruto. Entra un edil después de la línea 2281; sale después de la línea 2308.",
       "characters": [
         {
           "id": "brutus",
@@ -16654,6 +16654,199 @@ window.SHAKESPEARE_READER_DATA = {
           "en": "With old Menenius, and those senators\nThat always favored him.",
           "es": "El viejo Menenio y los senadores\nque siempre lo han apoyado.",
           "notes": []
+        },
+        {
+          "line": "2287–2289",
+          "speaker": "sicinius",
+          "en": "Have you a catalogue\nOf all the voices that we have procured,\nSet down by th’ poll?",
+          "es": "¿Tienes una lista\nde todos los votos que hemos conseguido,\nregistrados uno por uno?",
+          "notes": [
+            {
+              "term": "voices",
+              "title": "voices",
+              "type": "Nota filológica",
+              "gloss": "votos",
+              "body": "«Voices» designa aquí los sufragios, no las voces acústicas; la polisemia cobra fuerza cuando luego se ordena gritar a la multitud. Referencias: Folger Shakespeare Library, Coriolanus III.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/; MIT Shakespeare, III.3, https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html.",
+              "lemma": "voice",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/voice"
+            },
+            {
+              "term": "by th’ poll",
+              "title": "by th’ poll",
+              "type": "Nota filológica",
+              "gloss": "uno por uno; por cabeza",
+              "body": "«Poll» alude al recuento individual. No debe confundirse este registro con la posterior agrupación por tribus. Plutarco, Vida de Coriolano 20.2–4, distingue votación por centurias y por tribus. Referencias: Folger Shakespeare Library, Coriolanus III.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/; Plutarco, Vida de Coriolano 20, trad. Bernadotte Perrin, https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Coriolanus%2A.html; MIT Shakespeare, III.3, https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html.",
+              "lemma": "poll",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/poll"
+            }
+          ]
+        },
+        {
+          "line": "2290",
+          "speaker": "aedile",
+          "en": "I have. ’Tis ready.",
+          "es": "Sí. La tengo preparada.",
+          "notes": []
+        },
+        {
+          "line": "2291",
+          "speaker": "sicinius",
+          "en": "Have you collected them by tribes?",
+          "es": "¿Los has agrupado por tribus?",
+          "notes": [
+            {
+              "term": "by tribes",
+              "title": "by tribes",
+              "type": "Nota filológica",
+              "gloss": "por tribus",
+              "body": "La organización por tribus es una modalidad romana de votación, distinta de la votación por centurias. Plutarco, Vida de Coriolano 20.2–4, refiere que los tribunos impusieron este sistema y que la condena resultó de una mayoría de tres tribus. Referencias: Folger Shakespeare Library, Coriolanus III.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/; Plutarco, Vida de Coriolano 20, trad. Bernadotte Perrin, https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Coriolanus%2A.html; MIT Shakespeare, III.3, https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html.",
+              "lemma": "tribe",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/tribe"
+            }
+          ]
+        },
+        {
+          "line": "2292",
+          "speaker": "aedile",
+          "en": "I have.",
+          "es": "Sí.",
+          "notes": []
+        },
+        {
+          "line": "2293–2299",
+          "speaker": "sicinius",
+          "en": "Assemble presently the people hither;\nAnd when they hear me say “It shall be so\nI’ th’ right and strength o’ th’ commons,” be it either\nFor death, for fine, or banishment, then let them\nIf I say “Fine,” cry “Fine,” if “Death,” cry “Death,”\nInsisting on the old prerogative\nAnd power i’ th’ truth o’ th’ cause.",
+          "es": "Reúne enseguida aquí al pueblo;\ny cuando me oigan decir «Así se hará,\npor el derecho y la fuerza del pueblo», ya se trate\nde muerte, multa o destierro, haz que,\nsi digo «Multa», griten «¡Multa!», y si digo «Muerte», «¡Muerte!»,\nreivindicando su antigua prerrogativa\ny la autoridad que les da la justicia de su causa.",
+          "notes": [
+            {
+              "term": "presently",
+              "title": "presently",
+              "type": "Nota filológica",
+              "gloss": "enseguida",
+              "body": "En el inglés de la época «presently» puede significar «inmediatamente», no «actualmente». Referencias: Folger Shakespeare Library, Coriolanus III.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/; MIT Shakespeare, III.3, https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html.",
+              "lemma": "presently",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/presently"
+            },
+            {
+              "term": "hear",
+              "title": "hear",
+              "type": "Nota filológica",
+              "gloss": "oigan",
+              "body": "Folger imprime «hear»; la transcripción MIT ofrece «bear». Se sigue la lectura de Folger; la divergencia entre transcripciones no se presenta aquí como variante comprobada del First Folio. Referencias: Folger Shakespeare Library, Coriolanus III.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/; MIT Shakespeare, III.3, https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html.",
+              "lemma": "hear",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/hear"
+            },
+            {
+              "term": "I’ th’ right and strength o’ th’ commons",
+              "title": "I’ th’ right and strength o’ th’ commons",
+              "type": "Nota filológica",
+              "gloss": "por el derecho y la fuerza del pueblo",
+              "body": "Fórmula de legitimación que Sicinio ordena usar antes de obtener una respuesta coral previamente preparada. «Commons» designa al pueblo llano como cuerpo político. Referencias: Folger Shakespeare Library, Coriolanus III.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/; MIT Shakespeare, III.3, https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html.",
+              "lemma": "commons",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/commons"
+            },
+            {
+              "term": "old prerogative",
+              "title": "old prerogative",
+              "type": "Nota filológica",
+              "gloss": "antigua prerrogativa",
+              "body": "El lenguaje de un derecho tradicional legitima retóricamente una respuesta ya organizada. Es una interpretación dramática de la maniobra, no una comprobación histórica de la prerrogativa exacta. Referencias: Folger Shakespeare Library, Coriolanus III.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/; MIT Shakespeare, III.3, https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html.",
+              "lemma": "prerogative",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/prerogative"
+            }
+          ]
+        },
+        {
+          "line": "2300",
+          "speaker": "aedile",
+          "en": "I shall inform them.",
+          "es": "Les transmitiré las instrucciones.",
+          "notes": []
+        },
+        {
+          "line": "2301–2304",
+          "speaker": "brutus",
+          "en": "And when such time they have begun to cry,\nLet them not cease, but with a din confused\nEnforce the present execution\nOf what we chance to sentence.",
+          "es": "Y una vez que hayan empezado a gritar,\nque no se detengan: con un clamor ensordecedor,\nque exijan la ejecución inmediata\nde cualquier sentencia que lleguemos a dictar.",
+          "notes": [
+            {
+              "term": "din confused",
+              "title": "din confused",
+              "type": "Nota filológica",
+              "gloss": "clamor ensordecedor",
+              "body": "«Confused» califica el tumulto de voces mezcladas: no se trata de confusión mental sino de un estrépito colectivo. Referencias: Folger Shakespeare Library, Coriolanus III.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/; MIT Shakespeare, III.3, https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html.",
+              "lemma": "din",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/din"
+            },
+            {
+              "term": "present execution",
+              "title": "present execution",
+              "type": "Nota filológica",
+              "gloss": "ejecución inmediata",
+              "body": "«Execution» significa aquí hacer efectiva la sentencia, no necesariamente ejecutar a una persona: las penas posibles incluyen multa y destierro. Referencias: Folger Shakespeare Library, Coriolanus III.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/; MIT Shakespeare, III.3, https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html.",
+              "lemma": "execution",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/execution"
+            },
+            {
+              "term": "chance to sentence",
+              "title": "chance to sentence",
+              "type": "Nota filológica",
+              "gloss": "lleguemos a dictar como sentencia",
+              "body": "«Chance» expresa contingencia o eventualidad, aunque la reacción del pueblo ya está coreografiada. Referencias: Folger Shakespeare Library, Coriolanus III.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/; MIT Shakespeare, III.3, https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html.",
+              "lemma": "chance",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/chance"
+            }
+          ]
+        },
+        {
+          "line": "2305",
+          "speaker": "aedile",
+          "en": "Very well.",
+          "es": "Muy bien.",
+          "notes": []
+        },
+        {
+          "line": "2306–2307",
+          "speaker": "sicinius",
+          "en": "Make them be strong and ready for this hint\nWhen we shall hap to give ’t them.",
+          "es": "Procura que estén resueltos y preparados para esta señal\ncuando se la demos.",
+          "notes": [
+            {
+              "term": "hint",
+              "title": "hint",
+              "type": "Nota filológica",
+              "gloss": "señal; indicación convenida",
+              "body": "«Hint» es la señal que desencadenará la intervención colectiva; el parlamento hace explícita la coordinación previa. Referencias: Folger Shakespeare Library, Coriolanus III.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/; MIT Shakespeare, III.3, https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html.",
+              "lemma": "hint",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/hint"
+            },
+            {
+              "term": "hap",
+              "title": "hap",
+              "type": "Nota filológica",
+              "gloss": "ocurrir; llegar a suceder",
+              "body": "Forma verbal equivalente a «happen» en esta construcción; no es un imperativo. La expresión «shall hap to» indica que la señal llegará en el momento oportuno. Referencias: Folger Shakespeare Library, Coriolanus III.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/; MIT Shakespeare, III.3, https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html.",
+              "lemma": "hap",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/hap"
+            }
+          ]
+        },
+        {
+          "line": "2308",
+          "speaker": "brutus",
+          "en": "Go about it.",
+          "es": "Ocúpate de ello.",
+          "notes": [
+            {
+              "term": "Go about it",
+              "title": "Go about it",
+              "type": "Nota filológica",
+              "gloss": "ocúpate de ello",
+              "body": "Imperativo idiomático que ordena ejecutar el encargo, no desplazarse físicamente alrededor de algo. Referencias: Folger Shakespeare Library, Coriolanus III.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/; MIT Shakespeare, III.3, https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html.",
+              "lemma": "go",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/go"
+            }
+          ]
         }
       ]
     }
