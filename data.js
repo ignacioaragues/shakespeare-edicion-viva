@@ -16449,6 +16449,104 @@ window.SHAKESPEARE_READER_DATA = {
               "lemmaUrl": "https://en.wiktionary.org/wiki/will"
             }
           ]
+        },
+        {
+          "line": "2268–2271",
+          "speaker": "cominius",
+          "en": "Away! The Tribunes do attend you. Arm yourself\nTo answer mildly, for they are prepared\nWith accusations, as I hear, more strong\nThan are upon you yet.",
+          "es": "¡Vamos! Los tribunos te esperan. Prepárate\npara responder con moderación, pues, según me han dicho,\ntienen dispuestas acusaciones más graves\nque las formuladas contra ti hasta ahora.",
+          "notes": [
+            {
+              "term": "do attend you",
+              "title": "do attend you",
+              "type": "Nota filológica",
+              "gloss": "te esperan",
+              "body": "El auxiliar «do» refuerza aquí el presente; «attend» significa esperar la llegada de alguien, no asistirlo. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; First Folio transcription, Wikisource, https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_3_Scene_2.",
+              "lemma": "attend",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/attend"
+            },
+            {
+              "term": "Arm yourself",
+              "title": "Arm yourself",
+              "type": "Nota filológica",
+              "gloss": "prepárate; ármate de paciencia",
+              "body": "La metáfora militar traslada el lenguaje del combate al dominio de la palabra: la defensa requerida es la moderación verbal. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; First Folio transcription, Wikisource, https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_3_Scene_2.",
+              "lemma": "arm",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/arm"
+            },
+            {
+              "term": "more strong",
+              "title": "more strong",
+              "type": "Nota filológica",
+              "gloss": "más graves; más contundentes",
+              "body": "«Strong» califica la fuerza de las acusaciones, no la fuerza física de sus autores. «More strong» funciona como comparativo analítico. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; First Folio transcription, Wikisource, https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_3_Scene_2.",
+              "lemma": "strong",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/strong"
+            }
+          ]
+        },
+        {
+          "line": "2272–2274",
+          "speaker": "coriolanus",
+          "en": "The word is “mildly.” Pray you, let us go.\nLet them accuse me by invention, I\nWill answer in mine honor.",
+          "es": "La palabra es «con moderación». Les ruego que vayamos.\nQue inventen todas las acusaciones que quieran:\nyo responderé conforme a mi honor.",
+          "notes": [
+            {
+              "term": "The word is “mildly.”",
+              "title": "The word is “mildly.”",
+              "type": "Nota filológica",
+              "gloss": "la consigna es «con moderación»",
+              "body": "La repetición irónica convierte la moderación en una palabra que Coriolano intenta memorizar, sin garantizar que pueda practicarla. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; First Folio transcription, Wikisource, https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_3_Scene_2."
+            },
+            {
+              "term": "by invention",
+              "title": "by invention",
+              "type": "Nota filológica",
+              "gloss": "con acusaciones inventadas",
+              "body": "«Invention» aquí señala fabricación de cargos, según la perspectiva de Coriolano; no prueba que los cargos sean efectivamente falsos. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; First Folio transcription, Wikisource, https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_3_Scene_2.",
+              "lemma": "invention",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/invention"
+            },
+            {
+              "term": "in mine honor",
+              "title": "in mine honor",
+              "type": "Nota filológica",
+              "gloss": "conforme a mi honor",
+              "body": "El posesivo «mine» ante vocal es una forma histórica equivalente a «my»; la expresión insiste en el código personal de honor frente a la estrategia de sus consejeros. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; First Folio transcription, Wikisource, https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_3_Scene_2.",
+              "lemma": "mine",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/mine"
+            }
+          ]
+        },
+        {
+          "line": "2275",
+          "speaker": "menenius",
+          "en": "Ay, but mildly.",
+          "es": "Sí, pero con moderación.",
+          "notes": [
+            {
+              "term": "but mildly",
+              "title": "but mildly",
+              "type": "Nota filológica",
+              "gloss": "pero con moderación",
+              "body": "Menenio corrige el énfasis de Coriolano en su honor: lo decisivo será el tono de la respuesta. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; First Folio transcription, Wikisource, https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_3_Scene_2."
+            }
+          ]
+        },
+        {
+          "line": "2276",
+          "speaker": "coriolanus",
+          "en": "Well, mildly be it, then. Mildly.",
+          "es": "Está bien, entonces será con moderación. Con moderación.",
+          "notes": [
+            {
+              "term": "Mildly",
+              "title": "Mildly",
+              "type": "Nota filológica",
+              "gloss": "con moderación",
+              "body": "La triple insistencia de los últimos intercambios produce un cierre de escena irónico: la palabra repetida anticipa la dificultad de sostener esa conducta en III.3. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; First Folio transcription, Wikisource, https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_3_Scene_2."
+            }
+          ]
         }
       ]
     }

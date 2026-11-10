@@ -1093,13 +1093,22 @@
       "last_line": 2267,
       "editorial_state": "translated_source_checked_external_references",
       "note": "Three complete speeches (Volumnia, Coriolanus, Volumnia); Folger III.2 and Shakespeare Online compared; 12 contextual notes. Private PDF/EPUB and retrospective review pending."
+    },
+    {
+      "id": "coriolanus-3-2-2268-2276",
+      "act": 3,
+      "scene": 2,
+      "first_line": 2268,
+      "last_line": 2276,
+      "editorial_state": "translated_source_checked_external_references",
+      "note": "Final four speeches and stage exit of III.2; Folger online and First Folio transcription checked; eight contextual notes. Retrospective review and private reference comparison pending."
     }
   ],
   "next_fragment": {
     "act": 3,
-    "scene": 2,
-    "first_line": 2268,
-    "note": "Cominius' counsel (2268–2271), Coriolanus and Menenius' final exchange through 2276; scene ending."
+    "scene": 3,
+    "first_line": 2277,
+    "note": "Begin scene III.3 with Brutus and Sicinius preparing charges against Coriolanus; establish scene navigation before publication."
   },
   "completed_acts": [],
   "last_update_commit": "pending_atomic_commit",
