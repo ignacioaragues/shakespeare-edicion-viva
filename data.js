@@ -11730,7 +11730,7 @@ window.SHAKESPEARE_READER_DATA = {
       "scene": 1,
       "place": "Roma · Una calle, camino del Capitolio",
       "sourceRef": "Folger Shakespeare Library · Acto III, escena 1",
-      "sectionLabel": "Edición en curso · líneas 1669–2055",
+      "sectionLabel": "Edición en curso · líneas 1721–2099",
       "introduction": "Tras la votación, Coriolano conversa con los generales sobre Aufidio. La irrupción de los tribunos alterará pronto la marcha hacia el consulado.",
       "stage": "Suenan cornetas. Entran Coriolano, Menenio, Cominio, Tito Larcio, patricios y senadores.",
       "characters": [
@@ -15061,6 +15061,160 @@ window.SHAKESPEARE_READER_DATA = {
               "lemmaUrl": "https://en.wiktionary.org/wiki/smite"
             }
           ]
+        },
+        {
+          "line": "2076–2082",
+          "speaker": "menenius",
+          "en": "Consider this: he has been bred i’ th’ wars\nSince he could draw a sword, and is ill schooled\nIn bolted language; meal and bran together\nHe throws without distinction. Give me leave,\nI’ll go to him and undertake to bring him\nWhere he shall answer by a lawful form,\nIn peace, to his utmost peril.",
+          "es": "Consideren esto: se ha criado en la guerra\ndesde que pudo empuñar una espada, y poco ha aprendido\ndel lenguaje refinado: arroja juntos la harina y el salvado,\nsin distinguirlos. Denme permiso;\niré a verlo y me comprometo a traerlo\npara que responda conforme a un procedimiento legal,\nen paz, aunque se exponga al mayor peligro.",
+          "notes": [
+            {
+              "term": "bred i’ th’ wars",
+              "title": "bred i’ th’ wars",
+              "type": "Nota filológica",
+              "gloss": "criado en la guerra",
+              "body": "Menenio presenta la formación militar como explicación del habla brusca, no como exención jurídica. Fuentes: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, Coriolanus III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "lemma": "breed",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/breed"
+            },
+            {
+              "term": "bolted language",
+              "title": "bolted language",
+              "type": "Nota filológica",
+              "gloss": "lenguaje tamizado, depurado",
+              "body": "«Bolted» remite a cernir harina: el habla seleccionada contrasta con el discurso sin filtrar del soldado. Fuentes: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, Coriolanus III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "lemma": "bolt",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/bolt"
+            },
+            {
+              "term": "meal and bran",
+              "title": "meal and bran",
+              "type": "Nota filológica",
+              "gloss": "harina y salvado",
+              "body": "Harina fina y salvado, separados al cernir el grano, figuran palabras convenientes y ofensivas mezcladas. Fuentes: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, Coriolanus III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "lemma": "bran",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/bran"
+            },
+            {
+              "term": "by a lawful form",
+              "title": "by a lawful form",
+              "type": "Nota filológica",
+              "gloss": "mediante un procedimiento legal",
+              "body": "Se opone el proceso regulado a la ejecución inmediata reclamada por los tribunos. Fuentes: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, Coriolanus III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "lemma": "lawful",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/lawful"
+            },
+            {
+              "term": "to his utmost peril",
+              "title": "to his utmost peril",
+              "type": "Nota filológica",
+              "gloss": "aunque corra el máximo peligro",
+              "body": "La comparecencia no garantiza absolución: Coriolano afrontaría incluso la pena máxima. Fuentes: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, Coriolanus III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "lemma": "peril",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/peril"
+            }
+          ]
+        },
+        {
+          "line": "2083–2086",
+          "speaker": "first-senator",
+          "en": "Noble tribunes,\nIt is the humane way: the other course\nWill prove too bloody, and the end of it\nUnknown to the beginning.",
+          "es": "Nobles tribunos,\nese es el camino humano; la otra opción\nresultará demasiado sangrienta, y nadie puede saber,\nal iniciarla, cómo terminará.",
+          "notes": [
+            {
+              "term": "the end of it / Unknown to the beginning",
+              "title": "the end of it / Unknown to the beginning",
+              "type": "Nota filológica",
+              "gloss": "un desenlace imprevisible al comienzo",
+              "body": "Advertencia sobre las consecuencias impredecibles de la violencia política. Fuentes: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, Coriolanus III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "lemma": "end",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/end"
+            }
+          ]
+        },
+        {
+          "line": "2087–2089",
+          "speaker": "sicinius",
+          "en": "Noble Menenius,\nBe you then as the people’s officer.—\nMasters, lay down your weapons.",
+          "es": "Noble Menenio,\nactúa entonces como representante del pueblo.\nSeñores, depongan las armas.",
+          "notes": [
+            {
+              "term": "as the people’s officer",
+              "title": "as the people’s officer",
+              "type": "Nota filológica",
+              "gloss": "como representante del pueblo",
+              "body": "Concesión de una función mediadora, sin que Menenio se convierta formalmente en tribuno. Fuentes: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, Coriolanus III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "lemma": "officer",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/officer"
+            }
+          ]
+        },
+        {
+          "line": "2090",
+          "speaker": "brutus",
+          "en": "Go not home.",
+          "es": "No vuelvan a sus casas.",
+          "notes": [
+            {
+              "term": "Go not home",
+              "title": "Go not home",
+              "type": "Nota filológica",
+              "gloss": "no se dispersen",
+              "body": "Imperativo negativo dirigido a la multitud: Bruto la mantiene movilizada. Fuentes: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, Coriolanus III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "lemma": "go",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/go"
+            }
+          ]
+        },
+        {
+          "line": "2091–2094",
+          "speaker": "sicinius",
+          "en": "Meet on the marketplace. We’ll attend you there,\nWhere if you bring not Martius, we’ll proceed\nIn our first way.",
+          "es": "Reúnanse en la plaza del mercado. Allí te esperaremos,\ny, si no traes a Marcio, procederemos\ncomo habíamos decidido al principio.",
+          "notes": [
+            {
+              "term": "marketplace",
+              "title": "marketplace",
+              "type": "Nota filológica",
+              "gloss": "plaza del mercado",
+              "body": "Lugar público de reunión donde los tribunos esperan la comparecencia. Fuentes: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, Coriolanus III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "lemma": "marketplace",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/marketplace"
+            },
+            {
+              "term": "our first way",
+              "title": "our first way",
+              "type": "Nota filológica",
+              "gloss": "la vía inicialmente prevista",
+              "body": "Amenaza condicional de retomar la ejecución sumaria si Menenio no presenta a Coriolano. Fuentes: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, Coriolanus III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "lemma": "way",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/way"
+            }
+          ]
+        },
+        {
+          "line": "2095–2098",
+          "speaker": "menenius",
+          "en": "I’ll bring him to you. Let me desire your company. He must come,\nOr what is worst will follow.",
+          "es": "Se lo traeré. Les ruego que me acompañen.\nTiene que venir,\no sucederá lo peor.",
+          "notes": [
+            {
+              "term": "Let me desire your company",
+              "title": "Let me desire your company",
+              "type": "Nota filológica",
+              "gloss": "les ruego que me acompañen",
+              "body": "Folger dirige estas palabras a los senadores en una acotación; Menenio solicita apoyo para persuadir a Coriolano. Fuentes: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, Coriolanus III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "lemma": "desire",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/desire"
+            }
+          ]
+        },
+        {
+          "line": "2099",
+          "speaker": "first-senator",
+          "en": "Pray you, let’s to him.",
+          "es": "Por favor, vayamos a verlo.",
+          "notes": []
         }
       ]
     }

@@ -1003,13 +1003,22 @@
       "last_line": 2075,
       "editorial_state": "translated_source_checked_external_references",
       "note": "Seven complete speeches; Folger III.1, Murray's historical Cam dictionary, and Peter Saval on political time consulted. Spanish glosses and sourced notes; private EPUB/PDF not consulted."
+    },
+    {
+      "id": "coriolanus-3-1-2076-2099",
+      "act": 3,
+      "scene": 1,
+      "first_line": 2076,
+      "last_line": 2099,
+      "editorial_state": "translated_source_checked_external_references",
+      "note": "Seven speeches; Folger III.1 and MIT compared. Sifting metaphor and procedural mediation annotated, with contextual glosses; PDF/EPUB not consulted."
     }
   ],
   "next_fragment": {
     "act": 3,
-    "scene": 1,
-    "first_line": 2076,
-    "note": "Menenius defends Coriolanus' unfiltered martial language and offers a lawful hearing."
+    "scene": 2,
+    "first_line": 2100,
+    "note": "Verify Folger III.2 opening line and navigation before publication."
   },
   "completed_acts": [],
   "last_update_commit": "pending_atomic_commit",
