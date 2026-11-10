@@ -15226,7 +15226,7 @@ window.SHAKESPEARE_READER_DATA = {
       "scene": 2,
       "place": "Roma · Una estancia",
       "sourceRef": "Folger Shakespeare Library · Acto III, escena 2",
-      "sectionLabel": "Edición en curso · líneas 2100–2128",
+      "sectionLabel": "Edición en curso · líneas 2100–2149",
       "introduction": "Tras la crisis de la plaza, Coriolano rechaza moderar su trato con los tribunos. Su madre Volumnia contrapone la firmeza de carácter al uso estratégico del poder.",
       "stage": "Entra Coriolano acompañado de nobles. Volumnia entra durante el parlamento de Coriolano, antes de la línea 2114.",
       "characters": [
@@ -15249,6 +15249,20 @@ window.SHAKESPEARE_READER_DATA = {
           "name": "Volumnia",
           "english": "Volumnia",
           "identity": "Madre de Coriolano, partidaria de una estrategia política más prudente.",
+          "color": "olive"
+        },
+        {
+          "id": "menenius",
+          "name": "Menenio",
+          "english": "Menenius",
+          "identity": "Patricio romano que busca una salida negociada a la crisis política.",
+          "color": "slate"
+        },
+        {
+          "id": "senator1",
+          "name": "Primer senador",
+          "english": "First Senator",
+          "identity": "Senador que advierte del riesgo de fractura de Roma.",
           "color": "olive"
         }
       ],
@@ -15463,6 +15477,161 @@ window.SHAKESPEARE_READER_DATA = {
               "body": "La réplica no necesariamente expresa un deseo literal de ejecución: Volumnia recoge y amplifica la exclamación de su hijo antes de volver al consejo práctico. Es una lectura del intercambio, no una acotación autoral. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; MIT Shakespeare, Coriolanus III.2, https://shakespeare.mit.edu/coriolanus/coriolanus.3.2.html.",
               "lemma": "burn",
               "lemmaUrl": "https://en.wiktionary.org/wiki/burn"
+            }
+          ]
+        },
+        {
+          "line": "2129–2131",
+          "speaker": "menenius",
+          "en": "Come, come, you have been too rough, something\ntoo rough.\nYou must return and mend it.",
+          "es": "Vamos, vamos, has sido demasiado brusco, un poco\ndemasiado brusco.\nDebes volver y reparar el daño.",
+          "notes": [
+            {
+              "term": "mend it",
+              "title": "mend it",
+              "type": "Nota filológica",
+              "gloss": "reparar el daño",
+              "body": "El verbo «mend» presenta el conflicto como algo que puede remendarse: Menenio pide una rectificación política, no una retractación interior. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; MIT Shakespeare, Coriolanus III.2, https://shakespeare.mit.edu/coriolanus/coriolanus.3.2.html.",
+              "lemma": "mend",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/mend"
+            }
+          ]
+        },
+        {
+          "line": "2132–2134",
+          "speaker": "senator1",
+          "en": "There’s no remedy,\nUnless, by not so doing, our good city\nCleave in the midst and perish.",
+          "es": "No hay otra solución;\nde lo contrario, nuestra querida ciudad\nse partirá en dos y perecerá.",
+          "notes": [
+            {
+              "term": "Unless",
+              "title": "Unless",
+              "type": "Nota filológica",
+              "gloss": "a menos que / de lo contrario",
+              "body": "La sintaxis condensa la amenaza: no hay remedio salvo que Coriolano regrese; si no lo hace, la ciudad corre peligro de desgarrarse. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; MIT Shakespeare, Coriolanus III.2, https://shakespeare.mit.edu/coriolanus/coriolanus.3.2.html."
+            },
+            {
+              "term": "Cleave in the midst",
+              "title": "Cleave in the midst",
+              "type": "Nota filológica",
+              "gloss": "partirse por la mitad",
+              "body": "«Cleave» funciona aquí como verbo intransitivo de división. La imagen transforma el conflicto entre estamentos en una fractura física de la ciudad. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; MIT Shakespeare, Coriolanus III.2, https://shakespeare.mit.edu/coriolanus/coriolanus.3.2.html.",
+              "lemma": "cleave",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/cleave"
+            }
+          ]
+        },
+        {
+          "line": "2135–2138",
+          "speaker": "volumnia",
+          "en": "Pray be counseled.\nI have a heart as little apt as yours,\nBut yet a brain that leads my use of anger\nTo better vantage.",
+          "es": "Te ruego que aceptes el consejo.\nMi corazón es tan poco dócil como el tuyo,\npero tengo una mente que sabe dirigir mi ira\nhacia resultados más ventajosos.",
+          "notes": [
+            {
+              "term": "as little apt as yours",
+              "title": "as little apt as yours",
+              "type": "Nota filológica",
+              "gloss": "tan poco dócil como el tuyo",
+              "body": "«Apt» indica aquí disposición a ceder o acomodarse, no aptitud intelectual. Volumnia se reconoce tan inflexible de temperamento como su hijo. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; MIT Shakespeare, Coriolanus III.2, https://shakespeare.mit.edu/coriolanus/coriolanus.3.2.html.",
+              "lemma": "apt",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/apt"
+            },
+            {
+              "term": "vantage",
+              "title": "vantage",
+              "type": "Nota filológica",
+              "gloss": "ventaja / provecho",
+              "body": "Volumnia no niega su ira: afirma que sabe administrarla con mayor eficacia política. «Vantage» abrevia «advantage». Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; MIT Shakespeare, Coriolanus III.2, https://shakespeare.mit.edu/coriolanus/coriolanus.3.2.html.",
+              "lemma": "vantage",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/vantage"
+            }
+          ]
+        },
+        {
+          "line": "2139–2143",
+          "speaker": "menenius",
+          "en": "Well said, noble woman.\nBefore he should thus stoop to th’ herd—but that\nThe violent fit o’ th’ time craves it as physic\nFor the whole state—I would put mine armor on,\nWhich I can scarcely bear.",
+          "es": "Bien dicho, noble mujer.\nAntes que verlo rebajarse así ante el rebaño —si no fuera porque\nla violenta crisis de estos tiempos exige esa medicina\npara todo el Estado—, yo mismo me pondría la armadura,\nque apenas puedo sostener.",
+          "notes": [
+            {
+              "term": "stoop to th’ herd",
+              "title": "stoop to th’ herd",
+              "type": "Nota filológica",
+              "gloss": "rebajarse ante el rebaño",
+              "body": "La voz de Menenio conserva el desprecio patricio hacia la multitud aun mientras aconseja ceder ante ella; «herd» presenta al pueblo como ganado. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; MIT Shakespeare, Coriolanus III.2, https://shakespeare.mit.edu/coriolanus/coriolanus.3.2.html.",
+              "lemma": "herd",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/herd"
+            },
+            {
+              "term": "violent fit",
+              "title": "violent fit",
+              "type": "Nota filológica",
+              "gloss": "crisis violenta / acceso",
+              "body": "«Fit» puede designar un ataque o episodio agudo; su proximidad a «physic» desarrolla una metáfora médica de la crisis política. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; MIT Shakespeare, Coriolanus III.2, https://shakespeare.mit.edu/coriolanus/coriolanus.3.2.html.",
+              "lemma": "fit",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/fit"
+            },
+            {
+              "term": "physic",
+              "title": "physic",
+              "type": "Nota filológica",
+              "gloss": "medicina / remedio",
+              "body": "En el inglés de la época «physic» designa medicina o tratamiento; el gesto humillante se prescribe como remedio para el cuerpo político. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; MIT Shakespeare, Coriolanus III.2, https://shakespeare.mit.edu/coriolanus/coriolanus.3.2.html.",
+              "lemma": "physic",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/physic"
+            }
+          ]
+        },
+        {
+          "line": "2144",
+          "speaker": "coriolanus",
+          "en": "What must I do?",
+          "es": "¿Qué debo hacer?",
+          "notes": []
+        },
+        {
+          "line": "2145",
+          "speaker": "menenius",
+          "en": "Return to th’ Tribunes.",
+          "es": "Volver ante los tribunos.",
+          "notes": []
+        },
+        {
+          "line": "2146",
+          "speaker": "coriolanus",
+          "en": "Well, what then? What then?",
+          "es": "Bien, ¿y después? ¿Qué más?",
+          "notes": []
+        },
+        {
+          "line": "2147",
+          "speaker": "menenius",
+          "en": "Repent what you have spoke.",
+          "es": "Arrepentirte de lo que has dicho.",
+          "notes": [
+            {
+              "term": "what you have spoke",
+              "title": "what you have spoke",
+              "type": "Nota filológica",
+              "gloss": "lo que has dicho",
+              "body": "«Spoke» aparece como participio tras «have», allí donde el inglés estándar actual suele preferir «spoken». No altera el sentido de la exigencia de Menenio. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; MIT Shakespeare, Coriolanus III.2, https://shakespeare.mit.edu/coriolanus/coriolanus.3.2.html.",
+              "lemma": "speak",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/speak"
+            }
+          ]
+        },
+        {
+          "line": "2148–2149",
+          "speaker": "coriolanus",
+          "en": "For them? I cannot do it to the gods.\nMust I then do ’t to them?",
+          "es": "¿Ante ellos? Ni siquiera puedo hacerlo ante los dioses.\n¿Y he de hacerlo ante ellos?",
+          "notes": [
+            {
+              "term": "For them?",
+              "title": "For them?",
+              "type": "Nota filológica",
+              "gloss": "¿ante ellos?",
+              "body": "La preposición señala a los destinatarios de la retractación. Coriolano contrapone la reverencia debida a los dioses con la humillación de pedir perdón a los tribunos. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; MIT Shakespeare, Coriolanus III.2, https://shakespeare.mit.edu/coriolanus/coriolanus.3.2.html."
             }
           ]
         }

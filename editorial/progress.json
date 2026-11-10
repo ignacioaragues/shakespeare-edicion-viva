@@ -1021,13 +1021,22 @@
       "last_line": 2128,
       "editorial_state": "translated_source_checked_external_references",
       "note": "Nine complete speech units, including Folger entrance of Volumnia; Folger III.2 and MIT compared, including pull/puff discrepancy. Private PDF/EPUB not consulted. Retrospective review still pending."
+    },
+    {
+      "id": "coriolanus-3-2-2129-2149",
+      "act": 3,
+      "scene": 2,
+      "first_line": 2129,
+      "last_line": 2149,
+      "editorial_state": "translated_source_checked_external_references",
+      "note": "Nine complete speech blocks, Folger III.2 compared against MIT; Menenius' entrance, civic rupture, Volumnia's anger and Menenius' medical metaphor annotated. MIT differs on assignment of 2128 (previous block); this earlier attribution requires retrospective review. Private EPUB/PDF not consulted."
     }
   ],
   "next_fragment": {
     "act": 3,
     "scene": 2,
-    "first_line": 2129,
-    "note": "Continue with Menenius' entrance and advice; check stage direction before line 2129."
+    "first_line": 2150,
+    "note": "Continue with Volumnia's full argument on honor and policy, through line 2156; preserve full speech."
   },
   "completed_acts": [],
   "last_update_commit": "pending_atomic_commit",
