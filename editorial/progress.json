@@ -985,13 +985,22 @@
       "last_line": 2034,
       "editorial_state": "translated_source_checked_external_references",
       "note": "Twelve complete speeches; Folger III.1 compared with Shakespeare Online and Shakespeare’s Words (havoc), Collins (holp). Contextual Spanish glosses and references. Private PDF/EPUB not consulted."
+    },
+    {
+      "id": "coriolanus-3-1-2035-2055",
+      "act": 3,
+      "scene": 1,
+      "first_line": 2035,
+      "last_line": 2055,
+      "editorial_state": "translated_source_checked_external_references",
+      "note": "Four complete speech blocks, Folger III.1 compared with Shakespeare Online. Medical-political metaphor and unnatural dam noted with contextual glosses; PDF/EPUB not consulted."
     }
   ],
   "next_fragment": {
     "act": 3,
     "scene": 1,
-    "first_line": 2035,
-    "note": "Sicinius permits Menenius a brief defence and renews the death threat."
+    "first_line": 2056,
+    "note": "Sicinius dismisses Menenius' argument as clean cam; Brutus and Sicinius extend the gangrene metaphor."
   },
   "completed_acts": [],
   "last_update_commit": "pending_atomic_commit",

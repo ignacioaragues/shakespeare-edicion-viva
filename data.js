@@ -11730,7 +11730,7 @@ window.SHAKESPEARE_READER_DATA = {
       "scene": 1,
       "place": "Roma · Una calle, camino del Capitolio",
       "sourceRef": "Folger Shakespeare Library · Acto III, escena 1",
-      "sectionLabel": "Edición en curso · líneas 1669–2034",
+      "sectionLabel": "Edición en curso · líneas 1669–2055",
       "introduction": "Tras la votación, Coriolano conversa con los generales sobre Aufidio. La irrupción de los tribunos alterará pronto la marcha hacia el consulado.",
       "stage": "Suenan cornetas. Entran Coriolano, Menenio, Cominio, Tito Larcio, patricios y senadores.",
       "characters": [
@@ -14738,6 +14738,155 @@ window.SHAKESPEARE_READER_DATA = {
               "type": "Nota filológica",
               "gloss": "las cuales; esas palabras",
               "body": "Relativo reforzado propio del uso antiguo; su antecedente es «a word or two», no los tribunos. Referencias: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/."
+            }
+          ]
+        },
+        {
+          "line": "2035–2040",
+          "speaker": "sicinius",
+          "en": "Speak briefly then,\nFor we are peremptory to dispatch\nThis viperous traitor. To eject him hence\nWere but one danger, and to keep him here\nOur certain death. Therefore it is decreed\nHe dies tonight.",
+          "es": "Habla brevemente, entonces,\nporque estamos decididos a acabar\ncon este traidor venenoso. Expulsarlo de aquí\nsupondría un peligro; mantenerlo entre nosotros,\nuna muerte segura. Por eso se ha decretado\nque muera esta noche.",
+          "notes": [
+            {
+              "term": "peremptory",
+              "title": "peremptory",
+              "type": "Nota filológica",
+              "gloss": "resueltos; inflexibles",
+              "body": "Adjetivo de decisión terminante; en este contexto, los tribunos no se muestran dispuestos a reconsiderar el castigo. No implica por sí solo un procedimiento judicial formal. Referencias: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; Shakespeare Online, Coriolanus III.1, https://www.shakespeare-online.com/plays/corio_3_1.html.",
+              "lemma": "peremptory",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/peremptory"
+            },
+            {
+              "term": "dispatch",
+              "title": "dispatch",
+              "type": "Nota filológica",
+              "gloss": "deshacerse de; ejecutar",
+              "body": "El verbo puede significar despachar o poner fin rápidamente; el complemento «this viperous traitor» y la sentencia posterior precisan aquí el sentido de eliminación física. Referencias: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; Shakespeare Online, Coriolanus III.1, https://www.shakespeare-online.com/plays/corio_3_1.html.",
+              "lemma": "dispatch",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/dispatch"
+            },
+            {
+              "term": "viperous",
+              "title": "viperous",
+              "type": "Nota filológica",
+              "gloss": "venenoso; propio de una víbora",
+              "body": "La invectiva animaliza a Coriolano como amenaza letal para el cuerpo político; «viperous» no constituye una calificación jurídica. Referencias: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; Shakespeare Online, Coriolanus III.1, https://www.shakespeare-online.com/plays/corio_3_1.html.",
+              "lemma": "viperous",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/viperous"
+            },
+            {
+              "term": "To eject him hence",
+              "title": "To eject him hence",
+              "type": "Nota filológica",
+              "gloss": "expulsarlo de aquí",
+              "body": "La alternativa de destierro se presenta como peligrosa, pero menos segura que la muerte que los tribunos temen si permanece en Roma. Referencias: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; Shakespeare Online, Coriolanus III.1, https://www.shakespeare-online.com/plays/corio_3_1.html.",
+              "lemma": "eject",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/eject"
+            }
+          ]
+        },
+        {
+          "line": "2041–2045",
+          "speaker": "menenius",
+          "en": "Now the good gods forbid\nThat our renownèd Rome, whose gratitude\nTowards her deservèd children is enrolled\nIn Jove’s own book, like an unnatural dam\nShould now eat up her own.",
+          "es": "¡Que los buenos dioses impidan\nque nuestra célebre Roma, cuya gratitud\nhacia sus hijos beneméritos está inscrita\nen el propio libro de Júpiter, devore ahora\na uno de los suyos como una madre desnaturalizada!",
+          "notes": [
+            {
+              "term": "enrolled / In Jove’s own book",
+              "title": "enrolled / In Jove’s own book",
+              "type": "Nota filológica",
+              "gloss": "inscrita en el libro del propio Júpiter",
+              "body": "La imagen de un registro divino eleva la gratitud cívica a deber solemne. «Jove» es el nombre inglés tradicional de Júpiter; no se afirma la existencia de un libro ritual romano concreto. Referencias: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; Shakespeare Online, Coriolanus III.1, https://www.shakespeare-online.com/plays/corio_3_1.html.",
+              "lemma": "enroll",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/enroll"
+            },
+            {
+              "term": "unnatural dam",
+              "title": "unnatural dam",
+              "type": "Nota filológica",
+              "gloss": "madre desnaturalizada",
+              "body": "«Dam» designa la hembra progenitora, sobre todo de animales; «eat up her own» convierte a Roma en madre que devora a sus crías. La animalización es una imagen retórica, no un relato mítico específico. Referencias: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; Shakespeare Online, Coriolanus III.1, https://www.shakespeare-online.com/plays/corio_3_1.html.",
+              "lemma": "dam",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/dam"
+            },
+            {
+              "term": "deservèd children",
+              "title": "deservèd children",
+              "type": "Nota filológica",
+              "gloss": "hijos que lo merecen; hijos beneméritos",
+              "body": "La grafía con acento señala la pronunciación silábica de «deserved» en la edición moderna de Folger. Referencias: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; Shakespeare Online, Coriolanus III.1, https://www.shakespeare-online.com/plays/corio_3_1.html.",
+              "lemma": "deserve",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/deserve"
+            }
+          ]
+        },
+        {
+          "line": "2046",
+          "speaker": "sicinius",
+          "en": "He’s a disease that must be cut away.",
+          "es": "Es una enfermedad que hay que extirpar.",
+          "notes": [
+            {
+              "term": "disease",
+              "title": "disease",
+              "type": "Nota filológica",
+              "gloss": "enfermedad; mal del cuerpo político",
+              "body": "Sicinio identifica al hombre con la patología misma: de ahí la necesidad de extirparlo. Menenio responderá diferenciando un miembro enfermo de la enfermedad. Referencias: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; Shakespeare Online, Coriolanus III.1, https://www.shakespeare-online.com/plays/corio_3_1.html.",
+              "lemma": "disease",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/disease"
+            }
+          ]
+        },
+        {
+          "line": "2047–2055",
+          "speaker": "menenius",
+          "en": "O, he’s a limb that has but a disease—\nMortal to cut it off; to cure it easy.\nWhat has he done to Rome that’s worthy death?\nKilling our enemies, the blood he hath lost—\nWhich I dare vouch is more than that he hath\nBy many an ounce—he dropped it for his country;\nAnd what is left, to lose it by his country\nWere to us all that do ’t and suffer it\nA brand to th’ end o’ th’ world.",
+          "es": "No, es un miembro que simplemente padece una enfermedad:\namputarlo sería mortal; curarlo, fácil.\n¿Qué ha hecho contra Roma para merecer la muerte?\nAl matar a nuestros enemigos, la sangre que ha perdido\n—y me atrevo a asegurar que es mucha más\nde la que le queda, por numerosas onzas— la derramó por su patria.\nY que la sangre restante la perdiera a manos de su propia patria\nsería, para todos los que lo hicieran y lo consintieran,\nuna marca de infamia hasta el fin del mundo.",
+          "notes": [
+            {
+              "term": "limb",
+              "title": "limb",
+              "type": "Nota filológica",
+              "gloss": "miembro del cuerpo",
+              "body": "Frente a la equivalencia «Coriolano = enfermedad» de Sicinio, Menenio lo presenta como parte del organismo político, recuperable mediante tratamiento. El contraste es explícito en los dos parlamentos. Referencias: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; Shakespeare Online, Coriolanus III.1, https://www.shakespeare-online.com/plays/corio_3_1.html.",
+              "lemma": "limb",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/limb"
+            },
+            {
+              "term": "Mortal to cut it off; to cure it easy",
+              "title": "Mortal to cut it off; to cure it easy",
+              "type": "Nota filológica",
+              "gloss": "amputarlo sería mortal; curarlo, fácil",
+              "body": "Elipsis paralela del verbo «to be»; «mortal» indica consecuencias mortales, mientras «easy» caracteriza la cura. El paralelismo contrapone la violencia irreversible y la corrección posible. Referencias: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; Shakespeare Online, Coriolanus III.1, https://www.shakespeare-online.com/plays/corio_3_1.html.",
+              "lemma": "mortal",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/mortal"
+            },
+            {
+              "term": "vouch",
+              "title": "vouch",
+              "type": "Nota filológica",
+              "gloss": "asegurar; dar fe",
+              "body": "«Dare vouch» es una afirmación enfática de Menenio, no una medición literal del volumen de sangre perdido. Referencias: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; Shakespeare Online, Coriolanus III.1, https://www.shakespeare-online.com/plays/corio_3_1.html.",
+              "lemma": "vouch",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/vouch"
+            },
+            {
+              "term": "A brand",
+              "title": "A brand",
+              "type": "Nota filológica",
+              "gloss": "una marca de infamia",
+              "body": "«Brand» evoca una marca permanente, incluso la impuesta por fuego; Menenio traslada esa imagen al descrédito moral de quienes ejecuten al defensor de Roma. Referencias: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; Shakespeare Online, Coriolanus III.1, https://www.shakespeare-online.com/plays/corio_3_1.html.",
+              "lemma": "brand",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/brand"
+            },
+            {
+              "term": "do ’t and suffer it",
+              "title": "do ’t and suffer it",
+              "type": "Nota filológica",
+              "gloss": "lo hagan y lo consientan",
+              "body": "«Suffer» puede significar permitir o tolerar, no solo padecer. La acusación abarca a los ejecutores y a quienes dejen que suceda. Referencias: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; Shakespeare Online, Coriolanus III.1, https://www.shakespeare-online.com/plays/corio_3_1.html.",
+              "lemma": "suffer",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/suffer"
             }
           ]
         }
