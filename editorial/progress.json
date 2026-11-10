@@ -1084,13 +1084,22 @@
       "last_line": 2249,
       "editorial_state": "translated_source_checked_external_references",
       "note": "One complete Coriolanus speech; Folger III.2 checked with MIT and Shakespeare Online; nine philological notes with contextual Spanish glosses. Retrospective review and private PDF/EPUB comparison pending."
+    },
+    {
+      "id": "coriolanus-3-2-2250-2267",
+      "act": 3,
+      "scene": 2,
+      "first_line": 2250,
+      "last_line": 2267,
+      "editorial_state": "translated_source_checked_external_references",
+      "note": "Three complete speeches (Volumnia, Coriolanus, Volumnia); Folger III.2 and Shakespeare Online compared; 12 contextual notes. Private PDF/EPUB and retrospective review pending."
     }
   ],
   "next_fragment": {
     "act": 3,
     "scene": 2,
-    "first_line": 2250,
-    "note": "Volumnia's complete reply (2250–2257), followed by Coriolanus' reply."
+    "first_line": 2268,
+    "note": "Cominius' counsel (2268–2271), Coriolanus and Menenius' final exchange through 2276; scene ending."
   },
   "completed_acts": [],
   "last_update_commit": "pending_atomic_commit",

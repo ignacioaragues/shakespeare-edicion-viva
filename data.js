@@ -15226,7 +15226,7 @@ window.SHAKESPEARE_READER_DATA = {
       "scene": 2,
       "place": "Roma · Una estancia",
       "sourceRef": "Folger Shakespeare Library · Acto III, escena 2",
-      "sectionLabel": "Edición en curso · líneas 2100–2235",
+      "sectionLabel": "Edición en curso · líneas 2100–2267",
       "introduction": "Tras la crisis de la plaza, Coriolano rechaza moderar su trato con los tribunos. Su madre Volumnia contrapone la firmeza de carácter al uso estratégico del poder.",
       "stage": "Entra Coriolano acompañado de nobles. Volumnia entra durante el parlamento de Coriolano, antes de la línea 2114.",
       "characters": [
@@ -16317,6 +16317,136 @@ window.SHAKESPEARE_READER_DATA = {
               "type": "Interpretación",
               "gloss": "vileza arraigada",
               "body": "La paradoja final invierte la relación entre interior y exterior: fingir sumisión con el cuerpo podría enseñar vileza a la mente. Es la creencia del personaje, no un principio asumido por la edición. Fuente: Folger, Coriolanus III.2, 2248–2249, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/."
+            }
+          ]
+        },
+        {
+          "line": "2250–2257",
+          "speaker": "volumnia",
+          "en": "At thy choice, then.\nTo beg of thee, it is my more dishonor\nThan thou of them. Come all to ruin. Let\nThy mother rather feel thy pride than fear\nThy dangerous stoutness, for I mock at death\nWith as big heart as thou. Do as thou list.\nThy valiantness was mine; thou suck’st it from me,\nBut owe thy pride thyself.",
+          "es": "Entonces, haz lo que quieras.\nSuplicarte me deshonra más a mí\nque a ti suplicarles a ellos. Que todo se arruine.\nPrefiero, como madre, sufrir tu orgullo antes que temer\nlas consecuencias de tu peligrosa obstinación, pues me río de la muerte\ncon tanto valor como tú. Haz lo que te plazca.\nTu valentía era mía: la mamaste de mí;\npero tu orgullo es responsabilidad tuya.",
+          "notes": [
+            {
+              "term": "At thy choice",
+              "title": "At thy choice",
+              "type": "Nota filológica",
+              "gloss": "haz lo que quieras",
+              "body": "La fórmula concede libertad de decisión, pero en el contexto funciona como presión afectiva: Volumnia declara que dejará de rogarle. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; Shakespeare Online, Coriolanus III.2, https://www.shakespeare-online.com/plays/corio_3_2.html.",
+              "lemma": "choice",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/choice"
+            },
+            {
+              "term": "stoutness",
+              "title": "stoutness",
+              "type": "Nota filológica",
+              "gloss": "obstinación; terquedad",
+              "body": "Aquí no alude a corpulencia: el adjetivo implícito es la firmeza llevada a una resistencia peligrosa. La traducción explicita ese matiz contextual. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; Shakespeare Online, Coriolanus III.2, https://www.shakespeare-online.com/plays/corio_3_2.html.",
+              "lemma": "stoutness",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/stoutness"
+            },
+            {
+              "term": "I mock at death",
+              "title": "I mock at death",
+              "type": "Nota filológica",
+              "gloss": "me río de la muerte",
+              "body": "Volumnia reclama para sí la misma valentía ante la muerte que exhibe su hijo; la afirmación sostiene su autoridad sobre él. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; Shakespeare Online, Coriolanus III.2, https://www.shakespeare-online.com/plays/corio_3_2.html."
+            },
+            {
+              "term": "thou suck’st it from me",
+              "title": "thou suck’st it from me",
+              "type": "Nota filológica",
+              "gloss": "la mamaste de mí",
+              "body": "La imagen de la lactancia presenta el valor guerrero como herencia corporal y educativa de la madre. «Suck’st» es segunda persona singular de «suck», con terminación verbal -st propia de «thou». Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; Shakespeare Online, Coriolanus III.2, https://www.shakespeare-online.com/plays/corio_3_2.html.",
+              "lemma": "suck",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/suck"
+            },
+            {
+              "term": "owe thy pride thyself",
+              "title": "owe thy pride thyself",
+              "type": "Nota filológica",
+              "gloss": "tu orgullo es responsabilidad tuya",
+              "body": "«Owe» admite aquí el sentido de atribuirse o reconocer como propio; el contraste separa el valor que ella le transmitió del orgullo que le imputa a él. La formulación no equivale a una deuda monetaria. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; Shakespeare Online, Coriolanus III.2, https://www.shakespeare-online.com/plays/corio_3_2.html.",
+              "lemma": "owe",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/owe"
+            }
+          ]
+        },
+        {
+          "line": "2258–2266",
+          "speaker": "coriolanus",
+          "en": "Pray be content.\nMother, I am going to the marketplace.\nChide me no more. I’ll mountebank their loves,\nCog their hearts from them, and come home\nbeloved\nOf all the trades in Rome. Look, I am going.\nCommend me to my wife. I’ll return consul,\nOr never trust to what my tongue can do\nI’ th’ way of flattery further.",
+          "es": "Te ruego que te tranquilices.\nMadre, voy a ir a la plaza del mercado.\nNo me reprendas más. Conseguiré su afecto como un charlatán,\nles sacaré el corazón con engaños y volveré a casa\nquerido\npor todos los gremios de Roma. Mira, ya me voy.\nDale recuerdos a mi esposa. Regresaré como cónsul,\no no volveré a confiar en lo que mi lengua sea capaz de hacer\nmediante la adulación.",
+          "notes": [
+            {
+              "term": "be content",
+              "title": "be content",
+              "type": "Nota filológica",
+              "gloss": "tranquilízate; date por satisfecha",
+              "body": "La petición intenta poner fin al reproche materno, no expresa satisfacción del hablante. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; Shakespeare Online, Coriolanus III.2, https://www.shakespeare-online.com/plays/corio_3_2.html.",
+              "lemma": "content",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/content"
+            },
+            {
+              "term": "mountebank their loves",
+              "title": "mountebank their loves",
+              "type": "Nota filológica",
+              "gloss": "ganarme su afecto como un charlatán",
+              "body": "«Mountebank» evoca al vendedor ambulante de remedios que atrae al público mediante exhibición y persuasión. Shakespeare lo usa aquí verbalmente: Coriolano convierte la búsqueda del favor popular en una estafa escénica. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; Shakespeare Online, Coriolanus III.2, https://www.shakespeare-online.com/plays/corio_3_2.html.",
+              "lemma": "mountebank",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/mountebank"
+            },
+            {
+              "term": "Cog their hearts",
+              "title": "Cog their hearts",
+              "type": "Nota filológica",
+              "gloss": "engañarlos para ganar su favor",
+              "body": "«Cog» se relaciona con hacer trampas o engañar; la imagen no supone literalmente extraer corazones. Su proximidad a «mountebank» intensifica la retórica del fraude. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; Shakespeare Online, Coriolanus III.2, https://www.shakespeare-online.com/plays/corio_3_2.html.",
+              "lemma": "cog",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/cog"
+            },
+            {
+              "term": "trades",
+              "title": "trades",
+              "type": "Nota filológica",
+              "gloss": "oficios; gremios",
+              "body": "Designa aquí a los distintos oficios de Roma, metonimia del conjunto de ciudadanos cuya aprobación debe conseguir, no operaciones comerciales. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; Shakespeare Online, Coriolanus III.2, https://www.shakespeare-online.com/plays/corio_3_2.html.",
+              "lemma": "trade",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/trade"
+            },
+            {
+              "term": "Commend me to my wife",
+              "title": "Commend me to my wife",
+              "type": "Nota filológica",
+              "gloss": "dale recuerdos a mi esposa",
+              "body": "Fórmula de saludo transmitido por un tercero, no petición de que se lo elogie ante ella. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; Shakespeare Online, Coriolanus III.2, https://www.shakespeare-online.com/plays/corio_3_2.html.",
+              "lemma": "commend",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/commend"
+            },
+            {
+              "term": "I’ th’ way of flattery",
+              "title": "I’ th’ way of flattery",
+              "type": "Nota filológica",
+              "gloss": "por medio de la adulación",
+              "body": "La contracción «I’ th’» representa «in the». La promesa es irónica: el militar que desprecia la adulación se dispone a usarla para obtener el consulado. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; Shakespeare Online, Coriolanus III.2, https://www.shakespeare-online.com/plays/corio_3_2.html.",
+              "lemma": "flattery",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/flattery"
+            }
+          ]
+        },
+        {
+          "line": "2267",
+          "speaker": "volumnia",
+          "en": "Do your will.",
+          "es": "Haz lo que quieras.",
+          "notes": [
+            {
+              "term": "Do your will",
+              "title": "Do your will",
+              "type": "Nota filológica",
+              "gloss": "haz lo que quieras",
+              "body": "El eco de «At thy choice» (2250) cierra la presión materna con una autorización lacónica; su tono exacto depende de la interpretación escénica. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; Shakespeare Online, Coriolanus III.2, https://www.shakespeare-online.com/plays/corio_3_2.html.",
+              "lemma": "will",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/will"
             }
           ]
         }
