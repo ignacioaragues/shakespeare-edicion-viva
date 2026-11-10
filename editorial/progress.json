@@ -967,15 +967,24 @@
       "last_line": 1992,
       "editorial_state": "translated_source_checked_external_references",
       "note": "Five complete speeches; Folger III.1 verified against MIT, First Folio facsimile and Hudson's commentary on forty/tag. Spanish contextual glosses and cited notes. Exit direction after 1992 pending independent stage-direction rendering. Private EPUB/PDF not consulted."
+    },
+    {
+      "id": "coriolanus-3-1-1993-2013",
+      "act": 3,
+      "scene": 1,
+      "first_line": 1993,
+      "last_line": 2013,
+      "editorial_state": "translated_source_checked_external_references",
+      "note": "Seven complete speeches, Folger III.1 compared with MIT; Neptune/Jove, frankness, political viper and summary Tarpeian punishment annotated. Stage directions at exits, noise and re-entry require a separate presentation pass. Private reference files not consulted."
     }
   ],
   "next_fragment": {
     "act": 3,
     "scene": 1,
-    "first_line": 1993,
-    "note": "Continue with Patrician's comment on Coriolanus' ruined fortune and Menenius' reply."
+    "first_line": 2014,
+    "note": "Continue with citizens' endorsement of the tribunes and Menenius' attempt to restrain them."
   },
   "completed_acts": [],
-  "last_update_commit": "9f0e49634187abcdc839964fdbfebf3fdd362cff",
+  "last_update_commit": "pending_atomic_commit",
   "notes": "Folger online line 66 is 'We cannot, sir; we are undone already.' The original prototype had an off-by-one numbering error, corrected in this release. Text is still under editorial review."
 }

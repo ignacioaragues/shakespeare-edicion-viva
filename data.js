@@ -11817,6 +11817,13 @@ window.SHAKESPEARE_READER_DATA = {
           "english": "Aediles",
           "identity": "Magistrados encargados de ejecutar las órdenes de los tribunos.",
           "color": "slate"
+        },
+        {
+          "id": "patrician",
+          "name": "Patricio",
+          "english": "Patrician",
+          "identity": "Noble romano que lamenta la conducta de Coriolano.",
+          "color": "slate"
         }
       ],
       "blocks": [
@@ -14389,6 +14396,189 @@ window.SHAKESPEARE_READER_DATA = {
           "en": "Nay, come away.",
           "es": "No, vamos, vámonos.",
           "notes": []
+        },
+        {
+          "line": "1993",
+          "speaker": "patrician",
+          "en": "This man has marred his fortune.",
+          "es": "Este hombre ha arruinado su propia suerte.",
+          "notes": [
+            {
+              "term": "marred his fortune",
+              "title": "marred his fortune",
+              "type": "Nota filológica",
+              "gloss": "ha malogrado su porvenir",
+              "body": "«Mar» indica estropear o echar a perder; el patricio evalúa las consecuencias políticas de la conducta de Coriolano, no su fortuna económica. Referencias: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "lemma": "mar",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/mar"
+            }
+          ]
+        },
+        {
+          "line": "1994–2001",
+          "speaker": "menenius",
+          "en": "His nature is too noble for the world.\nHe would not flatter Neptune for his trident\nOr Jove for ’s power to thunder. His heart’s his mouth;\nWhat his breast forges, that his tongue must vent,\nAnd, being angry, does forget that ever\nHe heard the name of death.\nHere’s goodly work.",
+          "es": "Su carácter es demasiado noble para este mundo.\nNo adularía a Neptuno para conseguir su tridente\nni a Júpiter para obtener su poder de lanzar truenos. Lleva el corazón en la boca;\ntodo lo que se forja en su pecho tiene que salir por su lengua\ny, cuando se enfurece, olvida incluso\nque alguna vez oyó hablar de la muerte.\n¡Bonito desastre!",
+          "notes": [
+            {
+              "term": "Neptune",
+              "title": "Neptune",
+              "type": "Nota filológica",
+              "gloss": "Neptuno, dios del mar",
+              "body": "La pareja Neptuno/Júpiter lleva al extremo la negativa de Coriolano a adular: ni siquiera halagaría a los dioses para obtener sus atributos. Referencias: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "lemma": "Neptune",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/Neptune"
+            },
+            {
+              "term": "His heart’s his mouth",
+              "title": "His heart’s his mouth",
+              "type": "Nota filológica",
+              "gloss": "dice sin reservas lo que siente",
+              "body": "Identificación metafórica del sentimiento interior con la expresión pública: Menenio admira su franqueza, pero también expone su imprudencia. Referencias: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html."
+            },
+            {
+              "term": "forges",
+              "title": "forges",
+              "type": "Nota filológica",
+              "gloss": "forja; elabora en su interior",
+              "body": "La metáfora de la fragua hace del pecho un taller y de la lengua la salida inevitable de lo producido. Referencias: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "lemma": "forge",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/forge"
+            },
+            {
+              "term": "goodly work",
+              "title": "goodly work",
+              "type": "Nota filológica",
+              "gloss": "¡vaya desastre!",
+              "body": "Exclamación irónica de Menenio al oír ruido fuera de escena: «goodly» no expresa aquí aprobación sincera. Referencias: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "lemma": "goodly",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/goodly"
+            }
+          ]
+        },
+        {
+          "line": "2002",
+          "speaker": "patrician",
+          "en": "I would they were abed!",
+          "es": "¡Ojalá estuvieran todos acostados!",
+          "notes": [
+            {
+              "term": "abed",
+              "title": "abed",
+              "type": "Nota filológica",
+              "gloss": "en la cama; acostados",
+              "body": "Adverbio antiguo de lugar o estado; el patricio desea que la multitud se retire. Referencias: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "lemma": "abed",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/abed"
+            }
+          ]
+        },
+        {
+          "line": "2003–2004",
+          "speaker": "menenius",
+          "en": "I would they were in Tiber. What the vengeance,\nCould he not speak ’em fair?",
+          "es": "¡Yo preferiría que estuvieran en el Tíber! ¡Maldita sea!\n¿No podía hablarles con cortesía?",
+          "notes": [
+            {
+              "term": "in Tiber",
+              "title": "in Tiber",
+              "type": "Nota filológica",
+              "gloss": "en el río Tíber",
+              "body": "Menenio responde al deseo de descanso del patricio con otro más agresivo: quisiera a los adversarios dentro del río. Referencias: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html."
+            },
+            {
+              "term": "speak ’em fair",
+              "title": "speak ’em fair",
+              "type": "Nota filológica",
+              "gloss": "hablarles con buenas maneras",
+              "body": "«Fair» funciona adverbialmente: tratar a alguien con cortesía o palabras conciliadoras. El pronombre «’em» equivale a «them». Referencias: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "lemma": "fair",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/fair"
+            }
+          ]
+        },
+        {
+          "line": "2005–2007",
+          "speaker": "sicinius",
+          "en": "Where is this viper\nThat would depopulate the city and\nBe every man himself?",
+          "es": "¿Dónde está esa víbora\nque quisiera vaciar la ciudad de habitantes\ny ser él solo todos sus ciudadanos?",
+          "notes": [
+            {
+              "term": "viper",
+              "title": "viper",
+              "type": "Nota filológica",
+              "gloss": "víbora; enemigo venenoso",
+              "body": "La animalización presenta a Coriolano como amenaza interna para la comunidad; continúa la imaginería de peligros y enfermedades de la escena. Referencias: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "lemma": "viper",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/viper"
+            },
+            {
+              "term": "Be every man himself",
+              "title": "Be every man himself",
+              "type": "Nota filológica",
+              "gloss": "ser él solo toda la ciudadanía",
+              "body": "Hipérbole que acusa a Coriolano de querer sustituir la pluralidad política por su sola voluntad. Es una acusación de Sicinio, no un hecho demostrado. Referencias: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html."
+            }
+          ]
+        },
+        {
+          "line": "2008",
+          "speaker": "menenius",
+          "en": "You worthy tribunes—",
+          "es": "Honorables tribunos...",
+          "notes": [
+            {
+              "term": "worthy tribunes",
+              "title": "worthy tribunes",
+              "type": "Nota filológica",
+              "gloss": "honorables tribunos",
+              "body": "Tratamiento conciliador que Menenio emplea para intentar intervenir antes de la nueva condena; la frase queda interrumpida. Referencias: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "lemma": "worthy",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/worthy"
+            }
+          ]
+        },
+        {
+          "line": "2009–2013",
+          "speaker": "sicinius",
+          "en": "He shall be thrown down the Tarpeian rock\nWith rigorous hands. He hath resisted law,\nAnd therefore law shall scorn him further trial\nThan the severity of the public power\nWhich he so sets at naught.",
+          "es": "Lo arrojarán desde la roca Tarpeya\nsin contemplaciones. Se ha resistido a la ley,\ny por eso la ley no le concederá otro juicio\nque el rigor del poder público,\nal que tanto desprecia.",
+          "notes": [
+            {
+              "term": "Tarpeian rock",
+              "title": "Tarpeian rock",
+              "type": "Nota filológica",
+              "gloss": "roca Tarpeya; lugar de ejecución",
+              "body": "Referencia a la peña del Capitolio asociada en la tradición romana con ejecuciones por despeñamiento. El discurso de Sicinio propone una pena sumaria, no acredita que se haya celebrado un proceso. Referencias: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "lemma": "Tarpeian",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/Tarpeian"
+            },
+            {
+              "term": "rigorous hands",
+              "title": "rigorous hands",
+              "type": "Nota filológica",
+              "gloss": "manos implacables; sin contemplaciones",
+              "body": "«Rigorous» recalca la severidad de la ejecución física; la traducción evita entenderlo como mera precisión procesal. Referencias: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "lemma": "rigorous",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/rigorous"
+            },
+            {
+              "term": "scorn him further trial",
+              "title": "scorn him further trial",
+              "type": "Nota filológica",
+              "gloss": "negarle otro juicio",
+              "body": "La personificación de «law» permite que la ley misma desprecie la posibilidad de un proceso ulterior; Sicinio justifica la violencia con lenguaje jurídico. Referencias: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html."
+            },
+            {
+              "term": "sets at naught",
+              "title": "sets at naught",
+              "type": "Nota filológica",
+              "gloss": "desprecia; no concede valor",
+              "body": "Locución «set at naught»: tratar algo como si no valiera nada; aquí se refiere al poder público. Referencias: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "lemma": "naught",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/naught"
+            }
+          ]
         }
       ]
     }
