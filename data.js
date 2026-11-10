@@ -15226,7 +15226,7 @@ window.SHAKESPEARE_READER_DATA = {
       "scene": 2,
       "place": "Roma · Una estancia",
       "sourceRef": "Folger Shakespeare Library · Acto III, escena 2",
-      "sectionLabel": "Edición en curso · líneas 2100–2204",
+      "sectionLabel": "Edición en curso · líneas 2100–2221",
       "introduction": "Tras la crisis de la plaza, Coriolano rechaza moderar su trato con los tribunos. Su madre Volumnia contrapone la firmeza de carácter al uso estratégico del poder.",
       "stage": "Entra Coriolano acompañado de nobles. Volumnia entra durante el parlamento de Coriolano, antes de la línea 2114.",
       "characters": [
@@ -15264,6 +15264,13 @@ window.SHAKESPEARE_READER_DATA = {
           "english": "First Senator",
           "identity": "Senador que advierte del riesgo de fractura de Roma.",
           "color": "olive"
+        },
+        {
+          "id": "cominius",
+          "name": "Cominio",
+          "english": "Cominius",
+          "identity": "General romano que acaba de comprobar la agitación en la plaza.",
+          "color": "slate"
         }
       ],
       "blocks": [
@@ -15987,6 +15994,154 @@ window.SHAKESPEARE_READER_DATA = {
               "body": "Binomio que limita la promesa a las posibilidades y dignidad del hablante; la extensión exacta de esa reserva admite interpretación. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; Shakespeare Online, Coriolanus III.2, https://www.shakespeare-online.com/plays/corio_3_2.html.",
               "lemma": "person",
               "lemmaUrl": "https://en.wiktionary.org/wiki/person"
+            }
+          ]
+        },
+        {
+          "line": "2205–2208",
+          "speaker": "menenius",
+          "en": "This but done\nEven as she speaks, why, their hearts were yours;\nFor they have pardons, being asked, as free\nAs words to little purpose.",
+          "es": "Bastaría con que hicieras esto\ncomo ella lo propone para ganarte sus corazones;\npues conceden perdones, cuando se los piden, con tanta facilidad\ncomo pronuncian palabras sin importancia.",
+          "notes": [
+            {
+              "term": "their hearts were yours",
+              "title": "their hearts were yours",
+              "type": "Nota filológica",
+              "gloss": "te ganarías su afecto",
+              "body": "El condicional implícito depende de «This but done»; Menenio promete una reconciliación inmediata. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; Shakespeare Online, Coriolanus III.2, https://www.shakespeare-online.com/plays/corio_3_2.html."
+            },
+            {
+              "term": "pardons",
+              "title": "pardons",
+              "type": "Nota filológica",
+              "gloss": "perdones",
+              "body": "La construcción «have pardons ... as free» presenta el perdón como algo que el pueblo dispensa generosamente; «free» indica liberalidad, no ausencia de precio. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; Shakespeare Online, Coriolanus III.2, https://www.shakespeare-online.com/plays/corio_3_2.html.",
+              "lemma": "pardon",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/pardon"
+            },
+            {
+              "term": "words to little purpose",
+              "title": "words to little purpose",
+              "type": "Nota filológica",
+              "gloss": "palabras sin importancia",
+              "body": "Comparación irónica que rebaja el valor de los perdones concedidos con ligereza. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; Shakespeare Online, Coriolanus III.2, https://www.shakespeare-online.com/plays/corio_3_2.html."
+            }
+          ]
+        },
+        {
+          "line": "2209–2213",
+          "speaker": "volumnia",
+          "en": "Prithee now,\nGo, and be ruled; although I know thou hadst rather\nFollow thine enemy in a fiery gulf\nThan flatter him in a bower.\nHere is Cominius.",
+          "es": "Te lo ruego:\nve y acepta los consejos, aunque sé que preferirías\nseguir a tu enemigo hasta un abismo de fuego\nantes que adularlo en un jardín apacible.\nAquí está Cominio.",
+          "notes": [
+            {
+              "term": "be ruled",
+              "title": "be ruled",
+              "type": "Nota filológica",
+              "gloss": "déjate aconsejar",
+              "body": "«Ruled» alude aquí a obedecer una orientación práctica, no a ser gobernado políticamente. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; Shakespeare Online, Coriolanus III.2, https://www.shakespeare-online.com/plays/corio_3_2.html.",
+              "lemma": "rule",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/rule"
+            },
+            {
+              "term": "fiery gulf",
+              "title": "fiery gulf",
+              "type": "Nota filológica",
+              "gloss": "abismo de fuego",
+              "body": "Hipérbole de peligro extremo, opuesta al espacio protegido del «bower». Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; Shakespeare Online, Coriolanus III.2, https://www.shakespeare-online.com/plays/corio_3_2.html."
+            },
+            {
+              "term": "bower",
+              "title": "bower",
+              "type": "Nota filológica",
+              "gloss": "jardín apartado / lugar protegido",
+              "body": "El contraste con el abismo de fuego acentúa la aversión de Coriolano a la adulación incluso en condiciones seguras. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; Shakespeare Online, Coriolanus III.2, https://www.shakespeare-online.com/plays/corio_3_2.html.",
+              "lemma": "bower",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/bower"
+            }
+          ]
+        },
+        {
+          "line": "2214–2216",
+          "speaker": "cominius",
+          "en": "I have been i’ th’ marketplace; and, sir, ’tis fit\nYou make strong party or defend yourself\nBy calmness or by absence. All’s in anger.",
+          "es": "He estado en la plaza del mercado y, señor, conviene\nque reúnas partidarios firmes o que te protejas\ncon la calma o con tu ausencia. Todos están furiosos.",
+          "notes": [
+            {
+              "term": "make strong party",
+              "title": "make strong party",
+              "type": "Nota filológica",
+              "gloss": "reunir un grupo sólido de partidarios",
+              "body": "«Party» designa aquí un grupo de apoyo, no un partido político moderno. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; Shakespeare Online, Coriolanus III.2, https://www.shakespeare-online.com/plays/corio_3_2.html.",
+              "lemma": "party",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/party"
+            },
+            {
+              "term": "by calmness or by absence",
+              "title": "by calmness or by absence",
+              "type": "Nota filológica",
+              "gloss": "con calma o evitando presentarte",
+              "body": "Cominio ofrece alternativas tácticas a una confrontación directa; la «ausencia» es una retirada, no un estado de ánimo. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; Shakespeare Online, Coriolanus III.2, https://www.shakespeare-online.com/plays/corio_3_2.html.",
+              "lemma": "absence",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/absence"
+            }
+          ]
+        },
+        {
+          "line": "2217",
+          "speaker": "menenius",
+          "en": "Only fair speech.",
+          "es": "Basta con hablar cortésmente.",
+          "notes": [
+            {
+              "term": "fair speech",
+              "title": "fair speech",
+              "type": "Nota filológica",
+              "gloss": "palabras conciliadoras",
+              "body": "Menenio insiste en el tono de la intervención más que en una retractación doctrinal. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; Shakespeare Online, Coriolanus III.2, https://www.shakespeare-online.com/plays/corio_3_2.html.",
+              "lemma": "fair",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/fair"
+            }
+          ]
+        },
+        {
+          "line": "2218–2219",
+          "speaker": "cominius",
+          "en": "I think ’twill serve, if he\nCan thereto frame his spirit.",
+          "es": "Creo que eso bastará, si él\nconsigue ajustar su ánimo a esa actitud.",
+          "notes": [
+            {
+              "term": "frame his spirit",
+              "title": "frame his spirit",
+              "type": "Nota filológica",
+              "gloss": "amoldar su ánimo",
+              "body": "«Frame» significa adaptar o disponer; el obstáculo es la disposición interior de Coriolano, no su capacidad verbal. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; Shakespeare Online, Coriolanus III.2, https://www.shakespeare-online.com/plays/corio_3_2.html.",
+              "lemma": "frame",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/frame"
+            }
+          ]
+        },
+        {
+          "line": "2220–2221",
+          "speaker": "volumnia",
+          "en": "He must, and will.—\nPrithee, now, say you will, and go about it.",
+          "es": "Tiene que hacerlo, y lo hará.\nTe lo ruego: di que lo harás y ponte a ello.",
+          "notes": [
+            {
+              "term": "He must, and will",
+              "title": "He must, and will",
+              "type": "Nota filológica",
+              "gloss": "debe hacerlo y lo hará",
+              "body": "La madre transforma una obligación en predicción, subrayando su autoridad sobre la decisión del hijo. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; Shakespeare Online, Coriolanus III.2, https://www.shakespeare-online.com/plays/corio_3_2.html."
+            },
+            {
+              "term": "go about it",
+              "title": "go about it",
+              "type": "Nota filológica",
+              "gloss": "ponte a ello",
+              "body": "Locución verbal que pide comenzar la acción sin más dilaciones. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; Shakespeare Online, Coriolanus III.2, https://www.shakespeare-online.com/plays/corio_3_2.html.",
+              "lemma": "go",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/go"
             }
           ]
         }
