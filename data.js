@@ -21,7 +21,8 @@ window.SHAKESPEARE_READER_DATA = {
         "coriolanus-2-1",
         "coriolanus-2-2",
         "coriolanus-2-3",
-        "coriolanus-3-1"
+        "coriolanus-3-1",
+        "coriolanus-3-2"
       ]
     }
   ],
@@ -15215,6 +15216,255 @@ window.SHAKESPEARE_READER_DATA = {
           "en": "Pray you, let’s to him.",
           "es": "Por favor, vayamos a verlo.",
           "notes": []
+        }
+      ]
+    },
+    {
+      "id": "coriolanus-3-2",
+      "workId": "coriolanus",
+      "act": 3,
+      "scene": 2,
+      "place": "Roma · Una estancia",
+      "sourceRef": "Folger Shakespeare Library · Acto III, escena 2",
+      "sectionLabel": "Edición en curso · líneas 2100–2128",
+      "introduction": "Tras la crisis de la plaza, Coriolano rechaza moderar su trato con los tribunos. Su madre Volumnia contrapone la firmeza de carácter al uso estratégico del poder.",
+      "stage": "Entra Coriolano acompañado de nobles. Volumnia entra durante el parlamento de Coriolano, antes de la línea 2114.",
+      "characters": [
+        {
+          "id": "coriolanus",
+          "name": "Coriolano",
+          "english": "Coriolanus",
+          "identity": "General romano que se niega a disimular su desprecio por los plebeyos.",
+          "color": "copper"
+        },
+        {
+          "id": "noble",
+          "name": "Noble",
+          "english": "Noble",
+          "identity": "Uno de los nobles que acompañan a Coriolano.",
+          "color": "slate"
+        },
+        {
+          "id": "volumnia",
+          "name": "Volumnia",
+          "english": "Volumnia",
+          "identity": "Madre de Coriolano, partidaria de una estrategia política más prudente.",
+          "color": "olive"
+        }
+      ],
+      "blocks": [
+        {
+          "line": "2100–2105",
+          "speaker": "coriolanus",
+          "en": "Let them pull all about mine ears, present me\nDeath on the wheel or at wild horses’ heels,\nOr pile ten hills on the Tarpeian rock,\nThat the precipitation might down stretch\nBelow the beam of sight, yet will I still\nBe thus to them.",
+          "es": "Que tiren de mí hasta arrancarme las orejas, que me condenen\na morir en la rueda o arrastrado por caballos salvajes,\no que amontonen diez colinas sobre la roca Tarpeya,\npara que la caída se prolongue\nmás allá de lo que alcanza la vista: aun así,\nseguiré tratándolos de este modo.",
+          "notes": [
+            {
+              "term": "pull all about mine ears",
+              "title": "pull all about mine ears",
+              "type": "Nota filológica",
+              "gloss": "tirar de mí hasta arrancarme las orejas",
+              "body": "La edición Folger lee «pull»; el texto del MIT ofrece «puff». Se conserva la lección de la edición base sin presentar la discrepancia como una variante manuscrita comprobada. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; MIT Shakespeare, Coriolanus III.2, https://shakespeare.mit.edu/coriolanus/coriolanus.3.2.html.",
+              "lemma": "pull",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/pull"
+            },
+            {
+              "term": "Death on the wheel",
+              "title": "Death on the wheel",
+              "type": "Nota filológica",
+              "gloss": "muerte en la rueda",
+              "body": "Alusión a un suplicio de ejecución; Coriolano acumula imágenes extremas de castigo para declarar que no cederá. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; MIT Shakespeare, Coriolanus III.2, https://shakespeare.mit.edu/coriolanus/coriolanus.3.2.html."
+            },
+            {
+              "term": "Tarpeian rock",
+              "title": "Tarpeian rock",
+              "type": "Nota filológica",
+              "gloss": "roca Tarpeya",
+              "body": "Lugar de Roma asociado tradicionalmente con el despeñamiento de condenados; la imagen vuelve hiperbólica la amenaza. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; MIT Shakespeare, Coriolanus III.2, https://shakespeare.mit.edu/coriolanus/coriolanus.3.2.html.",
+              "lemma": "Tarpeian",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/Tarpeian"
+            },
+            {
+              "term": "precipitation",
+              "title": "precipitation",
+              "type": "Nota filológica",
+              "gloss": "caída precipitada",
+              "body": "Aquí significa el acto de despeñarse o caer, no «precipitación» meteorológica. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; MIT Shakespeare, Coriolanus III.2, https://shakespeare.mit.edu/coriolanus/coriolanus.3.2.html.",
+              "lemma": "precipitation",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/precipitation"
+            }
+          ]
+        },
+        {
+          "line": "2106",
+          "speaker": "noble",
+          "en": "You do the nobler.",
+          "es": "Así actúas con mayor nobleza.",
+          "notes": [
+            {
+              "term": "the nobler",
+              "title": "the nobler",
+              "type": "Nota filológica",
+              "gloss": "con mayor nobleza",
+              "body": "Comparativo sustantivado: el noble aprueba la obstinación de Coriolano, frente al consejo de moderación. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; MIT Shakespeare, Coriolanus III.2, https://shakespeare.mit.edu/coriolanus/coriolanus.3.2.html.",
+              "lemma": "noble",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/noble"
+            }
+          ]
+        },
+        {
+          "line": "2107–2113",
+          "speaker": "coriolanus",
+          "en": "I muse my mother\nDoes not approve me further, who was wont\nTo call them woolen vassals, things created\nTo buy and sell with groats, to show bare heads\nIn congregations, to yawn, be still, and wonder\nWhen one but of my ordinance stood up\nTo speak of peace or war.",
+          "es": "Me sorprende que mi madre\nya no me dé su aprobación, ella que solía\nllamarlos vasallos de paño basto, criaturas hechas\npara comprar y vender por unas monedas, descubrirse la cabeza\nen las asambleas, bostezar, callarse y quedarse admiradas\ncuando alguien de mi categoría se levantaba\npara hablar de paz o de guerra.",
+          "notes": [
+            {
+              "term": "I muse",
+              "title": "I muse",
+              "type": "Nota filológica",
+              "gloss": "me sorprende",
+              "body": "«Muse» funciona aquí como verbo con el sentido de maravillarse o extrañarse; no es el sustantivo «musa». Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; MIT Shakespeare, Coriolanus III.2, https://shakespeare.mit.edu/coriolanus/coriolanus.3.2.html.",
+              "lemma": "muse",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/muse"
+            },
+            {
+              "term": "woolen vassals",
+              "title": "woolen vassals",
+              "type": "Nota filológica",
+              "gloss": "vasallos de paño basto",
+              "body": "Insulto de clase que asocia a los plebeyos con un tejido ordinario y con la subordinación política; la traducción hace explícito el desprecio social. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; MIT Shakespeare, Coriolanus III.2, https://shakespeare.mit.edu/coriolanus/coriolanus.3.2.html.",
+              "lemma": "woolen",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/woolen"
+            },
+            {
+              "term": "groats",
+              "title": "groats",
+              "type": "Nota filológica",
+              "gloss": "monedas de escaso valor",
+              "body": "«Groat» designa una moneda; la mención subraya el supuesto horizonte mercantil y limitado que Coriolano atribuye a la plebe. No debe confundirse con «granos» alimenticios. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; MIT Shakespeare, Coriolanus III.2, https://shakespeare.mit.edu/coriolanus/coriolanus.3.2.html.",
+              "lemma": "groat",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/groat"
+            },
+            {
+              "term": "my ordinance",
+              "title": "my ordinance",
+              "type": "Nota filológica",
+              "gloss": "mi categoría / autoridad",
+              "body": "En contexto apunta al rango o disposición de mando del hablante, no a una «ordenanza» municipal moderna; se mantiene una equivalencia interpretativa. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; MIT Shakespeare, Coriolanus III.2, https://shakespeare.mit.edu/coriolanus/coriolanus.3.2.html.",
+              "lemma": "ordinance",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/ordinance"
+            }
+          ]
+        },
+        {
+          "line": "2114–2117",
+          "speaker": "coriolanus",
+          "en": "I talk of you.\nWhy did you wish me milder? Would you have me\nFalse to my nature? Rather say I play\nThe man I am.",
+          "es": "Precisamente hablaba de ti.\n¿Por qué querías que fuera más moderado? ¿Pretendes\nque traicione mi naturaleza? Mejor di que interpreto\nal hombre que soy.",
+          "notes": [
+            {
+              "term": "play / The man I am",
+              "title": "play / The man I am",
+              "type": "Nota filológica",
+              "gloss": "interpretar al hombre que soy",
+              "body": "Paradoja teatral: Coriolano rechaza fingir moderación, pero formula su autenticidad mediante el verbo «play», que también significa representar un papel. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; MIT Shakespeare, Coriolanus III.2, https://shakespeare.mit.edu/coriolanus/coriolanus.3.2.html.",
+              "lemma": "play",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/play"
+            }
+          ]
+        },
+        {
+          "line": "2118–2120",
+          "speaker": "volumnia",
+          "en": "O sir, sir, sir,\nI would have had you put your power well on\nBefore you had worn it out.",
+          "es": "¡Ay, señor, señor, señor!\nHabría querido que ejercieras bien tu poder\nantes de desgastarlo por completo.",
+          "notes": [
+            {
+              "term": "put your power well on",
+              "title": "put your power well on",
+              "type": "Nota filológica",
+              "gloss": "ejercer bien tu poder",
+              "body": "La imagen de «ponerse» o usar el poder se prolonga en «worn it out»: gastarlo por el uso; Volumnia reprocha la falta de cálculo político. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; MIT Shakespeare, Coriolanus III.2, https://shakespeare.mit.edu/coriolanus/coriolanus.3.2.html.",
+              "lemma": "wear",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/wear"
+            }
+          ]
+        },
+        {
+          "line": "2121",
+          "speaker": "coriolanus",
+          "en": "Let go.",
+          "es": "Déjalo ya.",
+          "notes": [
+            {
+              "term": "Let go",
+              "title": "Let go",
+              "type": "Nota filológica",
+              "gloss": "déjalo ya",
+              "body": "Réplica abrupta que puede entenderse como rechazo a continuar la discusión; la formulación breve mantiene la ambigüedad de gesto y mandato. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; MIT Shakespeare, Coriolanus III.2, https://shakespeare.mit.edu/coriolanus/coriolanus.3.2.html.",
+              "lemma": "let",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/let"
+            }
+          ]
+        },
+        {
+          "line": "2122–2126",
+          "speaker": "volumnia",
+          "en": "You might have been enough the man you are\nWith striving less to be so. Lesser had been\nThe thwartings of your dispositions if\nYou had not showed them how you were disposed\nEre they lacked power to cross you.",
+          "es": "Podrías haber sido suficientemente el hombre que eres\nsin empeñarte tanto en demostrarlo. Menos obstáculos\nhabrían encontrado tus inclinaciones\nsi no les hubieras mostrado tus intenciones\nantes de que perdieran la capacidad de oponerse a ti.",
+          "notes": [
+            {
+              "term": "thwartings",
+              "title": "thwartings",
+              "type": "Nota filológica",
+              "gloss": "obstáculos / contrariedades",
+              "body": "Sustantivación de «thwart»: las resistencias que suscita su conducta; la edición Folger marca el término como intervención editorial mediante corchetes angulares. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; MIT Shakespeare, Coriolanus III.2, https://shakespeare.mit.edu/coriolanus/coriolanus.3.2.html.",
+              "lemma": "thwart",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/thwart"
+            },
+            {
+              "term": "disposed",
+              "title": "disposed",
+              "type": "Nota filológica",
+              "gloss": "inclinado / decidido",
+              "body": "Juego entre «dispositions» (inclinaciones de carácter) y «disposed» (dispuesto a actuar); la madre insiste en el coste de revelar prematuramente sus intenciones. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; MIT Shakespeare, Coriolanus III.2, https://shakespeare.mit.edu/coriolanus/coriolanus.3.2.html.",
+              "lemma": "dispose",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/dispose"
+            },
+            {
+              "term": "Ere",
+              "title": "Ere",
+              "type": "Nota filológica",
+              "gloss": "antes de que",
+              "body": "Conjunción temporal del inglés moderno temprano, aún literaria en inglés actual. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; MIT Shakespeare, Coriolanus III.2, https://shakespeare.mit.edu/coriolanus/coriolanus.3.2.html.",
+              "lemma": "ere",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/ere"
+            }
+          ]
+        },
+        {
+          "line": "2127",
+          "speaker": "coriolanus",
+          "en": "Let them hang!",
+          "es": "¡Que los ahorquen!",
+          "notes": []
+        },
+        {
+          "line": "2128",
+          "speaker": "volumnia",
+          "en": "Ay, and burn too.",
+          "es": "Sí, ¡y que los quemen también!",
+          "notes": [
+            {
+              "term": "Ay, and burn too",
+              "title": "Ay, and burn too",
+              "type": "Nota filológica",
+              "gloss": "sí, y que los quemen también",
+              "body": "La réplica no necesariamente expresa un deseo literal de ejecución: Volumnia recoge y amplifica la exclamación de su hijo antes de volver al consejo práctico. Es una lectura del intercambio, no una acotación autoral. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; MIT Shakespeare, Coriolanus III.2, https://shakespeare.mit.edu/coriolanus/coriolanus.3.2.html.",
+              "lemma": "burn",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/burn"
+            }
+          ]
         }
       ]
     }
