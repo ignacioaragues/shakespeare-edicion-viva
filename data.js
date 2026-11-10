@@ -16558,7 +16558,7 @@ window.SHAKESPEARE_READER_DATA = {
       "scene": 3,
       "place": "Roma · El foro",
       "sourceRef": "Folger Shakespeare Library · Acto III, escena 3",
-      "sectionLabel": "Edición en curso · líneas 2277–2345",
+      "sectionLabel": "Edición en curso · líneas 2277–2364",
       "introduction": "Bruto y Sicinio preparan los cargos contra Coriolano antes de su comparecencia.",
       "stage": "Entran Sicinio y Bruto. Entra un edil después de la línea 2281; sale después de la línea 2308.",
       "characters": [
@@ -16583,9 +16583,34 @@ window.SHAKESPEARE_READER_DATA = {
           "identity": "Funcionario de los tribunos.",
           "color": "copper"
         },
-        {"id":"both_tribunes","name":"Ambos tribunos","english":"Both Tribunes","identity":"Sicinio y Bruto hablan juntos.","color":"slate"},
-        {"id":"coriolanus","name":"Coriolano","english":"Coriolanus","identity":"General romano ante los tribunos.","color":"copper"},
-        {"id":"menenius","name":"Menenio Agripa","english":"Menenius","identity":"Patricio que defiende al general.","color":"olive"}
+        {
+          "id": "both_tribunes",
+          "name": "Ambos tribunos",
+          "english": "Both Tribunes",
+          "identity": "Sicinio y Bruto hablan juntos.",
+          "color": "slate"
+        },
+        {
+          "id": "coriolanus",
+          "name": "Coriolano",
+          "english": "Coriolanus",
+          "identity": "General romano ante los tribunos.",
+          "color": "copper"
+        },
+        {
+          "id": "menenius",
+          "name": "Menenio Agripa",
+          "english": "Menenius",
+          "identity": "Patricio que defiende al general.",
+          "color": "olive"
+        },
+        {
+          "id": "cominius",
+          "name": "Cominio",
+          "english": "Cominius",
+          "identity": "General romano y defensor de Coriolano.",
+          "color": "slate"
+        }
       ],
       "blocks": [
         {
@@ -17151,6 +17176,157 @@ window.SHAKESPEARE_READER_DATA = {
               "body": "Coriolano minimiza sus heridas al atribuirlas figuradamente a espinos. Fuentes: Folger, Coriolanus III.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/; MIT Shakespeare III.3: https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html.",
               "lemma": "briar",
               "lemmaUrl": "https://en.wiktionary.org/wiki/briar"
+            }
+          ]
+        },
+        {
+          "line": "2346–2351",
+          "speaker": "menenius",
+          "en": "Consider further,\nThat when he speaks not like a citizen,\nYou find him like a soldier. Do not take\nHis rougher accents for malicious sounds,\nBut, as I say, such as become a soldier\nRather than envy you.",
+          "es": "Consideren también\nque, cuando no habla como un ciudadano,\nhabla como un soldado. No interpreten\nsu manera más áspera de expresarse como palabras malintencionadas,\nsino como expresiones propias de un soldado,\ny no como señales de hostilidad hacia ustedes.",
+          "notes": [
+            {
+              "term": "rougher accents",
+              "title": "rougher accents",
+              "type": "Nota filológica",
+              "gloss": "manera más áspera de hablar",
+              "body": "«Accents» designa aquí el tono o manera de expresarse, no el acento regional. Fuentes: Folger Shakespeare Library, Coriolanus III.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/; MIT Shakespeare, III.3: https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html.",
+              "lemma": "accent",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/accent"
+            },
+            {
+              "term": "envy you",
+              "title": "envy you",
+              "type": "Nota filológica",
+              "gloss": "sentir hostilidad hacia ustedes",
+              "body": "«Envy» expresa animadversión, no solamente envidia en el sentido moderno. Fuentes: Folger Shakespeare Library, Coriolanus III.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/; MIT Shakespeare, III.3: https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html.",
+              "lemma": "envy",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/envy"
+            }
+          ]
+        },
+        {
+          "line": "2352",
+          "speaker": "cominius",
+          "en": "Well, well, no more.",
+          "es": "Bien, bien, basta ya.",
+          "notes": []
+        },
+        {
+          "line": "2353–2356",
+          "speaker": "coriolanus",
+          "en": "What is the matter,\nThat, being passed for consul with full voice,\nI am so dishonored that the very hour\nYou take it off again?",
+          "es": "¿Qué sucede\npara que, después de haber sido aprobado como cónsul con todos los votos,\nme deshonren hasta el punto de retirarme el cargo\nen ese mismo instante?",
+          "notes": [
+            {
+              "term": "passed for consul",
+              "title": "passed for consul",
+              "type": "Nota filológica",
+              "gloss": "aprobado como cónsul",
+              "body": "Se refiere a la aprobación de su candidatura, no a una destitución tras ejercer el consulado. Fuentes: Folger Shakespeare Library, Coriolanus III.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/; MIT Shakespeare, III.3: https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html.",
+              "lemma": "pass",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/pass"
+            },
+            {
+              "term": "full voice",
+              "title": "full voice",
+              "type": "Nota filológica",
+              "gloss": "todos los votos",
+              "body": "«Voice» tiene aquí valor electoral; la unanimidad se presenta desde la perspectiva del personaje. Fuentes: Folger Shakespeare Library, Coriolanus III.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/; MIT Shakespeare, III.3: https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html.",
+              "lemma": "voice",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/voice"
+            },
+            {
+              "term": "take it off",
+              "title": "take it off",
+              "type": "Nota filológica",
+              "gloss": "retirarlo; revocarlo",
+              "body": "El pronombre remite al honor o nombramiento consular reclamado por Coriolano. Fuentes: Folger Shakespeare Library, Coriolanus III.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/; MIT Shakespeare, III.3: https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html.",
+              "lemma": "take",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/take"
+            }
+          ]
+        },
+        {
+          "line": "2357",
+          "speaker": "sicinius",
+          "en": "Answer to us.",
+          "es": "Respóndenos.",
+          "notes": []
+        },
+        {
+          "line": "2358",
+          "speaker": "coriolanus",
+          "en": "Say then. ’Tis true, I ought so.",
+          "es": "Habla, entonces. Es cierto, debo hacerlo.",
+          "notes": [
+            {
+              "term": "ought so",
+              "title": "ought so",
+              "type": "Nota filológica",
+              "gloss": "debo hacerlo",
+              "body": "«So» retoma la obligación de responder a los tribunos. Fuentes: Folger Shakespeare Library, Coriolanus III.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/; MIT Shakespeare, III.3: https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html.",
+              "lemma": "ought",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/ought"
+            }
+          ]
+        },
+        {
+          "line": "2359–2362",
+          "speaker": "sicinius",
+          "en": "We charge you that you have contrived to take\nFrom Rome all seasoned office and to wind\nYourself into a power tyrannical,\nFor which you are a traitor to the people.",
+          "es": "Te acusamos de haber conspirado para arrebatarle a Roma\ntodas sus magistraturas establecidas y abrirte camino\nhasta alcanzar un poder tiránico;\npor eso eres un traidor al pueblo.",
+          "notes": [
+            {
+              "term": "seasoned office",
+              "title": "seasoned office",
+              "type": "Nota filológica",
+              "gloss": "magistraturas consolidadas",
+              "body": "«Seasoned» caracteriza instituciones asentadas por el tiempo y la experiencia. Fuentes: Folger Shakespeare Library, Coriolanus III.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/; MIT Shakespeare, III.3: https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html.",
+              "lemma": "seasoned",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/seasoned"
+            },
+            {
+              "term": "wind",
+              "title": "wind",
+              "type": "Nota filológica",
+              "gloss": "abrirte camino mediante maniobras",
+              "body": "El verbo sugiere un avance sinuoso hacia el poder. Fuentes: Folger Shakespeare Library, Coriolanus III.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/; MIT Shakespeare, III.3: https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html.",
+              "lemma": "wind",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/wind"
+            },
+            {
+              "term": "traitor",
+              "title": "traitor",
+              "type": "Nota filológica",
+              "gloss": "traidor",
+              "body": "La acusación convierte la disputa institucional en imputación de deslealtad política. Fuentes: Folger Shakespeare Library, Coriolanus III.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/; MIT Shakespeare, III.3: https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html.",
+              "lemma": "traitor",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/traitor"
+            }
+          ]
+        },
+        {
+          "line": "2363",
+          "speaker": "coriolanus",
+          "en": "How? Traitor?",
+          "es": "¿Cómo? ¿Traidor?",
+          "notes": []
+        },
+        {
+          "line": "2364",
+          "speaker": "menenius",
+          "en": "Nay, temperately! Your promise.",
+          "es": "¡No! ¡Con moderación! Recuerda tu promesa.",
+          "notes": [
+            {
+              "term": "temperately",
+              "title": "temperately",
+              "type": "Nota filológica",
+              "gloss": "con moderación",
+              "body": "Menenio recuerda el compromiso de autocontrol anterior a la comparecencia. Fuentes: Folger Shakespeare Library, Coriolanus III.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/; MIT Shakespeare, III.3: https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html.",
+              "lemma": "temperately",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/temperately"
             }
           ]
         }

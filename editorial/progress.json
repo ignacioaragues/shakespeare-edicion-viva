@@ -1138,13 +1138,22 @@
       "last_line": 2345,
       "editorial_state": "translated_source_checked_external_references",
       "note": "Nine speeches, Folger/MIT checked; private reference and retrospective review pending."
+    },
+    {
+      "id": "coriolanus-3-3-2346-2364",
+      "act": 3,
+      "scene": 3,
+      "first_line": 2346,
+      "last_line": 2364,
+      "editorial_state": "translated_source_checked_external_references",
+      "note": "Eight complete speeches, Folger III.3 and MIT compared; nine lexical notes with contextual glosses and references. Private references and retrospective review pending."
     }
   ],
   "next_fragment": {
     "act": 3,
     "scene": 3,
-    "first_line": 2346,
-    "note": "Continue at Menenius' defence."
+    "first_line": 2365,
+    "note": "Coriolanus responds furiously to the charge of treason."
   },
   "completed_acts": [],
   "last_update_commit": "pending_atomic_commit",
