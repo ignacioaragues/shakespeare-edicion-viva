@@ -22,7 +22,8 @@ window.SHAKESPEARE_READER_DATA = {
         "coriolanus-2-2",
         "coriolanus-2-3",
         "coriolanus-3-1",
-        "coriolanus-3-2"
+        "coriolanus-3-2",
+        "coriolanus-3-3"
       ]
     }
   ],
@@ -16547,6 +16548,112 @@ window.SHAKESPEARE_READER_DATA = {
               "body": "La triple insistencia de los últimos intercambios produce un cierre de escena irónico: la palabra repetida anticipa la dificultad de sostener esa conducta en III.3. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; First Folio transcription, Wikisource, https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_3_Scene_2."
             }
           ]
+        }
+      ]
+    },
+    {
+      "id": "coriolanus-3-3",
+      "workId": "coriolanus",
+      "act": 3,
+      "scene": 3,
+      "place": "Roma · El foro",
+      "sourceRef": "Folger Shakespeare Library · Acto III, escena 3",
+      "sectionLabel": "Edición en curso · líneas 2277–2286",
+      "introduction": "Bruto y Sicinio preparan los cargos contra Coriolano antes de su comparecencia.",
+      "stage": "Entran Sicinio y Bruto. Entra un edil después de la línea 2281.",
+      "characters": [
+        {
+          "id": "brutus",
+          "name": "Bruto",
+          "english": "Brutus",
+          "identity": "Tribuno de la plebe.",
+          "color": "slate"
+        },
+        {
+          "id": "sicinius",
+          "name": "Sicinio",
+          "english": "Sicinius",
+          "identity": "Tribuno de la plebe.",
+          "color": "olive"
+        },
+        {
+          "id": "aedile",
+          "name": "Edil",
+          "english": "Aedile",
+          "identity": "Funcionario de los tribunos.",
+          "color": "copper"
+        }
+      ],
+      "blocks": [
+        {
+          "line": "2277–2281",
+          "speaker": "brutus",
+          "en": "In this point charge him home, that he affects\nTyrannical power. If he evade us there,\nEnforce him with his envy to the people,\nAnd that the spoil got on the Antiates\nWas ne’er distributed.",
+          "es": "Insistan sobre todo en acusarlo de aspirar\nal poder tiránico. Si consigue eludir ese cargo,\nacorrálenlo con su hostilidad hacia el pueblo\ny con que el botín arrebatado a los habitantes de Ancio\nnunca se repartió.",
+          "notes": [
+            {
+              "term": "charge him home",
+              "title": "charge him home",
+              "type": "Nota filológica",
+              "gloss": "acusarlo con contundencia",
+              "body": "«Home» intensifica la acusación; no designa aquí un lugar. Referencias: Folger Shakespeare Library, Coriolanus III.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/; MIT Shakespeare, III.3, https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html.",
+              "lemma": "home",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/home"
+            },
+            {
+              "term": "affects",
+              "title": "affects",
+              "type": "Nota filológica",
+              "gloss": "ambiciona; aspira a",
+              "body": "En este contexto «affect» significa perseguir o ambicionar un poder. Referencias: Folger Shakespeare Library, Coriolanus III.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/; MIT Shakespeare, III.3, https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html.",
+              "lemma": "affect",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/affect"
+            },
+            {
+              "term": "envy to the people",
+              "title": "envy to the people",
+              "type": "Nota filológica",
+              "gloss": "hostilidad hacia el pueblo",
+              "body": "«Envy» puede designar animadversión, no solo envidia en el sentido actual. Referencias: Folger Shakespeare Library, Coriolanus III.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/; MIT Shakespeare, III.3, https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html.",
+              "lemma": "envy",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/envy"
+            },
+            {
+              "term": "Antiates",
+              "title": "Antiates",
+              "type": "Nota filológica",
+              "gloss": "habitantes de Ancio",
+              "body": "Gentilicio de Antium, ciudad de los volscos; la distribución del botín sirve de argumento político. Referencias: Folger Shakespeare Library, Coriolanus III.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/; MIT Shakespeare, III.3, https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html."
+            }
+          ]
+        },
+        {
+          "line": "2282",
+          "speaker": "brutus",
+          "en": "What, will he come?",
+          "es": "¿Y bien? ¿Vendrá?",
+          "notes": []
+        },
+        {
+          "line": "2283",
+          "speaker": "aedile",
+          "en": "He’s coming.",
+          "es": "Ya viene.",
+          "notes": []
+        },
+        {
+          "line": "2284",
+          "speaker": "brutus",
+          "en": "How accompanied?",
+          "es": "¿Quiénes lo acompañan?",
+          "notes": []
+        },
+        {
+          "line": "2285–2286",
+          "speaker": "aedile",
+          "en": "With old Menenius, and those senators\nThat always favored him.",
+          "es": "El viejo Menenio y los senadores\nque siempre lo han apoyado.",
+          "notes": []
         }
       ]
     }

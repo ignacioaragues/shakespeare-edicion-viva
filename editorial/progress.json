@@ -1102,13 +1102,22 @@
       "last_line": 2276,
       "editorial_state": "translated_source_checked_external_references",
       "note": "Final four speeches and stage exit of III.2; Folger online and First Folio transcription checked; eight contextual notes. Retrospective review and private reference comparison pending."
+    },
+    {
+      "id": "coriolanus-3-3-2277-2286",
+      "act": 3,
+      "scene": 3,
+      "first_line": 2277,
+      "last_line": 2286,
+      "editorial_state": "translated_source_checked_external_references",
+      "note": "Opening III.3, five complete speeches, Folger and MIT compared. Private reference and retrospective review pending."
     }
   ],
   "next_fragment": {
     "act": 3,
     "scene": 3,
-    "first_line": 2277,
-    "note": "Begin scene III.3 with Brutus and Sicinius preparing charges against Coriolanus; establish scene navigation before publication."
+    "first_line": 2287,
+    "note": "Continue Sicinius' questions about the prepared votes."
   },
   "completed_acts": [],
   "last_update_commit": "pending_atomic_commit",
