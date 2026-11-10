@@ -15226,7 +15226,7 @@ window.SHAKESPEARE_READER_DATA = {
       "scene": 2,
       "place": "Roma · Una estancia",
       "sourceRef": "Folger Shakespeare Library · Acto III, escena 2",
-      "sectionLabel": "Edición en curso · líneas 2100–2149",
+      "sectionLabel": "Edición en curso · líneas 2100–2166",
       "introduction": "Tras la crisis de la plaza, Coriolano rechaza moderar su trato con los tribunos. Su madre Volumnia contrapone la firmeza de carácter al uso estratégico del poder.",
       "stage": "Entra Coriolano acompañado de nobles. Volumnia entra durante el parlamento de Coriolano, antes de la línea 2114.",
       "characters": [
@@ -15632,6 +15632,143 @@ window.SHAKESPEARE_READER_DATA = {
               "type": "Nota filológica",
               "gloss": "¿ante ellos?",
               "body": "La preposición señala a los destinatarios de la retractación. Coriolano contrapone la reverencia debida a los dioses con la humillación de pedir perdón a los tribunos. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; MIT Shakespeare, Coriolanus III.2, https://shakespeare.mit.edu/coriolanus/coriolanus.3.2.html."
+            }
+          ]
+        },
+        {
+          "line": "2150–2156",
+          "speaker": "volumnia",
+          "en": "You are too absolute,\nThough therein you can never be too noble\nBut when extremities speak. I have heard you say\nHonor and policy, like unsevered friends,\nI’ th’ war do grow together. Grant that, and tell me\nIn peace what each of them by th’ other lose\nThat they combine not there?",
+          "es": "Eres demasiado inflexible,\naunque en eso nunca podrías ser demasiado noble,\nsalvo cuando se imponen las circunstancias extremas. Te he oído decir\nque el honor y la prudencia, como amigos inseparables,\ncrecen juntos en la guerra. Admitámoslo: dime entonces\nqué perdería cada uno por unirse al otro en la paz,\npara que no puedan ir juntos también allí.",
+          "notes": [
+            {
+              "term": "too absolute",
+              "title": "too absolute",
+              "type": "Nota filológica",
+              "gloss": "demasiado inflexible",
+              "body": "«Absolute» describe aquí una firmeza sin concesiones, no el poder absoluto de un gobernante. La madre concede su nobleza, pero cuestiona su aplicación en circunstancias extremas. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; MIT Shakespeare, Coriolanus III.2, https://shakespeare.mit.edu/coriolanus/coriolanus.3.2.html.",
+              "lemma": "absolute",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/absolute"
+            },
+            {
+              "term": "extremities speak",
+              "title": "extremities speak",
+              "type": "Nota filológica",
+              "gloss": "las circunstancias extremas se imponen",
+              "body": "La personificación atribuye voz a la necesidad: el principio de nobleza deja de bastar cuando una crisis exige otra conducta. Interpretación contextual, no una máxima jurídica. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; MIT Shakespeare, Coriolanus III.2, https://shakespeare.mit.edu/coriolanus/coriolanus.3.2.html.",
+              "lemma": "extremity",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/extremity"
+            },
+            {
+              "term": "policy",
+              "title": "policy",
+              "type": "Nota filológica",
+              "gloss": "prudencia estratégica",
+              "body": "No equivale aquí a «política» en sentido institucional, sino a cálculo prudente y estrategia. Volumnia insiste en que ese cálculo puede acompañar al honor en paz igual que en guerra. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; MIT Shakespeare, Coriolanus III.2, https://shakespeare.mit.edu/coriolanus/coriolanus.3.2.html.",
+              "lemma": "policy",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/policy"
+            },
+            {
+              "term": "unsevered friends",
+              "title": "unsevered friends",
+              "type": "Nota filológica",
+              "gloss": "amigos inseparables",
+              "body": "El participio «unsevered» («no separados») convierte honor y prudencia en aliados. La comparación anticipa el argumento por analogía entre guerra y paz. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; MIT Shakespeare, Coriolanus III.2, https://shakespeare.mit.edu/coriolanus/coriolanus.3.2.html.",
+              "lemma": "sever",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/sever"
+            },
+            {
+              "term": "what each of them by th’ other lose",
+              "title": "what each of them by th’ other lose",
+              "type": "Nota filológica",
+              "gloss": "qué perdería cada uno al unirse al otro",
+              "body": "Interrogación retórica: Volumnia obliga a Coriolano a explicar por qué la cooperación del honor y la prudencia sería legítima en guerra e ilegítima en paz. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; MIT Shakespeare, Coriolanus III.2, https://shakespeare.mit.edu/coriolanus/coriolanus.3.2.html."
+            }
+          ]
+        },
+        {
+          "line": "2157",
+          "speaker": "coriolanus",
+          "en": "Tush, tush!",
+          "es": "¡Bah, bah!",
+          "notes": [
+            {
+              "term": "Tush",
+              "title": "Tush",
+              "type": "Nota filológica",
+              "gloss": "bah / tonterías",
+              "body": "Interjección de desdén o impaciencia; la repetición evita responder al razonamiento de Volumnia. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; MIT Shakespeare, Coriolanus III.2, https://shakespeare.mit.edu/coriolanus/coriolanus.3.2.html.",
+              "lemma": "tush",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/tush"
+            }
+          ]
+        },
+        {
+          "line": "2158–2159",
+          "speaker": "menenius",
+          "en": "A good\ndemand.",
+          "es": "Una buena\npregunta.",
+          "notes": [
+            {
+              "term": "demand",
+              "title": "demand",
+              "type": "Nota filológica",
+              "gloss": "pregunta / planteamiento",
+              "body": "«Demand» funciona como sustantivo para una cuestión planteada que exige respuesta, no como una orden o exigencia administrativa. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; MIT Shakespeare, Coriolanus III.2, https://shakespeare.mit.edu/coriolanus/coriolanus.3.2.html.",
+              "lemma": "demand",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/demand"
+            }
+          ]
+        },
+        {
+          "line": "2160–2165",
+          "speaker": "volumnia",
+          "en": "If it be honor in your wars to seem\nThe same you are not, which for your best ends\nYou adopt your policy, how is it less or worse\nThat it shall hold companionship in peace\nWith honor as in war, since that to both\nIt stands in like request?",
+          "es": "Si en la guerra es honorable aparentar\nlo que no eres, y para alcanzar tus mejores fines\nrecurres a la prudencia estratégica, ¿por qué habría de ser peor\nque esa prudencia acompañe al honor en la paz\nigual que en la guerra, si en ambas situaciones\nes igualmente necesaria?",
+          "notes": [
+            {
+              "term": "to seem / The same you are not",
+              "title": "to seem / The same you are not",
+              "type": "Nota filológica",
+              "gloss": "aparentar lo que no eres",
+              "body": "El argumento invierte la defensa anterior de la autenticidad: la simulación militar puede ser honorable cuando evita daños o asegura la victoria. La traducción mantiene el carácter hipotético de «If». Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; MIT Shakespeare, Coriolanus III.2, https://shakespeare.mit.edu/coriolanus/coriolanus.3.2.html.",
+              "lemma": "seem",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/seem"
+            },
+            {
+              "term": "hold companionship",
+              "title": "hold companionship",
+              "type": "Nota filológica",
+              "gloss": "acompañar / ir de la mano",
+              "body": "La personificación prolonga la amistad de «unsevered friends»: prudencia y honor pueden mantener su alianza fuera del campo de batalla. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; MIT Shakespeare, Coriolanus III.2, https://shakespeare.mit.edu/coriolanus/coriolanus.3.2.html.",
+              "lemma": "companionship",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/companionship"
+            },
+            {
+              "term": "in like request",
+              "title": "in like request",
+              "type": "Nota filológica",
+              "gloss": "igualmente necesaria / requerida",
+              "body": "«Request» significa aquí necesidad o demanda de una cualidad, no una petición formal. La lectura sigue la comparación explícita entre paz y guerra. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; MIT Shakespeare, Coriolanus III.2, https://shakespeare.mit.edu/coriolanus/coriolanus.3.2.html.",
+              "lemma": "request",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/request"
+            }
+          ]
+        },
+        {
+          "line": "2166",
+          "speaker": "coriolanus",
+          "en": "Why force you this?",
+          "es": "¿Por qué insistes tanto en esto?",
+          "notes": [
+            {
+              "term": "force you this",
+              "title": "force you this",
+              "type": "Nota filológica",
+              "gloss": "por qué insistes en esto",
+              "body": "«Force» expresa aquí apremio argumentativo: Coriolano siente que su madre le impone una conclusión, no que ejerza fuerza física. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; MIT Shakespeare, Coriolanus III.2, https://shakespeare.mit.edu/coriolanus/coriolanus.3.2.html.",
+              "lemma": "force",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/force"
             }
           ]
         }

@@ -1030,13 +1030,22 @@
       "last_line": 2149,
       "editorial_state": "translated_source_checked_external_references",
       "note": "Nine complete speech blocks, Folger III.2 compared against MIT; Menenius' entrance, civic rupture, Volumnia's anger and Menenius' medical metaphor annotated. MIT differs on assignment of 2128 (previous block); this earlier attribution requires retrospective review. Private EPUB/PDF not consulted."
+    },
+    {
+      "id": "coriolanus-3-2-2150-2166",
+      "act": 3,
+      "scene": 2,
+      "first_line": 2150,
+      "last_line": 2166,
+      "editorial_state": "translated_source_checked_external_references",
+      "note": "Five complete speeches, Folger III.2 compared with MIT; Volumnia's honor/policy analogy and early modern demand/request annotated. Earlier textual attribution issue at 2128 remains open; private PDF/EPUB not consulted. Retrospective review pending."
     }
   ],
   "next_fragment": {
     "act": 3,
     "scene": 2,
-    "first_line": 2150,
-    "note": "Continue with Volumnia's full argument on honor and policy, through line 2156; preserve full speech."
+    "first_line": 2167,
+    "note": "Next Volumnia speech 2167–2184 (18 lines); keep whole speech together."
   },
   "completed_acts": [],
   "last_update_commit": "pending_atomic_commit",
