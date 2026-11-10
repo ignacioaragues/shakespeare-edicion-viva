@@ -20,7 +20,8 @@ a{color:inherit}
 .brand-name>span{font-weight:700;letter-spacing:.12em;font-size:11px;white-space:nowrap}
 .brand-name small{letter-spacing:.24em;font-size:9px;color:var(--accent);font-weight:700}
 .topbar-center{text-align:center;font-family:var(--serif);font-size:10px;color:var(--ink-pale);font-style:italic}
-.topbar-actions{display:flex;justify-content:flex-end;align-items:center;padding-right:21px}
+.topbar-actions{display:flex;justify-content:flex-end;align-items:center;padding-right:21px;width:max-content;justify-self:end;gap:3px}
+.topbar-actions>*{flex:0 0 auto;white-space:nowrap}
 .source-button{border:0;background:transparent;color:#8b9087;margin-right:13px;font-size:10px;letter-spacing:.04em;text-decoration:none}
 .source-button:hover{color:var(--accent)}
 .top-button{height:32px;min-width:32px;border:1px solid var(--line);background:transparent;color:var(--ink-mid);border-radius:50%;font-size:14px}
