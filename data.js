@@ -17457,6 +17457,147 @@ window.SHAKESPEARE_READER_DATA = {
               "lemmaUrl": "https://en.wiktionary.org/wiki/have"
             }
           ]
+        },
+        {
+          "line": "2384",
+          "speaker": "coriolanus",
+          "en": "What do you prate of service?",
+          "es": "¿Por qué parloteas sobre mis servicios?",
+          "notes": [
+            {
+              "term": "prate",
+              "title": "prate",
+              "type": "Nota filológica",
+              "gloss": "parlotear; hablar neciamente",
+              "body": "Verbo despectivo: Coriolano rechaza que Bruto invoque sus servicios militares para moderar la sentencia. Fuentes: Folger, Coriolanus III.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/; MIT Shakespeare, III.3, https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html.",
+              "lemma": "prate",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/prate"
+            }
+          ]
+        },
+        {
+          "line": "2385",
+          "speaker": "brutus",
+          "en": "I talk of that that know it.",
+          "es": "Hablo de aquello que conozco.",
+          "notes": [
+            {
+              "term": "that that know it",
+              "title": "that that know it",
+              "type": "Nota filológica",
+              "gloss": "aquello que conozco",
+              "body": "El primer «that» remite a los servicios y el segundo introduce una relativa con sujeto implícito de primera persona; el sentido es «hablo de lo que conozco». Fuentes: Folger, Coriolanus III.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/; MIT Shakespeare, III.3, https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html.",
+              "lemma": "that",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/that"
+            }
+          ]
+        },
+        {
+          "line": "2386",
+          "speaker": "coriolanus",
+          "en": "You?",
+          "es": "¿Tú?",
+          "notes": [
+            {
+              "term": "You?",
+              "title": "You?",
+              "type": "Nota filológica",
+              "gloss": "¿Tú?",
+              "body": "Interrogación mínima que desacredita la competencia de Bruto para juzgar sus hazañas; el pronombre por sí solo sostiene el desprecio. Fuentes: Folger, Coriolanus III.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/; MIT Shakespeare, III.3, https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html."
+            }
+          ]
+        },
+        {
+          "line": "2387",
+          "speaker": "menenius",
+          "en": "Is this the promise that you made your mother?",
+          "es": "¿Es esta la promesa que le hiciste a tu madre?",
+          "notes": [
+            {
+              "term": "promise",
+              "title": "promise",
+              "type": "Nota filológica",
+              "gloss": "promesa a Volumnia",
+              "body": "Remite al compromiso de moderar su lenguaje adquirido en III.2: el conflicto entre deber filial y orgullo político vuelve a primer plano. Fuentes: Folger, Coriolanus III.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/; MIT Shakespeare, III.3, https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html.",
+              "lemma": "promise",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/promise"
+            }
+          ]
+        },
+        {
+          "line": "2388",
+          "speaker": "cominius",
+          "en": "Know, I pray you—",
+          "es": "Entiende, te lo ruego...",
+          "notes": [
+            {
+              "term": "I pray you",
+              "title": "I pray you",
+              "type": "Nota filológica",
+              "gloss": "te lo ruego",
+              "body": "Fórmula de súplica; la raya marca la interrupción de Cominio antes de que pueda desarrollar su argumento. Fuentes: Folger, Coriolanus III.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/; MIT Shakespeare, III.3, https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html.",
+              "lemma": "pray",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/pray"
+            }
+          ]
+        },
+        {
+          "line": "2389–2395",
+          "speaker": "coriolanus",
+          "en": "I’ll know no further.\nLet them pronounce the steep Tarpeian death,\nVagabond exile, flaying, pent to linger\nBut with a grain a day, I would not buy\nTheir mercy at the price of one fair word,\nNor check my courage for what they can give,\nTo have ’t with saying “Good morrow.”",
+          "es": "No quiero saber nada más.\nQue decreten la muerte desde la escarpada roca Tarpeya,\nel destierro errante, el desollamiento o que me encierren\npara prolongar mi agonía con apenas un grano al día:\nno compraría su clemencia al precio de una sola palabra amable,\nni refrenaría mi valor por cuanto puedan concederme,\nsi para obtenerlo tuviera que decir «Buenos días».",
+          "notes": [
+            {
+              "term": "Tarpeian death",
+              "title": "Tarpeian death",
+              "type": "Nota filológica",
+              "gloss": "muerte por despeñamiento desde la roca Tarpeya",
+              "body": "Alusión al castigo de arrojar al condenado desde la roca Tarpeya, en Roma; la topografía vuelve literal la amenaza de la multitud. Fuentes: Folger, Coriolanus III.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/; MIT Shakespeare, III.3, https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html."
+            },
+            {
+              "term": "Vagabond exile",
+              "title": "Vagabond exile",
+              "type": "Nota filológica",
+              "gloss": "destierro errante",
+              "body": "«Vagabond» califica el exilio como una vida sin patria ni residencia estable; no designa aquí una categoría jurídica inequívoca. Fuentes: Folger, Coriolanus III.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/; MIT Shakespeare, III.3, https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html.",
+              "lemma": "vagabond",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/vagabond"
+            },
+            {
+              "term": "flaying",
+              "title": "flaying",
+              "type": "Nota filológica",
+              "gloss": "desollamiento",
+              "body": "Folger imprime «flaying», castigo de arrancar la piel; MIT ofrece «raying», diferencia textual entre ediciones digitales que exige cotejo adicional antes de atribuirla a un testimonio antiguo. Fuentes: Folger, Coriolanus III.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/; MIT Shakespeare, III.3, https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html.",
+              "lemma": "flay",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/flay"
+            },
+            {
+              "term": "pent to linger",
+              "title": "pent to linger",
+              "type": "Nota filológica",
+              "gloss": "encerrado para prolongar la agonía",
+              "body": "«Pent» es participio de «pen» ('encerrar'); «linger» indica una muerte lenta, aquí agravada por una ración ínfima. Fuentes: Folger, Coriolanus III.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/; MIT Shakespeare, III.3, https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html.",
+              "lemma": "pen",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/pen"
+            },
+            {
+              "term": "check my courage",
+              "title": "check my courage",
+              "type": "Nota filológica",
+              "gloss": "refrenar mi valor",
+              "body": "«Check» significa contener o frenar; el héroe equipara la cortesía política con la renuncia a su entereza. Fuentes: Folger, Coriolanus III.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/; MIT Shakespeare, III.3, https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html.",
+              "lemma": "check",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/check"
+            },
+            {
+              "term": "Good morrow",
+              "title": "Good morrow",
+              "type": "Nota filológica",
+              "gloss": "Buenos días",
+              "body": "Saludo cortés deliberadamente trivial: la hipérbole sostiene que ni la mínima concesión verbal vale la misericordia de los tribunos. Fuentes: Folger, Coriolanus III.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/; MIT Shakespeare, III.3, https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html."
+            }
+          ]
         }
       ]
     }

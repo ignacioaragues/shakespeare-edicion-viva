@@ -1156,13 +1156,22 @@
       "last_line": 2383,
       "editorial_state": "translated_source_checked_external_references",
       "note": "Five complete speeches, Folger/MIT compared, nine contextual notes. Private comparison and retrospective review pending."
+    },
+    {
+      "id": "coriolanus-3-3-2384-2395",
+      "act": 3,
+      "scene": 3,
+      "first_line": 2384,
+      "last_line": 2395,
+      "editorial_state": "translated_source_checked_external_references",
+      "note": "Six complete speeches, Folger III.3 and MIT checked. Variant flaying/raying identified without asserting First Folio provenance; private source and retrospective review pending."
     }
   ],
   "next_fragment": {
     "act": 3,
     "scene": 3,
-    "first_line": 2384,
-    "note": "Coriolanus interrupts Brutus; Menenius recalls his promise."
+    "first_line": 2396,
+    "note": "Sicinius delivers the banishment sentence; preserve his full speech through 2408."
   },
   "completed_acts": [],
   "last_update_commit": "pending_atomic_commit",
