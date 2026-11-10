@@ -976,13 +976,22 @@
       "last_line": 2013,
       "editorial_state": "translated_source_checked_external_references",
       "note": "Seven complete speeches, Folger III.1 compared with MIT; Neptune/Jove, frankness, political viper and summary Tarpeian punishment annotated. Stage directions at exits, noise and re-entry require a separate presentation pass. Private reference files not consulted."
+    },
+    {
+      "id": "coriolanus-3-1-2014-2034",
+      "act": 3,
+      "scene": 1,
+      "first_line": 2014,
+      "last_line": 2034,
+      "editorial_state": "translated_source_checked_external_references",
+      "note": "Twelve complete speeches; Folger III.1 compared with Shakespeare Online and Shakespeare’s Words (havoc), Collins (holp). Contextual Spanish glosses and references. Private PDF/EPUB not consulted."
     }
   ],
   "next_fragment": {
     "act": 3,
     "scene": 1,
-    "first_line": 2014,
-    "note": "Continue with citizens' endorsement of the tribunes and Menenius' attempt to restrain them."
+    "first_line": 2035,
+    "note": "Sicinius permits Menenius a brief defence and renews the death threat."
   },
   "completed_acts": [],
   "last_update_commit": "pending_atomic_commit",

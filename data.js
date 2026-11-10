@@ -11730,7 +11730,7 @@ window.SHAKESPEARE_READER_DATA = {
       "scene": 1,
       "place": "Roma · Una calle, camino del Capitolio",
       "sourceRef": "Folger Shakespeare Library · Acto III, escena 1",
-      "sectionLabel": "Edición en curso · líneas 1669–1992",
+      "sectionLabel": "Edición en curso · líneas 1669–2034",
       "introduction": "Tras la votación, Coriolano conversa con los generales sobre Aufidio. La irrupción de los tribunos alterará pronto la marcha hacia el consulado.",
       "stage": "Suenan cornetas. Entran Coriolano, Menenio, Cominio, Tito Larcio, patricios y senadores.",
       "characters": [
@@ -14577,6 +14577,167 @@ window.SHAKESPEARE_READER_DATA = {
               "body": "Locución «set at naught»: tratar algo como si no valiera nada; aquí se refiere al poder público. Referencias: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
               "lemma": "naught",
               "lemmaUrl": "https://en.wiktionary.org/wiki/naught"
+            }
+          ]
+        },
+        {
+          "line": "2014–2016",
+          "speaker": "citizen1",
+          "en": "He shall well know\nThe noble tribunes are the people’s mouths\nAnd we their hands.",
+          "es": "Pronto sabrá\nque los nobles tribunos son la voz del pueblo\ny nosotros, sus manos.",
+          "notes": [
+            {
+              "term": "people’s mouths",
+              "title": "people’s mouths",
+              "type": "Nota filológica",
+              "gloss": "la voz del pueblo",
+              "body": "El ciudadano distribuye las funciones políticas entre los tribunos, que hablan, y los ciudadanos, que ejecutan. La imagen es una reivindicación de representación, no una descripción institucional neutral. Referencias: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/."
+            }
+          ]
+        },
+        {
+          "line": "2017",
+          "speaker": "all",
+          "en": "He shall, sure on ’t.",
+          "es": "¡Ya lo creo que lo sabrá!",
+          "notes": [
+            {
+              "term": "sure on ’t",
+              "title": "sure on ’t",
+              "type": "Nota filológica",
+              "gloss": "sin duda; desde luego",
+              "body": "«On ’t» equivale a «of it»; la réplica coral ratifica la amenaza anterior. Referencias: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/."
+            }
+          ]
+        },
+        {
+          "line": "2018",
+          "speaker": "menenius",
+          "en": "Sir, sir—",
+          "es": "Señor, señor...",
+          "notes": []
+        },
+        {
+          "line": "2019",
+          "speaker": "sicinius",
+          "en": "Peace!",
+          "es": "¡Silencio!",
+          "notes": []
+        },
+        {
+          "line": "2020–2021",
+          "speaker": "menenius",
+          "en": "Do not cry havoc where you should but hunt\nWith modest warrant.",
+          "es": "No den la señal de una matanza cuando deberían limitarse\na perseguirlo con una autorización moderada.",
+          "notes": [
+            {
+              "term": "cry havoc",
+              "title": "cry havoc",
+              "type": "Nota filológica",
+              "gloss": "dar la señal de una matanza indiscriminada",
+              "body": "«Havoc» podía ser una consigna de devastación en combate y cacería. Menenio contrapone la violencia sin límites a una persecución restringida; el matiz histórico está confirmado por el glosario de Crystal y Crystal. Referencias: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; David y Ben Crystal, Shakespeare’s Words, voz «havoc», https://www.shakespeareswords.com/Public/GlossaryHeadword.aspx?headwordId=18146.",
+              "lemma": "havoc",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/havoc"
+            },
+            {
+              "term": "modest warrant",
+              "title": "modest warrant",
+              "type": "Nota filológica",
+              "gloss": "autorización limitada; mandato prudente",
+              "body": "«Warrant» puede designar autorización o fundamento para actuar; «modest» restringe su alcance. No se presupone aquí una orden judicial concreta. Referencias: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/.",
+              "lemma": "warrant",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/warrant"
+            }
+          ]
+        },
+        {
+          "line": "2022–2023",
+          "speaker": "sicinius",
+          "en": "Sir, how comes ’t that you\nHave holp to make this rescue?",
+          "es": "Señor, ¿cómo es que usted\nha contribuido a que escapara?",
+          "notes": [
+            {
+              "term": "holp",
+              "title": "holp",
+              "type": "Nota filológica",
+              "gloss": "ayudado; contribuido",
+              "body": "Forma antigua de pasado o participio de «help». Aquí, después de «have», funciona como participio, no como pasado simple. Collins registra ambos usos históricos. Referencias: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; Collins English Dictionary, voz «holp», https://www.collinsdictionary.com/dictionary/english/holp.",
+              "lemma": "help",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/help"
+            }
+          ]
+        },
+        {
+          "line": "2024–2026",
+          "speaker": "menenius",
+          "en": "Hear me speak.\nAs I do know the Consul’s worthiness,\nSo can I name his faults.",
+          "es": "Déjeme hablar.\nAsí como conozco los méritos del cónsul,\ntambién puedo señalar sus defectos.",
+          "notes": [
+            {
+              "term": "As I do know ... So can I",
+              "title": "As I do know ... So can I",
+              "type": "Nota filológica",
+              "gloss": "así como conozco... también puedo",
+              "body": "Construcción correlativa «as ... so» que equilibra elogio y crítica; «do» refuerza la afirmación sin cambiar el tiempo verbal. Referencias: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/."
+            },
+            {
+              "term": "Consul’s worthiness",
+              "title": "Consul’s worthiness",
+              "type": "Nota filológica",
+              "gloss": "méritos del cónsul",
+              "body": "Menenio lo llama cónsul pese a que su nombramiento sigue siendo políticamente impugnado: el título desencadena la protesta inmediata. Referencias: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/."
+            }
+          ]
+        },
+        {
+          "line": "2027",
+          "speaker": "sicinius",
+          "en": "Consul? What consul?",
+          "es": "¿Cónsul? ¿Qué cónsul?",
+          "notes": []
+        },
+        {
+          "line": "2028",
+          "speaker": "menenius",
+          "en": "The consul Coriolanus.",
+          "es": "El cónsul Coriolano.",
+          "notes": []
+        },
+        {
+          "line": "2029",
+          "speaker": "brutus",
+          "en": "He consul?",
+          "es": "¿Él, cónsul?",
+          "notes": []
+        },
+        {
+          "line": "2030",
+          "speaker": "all",
+          "en": "No, no, no, no, no!",
+          "es": "¡No, no, no, no, no!",
+          "notes": []
+        },
+        {
+          "line": "2031–2034",
+          "speaker": "menenius",
+          "en": "If, by the Tribunes’ leave, and yours, good people,\nI may be heard, I would crave a word or two,\nThe which shall turn you to no further harm\nThan so much loss of time.",
+          "es": "Si los tribunos y ustedes, buen pueblo, me permiten\nhablar, quisiera pedirles un par de palabras.\nNo les ocasionarán ningún perjuicio,\nsalvo el tiempo que les lleve escucharlas.",
+          "notes": [
+            {
+              "term": "by the Tribunes’ leave",
+              "title": "by the Tribunes’ leave",
+              "type": "Nota filológica",
+              "gloss": "con permiso de los tribunos",
+              "body": "«Leave» significa aquí permiso; Menenio solicita legitimación tanto de los magistrados como de la multitud. Referencias: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/.",
+              "lemma": "leave",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/leave"
+            },
+            {
+              "term": "The which",
+              "title": "The which",
+              "type": "Nota filológica",
+              "gloss": "las cuales; esas palabras",
+              "body": "Relativo reforzado propio del uso antiguo; su antecedente es «a word or two», no los tribunos. Referencias: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/."
             }
           ]
         }
