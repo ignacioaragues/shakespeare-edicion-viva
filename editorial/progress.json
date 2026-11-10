@@ -1039,13 +1039,22 @@
       "last_line": 2166,
       "editorial_state": "translated_source_checked_external_references",
       "note": "Five complete speeches, Folger III.2 compared with MIT; Volumnia's honor/policy analogy and early modern demand/request annotated. Earlier textual attribution issue at 2128 remains open; private PDF/EPUB not consulted. Retrospective review pending."
+    },
+    {
+      "id": "coriolanus-3-2-2167-2184",
+      "act": 3,
+      "scene": 2,
+      "first_line": 2167,
+      "last_line": 2184,
+      "editorial_state": "translated_source_checked_external_references",
+      "note": "One complete Volumnia speech (18 lines); Folger and MIT compared (roted/rooted). Nine notes with Spanish glosses and references; private EPUB/PDF not consulted. Retrospective review pending."
     }
   ],
   "next_fragment": {
     "act": 3,
     "scene": 2,
-    "first_line": 2167,
-    "note": "Next Volumnia speech 2167–2184 (18 lines); keep whole speech together."
+    "first_line": 2185,
+    "note": "Next Menenius speech 2185–2188, followed by Volumnia 2189–2204; preserve complete speeches."
   },
   "completed_acts": [],
   "last_update_commit": "pending_atomic_commit",

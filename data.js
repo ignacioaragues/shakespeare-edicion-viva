@@ -15771,6 +15771,95 @@ window.SHAKESPEARE_READER_DATA = {
               "lemmaUrl": "https://en.wiktionary.org/wiki/force"
             }
           ]
+        },
+        {
+          "line": "2167–2184",
+          "speaker": "volumnia",
+          "en": "Because that now it lies you on to speak\nTo th’ people, not by your own instruction,\nNor by th’ matter which your heart prompts you,\nBut with such words that are but roted in\nYour tongue, though but bastards and syllables\nOf no allowance to your bosom’s truth.\nNow, this no more dishonors you at all\nThan to take in a town with gentle words,\nWhich else would put you to your fortune and\nThe hazard of much blood.\nI would dissemble with my nature where\nMy fortunes and my friends at stake required\nI should do so in honor. I am in this\nYour wife, your son, these senators, the nobles;\nAnd you will rather show our general louts\nHow you can frown than spend a fawn upon ’em\nFor the inheritance of their loves and safeguard\nOf what that want might ruin.",
+          "es": "Porque ahora te corresponde hablar\nante el pueblo, no siguiendo tu propio criterio\nni lo que el corazón te impulsa a decir,\nsino con palabras que apenas has aprendido de memoria\ny que solo están en tu lengua: palabras bastardas, sílabas\nque la verdad de tu pecho no reconoce como suyas.\nY eso no te deshonra más\nque conquistar una ciudad mediante palabras amables,\ncuando de otro modo tendrías que confiarte a la suerte\ny arriesgar mucha sangre.\nYo misma fingiría contra mi carácter si\nmi suerte y la de mis amigos, puestas en juego,\nme exigieran hacerlo con honor. En este asunto están\ntu esposa, tu hijo, estos senadores y los nobles.\nY tú prefieres mostrar a nuestros rudos conciudadanos\ncómo sabes fruncir el ceño antes que dedicarles una sonrisa aduladora\npara ganarte su afecto y proteger\ntodo cuanto la falta de ese afecto podría destruir.",
+          "notes": [
+            {
+              "term": "lies you on",
+              "title": "lies you on",
+              "type": "Nota filológica",
+              "gloss": "te corresponde / te incumbe",
+              "body": "Construcción de obligación personal; «Because that» introduce la justificación de la insistencia de Volumnia. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; MIT Shakespeare, III.2, https://shakespeare.mit.edu/coriolanus/coriolanus.3.2.html.",
+              "lemma": "lie",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/lie"
+            },
+            {
+              "term": "roted",
+              "title": "roted",
+              "type": "Nota filológica",
+              "gloss": "aprendidas de memoria",
+              "body": "Folger imprime «roted» (memorizadas por repetición); MIT presenta «rooted». Se conserva la lectura de Folger y se registra la discrepancia. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; MIT Shakespeare, III.2, https://shakespeare.mit.edu/coriolanus/coriolanus.3.2.html.",
+              "lemma": "rote",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/rote"
+            },
+            {
+              "term": "bastards and syllables",
+              "title": "bastards and syllables",
+              "type": "Nota filológica",
+              "gloss": "palabras bastardas, meras sílabas",
+              "body": "Metáfora de filiación ilegítima: lo dicho por la lengua no procede de la verdad interior. La oposición entre lengua y pecho es explícita; su valoración ética queda en disputa. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; MIT Shakespeare, III.2, https://shakespeare.mit.edu/coriolanus/coriolanus.3.2.html.",
+              "lemma": "bastard",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/bastard"
+            },
+            {
+              "term": "Of no allowance",
+              "title": "Of no allowance",
+              "type": "Nota filológica",
+              "gloss": "que no cuentan con la aprobación",
+              "body": "«Allowance» designa aceptación o reconocimiento: el pecho no avala esas palabras. No significa aquí una asignación monetaria. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; MIT Shakespeare, III.2, https://shakespeare.mit.edu/coriolanus/coriolanus.3.2.html.",
+              "lemma": "allowance",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/allowance"
+            },
+            {
+              "term": "take in a town",
+              "title": "take in a town",
+              "type": "Nota filológica",
+              "gloss": "tomar una ciudad",
+              "body": "«Take in» tiene sentido militar de conquistar una plaza. Volumnia justifica la persuasión política mediante una analogía con la capitulación sin derramamiento de sangre. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; MIT Shakespeare, III.2, https://shakespeare.mit.edu/coriolanus/coriolanus.3.2.html.",
+              "lemma": "take",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/take"
+            },
+            {
+              "term": "dissemble with my nature",
+              "title": "dissemble with my nature",
+              "type": "Nota filológica",
+              "gloss": "fingir contra mi carácter",
+              "body": "«Dissemble» nombra el ocultamiento deliberado de lo que se siente. Volumnia sostiene que puede ser compatible con el honor cuando protege a los suyos. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; MIT Shakespeare, III.2, https://shakespeare.mit.edu/coriolanus/coriolanus.3.2.html.",
+              "lemma": "dissemble",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/dissemble"
+            },
+            {
+              "term": "general louts",
+              "title": "general louts",
+              "type": "Nota filológica",
+              "gloss": "rudos conciudadanos / gente vulgar",
+              "body": "Desprecio social de Volumnia hacia la multitud: «general» señala al común de la población; «louts» la rebaja como gente tosca. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; MIT Shakespeare, III.2, https://shakespeare.mit.edu/coriolanus/coriolanus.3.2.html.",
+              "lemma": "lout",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/lout"
+            },
+            {
+              "term": "spend a fawn upon ’em",
+              "title": "spend a fawn upon ’em",
+              "type": "Nota filológica",
+              "gloss": "dedicarles un gesto adulador",
+              "body": "«Fawn» es una manifestación de halago o sumisión; contrasta con «frown», el ceño hostil. «Sonrisa aduladora» explicita el contraste sin exigir una sonrisa literal. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; MIT Shakespeare, III.2, https://shakespeare.mit.edu/coriolanus/coriolanus.3.2.html.",
+              "lemma": "fawn",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/fawn"
+            },
+            {
+              "term": "inheritance of their loves",
+              "title": "inheritance of their loves",
+              "type": "Nota filológica",
+              "gloss": "ganarse y conservar su afecto",
+              "body": "La metáfora patrimonial convierte la adhesión ciudadana en un bien que puede adquirirse y conservarse; interpretación retórica, no referencia a una herencia jurídica. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; MIT Shakespeare, III.2, https://shakespeare.mit.edu/coriolanus/coriolanus.3.2.html.",
+              "lemma": "inheritance",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/inheritance"
+            }
+          ]
         }
       ]
     }
