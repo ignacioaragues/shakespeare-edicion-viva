@@ -1075,13 +1075,22 @@
       "last_line": 2235,
       "editorial_state": "translated_source_checked_external_references",
       "note": "Three complete speeches; Folger III.2 compared with Shakespeare Online. Dramatic role, sconce, mold, prompt annotated with Spanish contextual glosses. Private PDF/EPUB and retrospective review pending."
+    },
+    {
+      "id": "coriolanus-3-2-2236-2249",
+      "act": 3,
+      "scene": 2,
+      "first_line": 2236,
+      "last_line": 2249,
+      "editorial_state": "translated_source_checked_external_references",
+      "note": "One complete Coriolanus speech; Folger III.2 checked with MIT and Shakespeare Online; nine philological notes with contextual Spanish glosses. Retrospective review and private PDF/EPUB comparison pending."
     }
   ],
   "next_fragment": {
     "act": 3,
     "scene": 2,
-    "first_line": 2236,
-    "note": "Coriolanus' long speech begins; preserve its complete unit if possible."
+    "first_line": 2250,
+    "note": "Volumnia's complete reply (2250–2257), followed by Coriolanus' reply."
   },
   "completed_acts": [],
   "last_update_commit": "pending_atomic_commit",

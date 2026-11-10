@@ -16236,6 +16236,89 @@ window.SHAKESPEARE_READER_DATA = {
               "lemmaUrl": "https://en.wiktionary.org/wiki/perform"
             }
           ]
+        },
+        {
+          "line": "2236–2249",
+          "speaker": "coriolanus",
+          "en": "Well, I must do ’t.\nAway, my disposition, and possess me\nSome harlot’s spirit! My throat of war be turned,\nWhich choirèd with my drum, into a pipe\nSmall as an eunuch or the virgin voice\nThat babies lull asleep! The smiles of knaves\nTent in my cheeks, and schoolboys’ tears take up\nThe glasses of my sight! A beggar’s tongue\nMake motion through my lips, and my armed knees,\nWho bowed but in my stirrup, bend like his\nThat hath received an alms. I will not do ’t,\nLest I surcease to honor mine own truth\nAnd, by my body’s action, teach my mind\nA most inherent baseness.",
+          "es": "Bien, tendré que hacerlo.\n¡Fuera de mí, carácter mío, y que me posea\nel espíritu de una prostituta! ¡Que mi voz de guerra,\nque cantaba al compás de mi tambor, se vuelva un silbido\ntan agudo como el de un eunuco o la voz virginal\nque arrulla a los bebés! ¡Que las sonrisas de los bribones\nse instalen en mis mejillas y las lágrimas de los escolares\nme llenen los ojos! ¡Que la lengua de un mendigo\nhable por mis labios y que mis rodillas, cubiertas de armadura,\nque solo se doblaban al montar, se inclinen como las de quien\nrecibe una limosna! No lo haré:\nno sea que deje de honrar mi propia verdad\ny que los actos de mi cuerpo enseñen a mi mente\nuna vileza arraigada en lo más profundo.",
+          "notes": [
+            {
+              "term": "disposition",
+              "title": "disposition",
+              "type": "Léxico",
+              "gloss": "carácter; temperamento",
+              "body": "Coriolano apostrofa su propia disposición como si pudiera expulsarla. La escena convierte el cambio político en una sustitución de identidad. Fuente: Folger Shakespeare Library, Coriolanus III.2, líneas 2236–2238, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/.",
+              "lemma": "disposition",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/disposition"
+            },
+            {
+              "term": "harlot’s spirit",
+              "title": "harlot’s spirit",
+              "type": "Retórica",
+              "gloss": "espíritu de una prostituta",
+              "body": "Insulto pronunciado por el personaje: Coriolano asocia la flexibilidad de su actuación con una identidad que desprecia. No es una valoración del editor. Fuente: Folger Shakespeare Library, Coriolanus III.2, 2238; comparación textual: MIT Shakespeare, III.2, https://shakespeare.mit.edu/coriolanus/coriolanus.3.2.html."
+            },
+            {
+              "term": "choirèd with my drum",
+              "title": "choirèd with my drum",
+              "type": "Léxico y metáfora",
+              "gloss": "cantaba al compás de mi tambor",
+              "body": "«Choirèd» (forma verbal de choir) representa la voz marcial concertada con el tambor. MIT transmite «quired»; se conserva la grafía modernizada de Folger, sin presentar esa diferencia ortográfica como una variante sustantiva. Fuentes: Folger, Coriolanus III.2, 2239; MIT Shakespeare, III.2, https://shakespeare.mit.edu/coriolanus/coriolanus.3.2.html.",
+              "lemma": "choir",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/choir"
+            },
+            {
+              "term": "pipe",
+              "title": "pipe",
+              "type": "Metáfora",
+              "gloss": "voz aguda; silbido",
+              "body": "Se opone al «throat of war»: la voz militar se convierte en un registro tenue y agudo. La comparación con el eunuco y la voz virginal pertenece a la caracterización que hace Coriolano de la docilidad. Fuente: Folger, Coriolanus III.2, 2239–2241, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/.",
+              "lemma": "pipe",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/pipe"
+            },
+            {
+              "term": "Tent in my cheeks",
+              "title": "Tent in my cheeks",
+              "type": "Léxico",
+              "gloss": "se instalen en mis mejillas",
+              "body": "«Tent» funciona como verbo: acampar o establecerse. La imagen militar de la tienda se aplica irónicamente a las sonrisas fingidas. Fuente: Folger, Coriolanus III.2, 2241–2242; cotejo: Shakespeare Online, III.2, https://www.shakespeare-online.com/plays/corio_3_2.html.",
+              "lemma": "tent",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/tent"
+            },
+            {
+              "term": "glasses of my sight",
+              "title": "glasses of my sight",
+              "type": "Metáfora",
+              "gloss": "mis ojos",
+              "body": "Perífrasis que presenta los ojos como instrumentos de la visión, ahora ocupados por lágrimas escolares. Fuente: Folger, Coriolanus III.2, 2242–2243, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/."
+            },
+            {
+              "term": "Make motion",
+              "title": "Make motion",
+              "type": "Léxico",
+              "gloss": "hable; formule una súplica",
+              "body": "«Make motion» puede sugerir hacer una petición, particularmente adecuada a la lengua del mendigo. La traducción mantiene el movimiento de esa voz por los labios. Fuente: Folger, Coriolanus III.2, 2243–2244; cotejo: MIT Shakespeare, III.2, https://shakespeare.mit.edu/coriolanus/coriolanus.3.2.html.",
+              "lemma": "motion",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/motion"
+            },
+            {
+              "term": "surcease",
+              "title": "surcease",
+              "type": "Léxico verbal",
+              "gloss": "cesar; dejar de",
+              "body": "Verbo que aquí rige el infinitivo «to honor». No significa «sobrepasar»; expresa el temor a dejar de respetar su propia verdad. Fuente: Folger, Coriolanus III.2, 2247, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/.",
+              "lemma": "surcease",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/surcease"
+            },
+            {
+              "term": "inherent baseness",
+              "title": "inherent baseness",
+              "type": "Interpretación",
+              "gloss": "vileza arraigada",
+              "body": "La paradoja final invierte la relación entre interior y exterior: fingir sumisión con el cuerpo podría enseñar vileza a la mente. Es la creencia del personaje, no un principio asumido por la edición. Fuente: Folger, Coriolanus III.2, 2248–2249, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/."
+            }
+          ]
         }
       ]
     }
