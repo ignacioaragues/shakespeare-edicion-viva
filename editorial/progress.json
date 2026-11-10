@@ -1147,13 +1147,22 @@
       "last_line": 2364,
       "editorial_state": "translated_source_checked_external_references",
       "note": "Eight complete speeches, Folger III.3 and MIT compared; nine lexical notes with contextual glosses and references. Private references and retrospective review pending."
+    },
+    {
+      "id": "coriolanus-3-3-2365-2383",
+      "act": 3,
+      "scene": 3,
+      "first_line": 2365,
+      "last_line": 2383,
+      "editorial_state": "translated_source_checked_external_references",
+      "note": "Five complete speeches, Folger/MIT compared, nine contextual notes. Private comparison and retrospective review pending."
     }
   ],
   "next_fragment": {
     "act": 3,
     "scene": 3,
-    "first_line": 2365,
-    "note": "Coriolanus responds furiously to the charge of treason."
+    "first_line": 2384,
+    "note": "Coriolanus interrupts Brutus; Menenius recalls his promise."
   },
   "completed_acts": [],
   "last_update_commit": "pending_atomic_commit",

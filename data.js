@@ -16610,6 +16610,13 @@ window.SHAKESPEARE_READER_DATA = {
           "english": "Cominius",
           "identity": "General romano y defensor de Coriolano.",
           "color": "slate"
+        },
+        {
+          "id": "all_plebeians",
+          "name": "Todos los plebeyos",
+          "english": "All Plebeians",
+          "identity": "La multitud reunida ante los tribunos.",
+          "color": "slate"
         }
       ],
       "blocks": [
@@ -17327,6 +17334,127 @@ window.SHAKESPEARE_READER_DATA = {
               "body": "Menenio recuerda el compromiso de autocontrol anterior a la comparecencia. Fuentes: Folger Shakespeare Library, Coriolanus III.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/; MIT Shakespeare, III.3: https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html.",
               "lemma": "temperately",
               "lemmaUrl": "https://en.wiktionary.org/wiki/temperately"
+            }
+          ]
+        },
+        {
+          "line": "2365–2371",
+          "speaker": "coriolanus",
+          "en": "The fires i’ th’ lowest hell fold in the people!\nCall me their traitor? Thou injurious tribune!\nWithin thine eyes sat twenty thousand deaths,\nIn thy hands clutched as many millions, in\nThy lying tongue both numbers, I would say\n“Thou liest” unto thee with a voice as free\nAs I do pray the gods.",
+          "es": "¡Que las llamas del infierno más profundo envuelvan al pueblo!\n¿Me llaman traidor suyo? ¡Tribuno infame!\nAunque en tus ojos se alojaran veinte mil muertes,\ny en tus manos se aferraran otros tantos millones,\ny tu lengua mentirosa reuniera ambas cifras,\nte diría «Mientes» con la misma libertad\ncon que elevo mis plegarias a los dioses.",
+          "notes": [
+            {
+              "term": "fold in",
+              "title": "fold in",
+              "type": "Nota filológica",
+              "gloss": "envuelvan",
+              "body": "Imprecación: las llamas se cierran sobre el pueblo. Fuentes: Folger, Coriolanus III.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/; MIT Shakespeare III.3: https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html.",
+              "lemma": "fold",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/fold"
+            },
+            {
+              "term": "injurious",
+              "title": "injurious",
+              "type": "Nota filológica",
+              "gloss": "ultrajante",
+              "body": "Coriolano considera una injuria la acusación de traición. Fuentes: Folger, Coriolanus III.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/; MIT Shakespeare III.3: https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html.",
+              "lemma": "injurious",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/injurious"
+            },
+            {
+              "term": "Thou liest",
+              "title": "Thou liest",
+              "type": "Nota filológica",
+              "gloss": "Mientes",
+              "body": "El singular «thou» interpela al tribuno; la frase desafía amenazas imaginarias. Fuentes: Folger, Coriolanus III.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/; MIT Shakespeare III.3: https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html.",
+              "lemma": "lie",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/lie"
+            }
+          ]
+        },
+        {
+          "line": "2372",
+          "speaker": "sicinius",
+          "en": "Mark you this, people?",
+          "es": "¿Han visto esto, ciudadanos?",
+          "notes": [
+            {
+              "term": "Mark you this",
+              "title": "Mark you this",
+              "type": "Nota filológica",
+              "gloss": "fíjense en esto",
+              "body": "El tribuno presenta el arrebato como prueba ante el pueblo. Fuentes: Folger, Coriolanus III.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/; MIT Shakespeare III.3: https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html.",
+              "lemma": "mark",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/mark"
+            }
+          ]
+        },
+        {
+          "line": "2373",
+          "speaker": "all_plebeians",
+          "en": "To th’ rock, to th’ rock with him!",
+          "es": "¡A la roca con él! ¡A la roca!",
+          "notes": [
+            {
+              "term": "the rock",
+              "title": "the rock",
+              "type": "Nota filológica",
+              "gloss": "la roca Tarpeya",
+              "body": "Alude al despeñamiento desde la roca Tarpeya como castigo en la tradición romana. Fuentes: Folger, Coriolanus III.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/; MIT Shakespeare III.3: https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html.",
+              "lemma": "rock",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/rock"
+            }
+          ]
+        },
+        {
+          "line": "2374–2381",
+          "speaker": "sicinius",
+          "en": "Peace!\nWe need not put new matter to his charge.\nWhat you have seen him do and heard him speak,\nBeating your officers, cursing yourselves,\nOpposing laws with strokes, and here defying\nThose whose great power must try him—even this,\nSo criminal and in such capital kind,\nDeserves th’ extremest death.",
+          "es": "¡Silencio!\nNo necesitamos añadir nuevos cargos a la acusación.\nLo que ustedes lo han visto hacer y oído decir:\ngolpear a sus magistrados, maldecirlos a ustedes,\nresponder a las leyes con golpes y desafiar aquí\na quienes tienen la autoridad de juzgarlo; todo esto,\ntan delictivo y de carácter tan grave,\nmerece la pena de muerte más severa.",
+          "notes": [
+            {
+              "term": "new matter",
+              "title": "new matter",
+              "type": "Nota filológica",
+              "gloss": "nuevos cargos",
+              "body": "Sicinio sostiene que basta la conducta presenciada. Fuentes: Folger, Coriolanus III.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/; MIT Shakespeare III.3: https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html.",
+              "lemma": "matter",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/matter"
+            },
+            {
+              "term": "with strokes",
+              "title": "with strokes",
+              "type": "Nota filológica",
+              "gloss": "con golpes",
+              "body": "Contrapone la violencia física a la autoridad legal. Fuentes: Folger, Coriolanus III.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/; MIT Shakespeare III.3: https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html.",
+              "lemma": "stroke",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/stroke"
+            },
+            {
+              "term": "capital kind",
+              "title": "capital kind",
+              "type": "Nota filológica",
+              "gloss": "carácter castigable con la muerte",
+              "body": "«Capital» se refiere a la pena capital. Fuentes: Folger, Coriolanus III.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/; MIT Shakespeare III.3: https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html.",
+              "lemma": "capital",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/capital"
+            }
+          ]
+        },
+        {
+          "line": "2382–2383",
+          "speaker": "brutus",
+          "en": "But since he hath\nServed well for Rome—",
+          "es": "Pero, puesto que ha prestado\nbuenos servicios a Roma...",
+          "notes": [
+            {
+              "term": "hath",
+              "title": "hath",
+              "type": "Nota filológica",
+              "gloss": "ha",
+              "body": "Tercera persona singular de «have» en inglés moderno temprano. Fuentes: Folger, Coriolanus III.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/; MIT Shakespeare III.3: https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html.",
+              "lemma": "have",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/have"
             }
           ]
         }
