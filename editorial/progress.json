@@ -1129,13 +1129,22 @@
       "last_line": 2326,
       "editorial_state": "translated_source_checked_external_references",
       "note": "Six complete speeches, Folger III.3 and MIT compared. Twelve contextual notes with Spanish glosses and references. Private references and retrospective review pending."
+    },
+    {
+      "id": "coriolanus-3-3-2327-2345",
+      "act": 3,
+      "scene": 3,
+      "first_line": 2327,
+      "last_line": 2345,
+      "editorial_state": "translated_source_checked_external_references",
+      "note": "Nine speeches, Folger/MIT checked; private reference and retrospective review pending."
     }
   ],
   "next_fragment": {
     "act": 3,
     "scene": 3,
-    "first_line": 2327,
-    "note": "Continue at Sicinius' summons to the people; preserve complete speech boundaries."
+    "first_line": 2346,
+    "note": "Continue at Menenius' defence."
   },
   "completed_acts": [],
   "last_update_commit": "pending_atomic_commit",

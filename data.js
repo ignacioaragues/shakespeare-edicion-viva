@@ -16558,7 +16558,7 @@ window.SHAKESPEARE_READER_DATA = {
       "scene": 3,
       "place": "Roma · El foro",
       "sourceRef": "Folger Shakespeare Library · Acto III, escena 3",
-      "sectionLabel": "Edición en curso · líneas 2277–2308",
+      "sectionLabel": "Edición en curso · líneas 2277–2345",
       "introduction": "Bruto y Sicinio preparan los cargos contra Coriolano antes de su comparecencia.",
       "stage": "Entran Sicinio y Bruto. Entra un edil después de la línea 2281; sale después de la línea 2308.",
       "characters": [
@@ -16582,7 +16582,10 @@ window.SHAKESPEARE_READER_DATA = {
           "english": "Aedile",
           "identity": "Funcionario de los tribunos.",
           "color": "copper"
-        }
+        },
+        {"id":"both_tribunes","name":"Ambos tribunos","english":"Both Tribunes","identity":"Sicinio y Bruto hablan juntos.","color":"slate"},
+        {"id":"coriolanus","name":"Coriolano","english":"Coriolanus","identity":"General romano ante los tribunos.","color":"copper"},
+        {"id":"menenius","name":"Menenio Agripa","english":"Menenius","identity":"Patricio que defiende al general.","color":"olive"}
       ],
       "blocks": [
         {
@@ -17001,6 +17004,155 @@ window.SHAKESPEARE_READER_DATA = {
           "en": "A noble wish.",
           "es": "Un noble deseo.",
           "notes": []
+        },
+        {
+          "line": "2327",
+          "speaker": "sicinius",
+          "en": "Draw near, you people.",
+          "es": "Acérquense, ciudadanos.",
+          "notes": []
+        },
+        {
+          "line": "2328",
+          "speaker": "aedile",
+          "en": "List to your tribunes. Audience! Peace, I say!",
+          "es": "Escuchen a sus tribunos. ¡Atención! ¡Silencio, digo!",
+          "notes": [
+            {
+              "term": "List",
+              "title": "List",
+              "type": "Nota filológica",
+              "gloss": "escuchen",
+              "body": "Imperativo histórico de «list», escuchar. Fuentes: Folger, Coriolanus III.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/; MIT Shakespeare III.3: https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html.",
+              "lemma": "list",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/list"
+            }
+          ]
+        },
+        {
+          "line": "2329",
+          "speaker": "coriolanus",
+          "en": "First, hear me speak.",
+          "es": "Primero, escúchenme.",
+          "notes": []
+        },
+        {
+          "line": "2330",
+          "speaker": "both_tribunes",
+          "en": "Well, say.—Peace, ho!",
+          "es": "Bien, habla. ¡Silencio!",
+          "notes": []
+        },
+        {
+          "line": "2331–2332",
+          "speaker": "coriolanus",
+          "en": "Shall I be charged no further than this present?\nMust all determine here?",
+          "es": "¿No se me formularán más cargos después de esta comparecencia?\n¿Ha de resolverse todo aquí?",
+          "notes": [
+            {
+              "term": "this present",
+              "title": "this present",
+              "type": "Nota filológica",
+              "gloss": "esta comparecencia",
+              "body": "Uso sustantivado de «present» para la instancia actual del procedimiento. Fuentes: Folger, Coriolanus III.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/; MIT Shakespeare III.3: https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html.",
+              "lemma": "present",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/present"
+            },
+            {
+              "term": "determine",
+              "title": "determine",
+              "type": "Nota filológica",
+              "gloss": "resolverse",
+              "body": "Aquí significa llegar a una decisión. Fuentes: Folger, Coriolanus III.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/; MIT Shakespeare III.3: https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html.",
+              "lemma": "determine",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/determine"
+            }
+          ]
+        },
+        {
+          "line": "2333–2337",
+          "speaker": "sicinius",
+          "en": "I do demand\nIf you submit you to the people’s voices,\nAllow their officers, and are content\nTo suffer lawful censure for such faults\nAs shall be proved upon you.",
+          "es": "Te pregunto\nsi te sometes a los votos del pueblo,\nreconoces a sus magistrados y aceptas\nrecibir una sanción legal por las faltas\nque se prueben contra ti.",
+          "notes": [
+            {
+              "term": "submit you",
+              "title": "submit you",
+              "type": "Nota filológica",
+              "gloss": "someterte",
+              "body": "Construcción reflexiva del inglés moderno temprano. Fuentes: Folger, Coriolanus III.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/; MIT Shakespeare III.3: https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html.",
+              "lemma": "submit",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/submit"
+            },
+            {
+              "term": "people’s voices",
+              "title": "people’s voices",
+              "type": "Nota filológica",
+              "gloss": "votos del pueblo",
+              "body": "«Voices» tiene valor electoral. Fuentes: Folger, Coriolanus III.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/; MIT Shakespeare III.3: https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html.",
+              "lemma": "voice",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/voice"
+            },
+            {
+              "term": "censure",
+              "title": "censure",
+              "type": "Nota filológica",
+              "gloss": "sanción legal",
+              "body": "No se reduce a una desaprobación verbal. Fuentes: Folger, Coriolanus III.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/; MIT Shakespeare III.3: https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html.",
+              "lemma": "censure",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/censure"
+            }
+          ]
+        },
+        {
+          "line": "2338",
+          "speaker": "coriolanus",
+          "en": "I am content.",
+          "es": "Estoy de acuerdo.",
+          "notes": []
+        },
+        {
+          "line": "2339–2342",
+          "speaker": "menenius",
+          "en": "Lo, citizens, he says he is content.\nThe warlike service he has done, consider. Think\nUpon the wounds his body bears, which show\nLike graves i’ th’ holy churchyard.",
+          "es": "Miren, ciudadanos: dice que está de acuerdo.\nConsideren sus servicios militares. Piensen\nen las heridas que lleva en el cuerpo, que parecen\nsepulturas en un cementerio sagrado.",
+          "notes": [
+            {
+              "term": "Lo",
+              "title": "Lo",
+              "type": "Nota filológica",
+              "gloss": "miren",
+              "body": "Interjección para llamar la atención. Fuentes: Folger, Coriolanus III.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/; MIT Shakespeare III.3: https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html.",
+              "lemma": "lo",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/lo"
+            },
+            {
+              "term": "Like graves i’ th’ holy churchyard",
+              "title": "Like graves i’ th’ holy churchyard",
+              "type": "Nota filológica",
+              "gloss": "como sepulturas en un cementerio sagrado",
+              "body": "Símil de las cicatrices como cavidades; la imagen cristiana pertenece al lenguaje dramático, no describe un rito romano. Fuentes: Folger, Coriolanus III.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/; MIT Shakespeare III.3: https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html.",
+              "lemma": "grave",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/grave"
+            }
+          ]
+        },
+        {
+          "line": "2343–2345",
+          "speaker": "coriolanus",
+          "en": "Scratches with\nbriars,\nScars to move laughter only.",
+          "es": "Arañazos de zarzas,\ncicatrices que solo provocan risa.",
+          "notes": [
+            {
+              "term": "briars",
+              "title": "briars",
+              "type": "Nota filológica",
+              "gloss": "zarzas",
+              "body": "Coriolano minimiza sus heridas al atribuirlas figuradamente a espinos. Fuentes: Folger, Coriolanus III.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/; MIT Shakespeare III.3: https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html.",
+              "lemma": "briar",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/briar"
+            }
+          ]
         }
       ]
     }
