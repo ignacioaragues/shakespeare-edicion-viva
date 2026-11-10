@@ -15226,7 +15226,7 @@ window.SHAKESPEARE_READER_DATA = {
       "scene": 2,
       "place": "Roma · Una estancia",
       "sourceRef": "Folger Shakespeare Library · Acto III, escena 2",
-      "sectionLabel": "Edición en curso · líneas 2100–2166",
+      "sectionLabel": "Edición en curso · líneas 2100–2204",
       "introduction": "Tras la crisis de la plaza, Coriolano rechaza moderar su trato con los tribunos. Su madre Volumnia contrapone la firmeza de carácter al uso estratégico del poder.",
       "stage": "Entra Coriolano acompañado de nobles. Volumnia entra durante el parlamento de Coriolano, antes de la línea 2114.",
       "characters": [
@@ -15858,6 +15858,135 @@ window.SHAKESPEARE_READER_DATA = {
               "body": "La metáfora patrimonial convierte la adhesión ciudadana en un bien que puede adquirirse y conservarse; interpretación retórica, no referencia a una herencia jurídica. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; MIT Shakespeare, III.2, https://shakespeare.mit.edu/coriolanus/coriolanus.3.2.html.",
               "lemma": "inheritance",
               "lemmaUrl": "https://en.wiktionary.org/wiki/inheritance"
+            }
+          ]
+        },
+        {
+          "line": "2185–2188",
+          "speaker": "menenius",
+          "en": "Noble lady!—\nCome, go with us; speak fair. You may salve so,\nNot what is dangerous present, but the loss\nOf what is past.",
+          "es": "¡Noble señora!\nVamos, acompáñanos; habla con amabilidad. Así podrás remediar,\nno el peligro que tenemos ahora delante, sino el daño\nque ya se ha producido.",
+          "notes": [
+            {
+              "term": "speak fair",
+              "title": "speak fair",
+              "type": "Nota filológica",
+              "gloss": "hablar con amabilidad / cortesía",
+              "body": "«Fair» modifica la manera de hablar, no la veracidad del discurso; Menenio pide un tono conciliador. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; Shakespeare Online, Coriolanus III.2, https://www.shakespeare-online.com/plays/corio_3_2.html.",
+              "lemma": "fair",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/fair"
+            },
+            {
+              "term": "salve",
+              "title": "salve",
+              "type": "Nota filológica",
+              "gloss": "remediar / aliviar",
+              "body": "El verbo prolonga la imaginería médica de Menenio en esta escena. La distinción entre el peligro actual y el daño pasado hace que la promesa de reparación sea limitada. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; Shakespeare Online, Coriolanus III.2, https://www.shakespeare-online.com/plays/corio_3_2.html.",
+              "lemma": "salve",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/salve"
+            },
+            {
+              "term": "dangerous present",
+              "title": "dangerous present",
+              "type": "Nota filológica",
+              "gloss": "peligro presente",
+              "body": "«Present» funciona sustantivamente: lo que amenaza ahora. No equivale al adjetivo español «presente» aislado. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; Shakespeare Online, Coriolanus III.2, https://www.shakespeare-online.com/plays/corio_3_2.html."
+            }
+          ]
+        },
+        {
+          "line": "2189–2204",
+          "speaker": "volumnia",
+          "en": "I prithee now, my son,\nGo to them with this bonnet in thy hand,\nAnd thus far having stretched it—here be with\nthem—\nThy knee bussing the stones—for in such business\nAction is eloquence, and the eyes of th’ ignorant\nMore learnèd than the ears—waving thy head,\nWhich often thus correcting thy stout heart,\nNow humble as the ripest mulberry\nThat will not hold the handling. Or say to them\nThou art their soldier and, being bred in broils,\nHast not the soft way, which thou dost confess\nWere fit for thee to use as they to claim,\nIn asking their good loves; but thou wilt frame\nThyself, forsooth, hereafter theirs, so far\nAs thou hast power and person.",
+          "es": "Te lo ruego, hijo mío:\nve a verlos con el gorro en la mano;\ny extiéndelo así —imagina que estás ante ellos—,\n\ncon la rodilla besando las piedras, pues en asuntos como este\nlos gestos son elocuencia y los ojos de los ignorantes\nentienden más que sus oídos. Inclina la cabeza,\ncomo si ese gesto corrigiera tu corazón obstinado,\ny muéstrate humilde como la mora más madura,\nque no resiste que la toquen. O diles\nque eres su soldado y que, criado entre combates,\nno conoces las maneras suaves que, según reconoces,\nte convendría emplear y que ellos tienen derecho a exigir\ncuando les pides su afecto; pero que de ahora en adelante\nprocurarás acomodarte a ellos, por supuesto,\nen cuanto te lo permitan tus fuerzas y tu condición.",
+          "notes": [
+            {
+              "term": "I prithee",
+              "title": "I prithee",
+              "type": "Nota filológica",
+              "gloss": "te lo ruego",
+              "body": "Forma lexicalizada de «I pray thee», con pronombre singular arcaico «thee»; la petición de la madre se intensifica con «my son». Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; Shakespeare Online, Coriolanus III.2, https://www.shakespeare-online.com/plays/corio_3_2.html.",
+              "lemma": "prithee",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/prithee"
+            },
+            {
+              "term": "bonnet",
+              "title": "bonnet",
+              "type": "Nota filológica",
+              "gloss": "gorro / sombrero",
+              "body": "El gorro retirado es una señal visible de deferencia; Volumnia no prescribe solo palabras sino una actuación corporal. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; Shakespeare Online, Coriolanus III.2, https://www.shakespeare-online.com/plays/corio_3_2.html.",
+              "lemma": "bonnet",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/bonnet"
+            },
+            {
+              "term": "bussing the stones",
+              "title": "bussing the stones",
+              "type": "Nota filológica",
+              "gloss": "besando las piedras",
+              "body": "«Buss» significa besar; la rodilla personificada «besa» el suelo en una reverencia extrema. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; Shakespeare Online, Coriolanus III.2, https://www.shakespeare-online.com/plays/corio_3_2.html.",
+              "lemma": "buss",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/buss"
+            },
+            {
+              "term": "Action is eloquence",
+              "title": "Action is eloquence",
+              "type": "Nota filológica",
+              "gloss": "los gestos son elocuencia",
+              "body": "Máxima retórica que da primacía a la actuación visible sobre el discurso. El contexto especifica que los espectadores juzgan por los ojos antes que por los oídos. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; Shakespeare Online, Coriolanus III.2, https://www.shakespeare-online.com/plays/corio_3_2.html."
+            },
+            {
+              "term": "More learnèd than the ears",
+              "title": "More learnèd than the ears",
+              "type": "Nota filológica",
+              "gloss": "más instruidos que los oídos",
+              "body": "Paradoja de los sentidos: los ojos de la multitud resultan «más doctos» que sus oídos al interpretar la sumisión gestual. No es una afirmación literal sobre alfabetización. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; Shakespeare Online, Coriolanus III.2, https://www.shakespeare-online.com/plays/corio_3_2.html.",
+              "lemma": "learned",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/learned"
+            },
+            {
+              "term": "stout heart",
+              "title": "stout heart",
+              "type": "Nota filológica",
+              "gloss": "corazón obstinado",
+              "body": "«Stout» aquí sugiere firmeza resistente o terquedad, no corpulencia física. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; Shakespeare Online, Coriolanus III.2, https://www.shakespeare-online.com/plays/corio_3_2.html.",
+              "lemma": "stout",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/stout"
+            },
+            {
+              "term": "ripest mulberry",
+              "title": "ripest mulberry",
+              "type": "Nota filológica",
+              "gloss": "mora muy madura",
+              "body": "La fruta madura y delicada sirve de comparación para una humildad que cede al contacto. La imagen es teatralmente concreta. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; Shakespeare Online, Coriolanus III.2, https://www.shakespeare-online.com/plays/corio_3_2.html.",
+              "lemma": "mulberry",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/mulberry"
+            },
+            {
+              "term": "bred in broils",
+              "title": "bred in broils",
+              "type": "Nota filológica",
+              "gloss": "criado entre combates",
+              "body": "«Broils» designa conflictos o luchas, no una técnica culinaria; la educación militar sirve como excusa para la brusquedad del personaje. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; Shakespeare Online, Coriolanus III.2, https://www.shakespeare-online.com/plays/corio_3_2.html.",
+              "lemma": "broil",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/broil"
+            },
+            {
+              "term": "frame / Thyself",
+              "title": "frame / Thyself",
+              "type": "Nota filológica",
+              "gloss": "adaptarte / acomodarte",
+              "body": "«Frame» con objeto reflexivo significa conformar la propia conducta a una exigencia; Volumnia formula una promesa futura, no una transformación ya cumplida. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; Shakespeare Online, Coriolanus III.2, https://www.shakespeare-online.com/plays/corio_3_2.html.",
+              "lemma": "frame",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/frame"
+            },
+            {
+              "term": "power and person",
+              "title": "power and person",
+              "type": "Nota filológica",
+              "gloss": "fuerzas y condición personal",
+              "body": "Binomio que limita la promesa a las posibilidades y dignidad del hablante; la extensión exacta de esa reserva admite interpretación. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; Shakespeare Online, Coriolanus III.2, https://www.shakespeare-online.com/plays/corio_3_2.html.",
+              "lemma": "person",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/person"
             }
           ]
         }

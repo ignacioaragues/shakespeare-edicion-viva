@@ -1048,13 +1048,22 @@
       "last_line": 2184,
       "editorial_state": "translated_source_checked_external_references",
       "note": "One complete Volumnia speech (18 lines); Folger and MIT compared (roted/rooted). Nine notes with Spanish glosses and references; private EPUB/PDF not consulted. Retrospective review pending."
+    },
+    {
+      "id": "coriolanus-3-2-2185-2204",
+      "act": 3,
+      "scene": 2,
+      "first_line": 2185,
+      "last_line": 2204,
+      "editorial_state": "translated_source_checked_external_references",
+      "note": "Two complete speeches; Folger III.2 checked against Shakespeare Online. Gesture and rhetoric (bonnet, buss, mulberry, frame) annotated with Spanish glosses. Retrospective review and private PDF/EPUB comparison pending."
     }
   ],
   "next_fragment": {
     "act": 3,
     "scene": 2,
-    "first_line": 2185,
-    "note": "Next Menenius speech 2185–2188, followed by Volumnia 2189–2204; preserve complete speeches."
+    "first_line": 2205,
+    "note": "Next Menenius speech 2205–2208; continue at a complete-speech boundary."
   },
   "completed_acts": [],
   "last_update_commit": "pending_atomic_commit",
