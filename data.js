@@ -15226,7 +15226,7 @@ window.SHAKESPEARE_READER_DATA = {
       "scene": 2,
       "place": "Roma · Una estancia",
       "sourceRef": "Folger Shakespeare Library · Acto III, escena 2",
-      "sectionLabel": "Edición en curso · líneas 2100–2221",
+      "sectionLabel": "Edición en curso · líneas 2100–2235",
       "introduction": "Tras la crisis de la plaza, Coriolano rechaza moderar su trato con los tribunos. Su madre Volumnia contrapone la firmeza de carácter al uso estratégico del poder.",
       "stage": "Entra Coriolano acompañado de nobles. Volumnia entra durante el parlamento de Coriolano, antes de la línea 2114.",
       "characters": [
@@ -16142,6 +16142,98 @@ window.SHAKESPEARE_READER_DATA = {
               "body": "Locución verbal que pide comenzar la acción sin más dilaciones. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; Shakespeare Online, Coriolanus III.2, https://www.shakespeare-online.com/plays/corio_3_2.html.",
               "lemma": "go",
               "lemmaUrl": "https://en.wiktionary.org/wiki/go"
+            }
+          ]
+        },
+        {
+          "line": "2222–2229",
+          "speaker": "coriolanus",
+          "en": "Must I go show them my unbarbèd sconce? Must I\nWith my base tongue give to my noble heart\nA lie that it must bear? Well, I will do ’t.\nYet, were there but this single plot to lose,\nThis mold of Martius, they to dust should grind it\nAnd throw ’t against the wind. To th’ marketplace!\nYou have put me now to such a part which never\nI shall discharge to th’ life.",
+          "es": "¿Tengo que ir a mostrarles mi cabeza desprotegida? ¿Debo\nhacer que mi lengua vil imponga a mi noble corazón\nuna mentira que tenga que soportar? Bien, lo haré.\nPero si solo estuviera en juego este pedazo de tierra,\neste cuerpo de Marcio, podrían reducirlo a polvo\ny arrojarlo al viento. ¡A la plaza del mercado!\nMe han obligado a representar un papel que jamás\nsabré interpretar con naturalidad.",
+          "notes": [
+            {
+              "term": "unbarbèd sconce",
+              "title": "unbarbèd sconce",
+              "type": "Nota filológica",
+              "gloss": "cabeza sin protección",
+              "body": "«Unbarbèd» remite a la falta de protección o armadura; «sconce» puede designar la cabeza, con matiz familiar o despectivo. La pregunta enfrenta vulnerabilidad física y exposición pública. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; Shakespeare Online, Coriolanus III.2, https://www.shakespeare-online.com/plays/corio_3_2.html.",
+              "lemma": "sconce",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/sconce"
+            },
+            {
+              "term": "base tongue",
+              "title": "base tongue",
+              "type": "Nota filológica",
+              "gloss": "lengua indigna",
+              "body": "La antítesis entre «base» y «noble» convierte la simulación verbal en traición al corazón; es valoración del personaje, no juicio del editor. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; Shakespeare Online, Coriolanus III.2, https://www.shakespeare-online.com/plays/corio_3_2.html."
+            },
+            {
+              "term": "single plot",
+              "title": "single plot",
+              "type": "Nota filológica",
+              "gloss": "único terreno / parcela",
+              "body": "«Plot» es terreno delimitado; la imagen se desplaza hacia el cuerpo como tierra moldeada. No significa aquí «conspiración». Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; Shakespeare Online, Coriolanus III.2, https://www.shakespeare-online.com/plays/corio_3_2.html.",
+              "lemma": "plot",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/plot"
+            },
+            {
+              "term": "mold of Martius",
+              "title": "mold of Martius",
+              "type": "Nota filológica",
+              "gloss": "cuerpo / forma terrenal de Marcio",
+              "body": "La metáfora material asocia el cuerpo a una forma de tierra que puede convertirse en polvo. «Martius» conserva su identidad anterior al sobrenombre Coriolano. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; Shakespeare Online, Coriolanus III.2, https://www.shakespeare-online.com/plays/corio_3_2.html.",
+              "lemma": "mold",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/mold"
+            },
+            {
+              "term": "discharge to th’ life",
+              "title": "discharge to th’ life",
+              "type": "Nota filológica",
+              "gloss": "representar con verosimilitud",
+              "body": "«Discharge» es ejecutar o cumplir una función; «to the life» indica fidelidad a lo vivo o natural. La imagen prolonga el «part» teatral. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; Shakespeare Online, Coriolanus III.2, https://www.shakespeare-online.com/plays/corio_3_2.html.",
+              "lemma": "discharge",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/discharge"
+            }
+          ]
+        },
+        {
+          "line": "2230–2231",
+          "speaker": "cominius",
+          "en": "Come, come, we’ll prompt\nyou.",
+          "es": "Vamos, vamos; nosotros te iremos\nsoplando las palabras.",
+          "notes": [
+            {
+              "term": "prompt",
+              "title": "prompt",
+              "type": "Nota filológica",
+              "gloss": "apuntar / soplar el texto",
+              "body": "El verbo evoca la ayuda de quien recuerda las palabras a un actor; responde directamente al «part» teatral de Coriolano. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; Shakespeare Online, Coriolanus III.2, https://www.shakespeare-online.com/plays/corio_3_2.html.",
+              "lemma": "prompt",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/prompt"
+            }
+          ]
+        },
+        {
+          "line": "2232–2235",
+          "speaker": "volumnia",
+          "en": "I prithee now, sweet son, as thou hast said\nMy praises made thee first a soldier, so,\nTo have my praise for this, perform a part\nThou hast not done before.",
+          "es": "Te lo ruego, hijo querido: así como has dicho\nque mis elogios te impulsaron a hacerte soldado,\npara merecer también mi elogio por esto, interpreta un papel\nque nunca antes has desempeñado.",
+          "notes": [
+            {
+              "term": "My praises",
+              "title": "My praises",
+              "type": "Nota filológica",
+              "gloss": "mis elogios / mi aprobación",
+              "body": "Volumnia vincula la obediencia política con la aprobación materna que, según su hijo, estimuló su vocación militar. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; Shakespeare Online, Coriolanus III.2, https://www.shakespeare-online.com/plays/corio_3_2.html."
+            },
+            {
+              "term": "perform a part",
+              "title": "perform a part",
+              "type": "Nota filológica",
+              "gloss": "representar un papel",
+              "body": "La insistencia en la metáfora teatral une las palabras de Coriolano, Cominio y Volumnia; el consejo político exige actuación. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; Shakespeare Online, Coriolanus III.2, https://www.shakespeare-online.com/plays/corio_3_2.html.",
+              "lemma": "perform",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/perform"
             }
           ]
         }

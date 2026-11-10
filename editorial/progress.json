@@ -1066,13 +1066,22 @@
       "last_line": 2221,
       "editorial_state": "translated_source_checked_external_references",
       "note": "Six complete speeches, including single-line 2217; Folger online and Shakespeare Online checked. Eight contextual notes with Spanish glosses. Private reference files and retrospective review pending."
+    },
+    {
+      "id": "coriolanus-3-2-2222-2235",
+      "act": 3,
+      "scene": 2,
+      "first_line": 2222,
+      "last_line": 2235,
+      "editorial_state": "translated_source_checked_external_references",
+      "note": "Three complete speeches; Folger III.2 compared with Shakespeare Online. Dramatic role, sconce, mold, prompt annotated with Spanish contextual glosses. Private PDF/EPUB and retrospective review pending."
     }
   ],
   "next_fragment": {
     "act": 3,
     "scene": 2,
-    "first_line": 2222,
-    "note": "Coriolanus' response begins at 2222; continue through a natural speech boundary."
+    "first_line": 2236,
+    "note": "Coriolanus' long speech begins; preserve its complete unit if possible."
   },
   "completed_acts": [],
   "last_update_commit": "pending_atomic_commit",
