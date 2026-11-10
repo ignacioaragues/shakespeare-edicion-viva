@@ -14889,6 +14889,178 @@ window.SHAKESPEARE_READER_DATA = {
               "lemmaUrl": "https://en.wiktionary.org/wiki/suffer"
             }
           ]
+        },
+        {
+          "line": "2056",
+          "speaker": "sicinius",
+          "en": "This is clean cam.",
+          "es": "Eso es completamente disparatado.",
+          "notes": [
+            {
+              "term": "clean cam",
+              "title": "clean cam",
+              "type": "Nota filológica",
+              "gloss": "completamente torcido; del todo equivocado",
+              "body": "«Cam» es voz hoy obsoleta que significa «torcido, desviado» y, figuradamente, «erróneo». El adverbio «clean» intensifica la expresión. La réplica de Bruto («Merely awry») la glosa dentro de la propia escena. El diccionario histórico de Murray documenta expresamente este ejemplo y su probable origen céltico. Fuentes: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; Murray, New English Dictionary, «Cam», https://wehd.com/13/Cam_a.html.",
+              "lemma": "cam",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/cam"
+            }
+          ]
+        },
+        {
+          "line": "2057–2058",
+          "speaker": "brutus",
+          "en": "Merely awry. When he did love his country,\nIt honored him.",
+          "es": "Totalmente desencaminado. Cuando amaba a su patria,\nesta lo honraba.",
+          "notes": [
+            {
+              "term": "Merely awry",
+              "title": "Merely awry",
+              "type": "Nota filológica",
+              "gloss": "totalmente desencaminado",
+              "body": "«Merely» intensifica aquí la desviación, sin el sentido restrictivo moderno de «solamente». Bruto retoma la expresión «clean cam» de Sicinio: dos formulaciones de una misma descalificación. Fuentes: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/.",
+              "lemma": "awry",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/awry"
+            }
+          ]
+        },
+        {
+          "line": "2059–2061",
+          "speaker": "sicinius",
+          "en": "The service of the foot,\nBeing once gangrened, is not then respected\nFor what before it was.",
+          "es": "Los servicios que prestó un pie,\nuna vez gangrenado, ya no se tienen en cuenta\npor lo que ese pie fue antes.",
+          "notes": [
+            {
+              "term": "foot",
+              "title": "foot",
+              "type": "Nota filológica",
+              "gloss": "pie; miembro del cuerpo político",
+              "body": "Sicinio transforma la analogía médica de Menenio: un miembro gangrenado deja de merecer consideración por sus servicios anteriores. La frase responde directamente al «limb» de 2047. Fuentes: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/.",
+              "lemma": "foot",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/foot"
+            },
+            {
+              "term": "gangrened",
+              "title": "gangrened",
+              "type": "Nota filológica",
+              "gloss": "gangrenado",
+              "body": "El participio presenta la enfermedad como ya establecida y permite justificar la amputación; la comparación no es un diagnóstico literal sino un argumento político. Fuentes: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/.",
+              "lemma": "gangrene",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/gangrene"
+            }
+          ]
+        },
+        {
+          "line": "2062–2065",
+          "speaker": "brutus",
+          "en": "We’ll hear no more.\nPursue him to his house, and pluck him thence,\nLest his infection, being of catching nature,\nSpread further.",
+          "es": "No escucharemos más.\nPersíganlo hasta su casa y sáquenlo de allí por la fuerza,\nno sea que su infección, por ser contagiosa,\nse extienda todavía más.",
+          "notes": [
+            {
+              "term": "pluck him thence",
+              "title": "pluck him thence",
+              "type": "Nota filológica",
+              "gloss": "arrancarlo de allí; sacarlo por la fuerza",
+              "body": "«Pluck» acentúa la violencia física de la captura, no una citación judicial ordinaria. Fuentes: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/.",
+              "lemma": "pluck",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/pluck"
+            },
+            {
+              "term": "of catching nature",
+              "title": "of catching nature",
+              "type": "Nota filológica",
+              "gloss": "de naturaleza contagiosa",
+              "body": "«Catching» significa aquí «que se transmite por contagio»; la enfermedad del cuerpo político se convierte en amenaza expansiva. Fuentes: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/.",
+              "lemma": "catching",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/catching"
+            }
+          ]
+        },
+        {
+          "line": "2066–2071",
+          "speaker": "menenius",
+          "en": "One word more, one word!\nThis tiger-footed rage, when it shall find\nThe harm of unscanned swiftness, will too late\nTie leaden pounds to ’s heels. Proceed by process,\nLest parties—as he is beloved—break out\nAnd sack great Rome with Romans.",
+          "es": "¡Una palabra más, una sola!\nEsta furia de pies de tigre, cuando descubra\nel daño de su precipitación irreflexiva, demasiado tarde\nse atará pesas de plomo a los talones. Procedan conforme a derecho,\nno sea que estallen facciones —pues Coriolano tiene partidarios—\ny que los propios romanos saqueen la gran Roma.",
+          "notes": [
+            {
+              "term": "tiger-footed rage",
+              "title": "tiger-footed rage",
+              "type": "Nota filológica",
+              "gloss": "furia que avanza con pies de tigre",
+              "body": "Personificación de la ira como depredador veloz. El contraste con el plomo posterior escenifica la diferencia entre la precipitación y el arrepentimiento tardío. Fuentes: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/.",
+              "lemma": "tiger",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/tiger"
+            },
+            {
+              "term": "unscanned swiftness",
+              "title": "unscanned swiftness",
+              "type": "Nota filológica",
+              "gloss": "rapidez no examinada; precipitación irreflexiva",
+              "body": "«Unscanned» significa «no examinada, no sopesada». Saval estudia el contraste entre la rapidez de la reacción y la deliberación política en este pasaje. Fuentes: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; Peter Saval, Shakespeare in Hate, estudio de la temporalidad política, https://tile.loc.gov/storage-services/master/gdc/gdcebookspublic/20/20/71/52/59/2020715259/2020715259.pdf.",
+              "lemma": "scan",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/scan"
+            },
+            {
+              "term": "Tie leaden pounds to ’s heels",
+              "title": "Tie leaden pounds to ’s heels",
+              "type": "Nota filológica",
+              "gloss": "atarse pesas de plomo a los talones",
+              "body": "Imagen de la lentitud impuesta por el remordimiento: la furia querrá frenar cuando ya sea demasiado tarde. Fuentes: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/.",
+              "lemma": "leaden",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/leaden"
+            },
+            {
+              "term": "Proceed by process",
+              "title": "Proceed by process",
+              "type": "Nota filológica",
+              "gloss": "procedan siguiendo un procedimiento legal",
+              "body": "Repetición etimológica de «proceed/process»: Menenio opone el proceso regulado a la ejecución sumaria; el pasaje no especifica un procedimiento histórico romano concreto. Fuentes: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/.",
+              "lemma": "process",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/process"
+            },
+            {
+              "term": "sack great Rome with Romans",
+              "title": "sack great Rome with Romans",
+              "type": "Nota filológica",
+              "gloss": "saquear Roma con romanos",
+              "body": "Paradoja de una guerra interna: los mismos ciudadanos se convertirían en agentes de destrucción de su ciudad. Fuentes: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/.",
+              "lemma": "sack",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/sack"
+            }
+          ]
+        },
+        {
+          "line": "2072",
+          "speaker": "brutus",
+          "en": "If it were so—",
+          "es": "Si así fuera...",
+          "notes": []
+        },
+        {
+          "line": "2073–2075",
+          "speaker": "sicinius",
+          "en": "What do you talk?\nHave we not had a taste of his obedience?\nOur aediles smote! Ourselves resisted! Come.",
+          "es": "¿De qué estás hablando?\n¿Acaso no hemos tenido ya una muestra de su obediencia?\n¡Nuestros ediles, golpeados! ¡Nosotros mismos, desafiados! ¡Vamos!",
+          "notes": [
+            {
+              "term": "a taste of his obedience",
+              "title": "a taste of his obedience",
+              "type": "Nota filológica",
+              "gloss": "una muestra de su obediencia (dicho irónicamente)",
+              "body": "Sicinio invoca el enfrentamiento previo como prueba contra la posibilidad de una comparecencia pacífica. Fuentes: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/.",
+              "lemma": "taste",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/taste"
+            },
+            {
+              "term": "Our aediles smote",
+              "title": "Our aediles smote",
+              "type": "Nota filológica",
+              "gloss": "nuestros ediles, golpeados",
+              "body": "«Smote» es pretérito o participio histórico de «smite»; la construcción elíptica recuerda los golpes sufridos por los agentes de los tribunos. Fuentes: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/.",
+              "lemma": "smite",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/smite"
+            }
+          ]
         }
       ]
     }

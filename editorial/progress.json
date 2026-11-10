@@ -994,13 +994,22 @@
       "last_line": 2055,
       "editorial_state": "translated_source_checked_external_references",
       "note": "Four complete speech blocks, Folger III.1 compared with Shakespeare Online. Medical-political metaphor and unnatural dam noted with contextual glosses; PDF/EPUB not consulted."
+    },
+    {
+      "id": "coriolanus-3-1-2056-2075",
+      "act": 3,
+      "scene": 1,
+      "first_line": 2056,
+      "last_line": 2075,
+      "editorial_state": "translated_source_checked_external_references",
+      "note": "Seven complete speeches; Folger III.1, Murray's historical Cam dictionary, and Peter Saval on political time consulted. Spanish glosses and sourced notes; private EPUB/PDF not consulted."
     }
   ],
   "next_fragment": {
     "act": 3,
     "scene": 1,
-    "first_line": 2056,
-    "note": "Sicinius dismisses Menenius' argument as clean cam; Brutus and Sicinius extend the gangrene metaphor."
+    "first_line": 2076,
+    "note": "Menenius defends Coriolanus' unfiltered martial language and offers a lawful hearing."
   },
   "completed_acts": [],
   "last_update_commit": "pending_atomic_commit",
