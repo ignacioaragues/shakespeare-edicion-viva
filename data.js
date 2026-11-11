@@ -27,7 +27,8 @@ window.SHAKESPEARE_READER_DATA = {
         "coriolanus-4-1",
         "coriolanus-4-2",
         "coriolanus-4-3",
-        "coriolanus-4-4"
+        "coriolanus-4-4",
+        "coriolanus-4-5"
       ]
     }
   ],
@@ -19968,6 +19969,230 @@ window.SHAKESPEARE_READER_DATA = {
               "body": "La expresión significa permitirle el paso o abrirle una posibilidad de actuar; no implica literalmente entregarle un camino. Fuentes: Folger Shakespeare Library, Coriolanus IV.4 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/4/); MIT Shakespeare, IV.4 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.4.html).",
               "lemma": "give",
               "lemmaUrl": "https://en.wiktionary.org/wiki/give"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "coriolanus-4-5",
+      "workId": "coriolanus",
+      "act": 4,
+      "scene": 5,
+      "place": "Ancio · Casa de Aufidio",
+      "sourceRef": "Folger Shakespeare Library · Acto IV, escena 5",
+      "sectionLabel": "Edición en curso · líneas 2677–2695",
+      "introduction": "En medio de los preparativos de un banquete, los criados de Aufidio confunden al desterrado Coriolano con un intruso de condición humilde y procuran echarlo.",
+      "stage": "Suena música. Entra el primer criado, que sale tras pedir vino. Entra el segundo criado y sale buscando a Coto. Entra Coriolano, disfrazado. El primer criado entra y sale; luego vuelve a entrar el segundo criado.",
+      "characters": [
+        {
+          "id": "first-servingman",
+          "name": "Primer criado",
+          "english": "First Servingman",
+          "identity": "Criado de Aufidio que atiende el banquete.",
+          "color": "olive"
+        },
+        {
+          "id": "second-servingman",
+          "name": "Segundo criado",
+          "english": "Second Servingman",
+          "identity": "Otro criado de Aufidio que intenta expulsar al visitante.",
+          "color": "copper"
+        },
+        {
+          "id": "coriolanus",
+          "name": "Coriolano",
+          "english": "Coriolanus",
+          "identity": "General romano desterrado que se presenta disfrazado en la casa de su antiguo enemigo.",
+          "color": "copper"
+        }
+      ],
+      "blocks": [
+        {
+          "line": "2677–2678",
+          "speaker": "first-servingman",
+          "en": "Wine, wine, wine! What service is\nhere? I think our fellows are asleep.",
+          "es": "¡Vino, vino, vino! ¿Qué clase de servicio\nes este? Creo que nuestros compañeros están dormidos.",
+          "notes": [
+            {
+              "term": "What service is here?",
+              "title": "What service is here?",
+              "type": "Nota filológica",
+              "gloss": "¿qué clase de servicio es este?",
+              "body": "Reproche del criado por la lentitud del servicio durante el banquete; la repetición inicial establece el bullicio doméstico. Fuentes: Folger Shakespeare Library, Coriolanus IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); Shakespeare Online, IV.5 (https://www.shakespeare-online.com/plays/corio_4_5.html).",
+              "lemma": "service",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/service"
+            }
+          ]
+        },
+        {
+          "line": "2679–2680",
+          "speaker": "second-servingman",
+          "en": "Where’s Cotus? My master calls\nfor him. Cotus!",
+          "es": "¿Dónde está Coto? Mi amo\nlo llama. ¡Coto!",
+          "notes": [
+            {
+              "term": "Cotus",
+              "title": "Cotus",
+              "type": "Nota filológica",
+              "gloss": "Coto",
+              "body": "Nombre propio del criado requerido por Aufidio; no se identifica con ninguno de los interlocutores nombrados en el pasaje. Fuentes: Folger Shakespeare Library, Coriolanus IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); Shakespeare Online, IV.5 (https://www.shakespeare-online.com/plays/corio_4_5.html)."
+            }
+          ]
+        },
+        {
+          "line": "2681–2682",
+          "speaker": "coriolanus",
+          "en": "A goodly house. The feast smells well, but I\nAppear not like a guest.",
+          "es": "Una casa espléndida. El banquete huele bien, pero yo\nno tengo aspecto de invitado.",
+          "notes": [
+            {
+              "term": "goodly house",
+              "title": "goodly house",
+              "type": "Nota filológica",
+              "gloss": "casa espléndida",
+              "body": "«Goodly» alude al porte y riqueza de la residencia; contrasta con la apariencia miserable del desterrado. Fuentes: Folger Shakespeare Library, Coriolanus IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); Shakespeare Online, IV.5 (https://www.shakespeare-online.com/plays/corio_4_5.html)."
+            },
+            {
+              "term": "Appear not like a guest",
+              "title": "Appear not like a guest",
+              "type": "Nota filológica",
+              "gloss": "no tengo aspecto de invitado",
+              "body": "La apariencia exterior, no la identidad real, determina el trato que recibirá Coriolano; lectura contextual de la escena. Fuentes: Folger Shakespeare Library, Coriolanus IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); Shakespeare Online, IV.5 (https://www.shakespeare-online.com/plays/corio_4_5.html)."
+            }
+          ]
+        },
+        {
+          "line": "2683–2685",
+          "speaker": "first-servingman",
+          "en": "What would you have, friend?\nWhence are you? Here’s no place for you. Pray, go\nto the door.",
+          "es": "¿Qué desea, amigo?\n¿De dónde viene? Aquí no hay sitio para usted. Por favor, vaya\na la puerta.",
+          "notes": [
+            {
+              "term": "Whence",
+              "title": "Whence",
+              "type": "Nota filológica",
+              "gloss": "¿de dónde?",
+              "body": "Adverbio interrogativo de procedencia, frecuente en el inglés moderno temprano; no equivale a «where» sin idea de origen. Fuentes: Folger Shakespeare Library, Coriolanus IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); Shakespeare Online, IV.5 (https://www.shakespeare-online.com/plays/corio_4_5.html).",
+              "lemma": "whence",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/whence"
+            },
+            {
+              "term": "Pray",
+              "title": "Pray",
+              "type": "Nota filológica",
+              "gloss": "por favor",
+              "body": "Fórmula de petición abreviada de «I pray you», que puede acompañar una orden poco cortés. Fuentes: Folger Shakespeare Library, Coriolanus IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); Shakespeare Online, IV.5 (https://www.shakespeare-online.com/plays/corio_4_5.html).",
+              "lemma": "pray",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/pray"
+            }
+          ]
+        },
+        {
+          "line": "2686–2687",
+          "speaker": "coriolanus",
+          "en": "I have deserved no better entertainment\nIn being Coriolanus.",
+          "es": "No he merecido mejor acogida\npor ser Coriolano.",
+          "notes": [
+            {
+              "term": "entertainment",
+              "title": "entertainment",
+              "type": "Nota filológica",
+              "gloss": "acogida, trato",
+              "body": "Aquí significa recepción o trato dado a un visitante, no diversión. El héroe interpreta la humillación a la luz de su identidad y de sus actos pasados. Fuentes: Folger Shakespeare Library, Coriolanus IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); Shakespeare Online, IV.5 (https://www.shakespeare-online.com/plays/corio_4_5.html).",
+              "lemma": "entertainment",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/entertainment"
+            }
+          ]
+        },
+        {
+          "line": "2688–2690",
+          "speaker": "second-servingman",
+          "en": "Whence are you, sir?—Has the\nporter his eyes in his head, that he gives entrance\nto such companions?—Pray, get you out.",
+          "es": "¿De dónde viene, señor? ¿Es que el\nportero tiene ojos en la cara, para dejar entrar\na gente como usted? Vamos, salga de aquí.",
+          "notes": [
+            {
+              "term": "porter",
+              "title": "porter",
+              "type": "Nota filológica",
+              "gloss": "portero",
+              "body": "Empleado encargado de controlar el acceso a la casa; el reproche señala la impropiedad social que el criado atribuye al visitante. Fuentes: Folger Shakespeare Library, Coriolanus IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); Shakespeare Online, IV.5 (https://www.shakespeare-online.com/plays/corio_4_5.html).",
+              "lemma": "porter",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/porter"
+            },
+            {
+              "term": "companions",
+              "title": "companions",
+              "type": "Nota filológica",
+              "gloss": "individuos como usted",
+              "body": "Aquí posee un matiz despectivo, próximo a «tipos» o «sujetos», no al sentido afectuoso de «compañeros». Fuentes: Folger Shakespeare Library, Coriolanus IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); Shakespeare Online, IV.5 (https://www.shakespeare-online.com/plays/corio_4_5.html).",
+              "lemma": "companion",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/companion"
+            }
+          ]
+        },
+        {
+          "line": "2691",
+          "speaker": "coriolanus",
+          "en": "Away!",
+          "es": "¡Fuera!",
+          "notes": [
+            {
+              "term": "Away!",
+              "title": "Away!",
+              "type": "Nota filológica",
+              "gloss": "¡fuera!",
+              "body": "Coriolano devuelve la orden al criado; el imperativo brevísimo invierte la autoridad aparente de quien lo expulsa. Fuentes: Folger Shakespeare Library, Coriolanus IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); Shakespeare Online, IV.5 (https://www.shakespeare-online.com/plays/corio_4_5.html)."
+            }
+          ]
+        },
+        {
+          "line": "2692",
+          "speaker": "second-servingman",
+          "en": "Away? Get you away.",
+          "es": "¿Fuera? ¡Fuera usted!",
+          "notes": []
+        },
+        {
+          "line": "2693",
+          "speaker": "coriolanus",
+          "en": "Now th’ art troublesome.",
+          "es": "Ahora sí que eres molesto.",
+          "notes": [
+            {
+              "term": "th’ art",
+              "title": "th’ art",
+              "type": "Nota filológica",
+              "gloss": "tú eres",
+              "body": "Contracción de «thou art», segunda persona singular; el tratamiento pasa del intercambio de cortesía a una forma familiar y áspera. Fuentes: Folger Shakespeare Library, Coriolanus IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); Shakespeare Online, IV.5 (https://www.shakespeare-online.com/plays/corio_4_5.html).",
+              "lemma": "thou",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/thou"
+            }
+          ]
+        },
+        {
+          "line": "2694–2695",
+          "speaker": "second-servingman",
+          "en": "Are you so brave? I’ll have you\ntalked with anon.",
+          "es": "¿Tan valiente se cree? Haré que\nalguien venga a ponerlo en su sitio.",
+          "notes": [
+            {
+              "term": "brave",
+              "title": "brave",
+              "type": "Nota filológica",
+              "gloss": "atrevido, desafiante",
+              "body": "En esta réplica es una acusación de insolencia, no un elogio inequívoco del valor. Fuentes: Folger Shakespeare Library, Coriolanus IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); Shakespeare Online, IV.5 (https://www.shakespeare-online.com/plays/corio_4_5.html).",
+              "lemma": "brave",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/brave"
+            },
+            {
+              "term": "anon",
+              "title": "anon",
+              "type": "Nota filológica",
+              "gloss": "enseguida",
+              "body": "Adverbio temporal de uso histórico: «pronto», «en seguida»; la amenaza consiste en llamar a alguien que se ocupe del intruso. Fuentes: Folger Shakespeare Library, Coriolanus IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); Shakespeare Online, IV.5 (https://www.shakespeare-online.com/plays/corio_4_5.html).",
+              "lemma": "anon",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/anon"
             }
           ]
         }
