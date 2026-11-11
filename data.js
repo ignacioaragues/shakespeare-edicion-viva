@@ -18534,9 +18534,9 @@ window.SHAKESPEARE_READER_DATA = {
       "scene": 2,
       "place": "Roma · Una calle próxima a las puertas de la ciudad",
       "sourceRef": "Folger Shakespeare Library · Acto IV, escena 2",
-      "sectionLabel": "Edición en curso · líneas 2519–2576",
+      "sectionLabel": "Edición en curso · líneas 2519–2590",
       "introduction": "Después del destierro, Sicinio y Bruto procuran disolver la concentración popular y moderar su imagen pública; Volumnia se aproxima.",
-      "stage": "Entran Sicinio, Bruto y un edil. [Después de 2528: sale el edil.] [Después de 2529: entran Volumnia, Virgilia y Menenio.] [Después de 2576: salen los tribunos.]",
+      "stage": "Entran Sicinio, Bruto y un edil. [Después de 2528: sale el edil.] [Después de 2529: entran Volumnia, Virgilia y Menenio.] [Después de 2576: salen los tribunos.] [Después de 2590: salen Volumnia y Virgilia.]",
       "characters": [
         {
           "id": "sicinius",
@@ -19136,6 +19136,124 @@ window.SHAKESPEARE_READER_DATA = {
               "body": "«Want» significa ‘carecer de’, no ‘desear’; Sicinio descalifica a Volumnia sin establecer diagnóstico alguno. Fuentes: Folger Shakespeare Library, Coriolanus IV.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/2/); First Folio, IV.2 (https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_4_Scene_2); MIT Shakespeare, IV.2 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.2.html).",
               "lemma": "want",
               "lemmaUrl": "https://en.wiktionary.org/wiki/want"
+            }
+          ]
+        },
+        {
+          "line": "2577–2582",
+          "speaker": "volumnia",
+          "en": "Take my prayers with\nyou.\nI would the gods had nothing else to do\nBut to confirm my curses. Could I meet ’em\nBut once a day, it would unclog my heart\nOf what lies heavy to ’t.",
+          "es": "Llévense mis oraciones.\nOjalá los dioses no tuvieran otra cosa que hacer\nque hacer realidad mis maldiciones. Si pudiera encontrármelos\naunque solo fuera una vez al día, descargaría mi corazón\nde lo que tanto le pesa.",
+          "notes": [
+            {
+              "term": "prayers",
+              "title": "prayers",
+              "type": "Nota filológica",
+              "gloss": "oraciones (irónicamente, maldiciones)",
+              "body": "La despedida invierte el sentido habitual de la bendición: sus «oraciones» son imprecaciones. Fuentes: Folger Shakespeare Library, Coriolanus IV.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/2/); MIT Shakespeare, IV.2 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.2.html)."
+            },
+            {
+              "term": "I would",
+              "title": "I would",
+              "type": "Nota filológica",
+              "gloss": "ojalá",
+              "body": "Construcción desiderativa con «would» y una oración subordinada sin «that»; no expresa aquí voluntad de actuar. Fuentes: Folger Shakespeare Library, Coriolanus IV.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/2/); MIT Shakespeare, IV.2 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.2.html).",
+              "lemma": "will",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/will"
+            },
+            {
+              "term": "confirm my curses",
+              "title": "confirm my curses",
+              "type": "Nota filológica",
+              "gloss": "hacer efectivas mis maldiciones",
+              "body": "«Confirm» significa ratificar o dar eficacia; la hipérbole pide que los dioses se ocupen exclusivamente de sus imprecaciones. Fuentes: Folger Shakespeare Library, Coriolanus IV.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/2/); MIT Shakespeare, IV.2 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.2.html)."
+            },
+            {
+              "term": "unclog my heart",
+              "title": "unclog my heart",
+              "type": "Nota filológica",
+              "gloss": "aliviar la opresión del corazón",
+              "body": "Metáfora corporal: la cólera acumulada obstruye el corazón y maldecir permitiría desahogarlo. Fuentes: Folger Shakespeare Library, Coriolanus IV.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/2/); MIT Shakespeare, IV.2 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.2.html).",
+              "lemma": "unclog",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/unclog"
+            },
+            {
+              "term": "to ’t",
+              "title": "to ’t",
+              "type": "Nota filológica",
+              "gloss": "a él (al corazón)",
+              "body": "Contracción de «to it»; el pronombre remite a «my heart», no a los tribunos. Fuentes: Folger Shakespeare Library, Coriolanus IV.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/2/); MIT Shakespeare, IV.2 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.2.html)."
+            }
+          ]
+        },
+        {
+          "line": "2583–2585",
+          "speaker": "menenius",
+          "en": "You have told them home,\nAnd, by my troth, you have cause. You’ll sup with\nme?",
+          "es": "Les has dicho unas cuantas verdades,\ny, a fe mía, tienes motivos. ¿Cenarás\nconmigo?",
+          "notes": [
+            {
+              "term": "told them home",
+              "title": "told them home",
+              "type": "Nota filológica",
+              "gloss": "les has hablado sin rodeos",
+              "body": "Locución idiomática: reprender con contundencia, no «mandarlos a casa»; el contraste con la retirada física de los tribunos puede resonar en escena. Fuentes: Folger Shakespeare Library, Coriolanus IV.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/2/); MIT Shakespeare, IV.2 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.2.html)."
+            },
+            {
+              "term": "by my troth",
+              "title": "by my troth",
+              "type": "Nota filológica",
+              "gloss": "a fe mía",
+              "body": "Fórmula de aseveración con «troth» («fe», «palabra dada»), propia del inglés de la época. Fuentes: Folger Shakespeare Library, Coriolanus IV.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/2/); MIT Shakespeare, IV.2 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.2.html).",
+              "lemma": "troth",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/troth"
+            },
+            {
+              "term": "sup",
+              "title": "sup",
+              "type": "Nota filológica",
+              "gloss": "cenar",
+              "body": "Verbo para tomar la cena; Menenio propone un gesto cotidiano de conciliación tras la invectiva. Fuentes: Folger Shakespeare Library, Coriolanus IV.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/2/); MIT Shakespeare, IV.2 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.2.html).",
+              "lemma": "sup",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/sup"
+            }
+          ]
+        },
+        {
+          "line": "2586–2590",
+          "speaker": "volumnia",
+          "en": "Anger’s my meat. I sup upon myself\nAnd so shall starve with feeding. Come, let’s go.\nLeave this faint puling, and lament as I do,\nIn anger, Juno-like. Come, come, come.",
+          "es": "La ira es mi alimento. Me devoro a mí misma\ny así moriré de hambre mientras como. Vamos, vámonos.\nDeja esos débiles lloriqueos y laméntate como yo,\ncon furia, como Juno. Vamos, vamos, vamos.",
+          "notes": [
+            {
+              "term": "Anger’s my meat",
+              "title": "Anger’s my meat",
+              "type": "Nota filológica",
+              "gloss": "la ira es mi alimento",
+              "body": "Respuesta antitética a la invitación a cenar: el alimento figurado no nutre, sino que consume a quien lo toma. Fuentes: Folger Shakespeare Library, Coriolanus IV.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/2/); MIT Shakespeare, IV.2 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.2.html)."
+            },
+            {
+              "term": "starve with feeding",
+              "title": "starve with feeding",
+              "type": "Nota filológica",
+              "gloss": "morir de hambre mientras se alimenta",
+              "body": "Paradoja de autodestrucción: el acto de nutrirse coincide con el desgaste de sí misma. Fuentes: Folger Shakespeare Library, Coriolanus IV.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/2/); MIT Shakespeare, IV.2 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.2.html)."
+            },
+            {
+              "term": "faint puling",
+              "title": "faint puling",
+              "type": "Nota filológica",
+              "gloss": "débiles lloriqueos",
+              "body": "«Puling» alude a un llanto quejumbroso; Volumnia opone a ese lamento una ira activa. Fuentes: Folger Shakespeare Library, Coriolanus IV.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/2/); MIT Shakespeare, IV.2 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.2.html).",
+              "lemma": "pule",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/pule"
+            },
+            {
+              "term": "Juno-like",
+              "title": "Juno-like",
+              "type": "Nota filológica",
+              "gloss": "como Juno",
+              "body": "Comparación con Juno, diosa romana cuya cólera y vindicta son rasgos literarios recurrentes; no identifica una escena mítica concreta. Fuentes: Folger Shakespeare Library, Coriolanus IV.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/2/); MIT Shakespeare, IV.2 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.2.html)."
             }
           ]
         }

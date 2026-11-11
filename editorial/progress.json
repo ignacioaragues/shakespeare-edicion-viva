@@ -1273,13 +1273,22 @@
       "last_line": 2576,
       "editorial_state": "translated_source_checked_external_references",
       "note": "Four complete speeches; Folger IV.2 compared with MIT and First Folio; ten contextual notes with Spanish glosses. Private and retrospective cotejo pending."
+    },
+    {
+      "id": "coriolanus-4-2-2577-2590",
+      "act": 4,
+      "scene": 2,
+      "first_line": 2577,
+      "last_line": 2590,
+      "editorial_state": "translated_source_checked_external_references",
+      "note": "Three complete speeches; Folger IV.2 and MIT compared; twelve contextual notes and Spanish glosses. Private references and retrospective review pending."
     }
   ],
   "next_fragment": {
     "act": 4,
     "scene": 2,
-    "first_line": 2577,
-    "note": "Volumnia's curse after the tribunes exit."
+    "first_line": 2591,
+    "note": "Menenio closes the scene with a final exclamation."
   },
   "completed_acts": [],
   "last_update_commit": "pending_atomic_commit",
