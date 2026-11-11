@@ -1318,13 +1318,22 @@
       "last_line": 2644,
       "editorial_state": "translated_source_checked_external_references",
       "note": "Six complete speeches close IV.3; Folger and MIT compared, historical senses of entertainment/billet checked in Wiktionary; contextual Spanish glosses. Stage exit represented by scene closure. Private reference and retrospective review pending."
+    },
+    {
+      "id": "coriolanus-4-4-2645-2660",
+      "act": 4,
+      "scene": 4,
+      "first_line": 2645,
+      "last_line": 2660,
+      "editorial_state": "translated_source_checked_external_references",
+      "note": "Eight complete speech blocks through the citizen's exit; Folger and MIT checked; selective Spanish glosses. Retrospective/private comparison pending."
     }
   ],
   "next_fragment": {
     "act": 4,
     "scene": 4,
-    "first_line": 2645,
-    "note": "Begin Coriolanus' arrival in Antium; first inspect Folger IV.4 and add navigable scene."
+    "first_line": 2661,
+    "note": "Coriolanus' final soliloquy on friendship and enmity, through 2676."
   },
   "completed_acts": [],
   "last_update_commit": "pending_atomic_commit",
