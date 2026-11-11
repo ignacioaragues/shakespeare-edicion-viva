@@ -18534,7 +18534,7 @@ window.SHAKESPEARE_READER_DATA = {
       "scene": 2,
       "place": "Roma · Una calle próxima a las puertas de la ciudad",
       "sourceRef": "Folger Shakespeare Library · Acto IV, escena 2",
-      "sectionLabel": "Edición en curso · líneas 2519–2533",
+      "sectionLabel": "Edición en curso · líneas 2519–2552",
       "introduction": "Después del destierro, Sicinio y Bruto procuran disolver la concentración popular y moderar su imagen pública; Volumnia se aproxima.",
       "stage": "Entran Sicinio, Bruto y un edil. [Después de 2528: sale el edil.] [Después de 2529: entran Volumnia, Virgilia y Menenio.]",
       "characters": [
@@ -18723,6 +18723,176 @@ window.SHAKESPEARE_READER_DATA = {
               "type": "Nota filológica",
               "gloss": "sigue caminando",
               "body": "Bruto abandona la idea de esquivar a Volumnia al advertir que ya los han visto. Fuentes: Folger Shakespeare Library, Coriolanus IV.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/2/); MIT Shakespeare, IV.2 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.2.html)."
+            }
+          ]
+        },
+        {
+          "line": "2534–2535",
+          "speaker": "volumnia",
+          "en": "O, you’re well met. The hoarded plague o’ th’ gods\nRequite your love!",
+          "es": "¡Ah, qué oportuno encontrarlos! ¡Que todas las plagas\nacumuladas por los dioses les paguen el afecto que nos han mostrado!",
+          "notes": [
+            {
+              "term": "hoarded plague",
+              "title": "hoarded plague",
+              "type": "Nota filológica",
+              "gloss": "plagas acumuladas",
+              "body": "La maldición presenta los castigos divinos como una reserva amontonada. Cotejo: Folger, Coriolanus IV.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/2/); First Folio, IV.2 (https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_4_Scene_2)."
+            },
+            {
+              "term": "Requite your love",
+              "title": "Requite your love",
+              "type": "Nota filológica",
+              "gloss": "les paguen su afecto",
+              "body": "«Requite» significa retribuir; «love» es irónico, no un agradecimiento sincero. Cotejo: Folger, Coriolanus IV.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/2/); First Folio, IV.2 (https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_4_Scene_2).",
+              "lemma": "requite",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/requite"
+            }
+          ]
+        },
+        {
+          "line": "2536",
+          "speaker": "menenius",
+          "en": "Peace, peace! Be not so loud.",
+          "es": "¡Calma, calma! No grites tanto.",
+          "notes": [
+            {
+              "term": "Be not",
+              "title": "Be not",
+              "type": "Nota filológica",
+              "gloss": "no estés; no seas",
+              "body": "Imperativo negativo sin auxiliar «do», frecuente en el inglés de la época. Cotejo: Folger, Coriolanus IV.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/2/); First Folio, IV.2 (https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_4_Scene_2).",
+              "lemma": "be",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/be"
+            }
+          ]
+        },
+        {
+          "line": "2537–2539",
+          "speaker": "volumnia",
+          "en": "If that I could for weeping, you should hear—\nNay, and you shall hear some. Will\nyou be gone?",
+          "es": "Si el llanto me lo permitiera, escucharían lo que tengo que decir…\n¡No! Algo van a escuchar de todos modos. ¿Pretenden\nmarcharse?",
+          "notes": [
+            {
+              "term": "for weeping",
+              "title": "for weeping",
+              "type": "Nota filológica",
+              "gloss": "por el llanto",
+              "body": "«For» señala el impedimento: el llanto dificulta hablar. Cotejo: Folger, Coriolanus IV.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/2/); First Folio, IV.2 (https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_4_Scene_2)."
+            },
+            {
+              "term": "you should hear",
+              "title": "you should hear",
+              "type": "Nota filológica",
+              "gloss": "ustedes escucharían",
+              "body": "«Should» expresa una consecuencia condicional, no obligación. Cotejo: Folger, Coriolanus IV.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/2/); First Folio, IV.2 (https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_4_Scene_2).",
+              "lemma": "shall",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/shall"
+            }
+          ]
+        },
+        {
+          "line": "2540–2541",
+          "speaker": "virgilia",
+          "en": "You shall stay too. I would I had the power\nTo say so to my husband.",
+          "es": "Ustedes también se quedarán. ¡Ojalá tuviera yo el poder\nde decirle lo mismo a mi esposo!",
+          "notes": [
+            {
+              "term": "I would I had",
+              "title": "I would I had",
+              "type": "Nota filológica",
+              "gloss": "ojalá tuviera",
+              "body": "«I would» introduce un deseo contrafáctico. Cotejo: Folger, Coriolanus IV.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/2/); First Folio, IV.2 (https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_4_Scene_2).",
+              "lemma": "would",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/would"
+            }
+          ]
+        },
+        {
+          "line": "2542",
+          "speaker": "sicinius",
+          "en": "Are you mankind?",
+          "es": "¿Es usted un hombre?",
+          "notes": [
+            {
+              "term": "mankind",
+              "title": "mankind",
+              "type": "Nota filológica",
+              "gloss": "masculina; como un hombre",
+              "body": "Aquí se usa como reproche dirigido a una mujer que se comporta de manera considerada viril; no significa «humanidad». Cotejo: Folger, Coriolanus IV.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/2/); First Folio, IV.2 (https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_4_Scene_2).",
+              "lemma": "mankind",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/mankind"
+            }
+          ]
+        },
+        {
+          "line": "2543–2546",
+          "speaker": "volumnia",
+          "en": "Ay, fool, is that a shame? Note but this, fool.\nWas not a man my father? Hadst thou foxship\nTo banish him that struck more blows for Rome\nThan thou hast spoken words?",
+          "es": "Sí, necio. ¿Y eso es vergonzoso? Escucha bien esto, necio:\n¿acaso mi padre no era un hombre? ¿Tuviste la astucia de un zorro\npara desterrar a quien asestó más golpes por Roma\nde los que tú has pronunciado palabras?",
+          "notes": [
+            {
+              "term": "Was not a man my father?",
+              "title": "Was not a man my father?",
+              "type": "Nota filológica",
+              "gloss": "¿acaso mi padre no era un hombre?",
+              "body": "Volumnia responde literalmente al insulto invocando su ascendencia paterna. Cotejo: Folger, Coriolanus IV.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/2/); First Folio, IV.2 (https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_4_Scene_2)."
+            },
+            {
+              "term": "Hadst thou",
+              "title": "Hadst thou",
+              "type": "Nota filológica",
+              "gloss": "¿tuviste tú?",
+              "body": "«Hadst» es pasado de segunda persona singular con «thou». Cotejo: Folger, Coriolanus IV.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/2/); First Folio, IV.2 (https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_4_Scene_2).",
+              "lemma": "have",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/have"
+            },
+            {
+              "term": "foxship",
+              "title": "foxship",
+              "type": "Nota filológica",
+              "gloss": "astucia de zorro",
+              "body": "Formación expresiva sobre «fox» y «-ship», con matiz de astucia taimada; consta en el First Folio. Cotejo: Folger, Coriolanus IV.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/2/); First Folio, IV.2 (https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_4_Scene_2)."
+            }
+          ]
+        },
+        {
+          "line": "2547",
+          "speaker": "sicinius",
+          "en": "O blessèd heavens!",
+          "es": "¡Benditos cielos!",
+          "notes": []
+        },
+        {
+          "line": "2548–2552",
+          "speaker": "volumnia",
+          "en": "More noble blows than ever thou wise words,\nAnd for Rome’s good. I’ll tell thee what—yet go.\nNay, but thou shalt stay too. I would my son\nWere in Arabia and thy tribe before him,\nHis good sword in his hand.",
+          "es": "Más golpes nobles de los que tú has dicho jamás palabras sensatas,\ny todos por el bien de Roma. Voy a decirte algo… Pero vete.\n¡No, tú también te quedarás! Ojalá mi hijo\nestuviera en Arabia, con toda tu gente delante\ny su buena espada en la mano.",
+          "notes": [
+            {
+              "term": "More noble blows than ever thou wise words",
+              "title": "More noble blows than ever thou wise words",
+              "type": "Nota filológica",
+              "gloss": "más golpes nobles que palabras sensatas tuyas",
+              "body": "Comparación elíptica: se sobreentiende «hast spoken» tras «thou». Cotejo: Folger, Coriolanus IV.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/2/); First Folio, IV.2 (https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_4_Scene_2)."
+            },
+            {
+              "term": "I would my son / Were",
+              "title": "I would my son / Were",
+              "type": "Nota filológica",
+              "gloss": "ojalá mi hijo estuviera",
+              "body": "«I would» expresa deseo irreal, no información sobre su paradero. Cotejo: Folger, Coriolanus IV.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/2/); First Folio, IV.2 (https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_4_Scene_2).",
+              "lemma": "would",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/would"
+            },
+            {
+              "term": "thy tribe",
+              "title": "thy tribe",
+              "type": "Nota filológica",
+              "gloss": "toda tu gente",
+              "body": "«Tribe» puede referirse al grupo o linaje de Sicinio; no exige identificar una tribu étnica. Cotejo: Folger, Coriolanus IV.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/2/); First Folio, IV.2 (https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_4_Scene_2).",
+              "lemma": "tribe",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/tribe"
             }
           ]
         }

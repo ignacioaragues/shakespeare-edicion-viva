@@ -1246,13 +1246,22 @@
       "last_line": 2533,
       "editorial_state": "translated_source_checked_external_references",
       "note": "Eight complete speeches; Folger IV.2 checked against MIT; ten contextual Spanish-gloss notes. Stage directions noted. Private comparison and retrospective review pending."
+    },
+    {
+      "id": "coriolanus-4-2-2534-2552",
+      "act": 4,
+      "scene": 2,
+      "first_line": 2534,
+      "last_line": 2552,
+      "editorial_state": "translated_source_checked_external_references",
+      "note": "Eight complete speeches; Folger, MIT and First Folio transcription compared. Eleven contextual Spanish glosses. Private files and retrospective review pending."
     }
   ],
   "next_fragment": {
     "act": 4,
     "scene": 2,
-    "first_line": 2534,
-    "note": "Volumnia's imprecation begins at 2534; choose complete dramatic exchange."
+    "first_line": 2553,
+    "note": "Sicinius asks 'What then?' and Virgilia answers."
   },
   "completed_acts": [],
   "last_update_commit": "pending_atomic_commit",
