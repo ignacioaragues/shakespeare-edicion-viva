@@ -19709,9 +19709,9 @@ window.SHAKESPEARE_READER_DATA = {
       "scene": 4,
       "place": "Ancio · Ante la casa de Aufidio",
       "sourceRef": "Folger Shakespeare Library · Acto IV, escena 4",
-      "sectionLabel": "Edición en curso · líneas 2645–2660",
-      "introduction": "Coriolano llega disfrazado a la ciudad de sus enemigos, recuerda a quienes mató allí y pregunta por la casa de Aufidio. La reflexión posterior queda para la siguiente entrega.",
-      "stage": "Entra Coriolano con ropa humilde, disfrazado y con el rostro cubierto. Después entra un ciudadano; este sale tras indicarle la casa de Aufidio.",
+      "sectionLabel": "Edición en curso · líneas 2645–2676",
+      "introduction": "Coriolano llega disfrazado a Ancio y, ante la casa de Aufidio, reflexiona sobre la facilidad con que la amistad se transforma en odio y los enemigos se vuelven aliados.",
+      "stage": "Entra Coriolano con ropa humilde, disfrazado y con el rostro cubierto. Después entra un ciudadano; este sale tras indicarle la casa de Aufidio. Al terminar su reflexión, Coriolano entra en la casa y sale de escena.",
       "characters": [
         {
           "id": "coriolanus",
@@ -19869,6 +19869,107 @@ window.SHAKESPEARE_READER_DATA = {
           "en": "Thank you, sir. Farewell.",
           "es": "Gracias, señor. Adiós.",
           "notes": []
+        },
+        {
+          "line": "2661–2676",
+          "speaker": "coriolanus",
+          "en": "O world, thy slippery turns! Friends now fast sworn,\nWhose double bosoms seems to wear one heart,\nWhose hours, whose bed, whose meal and exercise\nAre still together, who twin, as ’twere, in love\nUnseparable, shall within this hour,\nOn a dissension of a doit, break out\nTo bitterest enmity; so fellest foes,\nWhose passions and whose plots have broke their\nsleep\nTo take the one the other, by some chance,\nSome trick not worth an egg, shall grow dear friends\nAnd interjoin their issues. So with me:\nMy birthplace hate I, and my love’s upon\nThis enemy town. I’ll enter. If he slay me,\nHe does fair justice; if he give me way,\nI’ll do his country service.",
+          "es": "¡Oh, mundo, qué traicioneros son tus cambios! Amigos unidos hoy por juramentos,\ncuyos dos pechos parecen albergar un solo corazón,\nque comparten siempre sus horas, su lecho, su mesa y sus ocupaciones,\ny que, como gemelos, están unidos por un amor\ninseparable, pueden, en una sola hora,\npor una disputa que no vale ni una moneda, estallar\nen la enemistad más amarga. Y, a la inversa, los enemigos más feroces,\na quienes la pasión y las conspiraciones les han quitado\nel sueño\nmientras buscaban cómo capturarse mutuamente, pueden, por algún azar,\npor una artimaña que no vale ni un huevo, volverse amigos entrañables\ny unir sus destinos. Así me sucede a mí:\nodio mi ciudad natal y he puesto mi afecto\nen esta ciudad enemiga. Entraré. Si él me mata,\nhará justicia; si me da acogida,\nserviré a su patria.",
+          "notes": [
+            {
+              "term": "slippery turns",
+              "title": "slippery turns",
+              "type": "Nota filológica",
+              "gloss": "cambios traicioneros",
+              "body": "«Slippery» atribuye inestabilidad e inseguridad a las mudanzas del mundo; la exclamación anticipa el cambio de lealtades. Fuentes: Folger Shakespeare Library, Coriolanus IV.4 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/4/); MIT Shakespeare, IV.4 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.4.html)."
+            },
+            {
+              "term": "fast sworn",
+              "title": "fast sworn",
+              "type": "Nota filológica",
+              "gloss": "unidos por juramentos",
+              "body": "«Fast» es un adverbio de firmeza, no de velocidad; «sworn» señala una amistad jurada. Fuentes: Folger Shakespeare Library, Coriolanus IV.4 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/4/); MIT Shakespeare, IV.4 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.4.html).",
+              "lemma": "fast",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/fast"
+            },
+            {
+              "term": "seems",
+              "title": "seems",
+              "type": "Nota filológica",
+              "gloss": "parecen",
+              "body": "Folger conserva «seems» con sujeto plural («double bosoms»), mientras MIT imprime «seem». La discordancia se preserva como lectura de la edición base, sin corregirla silenciosamente. Fuentes: Folger Shakespeare Library, Coriolanus IV.4 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/4/); MIT Shakespeare, IV.4 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.4.html); Owl Eyes, IV.4 (https://www.owleyes.org/text/coriolanus/read/act-iv-scene-4).",
+              "lemma": "seem",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/seem"
+            },
+            {
+              "term": "Whose hours",
+              "title": "Whose hours",
+              "type": "Nota filológica",
+              "gloss": "que comparten sus horas",
+              "body": "Folger y Owl Eyes leen «hours»; MIT y otras ediciones leen «house». Es una variante sustantiva: tiempo compartido frente a hogar compartido; no son equivalentes. Fuentes: Folger Shakespeare Library, Coriolanus IV.4 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/4/); MIT Shakespeare, IV.4 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.4.html); Owl Eyes, IV.4 (https://www.owleyes.org/text/coriolanus/read/act-iv-scene-4)."
+            },
+            {
+              "term": "twin, as ’twere",
+              "title": "twin, as ’twere",
+              "type": "Nota filológica",
+              "gloss": "como gemelos",
+              "body": "«Twin» funciona como verbo de asociación estrecha; «as ’twere» abrevia «as it were», «por así decirlo». Fuentes: Folger Shakespeare Library, Coriolanus IV.4 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/4/); MIT Shakespeare, IV.4 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.4.html).",
+              "lemma": "twin",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/twin"
+            },
+            {
+              "term": "dissension of a doit",
+              "title": "dissension of a doit",
+              "type": "Nota filológica",
+              "gloss": "disputa de ínfimo valor",
+              "body": "«Doit» nombra una moneda de escaso valor y funciona como medida de insignificancia; la imagen se corresponde con «not worth an egg». Fuentes: Folger Shakespeare Library, Coriolanus IV.4 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/4/); MIT Shakespeare, IV.4 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.4.html).",
+              "lemma": "doit",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/doit"
+            },
+            {
+              "term": "fellest foes",
+              "title": "fellest foes",
+              "type": "Nota filológica",
+              "gloss": "enemigos más feroces",
+              "body": "«Fell» es adjetivo de ferocidad y «-est» marca el superlativo, sin relación con el pasado de «fall». Fuentes: Folger Shakespeare Library, Coriolanus IV.4 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/4/); MIT Shakespeare, IV.4 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.4.html).",
+              "lemma": "fell",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/fell"
+            },
+            {
+              "term": "have broke their sleep",
+              "title": "have broke their sleep",
+              "type": "Nota filológica",
+              "gloss": "les han interrumpido el sueño",
+              "body": "«Broke» aparece como participio tras «have», una construcción histórica que la norma contemporánea suele expresar con «broken». Fuentes: Folger Shakespeare Library, Coriolanus IV.4 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/4/); MIT Shakespeare, IV.4 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.4.html).",
+              "lemma": "break",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/break"
+            },
+            {
+              "term": "interjoin their issues",
+              "title": "interjoin their issues",
+              "type": "Nota filológica",
+              "gloss": "unir sus destinos",
+              "body": "«Issues» puede abarcar resultados, intereses y descendencia; aquí se conserva la amplitud de la unión proyectada, sin reducirla necesariamente a hijos. Fuentes: Folger Shakespeare Library, Coriolanus IV.4 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/4/); MIT Shakespeare, IV.4 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.4.html).",
+              "lemma": "issue",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/issue"
+            },
+            {
+              "term": "hate",
+              "title": "hate",
+              "type": "Nota filológica",
+              "gloss": "odio",
+              "body": "Folger señala «hate» como intervención editorial en el texto; se conserva su lectura y la inversión «My birthplace hate I», que antepone el objeto para enfatizar la ruptura. Fuentes: Folger Shakespeare Library, Coriolanus IV.4 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/4/); MIT Shakespeare, IV.4 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.4.html); Owl Eyes, IV.4 (https://www.owleyes.org/text/coriolanus/read/act-iv-scene-4)."
+            },
+            {
+              "term": "give me way",
+              "title": "give me way",
+              "type": "Nota filológica",
+              "gloss": "me da acogida",
+              "body": "La expresión significa permitirle el paso o abrirle una posibilidad de actuar; no implica literalmente entregarle un camino. Fuentes: Folger Shakespeare Library, Coriolanus IV.4 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/4/); MIT Shakespeare, IV.4 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.4.html).",
+              "lemma": "give",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/give"
+            }
+          ]
         }
       ]
     }

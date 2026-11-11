@@ -1327,13 +1327,22 @@
       "last_line": 2660,
       "editorial_state": "translated_source_checked_external_references",
       "note": "Eight complete speech blocks through the citizen's exit; Folger and MIT checked; selective Spanish glosses. Retrospective/private comparison pending."
+    },
+    {
+      "id": "coriolanus-4-4-2661-2676",
+      "act": 4,
+      "scene": 4,
+      "first_line": 2661,
+      "last_line": 2676,
+      "editorial_state": "translated_source_checked_external_references",
+      "note": "Monólogo final completo; Folger IV.4 contrastado con MIT y Owl Eyes; variantes hours/house y seems/seem registradas, glosas españolas. Cotejo privado y segunda pasada pendientes."
     }
   ],
   "next_fragment": {
     "act": 4,
-    "scene": 4,
-    "first_line": 2661,
-    "note": "Coriolanus' final soliloquy on friendship and enmity, through 2676."
+    "scene": 5,
+    "first_line": 2677,
+    "note": "Comenzar IV.5 en la casa de Aufidio; comprobar Folger y navegación antes de avanzar."
   },
   "completed_acts": [],
   "last_update_commit": "pending_atomic_commit",
