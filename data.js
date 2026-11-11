@@ -17900,6 +17900,110 @@ window.SHAKESPEARE_READER_DATA = {
               "gloss": "hay un mundo en otra parte",
               "body": "La frase final opone Roma a la posibilidad de una vida fuera de ella; su concisión marca el giro de la acción hacia el exilio. No se interpreta aquí como una promesa de libertad sin consecuencias. Fuentes: Folger Shakespeare Library, Coriolanus III.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/); MIT Shakespeare, III.3 (https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html)."
             }
+          ],
+        {
+          "line": "2442",
+          "speaker": "aedile",
+          "en": "The people’s enemy is gone, is gone.",
+          "es": "El enemigo del pueblo se ha ido, se ha ido.",
+          "notes": [
+            {
+              "term": "people’s enemy",
+              "title": "people’s enemy",
+              "type": "Nota filológica",
+              "gloss": "enemigo del pueblo",
+              "body": "El edil repite la calificación política de los tribunos; no es un juicio del editor. Fuentes: Folger Shakespeare Library, Coriolanus III.3, líneas 2442–2449 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/); MIT Shakespeare, III.3 (https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html)."
+            }
+          ]
+        },
+        {
+          "line": "2443",
+          "speaker": "all_plebeians",
+          "en": "Our enemy is banished; he is gone. Hoo, hoo!",
+          "es": "¡Nuestro enemigo está desterrado; se ha ido! ¡Hurra, hurra!",
+          "notes": [
+            {
+              "term": "Hoo, hoo",
+              "title": "Hoo, hoo",
+              "type": "Nota filológica",
+              "gloss": "gritos de júbilo",
+              "body": "Exclamación coral de celebración. La acotación siguiente indica que los presentes gritan y lanzan sus gorros al aire. Fuentes: Folger Shakespeare Library, Coriolanus III.3, líneas 2442–2449 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/); MIT Shakespeare, III.3 (https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html)."
+            }
+          ]
+        },
+        {
+          "line": "2444–2447",
+          "speaker": "sicinius",
+          "en": "Go see him out at gates, and follow him,\nAs he hath followed you, with all despite.\nGive him deserved vexation. Let a guard\nAttend us through the city.",
+          "es": "Vayan a verlo salir por las puertas y síganlo,\ncon el mismo desprecio con que él los ha perseguido.\nHáganle pasar las molestias que merece. Que una escolta\nnos acompañe por la ciudad.",
+          "notes": [
+            {
+              "term": "see him out at gates",
+              "title": "see him out at gates",
+              "type": "Nota filológica",
+              "gloss": "acompañarlo hasta las puertas",
+              "body": "La orden convierte la expulsión legal en una salida vigilada de la ciudad. Fuentes: Folger Shakespeare Library, Coriolanus III.3, líneas 2442–2449 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/); MIT Shakespeare, III.3 (https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html)."
+            },
+            {
+              "term": "hath followed",
+              "title": "hath followed",
+              "type": "Nota filológica",
+              "gloss": "ha perseguido",
+              "body": "Forma de perfecto con auxiliar arcaico de tercera persona singular «hath»; el paralelismo convierte la hostilidad anterior en motivo de represalia. Fuentes: Folger Shakespeare Library, Coriolanus III.3, líneas 2442–2449 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/); MIT Shakespeare, III.3 (https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html).",
+              "lemma": "have",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/have"
+            },
+            {
+              "term": "despite",
+              "title": "despite",
+              "type": "Nota filológica",
+              "gloss": "desprecio; hostilidad",
+              "body": "Sustantivo con sentido de animadversión, distinto del uso preposicional moderno «a pesar de». Fuentes: Folger Shakespeare Library, Coriolanus III.3, líneas 2442–2449 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/); MIT Shakespeare, III.3 (https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html).",
+              "lemma": "despite",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/despite"
+            },
+            {
+              "term": "vexation",
+              "title": "vexation",
+              "type": "Nota filológica",
+              "gloss": "hostigamiento; molestias",
+              "body": "No implica necesariamente violencia física; Sicinio ordena importunar al desterrado. Fuentes: Folger Shakespeare Library, Coriolanus III.3, líneas 2442–2449 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/); MIT Shakespeare, III.3 (https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html).",
+              "lemma": "vexation",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/vexation"
+            },
+            {
+              "term": "Attend us",
+              "title": "Attend us",
+              "type": "Nota filológica",
+              "gloss": "acompáñennos; escóltennos",
+              "body": "Imperativo: Sicinio pide una guardia para los tribunos al recorrer la ciudad. Fuentes: Folger Shakespeare Library, Coriolanus III.3, líneas 2442–2449 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/); MIT Shakespeare, III.3 (https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html).",
+              "lemma": "attend",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/attend"
+            }
+          ]
+        },
+        {
+          "line": "2448–2449",
+          "speaker": "all_plebeians",
+          "en": "Come, come, let’s see him out at gates! Come!\nThe gods preserve our noble tribunes! Come!",
+          "es": "¡Vamos, vamos, acompañémoslo hasta las puertas! ¡Vamos!\n¡Que los dioses protejan a nuestros nobles tribunos! ¡Vamos!",
+          "notes": [
+            {
+              "term": "The gods preserve",
+              "title": "The gods preserve",
+              "type": "Nota filológica",
+              "gloss": "que los dioses protejan",
+              "body": "«Preserve» expresa un deseo optativo, no una afirmación de intervención divina. Fuentes: Folger Shakespeare Library, Coriolanus III.3, líneas 2442–2449 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/); MIT Shakespeare, III.3 (https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html).",
+              "lemma": "preserve",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/preserve"
+            },
+            {
+              "term": "noble tribunes",
+              "title": "noble tribunes",
+              "type": "Nota filológica",
+              "gloss": "nobles tribunos",
+              "body": "Epíteto de elogio pronunciado por la multitud, que invierte la jerarquía valorativa del patricio desterrado. Fuentes: Folger Shakespeare Library, Coriolanus III.3, líneas 2442–2449 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/); MIT Shakespeare, III.3 (https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html)."
+            }
           ]
         }
       ]

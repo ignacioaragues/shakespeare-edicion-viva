@@ -1192,13 +1192,22 @@
       "last_line": 2441,
       "editorial_state": "translated_source_checked_external_references",
       "note": "Coriolanus' complete banishment retort; Folger III.3 verified against MIT; nine contextual notes, Spanish glosses, and a flagged divergence in 'reservation'. Private reference cotejo and retrospective review pending."
+    },
+    {
+      "id": "coriolanus-3-3-2442-2449",
+      "act": 3,
+      "scene": 3,
+      "first_line": 2442,
+      "last_line": 2449,
+      "editorial_state": "translated_source_checked_external_references",
+      "note": "Four complete speeches close III.3; Folger and MIT compared, nine glossed notes. Stage direction remains unencoded; retrospective and private reference review pending."
     }
   ],
   "next_fragment": {
-    "act": 3,
-    "scene": 3,
-    "first_line": 2442,
-    "note": "Aedile, plebeian chorus, Sicinius and closing exit; check full speech boundaries and end of scene."
+    "act": 4,
+    "scene": 1,
+    "first_line": 2450,
+    "note": "Confirm first Folger line of IV.1 and create scene navigation."
   },
   "completed_acts": [],
   "last_update_commit": "pending_atomic_commit",
