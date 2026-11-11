@@ -18534,9 +18534,9 @@ window.SHAKESPEARE_READER_DATA = {
       "scene": 2,
       "place": "Roma · Una calle próxima a las puertas de la ciudad",
       "sourceRef": "Folger Shakespeare Library · Acto IV, escena 2",
-      "sectionLabel": "Edición en curso · líneas 2519–2566",
+      "sectionLabel": "Edición en curso · líneas 2519–2576",
       "introduction": "Después del destierro, Sicinio y Bruto procuran disolver la concentración popular y moderar su imagen pública; Volumnia se aproxima.",
-      "stage": "Entran Sicinio, Bruto y un edil. [Después de 2528: sale el edil.] [Después de 2529: entran Volumnia, Virgilia y Menenio.]",
+      "stage": "Entran Sicinio, Bruto y un edil. [Después de 2528: sale el edil.] [Después de 2529: entran Volumnia, Virgilia y Menenio.] [Después de 2576: salen los tribunos.]",
       "characters": [
         {
           "id": "sicinius",
@@ -19024,6 +19024,118 @@ window.SHAKESPEARE_READER_DATA = {
               "type": "Nota filológica",
               "gloss": "tan acertadamente como yo podría",
               "body": "Comparación irónica de incompetencias: Volumnia equipara el juicio político de la multitud a su propio desconocimiento de secretos celestiales. Fuentes: Folger Shakespeare Library, Coriolanus IV.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/2/); First Folio, IV.2, transcripción diplomática (https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_4_Scene_2)."
+            }
+          ]
+        },
+        {
+          "line": "2567",
+          "speaker": "brutus",
+          "en": "Pray, let’s go.",
+          "es": "Por favor, vámonos.",
+          "notes": [
+            {
+              "term": "Pray",
+              "title": "Pray",
+              "type": "Nota filológica",
+              "gloss": "por favor",
+              "body": "Fórmula de ruego empleada para retirarse de una confrontación, no una invocación religiosa. Fuentes: Folger Shakespeare Library, Coriolanus IV.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/2/); First Folio, IV.2 (https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_4_Scene_2); MIT Shakespeare, IV.2 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.2.html).",
+              "lemma": "pray",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/pray"
+            }
+          ]
+        },
+        {
+          "line": "2568–2573",
+          "speaker": "volumnia",
+          "en": "Now, pray, sir, get you gone.\nYou have done a brave deed. Ere you go, hear this:\nAs far as doth the Capitol exceed\nThe meanest house in Rome, so far my son—\nThis lady’s husband here, this, do you see?—\nWhom you have banished, does exceed you all.",
+          "es": "Ahora, por favor, señor, márchese.\n¡Qué gran hazaña ha realizado! Antes de irse, escuche esto:\nEn la misma medida en que el Capitolio supera\nla casa más humilde de Roma, mi hijo —\nel esposo de esta señora, este que ve aquí—,\na quien ustedes han desterrado, los supera a todos.",
+          "notes": [
+            {
+              "term": "brave deed",
+              "title": "brave deed",
+              "type": "Nota filológica",
+              "gloss": "gran hazaña (irónico)",
+              "body": "Elogio sarcástico: Volumnia condena el destierro. Fuentes: Folger Shakespeare Library, Coriolanus IV.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/2/); First Folio, IV.2 (https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_4_Scene_2); MIT Shakespeare, IV.2 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.2.html)."
+            },
+            {
+              "term": "Ere",
+              "title": "Ere",
+              "type": "Nota filológica",
+              "gloss": "antes de",
+              "body": "Conjunción temporal arcaica. Fuentes: Folger Shakespeare Library, Coriolanus IV.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/2/); First Folio, IV.2 (https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_4_Scene_2); MIT Shakespeare, IV.2 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.2.html).",
+              "lemma": "ere",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/ere"
+            },
+            {
+              "term": "doth",
+              "title": "doth",
+              "type": "Nota filológica",
+              "gloss": "auxiliar de tercera persona singular",
+              "body": "Forma histórica de «do» que acompaña a «exceed», el verbo léxico. Fuentes: Folger Shakespeare Library, Coriolanus IV.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/2/); First Folio, IV.2 (https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_4_Scene_2); MIT Shakespeare, IV.2 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.2.html).",
+              "lemma": "do",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/do"
+            },
+            {
+              "term": "the Capitol",
+              "title": "the Capitol",
+              "type": "Nota filológica",
+              "gloss": "el Capitolio",
+              "body": "Centro político-religioso romano, polo superior de la comparación con la casa más humilde. Fuentes: Folger Shakespeare Library, Coriolanus IV.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/2/); First Folio, IV.2 (https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_4_Scene_2); MIT Shakespeare, IV.2 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.2.html)."
+            },
+            {
+              "term": "This lady’s husband",
+              "title": "This lady’s husband",
+              "type": "Nota filológica",
+              "gloss": "el esposo de esta señora",
+              "body": "Inciso deíctico referido a Virgilia que dramatiza la identificación del ausente. Fuentes: Folger Shakespeare Library, Coriolanus IV.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/2/); First Folio, IV.2 (https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_4_Scene_2); MIT Shakespeare, IV.2 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.2.html)."
+            },
+            {
+              "term": "does exceed you all",
+              "title": "does exceed you all",
+              "type": "Nota filológica",
+              "gloss": "los supera a todos",
+              "body": "Cierre de la construcción correlativa «As far as ... so far ...», que compara distancias figuradas. Fuentes: Folger Shakespeare Library, Coriolanus IV.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/2/); First Folio, IV.2 (https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_4_Scene_2); MIT Shakespeare, IV.2 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.2.html)."
+            }
+          ]
+        },
+        {
+          "line": "2574",
+          "speaker": "brutus",
+          "en": "Well, well, we’ll leave you.",
+          "es": "Está bien, está bien; la dejaremos.",
+          "notes": [
+            {
+              "term": "Well, well",
+              "title": "Well, well",
+              "type": "Nota filológica",
+              "gloss": "está bien, está bien",
+              "body": "Repetición de cierre conversacional, no asentimiento al argumento de Volumnia. Fuentes: Folger Shakespeare Library, Coriolanus IV.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/2/); First Folio, IV.2 (https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_4_Scene_2); MIT Shakespeare, IV.2 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.2.html)."
+            }
+          ]
+        },
+        {
+          "line": "2575–2576",
+          "speaker": "sicinius",
+          "en": "Why stay we to be baited\nWith one that wants her wits?",
+          "es": "¿Para qué quedarnos a soportar las provocaciones\nde alguien que ha perdido el juicio?",
+          "notes": [
+            {
+              "term": "baited",
+              "title": "baited",
+              "type": "Nota filológica",
+              "gloss": "hostigados; provocados",
+              "body": "«Bait» puede aludir al hostigamiento y azuzamiento, incluso de animales; aquí describe una agresión verbal. Fuentes: Folger Shakespeare Library, Coriolanus IV.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/2/); First Folio, IV.2 (https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_4_Scene_2); MIT Shakespeare, IV.2 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.2.html).",
+              "lemma": "bait",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/bait"
+            },
+            {
+              "term": "wants her wits",
+              "title": "wants her wits",
+              "type": "Nota filológica",
+              "gloss": "carece de juicio",
+              "body": "«Want» significa ‘carecer de’, no ‘desear’; Sicinio descalifica a Volumnia sin establecer diagnóstico alguno. Fuentes: Folger Shakespeare Library, Coriolanus IV.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/2/); First Folio, IV.2 (https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_4_Scene_2); MIT Shakespeare, IV.2 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.2.html).",
+              "lemma": "want",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/want"
             }
           ]
         }

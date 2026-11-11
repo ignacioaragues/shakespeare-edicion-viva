@@ -1264,13 +1264,22 @@
       "last_line": 2566,
       "editorial_state": "translated_source_checked_external_references",
       "note": "Seven complete speeches; Folger IV.2 checked against MIT and First Folio transcription; eight contextual glosses including Folio 'Twas thou' vs Folger '’Twas you'. Private sources and retrospective review pending."
+    },
+    {
+      "id": "coriolanus-4-2-2567-2576",
+      "act": 4,
+      "scene": 2,
+      "first_line": 2567,
+      "last_line": 2576,
+      "editorial_state": "translated_source_checked_external_references",
+      "note": "Four complete speeches; Folger IV.2 compared with MIT and First Folio; ten contextual notes with Spanish glosses. Private and retrospective cotejo pending."
     }
   ],
   "next_fragment": {
     "act": 4,
     "scene": 2,
-    "first_line": 2567,
-    "note": "Brutus proposes leaving; Volumnia continues her reproach."
+    "first_line": 2577,
+    "note": "Volumnia's curse after the tribunes exit."
   },
   "completed_acts": [],
   "last_update_commit": "pending_atomic_commit",
