@@ -26,7 +26,8 @@ window.SHAKESPEARE_READER_DATA = {
         "coriolanus-3-3",
         "coriolanus-4-1",
         "coriolanus-4-2",
-        "coriolanus-4-3"
+        "coriolanus-4-3",
+        "coriolanus-4-4"
       ]
     }
   ],
@@ -19697,6 +19698,176 @@ window.SHAKESPEARE_READER_DATA = {
           "speaker": "roman",
           "en": "Well, let us go together.",
           "es": "Bien, vayamos juntos.",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "id": "coriolanus-4-4",
+      "workId": "coriolanus",
+      "act": 4,
+      "scene": 4,
+      "place": "Ancio · Ante la casa de Aufidio",
+      "sourceRef": "Folger Shakespeare Library · Acto IV, escena 4",
+      "sectionLabel": "Edición en curso · líneas 2645–2660",
+      "introduction": "Coriolano llega disfrazado a la ciudad de sus enemigos, recuerda a quienes mató allí y pregunta por la casa de Aufidio. La reflexión posterior queda para la siguiente entrega.",
+      "stage": "Entra Coriolano con ropa humilde, disfrazado y con el rostro cubierto. Después entra un ciudadano; este sale tras indicarle la casa de Aufidio.",
+      "characters": [
+        {
+          "id": "coriolanus",
+          "name": "Coriolano",
+          "english": "Coriolanus",
+          "identity": "General romano desterrado, ahora oculto en territorio volsco.",
+          "color": "copper"
+        },
+        {
+          "id": "citizen",
+          "name": "Ciudadano de Ancio",
+          "english": "Citizen",
+          "identity": "Habitante de Ancio que indica dónde vive Aufidio.",
+          "color": "olive"
+        }
+      ],
+      "blocks": [
+        {
+          "line": "2645–2650",
+          "speaker": "coriolanus",
+          "en": "A goodly city is this Antium. City,\n’Tis I that made thy widows. Many an heir\nOf these fair edifices ’fore my wars\nHave I heard groan and drop. Then, know me not,\nLest that thy wives with spits and boys with stones\nIn puny battle slay me.",
+          "es": "Hermosa ciudad es esta Ancio. Ciudad,\nfui yo quien dejó viudas a tus mujeres. A más de un heredero\nde estos bellos edificios, antes de mis campañas,\nlo oí gemir y caer. Así que no me reconozcas,\nno sea que tus mujeres, con espetones, y tus muchachos, con piedras,\nme maten en una batalla insignificante.",
+          "notes": [
+            {
+              "term": "goodly city",
+              "title": "goodly city",
+              "type": "Nota filológica",
+              "gloss": "hermosa ciudad",
+              "body": "«Goodly» reconoce la magnificencia de la ciudad enemiga; el apóstrofe inmediato la convierte en interlocutora. Fuentes: Folger Shakespeare Library, Coriolanus IV.4 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/4/); MIT Shakespeare, IV.4 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.4.html)."
+            },
+            {
+              "term": "thy widows",
+              "title": "thy widows",
+              "type": "Nota filológica",
+              "gloss": "tus viudas",
+              "body": "La personificación de Ancio permite a Coriolano atribuirse directamente las muertes de sus habitantes. Fuentes: Folger Shakespeare Library, Coriolanus IV.4 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/4/); MIT Shakespeare, IV.4 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.4.html)."
+            },
+            {
+              "term": "’fore my wars",
+              "title": "’fore my wars",
+              "type": "Nota filológica",
+              "gloss": "antes de mis campañas",
+              "body": "«’Fore» es aféresis de «before»; la inversión «Have I heard» conserva el énfasis en los herederos caídos. Fuentes: Folger Shakespeare Library, Coriolanus IV.4 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/4/); MIT Shakespeare, IV.4 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.4.html).",
+              "lemma": "before",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/before"
+            },
+            {
+              "term": "spits",
+              "title": "spits",
+              "type": "Nota filológica",
+              "gloss": "espetones de asar",
+              "body": "«Spits» son varas usadas para asar alimentos, aquí improvisadas como armas domésticas; no es el verbo «escupir». Fuentes: Folger Shakespeare Library, Coriolanus IV.4 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/4/); MIT Shakespeare, IV.4 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.4.html); Wiktionary, spit (https://en.wiktionary.org/wiki/spit)."
+            },
+            {
+              "term": "puny battle",
+              "title": "puny battle",
+              "type": "Nota filológica",
+              "gloss": "combate insignificante",
+              "body": "El contraste entre sus hazañas militares y una posible muerte a manos de civiles desarmados es deliberadamente humillante. Fuentes: Folger Shakespeare Library, Coriolanus IV.4 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/4/); MIT Shakespeare, IV.4 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.4.html)."
+            }
+          ]
+        },
+        {
+          "line": "2651",
+          "speaker": "coriolanus",
+          "en": "Save you, sir.",
+          "es": "Dios lo guarde, señor.",
+          "notes": [
+            {
+              "term": "Save you",
+              "title": "Save you",
+              "type": "Nota filológica",
+              "gloss": "Dios lo guarde",
+              "body": "Saludo elíptico con sentido de bendición, no una petición literal de rescate. Fuentes: Folger Shakespeare Library, Coriolanus IV.4 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/4/); MIT Shakespeare, IV.4 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.4.html)."
+            }
+          ]
+        },
+        {
+          "line": "2652",
+          "speaker": "citizen",
+          "en": "And you.",
+          "es": "Y a usted también.",
+          "notes": []
+        },
+        {
+          "line": "2653–2654",
+          "speaker": "coriolanus",
+          "en": "Direct me, if it be your will,\nWhere great Aufidius lies. Is he in Antium?",
+          "es": "Indíqueme, si tiene la amabilidad,\ndónde se aloja el gran Aufidio. ¿Está en Ancio?",
+          "notes": [
+            {
+              "term": "lies",
+              "title": "lies",
+              "type": "Nota filológica",
+              "gloss": "se aloja",
+              "body": "«Lie» indica aquí dónde se encuentra o reside Aufidio, no que esté acostado ni que mienta. Fuentes: Folger Shakespeare Library, Coriolanus IV.4 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/4/); MIT Shakespeare, IV.4 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.4.html).",
+              "lemma": "lie",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/lie"
+            },
+            {
+              "term": "if it be your will",
+              "title": "if it be your will",
+              "type": "Nota filológica",
+              "gloss": "si tiene la amabilidad",
+              "body": "La fórmula condicional cortés contrasta con el tono imperioso habitual de Coriolano; «be» aparece en una subordinada de valor eventual. Fuentes: Folger Shakespeare Library, Coriolanus IV.4 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/4/); MIT Shakespeare, IV.4 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.4.html).",
+              "lemma": "be",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/be"
+            }
+          ]
+        },
+        {
+          "line": "2655–2656",
+          "speaker": "citizen",
+          "en": "He is, and feasts the nobles of the state\nAt his house this night.",
+          "es": "Sí, y esta noche ofrece un banquete\na los nobles del Estado en su casa.",
+          "notes": [
+            {
+              "term": "feasts",
+              "title": "feasts",
+              "type": "Nota filológica",
+              "gloss": "ofrece un banquete",
+              "body": "«Feast» funciona como verbo transitivo: Aufidio agasaja a los nobles, no simplemente come con ellos. Fuentes: Folger Shakespeare Library, Coriolanus IV.4 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/4/); MIT Shakespeare, IV.4 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.4.html).",
+              "lemma": "feast",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/feast"
+            }
+          ]
+        },
+        {
+          "line": "2657–2658",
+          "speaker": "coriolanus",
+          "en": "Which is his house, beseech\nyou?",
+          "es": "¿Cuál es su casa, se lo ruego?",
+          "notes": [
+            {
+              "term": "beseech you",
+              "title": "beseech you",
+              "type": "Nota filológica",
+              "gloss": "se lo ruego",
+              "body": "Fórmula de petición que omite el sujeto «I»; su uso refuerza la prudencia del protagonista disfrazado. Fuentes: Folger Shakespeare Library, Coriolanus IV.4 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/4/); MIT Shakespeare, IV.4 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.4.html).",
+              "lemma": "beseech",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/beseech"
+            }
+          ]
+        },
+        {
+          "line": "2659",
+          "speaker": "citizen",
+          "en": "This here before you.",
+          "es": "Esta que tiene delante.",
+          "notes": []
+        },
+        {
+          "line": "2660",
+          "speaker": "coriolanus",
+          "en": "Thank you, sir. Farewell.",
+          "es": "Gracias, señor. Adiós.",
           "notes": []
         }
       ]
