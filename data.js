@@ -18019,7 +18019,7 @@ window.SHAKESPEARE_READER_DATA = {
       "sourceRef": "Folger Shakespeare Library · Acto IV, escena 1",
       "sectionLabel": "Edición en curso · líneas 2450–2511",
       "introduction": "Tras la sentencia de destierro, Coriolano se despide de su familia y de sus aliados. La escena comienza con su exhortación a la fortaleza.",
-      "stage": "Entran Coriolano, Volumnia, Virgilia, Menenio, Cominio y jóvenes nobles romanos.",
+      "stage": "Entran Coriolano, Volumnia, Virgilia, Menenio, Cominio y jóvenes nobles romanos.\n[Al terminar la escena, salen todos.]",
       "characters": [
         {
           "id": "coriolanus",
@@ -18451,6 +18451,76 @@ window.SHAKESPEARE_READER_DATA = {
               "type": "Nota filológica",
               "gloss": "acorde con quien fui siempre",
               "body": "La despedida afirma continuidad de carácter pese al cambio de fortuna; es una declaración del personaje, no una garantía de la acción futura. Fuentes: Folger Shakespeare Library, Coriolanus IV.1 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/1/); MIT Shakespeare, IV.1 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.1.html)."
+            }
+          ]
+        },
+        {
+          "line": "2512–2516",
+          "speaker": "menenius",
+          "en": "That’s worthily\nAs any ear can hear. Come, let’s not weep.\nIf I could shake off but one seven years\nFrom these old arms and legs, by the good gods,\nI’d with thee every foot.",
+          "es": "Eso es digno de escucharse\npor cualquier oído. Vamos, no lloremos.\nSi pudiera quitarme tan solo siete años\nde estos viejos brazos y piernas, por los buenos dioses,\nte acompañaría a cada paso.",
+          "notes": [
+            {
+              "term": "worthily",
+              "title": "worthily",
+              "type": "Nota filológica",
+              "gloss": "con nobleza; dignamente",
+              "body": "Adverbio que califica la manera de hablar de Coriolano; Menenio elogia su resolución, no pronuncia un juicio sobre el futuro. Fuentes: Folger Shakespeare Library, Coriolanus IV.1 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/1/); MIT Shakespeare, IV.1 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.1.html).",
+              "lemma": "worthily",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/worthily"
+            },
+            {
+              "term": "one seven years",
+              "title": "one seven years",
+              "type": "Nota filológica",
+              "gloss": "tan solo siete años",
+              "body": "Giro distributivo: «one seven years» equivale aquí a un período de siete años. Menenio imagina recuperar una pequeña parte de su juventud; no se trata de siete períodos. Fuentes: Folger Shakespeare Library, Coriolanus IV.1 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/1/); MIT Shakespeare, IV.1 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.1.html).",
+              "lemma": "seven",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/seven"
+            },
+            {
+              "term": "shake off",
+              "title": "shake off",
+              "type": "Nota filológica",
+              "gloss": "quitarse de encima; desprenderse de",
+              "body": "Metáfora corporal aplicada a la edad, como si los años fueran una carga que pudiera sacudirse. Fuentes: Folger Shakespeare Library, Coriolanus IV.1 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/1/); MIT Shakespeare, IV.1 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.1.html).",
+              "lemma": "shake",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/shake"
+            },
+            {
+              "term": "every foot",
+              "title": "every foot",
+              "type": "Nota filológica",
+              "gloss": "a cada paso; durante todo el trayecto",
+              "body": "«Foot» funciona como medida de distancia recorrida, intensificando la promesa de acompañamiento. Fuentes: Folger Shakespeare Library, Coriolanus IV.1 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/1/); MIT Shakespeare, IV.1 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.1.html).",
+              "lemma": "foot",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/foot"
+            }
+          ]
+        },
+        {
+          "line": "2517–2518",
+          "speaker": "coriolanus",
+          "en": "Give me thy hand.\nCome.",
+          "es": "Dame la mano.\nVamos.",
+          "notes": [
+            {
+              "term": "thy hand",
+              "title": "thy hand",
+              "type": "Nota filológica",
+              "gloss": "tu mano",
+              "body": "«Thy» es el posesivo de segunda persona singular del inglés moderno temprano. El gesto físico cierra el intercambio entre Coriolano y Menenio. Fuentes: Folger Shakespeare Library, Coriolanus IV.1 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/1/); MIT Shakespeare, IV.1 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.1.html).",
+              "lemma": "thy",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/thy"
+            },
+            {
+              "term": "Come",
+              "title": "Come",
+              "type": "Nota filológica",
+              "gloss": "Vamos",
+              "body": "Imperativo breve que pone fin a la despedida y conduce a la salida conjunta; se mantiene el carácter exhortativo. Fuentes: Folger Shakespeare Library, Coriolanus IV.1 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/1/); MIT Shakespeare, IV.1 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.1.html).",
+              "lemma": "come",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/come"
             }
           ]
         }

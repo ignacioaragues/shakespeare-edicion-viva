@@ -1228,13 +1228,22 @@
       "last_line": 2511,
       "editorial_state": "translated_source_checked_external_references",
       "note": "Four complete speeches; Folger IV.1 and MIT compared, including exposure/exposture divergence. Contextual glosses added. Private reference and retrospective review pending. Also repaired pre-existing missing block brace in data.js."
+    },
+    {
+      "id": "coriolanus-4-1-2512-2518",
+      "act": 4,
+      "scene": 1,
+      "first_line": 2512,
+      "last_line": 2518,
+      "editorial_state": "translated_source_checked_external_references",
+      "note": "Menenius' farewell and Coriolanus' final imperative; six contextual notes; Folger IV.1 and MIT compared. Final stage exit encoded. Private reference comparison and retrospective review pending."
     }
   ],
   "next_fragment": {
     "act": 4,
-    "scene": 1,
-    "first_line": 2512,
-    "note": "Complete IV.1 with Menenius' farewell and Coriolanus' reply (2512–2518); include final stage exit."
+    "scene": 2,
+    "first_line": 2519,
+    "note": "Verify exact Folger start and begin IV.2 with complete dramatic units; add scene navigation."
   },
   "completed_acts": [],
   "last_update_commit": "pending_atomic_commit",
