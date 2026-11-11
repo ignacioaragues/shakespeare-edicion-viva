@@ -16558,7 +16558,7 @@ window.SHAKESPEARE_READER_DATA = {
       "scene": 3,
       "place": "Roma · El foro",
       "sourceRef": "Folger Shakespeare Library · Acto III, escena 3",
-      "sectionLabel": "Edición en curso · líneas 2277–2364",
+      "sectionLabel": "Edición en curso · líneas 2277–2425",
       "introduction": "Bruto y Sicinio preparan los cargos contra Coriolano antes de su comparecencia.",
       "stage": "Entran Sicinio y Bruto. Entra un edil después de la línea 2281; sale después de la línea 2308.",
       "characters": [
@@ -17663,6 +17663,159 @@ window.SHAKESPEARE_READER_DATA = {
               "body": "Fórmula conclusiva preparada desde las instrucciones a la multitud en III.3, 2293–2299; su repetición convierte la aclamación en un acto público coordinado. Fuentes: Folger Shakespeare Library, Coriolanus III.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/); Owl Eyes, Coriolanus III.3 (https://www.owleyes.org/text/coriolanus/read/act-iii-scene-3)."
             }
           ]
+        },
+        {
+          "line": "2409–2410",
+          "speaker": "all_plebeians",
+          "en": "It shall be so, it shall be so! Let him away!\nHe’s banished, and it shall be so.",
+          "es": "¡Así será, así será! ¡Que se lo lleven!\nEstá desterrado, y así será.",
+          "notes": [
+            {
+              "term": "It shall be so",
+              "title": "It shall be so",
+              "type": "Nota filológica",
+              "gloss": "Así será",
+              "body": "La multitud repite la fórmula conclusiva de Sicinio (2408), según la consigna anticipada en 2293–2299. Es una aclamación preparada, no prueba de un escrutinio independiente. Fuentes: Folger Shakespeare Library, Coriolanus III.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/); MIT Shakespeare, III.3 (https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html)."
+            }
+          ]
+        },
+        {
+          "line": "2411",
+          "speaker": "cominius",
+          "en": "Hear me, my masters and my common friends—",
+          "es": "Escúchenme, señores míos y conciudadanos—",
+          "notes": [
+            {
+              "term": "my masters",
+              "title": "my masters",
+              "type": "Nota filológica",
+              "gloss": "señores míos",
+              "body": "Tratamiento deferente dirigido a la asamblea; Cominio intenta obtener audiencia en lugar de desafiarla. Fuentes: Folger Shakespeare Library, Coriolanus III.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/); MIT Shakespeare, III.3 (https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html).",
+              "lemma": "master",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/master"
+            },
+            {
+              "term": "my common friends",
+              "title": "my common friends",
+              "type": "Nota filológica",
+              "gloss": "amigos míos, conciudadanos",
+              "body": "«Common» invoca el vínculo cívico compartido, no una amistad personal comprobada; la expresión busca acercamiento retórico. Fuentes: Folger Shakespeare Library, Coriolanus III.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/); MIT Shakespeare, III.3 (https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html)."
+            }
+          ]
+        },
+        {
+          "line": "2412",
+          "speaker": "sicinius",
+          "en": "He’s sentenced. No more hearing.",
+          "es": "Ya ha sido sentenciado. No se escuchará nada más.",
+          "notes": [
+            {
+              "term": "No more hearing",
+              "title": "No more hearing",
+              "type": "Nota filológica",
+              "gloss": "no se escuchará nada más",
+              "body": "«Hearing» designa aquí la posibilidad de seguir oyendo alegatos; Sicinio clausura la intervención tras dictarse sentencia. Fuentes: Folger Shakespeare Library, Coriolanus III.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/); MIT Shakespeare, III.3 (https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html).",
+              "lemma": "hearing",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/hearing"
+            }
+          ]
+        },
+        {
+          "line": "2413–2420",
+          "speaker": "cominius",
+          "en": "Let me speak.\nI have been consul and can show for Rome\nHer enemies’ marks upon me. I do love\nMy country’s good with a respect more tender,\nMore holy and profound, than mine own life,\nMy dear wife’s estimate, her womb’s increase,\nAnd treasure of my loins. Then if I would\nSpeak that—",
+          "es": "Déjenme hablar.\nHe sido cónsul y puedo mostrar las marcas\nque los enemigos de Roma dejaron en mi cuerpo.\nAmo el bien de mi patria con un afecto más entrañable,\nmás sagrado y profundo que el que siento por mi propia vida,\npor el valor que tiene para mí mi querida esposa,\npor los hijos que ha dado a luz y por mi descendencia.\nAsí que, si quisiera decir que—",
+          "notes": [
+            {
+              "term": "Her enemies’ marks upon me",
+              "title": "Her enemies’ marks upon me",
+              "type": "Nota filológica",
+              "gloss": "las marcas de sus enemigos en mi cuerpo",
+              "body": "Cominio aduce las cicatrices recibidas en servicio de Roma como autoridad moral; «her» personifica a la ciudad. Fuentes: Folger Shakespeare Library, Coriolanus III.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/); MIT Shakespeare, III.3 (https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html)."
+            },
+            {
+              "term": "My country’s good",
+              "title": "My country’s good",
+              "type": "Nota filológica",
+              "gloss": "el bien de mi patria",
+              "body": "«Good» sustantivado se refiere al bienestar o interés público, no a una posesión concreta. Fuentes: Folger Shakespeare Library, Coriolanus III.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/); MIT Shakespeare, III.3 (https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html).",
+              "lemma": "good",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/good"
+            },
+            {
+              "term": "my dear wife’s estimate",
+              "title": "my dear wife’s estimate",
+              "type": "Nota filológica",
+              "gloss": "el valor que tiene para mí mi querida esposa",
+              "body": "«Estimate» expresa aprecio o valoración; la sintaxis enumera bienes privados que Cominio subordina al bien público. Fuentes: Folger Shakespeare Library, Coriolanus III.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/); MIT Shakespeare, III.3 (https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html).",
+              "lemma": "estimate",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/estimate"
+            },
+            {
+              "term": "her womb’s increase",
+              "title": "her womb’s increase",
+              "type": "Nota filológica",
+              "gloss": "los hijos que ha dado a luz",
+              "body": "«Increase» es fruto o descendencia; no se refiere a un embarazo específico. Fuentes: Folger Shakespeare Library, Coriolanus III.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/); MIT Shakespeare, III.3 (https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html).",
+              "lemma": "increase",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/increase"
+            },
+            {
+              "term": "treasure of my loins",
+              "title": "treasure of my loins",
+              "type": "Nota filológica",
+              "gloss": "mi descendencia",
+              "body": "Metáfora corporal del linaje o de los hijos; se mantiene diferenciada de «womb’s increase» por la perspectiva paterna. Fuentes: Folger Shakespeare Library, Coriolanus III.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/); MIT Shakespeare, III.3 (https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html).",
+              "lemma": "loin",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/loin"
+            }
+          ]
+        },
+        {
+          "line": "2421",
+          "speaker": "sicinius",
+          "en": "We know your drift. Speak what?",
+          "es": "Ya sabemos adónde quieres llegar. ¿Decir qué?",
+          "notes": [
+            {
+              "term": "drift",
+              "title": "drift",
+              "type": "Nota filológica",
+              "gloss": "intención; propósito",
+              "body": "En este uso «drift» significa sentido o finalidad de lo que se quiere decir, no desplazamiento físico. Fuentes: Folger Shakespeare Library, Coriolanus III.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/); MIT Shakespeare, III.3 (https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html).",
+              "lemma": "drift",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/drift"
+            }
+          ]
+        },
+        {
+          "line": "2422–2424",
+          "speaker": "brutus",
+          "en": "There’s no more to be said, but he is banished\nAs enemy to the people and his country.\nIt shall be so.",
+          "es": "No queda nada por decir, salvo que está desterrado\ncomo enemigo del pueblo y de su patria.\nAsí será.",
+          "notes": [
+            {
+              "term": "As enemy to the people and his country",
+              "title": "As enemy to the people and his country",
+              "type": "Nota filológica",
+              "gloss": "como enemigo del pueblo y de su patria",
+              "body": "La formulación presenta el destierro como defensa simultánea del pueblo y de Roma; es el fundamento alegado por Bruto, no un juicio del editor. Fuentes: Folger Shakespeare Library, Coriolanus III.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/); MIT Shakespeare, III.3 (https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html)."
+            },
+            {
+              "term": "It shall be so",
+              "title": "It shall be so",
+              "type": "Nota filológica",
+              "gloss": "Así será",
+              "body": "Bruto retoma la misma fórmula que Sicinio y la multitud; la repetición cierra el intento de apelación de Cominio. Fuentes: Folger Shakespeare Library, Coriolanus III.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/); MIT Shakespeare, III.3 (https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html)."
+            }
+          ]
+        },
+        {
+          "line": "2425",
+          "speaker": "all_plebeians",
+          "en": "It shall be so, it shall be so!",
+          "es": "¡Así será, así será!",
+          "notes": []
         }
       ]
     }
