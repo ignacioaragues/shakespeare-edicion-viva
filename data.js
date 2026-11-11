@@ -17598,6 +17598,71 @@ window.SHAKESPEARE_READER_DATA = {
               "body": "Saludo cortés deliberadamente trivial: la hipérbole sostiene que ni la mínima concesión verbal vale la misericordia de los tribunos. Fuentes: Folger, Coriolanus III.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/; MIT Shakespeare, III.3, https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html."
             }
           ]
+        },
+        {
+          "line": "2396–2408",
+          "speaker": "sicinius",
+          "en": "For that he has,\nAs much as in him lies, from time to time\nEnvied against the people, seeking means\nTo pluck away their power, as now at last\nGiven hostile strokes, and that not in the presence\nOf dreaded justice, but on the ministers\nThat doth distribute it, in the name o’ th’ people\nAnd in the power of us the Tribunes, we,\nEven from this instant, banish him our city\nIn peril of precipitation\nFrom off the rock Tarpeian, never more\nTo enter our Rome gates. I’ th’ people’s name,\nI say it shall be so.",
+          "es": "Porque él, en la medida de sus posibilidades,\nha manifestado una y otra vez su hostilidad al pueblo,\nbuscando cómo arrebatarle su poder; y porque ahora,\npor último, ha recurrido a la violencia, no contra\nla temida justicia en persona, sino contra los funcionarios\nque la administran, en nombre del pueblo\ny por la autoridad que tenemos como tribunos,\nlo desterramos de nuestra ciudad desde este mismo instante,\nbajo amenaza de ser arrojado\ndesde la roca Tarpeya si vuelve a cruzar\nlas puertas de Roma. En nombre del pueblo,\ndeclaro que así se hará.",
+          "notes": [
+            {
+              "term": "As much as in him lies",
+              "title": "As much as in him lies",
+              "type": "Nota filológica",
+              "gloss": "en cuanto está en su poder",
+              "body": "Locución que limita la acusación a los medios e intenciones atribuidos a Coriolano; no afirma que haya conseguido quitarle al pueblo sus atribuciones. Fuentes: Folger Shakespeare Library, Coriolanus III.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/); Owl Eyes, Coriolanus III.3 (https://www.owleyes.org/text/coriolanus/read/act-iii-scene-3)."
+            },
+            {
+              "term": "Envied against the people",
+              "title": "Envied against the people",
+              "type": "Nota filológica",
+              "gloss": "ha mostrado hostilidad al pueblo",
+              "body": "El verbo «envy» puede expresar odio o animadversión en este contexto, no únicamente celos en el sentido actual. Fuentes: Folger Shakespeare Library, Coriolanus III.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/); Owl Eyes, Coriolanus III.3 (https://www.owleyes.org/text/coriolanus/read/act-iii-scene-3).",
+              "lemma": "envy",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/envy"
+            },
+            {
+              "term": "pluck away their power",
+              "title": "pluck away their power",
+              "type": "Nota filológica",
+              "gloss": "arrebatarles su poder",
+              "body": "«Pluck away» intensifica la idea de arrancar por la fuerza; el objeto es la potestad política de los plebeyos. Fuentes: Folger Shakespeare Library, Coriolanus III.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/); Owl Eyes, Coriolanus III.3 (https://www.owleyes.org/text/coriolanus/read/act-iii-scene-3).",
+              "lemma": "pluck",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/pluck"
+            },
+            {
+              "term": "ministers / That doth distribute it",
+              "title": "ministers / That doth distribute it",
+              "type": "Nota filológica",
+              "gloss": "funcionarios que la administran",
+              "body": "«Ministers» designa a quienes ejecutan o administran justicia; «doth» es forma verbal singular arcaica pese al antecedente plural, concordancia que no conviene normalizar silenciosamente. Fuentes: Folger Shakespeare Library, Coriolanus III.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/); Owl Eyes, Coriolanus III.3 (https://www.owleyes.org/text/coriolanus/read/act-iii-scene-3).",
+              "lemma": "do",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/do"
+            },
+            {
+              "term": "in the power of us the Tribunes",
+              "title": "in the power of us the Tribunes",
+              "type": "Nota filológica",
+              "gloss": "por nuestra autoridad como tribunos",
+              "body": "La sentencia se formula en nombre del pueblo y en ejercicio de la potestad tribunicia: una reivindicación de legitimidad por parte de Sicinio, no una certificación histórica de que el procedimiento escénico fuera jurídicamente regular. Fuentes: Folger Shakespeare Library, Coriolanus III.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/); Owl Eyes, Coriolanus III.3 (https://www.owleyes.org/text/coriolanus/read/act-iii-scene-3)."
+            },
+            {
+              "term": "In peril of precipitation",
+              "title": "In peril of precipitation",
+              "type": "Nota filológica",
+              "gloss": "bajo amenaza de ser despeñado",
+              "body": "«Precipitation» conserva el valor concreto de arrojar desde una altura, aquí la roca Tarpeya; el castigo queda condicionado al regreso. Fuentes: Folger Shakespeare Library, Coriolanus III.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/); Owl Eyes, Coriolanus III.3 (https://www.owleyes.org/text/coriolanus/read/act-iii-scene-3).",
+              "lemma": "precipitation",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/precipitation"
+            },
+            {
+              "term": "I say it shall be so",
+              "title": "I say it shall be so",
+              "type": "Nota filológica",
+              "gloss": "declaro que así se hará",
+              "body": "Fórmula conclusiva preparada desde las instrucciones a la multitud en III.3, 2293–2299; su repetición convierte la aclamación en un acto público coordinado. Fuentes: Folger Shakespeare Library, Coriolanus III.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/); Owl Eyes, Coriolanus III.3 (https://www.owleyes.org/text/coriolanus/read/act-iii-scene-3)."
+            }
+          ]
         }
       ]
     }
