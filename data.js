@@ -18534,7 +18534,7 @@ window.SHAKESPEARE_READER_DATA = {
       "scene": 2,
       "place": "Roma · Una calle próxima a las puertas de la ciudad",
       "sourceRef": "Folger Shakespeare Library · Acto IV, escena 2",
-      "sectionLabel": "Edición en curso · líneas 2519–2552",
+      "sectionLabel": "Edición en curso · líneas 2519–2566",
       "introduction": "Después del destierro, Sicinio y Bruto procuran disolver la concentración popular y moderar su imagen pública; Volumnia se aproxima.",
       "stage": "Entran Sicinio, Bruto y un edil. [Después de 2528: sale el edil.] [Después de 2529: entran Volumnia, Virgilia y Menenio.]",
       "characters": [
@@ -18893,6 +18893,137 @@ window.SHAKESPEARE_READER_DATA = {
               "body": "«Tribe» puede referirse al grupo o linaje de Sicinio; no exige identificar una tribu étnica. Cotejo: Folger, Coriolanus IV.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/2/); First Folio, IV.2 (https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_4_Scene_2).",
               "lemma": "tribe",
               "lemmaUrl": "https://en.wiktionary.org/wiki/tribe"
+            }
+          ]
+        },
+        {
+          "line": "2553",
+          "speaker": "sicinius",
+          "en": "What then?",
+          "es": "¿Y entonces?",
+          "notes": []
+        },
+        {
+          "line": "2554–2555",
+          "speaker": "virgilia",
+          "en": "What then?\nHe’d make an end of thy posterity.",
+          "es": "¿Que qué pasaría?\nAcabaría con toda tu descendencia.",
+          "notes": [
+            {
+              "term": "posterity",
+              "title": "posterity",
+              "type": "Nota filológica",
+              "gloss": "descendencia",
+              "body": "Virgilia replica a la pregunta de Sicinio con una amenaza dirigida a su linaje; «posterity» comprende a los descendientes, no solamente a los hijos inmediatos. Fuentes: Folger Shakespeare Library, Coriolanus IV.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/2/); First Folio, IV.2, transcripción diplomática (https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_4_Scene_2).",
+              "lemma": "posterity",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/posterity"
+            }
+          ]
+        },
+        {
+          "line": "2556–2557",
+          "speaker": "volumnia",
+          "en": "Bastards and all.\nGood man, the wounds that he does bear for Rome!",
+          "es": "¡Incluidos los hijos ilegítimos!\n¡Pobre hombre, cuántas heridas lleva por Roma!",
+          "notes": [
+            {
+              "term": "Bastards and all",
+              "title": "Bastards and all",
+              "type": "Nota filológica",
+              "gloss": "incluidos los hijos ilegítimos",
+              "body": "Volumnia intensifica la amenaza de Virgilia: no quedaría descendiente alguno, tampoco fuera del matrimonio. Fuentes: Folger Shakespeare Library, Coriolanus IV.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/2/); First Folio, IV.2, transcripción diplomática (https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_4_Scene_2)."
+            },
+            {
+              "term": "Good man",
+              "title": "Good man",
+              "type": "Nota filológica",
+              "gloss": "pobre hombre; buen hombre",
+              "body": "Exclamación afectiva sobre Coriolano, no una apelación a Sicinio. La expresión combina compasión y orgullo por sus heridas. Fuentes: Folger Shakespeare Library, Coriolanus IV.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/2/); First Folio, IV.2, transcripción diplomática (https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_4_Scene_2)."
+            }
+          ]
+        },
+        {
+          "line": "2558",
+          "speaker": "menenius",
+          "en": "Come, come, peace.",
+          "es": "Vamos, vamos, calma.",
+          "notes": []
+        },
+        {
+          "line": "2559–2561",
+          "speaker": "sicinius",
+          "en": "I would he had continued to his country\nAs he began, and not unknit himself\nThe noble knot he made.",
+          "es": "Ojalá hubiera seguido sirviendo a su patria\ncomo al principio, sin deshacer por sí mismo\nel noble vínculo que había establecido con ella.",
+          "notes": [
+            {
+              "term": "I would he had",
+              "title": "I would he had",
+              "type": "Nota filológica",
+              "gloss": "ojalá hubiera",
+              "body": "Fórmula de deseo irreal: «would» no funciona aquí como futuro del pasado. Fuentes: Folger Shakespeare Library, Coriolanus IV.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/2/); First Folio, IV.2, transcripción diplomática (https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_4_Scene_2).",
+              "lemma": "would",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/would"
+            },
+            {
+              "term": "continued to his country",
+              "title": "continued to his country",
+              "type": "Nota filológica",
+              "gloss": "permanecido fiel a su patria",
+              "body": "«Continue to» indica aquí perseverancia en una relación de servicio o lealtad, no mero desplazamiento físico. Fuentes: Folger Shakespeare Library, Coriolanus IV.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/2/); First Folio, IV.2, transcripción diplomática (https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_4_Scene_2)."
+            },
+            {
+              "term": "unknit himself / The noble knot",
+              "title": "unknit himself / The noble knot",
+              "type": "Nota filológica",
+              "gloss": "deshacer él mismo el noble vínculo",
+              "body": "Metáfora textil: Sicinio acusa a Coriolano de desatar el lazo político que lo unía a Roma. La construcción reflexiva es condensada. La forma «vnknit» consta en la transcripción del Folio; el lema y la flexión se documentan en Wiktionary (https://en.wiktionary.org/wiki/unknit). Fuentes: Folger Shakespeare Library, Coriolanus IV.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/2/); First Folio, IV.2, transcripción diplomática (https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_4_Scene_2).",
+              "lemma": "unknit",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/unknit"
+            }
+          ]
+        },
+        {
+          "line": "2562",
+          "speaker": "brutus",
+          "en": "I would he had.",
+          "es": "Ojalá lo hubiera hecho.",
+          "notes": []
+        },
+        {
+          "line": "2563–2566",
+          "speaker": "volumnia",
+          "en": "“I would he had”? ’Twas you incensed the rabble.\nCats, that can judge as fitly of his worth\nAs I can of those mysteries which heaven\nWill not have Earth to know.",
+          "es": "¿«Ojalá lo hubiera hecho»? ¡Ustedes fueron quienes enfurecieron a la chusma!\nUnos gatos, tan capaces de juzgar sus méritos\ncomo yo de comprender los misterios que el cielo\nno quiere revelar a la tierra.",
+          "notes": [
+            {
+              "term": "’Twas you",
+              "title": "’Twas you",
+              "type": "Nota filológica",
+              "gloss": "fueron ustedes",
+              "body": "Construcción enfática («it was you»). El Folio lee «Twas thou», singular, mientras Folger moderniza como «’Twas you»; la divergencia afecta el destinatario gramatical del reproche. Fuentes: Folger Shakespeare Library, Coriolanus IV.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/2/); First Folio, IV.2, transcripción diplomática (https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_4_Scene_2)."
+            },
+            {
+              "term": "incensed the rabble",
+              "title": "incensed the rabble",
+              "type": "Nota filológica",
+              "gloss": "enfurecieron a la chusma",
+              "body": "«Incense» es provocar cólera; «rabble» expresa el desprecio aristocrático de Volumnia hacia la multitud. Fuentes: Folger Shakespeare Library, Coriolanus IV.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/2/); First Folio, IV.2, transcripción diplomática (https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_4_Scene_2).",
+              "lemma": "incense",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/incense"
+            },
+            {
+              "term": "Cats",
+              "title": "Cats",
+              "type": "Nota filológica",
+              "gloss": "gatos",
+              "body": "Metáfora despectiva para los ciudadanos movilizados. La comparación niega su capacidad de valorar el mérito militar; no es una identificación literal. Fuentes: Folger Shakespeare Library, Coriolanus IV.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/2/); First Folio, IV.2, transcripción diplomática (https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_4_Scene_2)."
+            },
+            {
+              "term": "as fitly ... As I can",
+              "title": "as fitly ... As I can",
+              "type": "Nota filológica",
+              "gloss": "tan acertadamente como yo podría",
+              "body": "Comparación irónica de incompetencias: Volumnia equipara el juicio político de la multitud a su propio desconocimiento de secretos celestiales. Fuentes: Folger Shakespeare Library, Coriolanus IV.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/2/); First Folio, IV.2, transcripción diplomática (https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_4_Scene_2)."
             }
           ]
         }

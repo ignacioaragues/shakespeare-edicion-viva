@@ -1255,13 +1255,22 @@
       "last_line": 2552,
       "editorial_state": "translated_source_checked_external_references",
       "note": "Eight complete speeches; Folger, MIT and First Folio transcription compared. Eleven contextual Spanish glosses. Private files and retrospective review pending."
+    },
+    {
+      "id": "coriolanus-4-2-2553-2566",
+      "act": 4,
+      "scene": 2,
+      "first_line": 2553,
+      "last_line": 2566,
+      "editorial_state": "translated_source_checked_external_references",
+      "note": "Seven complete speeches; Folger IV.2 checked against MIT and First Folio transcription; eight contextual glosses including Folio 'Twas thou' vs Folger '’Twas you'. Private sources and retrospective review pending."
     }
   ],
   "next_fragment": {
     "act": 4,
     "scene": 2,
-    "first_line": 2553,
-    "note": "Sicinius asks 'What then?' and Virgilia answers."
+    "first_line": 2567,
+    "note": "Brutus proposes leaving; Volumnia continues her reproach."
   },
   "completed_acts": [],
   "last_update_commit": "pending_atomic_commit",
