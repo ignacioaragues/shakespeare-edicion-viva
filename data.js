@@ -24,7 +24,8 @@ window.SHAKESPEARE_READER_DATA = {
         "coriolanus-3-1",
         "coriolanus-3-2",
         "coriolanus-3-3",
-        "coriolanus-4-1"
+        "coriolanus-4-1",
+        "coriolanus-4-2"
       ]
     }
   ],
@@ -18521,6 +18522,207 @@ window.SHAKESPEARE_READER_DATA = {
               "body": "Imperativo breve que pone fin a la despedida y conduce a la salida conjunta; se mantiene el carácter exhortativo. Fuentes: Folger Shakespeare Library, Coriolanus IV.1 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/1/); MIT Shakespeare, IV.1 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.1.html).",
               "lemma": "come",
               "lemmaUrl": "https://en.wiktionary.org/wiki/come"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "coriolanus-4-2",
+      "workId": "coriolanus",
+      "act": 4,
+      "scene": 2,
+      "place": "Roma · Una calle próxima a las puertas de la ciudad",
+      "sourceRef": "Folger Shakespeare Library · Acto IV, escena 2",
+      "sectionLabel": "Edición en curso · líneas 2519–2533",
+      "introduction": "Después del destierro, Sicinio y Bruto procuran disolver la concentración popular y moderar su imagen pública; Volumnia se aproxima.",
+      "stage": "Entran Sicinio, Bruto y un edil. [Después de 2528: sale el edil.] [Después de 2529: entran Volumnia, Virgilia y Menenio.]",
+      "characters": [
+        {
+          "id": "sicinius",
+          "short": "Sicinio",
+          "name": "Sicinio Veluto",
+          "english": "Sicinius Velutus",
+          "identity": "Tribuno de la plebe, crítico de la soberbia de Marcio.",
+          "color": "copper"
+        },
+        {
+          "id": "brutus",
+          "short": "Bruto",
+          "name": "Junio Bruto",
+          "english": "Junius Brutus",
+          "identity": "Tribuno de la plebe que cuestiona las ambiciones de Marcio.",
+          "color": "olive"
+        },
+        {
+          "id": "aedile",
+          "name": "Edil",
+          "english": "Aedile",
+          "identity": "Funcionario de los tribunos.",
+          "color": "copper"
+        },
+        {
+          "id": "volumnia",
+          "name": "Volumnia",
+          "english": "Volumnia",
+          "identity": "Madre de Coriolano, célebre por su orgullo y exigencia de fortaleza.",
+          "color": "olive"
+        },
+        {
+          "id": "virgilia",
+          "name": "Virgilia",
+          "english": "Virgilia",
+          "identity": "Esposa de Coriolano, angustiada ante la separación.",
+          "color": "slate"
+        },
+        {
+          "id": "menenius",
+          "name": "Menenio Agripa",
+          "english": "Menenius",
+          "identity": "Amigo y protector de Coriolano.",
+          "color": "olive"
+        }
+      ],
+      "blocks": [
+        {
+          "line": "2519–2521",
+          "speaker": "sicinius",
+          "en": "Bid them all home. He’s gone, and we’ll no further.\nThe nobility are vexed, whom we see have sided\nIn his behalf.",
+          "es": "Manda a todos a sus casas. Ya se ha ido y no iremos más lejos.\nLos nobles están irritados: hemos visto que se pusieron\nde su parte.",
+          "notes": [
+            {
+              "term": "we’ll no further",
+              "title": "we’ll no further",
+              "type": "Nota filológica",
+              "gloss": "no iremos más lejos",
+              "body": "Elipsis del verbo de movimiento: Sicinio propone detener la movilización tras obtener el destierro. Fuentes: Folger Shakespeare Library, Coriolanus IV.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/2/); MIT Shakespeare, IV.2 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.2.html)."
+            },
+            {
+              "term": "vexed",
+              "title": "vexed",
+              "type": "Nota filológica",
+              "gloss": "irritados; contrariados",
+              "body": "El participio caracteriza la reacción de los patricios, no la del pueblo. Fuentes: Folger Shakespeare Library, Coriolanus IV.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/2/); MIT Shakespeare, IV.2 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.2.html).",
+              "lemma": "vex",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/vex"
+            },
+            {
+              "term": "in his behalf",
+              "title": "in his behalf",
+              "type": "Nota filológica",
+              "gloss": "en su defensa; de su parte",
+              "body": "Locución que designa el apoyo político prestado al desterrado. Fuentes: Folger Shakespeare Library, Coriolanus IV.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/2/); MIT Shakespeare, IV.2 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.2.html)."
+            }
+          ]
+        },
+        {
+          "line": "2522–2524",
+          "speaker": "brutus",
+          "en": "Now we have shown our power,\nLet us seem humbler after it is done\nThan when it was a-doing.",
+          "es": "Ahora que hemos demostrado nuestro poder,\nmostrémonos más humildes una vez consumado el hecho\nde lo que parecíamos mientras lo llevábamos a cabo.",
+          "notes": [
+            {
+              "term": "seem humbler",
+              "title": "seem humbler",
+              "type": "Nota filológica",
+              "gloss": "mostrarnos más humildes",
+              "body": "Bruto propone una estrategia de apariencia pública, no una confesión de arrepentimiento. Fuentes: Folger Shakespeare Library, Coriolanus IV.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/2/); MIT Shakespeare, IV.2 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.2.html)."
+            },
+            {
+              "term": "a-doing",
+              "title": "a-doing",
+              "type": "Nota filológica",
+              "gloss": "en curso; mientras se hacía",
+              "body": "Construcción progresiva con prefijo a-, documentada en el inglés de la época; contrasta la acción con su resultado. Fuentes: Folger Shakespeare Library, Coriolanus IV.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/2/); MIT Shakespeare, IV.2 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.2.html).",
+              "lemma": "doing",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/doing"
+            }
+          ]
+        },
+        {
+          "line": "2525–2527",
+          "speaker": "sicinius",
+          "en": "Bid them home.\nSay their great enemy is gone, and they\nStand in their ancient strength.",
+          "es": "Mándalos a casa.\nDiles que su gran enemigo se ha ido y que ellos\nhan recuperado su antigua fuerza.",
+          "notes": [
+            {
+              "term": "ancient strength",
+              "title": "ancient strength",
+              "type": "Nota filológica",
+              "gloss": "antigua fuerza; poder de antes",
+              "body": "El tribuno presenta el destierro como restauración del poder popular; es su afirmación política, no una constatación histórica. Fuentes: Folger Shakespeare Library, Coriolanus IV.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/2/); MIT Shakespeare, IV.2 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.2.html)."
+            }
+          ]
+        },
+        {
+          "line": "2528–2529",
+          "speaker": "brutus",
+          "en": "Dismiss them home.\nHere comes his mother.",
+          "es": "Despídelos y que vuelvan a sus casas.\nAhí viene su madre.",
+          "notes": [
+            {
+              "term": "Dismiss them home",
+              "title": "Dismiss them home",
+              "type": "Nota filológica",
+              "gloss": "despídelos para que vuelvan a casa",
+              "body": "Imperativo dirigido al edil; la acotación de Folger sitúa su salida entre las dos frases. Fuentes: Folger Shakespeare Library, Coriolanus IV.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/2/); MIT Shakespeare, IV.2 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.2.html).",
+              "lemma": "dismiss",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/dismiss"
+            }
+          ]
+        },
+        {
+          "line": "2530",
+          "speaker": "sicinius",
+          "en": "Let’s not meet her.",
+          "es": "Evitemos encontrarnos con ella.",
+          "notes": []
+        },
+        {
+          "line": "2531",
+          "speaker": "brutus",
+          "en": "Why?",
+          "es": "¿Por qué?",
+          "notes": []
+        },
+        {
+          "line": "2532",
+          "speaker": "sicinius",
+          "en": "They say she’s mad.",
+          "es": "Dicen que está fuera de sí.",
+          "notes": [
+            {
+              "term": "mad",
+              "title": "mad",
+              "type": "Nota filológica",
+              "gloss": "fuera de sí; furiosa",
+              "body": "Puede evocar locura o arrebato de ira. En este contexto Sicinio transmite una caracterización ajena («They say»), no un diagnóstico. Fuentes: Folger Shakespeare Library, Coriolanus IV.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/2/); MIT Shakespeare, IV.2 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.2.html).",
+              "lemma": "mad",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/mad"
+            }
+          ]
+        },
+        {
+          "line": "2533",
+          "speaker": "brutus",
+          "en": "They have ta’en note of us. Keep on your way.",
+          "es": "Ya se han fijado en nosotros. Sigue caminando.",
+          "notes": [
+            {
+              "term": "ta’en",
+              "title": "ta’en",
+              "type": "Nota filológica",
+              "gloss": "han tomado; han advertido",
+              "body": "Forma contraída de taken en el perfecto «have ta’en»; aquí significa que los recién llegados han reparado en los tribunos. Fuentes: Folger Shakespeare Library, Coriolanus IV.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/2/); MIT Shakespeare, IV.2 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.2.html).",
+              "lemma": "take",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/take"
+            },
+            {
+              "term": "Keep on your way",
+              "title": "Keep on your way",
+              "type": "Nota filológica",
+              "gloss": "sigue caminando",
+              "body": "Bruto abandona la idea de esquivar a Volumnia al advertir que ya los han visto. Fuentes: Folger Shakespeare Library, Coriolanus IV.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/2/); MIT Shakespeare, IV.2 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.2.html)."
             }
           ]
         }
