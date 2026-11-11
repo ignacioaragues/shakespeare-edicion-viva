@@ -1183,13 +1183,22 @@
       "last_line": 2425,
       "editorial_state": "translated_source_checked_external_references",
       "note": "Seven complete speech blocks; Folger III.3 compared with MIT and Owl Eyes. Cominius' interrupted appeal, rejection by tribunes, and plebeian refrain. Private references and retrospective review pending."
+    },
+    {
+      "id": "coriolanus-3-3-2426-2441",
+      "act": 3,
+      "scene": 3,
+      "first_line": 2426,
+      "last_line": 2441,
+      "editorial_state": "translated_source_checked_external_references",
+      "note": "Coriolanus' complete banishment retort; Folger III.3 verified against MIT; nine contextual notes, Spanish glosses, and a flagged divergence in 'reservation'. Private reference cotejo and retrospective review pending."
     }
   ],
   "next_fragment": {
     "act": 3,
     "scene": 3,
-    "first_line": 2426,
-    "note": "Coriolanus' full farewell/retort (2426–2441); preserve speech intact."
+    "first_line": 2442,
+    "note": "Aedile, plebeian chorus, Sicinius and closing exit; check full speech boundaries and end of scene."
   },
   "completed_acts": [],
   "last_update_commit": "pending_atomic_commit",

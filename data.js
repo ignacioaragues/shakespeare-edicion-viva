@@ -17816,6 +17816,91 @@ window.SHAKESPEARE_READER_DATA = {
           "en": "It shall be so, it shall be so!",
           "es": "¡Así será, así será!",
           "notes": []
+        },
+        {
+          "line": "2426–2441",
+          "speaker": "coriolanus",
+          "en": "You common cry of curs, whose breath I hate\nAs reek o’ th’ rotten fens, whose loves I prize\nAs the dead carcasses of unburied men\nThat do corrupt my air, I banish you!\nAnd here remain with your uncertainty;\nLet every feeble rumor shake your hearts;\nYour enemies, with nodding of their plumes,\nFan you into despair! Have the power still\nTo banish your defenders, till at length\nYour ignorance—which finds not till it feels,\nMaking but reservation of yourselves,\nStill your own foes—deliver you\nAs most abated captives to some nation\nThat won you without blows! Despising\nFor you the city, thus I turn my back.\nThere is a world elsewhere.",
+          "es": "¡Ustedes, jauría de perros que aúllan al unísono! Odio su aliento\ncomo el hedor de los pantanos podridos; aprecio su afecto\ntanto como los cadáveres de hombres sin sepultura\nque corrompen el aire que respiro. ¡Yo los destierro a ustedes!\nQuédense aquí con su inconstancia;\nque cualquier rumor insignificante les haga temblar el corazón;\n¡que sus enemigos, con solo agitar las plumas de sus cascos,\nlos empujen a la desesperación! Conserven el poder\nde desterrar a quienes los defienden, hasta que, al fin,\nsu ignorancia —que no comprende nada hasta sufrirlo—,\ncon tal de salvarse ustedes mismos,\nsiempre enemigos de sí mismos, los entregue\ncomo cautivos completamente sometidos a alguna nación\nque los haya vencido sin combatir. Por desprecio hacia ustedes,\nle doy la espalda a esta ciudad.\nHay un mundo en otra parte.",
+          "notes": [
+            {
+              "term": "common cry of curs",
+              "title": "common cry of curs",
+              "type": "Nota filológica",
+              "gloss": "jauría de perros que aúllan al unísono",
+              "body": "«Cry» puede designar el ladrido colectivo de una jauría; «curs» es un insulto animalizador. La metáfora convierte el consenso político en ruido de perros, en respuesta a la aclamación repetida de la multitud. Fuentes: Folger Shakespeare Library, Coriolanus III.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/); MIT Shakespeare, III.3 (https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html).",
+              "lemma": "cur",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/cur"
+            },
+            {
+              "term": "reek o’ th’ rotten fens",
+              "title": "reek o’ th’ rotten fens",
+              "type": "Nota filológica",
+              "gloss": "hedor de los pantanos podridos",
+              "body": "«Reek» es hedor y «fens», tierras pantanosas; la comparación intensifica el desprecio físico del hablante hacia el aliento popular. Fuentes: Folger Shakespeare Library, Coriolanus III.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/); MIT Shakespeare, III.3 (https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html).",
+              "lemma": "fen",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/fen"
+            },
+            {
+              "term": "whose loves I prize",
+              "title": "whose loves I prize",
+              "type": "Nota filológica",
+              "gloss": "cuyo afecto valoro",
+              "body": "«Loves» se refiere al favor o afecto de la multitud; «prize» es valorar. La ironía queda completada por la comparación con cadáveres. Fuentes: Folger Shakespeare Library, Coriolanus III.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/); MIT Shakespeare, III.3 (https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html).",
+              "lemma": "prize",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/prize"
+            },
+            {
+              "term": "I banish you",
+              "title": "I banish you",
+              "type": "Nota filológica",
+              "gloss": "yo los destierro a ustedes",
+              "body": "Inversión retórica de la sentencia: el condenado reivindica la autoridad simbólica de expulsar a quienes lo expulsan. Es una lectura de la construcción dramática, no una anulación jurídica del destierro. Fuentes: Folger Shakespeare Library, Coriolanus III.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/); MIT Shakespeare, III.3 (https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html)."
+            },
+            {
+              "term": "with nodding of their plumes",
+              "title": "with nodding of their plumes",
+              "type": "Nota filológica",
+              "gloss": "con solo agitar las plumas de sus cascos",
+              "body": "«Plumes» evoca las plumas ornamentales de los cascos guerreros; basta un gesto del enemigo para sembrar el pánico. Fuentes: Folger Shakespeare Library, Coriolanus III.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/); MIT Shakespeare, III.3 (https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html).",
+              "lemma": "plume",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/plume"
+            },
+            {
+              "term": "finds not till it feels",
+              "title": "finds not till it feels",
+              "type": "Nota filológica",
+              "gloss": "no comprende hasta sufrir las consecuencias",
+              "body": "La antítesis entre «finds» (descubre, reconoce) y «feels» (experimenta, padece) presenta el conocimiento político como tardío y doloroso. Fuentes: Folger Shakespeare Library, Coriolanus III.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/); MIT Shakespeare, III.3 (https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html).",
+              "lemma": "find",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/find"
+            },
+            {
+              "term": "Making but reservation of yourselves",
+              "title": "Making but reservation of yourselves",
+              "type": "Nota filológica",
+              "gloss": "con tal de salvarse ustedes mismos",
+              "body": "Folger imprime «but reservation»; MIT ofrece «not reservation». Son lecturas divergentes en estas transcripciones, no se atribuye aquí la variante a un testimonio antiguo sin cotejo. En el contexto, «reservation» puede entenderse como reserva o preservación de sí; la sintaxis admite discusión. Fuentes: Folger Shakespeare Library, Coriolanus III.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/); MIT Shakespeare, III.3 (https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html).",
+              "lemma": "reservation",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/reservation"
+            },
+            {
+              "term": "most abated captives",
+              "title": "most abated captives",
+              "type": "Nota filológica",
+              "gloss": "cautivos completamente sometidos",
+              "body": "«Abated» sugiere abatimiento o pérdida de condición y fuerza; el superlativo intensifica la humillación de una derrota sin resistencia. Fuentes: Folger Shakespeare Library, Coriolanus III.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/); MIT Shakespeare, III.3 (https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html).",
+              "lemma": "abate",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/abate"
+            },
+            {
+              "term": "There is a world elsewhere",
+              "title": "There is a world elsewhere",
+              "type": "Nota filológica",
+              "gloss": "hay un mundo en otra parte",
+              "body": "La frase final opone Roma a la posibilidad de una vida fuera de ella; su concisión marca el giro de la acción hacia el exilio. No se interpreta aquí como una promesa de libertad sin consecuencias. Fuentes: Folger Shakespeare Library, Coriolanus III.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/); MIT Shakespeare, III.3 (https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html)."
+            }
+          ]
         }
       ]
     }
