@@ -19284,8 +19284,8 @@ window.SHAKESPEARE_READER_DATA = {
       "scene": 3,
       "place": "Camino entre Roma y Ancio",
       "sourceRef": "Folger Shakespeare Library · Acto IV, escena 3",
-      "sectionLabel": "Edición en curso · líneas 2592–2627",
-      "introduction": "Un informante romano y un agente volsco se reconocen en el camino. La crisis política de Roma se convierte en información estratégica para sus enemigos.",
+      "sectionLabel": "Edición en curso · líneas 2592–2644",
+      "introduction": "Nicanor, informante romano, comunica a Adriano las divisiones de Roma. Los agentes confirman que el ejército volsco está preparado para aprovechar la crisis y salen juntos.",
       "stage": "Entran un romano (Nicanor) y un volsco (Adriano).",
       "characters": [
         {
@@ -19558,6 +19558,146 @@ window.SHAKESPEARE_READER_DATA = {
               "lemmaUrl": "https://en.wiktionary.org/wiki/request"
             }
           ]
+        },
+        {
+          "line": "2628–2630",
+          "speaker": "volsce",
+          "en": "He cannot choose. I am most fortunate thus\naccidentally to encounter you. You have ended my\nbusiness, and I will merrily accompany you home.",
+          "es": "No puede ser de otro modo. He tenido mucha suerte al\nencontrarme con usted por casualidad. Ya ha resuelto\nmi misión, y lo acompañaré gustosamente a su casa.",
+          "notes": [
+            {
+              "term": "He cannot choose",
+              "title": "He cannot choose",
+              "type": "Nota filológica",
+              "gloss": "no tiene otra alternativa",
+              "body": "La locución expresa inevitabilidad: Aufidio destacará necesariamente, dada la ausencia de su rival. Fuentes: Folger Shakespeare Library, Coriolanus IV.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/3/); MIT Shakespeare, IV.3 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.3.html)."
+            },
+            {
+              "term": "accidentally",
+              "title": "accidentally",
+              "type": "Nota filológica",
+              "gloss": "por casualidad",
+              "body": "Adverbio referido al encuentro fortuito, no a un accidente dañino. Fuentes: Folger Shakespeare Library, Coriolanus IV.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/3/); MIT Shakespeare, IV.3 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.3.html)."
+            },
+            {
+              "term": "business",
+              "title": "business",
+              "type": "Nota filológica",
+              "gloss": "misión",
+              "body": "En boca del agente volsco designa el encargo de localizar al informante y obtener noticias, no una actividad comercial. Fuentes: Folger Shakespeare Library, Coriolanus IV.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/3/); MIT Shakespeare, IV.3 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.3.html)."
+            }
+          ]
+        },
+        {
+          "line": "2631–2634",
+          "speaker": "roman",
+          "en": "I shall between this and supper tell you most\nstrange things from Rome, all tending to the good\nof their adversaries. Have you an army ready, say\nyou?",
+          "es": "De aquí a la cena le contaré cosas muy\nextrañas de Roma, todas favorables a\nsus enemigos. ¿Dice usted que tienen\nun ejército preparado?",
+          "notes": [
+            {
+              "term": "between this and supper",
+              "title": "between this and supper",
+              "type": "Nota filológica",
+              "gloss": "de aquí a la cena",
+              "body": "«This» señala el momento presente; la expresión delimita el tiempo de la conversación. Fuentes: Folger Shakespeare Library, Coriolanus IV.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/3/); MIT Shakespeare, IV.3 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.3.html)."
+            },
+            {
+              "term": "tending to the good",
+              "title": "tending to the good",
+              "type": "Nota filológica",
+              "gloss": "que favorecen",
+              "body": "«Tend to» señala dirección o efecto; la crisis romana beneficia a sus adversarios. Fuentes: Folger Shakespeare Library, Coriolanus IV.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/3/); MIT Shakespeare, IV.3 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.3.html)."
+            }
+          ]
+        },
+        {
+          "line": "2635–2637",
+          "speaker": "volsce",
+          "en": "A most royal one. The centurions and their\ncharges, distinctly billeted, already in th’ entertainment,\nand to be on foot at an hour’s warning.",
+          "es": "Uno magnífico. Los centuriones y las tropas\na su cargo ya están distribuidos en alojamientos,\nincorporados al servicio y listos para ponerse en marcha con una hora de aviso.",
+          "notes": [
+            {
+              "term": "most royal",
+              "title": "most royal",
+              "type": "Nota filológica",
+              "gloss": "magnífico",
+              "body": "Adjetivo encomiástico e intensificador; no afirma que los volscos estén gobernados por un rey. Fuentes: Folger Shakespeare Library, Coriolanus IV.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/3/); MIT Shakespeare, IV.3 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.3.html)."
+            },
+            {
+              "term": "their charges",
+              "title": "their charges",
+              "type": "Nota filológica",
+              "gloss": "las tropas a su cargo",
+              "body": "«Charges» designa aquí a los hombres bajo responsabilidad de cada centurión, no gastos ni acusaciones. Fuentes: Folger Shakespeare Library, Coriolanus IV.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/3/); MIT Shakespeare, IV.3 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.3.html)."
+            },
+            {
+              "term": "distinctly billeted",
+              "title": "distinctly billeted",
+              "type": "Nota filológica",
+              "gloss": "distribuidos en alojamientos",
+              "body": "«Billeted» alude al alojamiento militar asignado; «distinctly» sugiere una distribución diferenciada y ordenada. Fuentes: Folger Shakespeare Library, Coriolanus IV.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/3/); MIT Shakespeare, IV.3 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.3.html); Wiktionary, billet (https://en.wiktionary.org/wiki/billet).",
+              "lemma": "billet",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/billet"
+            },
+            {
+              "term": "in th’ entertainment",
+              "title": "in th’ entertainment",
+              "type": "Nota filológica",
+              "gloss": "incorporados al servicio",
+              "body": "Uso histórico de «entertainment»: admisión o mantenimiento en servicio militar, no diversión. La forma «th’» representa contracción del artículo. Fuentes: Folger Shakespeare Library, Coriolanus IV.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/3/); MIT Shakespeare, IV.3 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.3.html); Wiktionary, entertainment (https://en.wiktionary.org/wiki/entertainment)."
+            },
+            {
+              "term": "on foot at an hour’s warning",
+              "title": "on foot at an hour’s warning",
+              "type": "Nota filológica",
+              "gloss": "listos para marchar con una hora de aviso",
+              "body": "«On foot» significa aquí movilizados o en marcha, no una oposición técnica entre infantería y caballería. Fuentes: Folger Shakespeare Library, Coriolanus IV.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/3/); MIT Shakespeare, IV.3 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.3.html)."
+            }
+          ]
+        },
+        {
+          "line": "2638–2641",
+          "speaker": "roman",
+          "en": "I am joyful to hear of their readiness and am\nthe man, I think, that shall set them in present action.\nSo, sir, heartily well met, and most glad of\nyour company.",
+          "es": "Me alegra saber que están preparados y creo\nque seré yo quien los ponga en acción de inmediato.\nAsí pues, señor, ¡qué feliz encuentro! Me alegra mucho\nsu compañía.",
+          "notes": [
+            {
+              "term": "present action",
+              "title": "present action",
+              "type": "Nota filológica",
+              "gloss": "acción inmediata",
+              "body": "«Present» conserva el valor temporal de «inmediato»; Nicanor se atribuye un papel desencadenante en la ofensiva. Fuentes: Folger Shakespeare Library, Coriolanus IV.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/3/); MIT Shakespeare, IV.3 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.3.html)."
+            },
+            {
+              "term": "heartily well met",
+              "title": "heartily well met",
+              "type": "Nota filológica",
+              "gloss": "qué feliz encuentro",
+              "body": "Fórmula cordial de saludo o satisfacción al encontrarse; la cordialidad resulta irónica a la luz de su traición a Roma. Fuentes: Folger Shakespeare Library, Coriolanus IV.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/3/); MIT Shakespeare, IV.3 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.3.html)."
+            }
+          ]
+        },
+        {
+          "line": "2642–2643",
+          "speaker": "volsce",
+          "en": "You take my part from me, sir. I have the most\ncause to be glad of yours.",
+          "es": "Se me ha adelantado, señor: soy yo quien tiene\nmás motivos para alegrarse de su compañía.",
+          "notes": [
+            {
+              "term": "You take my part from me",
+              "title": "You take my part from me",
+              "type": "Nota filológica",
+              "gloss": "se me ha adelantado",
+              "body": "«Part» alude al papel que le correspondería desempeñar en el intercambio de cortesías: Adriano reclama para sí la mayor gratitud. Fuentes: Folger Shakespeare Library, Coriolanus IV.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/3/); MIT Shakespeare, IV.3 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.3.html)."
+            }
+          ]
+        },
+        {
+          "line": "2644",
+          "speaker": "roman",
+          "en": "Well, let us go together.",
+          "es": "Bien, vayamos juntos.",
+          "notes": []
         }
       ]
     }

@@ -1309,13 +1309,22 @@
       "last_line": 2627,
       "editorial_state": "translated_source_checked_external_references",
       "note": "Five complete speeches; Folger IV.3 and MIT cotejo; nine contextual notes with Spanish glosses. Private and retrospective comparison pending."
+    },
+    {
+      "id": "coriolanus-4-3-2628-2644",
+      "act": 4,
+      "scene": 3,
+      "first_line": 2628,
+      "last_line": 2644,
+      "editorial_state": "translated_source_checked_external_references",
+      "note": "Six complete speeches close IV.3; Folger and MIT compared, historical senses of entertainment/billet checked in Wiktionary; contextual Spanish glosses. Stage exit represented by scene closure. Private reference and retrospective review pending."
     }
   ],
   "next_fragment": {
     "act": 4,
-    "scene": 3,
-    "first_line": 2628,
-    "note": "Continue Adrian's response and the Volscian military preparations."
+    "scene": 4,
+    "first_line": 2645,
+    "note": "Begin Coriolanus' arrival in Antium; first inspect Folger IV.4 and add navigable scene."
   },
   "completed_acts": [],
   "last_update_commit": "pending_atomic_commit",
