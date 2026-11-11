@@ -23,7 +23,8 @@ window.SHAKESPEARE_READER_DATA = {
         "coriolanus-2-3",
         "coriolanus-3-1",
         "coriolanus-3-2",
-        "coriolanus-3-3"
+        "coriolanus-3-3",
+        "coriolanus-4-1"
       ]
     }
   ],
@@ -18003,6 +18004,180 @@ window.SHAKESPEARE_READER_DATA = {
               "type": "Nota filológica",
               "gloss": "nobles tribunos",
               "body": "Epíteto de elogio pronunciado por la multitud, que invierte la jerarquía valorativa del patricio desterrado. Fuentes: Folger Shakespeare Library, Coriolanus III.3, líneas 2442–2449 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/); MIT Shakespeare, III.3 (https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "coriolanus-4-1",
+      "workId": "coriolanus",
+      "act": 4,
+      "scene": 1,
+      "place": "Roma · Ante una puerta de la ciudad",
+      "sourceRef": "Folger Shakespeare Library · Acto IV, escena 1",
+      "sectionLabel": "Edición en curso · líneas 2450–2466",
+      "introduction": "Tras la sentencia de destierro, Coriolano se despide de su familia y de sus aliados. La escena comienza con su exhortación a la fortaleza.",
+      "stage": "Entran Coriolano, Volumnia, Virgilia, Menenio, Cominio y jóvenes nobles romanos.",
+      "characters": [
+        {
+          "id": "coriolanus",
+          "name": "Coriolano",
+          "english": "Coriolanus",
+          "identity": "General romano recién desterrado; intenta contener el dolor de su familia.",
+          "color": "copper"
+        },
+        {
+          "id": "volumnia",
+          "name": "Volumnia",
+          "english": "Volumnia",
+          "identity": "Madre de Coriolano, célebre por su orgullo y exigencia de fortaleza.",
+          "color": "olive"
+        },
+        {
+          "id": "virgilia",
+          "name": "Virgilia",
+          "english": "Virgilia",
+          "identity": "Esposa de Coriolano, angustiada ante la separación.",
+          "color": "slate"
+        },
+        {
+          "id": "menenius",
+          "name": "Menenio Agripa",
+          "english": "Menenius",
+          "identity": "Amigo y protector de Coriolano.",
+          "color": "olive"
+        },
+        {
+          "id": "cominius",
+          "name": "Cominio",
+          "english": "Cominius",
+          "identity": "Antiguo comandante de Coriolano.",
+          "color": "slate"
+        }
+      ],
+      "blocks": [
+        {
+          "line": "2450–2461",
+          "speaker": "coriolanus",
+          "en": "Come, leave your tears. A brief farewell. The beast\nWith many heads butts me away. Nay, mother,\nWhere is your ancient courage? You were used\nTo say extremities was the trier of spirits;\nThat common chances common men could bear;\nThat when the sea was calm, all boats alike\nShowed mastership in floating; fortune’s blows\nWhen most struck home, being gentle wounded craves\nA noble cunning. You were used to load me\nWith precepts that would make invincible\nThe heart that conned them.",
+          "es": "Vamos, dejen de llorar. Una despedida breve. La bestia\nde muchas cabezas me echa a empellones. No, madre,\n¿dónde está tu valor de antaño? Solías\ndecir que las adversidades extremas ponen a prueba el espíritu;\nque cualquier hombre soporta las desgracias corrientes;\nque, cuando el mar está en calma, todas las embarcaciones\nparecen gobernadas con destreza; que, cuando los golpes de la fortuna\nhieren más profundamente, soportar la herida con serenidad exige\nuna noble sabiduría. Solías llenarme\nde enseñanzas capaces de volver invencible\nel corazón que las aprendiera.",
+          "notes": [
+            {
+              "term": "beast\nWith many heads",
+              "title": "beast\nWith many heads",
+              "type": "Nota filológica",
+              "gloss": "bestia de muchas cabezas",
+              "body": "Metáfora deshumanizadora del pueblo como cuerpo colectivo; prolonga la hostilidad de Coriolano hacia la plebe. Referencias: Folger Shakespeare Library, Coriolanus IV.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/1/; MIT Shakespeare, IV.1, https://shakespeare.mit.edu/coriolanus/coriolanus.4.1.html."
+            },
+            {
+              "term": "extremities was",
+              "title": "extremities was",
+              "type": "Nota filológica",
+              "gloss": "las adversidades extremas ponen a prueba",
+              "body": "Folger conserva «extremities was», con discordancia de número; MIT imprime «extremity was». El primer folio registra «Extreamities was», según el aparato de la edición histórica digitalizada en Wikimedia Commons (The Tragedy of Coriolanus, p. 128, https://upload.wikimedia.org/wikipedia/commons/d/dc/The_tragedy_of_Coriolanus_%28IA_tragedyofcoriola00shak%29.pdf). No se normaliza silenciosamente. Referencias: Folger Shakespeare Library, Coriolanus IV.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/1/; MIT Shakespeare, IV.1, https://shakespeare.mit.edu/coriolanus/coriolanus.4.1.html."
+            },
+            {
+              "term": "trier of spirits",
+              "title": "trier of spirits",
+              "type": "Nota filológica",
+              "gloss": "prueba del carácter",
+              "body": "«Trier» es quien o lo que somete a prueba; el contraste con «common chances» distingue la virtud extraordinaria de la resistencia ordinaria. Referencias: Folger Shakespeare Library, Coriolanus IV.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/1/; MIT Shakespeare, IV.1, https://shakespeare.mit.edu/coriolanus/coriolanus.4.1.html.",
+              "lemma": "try",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/try"
+            },
+            {
+              "term": "mastership",
+              "title": "mastership",
+              "type": "Nota filológica",
+              "gloss": "destreza para gobernar una embarcación",
+              "body": "La comparación marítima sostiene que la verdadera pericia solo se revela en condiciones adversas. Referencias: Folger Shakespeare Library, Coriolanus IV.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/1/; MIT Shakespeare, IV.1, https://shakespeare.mit.edu/coriolanus/coriolanus.4.1.html.",
+              "lemma": "mastership",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/mastership"
+            },
+            {
+              "term": "being gentle wounded craves",
+              "title": "being gentle wounded craves",
+              "type": "Nota filológica",
+              "gloss": "soportar serenamente la herida exige",
+              "body": "Construcción sintácticamente difícil: «being gentle» funciona como núcleo de la exigencia ante las heridas de la fortuna; la lectura interpretativa se apoya en el comentario de la edición histórica citada (p. 128), que señala el desplazamiento del sujeto de «craves». No se trata de que los golpes mismos sean suaves. Referencias: Folger Shakespeare Library, Coriolanus IV.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/1/; MIT Shakespeare, IV.1, https://shakespeare.mit.edu/coriolanus/coriolanus.4.1.html.",
+              "lemma": "crave",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/crave"
+            },
+            {
+              "term": "noble cunning",
+              "title": "noble cunning",
+              "type": "Nota filológica",
+              "gloss": "noble sabiduría práctica",
+              "body": "«Cunning» no equivale aquí necesariamente a astucia engañosa: alude a habilidad y juicio para soportar la adversidad. Referencias: Folger Shakespeare Library, Coriolanus IV.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/1/; MIT Shakespeare, IV.1, https://shakespeare.mit.edu/coriolanus/coriolanus.4.1.html.",
+              "lemma": "cunning",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/cunning"
+            },
+            {
+              "term": "conned",
+              "title": "conned",
+              "type": "Nota filológica",
+              "gloss": "aprendiera y asimilara",
+              "body": "«Con» puede significar estudiar o aprender cuidadosamente, no «engañar» como el inglés coloquial actual. Referencias: Folger Shakespeare Library, Coriolanus IV.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/1/; MIT Shakespeare, IV.1, https://shakespeare.mit.edu/coriolanus/coriolanus.4.1.html.",
+              "lemma": "con",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/con"
+            }
+          ]
+        },
+        {
+          "line": "2462",
+          "speaker": "virgilia",
+          "en": "O heavens! O heavens!",
+          "es": "¡Oh, cielos! ¡Oh, cielos!",
+          "notes": []
+        },
+        {
+          "line": "2463–2464",
+          "speaker": "coriolanus",
+          "en": "Nay, I prithee,\nwoman—",
+          "es": "No, te lo ruego,\nmujer...",
+          "notes": [
+            {
+              "term": "prithee",
+              "title": "prithee",
+              "type": "Nota filológica",
+              "gloss": "te lo ruego",
+              "body": "Contracción histórica de «I pray thee»; fórmula de súplica dirigida aquí a Virgilia. Referencias: Folger Shakespeare Library, Coriolanus IV.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/1/; MIT Shakespeare, IV.1, https://shakespeare.mit.edu/coriolanus/coriolanus.4.1.html.",
+              "lemma": "prithee",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/prithee"
+            }
+          ]
+        },
+        {
+          "line": "2465–2466",
+          "speaker": "volumnia",
+          "en": "Now the red pestilence strike all trades in Rome,\nAnd occupations perish!",
+          "es": "¡Que la peste roja azote ahora a todos los oficios de Roma\ny que desaparezcan todas las ocupaciones!",
+          "notes": [
+            {
+              "term": "red pestilence",
+              "title": "red pestilence",
+              "type": "Nota filológica",
+              "gloss": "peste roja",
+              "body": "Maldición de Volumnia, probablemente evocadora de una enfermedad mortal; el color no permite identificar con certeza una patología concreta. Referencias: Folger Shakespeare Library, Coriolanus IV.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/1/; MIT Shakespeare, IV.1, https://shakespeare.mit.edu/coriolanus/coriolanus.4.1.html."
+            },
+            {
+              "term": "strike",
+              "title": "strike",
+              "type": "Nota filológica",
+              "gloss": "que azote",
+              "body": "Subjuntivo optativo en una maldición: «strike» expresa deseo, no presente indicativo. Referencias: Folger Shakespeare Library, Coriolanus IV.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/1/; MIT Shakespeare, IV.1, https://shakespeare.mit.edu/coriolanus/coriolanus.4.1.html.",
+              "lemma": "strike",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/strike"
+            },
+            {
+              "term": "trades",
+              "title": "trades",
+              "type": "Nota filológica",
+              "gloss": "oficios; gremios",
+              "body": "La maldición alcanza a las actividades laborales de la ciudad, no exclusivamente al comercio. Referencias: Folger Shakespeare Library, Coriolanus IV.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/1/; MIT Shakespeare, IV.1, https://shakespeare.mit.edu/coriolanus/coriolanus.4.1.html.",
+              "lemma": "trade",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/trade"
             }
           ]
         }

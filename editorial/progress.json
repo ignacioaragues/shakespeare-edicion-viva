@@ -1201,13 +1201,22 @@
       "last_line": 2449,
       "editorial_state": "translated_source_checked_external_references",
       "note": "Four complete speeches close III.3; Folger and MIT compared, nine glossed notes. Stage direction remains unencoded; retrospective and private reference review pending."
+    },
+    {
+      "id": "coriolanus-4-1-2450-2466",
+      "act": 4,
+      "scene": 1,
+      "first_line": 2450,
+      "last_line": 2466,
+      "editorial_state": "translated_source_checked_external_references",
+      "note": "Four complete speeches opening IV.1; Folger and MIT compared, First Folio reading checked via historical apparatus; private reference cotejo and retrospective review pending."
     }
   ],
   "next_fragment": {
     "act": 4,
     "scene": 1,
-    "first_line": 2450,
-    "note": "Confirm first Folger line of IV.1 and create scene navigation."
+    "first_line": 2467,
+    "note": "Continue Coriolanus' long farewell speech as a complete unit (2467–2488)."
   },
   "completed_acts": [],
   "last_update_commit": "pending_atomic_commit",
