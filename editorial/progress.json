@@ -1291,13 +1291,22 @@
       "last_line": 2591,
       "editorial_state": "translated_source_checked_external_references",
       "note": "Menenio's final exclamation and exit close IV.2; Folger compared with MIT and First Folio transcription. Contextual gloss, interpretative ambiguity preserved. Private references and retrospective review pending."
+    },
+    {
+      "id": "coriolanus-4-3-2592-2610",
+      "act": 4,
+      "scene": 3,
+      "first_line": 2592,
+      "last_line": 2610,
+      "editorial_state": "translated_source_checked_external_references",
+      "note": "Eight complete speeches, Folger and MIT cotejo; nine selective glosses. Retrospective/private cotejo pending."
     }
   ],
   "next_fragment": {
     "act": 4,
     "scene": 3,
-    "first_line": 2592,
-    "note": "Start IV.3 with the Roman informer and Volscian spy; verify Folger global numbering and establish scene navigation."
+    "first_line": 2611,
+    "note": "Continue Nicanor's account of the embers of civil conflict; preserve complete speech."
   },
   "completed_acts": [],
   "last_update_commit": "pending_atomic_commit",

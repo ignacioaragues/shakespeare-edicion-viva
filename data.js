@@ -25,7 +25,8 @@ window.SHAKESPEARE_READER_DATA = {
         "coriolanus-3-2",
         "coriolanus-3-3",
         "coriolanus-4-1",
-        "coriolanus-4-2"
+        "coriolanus-4-2",
+        "coriolanus-4-3"
       ]
     }
   ],
@@ -19271,6 +19272,176 @@ window.SHAKESPEARE_READER_DATA = {
               "body": "Interjección de desaprobación o disgusto, repetida tres veces. El texto no precisa si Menenio reprueba la ira de Volumnia, la conducta de los tribunos o el conflicto en conjunto; la interpretación escénica queda abierta. La acotación de salida pone fin a la escena. Cotejo: Folger Shakespeare Library, Coriolanus IV.2, línea 2591 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/2/); First Folio, IV.2, transcripción de 1910 (https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_4_Scene_2); MIT Shakespeare, IV.2 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.2.html).",
               "lemma": "fie",
               "lemmaUrl": "https://en.wiktionary.org/wiki/fie"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "coriolanus-4-3",
+      "workId": "coriolanus",
+      "act": 4,
+      "scene": 3,
+      "place": "Camino entre Roma y Ancio",
+      "sourceRef": "Folger Shakespeare Library · Acto IV, escena 3",
+      "sectionLabel": "Edición en curso · líneas 2592–2610",
+      "introduction": "Un informante romano y un agente volsco se reconocen en el camino. La crisis política de Roma se convierte en información estratégica para sus enemigos.",
+      "stage": "Entran un romano (Nicanor) y un volsco (Adriano).",
+      "characters": [
+        {
+          "id": "roman",
+          "name": "Nicanor",
+          "english": "Roman (Nicanor)",
+          "identity": "Informante romano que sirve a los enemigos de su ciudad.",
+          "color": "olive"
+        },
+        {
+          "id": "volsce",
+          "name": "Adriano",
+          "english": "Volsce (Adrian)",
+          "identity": "Agente volsco que busca noticias de Roma.",
+          "color": "copper"
+        }
+      ],
+      "blocks": [
+        {
+          "line": "2592–2593",
+          "speaker": "roman",
+          "en": "I know you well, sir, and you know me. Your\nname I think is Adrian.",
+          "es": "Lo conozco bien, señor, y usted me conoce. Creo que\nse llama Adriano.",
+          "notes": []
+        },
+        {
+          "line": "2594",
+          "speaker": "volsce",
+          "en": "It is so, sir. Truly, I have forgot you.",
+          "es": "Así es, señor. A decir verdad, no lo recuerdo.",
+          "notes": [
+            {
+              "term": "have forgot",
+              "title": "have forgot",
+              "type": "Nota filológica",
+              "gloss": "no lo recuerdo",
+              "body": "Participio «forgot» donde el inglés actual suele emplear «forgotten»; la forma no implica un tiempo pasado simple. Cotejo: Folger Shakespeare Library, Coriolanus IV.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/3/); MIT Shakespeare, IV.3 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.3.html).",
+              "lemma": "forget",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/forget"
+            }
+          ]
+        },
+        {
+          "line": "2595–2596",
+          "speaker": "roman",
+          "en": "I am a Roman, and my services are, as you are,\nagainst ’em. Know you me yet?",
+          "es": "Soy romano, y mis servicios, como los suyos,\nestán dirigidos contra ellos. ¿Todavía no me reconoce?",
+          "notes": [
+            {
+              "term": "against ’em",
+              "title": "against ’em",
+              "type": "Nota filológica",
+              "gloss": "contra ellos (los romanos)",
+              "body": "La elipsis pronominal remite a Roma: Nicanor es romano de origen pero sirve a sus enemigos. Cotejo: Folger Shakespeare Library, Coriolanus IV.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/3/); MIT Shakespeare, IV.3 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.3.html)."
+            },
+            {
+              "term": "Know you me yet?",
+              "title": "Know you me yet?",
+              "type": "Nota filológica",
+              "gloss": "¿Todavía no me reconoce?",
+              "body": "Interrogación sin auxiliar «do», habitual en inglés moderno temprano; «yet» enfatiza el reconocimiento pendiente. Cotejo: Folger Shakespeare Library, Coriolanus IV.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/3/); MIT Shakespeare, IV.3 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.3.html).",
+              "lemma": "know",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/know"
+            }
+          ]
+        },
+        {
+          "line": "2597",
+          "speaker": "volsce",
+          "en": "Nicanor, no?",
+          "es": "¿Nicanor, verdad?",
+          "notes": []
+        },
+        {
+          "line": "2598",
+          "speaker": "roman",
+          "en": "The same, sir.",
+          "es": "El mismo, señor.",
+          "notes": []
+        },
+        {
+          "line": "2599–2603",
+          "speaker": "volsce",
+          "en": "You had more beard when I last saw you, but\nyour favor is well approved by your tongue.\nWhat’s the news in Rome? I have a note from the\nVolscian state to find you out there. You have well\nsaved me a day’s journey.",
+          "es": "Tenía más barba la última vez que lo vi, pero\nsu manera de hablar confirma bien su identidad.\n¿Qué noticias hay de Roma? El Estado volsco me encargó\nbuscarlo allí. Me ha ahorrado usted\nun día de viaje.",
+          "notes": [
+            {
+              "term": "favor",
+              "title": "favor",
+              "type": "Nota filológica",
+              "gloss": "rostro; aspecto",
+              "body": "«Favor» significa aquí apariencia facial, no favor o benevolencia; la voz permite reconocer a quien ha cambiado de aspecto. Cotejo: Folger Shakespeare Library, Coriolanus IV.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/3/); MIT Shakespeare, IV.3 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.3.html).",
+              "lemma": "favour",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/favour"
+            },
+            {
+              "term": "approved by your tongue",
+              "title": "approved by your tongue",
+              "type": "Nota filológica",
+              "gloss": "confirmado por su manera de hablar",
+              "body": "La voz y el habla sirven de prueba de identidad, frente al cambio de barba. Cotejo: Folger Shakespeare Library, Coriolanus IV.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/3/); MIT Shakespeare, IV.3 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.3.html)."
+            },
+            {
+              "term": "a note from the Volscian state",
+              "title": "a note from the Volscian state",
+              "type": "Nota filológica",
+              "gloss": "un encargo del Estado volsco",
+              "body": "«Note» se entiende como comunicación o instrucción oficial, no como una nota musical. Cotejo: Folger Shakespeare Library, Coriolanus IV.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/3/); MIT Shakespeare, IV.3 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.3.html)."
+            }
+          ]
+        },
+        {
+          "line": "2604–2606",
+          "speaker": "roman",
+          "en": "There hath been in Rome strange insurrections,\nthe people against the senators, patricians,\nand nobles.",
+          "es": "Ha habido en Roma extrañas sublevaciones:\nel pueblo se ha alzado contra los senadores, los patricios\ny los nobles.",
+          "notes": [
+            {
+              "term": "hath been",
+              "title": "hath been",
+              "type": "Nota filológica",
+              "gloss": "ha habido",
+              "body": "«Hath» es la tercera persona singular del presente de «have»; la construcción existencial anuncia un hecho reciente. Cotejo: Folger Shakespeare Library, Coriolanus IV.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/3/); MIT Shakespeare, IV.3 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.3.html).",
+              "lemma": "have",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/have"
+            }
+          ]
+        },
+        {
+          "line": "2607–2610",
+          "speaker": "volsce",
+          "en": "Hath been? Is it ended, then? Our state thinks\nnot so. They are in a most warlike preparation and\nhope to come upon them in the heat of their\ndivision.",
+          "es": "¿Ha habido? ¿Entonces ya terminó? Nuestro Estado\nno lo cree así. Están haciendo grandes preparativos bélicos\ny esperan atacar a los romanos en pleno ardor\nde sus divisiones.",
+          "notes": [
+            {
+              "term": "Hath been?",
+              "title": "Hath been?",
+              "type": "Nota filológica",
+              "gloss": "¿Ha habido?",
+              "body": "La repetición incrédula del tiempo verbal cuestiona que las revueltas pertenezcan ya al pasado. Cotejo: Folger Shakespeare Library, Coriolanus IV.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/3/); MIT Shakespeare, IV.3 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.3.html).",
+              "lemma": "have",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/have"
+            },
+            {
+              "term": "come upon them",
+              "title": "come upon them",
+              "type": "Nota filológica",
+              "gloss": "atacarlos por sorpresa",
+              "body": "«Come upon» expresa aquí irrupción militar contra un enemigo dividido. Cotejo: Folger Shakespeare Library, Coriolanus IV.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/3/); MIT Shakespeare, IV.3 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.3.html)."
+            },
+            {
+              "term": "in the heat of their division",
+              "title": "in the heat of their division",
+              "type": "Nota filológica",
+              "gloss": "en pleno ardor de sus divisiones",
+              "body": "La metáfora térmica anticipa el «blaze» de la respuesta siguiente; es una conexión retórica observable, no una variante textual. Cotejo: Folger Shakespeare Library, Coriolanus IV.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/3/); MIT Shakespeare, IV.3 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.3.html)."
             }
           ]
         }
