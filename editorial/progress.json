@@ -1282,13 +1282,22 @@
       "last_line": 2590,
       "editorial_state": "translated_source_checked_external_references",
       "note": "Three complete speeches; Folger IV.2 and MIT compared; twelve contextual notes and Spanish glosses. Private references and retrospective review pending."
+    },
+    {
+      "id": "coriolanus-4-2-2591",
+      "act": 4,
+      "scene": 2,
+      "first_line": 2591,
+      "last_line": 2591,
+      "editorial_state": "translated_source_checked_external_references",
+      "note": "Menenio's final exclamation and exit close IV.2; Folger compared with MIT and First Folio transcription. Contextual gloss, interpretative ambiguity preserved. Private references and retrospective review pending."
     }
   ],
   "next_fragment": {
     "act": 4,
-    "scene": 2,
-    "first_line": 2591,
-    "note": "Menenio closes the scene with a final exclamation."
+    "scene": 3,
+    "first_line": 2592,
+    "note": "Start IV.3 with the Roman informer and Volscian spy; verify Folger global numbering and establish scene navigation."
   },
   "completed_acts": [],
   "last_update_commit": "pending_atomic_commit",

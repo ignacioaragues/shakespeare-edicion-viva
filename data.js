@@ -18534,9 +18534,9 @@ window.SHAKESPEARE_READER_DATA = {
       "scene": 2,
       "place": "Roma · Una calle próxima a las puertas de la ciudad",
       "sourceRef": "Folger Shakespeare Library · Acto IV, escena 2",
-      "sectionLabel": "Edición en curso · líneas 2519–2590",
+      "sectionLabel": "Edición completa · líneas 2519–2591",
       "introduction": "Después del destierro, Sicinio y Bruto procuran disolver la concentración popular y moderar su imagen pública; Volumnia se aproxima.",
-      "stage": "Entran Sicinio, Bruto y un edil. [Después de 2528: sale el edil.] [Después de 2529: entran Volumnia, Virgilia y Menenio.] [Después de 2576: salen los tribunos.] [Después de 2590: salen Volumnia y Virgilia.]",
+      "stage": "Entran Sicinio, Bruto y un edil. [Después de 2528: sale el edil.] [Después de 2529: entran Volumnia, Virgilia y Menenio.] [Después de 2576: salen los tribunos.] [Después de 2590: salen Volumnia y Virgilia.] [Después de 2591: sale Menenio. Fin de la escena.]",
       "characters": [
         {
           "id": "sicinius",
@@ -19254,6 +19254,23 @@ window.SHAKESPEARE_READER_DATA = {
               "type": "Nota filológica",
               "gloss": "como Juno",
               "body": "Comparación con Juno, diosa romana cuya cólera y vindicta son rasgos literarios recurrentes; no identifica una escena mítica concreta. Fuentes: Folger Shakespeare Library, Coriolanus IV.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/2/); MIT Shakespeare, IV.2 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.2.html)."
+            }
+          ]
+        },
+        {
+          "line": "2591",
+          "speaker": "menenius",
+          "en": "Fie, fie, fie!",
+          "es": "¡Qué vergüenza, qué vergüenza, qué vergüenza!",
+          "notes": [
+            {
+              "term": "Fie",
+              "title": "Fie",
+              "type": "Nota filológica",
+              "gloss": "¡qué vergüenza! / ¡vaya!",
+              "body": "Interjección de desaprobación o disgusto, repetida tres veces. El texto no precisa si Menenio reprueba la ira de Volumnia, la conducta de los tribunos o el conflicto en conjunto; la interpretación escénica queda abierta. La acotación de salida pone fin a la escena. Cotejo: Folger Shakespeare Library, Coriolanus IV.2, línea 2591 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/2/); First Folio, IV.2, transcripción de 1910 (https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_4_Scene_2); MIT Shakespeare, IV.2 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.2.html).",
+              "lemma": "fie",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/fie"
             }
           ]
         }
