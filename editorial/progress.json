@@ -1300,13 +1300,22 @@
       "last_line": 2610,
       "editorial_state": "translated_source_checked_external_references",
       "note": "Eight complete speeches, Folger and MIT cotejo; nine selective glosses. Retrospective/private cotejo pending."
+    },
+    {
+      "id": "coriolanus-4-3-2611-2627",
+      "act": 4,
+      "scene": 3,
+      "first_line": 2611,
+      "last_line": 2627,
+      "editorial_state": "translated_source_checked_external_references",
+      "note": "Five complete speeches; Folger IV.3 and MIT cotejo; nine contextual notes with Spanish glosses. Private and retrospective comparison pending."
     }
   ],
   "next_fragment": {
     "act": 4,
     "scene": 3,
-    "first_line": 2611,
-    "note": "Continue Nicanor's account of the embers of civil conflict; preserve complete speech."
+    "first_line": 2628,
+    "note": "Continue Adrian's response and the Volscian military preparations."
   },
   "completed_acts": [],
   "last_update_commit": "pending_atomic_commit",

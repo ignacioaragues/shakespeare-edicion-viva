@@ -19284,7 +19284,7 @@ window.SHAKESPEARE_READER_DATA = {
       "scene": 3,
       "place": "Camino entre Roma y Ancio",
       "sourceRef": "Folger Shakespeare Library · Acto IV, escena 3",
-      "sectionLabel": "Edición en curso · líneas 2592–2610",
+      "sectionLabel": "Edición en curso · líneas 2592–2627",
       "introduction": "Un informante romano y un agente volsco se reconocen en el camino. La crisis política de Roma se convierte en información estratégica para sus enemigos.",
       "stage": "Entran un romano (Nicanor) y un volsco (Adriano).",
       "characters": [
@@ -19442,6 +19442,120 @@ window.SHAKESPEARE_READER_DATA = {
               "type": "Nota filológica",
               "gloss": "en pleno ardor de sus divisiones",
               "body": "La metáfora térmica anticipa el «blaze» de la respuesta siguiente; es una conexión retórica observable, no una variante textual. Cotejo: Folger Shakespeare Library, Coriolanus IV.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/3/); MIT Shakespeare, IV.3 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.3.html)."
+            }
+          ]
+        },
+        {
+          "line": "2611–2617",
+          "speaker": "roman",
+          "en": "The main blaze of it is past, but a small thing\nwould make it flame again; for the nobles receive\nso to heart the banishment of that worthy Coriolanus\nthat they are in a ripe aptness to take all power\nfrom the people and to pluck from them their tribunes\nforever. This lies glowing, I can tell you, and\nis almost mature for the violent breaking out.",
+          "es": "El gran incendio ya ha pasado, pero bastaría poca cosa\npara que volviera a arder; pues los nobles se han tomado\ntan a pecho el destierro del digno Coriolano\nque están más que dispuestos a arrebatarle al pueblo\ntodo su poder y a quitarle sus tribunos\npara siempre. Las brasas siguen encendidas, se lo aseguro,\ny está a punto de estallar otra vez la violencia.",
+          "notes": [
+            {
+              "term": "main blaze",
+              "title": "main blaze",
+              "type": "Nota filológica",
+              "gloss": "gran incendio",
+              "body": "Metáfora del conflicto civil: la revuelta visible ha disminuido, pero no se ha extinguido. Cotejo: Folger Shakespeare Library, Coriolanus IV.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/3/); MIT Shakespeare, IV.3 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.3.html)."
+            },
+            {
+              "term": "receive so to heart",
+              "title": "receive so to heart",
+              "type": "Nota filológica",
+              "gloss": "tomarse tan a pecho",
+              "body": "«Receive ... to heart» expresa la intensidad con que los patricios sienten el destierro; «so ... that» introduce su consecuencia política. Cotejo: Folger Shakespeare Library, Coriolanus IV.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/3/); MIT Shakespeare, IV.3 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.3.html)."
+            },
+            {
+              "term": "ripe aptness",
+              "title": "ripe aptness",
+              "type": "Nota filológica",
+              "gloss": "estar más que dispuestos",
+              "body": "La madurez figurada sugiere una disposición a actuar ya desarrollada, no que la acción se haya consumado. Cotejo: Folger Shakespeare Library, Coriolanus IV.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/3/); MIT Shakespeare, IV.3 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.3.html)."
+            },
+            {
+              "term": "pluck from them their tribunes",
+              "title": "pluck from them their tribunes",
+              "type": "Nota filológica",
+              "gloss": "arrebatarles sus tribunos",
+              "body": "«Pluck» intensifica la idea de despojo; los tribunos representan el poder político plebeyo. Cotejo: Folger Shakespeare Library, Coriolanus IV.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/3/); MIT Shakespeare, IV.3 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.3.html)."
+            },
+            {
+              "term": "lies glowing",
+              "title": "lies glowing",
+              "type": "Nota filológica",
+              "gloss": "permanece como brasas encendidas",
+              "body": "La imagen prolonga «blaze» y «flame»: el incendio político sigue latente, aunque no sea visible. Cotejo: Folger Shakespeare Library, Coriolanus IV.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/3/); MIT Shakespeare, IV.3 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.3.html)."
+            }
+          ]
+        },
+        {
+          "line": "2618",
+          "speaker": "volsce",
+          "en": "Coriolanus banished?",
+          "es": "¿Coriolano, desterrado?",
+          "notes": []
+        },
+        {
+          "line": "2619",
+          "speaker": "roman",
+          "en": "Banished, sir.",
+          "es": "Desterrado, señor.",
+          "notes": []
+        },
+        {
+          "line": "2620–2621",
+          "speaker": "volsce",
+          "en": "You will be welcome with this intelligence,\nNicanor.",
+          "es": "Será bien recibido con esta información,\nNicanor.",
+          "notes": [
+            {
+              "term": "intelligence",
+              "title": "intelligence",
+              "type": "Nota filológica",
+              "gloss": "información estratégica",
+              "body": "No designa aquí la capacidad intelectual, sino noticias útiles para la acción militar y política. Cotejo: Folger Shakespeare Library, Coriolanus IV.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/3/); MIT Shakespeare, IV.3 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.3.html)."
+            }
+          ]
+        },
+        {
+          "line": "2622–2627",
+          "speaker": "roman",
+          "en": "The day serves well for them now. I have heard\nit said the fittest time to corrupt a man’s wife is\nwhen she’s fall’n out with her husband. Your noble\nTullus Aufidius will appear well in these wars, his\ngreat opposer Coriolanus being now in no request\nof his country.",
+          "es": "Ahora es el momento propicio para ellos. He oído\ndecir que la mejor ocasión para seducir a la esposa de un hombre\nes cuando está enemistada con su marido. Su noble\nTulio Aufidio destacará en estas guerras, puesto que\nsu gran rival, Coriolano, ya no goza\ndel favor de su patria.",
+          "notes": [
+            {
+              "term": "The day serves well",
+              "title": "The day serves well",
+              "type": "Nota filológica",
+              "gloss": "el momento es propicio",
+              "body": "«Day» designa la coyuntura favorable para los volscos, no simplemente la luz del día. Cotejo: Folger Shakespeare Library, Coriolanus IV.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/3/); MIT Shakespeare, IV.3 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.3.html)."
+            },
+            {
+              "term": "corrupt a man’s wife",
+              "title": "corrupt a man’s wife",
+              "type": "Nota filológica",
+              "gloss": "seducir a la esposa de un hombre",
+              "body": "Analogía deliberadamente oportunista entre una disputa conyugal y la vulnerabilidad de Roma; «corrupt» tiene aquí una dimensión sexual y moral. Cotejo: Folger Shakespeare Library, Coriolanus IV.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/3/); MIT Shakespeare, IV.3 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.3.html).",
+              "lemma": "corrupt",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/corrupt"
+            },
+            {
+              "term": "fall’n out",
+              "title": "fall’n out",
+              "type": "Nota filológica",
+              "gloss": "estar enemistada",
+              "body": "Participio contraído de «fallen» en la locución «fall out with», enemistarse o reñir con alguien. Cotejo: Folger Shakespeare Library, Coriolanus IV.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/3/); MIT Shakespeare, IV.3 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.3.html).",
+              "lemma": "fall",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/fall"
+            },
+            {
+              "term": "in no request",
+              "title": "in no request",
+              "type": "Nota filológica",
+              "gloss": "sin el favor de su patria",
+              "body": "«Request» significa aquí estima, demanda o favor público, no una petición formal; la expresión explica la ventaja de Aufidio. Cotejo: Folger Shakespeare Library, Coriolanus IV.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/3/); MIT Shakespeare, IV.3 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.3.html).",
+              "lemma": "request",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/request"
             }
           ]
         }
