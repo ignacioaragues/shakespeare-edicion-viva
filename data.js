@@ -18016,7 +18016,7 @@ window.SHAKESPEARE_READER_DATA = {
       "scene": 1,
       "place": "Roma · Ante una puerta de la ciudad",
       "sourceRef": "Folger Shakespeare Library · Acto IV, escena 1",
-      "sectionLabel": "Edición en curso · líneas 2450–2466",
+      "sectionLabel": "Edición en curso · líneas 2450–2488",
       "introduction": "Tras la sentencia de destierro, Coriolano se despide de su familia y de sus aliados. La escena comienza con su exhortación a la fortaleza.",
       "stage": "Entran Coriolano, Volumnia, Virgilia, Menenio, Cominio y jóvenes nobles romanos.",
       "characters": [
@@ -18178,6 +18178,127 @@ window.SHAKESPEARE_READER_DATA = {
               "body": "La maldición alcanza a las actividades laborales de la ciudad, no exclusivamente al comercio. Referencias: Folger Shakespeare Library, Coriolanus IV.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/1/; MIT Shakespeare, IV.1, https://shakespeare.mit.edu/coriolanus/coriolanus.4.1.html.",
               "lemma": "trade",
               "lemmaUrl": "https://en.wiktionary.org/wiki/trade"
+            }
+          ]
+        },
+        {
+          "line": "2467–2488",
+          "speaker": "coriolanus",
+          "en": "What, what, what!\nI shall be loved when I am lacked. Nay, mother,\nResume that spirit when you were wont to say\nIf you had been the wife of Hercules,\nSix of his labors you’d have done and saved\nYour husband so much sweat.—Cominius,\nDroop not. Adieu.—Farewell, my wife, my mother.\nI’ll do well yet.—Thou old and true Menenius,\nThy tears are salter than a younger man’s\nAnd venomous to thine eyes.—My sometime\ngeneral,\nI have seen thee stern, and thou hast oft beheld\nHeart-hard’ning spectacles. Tell these sad women\n’Tis fond to wail inevitable strokes\nAs ’tis to laugh at ’em.—My mother, you wot well\nMy hazards still have been your solace, and—\nBelieve ’t not lightly—though I go alone,\nLike to a lonely dragon that his fen\nMakes feared and talked of more than seen, your\nson\nWill or exceed the common or be caught\nWith cautelous baits and practice.",
+          "es": "¡Qué, qué, qué!\nMe querrán cuando noten mi ausencia. No, madre,\nrecobra aquel ánimo con que solías decir\nque, si hubieras sido la esposa de Hércules,\nhabrías realizado seis de sus trabajos\ny ahorrado a tu marido tanto sudor. Cominio,\nno te desalientes. Adiós. Adiós, esposa mía, madre mía.\nTodavía me irá bien. Y tú, viejo y leal Menenio,\ntus lágrimas son más saladas que las de un joven\ny dañinas para tus ojos. Antiguo\ngeneral mío,\nte he visto mantenerte firme y tú has presenciado muchas veces\nespectáculos capaces de endurecer el corazón. Diles a estas mujeres afligidas\nque es tan insensato llorar los golpes inevitables\ncomo reírse de ellos. Madre, bien sabes\nque mis peligros siempre han sido tu consuelo; y\nno lo tomes por una promesa vana: aunque me marche solo,\ncomo un dragón solitario cuya ciénaga\nlo hace más temido y comentado que visto, tu\nhijo\no superará a los hombres corrientes o caerá preso\nde cebos engañosos y maquinaciones.",
+          "notes": [
+            {
+              "term": "lacked",
+              "title": "lacked",
+              "type": "Nota filológica",
+              "gloss": "echar de menos; notar su ausencia",
+              "body": "La construcción pasiva proyecta un reconocimiento tardío: Coriolano espera que Roma lo valore cuando ya no esté. Fuentes: Folger Shakespeare Library, Coriolanus IV.1 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/1/); facsímil/transcripción First Folio (https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_4_Scene_1).",
+              "lemma": "lack",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/lack"
+            },
+            {
+              "term": "wont",
+              "title": "wont",
+              "type": "Nota filológica",
+              "gloss": "acostumbrabas",
+              "body": "«Were wont to» expresa un hábito pasado; no debe leerse como «want» ('querer'). Fuentes: Folger Shakespeare Library, Coriolanus IV.1 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/1/); facsímil/transcripción First Folio (https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_4_Scene_1).",
+              "lemma": "wont",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/wont"
+            },
+            {
+              "term": "wife of Hercules",
+              "title": "wife of Hercules",
+              "type": "Nota filológica",
+              "gloss": "esposa de Hércules",
+              "body": "Alusión hiperbólica a los doce trabajos de Hércules: Volumnia se habría adjudicado seis, desplazando la fuerza heroica al ámbito materno. Fuentes: Folger Shakespeare Library, Coriolanus IV.1 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/1/); facsímil/transcripción First Folio (https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_4_Scene_1)."
+            },
+            {
+              "term": "Droop not",
+              "title": "Droop not",
+              "type": "Nota filológica",
+              "gloss": "no decaigas",
+              "body": "Imperativo dirigido a Cominio, intercalado en una sucesión de despedidas. Fuentes: Folger Shakespeare Library, Coriolanus IV.1 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/1/); facsímil/transcripción First Folio (https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_4_Scene_1).",
+              "lemma": "droop",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/droop"
+            },
+            {
+              "term": "salter",
+              "title": "salter",
+              "type": "Nota filológica",
+              "gloss": "más saladas",
+              "body": "Comparativo de «salt»; el exceso de sal en las lágrimas de Menenio es presentado figuradamente como dañino para sus ojos. Fuentes: Folger Shakespeare Library, Coriolanus IV.1 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/1/); facsímil/transcripción First Folio (https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_4_Scene_1).",
+              "lemma": "salt",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/salt"
+            },
+            {
+              "term": "sometime general",
+              "title": "sometime general",
+              "type": "Nota filológica",
+              "gloss": "antiguo general",
+              "body": "«Sometime» significa aquí 'anterior', no 'a veces'; el vocativo se dirige a Cominio. Fuentes: Folger Shakespeare Library, Coriolanus IV.1 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/1/); facsímil/transcripción First Folio (https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_4_Scene_1).",
+              "lemma": "sometime",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/sometime"
+            },
+            {
+              "term": "stern",
+              "title": "stern",
+              "type": "Nota filológica",
+              "gloss": "firme; imperturbable",
+              "body": "Folger lee «stern», mientras la transcripción MIT muestra «stem», divergencia probablemente tipográfica que no se eleva aquí a variante antigua. Fuentes: Folger Shakespeare Library, Coriolanus IV.1 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/1/); facsímil/transcripción First Folio (https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_4_Scene_1).",
+              "lemma": "stern",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/stern"
+            },
+            {
+              "term": "fond",
+              "title": "fond",
+              "type": "Nota filológica",
+              "gloss": "insensato; necio",
+              "body": "Valor histórico de «fond»: no 'cariñoso', sino falto de juicio; llorar lo inevitable se compara con reírse de ello. Fuentes: Folger Shakespeare Library, Coriolanus IV.1 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/1/); facsímil/transcripción First Folio (https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_4_Scene_1).",
+              "lemma": "fond",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/fond"
+            },
+            {
+              "term": "wot well",
+              "title": "wot well",
+              "type": "Nota filológica",
+              "gloss": "sabes bien",
+              "body": "«Wot» es forma histórica del verbo «wit» ('saber'), aquí en presente con sujeto «you». Fuentes: Folger Shakespeare Library, Coriolanus IV.1 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/1/); facsímil/transcripción First Folio (https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_4_Scene_1).",
+              "lemma": "wit",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/wit"
+            },
+            {
+              "term": "hazards",
+              "title": "hazards",
+              "type": "Nota filológica",
+              "gloss": "peligros; riesgos",
+              "body": "Coriolano recuerda que sus riesgos militares han sido motivo de orgullo y consuelo para Volumnia. Fuentes: Folger Shakespeare Library, Coriolanus IV.1 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/1/); facsímil/transcripción First Folio (https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_4_Scene_1).",
+              "lemma": "hazard",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/hazard"
+            },
+            {
+              "term": "lonely dragon",
+              "title": "lonely dragon",
+              "type": "Nota filológica",
+              "gloss": "dragón solitario",
+              "body": "Símil de aislamiento y excepcionalidad: el dragón es más conocido por la fama temible de su morada que por apariciones directas. Fuentes: Folger Shakespeare Library, Coriolanus IV.1 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/1/); facsímil/transcripción First Folio (https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_4_Scene_1)."
+            },
+            {
+              "term": "fen",
+              "title": "fen",
+              "type": "Nota filológica",
+              "gloss": "pantano; ciénaga",
+              "body": "Hábitat del dragón en el símil; no se trata de una localización geográfica precisa. Fuentes: Folger Shakespeare Library, Coriolanus IV.1 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/1/); facsímil/transcripción First Folio (https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_4_Scene_1).",
+              "lemma": "fen",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/fen"
+            },
+            {
+              "term": "cautelous baits and practice",
+              "title": "cautelous baits and practice",
+              "type": "Nota filológica",
+              "gloss": "cebos engañosos y maquinaciones",
+              "body": "«Cautelous» apunta a engaño o cautela calculada; «practice» puede denotar intriga, no mero ejercicio. La alternativa final contrapone grandeza y captura mediante ardides. Fuentes: Folger Shakespeare Library, Coriolanus IV.1 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/1/); facsímil/transcripción First Folio (https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_4_Scene_1).",
+              "lemma": "cautelous",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/cautelous"
             }
           ]
         }

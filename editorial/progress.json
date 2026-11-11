@@ -1210,13 +1210,22 @@
       "last_line": 2466,
       "editorial_state": "translated_source_checked_external_references",
       "note": "Four complete speeches opening IV.1; Folger and MIT compared, First Folio reading checked via historical apparatus; private reference cotejo and retrospective review pending."
+    },
+    {
+      "id": "coriolanus-4-1-2467-2488",
+      "act": 4,
+      "scene": 1,
+      "first_line": 2467,
+      "last_line": 2488,
+      "editorial_state": "translated_source_checked_external_references",
+      "note": "One complete Coriolanus speech, Folger IV.1 checked against MIT and First Folio transcription; thirteen contextual glossed notes. Private comparison and retrospective review pending."
     }
   ],
   "next_fragment": {
     "act": 4,
     "scene": 1,
-    "first_line": 2467,
-    "note": "Continue Coriolanus' long farewell speech as a complete unit (2467–2488)."
+    "first_line": 2489,
+    "note": "Continue with Volumnia's full response, Folger 2489–2493, then Virgilia and Cominius as natural boundaries allow."
   },
   "completed_acts": [],
   "last_update_commit": "pending_atomic_commit",
