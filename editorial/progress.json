@@ -1237,13 +1237,22 @@
       "last_line": 2518,
       "editorial_state": "translated_source_checked_external_references",
       "note": "Menenius' farewell and Coriolanus' final imperative; six contextual notes; Folger IV.1 and MIT compared. Final stage exit encoded. Private reference comparison and retrospective review pending."
+    },
+    {
+      "id": "coriolanus-4-2-2519-2533",
+      "act": 4,
+      "scene": 2,
+      "first_line": 2519,
+      "last_line": 2533,
+      "editorial_state": "translated_source_checked_external_references",
+      "note": "Eight complete speeches; Folger IV.2 checked against MIT; ten contextual Spanish-gloss notes. Stage directions noted. Private comparison and retrospective review pending."
     }
   ],
   "next_fragment": {
     "act": 4,
     "scene": 2,
-    "first_line": 2519,
-    "note": "Verify exact Folger start and begin IV.2 with complete dramatic units; add scene navigation."
+    "first_line": 2534,
+    "note": "Volumnia's imprecation begins at 2534; choose complete dramatic exchange."
   },
   "completed_acts": [],
   "last_update_commit": "pending_atomic_commit",
