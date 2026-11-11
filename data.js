@@ -17901,7 +17901,8 @@ window.SHAKESPEARE_READER_DATA = {
               "gloss": "hay un mundo en otra parte",
               "body": "La frase final opone Roma a la posibilidad de una vida fuera de ella; su concisión marca el giro de la acción hacia el exilio. No se interpreta aquí como una promesa de libertad sin consecuencias. Fuentes: Folger Shakespeare Library, Coriolanus III.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/); MIT Shakespeare, III.3 (https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html)."
             }
-          ],
+          ]
+        },
         {
           "line": "2442",
           "speaker": "aedile",
@@ -18016,7 +18017,7 @@ window.SHAKESPEARE_READER_DATA = {
       "scene": 1,
       "place": "Roma · Ante una puerta de la ciudad",
       "sourceRef": "Folger Shakespeare Library · Acto IV, escena 1",
-      "sectionLabel": "Edición en curso · líneas 2450–2488",
+      "sectionLabel": "Edición en curso · líneas 2450–2511",
       "introduction": "Tras la sentencia de destierro, Coriolano se despide de su familia y de sus aliados. La escena comienza con su exhortación a la fortaleza.",
       "stage": "Entran Coriolano, Volumnia, Virgilia, Menenio, Cominio y jóvenes nobles romanos.",
       "characters": [
@@ -18299,6 +18300,157 @@ window.SHAKESPEARE_READER_DATA = {
               "body": "«Cautelous» apunta a engaño o cautela calculada; «practice» puede denotar intriga, no mero ejercicio. La alternativa final contrapone grandeza y captura mediante ardides. Fuentes: Folger Shakespeare Library, Coriolanus IV.1 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/1/); facsímil/transcripción First Folio (https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_4_Scene_1).",
               "lemma": "cautelous",
               "lemmaUrl": "https://en.wiktionary.org/wiki/cautelous"
+            }
+          ]
+        },
+        {
+          "line": "2489–2493",
+          "speaker": "volumnia",
+          "en": "My first son,\nWhither wilt thou go? Take good Cominius\nWith thee awhile. Determine on some course\nMore than a wild exposure to each chance\nThat starts i’ th’ way before thee.",
+          "es": "Hijo mío, mi primogénito,\n¿adónde irás? Lleva contigo por un tiempo\nal buen Cominio. Decide qué camino seguir,\nen vez de exponerte sin rumbo a cada contingencia\nque se te presente en el camino.",
+          "notes": [
+            {
+              "term": "My first son",
+              "title": "My first son",
+              "type": "Nota filológica",
+              "gloss": "hijo mío, mi primogénito",
+              "body": "La invocación maternal reemplaza la exhortación heroica anterior y acentúa la vulnerabilidad del desterrado. Fuentes: Folger Shakespeare Library, Coriolanus IV.1 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/1/); MIT Shakespeare, IV.1 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.1.html)."
+            },
+            {
+              "term": "Whither wilt thou go",
+              "title": "Whither wilt thou go",
+              "type": "Nota filológica",
+              "gloss": "¿adónde irás?",
+              "body": "«Whither» es adverbio direccional y «wilt» la forma de segunda persona singular de «will»; «thou» establece trato familiar. Fuentes: Folger Shakespeare Library, Coriolanus IV.1 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/1/); MIT Shakespeare, IV.1 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.1.html).",
+              "lemma": "whither",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/whither"
+            },
+            {
+              "term": "wild exposure",
+              "title": "wild exposure",
+              "type": "Nota filológica",
+              "gloss": "exposición temeraria; abandono al azar",
+              "body": "Folger lee «exposure»; la transcripción MIT ofrece «exposture». Se conserva la lectura Folger sin elevar la divergencia a variante del First Folio. Fuentes: Folger Shakespeare Library, Coriolanus IV.1 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/1/); MIT Shakespeare, IV.1 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.1.html)."
+            },
+            {
+              "term": "starts i’ th’ way",
+              "title": "starts i’ th’ way",
+              "type": "Nota filológica",
+              "gloss": "surge en el camino",
+              "body": "«Starts» señala lo que aparece súbitamente; «i’ th’» contrae «in the». Fuentes: Folger Shakespeare Library, Coriolanus IV.1 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/1/); MIT Shakespeare, IV.1 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.1.html).",
+              "lemma": "start",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/start"
+            }
+          ]
+        },
+        {
+          "line": "2494",
+          "speaker": "virgilia",
+          "en": "O the gods!",
+          "es": "¡Oh, dioses!",
+          "notes": []
+        },
+        {
+          "line": "2495–2501",
+          "speaker": "cominius",
+          "en": "I’ll follow thee a month, devise with thee\nWhere thou shalt rest, that thou mayst hear of us\nAnd we of thee; so if the time thrust forth\nA cause for thy repeal, we shall not send\nO’er the vast world to seek a single man\nAnd lose advantage, which doth ever cool\nI’ th’ absence of the needer.",
+          "es": "Te acompañaré durante un mes y pensaremos juntos\ndónde podrás establecerte, para que recibas noticias nuestras\ny nosotros las tuyas. Así, si las circunstancias ofrecen\nun motivo para reclamar tu regreso, no tendremos que enviar\na alguien a buscarte por el inmenso mundo\ny perder la ocasión favorable, que siempre se enfría\ncuando falta quien más la necesita.",
+          "notes": [
+            {
+              "term": "devise with thee",
+              "title": "devise with thee",
+              "type": "Nota filológica",
+              "gloss": "deliberar contigo; planear juntos",
+              "body": "«Devise» funciona aquí como verbo de deliberación práctica, no como 'inventar' en abstracto. Fuentes: Folger Shakespeare Library, Coriolanus IV.1 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/1/); MIT Shakespeare, IV.1 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.1.html).",
+              "lemma": "devise",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/devise"
+            },
+            {
+              "term": "repeal",
+              "title": "repeal",
+              "type": "Nota filológica",
+              "gloss": "revocación del destierro; regreso autorizado",
+              "body": "En este contexto «repeal» nombra la llamada de vuelta del exiliado, no la derogación de una ley en el sentido moderno. Fuentes: Folger Shakespeare Library, Coriolanus IV.1 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/1/); MIT Shakespeare, IV.1 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.1.html).",
+              "lemma": "repeal",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/repeal"
+            },
+            {
+              "term": "thrust forth",
+              "title": "thrust forth",
+              "type": "Nota filológica",
+              "gloss": "hacer surgir; producir",
+              "body": "La personificación del tiempo lo presenta como agente que puede ofrecer una causa política para el retorno. Fuentes: Folger Shakespeare Library, Coriolanus IV.1 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/1/); MIT Shakespeare, IV.1 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.1.html).",
+              "lemma": "thrust",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/thrust"
+            },
+            {
+              "term": "the needer",
+              "title": "the needer",
+              "type": "Nota filológica",
+              "gloss": "quien lo necesita",
+              "body": "Comparativo sustantivado inusual; la oportunidad política pierde fuerza si el interesado no está presente. Fuentes: Folger Shakespeare Library, Coriolanus IV.1 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/1/); MIT Shakespeare, IV.1 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.1.html).",
+              "lemma": "need",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/need"
+            }
+          ]
+        },
+        {
+          "line": "2502–2511",
+          "speaker": "coriolanus",
+          "en": "Fare you well.\nThou hast years upon thee, and thou art too full\nOf the wars’ surfeits to go rove with one\nThat’s yet unbruised. Bring me but out at gate.—\nCome, my sweet wife, my dearest mother, and\nMy friends of noble touch. When I am forth,\nBid me farewell, and smile. I pray you, come.\nWhile I remain above the ground, you shall\nHear from me still, and never of me aught\nBut what is like me formerly.",
+          "es": "Que te vaya bien.\nYa tienes muchos años y has sufrido demasiados\nexcesos de la guerra para andar errante con alguien\nque todavía no ha recibido sus golpes. Acompáñame solo hasta la puerta.\nVengan, mi dulce esposa, mi queridísima madre\ny mis amigos de noble condición. Cuando haya salido,\ndespídanse de mí con una sonrisa. Les ruego que vengan.\nMientras siga vivo, tendrán noticias mías,\ny nunca oirán de mí nada\nque no esté a la altura de quien siempre he sido.",
+          "notes": [
+            {
+              "term": "wars’ surfeits",
+              "title": "wars’ surfeits",
+              "type": "Nota filológica",
+              "gloss": "excesos y penalidades de la guerra",
+              "body": "«Surfeits» evoca saturación o exceso; Coriolano considera que Cominio ya ha soportado demasiado. Fuentes: Folger Shakespeare Library, Coriolanus IV.1 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/1/); MIT Shakespeare, IV.1 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.1.html).",
+              "lemma": "surfeit",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/surfeit"
+            },
+            {
+              "term": "rove",
+              "title": "rove",
+              "type": "Nota filológica",
+              "gloss": "vagar; andar errante",
+              "body": "El verbo subraya la incertidumbre del exilio, contrapuesta al descanso que Cominio necesita. Fuentes: Folger Shakespeare Library, Coriolanus IV.1 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/1/); MIT Shakespeare, IV.1 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.1.html).",
+              "lemma": "rove",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/rove"
+            },
+            {
+              "term": "unbruised",
+              "title": "unbruised",
+              "type": "Nota filológica",
+              "gloss": "todavía sin magulladuras",
+              "body": "La oposición con el veterano Cominio es figurada: Coriolano se presenta como aún capaz de afrontar nuevos golpes. Fuentes: Folger Shakespeare Library, Coriolanus IV.1 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/1/); MIT Shakespeare, IV.1 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.1.html).",
+              "lemma": "bruise",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/bruise"
+            },
+            {
+              "term": "noble touch",
+              "title": "noble touch",
+              "type": "Nota filológica",
+              "gloss": "noble temple; calidad probada",
+              "body": "«Touch» puede sugerir calidad o autenticidad, por analogía con la prueba de metales; aquí es una caracterización elogiosa de sus amigos. Fuentes: Folger Shakespeare Library, Coriolanus IV.1 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/1/); MIT Shakespeare, IV.1 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.1.html).",
+              "lemma": "touch",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/touch"
+            },
+            {
+              "term": "above the ground",
+              "title": "above the ground",
+              "type": "Nota filológica",
+              "gloss": "con vida; sobre la tierra",
+              "body": "Perífrasis que contrapone estar vivo a yacer enterrado. Fuentes: Folger Shakespeare Library, Coriolanus IV.1 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/1/); MIT Shakespeare, IV.1 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.1.html).",
+              "lemma": "ground",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/ground"
+            },
+            {
+              "term": "like me formerly",
+              "title": "like me formerly",
+              "type": "Nota filológica",
+              "gloss": "acorde con quien fui siempre",
+              "body": "La despedida afirma continuidad de carácter pese al cambio de fortuna; es una declaración del personaje, no una garantía de la acción futura. Fuentes: Folger Shakespeare Library, Coriolanus IV.1 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/1/); MIT Shakespeare, IV.1 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.1.html)."
             }
           ]
         }
