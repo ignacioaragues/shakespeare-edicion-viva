@@ -1174,13 +1174,22 @@
       "last_line": 2408,
       "editorial_state": "translated_source_checked_external_references",
       "note": "One complete sentencing speech by Sicinius; Folger online and Owl Eyes compared; seven contextual notes with Spanish glosses. Private references and retrospective review pending."
+    },
+    {
+      "id": "coriolanus-3-3-2409-2425",
+      "act": 3,
+      "scene": 3,
+      "first_line": 2409,
+      "last_line": 2425,
+      "editorial_state": "translated_source_checked_external_references",
+      "note": "Seven complete speech blocks; Folger III.3 compared with MIT and Owl Eyes. Cominius' interrupted appeal, rejection by tribunes, and plebeian refrain. Private references and retrospective review pending."
     }
   ],
   "next_fragment": {
     "act": 3,
     "scene": 3,
-    "first_line": 2409,
-    "note": "The plebeians acclaim the sentence, Cominius attempts to intervene; stop at a complete speech boundary."
+    "first_line": 2426,
+    "note": "Coriolanus' full farewell/retort (2426–2441); preserve speech intact."
   },
   "completed_acts": [],
   "last_update_commit": "pending_atomic_commit",
