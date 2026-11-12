@@ -23419,6 +23419,139 @@ window.SHAKESPEARE_READER_DATA = {
               "body": "La amenaza puede leerse como anticipo del conflicto mortal entre ambos; el pasaje no especifica todavía la acusación concreta. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus, IV.7 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/7/; MIT Shakespeare, Coriolanus IV.7, https://shakespeare.mit.edu/coriolanus/coriolanus.4.7.html."
             }
           ]
+        },
+        {
+          "line": "3165",
+          "speaker": "lieutenant",
+          "en": "Sir, I beseech you, think you he’ll carry Rome?",
+          "es": "Señor, se lo ruego: ¿cree que conquistará Roma?",
+          "notes": [
+            {
+              "term": "carry Rome",
+              "title": "carry Rome",
+              "type": "Nota filológica",
+              "gloss": "conquistar Roma",
+              "body": "Carry tiene aquí el sentido militar de tomar o conquistar una plaza, no el de transportar. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.7 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/7/; Shakespeare Online, Coriolanus IV.7, https://www.shakespeare-online.com/plays/corio_4_7.html.",
+              "lemma": "carry",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/carry"
+            }
+          ]
+        },
+        {
+          "line": "3166–3197",
+          "speaker": "aufidius",
+          "en": "All places yields to him ere he sits down,\nAnd the nobility of Rome are his;\nThe Senators and Patricians love him too.\nThe Tribunes are no soldiers, and their people\nWill be as rash in the repeal as hasty\nTo expel him thence. I think he’ll be to Rome\nAs is the osprey to the fish, who takes it\nBy sovereignty of nature. First, he was\nA noble servant to them, but he could not\nCarry his honors even. Whether ’twas pride,\nWhich out of daily fortune ever taints\nThe happy man; whether defect of judgment,\nTo fail in the disposing of those chances\nWhich he was lord of; or whether nature,\nNot to be other than one thing, not moving\nFrom th’ casque to th’ cushion, but commanding\npeace\nEven with the same austerity and garb\nAs he controlled the war; but one of these—\nAs he hath spices of them all—not all,\nFor I dare so far free him—made him feared,\nSo hated, and so banished. But he has a merit\nTo choke it in the utt’rance. So our virtues\nLie in th’ interpretation of the time,\nAnd power, unto itself most commendable,\nHath not a tomb so evident as a chair\nT’ extol what it hath done.\nOne fire drives out one fire, one nail one nail;\nRights by rights falter; strengths by strengths do\nfail.\nCome, let’s away. When, Caius, Rome is thine,\nThou art poor’st of all; then shortly art thou mine.",
+          "es": "Todas las plazas se le rinden antes de que las sitie,\ny la nobleza de Roma está de su parte;\ntambién lo aprecian los senadores y los patricios.\nLos tribunos no son soldados, y su pueblo\nse apresurará tanto a revocar el destierro\ncomo se apresuró a expulsarlo. Creo que para Roma\nserá como el águila pescadora para el pez: lo captura\npor el dominio que le concede la naturaleza. Al principio,\nél fue un noble servidor de los romanos, pero no supo\nllevar sus honores con equilibrio. Quizá fue el orgullo,\nque la buena fortuna cotidiana acaba por infundir\nincluso al hombre afortunado; quizá la falta de juicio,\npor no saber aprovechar las oportunidades\nque estaban en sus manos; o quizá su propia naturaleza,\nincapaz de ser otra cosa, de pasar\ndel casco militar al asiento del magistrado,\npues pretendía gobernar la paz\ncon la misma severidad y los mismos modales\ncon que dirigía la guerra. Alguno de estos defectos\n—tiene algo de todos, aunque no todos por entero,\ny hasta ese punto puedo disculparlo— hizo que le temieran,\nque lo odiaran y que lo desterraran. Pero posee un mérito\ntan grande que cuesta incluso expresarlo. Así, nuestras virtudes\ndependen de cómo las interprete cada época;\ny el poder, que a sus propios ojos merece toda alabanza,\nno encuentra tumba más visible que el asiento\ndesde el cual proclama sus propias hazañas.\nUn fuego desplaza a otro fuego, un clavo a otro clavo;\nun derecho hace flaquear a otro, una fuerza derrota a otra.\nVamos, marchémonos. Cuando Roma sea tuya, Cayo,\nserás el más pobre de todos; y poco después serás mío.",
+          "notes": [
+            {
+              "term": "All places yields",
+              "title": "All places yields",
+              "type": "Nota filológica",
+              "gloss": "todas las plazas se rinden",
+              "body": "Folger conserva la concordancia singular yields con el sujeto plural places; otras ediciones modernizan a yield. No es necesario reproducir la discordancia en español. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.7 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/7/; Shakespeare Online, Coriolanus IV.7, https://www.shakespeare-online.com/plays/corio_4_7.html.",
+              "lemma": "yield",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/yield"
+            },
+            {
+              "term": "ere he sits down",
+              "title": "ere he sits down",
+              "type": "Nota filológica",
+              "gloss": "antes de que establezca el sitio",
+              "body": "Sit down puede aludir a instalar un campamento o iniciar un asedio; aquí describe rendiciones antes de la operación militar formal. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.7 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/7/; Shakespeare Online, Coriolanus IV.7, https://www.shakespeare-online.com/plays/corio_4_7.html.",
+              "lemma": "sit",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/sit"
+            },
+            {
+              "term": "repeal",
+              "title": "repeal",
+              "type": "Nota filológica",
+              "gloss": "revocación del destierro",
+              "body": "El sustantivo alude a anular el destierro y permitir el regreso, no a repetir la expulsión. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.7 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/7/; Shakespeare Online, Coriolanus IV.7, https://www.shakespeare-online.com/plays/corio_4_7.html.",
+              "lemma": "repeal",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/repeal"
+            },
+            {
+              "term": "osprey",
+              "title": "osprey",
+              "type": "Nota filológica",
+              "gloss": "águila pescadora",
+              "body": "Ave rapaz especializada en capturar peces. El símil naturaliza la supremacía militar de Coriolano: es la perspectiva de Aufidio, no una ley política. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.7 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/7/; Shakespeare Online, Coriolanus IV.7, https://www.shakespeare-online.com/plays/corio_4_7.html.",
+              "lemma": "osprey",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/osprey"
+            },
+            {
+              "term": "Carry his honors even",
+              "title": "Carry his honors even",
+              "type": "Nota filológica",
+              "gloss": "llevar sus honores con equilibrio",
+              "body": "Even funciona como adverbio de mesura o regularidad; Aufidio considera que Coriolano no supo administrar políticamente su prestigio. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.7 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/7/; Shakespeare Online, Coriolanus IV.7, https://www.shakespeare-online.com/plays/corio_4_7.html.",
+              "lemma": "even",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/even"
+            },
+            {
+              "term": "From th’ casque to th’ cushion",
+              "title": "From th’ casque to th’ cushion",
+              "type": "Nota filológica",
+              "gloss": "del casco al asiento del magistrado",
+              "body": "Casque es casco militar; cushion, cojín o asiento de autoridad civil. La antítesis condensa la incapacidad de cambiar el estilo de mando de la guerra a la paz. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.7 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/7/; Shakespeare Online, Coriolanus IV.7, https://www.shakespeare-online.com/plays/corio_4_7.html.",
+              "lemma": "casque",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/casque"
+            },
+            {
+              "term": "spices of them all",
+              "title": "spices of them all",
+              "type": "Nota filológica",
+              "gloss": "algo de todos esos defectos",
+              "body": "Spices significa aquí matices o pequeñas porciones; Aufidio matiza su diagnóstico y evita atribuirle por completo cada defecto. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.7 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/7/; Shakespeare Online, Coriolanus IV.7, https://www.shakespeare-online.com/plays/corio_4_7.html.",
+              "lemma": "spice",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/spice"
+            },
+            {
+              "term": "a merit / To choke it in the utt’rance",
+              "title": "a merit / To choke it in the utt’rance",
+              "type": "Nota filológica",
+              "gloss": "un mérito tan grande que cuesta expresarlo",
+              "body": "La construcción es difícil: merit puede señalar una virtud que sofoca el intento de nombrarla; se conserva la ambigüedad entre elogio sincero y cálculo hostil. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.7 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/7/; Shakespeare Online, Coriolanus IV.7, https://www.shakespeare-online.com/plays/corio_4_7.html.",
+              "lemma": "merit",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/merit"
+            },
+            {
+              "term": "interpretation of the time",
+              "title": "interpretation of the time",
+              "type": "Nota filológica",
+              "gloss": "interpretación de cada época",
+              "body": "Aforismo sobre el carácter histórico y variable del juicio público: las mismas cualidades pueden ser admiradas o condenadas según las circunstancias. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.7 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/7/; Shakespeare Online, Coriolanus IV.7, https://www.shakespeare-online.com/plays/corio_4_7.html.",
+              "lemma": "interpretation",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/interpretation"
+            },
+            {
+              "term": "a tomb so evident as a chair",
+              "title": "a tomb so evident as a chair",
+              "type": "Nota filológica",
+              "gloss": "una tumba tan visible como un asiento de poder",
+              "body": "Paradoja política: el cargo desde el cual el poder se ensalza puede convertirse en el lugar de su ruina. La imagen no es una descripción literal. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.7 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/7/; Shakespeare Online, Coriolanus IV.7, https://www.shakespeare-online.com/plays/corio_4_7.html.",
+              "lemma": "chair",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/chair"
+            },
+            {
+              "term": "One fire drives out one fire",
+              "title": "One fire drives out one fire",
+              "type": "Nota filológica",
+              "gloss": "un fuego desplaza a otro fuego",
+              "body": "Paralelismo proverbial de sustitución y rivalidad, reforzado por nail/nail y rights/rights. Aufidio proyecta que una fuerza vencerá a otra. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.7 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/7/; Shakespeare Online, Coriolanus IV.7, https://www.shakespeare-online.com/plays/corio_4_7.html.",
+              "lemma": "fire",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/fire"
+            },
+            {
+              "term": "poor’st of all",
+              "title": "poor’st of all",
+              "type": "Nota filológica",
+              "gloss": "el más pobre de todos",
+              "body": "Superlativo contraído poorest; anticipa irónicamente que la conquista de Roma dejará a Coriolano despojado y vulnerable. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.7 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/7/; Shakespeare Online, Coriolanus IV.7, https://www.shakespeare-online.com/plays/corio_4_7.html.",
+              "lemma": "poor",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/poor"
+            }
+          ]
         }
       ]
     }

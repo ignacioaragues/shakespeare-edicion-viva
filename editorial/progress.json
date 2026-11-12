@@ -1552,13 +1552,22 @@
       "last_line": 3164,
       "editorial_state": "translated_source_checked_external_references",
       "note": "Cinco parlamentos completos, 28 líneas. Prestigio militar de Coriolano, metáfora del plan cojo, comparativo more proudlier y amenaza de rendición de cuentas; Folger y MIT; revisión privada pendiente."
+    },
+    {
+      "id": "coriolanus-4-7-3165-3197",
+      "act": 4,
+      "scene": 7,
+      "first_line": 3165,
+      "last_line": 3197,
+      "editorial_state": "translated_source_checked_external_references",
+      "note": "Cierre de IV.7: pregunta del teniente y parlamento íntegro de Aufidio (32 versos); cotejo Folger IV.7 y Shakespeare Online; variantes yields/yield y antítesis casque/cushion. Cotejo privado y revisión retrospectiva pendientes."
     }
   ],
   "next_fragment": {
-    "act": 4,
-    "scene": 7,
-    "first_line": 3165,
-    "note": "Pregunta del teniente sobre la toma de Roma y respuesta de Aufidio; Folger IV.7."
+    "act": 5,
+    "scene": 1,
+    "first_line": 3198,
+    "note": "Inicio del acto V, escena 1: debate sobre las gestiones ante Coriolano; crear nueva escena navegable."
   },
   "completed_acts": [],
   "last_update_commit": "pending_atomic_commit",
