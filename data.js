@@ -22675,6 +22675,104 @@ window.SHAKESPEARE_READER_DATA = {
               "body": "Metonimia clasista: el olor atribuido a la comida popular representa la voz de los plebeyos. La expresión caracteriza el prejuicio del hablante, no al editor. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; Shakespeare Online, Coriolanus IV.6, https://www.shakespeare-online.com/plays/corio_4_6.html."
             }
           ]
+        },
+        {
+          "line": "3060",
+          "speaker": "cominius",
+          "en": "He’ll shake your Rome about your ears.",
+          "es": "Hará que esa Roma de ustedes se desplome sobre sus cabezas.",
+          "notes": [
+            {
+              "term": "shake your Rome about your ears",
+              "title": "shake your Rome about your ears",
+              "type": "Nota filológica",
+              "gloss": "hacer que Roma se desplome sobre sus cabezas",
+              "body": "La imagen de sacudir una estructura hasta derribarla convierte a la ciudad en una construcción amenazada. El posesivo your responsabiliza a los tribunos y toma distancia de su Roma. Cotejo: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus, IV.6 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; Shakespeare Online, Coriolanus, IV.6, https://www.shakespeare-online.com/plays/corio_4_6.html.",
+              "lemma": "shake",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/shake"
+            }
+          ]
+        },
+        {
+          "line": "3061–3062",
+          "speaker": "menenius",
+          "en": "As Hercules\nDid shake down mellow fruit.\nYou have made fair work.",
+          "es": "Como Hércules hacía caer\nla fruta madura de los árboles.\n¡Menuda obra han hecho!",
+          "notes": [
+            {
+              "term": "As Hercules / Did shake down mellow fruit",
+              "title": "As Hercules / Did shake down mellow fruit",
+              "type": "Nota filológica",
+              "gloss": "como Hércules hacía caer la fruta madura",
+              "body": "Alusión mitológica a la fuerza de Hércules; la comparación presenta la caída de Roma como si fuera tan fácil como desprender fruta madura. No es necesario identificarla con un trabajo concreto de Hércules. Cotejo: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus, IV.6 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; Shakespeare Online, Coriolanus, IV.6, https://www.shakespeare-online.com/plays/corio_4_6.html.",
+              "lemma": "Hercules",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/Hercules"
+            },
+            {
+              "term": "fair work",
+              "title": "fair work",
+              "type": "Nota filológica",
+              "gloss": "menuda obra",
+              "body": "La fórmula es irónica: Menenio acusa a los tribunos, no los felicita. Cotejo: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus, IV.6 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; Shakespeare Online, Coriolanus, IV.6, https://www.shakespeare-online.com/plays/corio_4_6.html."
+            }
+          ]
+        },
+        {
+          "line": "3063",
+          "speaker": "brutus",
+          "en": "But is this true, sir?",
+          "es": "Pero ¿es verdad todo esto, señor?",
+          "notes": []
+        },
+        {
+          "line": "3064–3069",
+          "speaker": "cominius",
+          "en": "Ay, and you’ll look pale\nBefore you find it other. All the regions\nDo smilingly revolt, and who resists\nAre mocked for valiant ignorance\nAnd perish constant fools. Who is ’t can blame him?\nYour enemies and his find something in him.",
+          "es": "Sí, y palidecerán\nantes de descubrir que no es así. Todas las regiones\nse pasan alegremente a su bando; quienes resisten\nson objeto de burlas por su ignorancia valerosa\ny mueren como necios obstinados. ¿Quién puede culparlo?\nTanto los enemigos de ustedes como los de él encuentran algo que admirar en su persona.",
+          "notes": [
+            {
+              "term": "smilingly revolt",
+              "title": "smilingly revolt",
+              "type": "Nota filológica",
+              "gloss": "se pasan alegremente al otro bando",
+              "body": "Revolt indica aquí defección o cambio de lealtad, no necesariamente una sublevación popular contra el poder local; smilingly enfatiza la facilidad y satisfacción con que ocurre. Cotejo: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus, IV.6 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; Shakespeare Online, Coriolanus, IV.6, https://www.shakespeare-online.com/plays/corio_4_6.html.",
+              "lemma": "revolt",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/revolt"
+            },
+            {
+              "term": "valiant ignorance",
+              "title": "valiant ignorance",
+              "type": "Nota filológica",
+              "gloss": "ignorancia valerosa",
+              "body": "Oxímoron valorativo: Cominio concede valor a quienes resisten, pero los presenta como incapaces de comprender la desproporción de fuerzas. Cotejo: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus, IV.6 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; Shakespeare Online, Coriolanus, IV.6, https://www.shakespeare-online.com/plays/corio_4_6.html."
+            },
+            {
+              "term": "constant fools",
+              "title": "constant fools",
+              "type": "Nota filológica",
+              "gloss": "necios obstinados",
+              "body": "Constant conserva la idea de firmeza, pero el contexto la invierte irónicamente: perseverar contra Coriolano equivale, para Cominio, a una obstinación fatal. Cotejo: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus, IV.6 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; Shakespeare Online, Coriolanus, IV.6, https://www.shakespeare-online.com/plays/corio_4_6.html.",
+              "lemma": "constant",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/constant"
+            }
+          ]
+        },
+        {
+          "line": "3070–3071",
+          "speaker": "menenius",
+          "en": "We are all undone, unless\nThe noble man have mercy.",
+          "es": "Estamos todos perdidos, a menos que\nese noble hombre tenga piedad de nosotros.",
+          "notes": [
+            {
+              "term": "unless / The noble man have mercy",
+              "title": "unless / The noble man have mercy",
+              "type": "Nota filológica",
+              "gloss": "a menos que ese noble hombre tenga piedad",
+              "body": "Have es subjuntivo presente sin -s tras unless, forma posible en el inglés de Shakespeare; el desenlace depende ahora de la clemencia personal de Coriolano. Cotejo: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus, IV.6 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; Shakespeare Online, Coriolanus, IV.6, https://www.shakespeare-online.com/plays/corio_4_6.html.",
+              "lemma": "have",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/have"
+            }
+          ]
         }
       ]
     }

@@ -1498,13 +1498,22 @@
       "last_line": 3059,
       "editorial_state": "translated_source_checked_external_references",
       "note": "Tres parlamentos completos; ironía de Menenio, hipérbole divina de Cominio y desprecio clasista hacia los trabajadores. Folger y Shakespeare Online; cotejo privado y revisión retrospectiva pendientes."
+    },
+    {
+      "id": "coriolanus-4-6-3060-3071",
+      "act": 4,
+      "scene": 6,
+      "first_line": 3060,
+      "last_line": 3071,
+      "editorial_state": "translated_source_checked_external_references",
+      "note": "Cinco parlamentos completos: amenaza de Cominio, Hércules, deserciones y petición de clemencia; cotejo Folger IV.6 y Shakespeare Online, con glosas y enlaces léxicos. Revisión retrospectiva y cotejo privado pendientes."
     }
   ],
   "next_fragment": {
     "act": 4,
     "scene": 6,
-    "first_line": 3060,
-    "note": "Cominio anuncia la amenaza a Roma; continuar por parlamentos completos."
+    "first_line": 3072,
+    "note": "Cominio pregunta quién puede solicitar clemencia a Coriolano."
   },
   "completed_acts": [],
   "last_update_commit": "pending_atomic_commit",
