@@ -19981,7 +19981,7 @@ window.SHAKESPEARE_READER_DATA = {
       "scene": 5,
       "place": "Ancio · Casa de Aufidio",
       "sourceRef": "Folger Shakespeare Library · Acto IV, escena 5",
-      "sectionLabel": "Edición en curso · líneas 2677–2865",
+      "sectionLabel": "Edición en curso · líneas 2677–2886",
       "introduction": "En medio de los preparativos de un banquete, los criados de Aufidio confunden al desterrado Coriolano con un intruso de condición humilde y procuran echarlo.",
       "stage": "Suena música. Entra el primer criado, que sale tras pedir vino. Entra el segundo criado y sale buscando a Coto. Entra Coriolano, disfrazado. El primer criado entra y sale; luego vuelve a entrar el segundo criado. Entra el tercer criado y el primero lo intercepta; el primero se aparta. Coriolano empuja al tercero; el segundo sale para avisar a Aufidio. El tercer criado interroga a Coriolano; este lo golpea y lo expulsa. Entran Aufidio y el segundo criado, que se aparta. Coriolano se descubre el rostro y comienza a revelarse ante su antiguo enemigo.",
       "characters": [
@@ -20018,6 +20018,13 @@ window.SHAKESPEARE_READER_DATA = {
           "name": "Tulo Aufidio",
           "english": "Tullus Aufidius",
           "identity": "General volsco y antiguo rival de Coriolano.",
+          "color": "olive"
+        },
+        {
+          "id": "both-servingmen",
+          "name": "Primer y segundo criados",
+          "english": "First and Second Servingmen",
+          "identity": "Los dos criados que responden al unísono al tercero.",
           "color": "olive"
         }
       ],
@@ -21130,6 +21137,161 @@ window.SHAKESPEARE_READER_DATA = {
           "speaker": "first-servingman",
           "en": "Ay, and for an assault too.",
           "es": "Sí, y también para asaltarla.",
+          "notes": []
+        },
+        {
+          "line": "2866–2867",
+          "speaker": "third-servingman",
+          "en": "O slaves, I can tell you news, news,\nyou rascals!",
+          "es": "¡Ah, esclavos! ¡Tengo noticias para ustedes, noticias,\ncanallas!",
+          "notes": []
+        },
+        {
+          "line": "2868",
+          "speaker": "both-servingmen",
+          "en": "What, what, what? Let’s partake!",
+          "es": "¿Qué, qué, qué? ¡Cuéntanos!",
+          "notes": [
+            {
+              "term": "Let’s partake",
+              "title": "Let’s partake",
+              "type": "Nota filológica",
+              "gloss": "¡cuéntanos!",
+              "body": "Partake significa participar o compartir; aquí los criados piden participar de las noticias, no de una comida, pese al banquete de fondo. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus, IV.5, FTLN 2866–2886, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; William Shakespeare, Coriolanus, IV.5, Shakespeare Online, https://www.shakespeare-online.com/plays/corio_4_5.html.",
+              "lemma": "partake",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/partake"
+            }
+          ]
+        },
+        {
+          "line": "2869–2870",
+          "speaker": "third-servingman",
+          "en": "I would not be a Roman, of all nations;\nI had as lief be a condemned man.",
+          "es": "De todos los pueblos, el último al que querría pertenecer es el romano;\npreferiría ser un condenado.",
+          "notes": [
+            {
+              "term": "had as lief",
+              "title": "had as lief",
+              "type": "Nota filológica",
+              "gloss": "preferiría",
+              "body": "Construcción idiomática histórica de preferencia, con had y lief ('gustosamente'); no expresa literalmente una obligación. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus, IV.5, FTLN 2866–2886, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; William Shakespeare, Coriolanus, IV.5, Shakespeare Online, https://www.shakespeare-online.com/plays/corio_4_5.html.",
+              "lemma": "lief",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/lief"
+            }
+          ]
+        },
+        {
+          "line": "2871",
+          "speaker": "both-servingmen",
+          "en": "Wherefore? Wherefore?",
+          "es": "¿Por qué? ¿Por qué?",
+          "notes": [
+            {
+              "term": "Wherefore",
+              "title": "Wherefore",
+              "type": "Nota filológica",
+              "gloss": "¿por qué?",
+              "body": "Interrogativo causal: no pregunta por un lugar, sino por el motivo. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus, IV.5, FTLN 2866–2886, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; William Shakespeare, Coriolanus, IV.5, Shakespeare Online, https://www.shakespeare-online.com/plays/corio_4_5.html.",
+              "lemma": "wherefore",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/wherefore"
+            }
+          ]
+        },
+        {
+          "line": "2872–2873",
+          "speaker": "third-servingman",
+          "en": "Why, here’s he that was wont to\nthwack our general, Caius Martius.",
+          "es": "¡Pues aquí está Cayo Marcio, el que solía\ndarle palizas a nuestro general!",
+          "notes": [
+            {
+              "term": "was wont to / thwack",
+              "title": "was wont to / thwack",
+              "type": "Nota filológica",
+              "gloss": "solía / dar palizas",
+              "body": "Wont to indica costumbre pasada; thwack es un verbo coloquial de golpear con fuerza. La fanfarronería del criado reduce los duelos militares a una paliza. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus, IV.5, FTLN 2866–2886, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; William Shakespeare, Coriolanus, IV.5, Shakespeare Online, https://www.shakespeare-online.com/plays/corio_4_5.html.",
+              "lemma": "wont",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/wont"
+            }
+          ]
+        },
+        {
+          "line": "2874–2875",
+          "speaker": "first-servingman",
+          "en": "Why do you say “thwack our\ngeneral”?",
+          "es": "¿Por qué dices «darle palizas a nuestro\ngeneral»?",
+          "notes": []
+        },
+        {
+          "line": "2876–2877",
+          "speaker": "third-servingman",
+          "en": "I do not say “thwack our general,”\nbut he was always good enough for him.",
+          "es": "Yo no digo «darle palizas a nuestro general»,\npero siempre fue un rival más que capaz de enfrentarlo.",
+          "notes": [
+            {
+              "term": "good enough for him",
+              "title": "good enough for him",
+              "type": "Nota filológica",
+              "gloss": "más que capaz de enfrentarlo",
+              "body": "Expresión elíptica y deliberadamente evasiva: tras la protesta, el criado suaviza la afirmación sin negar la superioridad militar de Marcio. Esta explicación es contextual, no una variante textual. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus, IV.5, FTLN 2866–2886, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; William Shakespeare, Coriolanus, IV.5, Shakespeare Online, https://www.shakespeare-online.com/plays/corio_4_5.html."
+            }
+          ]
+        },
+        {
+          "line": "2878–2880",
+          "speaker": "second-servingman",
+          "en": "Come, we are fellows and friends.\nHe was ever too hard for him; I have heard him\nsay so himself.",
+          "es": "Vamos, somos compañeros y amigos.\nSiempre fue superior a él; yo mismo le he oído\ndecirlo.",
+          "notes": [
+            {
+              "term": "too hard for him",
+              "title": "too hard for him",
+              "type": "Nota filológica",
+              "gloss": "superior a él",
+              "body": "Too hard for equivale aquí a ser un adversario demasiado fuerte para otro; el segundo criado pasa de defender a su general a admitir su inferioridad. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus, IV.5, FTLN 2866–2886, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; William Shakespeare, Coriolanus, IV.5, Shakespeare Online, https://www.shakespeare-online.com/plays/corio_4_5.html.",
+              "lemma": "hard",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/hard"
+            }
+          ]
+        },
+        {
+          "line": "2881–2883",
+          "speaker": "first-servingman",
+          "en": "He was too hard for him directly, to\nsay the truth on ’t, before Corioles; he scotched\nhim and notched him like a carbonado.",
+          "es": "Era claramente superior a él, a decir\nverdad: ante Corioles lo llenó de cortes y tajos,\ncomo si fuera un trozo de carne preparado para asar.",
+          "notes": [
+            {
+              "term": "scotched / notched / carbonado",
+              "title": "scotched / notched / carbonado",
+              "type": "Nota filológica",
+              "gloss": "hizo cortes / muescas / carne tajada para asar",
+              "body": "Scotch y notch describen incisiones; carbonado es una pieza de carne marcada con cortes para cocinarla. La comparación culinaria rebaja cómicamente el duelo heroico al contexto del banquete. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus, IV.5, FTLN 2866–2886, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; William Shakespeare, Coriolanus, IV.5, Shakespeare Online, https://www.shakespeare-online.com/plays/corio_4_5.html.",
+              "lemma": "carbonado",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/carbonado"
+            }
+          ]
+        },
+        {
+          "line": "2884–2885",
+          "speaker": "second-servingman",
+          "en": "An he had been cannibally given,\nhe might have boiled and eaten him too.",
+          "es": "Si hubiera tenido inclinaciones caníbales,\ntambién podría haberlo hervido y comido.",
+          "notes": [
+            {
+              "term": "An / cannibally given",
+              "title": "An / cannibally given",
+              "type": "Nota filológica",
+              "gloss": "si / inclinado al canibalismo",
+              "body": "An funciona como conjunción condicional arcaica; given expresa disposición o inclinación. El chiste prolonga la metáfora culinaria del carbonado. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus, IV.5, FTLN 2866–2886, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; William Shakespeare, Coriolanus, IV.5, Shakespeare Online, https://www.shakespeare-online.com/plays/corio_4_5.html.",
+              "lemma": "an",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/an"
+            }
+          ]
+        },
+        {
+          "line": "2886",
+          "speaker": "first-servingman",
+          "en": "But, more of thy news.",
+          "es": "Pero sigue con tus noticias.",
           "notes": []
         }
       ]
