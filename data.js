@@ -19981,7 +19981,7 @@ window.SHAKESPEARE_READER_DATA = {
       "scene": 5,
       "place": "Ancio · Casa de Aufidio",
       "sourceRef": "Folger Shakespeare Library · Acto IV, escena 5",
-      "sectionLabel": "Edición en curso · líneas 2677–2886",
+      "sectionLabel": "Edición en curso · líneas 2677–2899",
       "introduction": "En medio de los preparativos de un banquete, los criados de Aufidio confunden al desterrado Coriolano con un intruso de condición humilde y procuran echarlo.",
       "stage": "Suena música. Entra el primer criado, que sale tras pedir vino. Entra el segundo criado y sale buscando a Coto. Entra Coriolano, disfrazado. El primer criado entra y sale; luego vuelve a entrar el segundo criado. Entra el tercer criado y el primero lo intercepta; el primero se aparta. Coriolano empuja al tercero; el segundo sale para avisar a Aufidio. El tercer criado interroga a Coriolano; este lo golpea y lo expulsa. Entran Aufidio y el segundo criado, que se aparta. Coriolano se descubre el rostro y comienza a revelarse ante su antiguo enemigo.",
       "characters": [
@@ -21293,6 +21293,82 @@ window.SHAKESPEARE_READER_DATA = {
           "en": "But, more of thy news.",
           "es": "Pero sigue con tus noticias.",
           "notes": []
+        },
+        {
+          "line": "2887–2899",
+          "speaker": "third-servingman",
+          "en": "Why, he is so made on here within\nas if he were son and heir to Mars; set at upper end\no’ th’ table; no question asked him by any of the\nsenators but they stand bald before him. Our general\nhimself makes a mistress of him, sanctifies\nhimself with ’s hand, and turns up the white o’ th’\neye to his discourse. But the bottom of the news is,\nour general is cut i’ th’ middle and but one half of\nwhat he was yesterday, for the other has half, by\nthe entreaty and grant of the whole table. He’ll go,\nhe says, and sowl the porter of Rome gates by th’\nears. He will mow all down before him and leave\nhis passage polled.",
+          "es": "Pues aquí dentro lo agasajan como si fuera hijo y heredero de Marte. Lo han sentado a la cabecera de la mesa, y cada vez que uno de los senadores le hace una pregunta, se descubre la cabeza ante él. Nuestro propio general lo trata como a una amante, se santifica tocándole la mano y pone los ojos en blanco mientras lo escucha hablar. Pero lo esencial de la noticia es que nuestro general ha quedado partido por la mitad: ya no es más que la mitad del hombre que era ayer, porque el otro se ha llevado la otra mitad de su mando, a petición y con el consentimiento de todos los comensales. Dice que irá a las puertas de Roma, agarrará al portero de las orejas y lo zarandeará; segará cuanto encuentre a su paso y dejará el camino completamente despejado.",
+          "notes": [
+            {
+              "term": "made on",
+              "title": "made on",
+              "type": "Nota filológica",
+              "gloss": "agasajado, tratado con grandes honores",
+              "body": "La locución expresa el extraordinario favor que recibe el recién llegado; el criado exagera la deferencia de los nobles. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.5, FTLN 2887–2899, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; Shakespeare Online, Coriolanus IV.5, https://www.shakespeare-online.com/plays/corio_4_5.html.",
+              "lemma": "make",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/make"
+            },
+            {
+              "term": "son and heir to Mars",
+              "title": "son and heir to Mars",
+              "type": "Nota filológica",
+              "gloss": "hijo y heredero de Marte",
+              "body": "La filiación imaginaria con el dios romano de la guerra magnifica la autoridad militar de Coriolano. Es una hipérbole del criado, no una genealogía mitológica literal. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.5, FTLN 2887–2899, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; Shakespeare Online, Coriolanus IV.5, https://www.shakespeare-online.com/plays/corio_4_5.html."
+            },
+            {
+              "term": "stand bald before him",
+              "title": "stand bald before him",
+              "type": "Nota filológica",
+              "gloss": "se descubren la cabeza ante él",
+              "body": "Bald alude aquí a estar sin sombrero, como señal de respeto, no necesariamente a la calvicie natural. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.5, FTLN 2887–2899, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; Shakespeare Online, Coriolanus IV.5, https://www.shakespeare-online.com/plays/corio_4_5.html.",
+              "lemma": "bald",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/bald"
+            },
+            {
+              "term": "makes a mistress of him / sanctifies himself",
+              "title": "makes a mistress of him / sanctifies himself",
+              "type": "Nota filológica",
+              "gloss": "lo trata como a una amante / se santifica",
+              "body": "El criado mezcla el lenguaje amoroso y el religioso para caricaturizar la admiración de Aufidio. La interpretación de «sanctifies» como reverencia casi devota procede de la escena y no describe un rito efectivo. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.5, FTLN 2887–2899, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; Shakespeare Online, Coriolanus IV.5, https://www.shakespeare-online.com/plays/corio_4_5.html.",
+              "lemma": "sanctify",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/sanctify"
+            },
+            {
+              "term": "the bottom of the news",
+              "title": "the bottom of the news",
+              "type": "Nota filológica",
+              "gloss": "lo esencial de la noticia",
+              "body": "Bottom designa aquí el fondo o núcleo del asunto; introduce la consecuencia militar concreta tras la descripción cómica del banquete. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.5, FTLN 2887–2899, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; Shakespeare Online, Coriolanus IV.5, https://www.shakespeare-online.com/plays/corio_4_5.html.",
+              "lemma": "bottom",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/bottom"
+            },
+            {
+              "term": "cut i’ th’ middle",
+              "title": "cut i’ th’ middle",
+              "type": "Nota filológica",
+              "gloss": "partido por la mitad",
+              "body": "Metáfora del reparto del mando: Aufidio concede a Coriolano la mitad de su comisión, como se ha anunciado en 2828. No se trata de una herida física. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.5, FTLN 2887–2899, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; Shakespeare Online, Coriolanus IV.5, https://www.shakespeare-online.com/plays/corio_4_5.html."
+            },
+            {
+              "term": "sowl ... by th’ ears",
+              "title": "sowl ... by th’ ears",
+              "type": "Nota filológica",
+              "gloss": "agarrar y zarandear de las orejas",
+              "body": "Sowl es un verbo raro de trato violento, asociado con agarrar o tirar de las orejas. La grafía y la intensidad exacta admiten matices; se conserva la imagen corporal. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.5, FTLN 2887–2899, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; Shakespeare Online, Coriolanus IV.5, https://www.shakespeare-online.com/plays/corio_4_5.html.",
+              "lemma": "sowl",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/sowl"
+            },
+            {
+              "term": "mow / polled",
+              "title": "mow / polled",
+              "type": "Nota filológica",
+              "gloss": "segar / despejado, rapado",
+              "body": "El juego combina la siega de enemigos con polled, 'despojado de lo que sobresale, cortado al ras'. La imagen de un camino rapado prolonga la violencia como trabajo de corte. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.5, FTLN 2887–2899, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; Shakespeare Online, Coriolanus IV.5, https://www.shakespeare-online.com/plays/corio_4_5.html.",
+              "lemma": "poll",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/poll"
+            }
+          ]
         }
       ]
     }
