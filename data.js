@@ -22587,6 +22587,94 @@ window.SHAKESPEARE_READER_DATA = {
               "lemmaUrl": "https://en.wiktionary.org/wiki/auger"
             }
           ]
+        },
+        {
+          "line": "3045–3048",
+          "speaker": "menenius",
+          "en": "Pray now, your news?—\nYou have made fair work, I fear me.—Pray, your\nnews?\nIf Martius should be joined with Volscians—",
+          "es": "Pero, por favor, ¿qué noticias hay?\nMe temo que han hecho ustedes una buena faena.\nPor favor, díganme qué sucede.\nSi Marcio se hubiera unido a los volscos...",
+          "notes": [
+            {
+              "term": "made fair work",
+              "title": "made fair work",
+              "type": "Nota filológica",
+              "gloss": "¡menuda faena han hecho!",
+              "body": "Expresión irónica: Menenio responsabiliza a los tribunos por las consecuencias del destierro; fair no implica aquí aprobación. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; Shakespeare Online, Coriolanus IV.6, https://www.shakespeare-online.com/plays/corio_4_6.html."
+            },
+            {
+              "term": "I fear me",
+              "title": "I fear me",
+              "type": "Nota filológica",
+              "gloss": "me temo",
+              "body": "Construcción con pronombre reflexivo o dativo ético histórico; equivale a I fear, sin indicar que Menenio se tema a sí mismo. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; Shakespeare Online, Coriolanus IV.6, https://www.shakespeare-online.com/plays/corio_4_6.html.",
+              "lemma": "fear",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/fear"
+            }
+          ]
+        },
+        {
+          "line": "3049–3055",
+          "speaker": "cominius",
+          "en": "If?\nHe is their god; he leads them like a thing\nMade by some other deity than Nature,\nThat shapes man better; and they follow him\nAgainst us brats with no less confidence\nThan boys pursuing summer butterflies\nOr butchers killing flies.",
+          "es": "¿Si?\n¡Es su dios! Los conduce como si fuera una criatura\nhecha por una divinidad distinta de la Naturaleza,\ncapaz de modelar mejor al ser humano. Y ellos lo siguen\ncontra nosotros, unos críos, con tanta seguridad\ncomo niños que persiguen mariposas en verano\no carniceros que matan moscas.",
+          "notes": [
+            {
+              "term": "If?",
+              "title": "If?",
+              "type": "Nota filológica",
+              "gloss": "¿Si?",
+              "body": "La réplica de una sola palabra rechaza el carácter hipotético de la alianza que Menenio acaba de plantear. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; Shakespeare Online, Coriolanus IV.6, https://www.shakespeare-online.com/plays/corio_4_6.html."
+            },
+            {
+              "term": "some other deity than Nature",
+              "title": "some other deity than Nature",
+              "type": "Nota filológica",
+              "gloss": "una divinidad distinta de la Naturaleza",
+              "body": "Personificación de Nature como creadora. Cominio atribuye a Coriolano una superioridad casi sobrehumana; es una hipérbole dramática, no una afirmación teológica. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; Shakespeare Online, Coriolanus IV.6, https://www.shakespeare-online.com/plays/corio_4_6.html."
+            },
+            {
+              "term": "us brats",
+              "title": "us brats",
+              "type": "Nota filológica",
+              "gloss": "nosotros, unos críos",
+              "body": "Brats degrada a los romanos a la condición de niños indefensos frente a la fuerza de Coriolano. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; Shakespeare Online, Coriolanus IV.6, https://www.shakespeare-online.com/plays/corio_4_6.html.",
+              "lemma": "brat",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/brat"
+            }
+          ]
+        },
+        {
+          "line": "3056–3059",
+          "speaker": "menenius",
+          "en": "You have made good work,\nYou and your apron-men, you that stood so much\nUpon the voice of occupation and\nThe breath of garlic eaters!",
+          "es": "¡Qué buena obra han hecho ustedes!\nUstedes y sus hombres de delantal, que tanto se apoyaron\nen los votos de los trabajadores\ny en el aliento de quienes comen ajo.",
+          "notes": [
+            {
+              "term": "apron-men",
+              "title": "apron-men",
+              "type": "Nota filológica",
+              "gloss": "hombres de delantal; artesanos",
+              "body": "Alusión despectiva a trabajadores manuales y comerciantes que usan delantal; revela el desprecio social de Menenio por los partidarios de los tribunos. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; Shakespeare Online, Coriolanus IV.6, https://www.shakespeare-online.com/plays/corio_4_6.html.",
+              "lemma": "apron",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/apron"
+            },
+            {
+              "term": "voice of occupation",
+              "title": "voice of occupation",
+              "type": "Nota filológica",
+              "gloss": "votos de los trabajadores",
+              "body": "Voice designa aquí voto o apoyo político; occupation, los oficios. El reproche es político y de clase, no una referencia a una ocupación militar. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; Shakespeare Online, Coriolanus IV.6, https://www.shakespeare-online.com/plays/corio_4_6.html.",
+              "lemma": "voice",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/voice"
+            },
+            {
+              "term": "breath of garlic eaters",
+              "title": "breath of garlic eaters",
+              "type": "Nota filológica",
+              "gloss": "aliento de quienes comen ajo",
+              "body": "Metonimia clasista: el olor atribuido a la comida popular representa la voz de los plebeyos. La expresión caracteriza el prejuicio del hablante, no al editor. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; Shakespeare Online, Coriolanus IV.6, https://www.shakespeare-online.com/plays/corio_4_6.html."
+            }
+          ]
         }
       ]
     }

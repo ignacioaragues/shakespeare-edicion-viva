@@ -1489,13 +1489,22 @@
       "last_line": 3044,
       "editorial_state": "translated_source_checked_external_references",
       "note": "Seis parlamentos completos, 16 líneas; Folger IV.6 cotejado con Shakespeare Online. Notas sobre holp, city leads, franchises, auger's bore; cotejo privado y revisión retrospectiva pendientes."
+    },
+    {
+      "id": "coriolanus-4-6-3045-3059",
+      "act": 4,
+      "scene": 6,
+      "first_line": 3045,
+      "last_line": 3059,
+      "editorial_state": "translated_source_checked_external_references",
+      "note": "Tres parlamentos completos; ironía de Menenio, hipérbole divina de Cominio y desprecio clasista hacia los trabajadores. Folger y Shakespeare Online; cotejo privado y revisión retrospectiva pendientes."
     }
   ],
   "next_fragment": {
     "act": 4,
     "scene": 6,
-    "first_line": 3045,
-    "note": "Respuesta de Menenio a Cominio; Folger IV.6."
+    "first_line": 3060,
+    "note": "Cominio anuncia la amenaza a Roma; continuar por parlamentos completos."
   },
   "completed_acts": [],
   "last_update_commit": "pending_atomic_commit",
