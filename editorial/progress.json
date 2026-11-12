@@ -1462,13 +1462,22 @@
       "last_line": 2981,
       "editorial_state": "translated_source_checked_external_references",
       "note": "Trece complete speech blocks: citizens greet tribunes, tribunes assess Coriolanus and praise Roman calm; Folger IV.6 compared with First Folio transcription. Contextual Spanish glosses and references. Private comparison and retrospective review pending."
+    },
+    {
+      "id": "coriolanus-4-6-2982-3006",
+      "act": 4,
+      "scene": 6,
+      "first_line": 2982,
+      "last_line": 3006,
+      "editorial_state": "translated_source_checked_external_references",
+      "note": "Siete parlamentos completos: noticia del edil, imagen de los cuernos de Aufidio y rechazo de los tribunos; cotejo Folger, First Folio y Shakespeare Online; glosas españolas. Cotejo privado y revisión retrospectiva pendientes."
     }
   ],
   "next_fragment": {
     "act": 4,
     "scene": 6,
-    "first_line": 2982,
-    "note": "Entrada del edil con noticias sobre los volscos; Folger IV.6."
+    "first_line": 3007,
+    "note": "Entrada del mensajero y convocatoria al Senado; Folger IV.6."
   },
   "completed_acts": [],
   "last_update_commit": "pending_atomic_commit",

@@ -21687,7 +21687,7 @@ window.SHAKESPEARE_READER_DATA = {
       "scene": 6,
       "place": "Roma · Un espacio público",
       "sourceRef": "Folger Shakespeare Library · Acto IV, escena 6",
-      "sectionLabel": "Edición en curso · líneas 2936–2981",
+      "sectionLabel": "Edición en curso · líneas 2936–3006",
       "introduction": "Los tribunos celebran la calma de Roma tras el destierro, ignorando la nueva alianza militar de Coriolano.",
       "stage": "Entran los tribunos Sicinio y Bruto. [Después de 2945 entra Menenio.]",
       "characters": [
@@ -21711,9 +21711,35 @@ window.SHAKESPEARE_READER_DATA = {
           "english": "Menenius",
           "identity": "Patricio y amigo de Coriolano.",
           "color": "slate"
-        },{"id":"citizens","name":"Ciudadanos","english":"Citizens","identity":"Vecinos de Roma.","color":"slate"},
-        {"id":"firstcitizen","name":"Primer ciudadano","english":"First Citizen","identity":"Uno de los ciudadanos romanos.","color":"slate"},
-        {"id":"tribunes","name":"Ambos tribunos","english":"Both Tribunes","identity":"Sicinio y Bruto, al unísono.","color":"olive"}
+        },
+        {
+          "id": "citizens",
+          "name": "Ciudadanos",
+          "english": "Citizens",
+          "identity": "Vecinos de Roma.",
+          "color": "slate"
+        },
+        {
+          "id": "firstcitizen",
+          "name": "Primer ciudadano",
+          "english": "First Citizen",
+          "identity": "Uno de los ciudadanos romanos.",
+          "color": "slate"
+        },
+        {
+          "id": "tribunes",
+          "name": "Ambos tribunos",
+          "english": "Both Tribunes",
+          "identity": "Sicinio y Bruto, al unísono.",
+          "color": "olive"
+        },
+        {
+          "id": "aedile",
+          "name": "Edil",
+          "english": "Aedile",
+          "identity": "Magistrado romano que transmite a los tribunos una denuncia de invasión.",
+          "color": "slate"
+        }
       ],
       "blocks": [
         {
@@ -22115,6 +22141,156 @@ window.SHAKESPEARE_READER_DATA = {
               "body": "La personificación de Roma en reposo intensifica la ironía dramática: el público conoce la alianza militar del desterrado. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6, FTLN 2958–2981, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; cotejo: First Folio (1623), transcripción en Wikisource, https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_%281910%29/The_Tragedy_of_Coriolanus/Act_4_Scene_6."
             }
           ]
+        },
+        {
+          "line": "2982–2987",
+          "speaker": "aedile",
+          "en": "Worthy tribunes,\nThere is a slave, whom we have put in prison,\nReports the Volsces with two several powers\nAre entered in the Roman territories,\nAnd with the deepest malice of the war\nDestroy what lies before ’em.",
+          "es": "Dignos tribunos:\nun esclavo al que hemos encarcelado informa\nque los volscos han entrado en territorio romano\ncon dos ejércitos distintos y que, con toda\nla crueldad de la guerra, destruyen cuanto\nencuentran a su paso.",
+          "notes": [
+            {
+              "term": "two several powers",
+              "title": "two several powers",
+              "type": "Nota filológica",
+              "gloss": "dos ejércitos distintos",
+              "body": "Power designa aquí una fuerza armada; several significa separadas o distintas, no necesariamente numerosas. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; cotejo textual: First Folio (1623), transcripción en Wikisource, https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_%281910%29/The_Tragedy_of_Coriolanus/Act_4_Scene_6."
+            },
+            {
+              "term": "deepest malice of the war",
+              "title": "deepest malice of the war",
+              "type": "Nota filológica",
+              "gloss": "toda la crueldad de la guerra",
+              "body": "La personificación de la guerra intensifica la descripción de los estragos. Malice apunta a la hostilidad destructiva, no a un delito jurídico. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; cotejo textual: First Folio (1623), transcripción en Wikisource, https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_%281910%29/The_Tragedy_of_Coriolanus/Act_4_Scene_6."
+            },
+            {
+              "term": "slave",
+              "title": "slave",
+              "type": "Nota filológica",
+              "gloss": "esclavo",
+              "body": "El mensajero original está encarcelado antes de que se investigue su informe; el texto pone en escena una reacción represiva a una noticia incómoda. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; cotejo textual: First Folio (1623), transcripción en Wikisource, https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_%281910%29/The_Tragedy_of_Coriolanus/Act_4_Scene_6."
+            }
+          ]
+        },
+        {
+          "line": "2988–2992",
+          "speaker": "menenius",
+          "en": "’Tis Aufidius,\nWho, hearing of our Martius’ banishment,\nThrusts forth his horns again into the world,\nWhich were inshelled when Martius stood for Rome,\nAnd durst not once peep out.",
+          "es": "Es Aufidio: al enterarse del destierro\nde nuestro Marcio, vuelve a sacar los cuernos\nal mundo. Los tenía metidos en su concha\nmientras Marcio defendía Roma,\ny ni siquiera se atrevía a asomarlos.",
+          "notes": [
+            {
+              "term": "Thrusts forth his horns",
+              "title": "Thrusts forth his horns",
+              "type": "Nota filológica",
+              "gloss": "vuelve a sacar los cuernos",
+              "body": "La imagen animal sugiere un ser que sale de su refugio; inshelled prolonga la comparación con un animal provisto de concha, como el caracol. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; cotejo textual: First Folio (1623), transcripción en Wikisource, https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_%281910%29/The_Tragedy_of_Coriolanus/Act_4_Scene_6."
+            },
+            {
+              "term": "inshelled",
+              "title": "inshelled",
+              "type": "Nota filológica",
+              "gloss": "metidos en su concha",
+              "body": "Participio figurado de inshell: encerrados en una concha; Menenio ridiculiza así la cautela previa de Aufidio. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; cotejo textual: First Folio (1623), transcripción en Wikisource, https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_%281910%29/The_Tragedy_of_Coriolanus/Act_4_Scene_6.",
+              "lemma": "inshell",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/inshell"
+            },
+            {
+              "term": "durst",
+              "title": "durst",
+              "type": "Nota filológica",
+              "gloss": "se atrevía",
+              "body": "Forma histórica del pasado de dare, aquí negada con not; no debe leerse como presente. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; cotejo textual: First Folio (1623), transcripción en Wikisource, https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_%281910%29/The_Tragedy_of_Coriolanus/Act_4_Scene_6.",
+              "lemma": "dare",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/dare"
+            }
+          ]
+        },
+        {
+          "line": "2993",
+          "speaker": "sicinius",
+          "en": "Come, what talk you of Martius?",
+          "es": "Vamos, ¿a qué viene hablar de Marcio?",
+          "notes": []
+        },
+        {
+          "line": "2994–2995",
+          "speaker": "brutus",
+          "en": "Go see this rumorer whipped. It cannot be\nThe Volsces dare break with us.",
+          "es": "Ve y haz que azoten a ese propagador de rumores.\nEs imposible que los volscos se atrevan a romper la paz con nosotros.",
+          "notes": [
+            {
+              "term": "rumorer",
+              "title": "rumorer",
+              "type": "Nota filológica",
+              "gloss": "propagador de rumores",
+              "body": "Bruto descalifica al informante sin verificar la noticia; el sustantivo identifica a quien difunde un rumor, no demuestra que mienta. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; cotejo textual: First Folio (1623), transcripción en Wikisource, https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_%281910%29/The_Tragedy_of_Coriolanus/Act_4_Scene_6."
+            },
+            {
+              "term": "break with us",
+              "title": "break with us",
+              "type": "Nota filológica",
+              "gloss": "romper la paz con nosotros",
+              "body": "Break with expresa ruptura de relaciones o de la paz; la amenaza es militar, no una mera discusión. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; cotejo textual: First Folio (1623), transcripción en Wikisource, https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_%281910%29/The_Tragedy_of_Coriolanus/Act_4_Scene_6.",
+              "lemma": "break",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/break"
+            }
+          ]
+        },
+        {
+          "line": "2996–3003",
+          "speaker": "menenius",
+          "en": "Cannot be?\nWe have record that very well it can,\nAnd three examples of the like hath been\nWithin my age. But reason with the fellow\nBefore you punish him, where he heard this,\nLest you shall chance to whip your information\nAnd beat the messenger who bids beware\nOf what is to be dreaded.",
+          "es": "¿Imposible?\nTenemos constancia de que es perfectamente posible,\ny en el curso de mi vida ha habido tres casos semejantes.\nPero antes de castigarlo, pregunta a ese hombre\ndónde oyó la noticia; no vaya a ser que termines\nazotando a tu propia fuente de información\ny golpeando al mensajero que te advierte\nde un peligro que debemos temer.",
+          "notes": [
+            {
+              "term": "three examples of the like hath been",
+              "title": "three examples of the like hath been",
+              "type": "Nota filológica",
+              "gloss": "ha habido tres casos semejantes",
+              "body": "Hath aparece con sujeto plural en esta construcción temprana; Menenio apela a la memoria histórica, pero no identifica los tres episodios. No corresponde asignarles acontecimientos concretos sin prueba. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; cotejo textual: First Folio (1623), transcripción en Wikisource, https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_%281910%29/The_Tragedy_of_Coriolanus/Act_4_Scene_6.",
+              "lemma": "have",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/have"
+            },
+            {
+              "term": "reason with the fellow",
+              "title": "reason with the fellow",
+              "type": "Nota filológica",
+              "gloss": "pregunta a ese hombre",
+              "body": "Reason with significa aquí interrogar o conversar para averiguar el origen de la noticia, no necesariamente persuadirlo de cambiar de opinión. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; cotejo textual: First Folio (1623), transcripción en Wikisource, https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_%281910%29/The_Tragedy_of_Coriolanus/Act_4_Scene_6.",
+              "lemma": "reason",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/reason"
+            },
+            {
+              "term": "whip your information",
+              "title": "whip your information",
+              "type": "Nota filológica",
+              "gloss": "azotando a tu propia fuente de información",
+              "body": "Metonimia: castigar al informante equivale a destruir la vía por la que llega una advertencia útil. La expresión anticipa la máxima moderna de no castigar al mensajero. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; cotejo textual: First Folio (1623), transcripción en Wikisource, https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_%281910%29/The_Tragedy_of_Coriolanus/Act_4_Scene_6."
+            }
+          ]
+        },
+        {
+          "line": "3004–3005",
+          "speaker": "sicinius",
+          "en": "Tell not me.\nI know this cannot be.",
+          "es": "No me vengas con eso.\nSé que es imposible.",
+          "notes": [
+            {
+              "term": "Tell not me",
+              "title": "Tell not me",
+              "type": "Nota filológica",
+              "gloss": "no me vengas con eso",
+              "body": "Imperativo negativo enfático; Sicinio rechaza el razonamiento sin responder a las pruebas aducidas. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; cotejo textual: First Folio (1623), transcripción en Wikisource, https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_%281910%29/The_Tragedy_of_Coriolanus/Act_4_Scene_6.",
+              "lemma": "tell",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/tell"
+            }
+          ]
+        },
+        {
+          "line": "3006",
+          "speaker": "brutus",
+          "en": "Not possible.",
+          "es": "Imposible.",
+          "notes": []
         }
       ]
     }
