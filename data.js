@@ -28,7 +28,8 @@ window.SHAKESPEARE_READER_DATA = {
         "coriolanus-4-2",
         "coriolanus-4-3",
         "coriolanus-4-4",
-        "coriolanus-4-5"
+        "coriolanus-4-5",
+        "coriolanus-4-6"
       ]
     }
   ],
@@ -21675,6 +21676,212 @@ window.SHAKESPEARE_READER_DATA = {
           "speaker": "both-servingmen",
           "en": "In, in, in, in! ⌜They exit.⌝",
           "es": "¡Adentro, adentro, adentro, adentro! [Salen.]",
+          "notes": []
+        }
+      ]
+    },
+    {
+      "id": "coriolanus-4-6",
+      "workId": "coriolanus",
+      "act": 4,
+      "scene": 6,
+      "place": "Roma · Un espacio público",
+      "sourceRef": "Folger Shakespeare Library · Acto IV, escena 6",
+      "sectionLabel": "Edición en curso · líneas 2936–2957",
+      "introduction": "Los tribunos celebran la calma de Roma tras el destierro, ignorando la nueva alianza militar de Coriolano.",
+      "stage": "Entran los tribunos Sicinio y Bruto. [Después de 2945 entra Menenio.]",
+      "characters": [
+        {
+          "id": "sicinius",
+          "name": "Sicinio Veluto",
+          "english": "Sicinius Velutus",
+          "identity": "Tribuno de la plebe.",
+          "color": "copper"
+        },
+        {
+          "id": "brutus",
+          "name": "Junio Bruto",
+          "english": "Junius Brutus",
+          "identity": "Tribuno de la plebe.",
+          "color": "olive"
+        },
+        {
+          "id": "menenius",
+          "name": "Menenio Agripa",
+          "english": "Menenius",
+          "identity": "Patricio y amigo de Coriolano.",
+          "color": "slate"
+        }
+      ],
+      "blocks": [
+        {
+          "line": "2936–2944",
+          "speaker": "sicinius",
+          "en": "We hear not of him, neither need we fear him.\nHis remedies are tame—the present peace,\nAnd quietness of the people, which before\nWere in wild hurry. Here do we make his friends\nBlush that the world goes well, who rather had,\nThough they themselves did suffer by ’t, behold\nDissentious numbers pest’ring streets than see\nOur tradesmen singing in their shops and going\nAbout their functions friendly.",
+          "es": "No tenemos noticias de él, ni tenemos por qué temerlo.\nSus remedios han perdido fuerza: ahora reinan la paz\ny la tranquilidad entre el pueblo, que antes\nandaba sumido en una agitación desenfrenada. Así hacemos\nque sus amigos se avergüencen de que todo marche bien:\npreferirían, aunque ellos mismos padecieran las consecuencias,\nver multitudes enfrentadas abarrotando las calles\nantes que a nuestros artesanos cantar en sus talleres\ny ocuparse amistosamente de sus tareas.",
+          "notes": [
+            {
+              "term": "His remedies are tame",
+              "title": "His remedies are tame",
+              "type": "Nota filológica",
+              "gloss": "sus remedios han perdido fuerza",
+              "body": "Remedies alude a las medidas que Coriolano podría intentar; tame indica su supuesta ineficacia ante la paz. Es la valoración de Sicinio, no un hecho comprobado. Referencia: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6, FTLN 2936–2957, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/.",
+              "lemma": "remedy",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/remedy"
+            },
+            {
+              "term": "wild hurry",
+              "title": "wild hurry",
+              "type": "Nota filológica",
+              "gloss": "agitación desenfrenada",
+              "body": "Contrasta el tumulto popular anterior con la quietud presente. Referencia: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6, FTLN 2936–2957, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/.",
+              "lemma": "hurry",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/hurry"
+            },
+            {
+              "term": "Dissentious numbers",
+              "title": "Dissentious numbers",
+              "type": "Nota filológica",
+              "gloss": "multitudes enfrentadas",
+              "body": "Numbers significa grupos numerosos; dissentious marca discordia política. Referencia: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6, FTLN 2936–2957, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/.",
+              "lemma": "dissentious",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/dissentious"
+            },
+            {
+              "term": "pest’ring streets",
+              "title": "pest’ring streets",
+              "type": "Nota filológica",
+              "gloss": "abarrotando o importunando las calles",
+              "body": "Contracción de pestering; la multitud se representa como una presencia molesta. Referencia: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6, FTLN 2936–2957, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/.",
+              "lemma": "pester",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/pester"
+            },
+            {
+              "term": "functions friendly",
+              "title": "functions friendly",
+              "type": "Nota filológica",
+              "gloss": "sus tareas en armonía",
+              "body": "Functions son las ocupaciones de los artesanos; friendly tiene aquí función adverbial. Referencia: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6, FTLN 2936–2957, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/.",
+              "lemma": "friendly",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/friendly"
+            }
+          ]
+        },
+        {
+          "line": "2945–2946",
+          "speaker": "brutus",
+          "en": "We stood to ’t in good time.\n⌜Enter Menenius.⌝ Is this Menenius?",
+          "es": "Actuamos a tiempo.\n[Entra Menenio.] ¿Es ese Menenio?",
+          "notes": [
+            {
+              "term": "stood to ’t",
+              "title": "stood to ’t",
+              "type": "Nota filológica",
+              "gloss": "sostuvimos nuestra decisión",
+              "body": "Bruto reivindica la firmeza y oportunidad de la expulsión. Referencia: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6, FTLN 2936–2957, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/.",
+              "lemma": "stand",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/stand"
+            }
+          ]
+        },
+        {
+          "line": "2947–2948",
+          "speaker": "sicinius",
+          "en": "’Tis he, ’tis he. O, he is grown most kind\nOf late.—Hail, sir.",
+          "es": "Es él, es él. ¡Oh, qué amable se ha vuelto\núltimamente! Salud, señor.",
+          "notes": [
+            {
+              "term": "is grown most kind",
+              "title": "is grown most kind",
+              "type": "Nota filológica",
+              "gloss": "se ha vuelto muy amable",
+              "body": "Grown expresa un cambio de estado; el comentario puede insinuar una moderación reciente de Menenio, sin demostrar reconciliación. Referencia: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6, FTLN 2936–2957, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/.",
+              "lemma": "grow",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/grow"
+            }
+          ]
+        },
+        {
+          "line": "2949",
+          "speaker": "menenius",
+          "en": "Hail to you both.",
+          "es": "Salud a los dos.",
+          "notes": []
+        },
+        {
+          "line": "2950–2952",
+          "speaker": "sicinius",
+          "en": "Your Coriolanus is not much missed\nBut with his friends. The commonwealth doth stand,\nAnd so would do were he more angry at it.",
+          "es": "A ese Coriolano suyo apenas lo echan de menos,\nsalvo sus amigos. La república sigue en pie,\ny seguiría estándolo aunque él estuviera todavía más furioso contra ella.",
+          "notes": [
+            {
+              "term": "But with his friends",
+              "title": "But with his friends",
+              "type": "Nota filológica",
+              "gloss": "excepto entre sus amigos",
+              "body": "But expresa excepción y with tiene el sentido de «entre». Referencia: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6, FTLN 2936–2957, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/.",
+              "lemma": "but",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/but"
+            },
+            {
+              "term": "commonwealth doth stand",
+              "title": "commonwealth doth stand",
+              "type": "Nota filológica",
+              "gloss": "la república sigue en pie",
+              "body": "Commonwealth designa el cuerpo político; doth es auxiliar de tercera persona singular. Referencia: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6, FTLN 2936–2957, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/.",
+              "lemma": "do",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/do"
+            },
+            {
+              "term": "were he more angry at it",
+              "title": "were he more angry at it",
+              "type": "Nota filológica",
+              "gloss": "aunque estuviera más furioso contra ella",
+              "body": "Condicional invertida sin if: were he equivale a if he were. Referencia: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6, FTLN 2936–2957, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/.",
+              "lemma": "be",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/be"
+            }
+          ]
+        },
+        {
+          "line": "2953–2954",
+          "speaker": "menenius",
+          "en": "All’s well, and might have been much better if\nHe could have temporized.",
+          "es": "Todo está bien, y podría haber estado mucho mejor\nsi él hubiera sabido adaptarse a las circunstancias.",
+          "notes": [
+            {
+              "term": "temporized",
+              "title": "temporized",
+              "type": "Nota filológica",
+              "gloss": "contemporizado; cedido oportunamente",
+              "body": "Temporize expresa la adaptación estratégica al momento; Menenio reconoce la inflexibilidad política de Coriolano. Referencia: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6, FTLN 2936–2957, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/.",
+              "lemma": "temporize",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/temporize"
+            }
+          ]
+        },
+        {
+          "line": "2955",
+          "speaker": "sicinius",
+          "en": "Where is he, hear you?",
+          "es": "¿Sabes dónde está? ¿Has tenido noticias?",
+          "notes": [
+            {
+              "term": "hear you?",
+              "title": "hear you?",
+              "type": "Nota filológica",
+              "gloss": "¿has oído algo?",
+              "body": "Interrogación elíptica: do you hear (of him). Referencia: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6, FTLN 2936–2957, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/.",
+              "lemma": "hear",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/hear"
+            }
+          ]
+        },
+        {
+          "line": "2956–2957",
+          "speaker": "menenius",
+          "en": "Nay, I hear nothing;\nHis mother and his wife hear nothing from him.",
+          "es": "No, no he sabido nada.\nNi su madre ni su esposa tienen noticias suyas.",
           "notes": []
         }
       ]

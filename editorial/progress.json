@@ -1444,13 +1444,22 @@
       "last_line": 2935,
       "editorial_state": "translated_source_checked_external_references",
       "note": "Seis parlamentos completos y cierre de IV.5; Folger cotejado con Shakespeare Online, divergencia walking/waking documentada, glosas y fuentes externas. Revisión retrospectiva y cotejo privado pendientes."
+    },
+    {
+      "id": "coriolanus-4-6-2936-2957",
+      "act": 4,
+      "scene": 6,
+      "first_line": 2936,
+      "last_line": 2957,
+      "editorial_state": "translated_source_checked_external_references",
+      "note": "Ocho parlamentos completos; Folger IV.6, notas léxicas con glosas y referencias. Cotejo privado y revisión retrospectiva pendientes."
     }
   ],
   "next_fragment": {
     "act": 4,
     "scene": 6,
-    "first_line": 2936,
-    "note": "Comenzar IV.6 tras comprobar la numeración y los parlamentos en Folger."
+    "first_line": 2958,
+    "note": "Entrada y salutación de los ciudadanos, Folger IV.6."
   },
   "completed_acts": [],
   "last_update_commit": "pending_atomic_commit",
