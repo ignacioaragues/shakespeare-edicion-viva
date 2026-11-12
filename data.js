@@ -21760,6 +21760,20 @@ window.SHAKESPEARE_READER_DATA = {
           "english": "Cominius",
           "identity": "General romano que acusa a los tribunos de haber puesto a Roma en peligro.",
           "color": "copper"
+        },
+        {
+          "id": "secondcitizen",
+          "name": "Segundo ciudadano",
+          "english": "Second Citizen",
+          "identity": "Ciudadano romano que reconsidera el destierro.",
+          "color": "slate"
+        },
+        {
+          "id": "thirdcitizen",
+          "name": "Tercer ciudadano",
+          "english": "Third Citizen",
+          "identity": "Ciudadano romano que intenta justificar el voto por el destierro.",
+          "color": "slate"
         }
       ],
       "blocks": [
@@ -22991,6 +23005,145 @@ window.SHAKESPEARE_READER_DATA = {
               "body": "Imagen de destrucción absoluta: todos los romanos consumidos en una única masa carbonizada. Es una exageración penitencial de Menenio, que incluye su propia responsabilidad. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; Shakespeare Online, Coriolanus IV.6, https://www.shakespeare-online.com/plays/corio_4_6.html.",
               "lemma": "coal",
               "lemmaUrl": "https://en.wiktionary.org/wiki/coal"
+            }
+          ]
+        },
+        {
+          "line": "3112",
+          "speaker": "citizens",
+          "en": "Faith, we hear fearful news.",
+          "es": "La verdad es que hemos oído noticias aterradoras.",
+          "notes": [
+            {
+              "term": "Faith",
+              "title": "Faith",
+              "type": "Nota filológica",
+              "gloss": "la verdad; ciertamente",
+              "body": "Interjección abreviada de by my faith; aquí introduce una respuesta alarmada, sin requerir una confesión religiosa literal. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; Shakespeare Online, Coriolanus IV.6, https://www.shakespeare-online.com/plays/corio_4_6.html.",
+              "lemma": "faith",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/faith"
+            }
+          ]
+        },
+        {
+          "line": "3113–3114",
+          "speaker": "firstcitizen",
+          "en": "For mine own part,\nWhen I said banish him, I said ’twas pity.",
+          "es": "Por mi parte,\ncuando dije que lo desterraran, también dije que era una lástima.",
+          "notes": [
+            {
+              "term": "For mine own part",
+              "title": "For mine own part",
+              "type": "Nota filológica",
+              "gloss": "por mi parte",
+              "body": "Fórmula con la que el hablante procura separar su responsabilidad de la decisión colectiva. La declaración puede leerse como autojustificación retrospectiva. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; Shakespeare Online, Coriolanus IV.6, https://www.shakespeare-online.com/plays/corio_4_6.html."
+            }
+          ]
+        },
+        {
+          "line": "3115",
+          "speaker": "secondcitizen",
+          "en": "And so did I.",
+          "es": "Y yo también.",
+          "notes": []
+        },
+        {
+          "line": "3116–3119",
+          "speaker": "thirdcitizen",
+          "en": "And so did I. And, to say the truth, so\ndid very many of us. That we did we did for the\nbest; and though we willingly consented to his\nbanishment, yet it was against our will.",
+          "es": "Y yo también. Y, a decir verdad, lo mismo\nhicimos muchos de nosotros. Lo que hicimos fue con\nla mejor intención; y aunque aceptamos de buena gana\nsu destierro, fue contra nuestra voluntad.",
+          "notes": [
+            {
+              "term": "willingly ... against our will",
+              "title": "willingly ... against our will",
+              "type": "Nota filológica",
+              "gloss": "de buena gana ... contra nuestra voluntad",
+              "body": "Contradicción explícita que deja al descubierto el intento de eludir la responsabilidad por el voto. Shakespeare explota la incoherencia cómica del discurso, no una distinción jurídica. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; Shakespeare Online, Coriolanus IV.6, https://www.shakespeare-online.com/plays/corio_4_6.html.",
+              "lemma": "will",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/will"
+            },
+            {
+              "term": "for the best",
+              "title": "for the best",
+              "type": "Nota filológica",
+              "gloss": "con la mejor intención",
+              "body": "La fórmula presenta el destierro como una decisión supuestamente prudente; el contexto inmediato vuelve irónica esa defensa. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; Shakespeare Online, Coriolanus IV.6, https://www.shakespeare-online.com/plays/corio_4_6.html."
+            }
+          ]
+        },
+        {
+          "line": "3120",
+          "speaker": "cominius",
+          "en": "You’re goodly things, you voices!",
+          "es": "¡Vaya personajes son ustedes, señores votos!",
+          "notes": [
+            {
+              "term": "you voices",
+              "title": "you voices",
+              "type": "Nota filológica",
+              "gloss": "ustedes, señores votos",
+              "body": "Sinécdoque política: Cominio reduce a los ciudadanos a sus votos, recordando la importancia de su apoyo al destierro. El elogio goodly es sarcástico. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; Shakespeare Online, Coriolanus IV.6, https://www.shakespeare-online.com/plays/corio_4_6.html.",
+              "lemma": "voice",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/voice"
+            }
+          ]
+        },
+        {
+          "line": "3121–3122",
+          "speaker": "menenius",
+          "en": "You have made good work, you and your cry!—\nShall ’s to the Capitol?",
+          "es": "¡Buena obra han hecho ustedes y sus gritos!\n¿Vamos al Capitolio?",
+          "notes": [
+            {
+              "term": "your cry",
+              "title": "your cry",
+              "type": "Nota filológica",
+              "gloss": "sus gritos; su clamor",
+              "body": "Cry remite a los gritos colectivos con que se expulsó a Coriolano; Menenio vuelve a responsabilizar a la multitud. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; Shakespeare Online, Coriolanus IV.6, https://www.shakespeare-online.com/plays/corio_4_6.html.",
+              "lemma": "cry",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/cry"
+            },
+            {
+              "term": "Shall ’s",
+              "title": "Shall ’s",
+              "type": "Nota filológica",
+              "gloss": "¿vamos?",
+              "body": "Contracción histórica de shall us, usada para proponer una acción conjunta; en inglés actual se esperaría Shall we...? Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; Shakespeare Online, Coriolanus IV.6, https://www.shakespeare-online.com/plays/corio_4_6.html.",
+              "lemma": "shall",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/shall"
+            }
+          ]
+        },
+        {
+          "line": "3123",
+          "speaker": "cominius",
+          "en": "O, ay, what else?",
+          "es": "Sí, claro. ¿Qué otra cosa podemos hacer?",
+          "notes": []
+        },
+        {
+          "line": "3124–3127",
+          "speaker": "sicinius",
+          "en": "Go, masters, get you home. Be not dismayed.\nThese are a side that would be glad to have\nThis true which they so seem to fear. Go home,\nAnd show no sign of fear.",
+          "es": "Váyanse a casa, señores. No se alarmen.\nEstos pertenecen al bando que se alegraría de que fuera\ncierto eso que aparentan temer tanto. Vuelvan a casa\ny no den muestras de miedo.",
+          "notes": [
+            {
+              "term": "a side",
+              "title": "a side",
+              "type": "Nota filológica",
+              "gloss": "un bando; una facción",
+              "body": "Side tiene aquí valor político: Sicinio acusa a los patricios de desear una crisis que los tribunos temen. Se trata de una acusación del personaje, no de un hecho establecido. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; Shakespeare Online, Coriolanus IV.6, https://www.shakespeare-online.com/plays/corio_4_6.html.",
+              "lemma": "side",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/side"
+            },
+            {
+              "term": "seem to fear",
+              "title": "seem to fear",
+              "type": "Nota filológica",
+              "gloss": "aparentan temer",
+              "body": "Sicinio insinúa hipocresía en Cominio y Menenio; la atribución de motivos forma parte de su defensa política. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; Shakespeare Online, Coriolanus IV.6, https://www.shakespeare-online.com/plays/corio_4_6.html.",
+              "lemma": "seem",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/seem"
             }
           ]
         }

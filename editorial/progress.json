@@ -1525,13 +1525,22 @@
       "last_line": 3111,
       "editorial_state": "translated_source_checked_external_references",
       "note": "Dos parlamentos completos (18 líneas): Cominio denuncia la subordinación de Aufidio y Menenio increpa a los ciudadanos; cotejo Folger IV.6 y Shakespeare Online, con glosas contextualizadas. Cotejo privado y revisión retrospectiva pendientes."
+    },
+    {
+      "id": "coriolanus-4-6-3112-3127",
+      "act": 4,
+      "scene": 6,
+      "first_line": 3112,
+      "last_line": 3127,
+      "editorial_state": "translated_source_checked_external_references",
+      "note": "Ocho parlamentos completos: retractaciones contradictorias de los ciudadanos, sarcasmo de Cominio y Menenio, defensa de Sicinio; cotejo Folger IV.6 y Shakespeare Online; cotejo privado y revisión retrospectiva pendientes."
     }
   ],
   "next_fragment": {
     "act": 4,
     "scene": 6,
-    "first_line": 3112,
-    "note": "Respuestas de los ciudadanos ante la invasión; continuar por parlamentos completos."
+    "first_line": 3128,
+    "note": "Reacciones finales de los ciudadanos y los tribunos, cierre de IV.6."
   },
   "completed_acts": [],
   "last_update_commit": "pending_atomic_commit",
