@@ -19981,7 +19981,7 @@ window.SHAKESPEARE_READER_DATA = {
       "scene": 5,
       "place": "Ancio · Casa de Aufidio",
       "sourceRef": "Folger Shakespeare Library · Acto IV, escena 5",
-      "sectionLabel": "Edición en curso · líneas 2677–2824",
+      "sectionLabel": "Edición en curso · líneas 2677–2839",
       "introduction": "En medio de los preparativos de un banquete, los criados de Aufidio confunden al desterrado Coriolano con un intruso de condición humilde y procuran echarlo.",
       "stage": "Suena música. Entra el primer criado, que sale tras pedir vino. Entra el segundo criado y sale buscando a Coto. Entra Coriolano, disfrazado. El primer criado entra y sale; luego vuelve a entrar el segundo criado. Entra el tercer criado y el primero lo intercepta; el primero se aparta. Coriolano empuja al tercero; el segundo sale para avisar a Aufidio. El tercer criado interroga a Coriolano; este lo golpea y lo expulsa. Entran Aufidio y el segundo criado, que se aparta. Coriolano se descubre el rostro y comienza a revelarse ante su antiguo enemigo.",
       "characters": [
@@ -20868,6 +20868,93 @@ window.SHAKESPEARE_READER_DATA = {
               "body": "La imagen de las entrañas de la ciudad y la inundación traslada la agresión al interior del cuerpo político. «O’erbear ’t» expresa arrollar o sobrepasar la resistencia. Referencias: Folger Shakespeare Library, «Coriolanus», IV.5, líneas 2788–2824, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; cotejo: Shakespeare Online, «Coriolanus», IV.5, https://www.shakespeare-online.com/plays/corio_4_5.html.",
               "lemma": "overbear",
               "lemmaUrl": "https://en.wiktionary.org/wiki/overbear"
+            }
+          ]
+        },
+        {
+          "line": "2825",
+          "speaker": "coriolanus",
+          "en": "You bless me, gods!",
+          "es": "¡Dioses, ustedes me bendicen!",
+          "notes": []
+        },
+        {
+          "line": "2826–2839",
+          "speaker": "aufidius",
+          "en": "Therefore, most absolute sir, if thou wilt have\nThe leading of thine own revenges, take\nTh’ one half of my commission and set down—\nAs best thou art experienced, since thou know’st\nThy country’s strength and weakness—thine own\nways,\nWhether to knock against the gates of Rome,\nOr rudely visit them in parts remote\nTo fright them ere destroy. But come in.\nLet me commend thee first to those that shall\nSay yea to thy desires. A thousand welcomes!\nAnd more a friend than ere an enemy—\nYet, Martius, that was much. Your hand. Most\nwelcome!",
+          "es": "Por tanto, señor de extraordinarias cualidades, si quieres\nencabezar tu propia venganza, acepta\nla mitad de mi mando y determina,\nsegún tu experiencia, pues conoces\nlas fuerzas y las debilidades de tu patria,\ntu propia estrategia:\nsi atacar directamente las puertas de Roma\no irrumpir con violencia en regiones alejadas\npara atemorizarlos antes de destruirlos. Pero entra.\nPrimero quiero presentarte a quienes\naprobarán tus deseos. ¡Mil veces bienvenido!\nY serás mejor amigo de lo que fuiste enemigo;\ny eso, Marcio, ya es decir mucho. Dame la mano.\n¡Bienvenido de todo corazón!",
+          "notes": [
+            {
+              "term": "most absolute sir",
+              "title": "most absolute sir",
+              "type": "Nota filológica",
+              "gloss": "señor de extraordinarias cualidades",
+              "body": "Absolute puede indicar excelencia o perfección; no se refiere aquí a un poder político absoluto. Fuentes: Barbara Mowat y Paul Werstine, Folger Shakespeare Library, Coriolanus IV.5, FTLN 2825–2839: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; Shakespeare Online IV.5: https://www.shakespeare-online.com/plays/corio_4_5.html",
+              "lemma": "absolute",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/absolute"
+            },
+            {
+              "term": "leading of thine own revenges",
+              "title": "leading of thine own revenges",
+              "type": "Nota filológica",
+              "gloss": "encabezar tu propia venganza",
+              "body": "El plural revenges reúne los agravios de Coriolano y leading señala la dirección militar. Fuentes: Barbara Mowat y Paul Werstine, Folger Shakespeare Library, Coriolanus IV.5, FTLN 2825–2839: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; Shakespeare Online IV.5: https://www.shakespeare-online.com/plays/corio_4_5.html",
+              "lemma": "revenge",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/revenge"
+            },
+            {
+              "term": "one half of my commission",
+              "title": "one half of my commission",
+              "type": "Nota filológica",
+              "gloss": "la mitad de mi mando",
+              "body": "Commission alude a la autoridad militar delegada a Aufidio; no es una comisión económica. Fuentes: Barbara Mowat y Paul Werstine, Folger Shakespeare Library, Coriolanus IV.5, FTLN 2825–2839: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; Shakespeare Online IV.5: https://www.shakespeare-online.com/plays/corio_4_5.html",
+              "lemma": "commission",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/commission"
+            },
+            {
+              "term": "set down ... thine own ways",
+              "title": "set down ... thine own ways",
+              "type": "Nota filológica",
+              "gloss": "determina tu propia estrategia",
+              "body": "La construcción interrumpida por un inciso atribuye a Coriolano la decisión sobre el plan de ataque. Fuentes: Barbara Mowat y Paul Werstine, Folger Shakespeare Library, Coriolanus IV.5, FTLN 2825–2839: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; Shakespeare Online IV.5: https://www.shakespeare-online.com/plays/corio_4_5.html",
+              "lemma": "set",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/set"
+            },
+            {
+              "term": "ere destroy",
+              "title": "ere destroy",
+              "type": "Nota filológica",
+              "gloss": "antes de destruirlos",
+              "body": "Ere funciona como conjunción temporal «antes de»; el verbo destroy recupera el objeto del contexto. Fuentes: Barbara Mowat y Paul Werstine, Folger Shakespeare Library, Coriolanus IV.5, FTLN 2825–2839: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; Shakespeare Online IV.5: https://www.shakespeare-online.com/plays/corio_4_5.html",
+              "lemma": "ere",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/ere"
+            },
+            {
+              "term": "Say yea",
+              "title": "Say yea",
+              "type": "Nota filológica",
+              "gloss": "dar su aprobación",
+              "body": "Yea expresa asentimiento: la aprobación de los senadores se anticipa, no se presenta como ya obtenida. Fuentes: Barbara Mowat y Paul Werstine, Folger Shakespeare Library, Coriolanus IV.5, FTLN 2825–2839: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; Shakespeare Online IV.5: https://www.shakespeare-online.com/plays/corio_4_5.html",
+              "lemma": "yea",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/yea"
+            },
+            {
+              "term": "ere an enemy",
+              "title": "ere an enemy",
+              "type": "Nota filológica",
+              "gloss": "de lo que fuiste enemigo",
+              "body": "En esta frase ere corresponde a ever («alguna vez»), no a la conjunción temporal ere anterior; se conserva el contraste hiperbólico. Fuentes: Barbara Mowat y Paul Werstine, Folger Shakespeare Library, Coriolanus IV.5, FTLN 2825–2839: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; Shakespeare Online IV.5: https://www.shakespeare-online.com/plays/corio_4_5.html",
+              "lemma": "ever",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/ever"
+            },
+            {
+              "term": "Your hand",
+              "title": "Your hand",
+              "type": "Nota filológica",
+              "gloss": "dame la mano",
+              "body": "El paso de thou a your puede aportar cortesía o solemnidad; no demuestra por sí solo un cambio jerárquico. Fuentes: Barbara Mowat y Paul Werstine, Folger Shakespeare Library, Coriolanus IV.5, FTLN 2825–2839: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; Shakespeare Online IV.5: https://www.shakespeare-online.com/plays/corio_4_5.html",
+              "lemma": "your",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/your"
             }
           ]
         }
