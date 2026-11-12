@@ -23563,7 +23563,7 @@ window.SHAKESPEARE_READER_DATA = {
       "scene": 1,
       "place": "Roma, ante la amenaza del ejército volsco",
       "sourceRef": "Folger Shakespeare Library · Acto V, escena 1",
-      "sectionLabel": "Edición en curso · líneas 3198–3222",
+      "sectionLabel": "Edición en curso · líneas 3198–3244",
       "introduction": "Cominio regresa de su infructuosa entrevista con Coriolano. Menenio se resiste a intervenir, mientras los tribunos buscan una salida a la amenaza sobre Roma.",
       "stage": "Entran Menenio, Cominio, Sicinio y Bruto, los dos tribunos, acompañados de otras personas.",
       "characters": [
@@ -23767,6 +23767,171 @@ window.SHAKESPEARE_READER_DATA = {
               "type": "Nota filológica",
               "gloss": "¿acaso podía decir menos?",
               "body": "La pregunta retórica expresa la frustración de Menenio ante una respuesta escueta e implacable, no aprobación de su contenido. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus V.1 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/1/; https://www.litcharts.com/lit/coriolanus/act-5-scene-1 (consulta 13-11-2026)."
+            }
+          ]
+        },
+        {
+          "line": "3223–3228",
+          "speaker": "cominius",
+          "en": "I offered to awaken his regard\nFor ’s private friends. His answer to me was\nHe could not stay to pick them in a pile\nOf noisome musty chaff. He said ’twas folly\nFor one poor grain or two to leave unburnt\nAnd still to nose th’ offense.",
+          "es": "Intenté despertar su consideración\npor sus amigos personales. Me respondió\nque no podía detenerse a buscarlos entre un montón\nde paja vieja y maloliente. Dijo que sería una locura\ndejar sin quemar todo aquello por uno o dos pobres granos\ny seguir soportando su hedor.",
+          "notes": [
+            {
+              "term": "For ’s private friends",
+              "title": "For ’s private friends",
+              "type": "Nota filológica",
+              "gloss": "por sus amigos personales",
+              "body": "La contracción ’s equivale a his, posesivo átono; private opone los vínculos personales al conflicto público. Cotejo: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.1, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/1/; texto paralelo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.1.html.",
+              "lemma": "his",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/his"
+            },
+            {
+              "term": "noisome musty chaff",
+              "title": "noisome musty chaff",
+              "type": "Nota filológica",
+              "gloss": "paja vieja y maloliente",
+              "body": "Noisome expresa olor ofensivo o nocividad; musty añade ranciedad. Chaff es la cascarilla o paja separada del grano: la metáfora presenta a la población romana como desecho. Cotejo: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.1, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/1/; texto paralelo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.1.html.",
+              "lemma": "chaff",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/chaff"
+            },
+            {
+              "term": "one poor grain or two",
+              "title": "one poor grain or two",
+              "type": "Nota filológica",
+              "gloss": "uno o dos pobres granos",
+              "body": "El grano valioso representa a los allegados de Coriolano; el rechazo de salvarlos transforma una imagen agrícola en una justificación del incendio indiscriminado. Cotejo: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.1, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/1/; texto paralelo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.1.html.",
+              "lemma": "grain",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/grain"
+            },
+            {
+              "term": "to nose th’ offense",
+              "title": "to nose th’ offense",
+              "type": "Nota filológica",
+              "gloss": "seguir soportando su hedor",
+              "body": "Nose se emplea verbalmente en relación con el olor de la paja; offense conserva la idea de molestia u ofensa. Se mantiene la continuidad de la imagen olfativa. Cotejo: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.1, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/1/; texto paralelo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.1.html.",
+              "lemma": "nose",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/nose"
+            }
+          ]
+        },
+        {
+          "line": "3229–3233",
+          "speaker": "menenius",
+          "en": "For one poor grain or two!\nI am one of those! His mother, wife, his child,\nAnd this brave fellow too, we are the grains;\nYou are the musty chaff, and you are smelt\nAbove the moon. We must be burnt for you.",
+          "es": "¡Por uno o dos pobres granos!\n¡Yo soy uno de ellos! Su madre, su esposa, su hijo,\ny también este valiente hombre: nosotros somos los granos;\nustedes son la paja rancia, y su hedor llega\nmás allá de la luna. Por culpa de ustedes tendremos que arder.",
+          "notes": [
+            {
+              "term": "we are the grains",
+              "title": "we are the grains",
+              "type": "Nota filológica",
+              "gloss": "nosotros somos los granos",
+              "body": "Menenio invierte la clasificación de Coriolano: identifica los granos con sus allegados y la paja con los tribunos. Es una réplica retórica, no una descripción objetiva de los ciudadanos. Cotejo: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.1, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/1/; texto paralelo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.1.html."
+            },
+            {
+              "term": "smelt / Above the moon",
+              "title": "smelt / Above the moon",
+              "type": "Nota filológica",
+              "gloss": "su hedor llega más allá de la luna",
+              "body": "Hipérbole cómica que amplifica el motivo del olor y atribuye a los tribunos la culpa del desastre. Cotejo: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.1, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/1/; texto paralelo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.1.html.",
+              "lemma": "smell",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/smell"
+            },
+            {
+              "term": "We must be burnt for you",
+              "title": "We must be burnt for you",
+              "type": "Nota filológica",
+              "gloss": "por culpa de ustedes tendremos que arder",
+              "body": "For you indica causa o responsabilidad, no un sacrificio voluntario en beneficio de los tribunos. La metáfora pasa del grano a la destrucción efectiva de Roma. Cotejo: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.1, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/1/; texto paralelo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.1.html."
+            }
+          ]
+        },
+        {
+          "line": "3234–3239",
+          "speaker": "sicinius",
+          "en": "Nay, pray, be patient. If you refuse your aid\nIn this so-never-needed help, yet do not\nUpbraid ’s with our distress. But sure, if you\nWould be your country’s pleader, your good tongue,\nMore than the instant army we can make,\nMight stop our countryman.",
+          "es": "No, por favor, tenga paciencia. Si se niega a ayudarnos\nen esta necesidad como nunca hubo otra, al menos no\nnos reproche nuestra desgracia. Pero estoy seguro de que,\nsi defendiera la causa de su patria, su elocuencia,\nmás que cualquier ejército que podamos reunir de inmediato,\npodría detener a nuestro compatriota.",
+          "notes": [
+            {
+              "term": "so-never-needed help",
+              "title": "so-never-needed help",
+              "type": "Nota filológica",
+              "gloss": "ayuda necesaria como nunca antes",
+              "body": "Compuesto intensificador inusual: la necesidad presente se declara sin precedentes. La traducción evita interpretar never como negación de la necesidad. Cotejo: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.1, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/1/; texto paralelo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.1.html."
+            },
+            {
+              "term": "Upbraid ’s",
+              "title": "Upbraid ’s",
+              "type": "Nota filológica",
+              "gloss": "reprocharnos",
+              "body": "’s representa us en forma reducida, objeto de upbraid; no es un posesivo ni un sufijo de tercera persona. Cotejo: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.1, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/1/; texto paralelo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.1.html.",
+              "lemma": "upbraid",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/upbraid"
+            },
+            {
+              "term": "your country’s pleader",
+              "title": "your country’s pleader",
+              "type": "Nota filológica",
+              "gloss": "defensor de la causa de su patria",
+              "body": "Pleader alude al que intercede o aboga por otro; Sicinio atribuye a la palabra de Menenio una fuerza superior a la militar. Cotejo: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.1, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/1/; texto paralelo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.1.html.",
+              "lemma": "pleader",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/pleader"
+            },
+            {
+              "term": "instant army",
+              "title": "instant army",
+              "type": "Nota filológica",
+              "gloss": "ejército que podamos reunir de inmediato",
+              "body": "Instant aquí tiene valor temporal de inmediato o disponible en el momento, no el sentido moderno de ejército instantáneo. Cotejo: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.1, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/1/; texto paralelo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.1.html.",
+              "lemma": "instant",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/instant"
+            }
+          ]
+        },
+        {
+          "line": "3240",
+          "speaker": "menenius",
+          "en": "No, I’ll not meddle.",
+          "es": "No, no me entrometeré.",
+          "notes": [
+            {
+              "term": "meddle",
+              "title": "meddle",
+              "type": "Nota filológica",
+              "gloss": "intervenir; entrometerse",
+              "body": "La negativa expresa el temor de Menenio a intervenir en una negociación que Cominio considera inútil. Cotejo: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.1, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/1/; texto paralelo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.1.html.",
+              "lemma": "meddle",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/meddle"
+            }
+          ]
+        },
+        {
+          "line": "3241",
+          "speaker": "sicinius",
+          "en": "Pray you, go to him.",
+          "es": "Se lo ruego, vaya a verlo.",
+          "notes": []
+        },
+        {
+          "line": "3242",
+          "speaker": "menenius",
+          "en": "What should I do?",
+          "es": "¿Qué tendría que hacer?",
+          "notes": []
+        },
+        {
+          "line": "3243–3244",
+          "speaker": "brutus",
+          "en": "Only make trial what your love can do\nFor Rome, towards Martius.",
+          "es": "Tan solo ponga a prueba lo que su afecto por Marcio\npuede conseguir en favor de Roma.",
+          "notes": [
+            {
+              "term": "make trial",
+              "title": "make trial",
+              "type": "Nota filológica",
+              "gloss": "poner a prueba; intentar",
+              "body": "Make trial introduce una tentativa cuyo éxito no está asegurado. La apelación final es al afecto personal de Menenio por Marcio. Cotejo: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.1, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/1/; texto paralelo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.1.html.",
+              "lemma": "trial",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/trial"
             }
           ]
         }

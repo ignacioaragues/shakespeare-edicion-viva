@@ -1570,13 +1570,22 @@
       "last_line": 3222,
       "editorial_state": "translated_source_checked_external_references",
       "note": "Siete parlamentos completos: rechazo inicial de Menenio, testimonio de Cominio y crítica a los tribunos. Folger V.1 y análisis externo; cotejo privado y revisión retrospectiva pendientes."
+    },
+    {
+      "id": "coriolanus-5-1-3223-3244",
+      "act": 5,
+      "scene": 1,
+      "first_line": 3223,
+      "last_line": 3244,
+      "editorial_state": "translated_source_checked_external_references",
+      "note": "Siete parlamentos completos; metáfora del grano y la paja, lenguaje de intercesión y reproches de Menenio. Folger V.1 y MIT Shakespeare; revisión retrospectiva y cotejo privado pendientes."
     }
   ],
   "next_fragment": {
     "act": 5,
     "scene": 1,
-    "first_line": 3223,
-    "note": "Cominio relata el rechazo de la súplica en favor de los amigos; continuar por parlamentos completos."
+    "first_line": 3245,
+    "note": "Menenio sopesa el rechazo y acepta interceder; continuar por parlamentos completos."
   },
   "completed_acts": [],
   "last_update_commit": "pending_atomic_commit",
