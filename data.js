@@ -19981,9 +19981,9 @@ window.SHAKESPEARE_READER_DATA = {
       "scene": 5,
       "place": "Ancio · Casa de Aufidio",
       "sourceRef": "Folger Shakespeare Library · Acto IV, escena 5",
-      "sectionLabel": "Edición en curso · líneas 2677–2715",
+      "sectionLabel": "Edición en curso · líneas 2677–2729",
       "introduction": "En medio de los preparativos de un banquete, los criados de Aufidio confunden al desterrado Coriolano con un intruso de condición humilde y procuran echarlo.",
-      "stage": "Suena música. Entra el primer criado, que sale tras pedir vino. Entra el segundo criado y sale buscando a Coto. Entra Coriolano, disfrazado. El primer criado entra y sale; luego vuelve a entrar el segundo criado. Entra el tercer criado y el primero lo intercepta; el primero se aparta. Coriolano empuja al tercero; el segundo sale para avisar a Aufidio.",
+      "stage": "Suena música. Entra el primer criado, que sale tras pedir vino. Entra el segundo criado y sale buscando a Coto. Entra Coriolano, disfrazado. El primer criado entra y sale; luego vuelve a entrar el segundo criado. Entra el tercer criado y el primero lo intercepta; el primero se aparta. Coriolano empuja al tercero; el segundo sale para avisar a Aufidio. El tercer criado interroga a Coriolano; este lo golpea y lo expulsa.",
       "characters": [
         {
           "id": "first-servingman",
@@ -20399,6 +20399,158 @@ window.SHAKESPEARE_READER_DATA = {
           "en": "And I shall.",
           "es": "Así lo haré.",
           "notes": []
+        },
+        {
+          "line": "2716",
+          "speaker": "third-servingman",
+          "en": "Where dwell’st thou?",
+          "es": "¿Dónde vives?",
+          "notes": [
+            {
+              "term": "dwell’st",
+              "title": "dwell’st",
+              "type": "Nota filológica",
+              "gloss": "vives",
+              "body": "Forma de segunda persona singular con terminación -st; el criado mantiene el tratamiento familiar thou. Fuentes: Folger Shakespeare Library, Coriolanus IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); Shakespeare Online, IV.5 (https://www.shakespeare-online.com/plays/corio_4_5.html).",
+              "lemma": "dwell",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/dwell"
+            }
+          ]
+        },
+        {
+          "line": "2717",
+          "speaker": "coriolanus",
+          "en": "Under the canopy.",
+          "es": "Bajo el dosel del cielo.",
+          "notes": [
+            {
+              "term": "under the canopy",
+              "title": "under the canopy",
+              "type": "Nota filológica",
+              "gloss": "bajo el cielo",
+              "body": "La expresión elude una dirección concreta: el «dosel» puede entenderse como la bóveda celeste; lectura contextual de la evasiva. Fuentes: Folger Shakespeare Library, Coriolanus IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); Shakespeare Online, IV.5 (https://www.shakespeare-online.com/plays/corio_4_5.html)."
+            }
+          ]
+        },
+        {
+          "line": "2718",
+          "speaker": "third-servingman",
+          "en": "Under the canopy?",
+          "es": "¿Bajo el dosel?",
+          "notes": []
+        },
+        {
+          "line": "2719",
+          "speaker": "coriolanus",
+          "en": "Ay.",
+          "es": "Sí.",
+          "notes": []
+        },
+        {
+          "line": "2720",
+          "speaker": "third-servingman",
+          "en": "Where’s that?",
+          "es": "¿Y dónde queda eso?",
+          "notes": []
+        },
+        {
+          "line": "2721",
+          "speaker": "coriolanus",
+          "en": "I’ th’ city of kites and crows.",
+          "es": "En la ciudad de los milanos y los cuervos.",
+          "notes": [
+            {
+              "term": "kites and crows",
+              "title": "kites and crows",
+              "type": "Nota filológica",
+              "gloss": "milanos y cuervos",
+              "body": "Aves asociadas con carroña; la imagen rebaja irónicamente la ciudad y prolonga la respuesta evasiva. Fuentes: Folger Shakespeare Library, Coriolanus IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); Shakespeare Online, IV.5 (https://www.shakespeare-online.com/plays/corio_4_5.html).",
+              "lemma": "kite",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/kite"
+            }
+          ]
+        },
+        {
+          "line": "2722–2723",
+          "speaker": "third-servingman",
+          "en": "I’ th’ city of kites and crows? What\nan ass it is! Then thou dwell’st with daws too?",
+          "es": "¿En la ciudad de los milanos y los cuervos? ¡Qué\nasno eres! ¿Entonces también vives con grajillas?",
+          "notes": [
+            {
+              "term": "daws",
+              "title": "daws",
+              "type": "Nota filológica",
+              "gloss": "grajillas",
+              "body": "Nombre abreviado de jackdaws, aves de la familia de los córvidos; prepara el equívoco de la respuesta sobre el amo. Fuentes: Folger Shakespeare Library, Coriolanus IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); Shakespeare Online, IV.5 (https://www.shakespeare-online.com/plays/corio_4_5.html).",
+              "lemma": "daw",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/daw"
+            }
+          ]
+        },
+        {
+          "line": "2724",
+          "speaker": "coriolanus",
+          "en": "No, I serve not thy master.",
+          "es": "No, yo no sirvo a tu amo.",
+          "notes": [
+            {
+              "term": "I serve not thy master",
+              "title": "I serve not thy master",
+              "type": "Nota filológica",
+              "gloss": "yo no sirvo a tu amo",
+              "body": "Coriolano convierte la pregunta por las grajillas en un insulto velado: identifica al amo con esas aves o a sus criados con ellas; el blanco exacto es interpretativo. Fuentes: Folger Shakespeare Library, Coriolanus IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); Shakespeare Online, IV.5 (https://www.shakespeare-online.com/plays/corio_4_5.html)."
+            }
+          ]
+        },
+        {
+          "line": "2725–2726",
+          "speaker": "third-servingman",
+          "en": "How, sir? Do you meddle with my\nmaster?",
+          "es": "¿Cómo dice, señor? ¿Se mete usted con\nmi amo?",
+          "notes": [
+            {
+              "term": "meddle with",
+              "title": "meddle with",
+              "type": "Nota filológica",
+              "gloss": "meterse con; entrometerse en",
+              "body": "La expresión admite el sentido de intervenir en asuntos ajenos y, en el intercambio siguiente, una insinuación sexual. Fuentes: Folger Shakespeare Library, Coriolanus IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); Shakespeare Online, IV.5 (https://www.shakespeare-online.com/plays/corio_4_5.html).",
+              "lemma": "meddle",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/meddle"
+            }
+          ]
+        },
+        {
+          "line": "2727–2729",
+          "speaker": "coriolanus",
+          "en": "Ay, ’tis an honester service than to meddle\nwith thy mistress. Thou prat’st and prat’st. Serve\nwith thy trencher. Hence!",
+          "es": "Sí, es un servicio más honrado que meterse\ncon tu señora. No haces más que parlotear. Ocúpate\nde servir los platos. ¡Fuera!",
+          "notes": [
+            {
+              "term": "meddle with thy mistress",
+              "title": "meddle with thy mistress",
+              "type": "Nota filológica",
+              "gloss": "meterse con tu señora",
+              "body": "Coriolano desplaza «meddle» hacia una posible alusión sexual a la señora de la casa; la insinuación es deliberadamente insultante. Fuentes: Folger Shakespeare Library, Coriolanus IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); Shakespeare Online, IV.5 (https://www.shakespeare-online.com/plays/corio_4_5.html)."
+            },
+            {
+              "term": "prat’st",
+              "title": "prat’st",
+              "type": "Nota filológica",
+              "gloss": "parloteas",
+              "body": "Segunda persona singular de prat, con terminación -st y elisión gráfica. Fuentes: Folger Shakespeare Library, Coriolanus IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); Shakespeare Online, IV.5 (https://www.shakespeare-online.com/plays/corio_4_5.html).",
+              "lemma": "prate",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/prate"
+            },
+            {
+              "term": "trencher",
+              "title": "trencher",
+              "type": "Nota filológica",
+              "gloss": "plato de servir; tabla para alimentos",
+              "body": "El trencher era una pieza de mesa, originalmente de madera o pan endurecido; aquí representa el oficio servil. Fuentes: Folger Shakespeare Library, Coriolanus IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); Shakespeare Online, IV.5 (https://www.shakespeare-online.com/plays/corio_4_5.html).",
+              "lemma": "trencher",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/trencher"
+            }
+          ]
         }
       ]
     }
