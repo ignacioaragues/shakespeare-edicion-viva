@@ -1453,13 +1453,22 @@
       "last_line": 2957,
       "editorial_state": "translated_source_checked_external_references",
       "note": "Ocho parlamentos completos; Folger IV.6, notas léxicas con glosas y referencias. Cotejo privado y revisión retrospectiva pendientes."
+    },
+    {
+      "id": "coriolanus-4-6-2958-2981",
+      "act": 4,
+      "scene": 6,
+      "first_line": 2958,
+      "last_line": 2981,
+      "editorial_state": "translated_source_checked_external_references",
+      "note": "Trece complete speech blocks: citizens greet tribunes, tribunes assess Coriolanus and praise Roman calm; Folger IV.6 compared with First Folio transcription. Contextual Spanish glosses and references. Private comparison and retrospective review pending."
     }
   ],
   "next_fragment": {
     "act": 4,
     "scene": 6,
-    "first_line": 2958,
-    "note": "Entrada y salutación de los ciudadanos, Folger IV.6."
+    "first_line": 2982,
+    "note": "Entrada del edil con noticias sobre los volscos; Folger IV.6."
   },
   "completed_acts": [],
   "last_update_commit": "pending_atomic_commit",

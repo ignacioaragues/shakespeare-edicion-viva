@@ -21687,7 +21687,7 @@ window.SHAKESPEARE_READER_DATA = {
       "scene": 6,
       "place": "Roma · Un espacio público",
       "sourceRef": "Folger Shakespeare Library · Acto IV, escena 6",
-      "sectionLabel": "Edición en curso · líneas 2936–2957",
+      "sectionLabel": "Edición en curso · líneas 2936–2981",
       "introduction": "Los tribunos celebran la calma de Roma tras el destierro, ignorando la nueva alianza militar de Coriolano.",
       "stage": "Entran los tribunos Sicinio y Bruto. [Después de 2945 entra Menenio.]",
       "characters": [
@@ -21711,7 +21711,9 @@ window.SHAKESPEARE_READER_DATA = {
           "english": "Menenius",
           "identity": "Patricio y amigo de Coriolano.",
           "color": "slate"
-        }
+        },{"id":"citizens","name":"Ciudadanos","english":"Citizens","identity":"Vecinos de Roma.","color":"slate"},
+        {"id":"firstcitizen","name":"Primer ciudadano","english":"First Citizen","identity":"Uno de los ciudadanos romanos.","color":"slate"},
+        {"id":"tribunes","name":"Ambos tribunos","english":"Both Tribunes","identity":"Sicinio y Bruto, al unísono.","color":"olive"}
       ],
       "blocks": [
         {
@@ -21883,6 +21885,236 @@ window.SHAKESPEARE_READER_DATA = {
           "en": "Nay, I hear nothing;\nHis mother and his wife hear nothing from him.",
           "es": "No, no he sabido nada.\nNi su madre ni su esposa tienen noticias suyas.",
           "notes": []
+        },
+        {
+          "line": "2958–2959",
+          "speaker": "citizens",
+          "en": "⌜Enter three or four Citizens.⌝\nThe gods preserve\nyou both!",
+          "es": "[Entran tres o cuatro ciudadanos.]\n¡Que los dioses los protejan a los dos!",
+          "notes": []
+        },
+        {
+          "line": "2960",
+          "speaker": "sicinius",
+          "en": "Good e’en, our neighbors.",
+          "es": "Buenas tardes, vecinos.",
+          "notes": [
+            {
+              "term": "Good e’en",
+              "title": "Good e’en",
+              "type": "Nota filológica",
+              "gloss": "buenas tardes",
+              "body": "Saludo abreviado de good even; Folger lo moderniza así, frente a Goden en el Folio. La fórmula tiene origen en una bendición, pero aquí funciona como saludo convencional. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6, FTLN 2958–2981, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; cotejo: First Folio (1623), transcripción en Wikisource, https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_%281910%29/The_Tragedy_of_Coriolanus/Act_4_Scene_6."
+            }
+          ]
+        },
+        {
+          "line": "2961",
+          "speaker": "brutus",
+          "en": "Good e’en to you all, good e’en to you all.",
+          "es": "Buenas tardes a todos, buenas tardes.",
+          "notes": []
+        },
+        {
+          "line": "2962–2963",
+          "speaker": "firstcitizen",
+          "en": "Ourselves, our wives, and children, on our knees\nAre bound to pray for you both.",
+          "es": "Nosotros, nuestras esposas y nuestros hijos estamos obligados\na rezar de rodillas por ustedes dos.",
+          "notes": [
+            {
+              "term": "are bound to pray",
+              "title": "are bound to pray",
+              "type": "Nota filológica",
+              "gloss": "tenemos el deber de rezar",
+              "body": "Bound to expresa obligación moral, no una atadura física; la fórmula de agradecimiento enfatiza la deuda de los ciudadanos. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6, FTLN 2958–2981, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; cotejo: First Folio (1623), transcripción en Wikisource, https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_%281910%29/The_Tragedy_of_Coriolanus/Act_4_Scene_6.",
+              "lemma": "bind",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/bind"
+            }
+          ]
+        },
+        {
+          "line": "2964",
+          "speaker": "sicinius",
+          "en": "Live, and thrive!",
+          "es": "¡Que vivan y prosperen!",
+          "notes": [
+            {
+              "term": "thrive",
+              "title": "thrive",
+              "type": "Nota filológica",
+              "gloss": "prosperar",
+              "body": "El deseo complementa live con una idea de bienestar y prosperidad; no es una orden literal. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6, FTLN 2958–2981, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; cotejo: First Folio (1623), transcripción en Wikisource, https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_%281910%29/The_Tragedy_of_Coriolanus/Act_4_Scene_6.",
+              "lemma": "thrive",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/thrive"
+            }
+          ]
+        },
+        {
+          "line": "2965–2966",
+          "speaker": "brutus",
+          "en": "Farewell, kind neighbors. We wished Coriolanus\nHad loved you as we did.",
+          "es": "Adiós, amables vecinos. Ojalá Coriolano\nlos hubiera querido como nosotros.",
+          "notes": [
+            {
+              "term": "We wished ... Had loved",
+              "title": "We wished ... Had loved",
+              "type": "Nota filológica",
+              "gloss": "ojalá hubiera querido",
+              "body": "Wish seguido de pasado perfecto expresa un deseo contrario a los hechos; Bruto contrapone su supuesta solicitud por la plebe al desprecio de Coriolano. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6, FTLN 2958–2981, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; cotejo: First Folio (1623), transcripción en Wikisource, https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_%281910%29/The_Tragedy_of_Coriolanus/Act_4_Scene_6.",
+              "lemma": "wish",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/wish"
+            }
+          ]
+        },
+        {
+          "line": "2967",
+          "speaker": "citizens",
+          "en": "Now the gods keep you!",
+          "es": "¡Que los dioses los guarden!",
+          "notes": []
+        },
+        {
+          "line": "2968",
+          "speaker": "tribunes",
+          "en": "Farewell, farewell. ⌜Citizens exit.⌝",
+          "es": "Adiós, adiós. [Salen los ciudadanos.]",
+          "notes": []
+        },
+        {
+          "line": "2969–2971",
+          "speaker": "sicinius",
+          "en": "This is a happier and more comely time\nThan when these fellows ran about the streets\nCrying confusion.",
+          "es": "Estos son tiempos más felices y ordenados\nque aquellos en que esos hombres recorrían las calles\ngritando y sembrando confusión.",
+          "notes": [
+            {
+              "term": "comely time",
+              "title": "comely time",
+              "type": "Nota filológica",
+              "gloss": "tiempo más armonioso y decoroso",
+              "body": "Comely suele significar agradable o decoroso; aplicado al orden cívico, Sicinio presenta la calma como una mejora visible y moral. Lectura contextual, no equivalencia única. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6, FTLN 2958–2981, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; cotejo: First Folio (1623), transcripción en Wikisource, https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_%281910%29/The_Tragedy_of_Coriolanus/Act_4_Scene_6.",
+              "lemma": "comely",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/comely"
+            },
+            {
+              "term": "Crying confusion",
+              "title": "Crying confusion",
+              "type": "Nota filológica",
+              "gloss": "gritando y sembrando confusión",
+              "body": "La frase permite oír tanto el clamor callejero como el desorden que se denuncia; la traducción explicita ambos valores posibles. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6, FTLN 2958–2981, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; cotejo: First Folio (1623), transcripción en Wikisource, https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_%281910%29/The_Tragedy_of_Coriolanus/Act_4_Scene_6."
+            }
+          ]
+        },
+        {
+          "line": "2972–2975",
+          "speaker": "brutus",
+          "en": "Caius Martius was\nA worthy officer i’ th’ war, but insolent,\nO’ercome with pride, ambitious, past all thinking\nSelf-loving.",
+          "es": "Cayo Marcio fue\nun oficial valioso en la guerra, pero insolente,\ndominado por el orgullo, ambicioso hasta lo inconcebible\ny enamorado de sí mismo.",
+          "notes": [
+            {
+              "term": "i’ th’ war",
+              "title": "i’ th’ war",
+              "type": "Nota filológica",
+              "gloss": "en la guerra",
+              "body": "Contracción de in the, rasgo frecuente del verso dramático inglés. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6, FTLN 2958–2981, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; cotejo: First Folio (1623), transcripción en Wikisource, https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_%281910%29/The_Tragedy_of_Coriolanus/Act_4_Scene_6.",
+              "lemma": "in",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/in"
+            },
+            {
+              "term": "past all thinking",
+              "title": "past all thinking",
+              "type": "Nota filológica",
+              "gloss": "más allá de cuanto pueda imaginarse",
+              "body": "Past es preposición de límite: la ambición excede toda medida concebible. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6, FTLN 2958–2981, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; cotejo: First Folio (1623), transcripción en Wikisource, https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_%281910%29/The_Tragedy_of_Coriolanus/Act_4_Scene_6.",
+              "lemma": "past",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/past"
+            },
+            {
+              "term": "Self-loving",
+              "title": "Self-loving",
+              "type": "Nota filológica",
+              "gloss": "enamorado de sí mismo",
+              "body": "Compuesto que culmina la enumeración de defectos; la caracterización es acusación política de Bruto, no diagnóstico objetivo. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6, FTLN 2958–2981, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; cotejo: First Folio (1623), transcripción en Wikisource, https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_%281910%29/The_Tragedy_of_Coriolanus/Act_4_Scene_6."
+            }
+          ]
+        },
+        {
+          "line": "2976",
+          "speaker": "sicinius",
+          "en": "And affecting one sole throne, without assistance.",
+          "es": "Y aspiraba a ocupar él solo el trono, sin compartir el poder.",
+          "notes": [
+            {
+              "term": "affecting one sole throne",
+              "title": "affecting one sole throne",
+              "type": "Nota filológica",
+              "gloss": "aspiraba al poder monárquico exclusivo",
+              "body": "Affect puede significar pretender o ambicionar; el trono representa una acusación de inclinación monárquica en el marco republicano. Es la acusación de Sicinio, no un hecho demostrado. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6, FTLN 2958–2981, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; cotejo: First Folio (1623), transcripción en Wikisource, https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_%281910%29/The_Tragedy_of_Coriolanus/Act_4_Scene_6.",
+              "lemma": "affect",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/affect"
+            },
+            {
+              "term": "without assistance",
+              "title": "without assistance",
+              "type": "Nota filológica",
+              "gloss": "sin compartir el poder",
+              "body": "La expresión refuerza sole: un mando sin asociados ni contrapesos. La traducción adopta esa lectura política. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6, FTLN 2958–2981, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; cotejo: First Folio (1623), transcripción en Wikisource, https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_%281910%29/The_Tragedy_of_Coriolanus/Act_4_Scene_6."
+            }
+          ]
+        },
+        {
+          "line": "2977",
+          "speaker": "menenius",
+          "en": "I think not so.",
+          "es": "Yo no lo creo.",
+          "notes": []
+        },
+        {
+          "line": "2978–2979",
+          "speaker": "sicinius",
+          "en": "We should by this, to all our lamentation,\nIf he had gone forth consul, found it so.",
+          "es": "A estas alturas, para desgracia de todos,\nsi hubiera llegado a ser cónsul, ya habríamos comprobado que era así.",
+          "notes": [
+            {
+              "term": "We should ... found it so",
+              "title": "We should ... found it so",
+              "type": "Nota filológica",
+              "gloss": "habríamos comprobado que era así",
+              "body": "Condicional contrafactual: should have found, con el auxiliar have elidido o absorbido en la construcción del verso; la frase atribuye una consecuencia hipotética a un consulado que no ocurrió. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6, FTLN 2958–2981, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; cotejo: First Folio (1623), transcripción en Wikisource, https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_%281910%29/The_Tragedy_of_Coriolanus/Act_4_Scene_6."
+            },
+            {
+              "term": "gone forth consul",
+              "title": "gone forth consul",
+              "type": "Nota filológica",
+              "gloss": "llegado a ser cónsul",
+              "body": "Go forth señala el acceso al cargo público, no un desplazamiento físico. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6, FTLN 2958–2981, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; cotejo: First Folio (1623), transcripción en Wikisource, https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_%281910%29/The_Tragedy_of_Coriolanus/Act_4_Scene_6.",
+              "lemma": "go",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/go"
+            }
+          ]
+        },
+        {
+          "line": "2980–2981",
+          "speaker": "brutus",
+          "en": "The gods have well prevented it, and Rome\nSits safe and still without him.",
+          "es": "Los dioses, por fortuna, lo han impedido, y Roma\npermanece segura y tranquila sin él.",
+          "notes": [
+            {
+              "term": "prevented it",
+              "title": "prevented it",
+              "type": "Nota filológica",
+              "gloss": "lo han impedido",
+              "body": "Aquí prevent tiene el sentido de evitar que suceda, aunque en inglés temprano también podía significar anticiparse; no se requiere ese segundo sentido en este contexto. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6, FTLN 2958–2981, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; cotejo: First Folio (1623), transcripción en Wikisource, https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_%281910%29/The_Tragedy_of_Coriolanus/Act_4_Scene_6.",
+              "lemma": "prevent",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/prevent"
+            },
+            {
+              "term": "Sits safe and still",
+              "title": "Sits safe and still",
+              "type": "Nota filológica",
+              "gloss": "permanece segura y tranquila",
+              "body": "La personificación de Roma en reposo intensifica la ironía dramática: el público conoce la alianza militar del desterrado. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6, FTLN 2958–2981, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; cotejo: First Folio (1623), transcripción en Wikisource, https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_%281910%29/The_Tragedy_of_Coriolanus/Act_4_Scene_6."
+            }
+          ]
         }
       ]
     }
