@@ -23146,6 +23146,94 @@ window.SHAKESPEARE_READER_DATA = {
               "lemmaUrl": "https://en.wiktionary.org/wiki/seem"
             }
           ]
+        },
+        {
+          "line": "3128–3130",
+          "speaker": "firstcitizen",
+          "en": "The gods be good to us! Come, masters,\nlet’s home. I ever said we were i’ th’ wrong when\nwe banished him.",
+          "es": "¡Que los dioses nos protejan! Vamos, señores,\nvolvamos a casa. Yo siempre dije que nos equivocábamos\nal desterrarlo.",
+          "notes": [
+            {
+              "term": "I ever said",
+              "title": "I ever said",
+              "type": "Nota filológica",
+              "gloss": "yo siempre dije",
+              "body": "Ever refuerza la pretensión retrospectiva del ciudadano. Su declaración contrasta con el consentimiento popular al destierro y se puede leer como una forma de exculparse; esta última es una interpretación dramática. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; First Folio (1623), transcripción diplomática, https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_4_Scene_6.",
+              "lemma": "ever",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/ever"
+            },
+            {
+              "term": "i’ th’ wrong",
+              "title": "i’ th’ wrong",
+              "type": "Nota filológica",
+              "gloss": "equivocados; en el error",
+              "body": "Contracción de in the wrong, locución que expresa estar equivocado o haber actuado mal. No alude a una localización física. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; First Folio (1623), transcripción diplomática, https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_4_Scene_6.",
+              "lemma": "wrong",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/wrong"
+            }
+          ]
+        },
+        {
+          "line": "3131",
+          "speaker": "secondcitizen",
+          "en": "So did we all. But, come, let’s home.",
+          "es": "Eso dijimos todos. Pero vamos, volvamos a casa.",
+          "notes": [
+            {
+              "term": "So did we all",
+              "title": "So did we all",
+              "type": "Nota filológica",
+              "gloss": "eso dijimos todos",
+              "body": "El segundo ciudadano extiende a todos la afirmación del primero; el contraste con el voto anterior intensifica la ironía sobre la memoria colectiva. Observación interpretativa del diálogo. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; First Folio (1623), transcripción diplomática, https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_4_Scene_6."
+            }
+          ]
+        },
+        {
+          "line": "3132",
+          "speaker": "brutus",
+          "en": "I do not like this news.",
+          "es": "No me gustan estas noticias.",
+          "notes": []
+        },
+        {
+          "line": "3133",
+          "speaker": "sicinius",
+          "en": "Nor I.",
+          "es": "A mí tampoco.",
+          "notes": []
+        },
+        {
+          "line": "3134–3135",
+          "speaker": "brutus",
+          "en": "Let’s to the Capitol. Would half my wealth\nWould buy this for a lie.",
+          "es": "Vayamos al Capitolio. ¡Ojalá la mitad de mi fortuna\nbastara para demostrar que esto es mentira!",
+          "notes": [
+            {
+              "term": "Would half my wealth / Would buy this for a lie",
+              "title": "Would half my wealth / Would buy this for a lie",
+              "type": "Nota filológica",
+              "gloss": "ojalá pudiera comprar la falsedad de esta noticia con la mitad de mi fortuna",
+              "body": "El primer would introduce un deseo; el segundo, el resultado imaginado. Buy this for a lie no significa que Bruto quiera comprar una mentira para difundirla, sino que desearía que la noticia resultase falsa. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; First Folio (1623), transcripción diplomática, https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_4_Scene_6.",
+              "lemma": "would",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/would"
+            },
+            {
+              "term": "Capitol",
+              "title": "Capitol",
+              "type": "Nota filológica",
+              "gloss": "Capitolio",
+              "body": "Centro político y religioso de Roma en la geografía dramática de la obra; el traslado indica que los tribunos abandonan su tranquilidad anterior para afrontar la crisis. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; First Folio (1623), transcripción diplomática, https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_4_Scene_6.",
+              "lemma": "Capitol",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/Capitol"
+            }
+          ]
+        },
+        {
+          "line": "3136",
+          "speaker": "sicinius",
+          "en": "Pray, let’s go.",
+          "es": "Por favor, vámonos.",
+          "notes": []
         }
       ]
     }
