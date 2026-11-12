@@ -22891,6 +22891,108 @@ window.SHAKESPEARE_READER_DATA = {
               "lemmaUrl": "https://en.wiktionary.org/wiki/hoot"
             }
           ]
+        },
+        {
+          "line": "3094–3099",
+          "speaker": "cominius",
+          "en": "But I fear\nThey’ll roar him in again. Tullus Aufidius,\nThe second name of men, obeys his points\nAs if he were his officer. Desperation\nIs all the policy, strength, and defense\nThat Rome can make against them.",
+          "es": "Pero me temo\nque ahora lo harán volver entre clamores. Tulo Aufidio,\nel hombre de mayor renombre después de él, obedece sus órdenes\ncomo si fuera su subordinado. La desesperación\nes toda la estrategia, toda la fuerza y toda la defensa\nque Roma puede oponerles.",
+          "notes": [
+            {
+              "term": "roar him in again",
+              "title": "roar him in again",
+              "type": "Nota filológica",
+              "gloss": "hacerlo volver entre clamores",
+              "body": "El verbo roar retoma e invierte el hoot del parlamento anterior: la multitud que lo expulsó a gritos podría aclamar su regreso. Es un contraste retórico dentro de la escena. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; Shakespeare Online, Coriolanus IV.6, https://www.shakespeare-online.com/plays/corio_4_6.html.",
+              "lemma": "roar",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/roar"
+            },
+            {
+              "term": "The second name of men",
+              "title": "The second name of men",
+              "type": "Nota filológica",
+              "gloss": "el hombre de mayor renombre después de él",
+              "body": "Name significa aquí reputación o fama: Aufidio, célebre guerrero, aparece ahora subordinado a Coriolano. La jerarquía es una valoración de Cominio, no una clasificación objetiva. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; Shakespeare Online, Coriolanus IV.6, https://www.shakespeare-online.com/plays/corio_4_6.html.",
+              "lemma": "name",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/name"
+            },
+            {
+              "term": "obeys his points",
+              "title": "obeys his points",
+              "type": "Nota filológica",
+              "gloss": "obedece sus órdenes",
+              "body": "Points se entiende contextualmente como indicaciones u órdenes militares; el contraste está en que Aufidio actúa como un oficial subordinado. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; Shakespeare Online, Coriolanus IV.6, https://www.shakespeare-online.com/plays/corio_4_6.html.",
+              "lemma": "point",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/point"
+            },
+            {
+              "term": "policy, strength, and defense",
+              "title": "policy, strength, and defense",
+              "type": "Nota filológica",
+              "gloss": "estrategia, fuerza y defensa",
+              "body": "La enumeración acumula tres recursos de gobierno y guerra para reducirlos irónicamente a uno solo: la desesperación. La interpretación procede del contexto inmediato. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; Shakespeare Online, Coriolanus IV.6, https://www.shakespeare-online.com/plays/corio_4_6.html."
+            }
+          ]
+        },
+        {
+          "line": "3100–3111",
+          "speaker": "menenius",
+          "en": "Here come the\nclusters.—\nAnd is Aufidius with him? You are they\nThat made the air unwholesome when you cast\nYour stinking, greasy caps in hooting at\nCoriolanus’ exile. Now he’s coming,\nAnd not a hair upon a soldier’s head\nWhich will not prove a whip. As many coxcombs\nAs you threw caps up will he tumble down\nAnd pay you for your voices. ’Tis no matter.\nIf he could burn us all into one coal,\nWe have deserved it.",
+          "es": "Ahí vienen los\ngrupos de gente.\n¿Y Aufidio está con él? Ustedes son los mismos\nque contaminaron el aire cuando arrojaron\nsus gorros grasientos y malolientes mientras aclamaban\nel destierro de Coriolano. Ahora él regresa,\ny hasta el último cabello de cada soldado se convertirá\nen un látigo. Hará rodar tantas cabezas\ncomo gorros lanzaron ustedes al aire,\ny así les pagará sus votos. Pero qué importa.\nAunque pudiera quemarnos a todos hasta reducirnos a un solo carbón,\nnos lo habríamos merecido.",
+          "notes": [
+            {
+              "term": "clusters",
+              "title": "clusters",
+              "type": "Nota filológica",
+              "gloss": "grupos de gente; multitudes",
+              "body": "Menenio retoma el término despectivo que usó en 3092 para referirse a los partidarios de los tribunos; la entrada de los ciudadanos materializa la acusación. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; Shakespeare Online, Coriolanus IV.6, https://www.shakespeare-online.com/plays/corio_4_6.html.",
+              "lemma": "cluster",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/cluster"
+            },
+            {
+              "term": "stinking, greasy caps",
+              "title": "stinking, greasy caps",
+              "type": "Nota filológica",
+              "gloss": "gorros grasientos y malolientes",
+              "body": "El tocado de los plebeyos se convierte en un emblema de su condición social; los adjetivos expresan el desprecio de Menenio por ellos, no un juicio del editor. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; Shakespeare Online, Coriolanus IV.6, https://www.shakespeare-online.com/plays/corio_4_6.html.",
+              "lemma": "cap",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/cap"
+            },
+            {
+              "term": "not a hair upon a soldier’s head / Which will not prove a whip",
+              "title": "not a hair upon a soldier’s head / Which will not prove a whip",
+              "type": "Nota filológica",
+              "gloss": "hasta cada cabello de los soldados será un látigo",
+              "body": "Hipérbole que imagina una capacidad de castigo desmesurada: cada pelo de los invasores podría servir para azotar a los romanos. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; Shakespeare Online, Coriolanus IV.6, https://www.shakespeare-online.com/plays/corio_4_6.html."
+            },
+            {
+              "term": "coxcombs",
+              "title": "coxcombs",
+              "type": "Nota filológica",
+              "gloss": "cabezas de necios; cabezas",
+              "body": "Coxcomb puede significar necio o su cabeza, con resonancias de la cresta del gallo; aquí se contrapone al gorro que los ciudadanos lanzaron al aire. Traducir «cabezas» conserva la amenaza de hacerlas caer. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; Shakespeare Online, Coriolanus IV.6, https://www.shakespeare-online.com/plays/corio_4_6.html.",
+              "lemma": "coxcomb",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/coxcomb"
+            },
+            {
+              "term": "pay you for your voices",
+              "title": "pay you for your voices",
+              "type": "Nota filológica",
+              "gloss": "hacerles pagar sus votos",
+              "body": "Voice tiene valor político de voto o apoyo; pay juega con el precio de haber apoyado el destierro. La represalia anunciada es una predicción de Menenio, no un hecho consumado. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; Shakespeare Online, Coriolanus IV.6, https://www.shakespeare-online.com/plays/corio_4_6.html.",
+              "lemma": "voice",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/voice"
+            },
+            {
+              "term": "one coal",
+              "title": "one coal",
+              "type": "Nota filológica",
+              "gloss": "un solo carbón",
+              "body": "Imagen de destrucción absoluta: todos los romanos consumidos en una única masa carbonizada. Es una exageración penitencial de Menenio, que incluye su propia responsabilidad. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; Shakespeare Online, Coriolanus IV.6, https://www.shakespeare-online.com/plays/corio_4_6.html.",
+              "lemma": "coal",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/coal"
+            }
+          ]
         }
       ]
     }

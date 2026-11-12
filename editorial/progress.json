@@ -1516,13 +1516,22 @@
       "last_line": 3093,
       "editorial_state": "translated_source_checked_external_references",
       "note": "Cinco parlamentos completos: imposibilidad de pedir clemencia, ironía sobre los tribunos y responsabilidad de los nobles; cotejo Folger y MIT Shakespeare. Glosas españolas y enlaces léxicos. Revisión retrospectiva y cotejo privado pendientes."
+    },
+    {
+      "id": "coriolanus-4-6-3094-3111",
+      "act": 4,
+      "scene": 6,
+      "first_line": 3094,
+      "last_line": 3111,
+      "editorial_state": "translated_source_checked_external_references",
+      "note": "Dos parlamentos completos (18 líneas): Cominio denuncia la subordinación de Aufidio y Menenio increpa a los ciudadanos; cotejo Folger IV.6 y Shakespeare Online, con glosas contextualizadas. Cotejo privado y revisión retrospectiva pendientes."
     }
   ],
   "next_fragment": {
     "act": 4,
     "scene": 6,
-    "first_line": 3094,
-    "note": "Cominio describe la subordinación de Aufidio y entran los ciudadanos."
+    "first_line": 3112,
+    "note": "Respuestas de los ciudadanos ante la invasión; continuar por parlamentos completos."
   },
   "completed_acts": [],
   "last_update_commit": "pending_atomic_commit",
