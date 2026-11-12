@@ -1435,13 +1435,22 @@
       "last_line": 2916,
       "editorial_state": "translated_source_checked_external_references",
       "note": "Seis parlamentos completos: partidarios ocultos, malapropismo directitude y movilización inmediata; Folger, Shakespeare Online y Wiktionary cotejados. Cotejo privado pendiente."
+    },
+    {
+      "id": "coriolanus-4-5-2917-2935",
+      "act": 4,
+      "scene": 5,
+      "first_line": 2917,
+      "last_line": 2935,
+      "editorial_state": "translated_source_checked_external_references",
+      "note": "Seis parlamentos completos y cierre de IV.5; Folger cotejado con Shakespeare Online, divergencia walking/waking documentada, glosas y fuentes externas. Revisión retrospectiva y cotejo privado pendientes."
     }
   ],
   "next_fragment": {
     "act": 4,
-    "scene": 5,
-    "first_line": 2917,
-    "note": "Continuar con el comentario de los criados sobre guerra y paz, respetando los parlamentos completos."
+    "scene": 6,
+    "first_line": 2936,
+    "note": "Comenzar IV.6 tras comprobar la numeración y los parlamentos en Folger."
   },
   "completed_acts": [],
   "last_update_commit": "pending_atomic_commit",

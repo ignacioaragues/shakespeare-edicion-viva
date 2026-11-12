@@ -21513,6 +21513,169 @@ window.SHAKESPEARE_READER_DATA = {
               "lemmaUrl": "https://en.wiktionary.org/wiki/ere"
             }
           ]
+        },
+        {
+          "line": "2917–2919",
+          "speaker": "second-servingman",
+          "en": "Why then, we shall have a stirring\nworld again. This peace is nothing but to rust iron,\nincrease tailors, and breed ballad-makers.",
+          "es": "Entonces volveremos a tener un mundo agitado. Esta paz no sirve más que para oxidar el hierro, multiplicar los sastres y criar compositores de baladas.",
+          "notes": [
+            {
+              "term": "stirring world",
+              "title": "stirring world",
+              "type": "Nota filológica",
+              "gloss": "mundo agitado, lleno de movimiento",
+              "body": "Stirring opone la agitación bélica a la quietud civil; el elogio procede de un criado, de modo que no debe confundirse sin más con la voz del dramaturgo. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.5, FTLN 2917–2935, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; Shakespeare Online, Coriolanus IV.5, https://www.shakespeare-online.com/plays/corio_4_5.html.",
+              "lemma": "stirring",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/stirring"
+            },
+            {
+              "term": "rust iron",
+              "title": "rust iron",
+              "type": "Nota filológica",
+              "gloss": "oxidar las armas",
+              "body": "Iron puede representar por metonimia las armas desatendidas durante la paz; la imagen forma parte de una enumeración satírica. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.5, FTLN 2917–2935, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; Shakespeare Online, Coriolanus IV.5, https://www.shakespeare-online.com/plays/corio_4_5.html.",
+              "lemma": "iron",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/iron"
+            },
+            {
+              "term": "breed ballad-makers",
+              "title": "breed ballad-makers",
+              "type": "Nota filológica",
+              "gloss": "producir compositores de baladas",
+              "body": "Las baladas se asocian aquí con una actividad de ocio o relato popular; el criado caricaturiza las ocupaciones pacíficas. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.5, FTLN 2917–2935, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; Shakespeare Online, Coriolanus IV.5, https://www.shakespeare-online.com/plays/corio_4_5.html.",
+              "lemma": "ballad",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/ballad"
+            }
+          ]
+        },
+        {
+          "line": "2920–2925",
+          "speaker": "first-servingman",
+          "en": "Let me have war, say I. It exceeds\npeace as far as day does night. It’s sprightly walking,\naudible, and full of vent. Peace is a very apoplexy,\nlethargy; mulled, deaf, sleepy, insensible; a getter\nof more bastard children than war’s a destroyer of\nmen.",
+          "es": "Yo digo que prefiero la guerra. Supera a la paz tanto como el día supera a la noche. Tiene un andar vivaz, hace ruido y rebosa ímpetu. La paz es pura apoplejía, puro letargo: está embotada, sorda, soñolienta, insensible; engendra más hijos ilegítimos que hombres mata la guerra.",
+          "notes": [
+            {
+              "term": "sprightly walking",
+              "title": "sprightly walking",
+              "type": "Nota filológica",
+              "gloss": "de andar vivaz",
+              "body": "Folger lee walking, que aquí se entiende como movimiento enérgico; Shakespeare Online y otras transcripciones ofrecen waking («despierta»). Se registra la divergencia sin atribuirle una procedencia textual no comprobada. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.5, FTLN 2917–2935, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; Shakespeare Online, Coriolanus IV.5, https://www.shakespeare-online.com/plays/corio_4_5.html.",
+              "lemma": "walk",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/walk"
+            },
+            {
+              "term": "full of vent",
+              "title": "full of vent",
+              "type": "Nota filológica",
+              "gloss": "rebosante de ímpetu; con salida para su energía",
+              "body": "Vent admite la idea de desahogo o exteriorización; el sentido exacto de la imagen es interpretativo, en contraste con la paz paralizada. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.5, FTLN 2917–2935, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; Shakespeare Online, Coriolanus IV.5, https://www.shakespeare-online.com/plays/corio_4_5.html.",
+              "lemma": "vent",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/vent"
+            },
+            {
+              "term": "apoplexy, lethargy",
+              "title": "apoplexy, lethargy",
+              "type": "Nota filológica",
+              "gloss": "apoplejía, letargo",
+              "body": "Vocabulario médico aplicado metafóricamente a la paz como inmovilidad o pérdida de sensibilidad; no constituye un diagnóstico. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.5, FTLN 2917–2935, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; Shakespeare Online, Coriolanus IV.5, https://www.shakespeare-online.com/plays/corio_4_5.html.",
+              "lemma": "apoplexy",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/apoplexy"
+            },
+            {
+              "term": "mulled",
+              "title": "mulled",
+              "type": "Nota filológica",
+              "gloss": "embotada, aturdida",
+              "body": "Adjetivo de valor histórico discutible; se interpreta por su coordinación con deaf, sleepy e insensible, evitando atribuirle automáticamente el sentido culinario moderno de mulled wine. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.5, FTLN 2917–2935, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; Shakespeare Online, Coriolanus IV.5, https://www.shakespeare-online.com/plays/corio_4_5.html.",
+              "lemma": "mull",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/mull"
+            },
+            {
+              "term": "a getter of more bastard children",
+              "title": "a getter of more bastard children",
+              "type": "Nota filológica",
+              "gloss": "engendra más hijos ilegítimos",
+              "body": "La comparación grotesca contrapone los nacimientos extramatrimoniales en la paz con las muertes en la guerra; es una racionalización cómica, no una afirmación estadística. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.5, FTLN 2917–2935, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; Shakespeare Online, Coriolanus IV.5, https://www.shakespeare-online.com/plays/corio_4_5.html.",
+              "lemma": "get",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/get"
+            }
+          ]
+        },
+        {
+          "line": "2926–2928",
+          "speaker": "second-servingman",
+          "en": "’Tis so, and as wars in some sort\nmay be said to be a ravisher, so it cannot be denied\nbut peace is a great maker of cuckolds.",
+          "es": "Así es. Y aunque se pueda decir que la guerra es, en cierto modo, una violadora, tampoco se puede negar que la paz convierte a muchos maridos en cornudos.",
+          "notes": [
+            {
+              "term": "ravisher",
+              "title": "ravisher",
+              "type": "Nota filológica",
+              "gloss": "violador, agresor sexual",
+              "body": "Ravisher remite aquí a la violencia sexual asociada a la guerra. El paralelismo no disculpa esa violencia: el criado la contrapone burlescamente a la infidelidad conyugal. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.5, FTLN 2917–2935, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; Shakespeare Online, Coriolanus IV.5, https://www.shakespeare-online.com/plays/corio_4_5.html.",
+              "lemma": "ravisher",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/ravisher"
+            },
+            {
+              "term": "maker of cuckolds",
+              "title": "maker of cuckolds",
+              "type": "Nota filológica",
+              "gloss": "hace maridos engañados, cornudos",
+              "body": "Cuckold designa al marido cuya esposa le es infiel; la frase continúa la burla sexual iniciada en el parlamento anterior. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.5, FTLN 2917–2935, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; Shakespeare Online, Coriolanus IV.5, https://www.shakespeare-online.com/plays/corio_4_5.html.",
+              "lemma": "cuckold",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/cuckold"
+            }
+          ]
+        },
+        {
+          "line": "2929–2930",
+          "speaker": "first-servingman",
+          "en": "Ay, and it makes men hate one\nanother.",
+          "es": "Sí, y además hace que los hombres se odien unos a otros.",
+          "notes": []
+        },
+        {
+          "line": "2931–2934",
+          "speaker": "third-servingman",
+          "en": "Reason: because they then less\nneed one another. The wars for my money! I hope\nto see Romans as cheap as Volscians. ⌜(Noise within.)⌝\nThey are rising; they are rising.",
+          "es": "La razón es que entonces se necesitan menos unos a otros. ¡Yo apuesto por la guerra! Espero ver a los romanos tan baratos como los volscos. [Se oye ruido dentro.] Se están levantando; se están levantando.",
+          "notes": [
+            {
+              "term": "less need one another",
+              "title": "less need one another",
+              "type": "Nota filológica",
+              "gloss": "se necesitan menos entre sí",
+              "body": "La explicación invierte la expectativa moral: el criado considera que la dependencia mutua durante la guerra une a las personas más que la paz. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.5, FTLN 2917–2935, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; Shakespeare Online, Coriolanus IV.5, https://www.shakespeare-online.com/plays/corio_4_5.html.",
+              "lemma": "need",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/need"
+            },
+            {
+              "term": "The wars for my money",
+              "title": "The wars for my money",
+              "type": "Nota filológica",
+              "gloss": "yo apuesto por la guerra",
+              "body": "Fórmula de preferencia o apuesta, no necesariamente una transacción monetaria literal. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.5, FTLN 2917–2935, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; Shakespeare Online, Coriolanus IV.5, https://www.shakespeare-online.com/plays/corio_4_5.html.",
+              "lemma": "money",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/money"
+            },
+            {
+              "term": "Romans as cheap as Volscians",
+              "title": "Romans as cheap as Volscians",
+              "type": "Nota filológica",
+              "gloss": "romanos tan baratos como volscos",
+              "body": "Cheap puede referirse al bajo precio o escaso valor atribuido a las vidas en guerra; la equiparación es una lectura irónica, no una cotización literal. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.5, FTLN 2917–2935, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; Shakespeare Online, Coriolanus IV.5, https://www.shakespeare-online.com/plays/corio_4_5.html.",
+              "lemma": "cheap",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/cheap"
+            }
+          ]
+        },
+        {
+          "line": "2935",
+          "speaker": "both-servingmen",
+          "en": "In, in, in, in! ⌜They exit.⌝",
+          "es": "¡Adentro, adentro, adentro, adentro! [Salen.]",
+          "notes": []
         }
       ]
     }
