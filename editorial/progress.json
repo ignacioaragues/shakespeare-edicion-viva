@@ -1507,13 +1507,22 @@
       "last_line": 3071,
       "editorial_state": "translated_source_checked_external_references",
       "note": "Cinco parlamentos completos: amenaza de Cominio, Hércules, deserciones y petición de clemencia; cotejo Folger IV.6 y Shakespeare Online, con glosas y enlaces léxicos. Revisión retrospectiva y cotejo privado pendientes."
+    },
+    {
+      "id": "coriolanus-4-6-3072-3093",
+      "act": 4,
+      "scene": 6,
+      "first_line": 3072,
+      "last_line": 3093,
+      "editorial_state": "translated_source_checked_external_references",
+      "note": "Cinco parlamentos completos: imposibilidad de pedir clemencia, ironía sobre los tribunos y responsabilidad de los nobles; cotejo Folger y MIT Shakespeare. Glosas españolas y enlaces léxicos. Revisión retrospectiva y cotejo privado pendientes."
     }
   ],
   "next_fragment": {
     "act": 4,
     "scene": 6,
-    "first_line": 3072,
-    "note": "Cominio pregunta quién puede solicitar clemencia a Coriolano."
+    "first_line": 3094,
+    "note": "Cominio describe la subordinación de Aufidio y entran los ciudadanos."
   },
   "completed_acts": [],
   "last_update_commit": "pending_atomic_commit",

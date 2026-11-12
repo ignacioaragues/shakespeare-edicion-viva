@@ -22773,6 +22773,124 @@ window.SHAKESPEARE_READER_DATA = {
               "lemmaUrl": "https://en.wiktionary.org/wiki/have"
             }
           ]
+        },
+        {
+          "line": "3072–3079",
+          "speaker": "cominius",
+          "en": "Who shall ask it?\nThe Tribunes cannot do ’t for shame; the people\nDeserve such pity of him as the wolf\nDoes of the shepherds. For his best friends, if they\nShould say “Be good to Rome,” they charged him\neven\nAs those should do that had deserved his hate\nAnd therein showed like enemies.",
+          "es": "¿Y quién va a pedírsela?\nLos tribunos no pueden hacerlo, de pura vergüenza; el pueblo\nmerece de él tanta compasión como la que un lobo\nmerece de los pastores. En cuanto a sus mejores amigos, si\nle dijeran «Ten piedad de Roma», le estarían exigiendo\nlo mismo\nque quienes se han ganado su odio,\ny parecerían enemigos suyos.",
+          "notes": [
+            {
+              "term": "such pity of him as the wolf / Does of the shepherds",
+              "title": "such pity of him as the wolf / Does of the shepherds",
+              "type": "Nota filológica",
+              "gloss": "tanta compasión como un lobo de los pastores",
+              "body": "Comparación deliberadamente adversa: en la perspectiva de Cominio, los ciudadanos han perseguido a Coriolano como los pastores persiguen a un lobo. Of him indica aquí la piedad que recibirían de él, no la que sentirían por él. Cotejo: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; texto paralelo, MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.4.6.html."
+            },
+            {
+              "term": "they charged him",
+              "title": "they charged him",
+              "type": "Nota filológica",
+              "gloss": "le estarían exigiendo",
+              "body": "Charged es la forma que recoge la edición Folger; la subordinación condicional con should say proyecta una petición hipotética. El verbo tiene aquí el matiz de imponer una obligación, no de formular una súplica inocua. Cotejo: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; texto paralelo, MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.4.6.html.",
+              "lemma": "charge",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/charge"
+            },
+            {
+              "term": "showed like enemies",
+              "title": "showed like enemies",
+              "type": "Nota filológica",
+              "gloss": "parecerían enemigos",
+              "body": "Showed like significa «parecer, mostrarse como»; la paradoja es que incluso sus amigos, al pedirle clemencia, actuarían como quienes lo expulsaron. Cotejo: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; texto paralelo, MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.4.6.html.",
+              "lemma": "show",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/show"
+            }
+          ]
+        },
+        {
+          "line": "3080–3085",
+          "speaker": "menenius",
+          "en": "’Tis true.\nIf he were putting to my house the brand\nThat should consume it, I have not the face\nTo say “Beseech you, cease.”—You have made fair\nhands,\nYou and your crafts! You have crafted fair!",
+          "es": "Es verdad.\nAunque estuviera aplicando a mi casa la antorcha\nque habría de consumirla, no tendría el descaro\nde decirle «Te ruego que te detengas». ¡Menudo desastre\nhan provocado\nustedes con sus artimañas! ¡Qué bien han tramado todo!",
+          "notes": [
+            {
+              "term": "the brand / That should consume it",
+              "title": "the brand / That should consume it",
+              "type": "Nota filológica",
+              "gloss": "la antorcha que habría de consumirla",
+              "body": "Brand es un tizón o leño encendido usado para prender fuego. La imagen traslada la amenaza de la ciudad al hogar del propio Menenio. Cotejo: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; texto paralelo, MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.4.6.html.",
+              "lemma": "brand",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/brand"
+            },
+            {
+              "term": "I have not the face",
+              "title": "I have not the face",
+              "type": "Nota filológica",
+              "gloss": "no tendría el descaro",
+              "body": "Expresión idiomática: no tener cara o atrevimiento para pedir algo; aquí pesa la vergüenza ante Coriolano, incluso para un amigo suyo. Cotejo: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; texto paralelo, MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.4.6.html.",
+              "lemma": "face",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/face"
+            },
+            {
+              "term": "made fair / hands",
+              "title": "made fair / hands",
+              "type": "Nota filológica",
+              "gloss": "¡menudo desastre han provocado!",
+              "body": "Fair hands es una expresión irónica de resultado desastroso. Menenio prolonga el reproche con el juego entre crafts («ardides») y crafted («tramado»). La puntuación y la separación de versos de Folger dejan visible la ironía. Cotejo: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; texto paralelo, MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.4.6.html.",
+              "lemma": "craft",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/craft"
+            }
+          ]
+        },
+        {
+          "line": "3086–3089",
+          "speaker": "cominius",
+          "en": "You have\nbrought\nA trembling upon Rome such as was never\nS’ incapable of help.",
+          "es": "Han hecho\ncaer sobre Roma\nun temblor de miedo como nunca se había visto,\ny frente al cual está tan indefensa.",
+          "notes": [
+            {
+              "term": "S’ incapable of help",
+              "title": "S’ incapable of help",
+              "type": "Nota filológica",
+              "gloss": "tan incapaz de recibir ayuda; tan indefensa",
+              "body": "S’ abrevia so. La frase caracteriza la vulnerabilidad excepcional de Roma ante la amenaza; el referente de la incapacidad es la ciudad y su posibilidad de ser socorrida. Cotejo: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; texto paralelo, MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.4.6.html.",
+              "lemma": "incapable",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/incapable"
+            }
+          ]
+        },
+        {
+          "line": "3090",
+          "speaker": "tribunes",
+          "en": "Say not we brought it.",
+          "es": "No digan que nosotros lo provocamos.",
+          "notes": []
+        },
+        {
+          "line": "3091–3093",
+          "speaker": "menenius",
+          "en": "How? Was ’t we? We loved him, but like beasts\nAnd cowardly nobles, gave way unto your clusters,\nWho did hoot him out o’ th’ city.",
+          "es": "¿Cómo? ¿Fuimos nosotros? Lo queríamos, pero, como animales\ny nobles cobardes, cedimos ante sus grupos,\nque lo echaron de la ciudad entre abucheos.",
+          "notes": [
+            {
+              "term": "your clusters",
+              "title": "your clusters",
+              "type": "Nota filológica",
+              "gloss": "sus grupos; sus multitudes",
+              "body": "Clusters designa aquí a los grupos de ciudadanos movilizados por los tribunos, con una valoración despectiva de la acción colectiva. Cotejo: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; texto paralelo, MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.4.6.html.",
+              "lemma": "cluster",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/cluster"
+            },
+            {
+              "term": "hoot him out",
+              "title": "hoot him out",
+              "type": "Nota filológica",
+              "gloss": "expulsarlo entre abucheos",
+              "body": "Hoot expresa los gritos de burla o desaprobación; Menenio reconoce que la nobleza cedió ante la presión popular. Cotejo: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; texto paralelo, MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.4.6.html.",
+              "lemma": "hoot",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/hoot"
+            }
+          ]
         }
       ]
     }
