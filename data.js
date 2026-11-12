@@ -21687,7 +21687,7 @@ window.SHAKESPEARE_READER_DATA = {
       "scene": 6,
       "place": "Roma · Un espacio público",
       "sourceRef": "Folger Shakespeare Library · Acto IV, escena 6",
-      "sectionLabel": "Edición en curso · líneas 2936–3006",
+      "sectionLabel": "Edición en curso · líneas 2936–3028",
       "introduction": "Los tribunos celebran la calma de Roma tras el destierro, ignorando la nueva alianza militar de Coriolano.",
       "stage": "Entran los tribunos Sicinio y Bruto. [Después de 2945 entra Menenio.]",
       "characters": [
@@ -21738,6 +21738,13 @@ window.SHAKESPEARE_READER_DATA = {
           "name": "Edil",
           "english": "Aedile",
           "identity": "Magistrado romano que transmite a los tribunos una denuncia de invasión.",
+          "color": "slate"
+        },
+        {
+          "id": "messenger",
+          "name": "Mensajero",
+          "english": "Messenger",
+          "identity": "Portador de noticias urgentes para los tribunos.",
           "color": "slate"
         }
       ],
@@ -22291,6 +22298,165 @@ window.SHAKESPEARE_READER_DATA = {
           "en": "Not possible.",
           "es": "Imposible.",
           "notes": []
+        },
+        {
+          "line": "3007–3009",
+          "speaker": "messenger",
+          "en": "The nobles in great earnestness are going\nAll to the Senate House. Some news is coming\nThat turns their countenances.",
+          "es": "Los nobles acuden todos al Senado\ncon gran preocupación. Están llegando noticias\nque les cambian la expresión del rostro.",
+          "notes": [
+            {
+              "term": "turns their countenances",
+              "title": "turns their countenances",
+              "type": "Nota filológica",
+              "gloss": "les cambia la expresión",
+              "body": "La noticia se comunica primero por sus efectos visibles en los rostros de los patricios; la naturaleza de la amenaza aún se demora. Observación retórica derivada del pasaje. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus, IV.6 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; First Folio (1623), transcripción diplomática en Wikisource, https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_4_Scene_6; léxico: https://en.wiktionary.org/wiki/countenance",
+              "lemma": "countenance",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/countenance"
+            }
+          ]
+        },
+        {
+          "line": "3010–3012",
+          "speaker": "sicinius",
+          "en": "’Tis this slave—\nGo whip him ’fore the people’s eyes—his raising,\nNothing but his report.",
+          "es": "Todo viene de ese esclavo.\nVayan a azotarlo a la vista del pueblo: él ha inventado\neste alboroto, que no es más que su propio relato.",
+          "notes": [
+            {
+              "term": "his raising",
+              "title": "his raising",
+              "type": "Nota filológica",
+              "gloss": "alboroto inventado por él",
+              "body": "La sintaxis comprimida atribuye al esclavo el origen de la alarma. La puntuación moderna conserva una dificultad del pasaje: el Folio escribe «His raising, / Nothing but his report». Se interpreta como una acusación de haber levantado el rumor, no como un hecho comprobado; cotejo: Shakespeare Online, Coriolanus IV.6, https://www.shakespeare-online.com/plays/corio_4_6.html Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus, IV.6 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; First Folio (1623), transcripción diplomática en Wikisource, https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_4_Scene_6"
+            }
+          ]
+        },
+        {
+          "line": "3013–3015",
+          "speaker": "messenger",
+          "en": "Yes, worthy sir,\nThe slave’s report is seconded, and more,\nMore fearful, is delivered.",
+          "es": "Sin embargo, honorable señor,\nel informe del esclavo ha sido confirmado, y llegan\notras noticias todavía más alarmantes.",
+          "notes": [
+            {
+              "term": "seconded",
+              "title": "seconded",
+              "type": "Nota filológica",
+              "gloss": "corroborado",
+              "body": "Seconded significa que otras voces respaldan la noticia. La insistencia en «more, / More fearful» intensifica la amenaza mediante repetición. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus, IV.6 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; First Folio (1623), transcripción diplomática en Wikisource, https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_4_Scene_6; léxico: https://en.wiktionary.org/wiki/second",
+              "lemma": "second",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/second"
+            }
+          ]
+        },
+        {
+          "line": "3016",
+          "speaker": "sicinius",
+          "en": "What more fearful?",
+          "es": "¿Qué puede ser más alarmante?",
+          "notes": []
+        },
+        {
+          "line": "3017–3021",
+          "speaker": "messenger",
+          "en": "It is spoke freely out of many mouths—\nHow probable I do not know—that Martius,\nJoined with Aufidius, leads a power ’gainst Rome\nAnd vows revenge as spacious as between\nThe young’st and oldest thing.",
+          "es": "Se dice abiertamente por muchas bocas —\naunque no sé hasta qué punto es cierto— que Marcio,\nunido a Aufidio, dirige un ejército contra Roma\ny ha jurado una venganza tan vasta como la distancia\nque separa a lo más joven de lo más antiguo que existe.",
+          "notes": [
+            {
+              "term": "It is spoke",
+              "title": "It is spoke",
+              "type": "Nota filológica",
+              "gloss": "se dice",
+              "body": "Participio spoke donde hoy se esperaría spoken: uso histórico del inglés moderno temprano. El mensajero señala explícitamente que transmite testimonios, no una comprobación personal. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus, IV.6 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; First Folio (1623), transcripción diplomática en Wikisource, https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_4_Scene_6; léxico: https://en.wiktionary.org/wiki/speak",
+              "lemma": "speak",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/speak"
+            },
+            {
+              "term": "as spacious as between / The young’st and oldest thing",
+              "title": "as spacious as between / The young’st and oldest thing",
+              "type": "Nota filológica",
+              "gloss": "tan vasta como toda la existencia",
+              "body": "Hipérbole de alcance temporal: los extremos de lo recién nacido y lo antiquísimo sirven para imaginar una venganza sin límites. Es una interpretación de la imagen, no una medida literal. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus, IV.6 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; First Folio (1623), transcripción diplomática en Wikisource, https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_4_Scene_6; léxico: https://en.wiktionary.org/wiki/spacious",
+              "lemma": "spacious",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/spacious"
+            }
+          ]
+        },
+        {
+          "line": "3022",
+          "speaker": "sicinius",
+          "en": "This is most likely!",
+          "es": "¡Sí, claro, muy creíble!",
+          "notes": [
+            {
+              "term": "This is most likely!",
+              "title": "This is most likely!",
+              "type": "Nota filológica",
+              "gloss": "¡Sí, claro, muy creíble!",
+              "body": "La exclamación admite una lectura irónica: Sicinio continúa negando la información y Bruto la atribuye enseguida a una maniobra. La entonación concreta depende de la representación. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus, IV.6 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; First Folio (1623), transcripción diplomática en Wikisource, https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_4_Scene_6; léxico: https://en.wiktionary.org/wiki/likely",
+              "lemma": "likely",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/likely"
+            }
+          ]
+        },
+        {
+          "line": "3023–3024",
+          "speaker": "brutus",
+          "en": "Raised only that the weaker sort may wish\nGood Martius home again.",
+          "es": "Es un rumor difundido únicamente para que la gente\nmás impresionable desee el regreso del buen Marcio.",
+          "notes": [
+            {
+              "term": "the weaker sort",
+              "title": "the weaker sort",
+              "type": "Nota filológica",
+              "gloss": "la gente más impresionable",
+              "body": "Sort designa un grupo o clase de personas; weaker expresa aquí el desprecio de Bruto por quienes, según él, pueden ser manipulados por el miedo. No debe confundirse con una incapacidad física. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus, IV.6 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; First Folio (1623), transcripción diplomática en Wikisource, https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_4_Scene_6; léxico: https://en.wiktionary.org/wiki/sort",
+              "lemma": "sort",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/sort"
+            }
+          ]
+        },
+        {
+          "line": "3025",
+          "speaker": "sicinius",
+          "en": "The very trick on ’t.",
+          "es": "Esa es exactamente la artimaña.",
+          "notes": [
+            {
+              "term": "on ’t",
+              "title": "on ’t",
+              "type": "Nota filológica",
+              "gloss": "de ello; del asunto",
+              "body": "Contracción de on it; la frase equivale a decir que esa es precisamente la trampa o estratagema. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus, IV.6 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; First Folio (1623), transcripción diplomática en Wikisource, https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_4_Scene_6; léxico: https://en.wiktionary.org/wiki/on",
+              "lemma": "on",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/on"
+            }
+          ]
+        },
+        {
+          "line": "3026–3028",
+          "speaker": "menenius",
+          "en": "This is unlikely;\nHe and Aufidius can no more atone\nThan violent’st contrariety.",
+          "es": "Eso sí que me parece improbable:\nMarcio y Aufidio no podrían reconciliarse\nmás de lo que podrían hacerlo dos fuerzas absolutamente opuestas.",
+          "notes": [
+            {
+              "term": "atone",
+              "title": "atone",
+              "type": "Nota filológica",
+              "gloss": "ponerse de acuerdo; reconciliarse",
+              "body": "Sentido histórico de atone, «hacerse uno», «concordar», no el valor moderno dominante de «expiar». Menenio se equivoca precisamente porque desconoce la alianza ya celebrada en IV.5. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus, IV.6 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; First Folio (1623), transcripción diplomática en Wikisource, https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_4_Scene_6; léxico: https://en.wiktionary.org/wiki/atone",
+              "lemma": "atone",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/atone"
+            },
+            {
+              "term": "violent’st contrariety",
+              "title": "violent’st contrariety",
+              "type": "Nota filológica",
+              "gloss": "la oposición más extrema",
+              "body": "Superlativo contraído de violentest y sustantivo abstracto contrariety. La imposibilidad se formula como comparación paradójica entre antiguos enemigos y fuerzas contrarias. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus, IV.6 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; First Folio (1623), transcripción diplomática en Wikisource, https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_4_Scene_6; léxico: https://en.wiktionary.org/wiki/contrariety",
+              "lemma": "contrariety",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/contrariety"
+            }
+          ]
         }
       ]
     }
