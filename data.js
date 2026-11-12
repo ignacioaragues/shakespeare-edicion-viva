@@ -21369,6 +21369,150 @@ window.SHAKESPEARE_READER_DATA = {
               "lemmaUrl": "https://en.wiktionary.org/wiki/poll"
             }
           ]
+        },
+        {
+          "line": "2900–2901",
+          "speaker": "second-servingman",
+          "en": "And he’s as like to do ’t as any\nman I can imagine.",
+          "es": "Y tiene tantas posibilidades de conseguirlo como cualquier hombre que pueda imaginar.",
+          "notes": [
+            {
+              "term": "as like to do ’t",
+              "title": "as like to do ’t",
+              "type": "Nota filológica",
+              "gloss": "tan capaz de hacerlo como cualquiera",
+              "body": "Like to indica probabilidad, no semejanza física: el criado juzga verosímil la amenaza militar. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.5, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; Shakespeare Online, Coriolanus IV.5, https://www.shakespeare-online.com/plays/corio_4_5.html.",
+              "lemma": "like",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/like"
+            }
+          ]
+        },
+        {
+          "line": "2902–2906",
+          "speaker": "third-servingman",
+          "en": "Do ’t? He will do ’t! For, look you,\nsir, he has as many friends as enemies, which\nfriends, sir, as it were, durst not, look you, sir, show\nthemselves, as we term it, his friends whilest he’s\nin directitude.",
+          "es": "¿Conseguirlo? ¡Claro que lo conseguirá! Porque, mire usted, señor, tiene tantos amigos como enemigos; pero esos amigos, por así decirlo, no se atrevían, mire usted, señor, a declararse amigos suyos mientras él estaba en... directitud.",
+          "notes": [
+            {
+              "term": "durst not",
+              "title": "durst not",
+              "type": "Nota filológica",
+              "gloss": "no se atrevían",
+              "body": "Durst es una forma pretérita de dare; la construcción explica la cautela de los partidarios antes del regreso al poder. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.5, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; Shakespeare Online, Coriolanus IV.5, https://www.shakespeare-online.com/plays/corio_4_5.html.",
+              "lemma": "dare",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/dare"
+            },
+            {
+              "term": "whilest",
+              "title": "whilest",
+              "type": "Nota filológica",
+              "gloss": "mientras",
+              "body": "Variante histórica de whilst/while; introduce la circunstancia temporal de la supuesta desventaja de Coriolano. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.5, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; Shakespeare Online, Coriolanus IV.5, https://www.shakespeare-online.com/plays/corio_4_5.html.",
+              "lemma": "whilst",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/whilst"
+            },
+            {
+              "term": "directitude",
+              "title": "directitude",
+              "type": "Nota filológica",
+              "gloss": "«directitud»; palabra impropia aquí",
+              "body": "El criado usa una palabra afectadamente culta y de sentido inadecuado: parece querer decir desgracia, caída o falta de favor. Wiktionary registra directitude con el sentido obsoleto de 'directness', que no resuelve el contexto; la incomprensión del otro criado hace explícito el malapropismo. Véase https://en.wiktionary.org/wiki/directitude. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.5, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; Shakespeare Online, Coriolanus IV.5, https://www.shakespeare-online.com/plays/corio_4_5.html."
+            }
+          ]
+        },
+        {
+          "line": "2907",
+          "speaker": "first-servingman",
+          "en": "Directitude? What’s that?",
+          "es": "¿Directitud? ¿Y eso qué es?",
+          "notes": []
+        },
+        {
+          "line": "2908–2911",
+          "speaker": "third-servingman",
+          "en": "But when they shall see, sir, his\ncrest up again, and the man in blood, they will out\nof their burrows like coneys after rain, and revel\nall with him.",
+          "es": "Pero cuando vean, señor, que vuelve a levantar la cresta y que está otra vez en pleno poder, saldrán de sus madrigueras como conejos después de la lluvia y se entregarán a la fiesta con él.",
+          "notes": [
+            {
+              "term": "crest up again",
+              "title": "crest up again",
+              "type": "Nota filológica",
+              "gloss": "con la cresta levantada otra vez",
+              "body": "Crest evoca el penacho del casco y la altivez o recuperación de prestigio; la comparación animal intensifica el efecto cómico. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.5, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; Shakespeare Online, Coriolanus IV.5, https://www.shakespeare-online.com/plays/corio_4_5.html.",
+              "lemma": "crest",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/crest"
+            },
+            {
+              "term": "in blood",
+              "title": "in blood",
+              "type": "Nota filológica",
+              "gloss": "en pleno vigor o poder",
+              "body": "No alude aquí literalmente a estar cubierto de sangre: la expresión caracteriza una situación de fuerza y éxito. Es una lectura contextual, no una equivalencia universal. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.5, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; Shakespeare Online, Coriolanus IV.5, https://www.shakespeare-online.com/plays/corio_4_5.html.",
+              "lemma": "blood",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/blood"
+            },
+            {
+              "term": "coneys",
+              "title": "coneys",
+              "type": "Nota filológica",
+              "gloss": "conejos",
+              "body": "Forma histórica para rabbits; la imagen de salir de las madrigueras caricaturiza a los oportunistas que reaparecen cuando cambia la fortuna. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.5, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; Shakespeare Online, Coriolanus IV.5, https://www.shakespeare-online.com/plays/corio_4_5.html.",
+              "lemma": "coney",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/coney"
+            }
+          ]
+        },
+        {
+          "line": "2912",
+          "speaker": "first-servingman",
+          "en": "But when goes this forward?",
+          "es": "Pero ¿cuándo se pondrá esto en marcha?",
+          "notes": [
+            {
+              "term": "goes this forward",
+              "title": "goes this forward",
+              "type": "Nota filológica",
+              "gloss": "se pondrá en marcha",
+              "body": "La pregunta se refiere al inicio de la expedición militar, no al movimiento físico de los interlocutores. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.5, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; Shakespeare Online, Coriolanus IV.5, https://www.shakespeare-online.com/plays/corio_4_5.html.",
+              "lemma": "forward",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/forward"
+            }
+          ]
+        },
+        {
+          "line": "2913–2916",
+          "speaker": "third-servingman",
+          "en": "Tomorrow, today, presently. You\nshall have the drum struck up this afternoon. ’Tis,\nas it were, a parcel of their feast, and to be executed\nere they wipe their lips.",
+          "es": "Mañana, hoy, en cualquier momento. Esta misma tarde sonará el tambor de llamada. Es, por así decirlo, una parte más del banquete, y se llevará a cabo antes de que terminen de limpiarse los labios.",
+          "notes": [
+            {
+              "term": "presently",
+              "title": "presently",
+              "type": "Nota filológica",
+              "gloss": "enseguida, en cualquier momento",
+              "body": "En este contexto presently indica inmediatez; la secuencia mañana/hoy/enseguida exagera la urgencia. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.5, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; Shakespeare Online, Coriolanus IV.5, https://www.shakespeare-online.com/plays/corio_4_5.html.",
+              "lemma": "presently",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/presently"
+            },
+            {
+              "term": "a parcel of their feast",
+              "title": "a parcel of their feast",
+              "type": "Nota filológica",
+              "gloss": "una parte más del banquete",
+              "body": "Parcel significa parte o porción; la expedición bélica queda grotescamente asimilada a un plato del convite. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.5, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; Shakespeare Online, Coriolanus IV.5, https://www.shakespeare-online.com/plays/corio_4_5.html.",
+              "lemma": "parcel",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/parcel"
+            },
+            {
+              "term": "ere they wipe their lips",
+              "title": "ere they wipe their lips",
+              "type": "Nota filológica",
+              "gloss": "antes de que se limpien los labios",
+              "body": "Ere equivale a before; la hipérbole une el final de la comida con la movilización instantánea. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.5, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; Shakespeare Online, Coriolanus IV.5, https://www.shakespeare-online.com/plays/corio_4_5.html.",
+              "lemma": "ere",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/ere"
+            }
+          ]
         }
       ]
     }
