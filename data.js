@@ -19981,7 +19981,7 @@ window.SHAKESPEARE_READER_DATA = {
       "scene": 5,
       "place": "Ancio · Casa de Aufidio",
       "sourceRef": "Folger Shakespeare Library · Acto IV, escena 5",
-      "sectionLabel": "Edición en curso · líneas 2677–2839",
+      "sectionLabel": "Edición en curso · líneas 2677–2865",
       "introduction": "En medio de los preparativos de un banquete, los criados de Aufidio confunden al desterrado Coriolano con un intruso de condición humilde y procuran echarlo.",
       "stage": "Suena música. Entra el primer criado, que sale tras pedir vino. Entra el segundo criado y sale buscando a Coto. Entra Coriolano, disfrazado. El primer criado entra y sale; luego vuelve a entrar el segundo criado. Entra el tercer criado y el primero lo intercepta; el primero se aparta. Coriolano empuja al tercero; el segundo sale para avisar a Aufidio. El tercer criado interroga a Coriolano; este lo golpea y lo expulsa. Entran Aufidio y el segundo criado, que se aparta. Coriolano se descubre el rostro y comienza a revelarse ante su antiguo enemigo.",
       "characters": [
@@ -20957,6 +20957,180 @@ window.SHAKESPEARE_READER_DATA = {
               "lemmaUrl": "https://en.wiktionary.org/wiki/your"
             }
           ]
+        },
+        {
+          "line": "2840",
+          "speaker": "first-servingman",
+          "en": "Here’s a strange alteration!",
+          "es": "¡Qué cambio tan extraordinario!",
+          "notes": []
+        },
+        {
+          "line": "2841–2843",
+          "speaker": "second-servingman",
+          "en": "By my hand, I had thought to\nhave strucken him with a cudgel, and yet my mind\ngave me his clothes made a false report of him.",
+          "es": "¡Por mi mano! Había pensado darle\ncon un garrote, pero algo me decía\nque su ropa daba una impresión falsa de él.",
+          "notes": [
+            {
+              "term": "strucken",
+              "title": "strucken",
+              "type": "Nota filológica",
+              "gloss": "golpeado",
+              "body": "Participio histórico de strike; la forma hoy corriente es struck. Fuentes: Folger Shakespeare Library, Coriolanus IV.5, FTLN 2840–2865, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; Shakespeare Online, IV.5, https://www.shakespeare-online.com/plays/corio_4_5.html.",
+              "lemma": "strike",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/strike"
+            },
+            {
+              "term": "made a false report",
+              "title": "made a false report",
+              "type": "Nota filológica",
+              "gloss": "daba una impresión falsa",
+              "body": "Report equivale aquí a testimonio o informe: la ropa parece declarar erróneamente la condición social del visitante. Fuentes: Folger Shakespeare Library, Coriolanus IV.5, FTLN 2840–2865, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; Shakespeare Online, IV.5, https://www.shakespeare-online.com/plays/corio_4_5.html."
+            }
+          ]
+        },
+        {
+          "line": "2844–2846",
+          "speaker": "first-servingman",
+          "en": "What an arm he has! He turned me\nabout with his finger and his thumb as one would\nset up a top.",
+          "es": "¡Qué brazo tiene! Me hizo girar\ncon el índice y el pulgar, como quien\npone a girar una peonza.",
+          "notes": [
+            {
+              "term": "set up a top",
+              "title": "set up a top",
+              "type": "Nota filológica",
+              "gloss": "poner a girar una peonza",
+              "body": "La comparación cómica reduce al criado a un juguete manejado sin esfuerzo. Fuentes: Folger Shakespeare Library, Coriolanus IV.5, FTLN 2840–2865, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; Shakespeare Online, IV.5, https://www.shakespeare-online.com/plays/corio_4_5.html.",
+              "lemma": "top",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/top"
+            }
+          ]
+        },
+        {
+          "line": "2847–2849",
+          "speaker": "second-servingman",
+          "en": "Nay, I knew by his face that there\nwas something in him. He had, sir, a kind of face,\nmethought—I cannot tell how to term it.",
+          "es": "No, yo sabía por su rostro que tenía\nalgo especial. Tenía, señor, una cara de cierta clase,\nme parecía... No sé cómo describirla.",
+          "notes": [
+            {
+              "term": "methought",
+              "title": "methought",
+              "type": "Nota filológica",
+              "gloss": "me parecía",
+              "body": "Forma impersonal histórica de methinks, «me pareció». Fuentes: Folger Shakespeare Library, Coriolanus IV.5, FTLN 2840–2865, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; Shakespeare Online, IV.5, https://www.shakespeare-online.com/plays/corio_4_5.html.",
+              "lemma": "methinks",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/methinks"
+            }
+          ]
+        },
+        {
+          "line": "2850–2852",
+          "speaker": "first-servingman",
+          "en": "He had so, looking as it were—\nWould I were hanged but I thought there was\nmore in him than I could think.",
+          "es": "Sí, la tenía, con una expresión como de...\n¡Que me ahorquen si no pensé que había\nen él más de lo que yo alcanzaba a imaginar!",
+          "notes": [
+            {
+              "term": "Would I were hanged",
+              "title": "Would I were hanged",
+              "type": "Nota filológica",
+              "gloss": "¡que me ahorquen!",
+              "body": "Fórmula hiperbólica de juramento, con would optativo y were subjuntivo; no expresa un deseo literal de ejecución. Fuentes: Folger Shakespeare Library, Coriolanus IV.5, FTLN 2840–2865, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; Shakespeare Online, IV.5, https://www.shakespeare-online.com/plays/corio_4_5.html."
+            }
+          ]
+        },
+        {
+          "line": "2853–2854",
+          "speaker": "second-servingman",
+          "en": "So did I, I’ll be sworn. He is simply\nthe rarest man i’ th’ world.",
+          "es": "Yo también, lo juro. Es, sencillamente,\nel hombre más extraordinario del mundo.",
+          "notes": [
+            {
+              "term": "rarest",
+              "title": "rarest",
+              "type": "Nota filológica",
+              "gloss": "más extraordinario",
+              "body": "Rare significa excepcional o admirable en este contexto; la alabanza retrospectiva es cómica. Fuentes: Folger Shakespeare Library, Coriolanus IV.5, FTLN 2840–2865, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; Shakespeare Online, IV.5, https://www.shakespeare-online.com/plays/corio_4_5.html.",
+              "lemma": "rare",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/rare"
+            }
+          ]
+        },
+        {
+          "line": "2855–2856",
+          "speaker": "first-servingman",
+          "en": "I think he is. But a greater soldier\nthan he you wot one.",
+          "es": "Eso creo. Pero tú conoces a un soldado\nmejor que él.",
+          "notes": [
+            {
+              "term": "you wot one",
+              "title": "you wot one",
+              "type": "Nota filológica",
+              "gloss": "tú conoces a uno",
+              "body": "Wot es forma histórica del verbo wit, «saber, conocer»; el criado insinúa a Aufidio. Fuentes: Folger Shakespeare Library, Coriolanus IV.5, FTLN 2840–2865, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; Shakespeare Online, IV.5, https://www.shakespeare-online.com/plays/corio_4_5.html.",
+              "lemma": "wit",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/wit"
+            }
+          ]
+        },
+        {
+          "line": "2857",
+          "speaker": "second-servingman",
+          "en": "Who, my master?",
+          "es": "¿Quién? ¿Mi amo?",
+          "notes": []
+        },
+        {
+          "line": "2858",
+          "speaker": "first-servingman",
+          "en": "Nay, it’s no matter for that.",
+          "es": "No, no importa eso.",
+          "notes": []
+        },
+        {
+          "line": "2859",
+          "speaker": "second-servingman",
+          "en": "Worth six on him.",
+          "es": "Vale por seis como él.",
+          "notes": [
+            {
+              "term": "Worth six on him",
+              "title": "Worth six on him",
+              "type": "Nota filológica",
+              "gloss": "vale por seis como él",
+              "body": "On equivale a of en esta comparación coloquial; se trata de una hipérbole a favor de Aufidio. Fuentes: Folger Shakespeare Library, Coriolanus IV.5, FTLN 2840–2865, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; Shakespeare Online, IV.5, https://www.shakespeare-online.com/plays/corio_4_5.html."
+            }
+          ]
+        },
+        {
+          "line": "2860–2861",
+          "speaker": "first-servingman",
+          "en": "Nay, not so neither. But I take him\nto be the greater soldier.",
+          "es": "No, tampoco tanto. Pero considero\nque es mejor soldado.",
+          "notes": []
+        },
+        {
+          "line": "2862–2864",
+          "speaker": "second-servingman",
+          "en": "Faith, look you, one cannot tell\nhow to say that. For the defense of a town our general\nis excellent.",
+          "es": "A fe mía, mira, eso no es tan fácil\nde afirmar. Para defender una ciudad, nuestro general\nes excelente.",
+          "notes": [
+            {
+              "term": "Faith",
+              "title": "Faith",
+              "type": "Nota filológica",
+              "gloss": "a fe mía",
+              "body": "Interjección procedente de una fórmula de juramento; introduce una rectificación prudente. Fuentes: Folger Shakespeare Library, Coriolanus IV.5, FTLN 2840–2865, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; Shakespeare Online, IV.5, https://www.shakespeare-online.com/plays/corio_4_5.html.",
+              "lemma": "faith",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/faith"
+            }
+          ]
+        },
+        {
+          "line": "2865",
+          "speaker": "first-servingman",
+          "en": "Ay, and for an assault too.",
+          "es": "Sí, y también para asaltarla.",
+          "notes": []
         }
       ]
     }
