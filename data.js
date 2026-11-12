@@ -19981,9 +19981,9 @@ window.SHAKESPEARE_READER_DATA = {
       "scene": 5,
       "place": "Ancio · Casa de Aufidio",
       "sourceRef": "Folger Shakespeare Library · Acto IV, escena 5",
-      "sectionLabel": "Edición en curso · líneas 2677–2695",
+      "sectionLabel": "Edición en curso · líneas 2677–2715",
       "introduction": "En medio de los preparativos de un banquete, los criados de Aufidio confunden al desterrado Coriolano con un intruso de condición humilde y procuran echarlo.",
-      "stage": "Suena música. Entra el primer criado, que sale tras pedir vino. Entra el segundo criado y sale buscando a Coto. Entra Coriolano, disfrazado. El primer criado entra y sale; luego vuelve a entrar el segundo criado.",
+      "stage": "Suena música. Entra el primer criado, que sale tras pedir vino. Entra el segundo criado y sale buscando a Coto. Entra Coriolano, disfrazado. El primer criado entra y sale; luego vuelve a entrar el segundo criado. Entra el tercer criado y el primero lo intercepta; el primero se aparta. Coriolano empuja al tercero; el segundo sale para avisar a Aufidio.",
       "characters": [
         {
           "id": "first-servingman",
@@ -20005,6 +20005,13 @@ window.SHAKESPEARE_READER_DATA = {
           "english": "Coriolanus",
           "identity": "General romano desterrado que se presenta disfrazado en la casa de su antiguo enemigo.",
           "color": "copper"
+        },
+        {
+          "id": "third-servingman",
+          "name": "Tercer criado",
+          "english": "Third Servingman",
+          "identity": "Criado de Aufidio que increpa al visitante y recibe un empujón.",
+          "color": "olive"
         }
       ],
       "blocks": [
@@ -20195,6 +20202,203 @@ window.SHAKESPEARE_READER_DATA = {
               "lemmaUrl": "https://en.wiktionary.org/wiki/anon"
             }
           ]
+        },
+        {
+          "line": "2696",
+          "speaker": "third-servingman",
+          "en": "What fellow’s this?",
+          "es": "¿Quién es este individuo?",
+          "notes": [
+            {
+              "term": "fellow",
+              "title": "fellow",
+              "type": "Nota filológica",
+              "gloss": "individuo, sujeto",
+              "body": "Tratamiento desdeñoso dirigido al desconocido; no presupone compañerismo. Fuentes: Folger Shakespeare Library, Coriolanus IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); MIT Shakespeare, IV.5 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.5.html).",
+              "lemma": "fellow",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/fellow"
+            }
+          ]
+        },
+        {
+          "line": "2697–2699",
+          "speaker": "first-servingman",
+          "en": "A strange one as ever I looked on. I\ncannot get him out o’ th’ house. Prithee, call my\nmaster to him.",
+          "es": "El más extraño que he visto jamás. No\nconsigo sacarlo de la casa. Por favor, llama\na mi amo para que se ocupe de él.",
+          "notes": [
+            {
+              "term": "as ever I looked on",
+              "title": "as ever I looked on",
+              "type": "Nota filológica",
+              "gloss": "que he visto jamás",
+              "body": "Construcción comparativa enfática, que intensifica la extrañeza del visitante. Fuentes: Folger Shakespeare Library, Coriolanus IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); MIT Shakespeare, IV.5 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.5.html)."
+            },
+            {
+              "term": "Prithee",
+              "title": "Prithee",
+              "type": "Nota filológica",
+              "gloss": "por favor, te ruego",
+              "body": "Contracción histórica de «I pray thee», fórmula dirigida a un interlocutor singular. Fuentes: Folger Shakespeare Library, Coriolanus IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); MIT Shakespeare, IV.5 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.5.html).",
+              "lemma": "prithee",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/prithee"
+            }
+          ]
+        },
+        {
+          "line": "2700–2701",
+          "speaker": "third-servingman",
+          "en": "What have you to do here, fellow?\nPray you, avoid the house.",
+          "es": "¿Qué tienes que hacer aquí, individuo?\nTe ruego que salgas de la casa.",
+          "notes": [
+            {
+              "term": "avoid the house",
+              "title": "avoid the house",
+              "type": "Nota filológica",
+              "gloss": "sal de la casa",
+              "body": "«Avoid» tiene aquí el sentido histórico de retirarse o desocupar un lugar, no el de esquivarlo. Fuentes: Folger Shakespeare Library, Coriolanus IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); MIT Shakespeare, IV.5 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.5.html).",
+              "lemma": "avoid",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/avoid"
+            }
+          ]
+        },
+        {
+          "line": "2702–2703",
+          "speaker": "coriolanus",
+          "en": "Let me but stand. I will not hurt your\nhearth.",
+          "es": "Déjame al menos quedarme de pie. No voy a hacerle daño\na tu hogar.",
+          "notes": [
+            {
+              "term": "hearth",
+              "title": "hearth",
+              "type": "Nota filológica",
+              "gloss": "hogar, fogón",
+              "body": "El fuego doméstico representa por metonimia la casa; Coriolano ironiza ante la sospecha de que su presencia sea peligrosa. Fuentes: Folger Shakespeare Library, Coriolanus IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); MIT Shakespeare, IV.5 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.5.html).",
+              "lemma": "hearth",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/hearth"
+            }
+          ]
+        },
+        {
+          "line": "2704",
+          "speaker": "third-servingman",
+          "en": "What are you?",
+          "es": "¿Qué eres?",
+          "notes": []
+        },
+        {
+          "line": "2705",
+          "speaker": "coriolanus",
+          "en": "A gentleman.",
+          "es": "Un caballero.",
+          "notes": [
+            {
+              "term": "gentleman",
+              "title": "gentleman",
+              "type": "Nota filológica",
+              "gloss": "caballero, hombre de condición noble",
+              "body": "La respuesta afirma rango social, que el disfraz y la pobreza aparente vuelven inverosímil para el criado. Fuentes: Folger Shakespeare Library, Coriolanus IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); MIT Shakespeare, IV.5 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.5.html).",
+              "lemma": "gentleman",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/gentleman"
+            }
+          ]
+        },
+        {
+          "line": "2706",
+          "speaker": "third-servingman",
+          "en": "A marv’llous poor one.",
+          "es": "Uno extraordinariamente pobre.",
+          "notes": [
+            {
+              "term": "marv’llous",
+              "title": "marv’llous",
+              "type": "Nota filológica",
+              "gloss": "extraordinariamente",
+              "body": "El adjetivo funciona como intensificador coloquial; la réplica contrapone nobleza declarada y apariencia miserable. Fuentes: Folger Shakespeare Library, Coriolanus IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); MIT Shakespeare, IV.5 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.5.html).",
+              "lemma": "marvellous",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/marvellous"
+            }
+          ]
+        },
+        {
+          "line": "2707",
+          "speaker": "coriolanus",
+          "en": "True, so I am.",
+          "es": "Es verdad, eso soy.",
+          "notes": []
+        },
+        {
+          "line": "2708–2710",
+          "speaker": "third-servingman",
+          "en": "Pray you, poor gentleman, take up\nsome other station. Here’s no place for you. Pray\nyou, avoid. Come.",
+          "es": "Te lo ruego, pobre caballero, busca\notro lugar donde instalarte. Aquí no hay sitio para ti. Por favor,\nretírate. Vamos.",
+          "notes": [
+            {
+              "term": "station",
+              "title": "station",
+              "type": "Nota filológica",
+              "gloss": "lugar, puesto",
+              "body": "Aquí alude al sitio donde permanecer o establecerse, con posible resonancia de posición social; la segunda lectura es interpretativa. Fuentes: Folger Shakespeare Library, Coriolanus IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); MIT Shakespeare, IV.5 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.5.html).",
+              "lemma": "station",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/station"
+            },
+            {
+              "term": "avoid",
+              "title": "avoid",
+              "type": "Nota filológica",
+              "gloss": "retírate",
+              "body": "Imperativo con valor de «salir» o «desocupar» en el inglés de la época. Fuentes: Folger Shakespeare Library, Coriolanus IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); MIT Shakespeare, IV.5 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.5.html).",
+              "lemma": "avoid",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/avoid"
+            }
+          ]
+        },
+        {
+          "line": "2711–2712",
+          "speaker": "coriolanus",
+          "en": "Follow your function, go, and batten on\ncold bits.",
+          "es": "Ocúpate de tus funciones, vete y engorda\ncon las sobras frías.",
+          "notes": [
+            {
+              "term": "batten on cold bits",
+              "title": "batten on cold bits",
+              "type": "Nota filológica",
+              "gloss": "engorda con las sobras frías",
+              "body": "«Batten» es alimentarse abundantemente o cebarse; «bits» son bocados o restos. El insulto reduce al criado a su dependencia de la mesa ajena. Fuentes: Folger Shakespeare Library, Coriolanus IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); MIT Shakespeare, IV.5 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.5.html).",
+              "lemma": "batten",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/batten"
+            },
+            {
+              "term": "function",
+              "title": "function",
+              "type": "Nota filológica",
+              "gloss": "oficio, función",
+              "body": "El imperativo devuelve al criado a su trabajo subordinado; contraste con la identidad noble afirmada por Coriolano. Fuentes: Folger Shakespeare Library, Coriolanus IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); MIT Shakespeare, IV.5 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.5.html).",
+              "lemma": "function",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/function"
+            }
+          ]
+        },
+        {
+          "line": "2713–2714",
+          "speaker": "third-servingman",
+          "en": "What, you will not?—Prithee, tell\nmy master what a strange guest he has here.",
+          "es": "¿Cómo? ¿No quieres irte? Por favor, dile\na mi amo qué huésped tan extraño tiene aquí.",
+          "notes": [
+            {
+              "term": "strange guest",
+              "title": "strange guest",
+              "type": "Nota filológica",
+              "gloss": "huésped extraño",
+              "body": "El criado pasa de negar que sea invitado a llamarlo irónicamente «guest»; la inversión anuncia el reconocimiento posterior. Fuentes: Folger Shakespeare Library, Coriolanus IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); MIT Shakespeare, IV.5 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.5.html)."
+            }
+          ]
+        },
+        {
+          "line": "2715",
+          "speaker": "second-servingman",
+          "en": "And I shall.",
+          "es": "Así lo haré.",
+          "notes": []
         }
       ]
     }
