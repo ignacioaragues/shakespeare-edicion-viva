@@ -1480,13 +1480,22 @@
       "last_line": 3028,
       "editorial_state": "translated_source_checked_external_references",
       "note": "Nueve parlamentos completos: dos informes, negación de los tribunos y objeción de Menenio; cotejo Folger IV.6, First Folio y Shakespeare Online; nueve notas con glosas y fuentes. Cotejo privado y revisión retrospectiva pendientes."
+    },
+    {
+      "id": "coriolanus-4-6-3029-3044",
+      "act": 4,
+      "scene": 6,
+      "first_line": 3029,
+      "last_line": 3044,
+      "editorial_state": "translated_source_checked_external_references",
+      "note": "Seis parlamentos completos, 16 líneas; Folger IV.6 cotejado con Shakespeare Online. Notas sobre holp, city leads, franchises, auger's bore; cotejo privado y revisión retrospectiva pendientes."
     }
   ],
   "next_fragment": {
     "act": 4,
     "scene": 6,
-    "first_line": 3029,
-    "note": "Entrada del segundo mensajero, confirmación de la invasión y aparición de Cominio; Folger IV.6."
+    "first_line": 3045,
+    "note": "Respuesta de Menenio a Cominio; Folger IV.6."
   },
   "completed_acts": [],
   "last_update_commit": "pending_atomic_commit",

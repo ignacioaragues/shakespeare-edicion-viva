@@ -21746,6 +21746,20 @@ window.SHAKESPEARE_READER_DATA = {
           "english": "Messenger",
           "identity": "Portador de noticias urgentes para los tribunos.",
           "color": "slate"
+        },
+        {
+          "id": "secondmessenger",
+          "name": "Segundo mensajero",
+          "english": "Second Messenger",
+          "identity": "Confirma ante los tribunos la invasión volsca.",
+          "color": "slate"
+        },
+        {
+          "id": "cominius",
+          "name": "Cominio",
+          "english": "Cominius",
+          "identity": "General romano que acusa a los tribunos de haber puesto a Roma en peligro.",
+          "color": "copper"
         }
       ],
       "blocks": [
@@ -22455,6 +22469,122 @@ window.SHAKESPEARE_READER_DATA = {
               "body": "Superlativo contraído de violentest y sustantivo abstracto contrariety. La imposibilidad se formula como comparación paradójica entre antiguos enemigos y fuerzas contrarias. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus, IV.6 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; First Folio (1623), transcripción diplomática en Wikisource, https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_4_Scene_6; léxico: https://en.wiktionary.org/wiki/contrariety",
               "lemma": "contrariety",
               "lemmaUrl": "https://en.wiktionary.org/wiki/contrariety"
+            }
+          ]
+        },
+        {
+          "line": "3029–3034",
+          "speaker": "secondmessenger",
+          "en": "You are sent for to the Senate.\nA fearful army, led by Caius Martius\nAssociated with Aufidius, rages\nUpon our territories, and have already\nO’erborne their way, consumed with fire and took\nWhat lay before them.",
+          "es": "Los llaman al Senado.\nUn ejército temible, al mando de Cayo Marcio,\naliado con Aufidio, arrasa\nnuestros territorios. Sus tropas ya se han abierto paso,\nlo han consumido todo con el fuego y se han apoderado\nde cuanto encontraron a su paso.",
+          "notes": [
+            {
+              "term": "O’erborne their way",
+              "title": "O’erborne their way",
+              "type": "Nota filológica",
+              "gloss": "se han abierto paso por la fuerza",
+              "body": "O’erborne es una forma contraída de overborne, participio de overbear. La serie verbal acumula avance, incendio y conquista; la concordancia plural de have sigue al colectivo army. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; Shakespeare Online, Coriolanus IV.6, https://www.shakespeare-online.com/plays/corio_4_6.html.",
+              "lemma": "overbear",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/overbear"
+            }
+          ]
+        },
+        {
+          "line": "3035–3036",
+          "speaker": "cominius",
+          "en": "O, you have made good\nwork!",
+          "es": "¡Ah, qué buena obra\nhan hecho ustedes!",
+          "notes": [
+            {
+              "term": "made good work",
+              "title": "made good work",
+              "type": "Nota filológica",
+              "gloss": "¡menuda obra han hecho!",
+              "body": "Reproche irónico dirigido a los tribunos: good work invierte su sentido elogioso en una acusación política. La división en dos líneas sigue la presentación de Folger. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; Shakespeare Online, Coriolanus IV.6, https://www.shakespeare-online.com/plays/corio_4_6.html."
+            }
+          ]
+        },
+        {
+          "line": "3037",
+          "speaker": "menenius",
+          "en": "What news? What news?",
+          "es": "¿Qué noticias? ¿Qué noticias?",
+          "notes": []
+        },
+        {
+          "line": "3038–3040",
+          "speaker": "cominius",
+          "en": "You have holp to ravish your own daughters and\nTo melt the city leads upon your pates,\nTo see your wives dishonored to your noses—",
+          "es": "Ustedes han contribuido a que violen a sus propias hijas,\na que derritan el plomo de los tejados de la ciudad sobre sus cabezas\ny a que deshonren a sus esposas delante de sus narices...",
+          "notes": [
+            {
+              "term": "holp",
+              "title": "holp",
+              "type": "Nota filológica",
+              "gloss": "han ayudado; han contribuido",
+              "body": "Participio histórico de help, empleado aquí con have; la acusación hace responsables a los tribunos de las atrocidades que Cominio teme. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; Shakespeare Online, Coriolanus IV.6, https://www.shakespeare-online.com/plays/corio_4_6.html.",
+              "lemma": "help",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/help"
+            },
+            {
+              "term": "city leads",
+              "title": "city leads",
+              "type": "Nota filológica",
+              "gloss": "plomo de los tejados de la ciudad",
+              "body": "Leads es plural sustantivo: láminas o cubiertas de plomo usadas en edificios, no el verbo lead. La imagen presenta una ciudad sometida al saqueo y al fuego. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; Shakespeare Online, Coriolanus IV.6, https://www.shakespeare-online.com/plays/corio_4_6.html.",
+              "lemma": "lead",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/lead"
+            },
+            {
+              "term": "upon your pates",
+              "title": "upon your pates",
+              "type": "Nota filológica",
+              "gloss": "sobre sus cabezas",
+              "body": "Pate significa cabeza, a menudo con matiz coloquial o despectivo. El discurso convierte las consecuencias políticas en castigos corporales. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; Shakespeare Online, Coriolanus IV.6, https://www.shakespeare-online.com/plays/corio_4_6.html.",
+              "lemma": "pate",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/pate"
+            }
+          ]
+        },
+        {
+          "line": "3041",
+          "speaker": "menenius",
+          "en": "What’s the news? What’s the news?",
+          "es": "¿Qué noticias hay? ¿Qué noticias hay?",
+          "notes": []
+        },
+        {
+          "line": "3042–3044",
+          "speaker": "cominius",
+          "en": "Your temples burnèd in their cement, and\nYour franchises, whereon you stood, confined\nInto an auger’s bore.",
+          "es": "Sus templos, quemados hasta en la argamasa,\ny sus derechos, que defendían con tanto empeño,\nreducidos al tamaño del agujero de una barrena.",
+          "notes": [
+            {
+              "term": "burnèd in their cement",
+              "title": "burnèd in their cement",
+              "type": "Nota filológica",
+              "gloss": "quemados hasta en la argamasa",
+              "body": "La grafía burnèd señala la pronunciación de la sílaba final. La imagen extrema la destrucción material de los templos, incluso de lo que une sus piedras. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; Shakespeare Online, Coriolanus IV.6, https://www.shakespeare-online.com/plays/corio_4_6.html.",
+              "lemma": "burn",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/burn"
+            },
+            {
+              "term": "franchises",
+              "title": "franchises",
+              "type": "Nota filológica",
+              "gloss": "derechos y privilegios políticos",
+              "body": "Aquí se refiere a las libertades políticas que los tribunos dicen proteger, no a franquicias comerciales modernas. La reducción al agujero de una barrena es una hipérbole sobre la pérdida de esos derechos. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; Shakespeare Online, Coriolanus IV.6, https://www.shakespeare-online.com/plays/corio_4_6.html.",
+              "lemma": "franchise",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/franchise"
+            },
+            {
+              "term": "auger’s bore",
+              "title": "auger’s bore",
+              "type": "Nota filológica",
+              "gloss": "agujero hecho por una barrena",
+              "body": "Auger es una herramienta perforadora; bore es el orificio que produce. La imagen contrasta la amplitud de las libertades con un espacio diminuto. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; Shakespeare Online, Coriolanus IV.6, https://www.shakespeare-online.com/plays/corio_4_6.html.",
+              "lemma": "auger",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/auger"
             }
           ]
         }
