@@ -54,6 +54,42 @@
   }
 
 
+  // Build the scene list from the same data that powers the reader.
+  // New scenes and acts appear automatically when data.js is updated.
+  function buildSceneNavigation() {
+    const nav = $('dynamic-scene-navigation');
+    if (!nav) return;
+    nav.replaceChildren();
+    const roman = ['','I','II','III','IV','V'];
+    let currentAct = null;
+    for (const item of data.scenes) {
+      if (item.act !== currentAct) {
+        currentAct = item.act;
+        const heading = el('div', 'act-label');
+        heading.append(el('span', '', 'ACTO ' + (roman[item.act] || item.act)));
+        heading.append(el('span', 'act-count', String(item.act).padStart(2, '0') + ' / 05'));
+        nav.append(heading);
+      }
+      const button = el('button', 'scene-nav');
+      button.type = 'button';
+      button.dataset.sceneId = item.id;
+      button.append(el('span', 'scene-number', String(item.scene).padStart(2, '0')));
+      button.append(el('span', '', item.place || 'Escena ' + item.scene));
+      button.append(el('span', 'scene-dot'));
+      nav.append(button);
+    }
+    const lastAct = Math.max(0, ...data.scenes.map(item => item.act));
+    if (lastAct < 5) {
+      const future = el('div', 'disabled-acts');
+      future.setAttribute('aria-label', 'Actos todavía no incorporados');
+      for (let act = lastAct + 1; act <= 5; act++) {
+        const item = el('div', '', 'ACTO ' + roman[act] + ' —');
+        future.append(item);
+      }
+      nav.append(future);
+    }
+  }
+
   function enableActAccordions() {
     const sidebar = $('sidebar-content');
     if (!sidebar) return;
@@ -660,6 +696,7 @@
     });
   }
 
+  buildSceneNavigation();
   enableActAccordions();
   selectScene(scene, false);
   updateAutoPosition();
