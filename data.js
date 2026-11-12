@@ -30,7 +30,8 @@ window.SHAKESPEARE_READER_DATA = {
         "coriolanus-4-4",
         "coriolanus-4-5",
         "coriolanus-4-6",
-        "coriolanus-4-7"
+        "coriolanus-4-7",
+        "coriolanus-5-1"
       ]
     }
   ],
@@ -23550,6 +23551,222 @@ window.SHAKESPEARE_READER_DATA = {
               "body": "Superlativo contraído poorest; anticipa irónicamente que la conquista de Roma dejará a Coriolano despojado y vulnerable. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.7 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/7/; Shakespeare Online, Coriolanus IV.7, https://www.shakespeare-online.com/plays/corio_4_7.html.",
               "lemma": "poor",
               "lemmaUrl": "https://en.wiktionary.org/wiki/poor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "coriolanus-5-1",
+      "workId": "coriolanus",
+      "act": 5,
+      "scene": 1,
+      "place": "Roma, ante la amenaza del ejército volsco",
+      "sourceRef": "Folger Shakespeare Library · Acto V, escena 1",
+      "sectionLabel": "Edición en curso · líneas 3198–3222",
+      "introduction": "Cominio regresa de su infructuosa entrevista con Coriolano. Menenio se resiste a intervenir, mientras los tribunos buscan una salida a la amenaza sobre Roma.",
+      "stage": "Entran Menenio, Cominio, Sicinio y Bruto, los dos tribunos, acompañados de otras personas.",
+      "characters": [
+        {
+          "id": "menenius",
+          "name": "Menenio Agripa",
+          "english": "Menenius Agrippa",
+          "identity": "Patricio romano, antiguo protector de Coriolano.",
+          "color": "slate"
+        },
+        {
+          "id": "cominius",
+          "name": "Cominio",
+          "english": "Cominius",
+          "identity": "General romano que ha intentado negociar con Coriolano.",
+          "color": "copper"
+        },
+        {
+          "id": "sicinius",
+          "name": "Sicinio Veluto",
+          "english": "Sicinius Velutus",
+          "identity": "Tribuno de la plebe.",
+          "color": "olive"
+        },
+        {
+          "id": "brutus",
+          "name": "Junio Bruto",
+          "english": "Junius Brutus",
+          "identity": "Tribuno de la plebe.",
+          "color": "olive"
+        }
+      ],
+      "blocks": [
+        {
+          "line": "3198–3204",
+          "speaker": "menenius",
+          "en": "No, I’ll not go. You hear what he hath said\nWhich was sometime his general, who loved him\nIn a most dear particular. He called me father,\nBut what o’ that? Go you that banished him;\nA mile before his tent, fall down, and knee\nThe way into his mercy. Nay, if he coyed\nTo hear Cominius speak, I’ll keep at home.",
+          "es": "No, no iré. Ya han oído lo que le dijo\na quien fue su general y lo quiso\ncon un afecto muy especial. A mí me llamaba padre,\npero ¿de qué sirve eso? Vayan ustedes, que lo desterraron;\na una milla de su tienda, póstrense y avancen\nde rodillas hasta obtener su clemencia. No: si se mostró reacio\na escuchar a Cominio, yo me quedaré en casa.",
+          "notes": [
+            {
+              "term": "hath said",
+              "title": "hath said",
+              "type": "Nota filológica",
+              "gloss": "ha dicho",
+              "body": "Hath es la forma de tercera persona singular del presente de have en el inglés moderno temprano, empleada aquí en el perfecto. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus V.1 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/1/; https://www.litcharts.com/lit/coriolanus/act-5-scene-1 (consulta 13-11-2026).",
+              "lemma": "have",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/have"
+            },
+            {
+              "term": "In a most dear particular",
+              "title": "In a most dear particular",
+              "type": "Nota filológica",
+              "gloss": "con un afecto muy especial",
+              "body": "Particular funciona como sustantivo que expresa una relación personal singularmente estrecha, no como referencia a un detalle administrativo. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus V.1 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/1/; https://www.litcharts.com/lit/coriolanus/act-5-scene-1 (consulta 13-11-2026).",
+              "lemma": "particular",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/particular"
+            },
+            {
+              "term": "knee / The way into his mercy",
+              "title": "knee / The way into his mercy",
+              "type": "Nota filológica",
+              "gloss": "avanzar de rodillas hasta obtener su clemencia",
+              "body": "Knee se emplea como verbo: la imagen prolonga la genuflexión hasta convertirla en un camino de súplica. La formulación española explicita el movimiento metafórico. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus V.1 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/1/; https://www.litcharts.com/lit/coriolanus/act-5-scene-1 (consulta 13-11-2026).",
+              "lemma": "knee",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/knee"
+            },
+            {
+              "term": "coyed",
+              "title": "coyed",
+              "type": "Nota filológica",
+              "gloss": "se mostró reacio; se negó",
+              "body": "Coyed es una forma verbal de coy, aquí relacionada con el rechazo de la audiencia solicitada. No se interpreta en el sentido romántico moderno de hacerse el interesante. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus V.1 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/1/; https://www.litcharts.com/lit/coriolanus/act-5-scene-1 (consulta 13-11-2026).",
+              "lemma": "coy",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/coy"
+            }
+          ]
+        },
+        {
+          "line": "3205",
+          "speaker": "cominius",
+          "en": "He would not seem to know me.",
+          "es": "Ni siquiera quiso dar muestras de reconocerme.",
+          "notes": [
+            {
+              "term": "would not seem to know me",
+              "title": "would not seem to know me",
+              "type": "Nota filológica",
+              "gloss": "no quiso dar muestras de reconocerme",
+              "body": "Would not puede expresar una negativa voluntaria: Cominio subraya que Coriolano rehusó reconocer el vínculo previo, no necesariamente que hubiera olvidado su identidad. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus V.1 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/1/; https://www.litcharts.com/lit/coriolanus/act-5-scene-1 (consulta 13-11-2026)."
+            }
+          ]
+        },
+        {
+          "line": "3206",
+          "speaker": "menenius",
+          "en": "Do you hear?",
+          "es": "¿Lo oyen?",
+          "notes": []
+        },
+        {
+          "line": "3207–3213",
+          "speaker": "cominius",
+          "en": "Yet one time he did call me by my name.\nI urged our old acquaintance, and the drops\nThat we have bled together. “Coriolanus”\nHe would not answer to, forbade all names.\nHe was a kind of nothing, titleless,\nTill he had forged himself a name o’ th’ fire\nOf burning Rome.",
+          "es": "Aunque en una ocasión sí me llamó por mi nombre.\nLe recordé nuestra antigua amistad y las gotas de sangre\nque derramamos juntos. No quiso responder\nal nombre de «Coriolano»; rechazó todos los nombres.\nEra una especie de nadie, sin título alguno,\nhasta que se forjara un nombre propio en el fuego\nde Roma incendiada.",
+          "notes": [
+            {
+              "term": "the drops / That we have bled together",
+              "title": "the drops / That we have bled together",
+              "type": "Nota filológica",
+              "gloss": "la sangre que derramamos juntos",
+              "body": "Cominio invoca una experiencia militar compartida como argumento afectivo y político; la sangre funciona como señal de solidaridad entre antiguos compañeros. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus V.1 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/1/; https://www.litcharts.com/lit/coriolanus/act-5-scene-1 (consulta 13-11-2026)."
+            },
+            {
+              "term": "a kind of nothing, titleless",
+              "title": "a kind of nothing, titleless",
+              "type": "Nota filológica",
+              "gloss": "una especie de nadie, sin título",
+              "body": "La renuncia al nombre ganado en Corioles anuncia una identidad que pretende reconstruirse destruyendo Roma. La lectura simbólica es una interpretación apoyada por la escena, no una variante textual. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus V.1 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/1/; https://www.litcharts.com/lit/coriolanus/act-5-scene-1 (consulta 13-11-2026).",
+              "lemma": "titleless",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/titleless"
+            },
+            {
+              "term": "forged himself a name o’ th’ fire",
+              "title": "forged himself a name o’ th’ fire",
+              "type": "Nota filológica",
+              "gloss": "forjarse un nombre en el fuego",
+              "body": "Forged enlaza la fabricación del metal con la creación de reputación. El fuego que le daría un nuevo nombre es el de la ciudad natal incendiada; ironía dramática. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus V.1 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/1/; https://www.litcharts.com/lit/coriolanus/act-5-scene-1 (consulta 13-11-2026).",
+              "lemma": "forge",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/forge"
+            }
+          ]
+        },
+        {
+          "line": "3214–3216",
+          "speaker": "menenius",
+          "en": "Why, so; you have made good work!\nA pair of tribunes that have wracked Rome\nTo make coals cheap! A noble memory!",
+          "es": "¡Así que eso es lo que han conseguido! ¡Gran obra la suya!\n¡Dos tribunos que han destruido Roma\npara abaratar el carbón! ¡Una hazaña digna de recuerdo!",
+          "notes": [
+            {
+              "term": "wracked Rome / To make coals cheap",
+              "title": "wracked Rome / To make coals cheap",
+              "type": "Nota filológica",
+              "gloss": "destruir Roma para abaratar el carbón",
+              "body": "Sarcasmo: la ciudad reducida a cenizas produciría tanto combustible que el carbón perdería valor. El comentario denuncia las consecuencias del destierro y no describe una política económica. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus V.1 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/1/; https://www.litcharts.com/lit/coriolanus/act-5-scene-1 (consulta 13-11-2026).",
+              "lemma": "wrack",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/wrack"
+            },
+            {
+              "term": "A noble memory!",
+              "title": "A noble memory!",
+              "type": "Nota filológica",
+              "gloss": "¡una hazaña digna de recuerdo!",
+              "body": "Memory puede designar el recuerdo o fama que sobrevive a un acto. El elogio es inequívocamente irónico en el contexto. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus V.1 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/1/; https://www.litcharts.com/lit/coriolanus/act-5-scene-1 (consulta 13-11-2026).",
+              "lemma": "memory",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/memory"
+            }
+          ]
+        },
+        {
+          "line": "3217–3220",
+          "speaker": "cominius",
+          "en": "I minded him how royal ’twas to pardon\nWhen it was less expected. He replied\nIt was a bare petition of a state\nTo one whom they had punished.",
+          "es": "Le recordé lo propio de un rey que es perdonar\ncuando menos se espera el perdón. Me respondió\nque no era más que una súplica sin fundamento de un Estado\na un hombre al que ese mismo Estado había castigado.",
+          "notes": [
+            {
+              "term": "minded him",
+              "title": "minded him",
+              "type": "Nota filológica",
+              "gloss": "le recordé",
+              "body": "Mind se emplea transitivamente con el sentido de recordar o hacer presente algo a otra persona. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus V.1 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/1/; https://www.litcharts.com/lit/coriolanus/act-5-scene-1 (consulta 13-11-2026).",
+              "lemma": "mind",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/mind"
+            },
+            {
+              "term": "how royal ’twas to pardon",
+              "title": "how royal ’twas to pardon",
+              "type": "Nota filológica",
+              "gloss": "lo propio de un rey que es perdonar",
+              "body": "Cominio apela a la magnanimidad regia como virtud política. No afirma que Coriolano ostente la dignidad de rey. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus V.1 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/1/; https://www.litcharts.com/lit/coriolanus/act-5-scene-1 (consulta 13-11-2026)."
+            },
+            {
+              "term": "bare petition",
+              "title": "bare petition",
+              "type": "Nota filológica",
+              "gloss": "súplica sin fundamento",
+              "body": "Bare recalca que la petición carece de una justificación convincente para el agraviado. La frase representa la respuesta atribuida a Coriolano. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus V.1 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/1/; https://www.litcharts.com/lit/coriolanus/act-5-scene-1 (consulta 13-11-2026).",
+              "lemma": "bare",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/bare"
+            }
+          ]
+        },
+        {
+          "line": "3221–3222",
+          "speaker": "menenius",
+          "en": "Very well.\nCould he say less?",
+          "es": "Muy bien.\n¿Acaso podía decir menos?",
+          "notes": [
+            {
+              "term": "Could he say less?",
+              "title": "Could he say less?",
+              "type": "Nota filológica",
+              "gloss": "¿acaso podía decir menos?",
+              "body": "La pregunta retórica expresa la frustración de Menenio ante una respuesta escueta e implacable, no aprobación de su contenido. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus V.1 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/1/; https://www.litcharts.com/lit/coriolanus/act-5-scene-1 (consulta 13-11-2026)."
             }
           ]
         }
