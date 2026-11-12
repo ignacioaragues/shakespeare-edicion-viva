@@ -1372,13 +1372,22 @@
       "last_line": 2748,
       "editorial_state": "translated_source_checked_external_references",
       "note": "Nueve parlamentos completos, Folger IV.5 contrastado con Shakespeare Online; reconocimiento inicial, glosas y morfología de thou. Cotejo privado y revisión retrospectiva pendientes."
+    },
+    {
+      "id": "coriolanus-4-5-2749-2787",
+      "act": 4,
+      "scene": 5,
+      "first_line": 2749,
+      "last_line": 2787,
+      "editorial_state": "translated_source_checked_external_references",
+      "note": "Monólogo íntegro de reconocimiento y ofrecimiento de venganza, 39 líneas Folger; glosas y referencias Folger/MIT. Revisión retrospectiva y cotejo privado pendientes."
     }
   ],
   "next_fragment": {
     "act": 4,
     "scene": 5,
-    "first_line": 2749,
-    "note": "Monólogo de revelación de identidad de Coriolano; preservar parlamento completo como unidad."
+    "first_line": 2788,
+    "note": "Respuesta de Aufidio; conservar el siguiente parlamento completo, 2788–2824."
   },
   "completed_acts": [],
   "last_update_commit": "pending_atomic_commit",
