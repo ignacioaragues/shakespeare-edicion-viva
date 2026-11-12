@@ -19981,7 +19981,7 @@ window.SHAKESPEARE_READER_DATA = {
       "scene": 5,
       "place": "Ancio · Casa de Aufidio",
       "sourceRef": "Folger Shakespeare Library · Acto IV, escena 5",
-      "sectionLabel": "Edición en curso · líneas 2677–2787",
+      "sectionLabel": "Edición en curso · líneas 2677–2824",
       "introduction": "En medio de los preparativos de un banquete, los criados de Aufidio confunden al desterrado Coriolano con un intruso de condición humilde y procuran echarlo.",
       "stage": "Suena música. Entra el primer criado, que sale tras pedir vino. Entra el segundo criado y sale buscando a Coto. Entra Coriolano, disfrazado. El primer criado entra y sale; luego vuelve a entrar el segundo criado. Entra el tercer criado y el primero lo intercepta; el primero se aparta. Coriolano empuja al tercero; el segundo sale para avisar a Aufidio. El tercer criado interroga a Coriolano; este lo golpea y lo expulsa. Entran Aufidio y el segundo criado, que se aparta. Coriolano se descubre el rostro y comienza a revelarse ante su antiguo enemigo.",
       "characters": [
@@ -20781,6 +20781,93 @@ window.SHAKESPEARE_READER_DATA = {
               "type": "Nota filológica",
               "gloss": "a menos que sea para servirte",
               "body": "La cláusula final reformula la alternativa: vivir sin afrentar a Aufidio solo es posible si el antiguo enemigo acepta sus servicios. No es una retractación de las amenazas anteriores. Fuentes: Folger Shakespeare Library, Coriolanus IV.5, líneas 2749–2787 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); cotejo independiente: MIT Shakespeare, IV.5 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.5.html)."
+            }
+          ]
+        },
+        {
+          "line": "2788–2824",
+          "speaker": "aufidius",
+          "en": "O Martius, Martius,\nEach word thou hast spoke hath weeded from my heart\nA root of ancient envy. If Jupiter\nShould from yond cloud speak divine things\nAnd say ’tis true, I’d not believe them more\nThan thee, all-noble Martius. Let me twine\nMine arms about that body, whereagainst\nMy grainèd ash an hundred times hath broke\nAnd scarred the moon with splinters.\nHere I clip\nThe anvil of my sword and do contest\nAs hotly and as nobly with thy love\nAs ever in ambitious strength I did\nContend against thy valor. Know thou first,\nI loved the maid I married; never man\nSighed truer breath. But that I see thee here,\nThou noble thing, more dances my rapt heart\nThan when I first my wedded mistress saw\nBestride my threshold. Why, thou Mars, I tell thee\nWe have a power on foot, and I had purpose\nOnce more to hew thy target from thy brawn\nOr lose mine arm for ’t. Thou hast beat me out\nTwelve several times, and I have nightly since\nDreamt of encounters ’twixt thyself and me;\nWe have been down together in my sleep,\nUnbuckling helms, fisting each other’s throat,\nAnd waked half dead with nothing. Worthy Martius,\nHad we no other quarrel else to Rome but that\nThou art thence banished, we would muster all\nFrom twelve to seventy and, pouring war\nInto the bowels of ungrateful Rome,\nLike a bold flood o’erbear ’t. O, come, go in,\nAnd take our friendly senators by th’ hands,\nWho now are here, taking their leaves of me,\nWho am prepared against your territories,\nThough not for Rome itself.",
+          "es": "¡Oh, Marcio, Marcio!\nCada palabra que has pronunciado ha arrancado de mi corazón\nuna raíz de mi antiguo rencor. Si Júpiter\nhablara desde aquella nube con palabras divinas\ny afirmara que son ciertas, no le creería más\nque a ti, nobilísimo Marcio. Déjame rodear con mis brazos\nese cuerpo contra el que mi lanza de fresno endurecido\nse ha quebrado cien veces,\nsalpicando la luna con sus astillas.\nAhora abrazo el yunque de mi espada y rivalizo\ncon tu afecto con tanto ardor y nobleza\ncomo antes rivalizaba, con toda mi ambición y mi fuerza,\ncon tu valor. Has de saber primero\nque amé a la joven con quien me casé;\nningún hombre suspiró con mayor sinceridad.\nPero verte aquí, criatura noble,\nhace bailar mi corazón arrebatado\nmás que cuando vi por primera vez\na mi esposa cruzar el umbral de mi casa.\n¡Tú, que eres como Marte! Te digo que tenemos\nun ejército en marcha, y que me proponía\nvolver a arrancarte el escudo del brazo,\no perder el mío en el intento. Me has derrotado\nen doce ocasiones distintas, y desde entonces\nhe soñado cada noche con encuentros entre nosotros:\nen sueños hemos caído juntos al suelo,\nnos hemos quitado los cascos, nos hemos agarrado del cuello\ny he despertado medio muerto, sin haber conseguido nada.\nDigno Marcio, aunque no tuviéramos contra Roma\notro motivo de disputa que tu destierro,\nreuniríamos a todos nuestros hombres, de doce a setenta años,\ny derramaríamos la guerra en las entrañas\nde la ingrata Roma, hasta arrollarla como una crecida impetuosa.\nPero ven, entra y estrecha la mano\nde nuestros senadores amigos, que están aquí\ndespidiéndose de mí. Me disponía a atacar\nlos territorios de ustedes, aunque todavía no la propia Roma.",
+          "notes": [
+            {
+              "term": "weeded from my heart / root of ancient envy",
+              "title": "weeded from my heart / root of ancient envy",
+              "type": "Nota filológica",
+              "gloss": "arrancado de mi corazón una raíz de antiguo rencor",
+              "body": "La hostilidad se presenta como una mala hierba arrancada de raíz. Envy admite aquí el valor histórico de enemistad o rencor; la imagen permite expresar una conversión afectiva progresiva. Referencias: Folger Shakespeare Library, «Coriolanus», IV.5, líneas 2788–2824, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; cotejo: Shakespeare Online, «Coriolanus», IV.5, https://www.shakespeare-online.com/plays/corio_4_5.html.",
+              "lemma": "envy",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/envy"
+            },
+            {
+              "term": "grainèd ash",
+              "title": "grainèd ash",
+              "type": "Nota filológica",
+              "gloss": "lanza de fresno endurecido",
+              "body": "Ash designa por metonimia el asta de fresno de una lanza; grainèd puede aludir a la textura o dureza de la madera. La luna «marcada» por las astillas es una hipérbole bélica, no un acontecimiento literal. Referencias: Folger Shakespeare Library, «Coriolanus», IV.5, líneas 2788–2824, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; cotejo: Shakespeare Online, «Coriolanus», IV.5, https://www.shakespeare-online.com/plays/corio_4_5.html.",
+              "lemma": "ash",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/ash"
+            },
+            {
+              "term": "Here I clip / The anvil of my sword",
+              "title": "Here I clip / The anvil of my sword",
+              "type": "Nota filológica",
+              "gloss": "ahora abrazo el yunque de mi espada",
+              "body": "Clip es ‘abrazar’ en este uso; anvil caracteriza al adversario como superficie resistente a los golpes. La acotación del abrazo está situada por Folger después de «splinters», antes de «Here I clip»: el gesto materializa la inversión de la enemistad. Referencias: Folger Shakespeare Library, «Coriolanus», IV.5, líneas 2788–2824, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; cotejo: Shakespeare Online, «Coriolanus», IV.5, https://www.shakespeare-online.com/plays/corio_4_5.html.",
+              "lemma": "clip",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/clip"
+            },
+            {
+              "term": "contest / Contend",
+              "title": "contest / Contend",
+              "type": "Nota filológica",
+              "gloss": "rivalizo / rivalizaba",
+              "body": "La repetición léxica transforma la antigua competencia militar en una competencia de afecto; se trata de una lectura retórica fundada en la construcción paralela. Referencias: Folger Shakespeare Library, «Coriolanus», IV.5, líneas 2788–2824, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; cotejo: Shakespeare Online, «Coriolanus», IV.5, https://www.shakespeare-online.com/plays/corio_4_5.html.",
+              "lemma": "contend",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/contend"
+            },
+            {
+              "term": "Bestride my threshold",
+              "title": "Bestride my threshold",
+              "type": "Nota filológica",
+              "gloss": "cruzar el umbral de mi casa",
+              "body": "Bestride significa literalmente situarse a horcajadas o sobre algo. La evocación del primer encuentro con la esposa y su comparación con la emoción de ver a Marcio admite una lectura de intimidad intensa, sin determinar por sí sola una orientación sexual. Referencias: Folger Shakespeare Library, «Coriolanus», IV.5, líneas 2788–2824, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; cotejo: Shakespeare Online, «Coriolanus», IV.5, https://www.shakespeare-online.com/plays/corio_4_5.html.",
+              "lemma": "bestride",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/bestride"
+            },
+            {
+              "term": "power on foot / target / brawn",
+              "title": "power on foot / target / brawn",
+              "type": "Nota filológica",
+              "gloss": "ejército en marcha / escudo / brazo",
+              "body": "Power puede designar una fuerza militar; target, un escudo; brawn, el músculo o brazo. El antiguo propósito de desarmar al rival contrasta con la nueva alianza. Referencias: Folger Shakespeare Library, «Coriolanus», IV.5, líneas 2788–2824, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; cotejo: Shakespeare Online, «Coriolanus», IV.5, https://www.shakespeare-online.com/plays/corio_4_5.html.",
+              "lemma": "target",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/target"
+            },
+            {
+              "term": "Thou hast beat me out / Twelve several times",
+              "title": "Thou hast beat me out / Twelve several times",
+              "type": "Nota filológica",
+              "gloss": "me has derrotado / en doce ocasiones distintas",
+              "body": "La forma «hast beat» conserva el participio beat, variante histórica frente al beaten habitual en inglés actual. El número doce pertenece al recuento que hace Aufidio; no se presenta como dato histórico externo. Referencias: Folger Shakespeare Library, «Coriolanus», IV.5, líneas 2788–2824, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; cotejo: Shakespeare Online, «Coriolanus», IV.5, https://www.shakespeare-online.com/plays/corio_4_5.html.",
+              "lemma": "beat",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/beat"
+            },
+            {
+              "term": "From twelve to seventy",
+              "title": "From twelve to seventy",
+              "type": "Nota filológica",
+              "gloss": "de doce a setenta años",
+              "body": "El intervalo se refiere a las edades de los hombres que se reclutarían, como expresión de movilización general; no al tamaño del ejército. Referencias: Folger Shakespeare Library, «Coriolanus», IV.5, líneas 2788–2824, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; cotejo: Shakespeare Online, «Coriolanus», IV.5, https://www.shakespeare-online.com/plays/corio_4_5.html."
+            },
+            {
+              "term": "bowels of ungrateful Rome / bold flood",
+              "title": "bowels of ungrateful Rome / bold flood",
+              "type": "Nota filológica",
+              "gloss": "entrañas de la ingrata Roma / crecida impetuosa",
+              "body": "La imagen de las entrañas de la ciudad y la inundación traslada la agresión al interior del cuerpo político. «O’erbear ’t» expresa arrollar o sobrepasar la resistencia. Referencias: Folger Shakespeare Library, «Coriolanus», IV.5, líneas 2788–2824, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; cotejo: Shakespeare Online, «Coriolanus», IV.5, https://www.shakespeare-online.com/plays/corio_4_5.html.",
+              "lemma": "overbear",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/overbear"
             }
           ]
         }
