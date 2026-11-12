@@ -1543,13 +1543,22 @@
       "last_line": 3136,
       "editorial_state": "translated_source_checked_external_references",
       "note": "Cierre de IV.6: seis parlamentos completos, nueve líneas; ciudadanos retractándose y temor de los tribunos. Cotejo Folger y First Folio; glosas y referencias; segunda pasada pendiente."
+    },
+    {
+      "id": "coriolanus-4-7-3137-3164",
+      "act": 4,
+      "scene": 7,
+      "first_line": 3137,
+      "last_line": 3164,
+      "editorial_state": "translated_source_checked_external_references",
+      "note": "Cinco parlamentos completos, 28 líneas. Prestigio militar de Coriolano, metáfora del plan cojo, comparativo more proudlier y amenaza de rendición de cuentas; Folger y MIT; revisión privada pendiente."
     }
   ],
   "next_fragment": {
     "act": 4,
     "scene": 7,
-    "first_line": 3137,
-    "note": "Inicio de IV.7: Aufidio y su teniente; abrir escena nueva y comprobar numeración Folger."
+    "first_line": 3165,
+    "note": "Pregunta del teniente sobre la toma de Roma y respuesta de Aufidio; Folger IV.7."
   },
   "completed_acts": [],
   "last_update_commit": "pending_atomic_commit",

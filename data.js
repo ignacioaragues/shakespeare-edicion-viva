@@ -29,7 +29,8 @@ window.SHAKESPEARE_READER_DATA = {
         "coriolanus-4-3",
         "coriolanus-4-4",
         "coriolanus-4-5",
-        "coriolanus-4-6"
+        "coriolanus-4-6",
+        "coriolanus-4-7"
       ]
     }
   ],
@@ -23234,6 +23235,190 @@ window.SHAKESPEARE_READER_DATA = {
           "en": "Pray, let’s go.",
           "es": "Por favor, vámonos.",
           "notes": []
+        }
+      ]
+    },
+    {
+      "id": "coriolanus-4-7",
+      "workId": "coriolanus",
+      "act": 4,
+      "scene": 7,
+      "place": "Campamento volsco, cerca de Roma",
+      "sourceRef": "Folger Shakespeare Library · Acto IV, escena 7",
+      "sectionLabel": "Edición en curso · líneas 3137–3164",
+      "introduction": "Aufidio descubre que la admiración de sus propios soldados por Coriolano amenaza con eclipsarlo. Su teniente cuestiona el mando compartido y Aufidio insinúa que prepara acusaciones contra su aliado.",
+      "stage": "Entran Tulo Aufidio y su teniente.",
+      "characters": [
+        {
+          "id": "aufidius",
+          "name": "Tulo Aufidio",
+          "english": "Tullus Aufidius",
+          "identity": "General volsco y aliado militar de Coriolano.",
+          "color": "copper"
+        },
+        {
+          "id": "lieutenant",
+          "name": "Teniente de Aufidio",
+          "english": "Aufidius’s Lieutenant",
+          "identity": "Oficial volsco que advierte a Aufidio sobre el prestigio de Coriolano.",
+          "color": "slate"
+        }
+      ],
+      "blocks": [
+        {
+          "line": "3137",
+          "speaker": "aufidius",
+          "en": "Do they still fly to th’ Roman?",
+          "es": "¿Siguen acudiendo todos a ese romano?",
+          "notes": [
+            {
+              "term": "fly to",
+              "title": "fly to",
+              "type": "Nota filológica",
+              "gloss": "acudir en tropel a alguien",
+              "body": "Fly to señala el movimiento apresurado de los soldados hacia Coriolano y su creciente adhesión, no una huida de él. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus, IV.7 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/7/; MIT Shakespeare, Coriolanus IV.7, https://shakespeare.mit.edu/coriolanus/coriolanus.4.7.html.",
+              "lemma": "fly",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/fly"
+            }
+          ]
+        },
+        {
+          "line": "3138–3142",
+          "speaker": "lieutenant",
+          "en": "I do not know what witchcraft’s in him, but\nYour soldiers use him as the grace ’fore meat,\nTheir talk at table, and their thanks at end;\nAnd you are dark’ned in this action, sir,\nEven by your own.",
+          "es": "No sé qué hechizo tiene, pero\nsus soldados lo tienen por bendición antes de comer,\npor tema de conversación durante la comida y por acción de gracias al terminar;\ny en esta campaña, señor, usted queda eclipsado\npor sus propios hombres.",
+          "notes": [
+            {
+              "term": "the grace ’fore meat",
+              "title": "the grace ’fore meat",
+              "type": "Nota filológica",
+              "gloss": "la bendición antes de comer",
+              "body": "Grace es la oración de agradecimiento pronunciada antes de la comida; la enumeración la extiende a la conversación y a las gracias finales, como si Coriolano monopolizara toda la atención. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus, IV.7 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/7/; MIT Shakespeare, Coriolanus IV.7, https://shakespeare.mit.edu/coriolanus/coriolanus.4.7.html.",
+              "lemma": "grace",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/grace"
+            },
+            {
+              "term": "dark’ned",
+              "title": "dark’ned",
+              "type": "Nota filológica",
+              "gloss": "eclipsado; dejado en la sombra",
+              "body": "Participio contraído de darkened. La metáfora de la sombra expresa pérdida de prestigio ante los propios soldados, no una oscuridad literal. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus, IV.7 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/7/; MIT Shakespeare, Coriolanus IV.7, https://shakespeare.mit.edu/coriolanus/coriolanus.4.7.html.",
+              "lemma": "darken",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/darken"
+            }
+          ]
+        },
+        {
+          "line": "3143–3149",
+          "speaker": "aufidius",
+          "en": "I cannot help it now,\nUnless by using means I lame the foot\nOf our design. He bears himself more proudlier,\nEven to my person, than I thought he would\nWhen first I did embrace him. Yet his nature\nIn that’s no changeling, and I must excuse\nWhat cannot be amended.",
+          "es": "Ahora no puedo remediarlo\nsin recurrir a medidas que dejarían cojo\nnuestro plan. Se muestra aún más orgulloso,\nincluso conmigo, de lo que pensé\ncuando lo acogí por primera vez. Sin embargo,\nen eso su carácter no ha cambiado, y debo tolerar\nlo que no puede corregirse.",
+          "notes": [
+            {
+              "term": "lame the foot / Of our design",
+              "title": "lame the foot / Of our design",
+              "type": "Nota filológica",
+              "gloss": "dejar cojo nuestro plan",
+              "body": "Metáfora corporal: intervenir contra el ascendiente de Coriolano dañaría la marcha de la campaña militar. Es una inferencia del propio razonamiento de Aufidio. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus, IV.7 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/7/; MIT Shakespeare, Coriolanus IV.7, https://shakespeare.mit.edu/coriolanus/coriolanus.4.7.html.",
+              "lemma": "lame",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/lame"
+            },
+            {
+              "term": "more proudlier",
+              "title": "more proudlier",
+              "type": "Nota filológica",
+              "gloss": "aún más orgulloso",
+              "body": "Comparativo reforzado mediante more y el sufijo -er en proudlier; no se debe normalizar silenciosamente como un error moderno. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus, IV.7 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/7/; MIT Shakespeare, Coriolanus IV.7, https://shakespeare.mit.edu/coriolanus/coriolanus.4.7.html.",
+              "lemma": "proudly",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/proudly"
+            },
+            {
+              "term": "no changeling",
+              "title": "no changeling",
+              "type": "Nota filológica",
+              "gloss": "no ha cambiado de carácter",
+              "body": "Changeling puede designar a alguien transformado o sustituido; aquí Aufidio reconoce que la altivez de Coriolano no es nueva, aunque le resulte inconveniente. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus, IV.7 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/7/; MIT Shakespeare, Coriolanus IV.7, https://shakespeare.mit.edu/coriolanus/coriolanus.4.7.html.",
+              "lemma": "changeling",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/changeling"
+            }
+          ]
+        },
+        {
+          "line": "3150–3154",
+          "speaker": "lieutenant",
+          "en": "Yet I wish, sir—\nI mean for your particular—you had not\nJoined in commission with him, but either\nHave borne the action of yourself or else\nTo him had left it solely.",
+          "es": "Con todo, señor, habría preferido,\npor su propio bien, que no hubiera\ncompartido el mando con él: que hubiese dirigido\nusted solo la campaña o que se la hubiera\ndejado enteramente a él.",
+          "notes": [
+            {
+              "term": "for your particular",
+              "title": "for your particular",
+              "type": "Nota filológica",
+              "gloss": "por su propio bien; en su interés personal",
+              "body": "Particular se contrapone al interés común de la campaña: el teniente se preocupa por la posición de Aufidio. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus, IV.7 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/7/; MIT Shakespeare, Coriolanus IV.7, https://shakespeare.mit.edu/coriolanus/coriolanus.4.7.html.",
+              "lemma": "particular",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/particular"
+            },
+            {
+              "term": "Joined in commission",
+              "title": "Joined in commission",
+              "type": "Nota filológica",
+              "gloss": "compartido el mando",
+              "body": "Commission se refiere aquí a la autoridad militar conferida a ambos jefes, no a una comisión económica. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus, IV.7 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/7/; MIT Shakespeare, Coriolanus IV.7, https://shakespeare.mit.edu/coriolanus/coriolanus.4.7.html.",
+              "lemma": "commission",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/commission"
+            }
+          ]
+        },
+        {
+          "line": "3155–3164",
+          "speaker": "aufidius",
+          "en": "I understand thee well, and be thou sure,\nWhen he shall come to his account, he knows not\nWhat I can urge against him, although it seems,\nAnd so he thinks and is no less apparent\nTo th’ vulgar eye, that he bears all things fairly,\nAnd shows good husbandry for the Volscian state,\nFights dragonlike, and does achieve as soon\nAs draw his sword; yet he hath left undone\nThat which shall break his neck or hazard mine\nWhene’er we come to our account.",
+          "es": "Te entiendo bien, y puedes estar seguro:\ncuando llegue el momento de rendir cuentas, él ignora\nqué cargos puedo presentar contra él. Aunque parece,\ny así lo cree él y así lo ve también la gente común,\nque todo lo conduce con justicia,\nque administra bien los intereses del Estado volsco,\nque combate como un dragón y conquista\napenas desenvaina la espada, ha dejado sin hacer\nalgo que le costará la cabeza a él, o pondrá en peligro la mía,\ncuando llegue nuestra rendición de cuentas.",
+          "notes": [
+            {
+              "term": "come to his account",
+              "title": "come to his account",
+              "type": "Nota filológica",
+              "gloss": "tener que rendir cuentas",
+              "body": "La expresión se repite al final en our account: Aufidio imagina una evaluación futura de la campaña y anuncia que posee motivos para acusar a su aliado. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus, IV.7 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/7/; MIT Shakespeare, Coriolanus IV.7, https://shakespeare.mit.edu/coriolanus/coriolanus.4.7.html.",
+              "lemma": "account",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/account"
+            },
+            {
+              "term": "th’ vulgar eye",
+              "title": "th’ vulgar eye",
+              "type": "Nota filológica",
+              "gloss": "a ojos de la gente común",
+              "body": "Vulgar significa aquí común o popular, sin que deba imponerse el sentido moderno de grosero. El juicio público contrasta con el conocimiento reservado que Aufidio afirma poseer. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus, IV.7 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/7/; MIT Shakespeare, Coriolanus IV.7, https://shakespeare.mit.edu/coriolanus/coriolanus.4.7.html.",
+              "lemma": "vulgar",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/vulgar"
+            },
+            {
+              "term": "good husbandry",
+              "title": "good husbandry",
+              "type": "Nota filológica",
+              "gloss": "buena administración",
+              "body": "Husbandry alude a la gestión prudente de recursos y asuntos públicos, no a la condición de esposo. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus, IV.7 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/7/; MIT Shakespeare, Coriolanus IV.7, https://shakespeare.mit.edu/coriolanus/coriolanus.4.7.html.",
+              "lemma": "husbandry",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/husbandry"
+            },
+            {
+              "term": "Fights dragonlike",
+              "title": "Fights dragonlike",
+              "type": "Nota filológica",
+              "gloss": "combate como un dragón",
+              "body": "Símil hiperbólico de ferocidad y poder militar; expresa la reputación formidable de Coriolano. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus, IV.7 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/7/; MIT Shakespeare, Coriolanus IV.7, https://shakespeare.mit.edu/coriolanus/coriolanus.4.7.html.",
+              "lemma": "dragon",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/dragon"
+            },
+            {
+              "term": "break his neck or hazard mine",
+              "title": "break his neck or hazard mine",
+              "type": "Nota filológica",
+              "gloss": "costarle la cabeza a él o poner en peligro la mía",
+              "body": "La amenaza puede leerse como anticipo del conflicto mortal entre ambos; el pasaje no especifica todavía la acusación concreta. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus, IV.7 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/7/; MIT Shakespeare, Coriolanus IV.7, https://shakespeare.mit.edu/coriolanus/coriolanus.4.7.html."
+            }
+          ]
         }
       ]
     }
