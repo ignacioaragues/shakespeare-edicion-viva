@@ -19981,9 +19981,9 @@ window.SHAKESPEARE_READER_DATA = {
       "scene": 5,
       "place": "Ancio · Casa de Aufidio",
       "sourceRef": "Folger Shakespeare Library · Acto IV, escena 5",
-      "sectionLabel": "Edición en curso · líneas 2677–2729",
+      "sectionLabel": "Edición en curso · líneas 2677–2748",
       "introduction": "En medio de los preparativos de un banquete, los criados de Aufidio confunden al desterrado Coriolano con un intruso de condición humilde y procuran echarlo.",
-      "stage": "Suena música. Entra el primer criado, que sale tras pedir vino. Entra el segundo criado y sale buscando a Coto. Entra Coriolano, disfrazado. El primer criado entra y sale; luego vuelve a entrar el segundo criado. Entra el tercer criado y el primero lo intercepta; el primero se aparta. Coriolano empuja al tercero; el segundo sale para avisar a Aufidio. El tercer criado interroga a Coriolano; este lo golpea y lo expulsa.",
+      "stage": "Suena música. Entra el primer criado, que sale tras pedir vino. Entra el segundo criado y sale buscando a Coto. Entra Coriolano, disfrazado. El primer criado entra y sale; luego vuelve a entrar el segundo criado. Entra el tercer criado y el primero lo intercepta; el primero se aparta. Coriolano empuja al tercero; el segundo sale para avisar a Aufidio. El tercer criado interroga a Coriolano; este lo golpea y lo expulsa. Entran Aufidio y el segundo criado, que se aparta. Coriolano se descubre el rostro y comienza a revelarse ante su antiguo enemigo.",
       "characters": [
         {
           "id": "first-servingman",
@@ -20011,6 +20011,13 @@ window.SHAKESPEARE_READER_DATA = {
           "name": "Tercer criado",
           "english": "Third Servingman",
           "identity": "Criado de Aufidio que increpa al visitante y recibe un empujón.",
+          "color": "olive"
+        },
+        {
+          "id": "aufidius",
+          "name": "Tulo Aufidio",
+          "english": "Tullus Aufidius",
+          "identity": "General volsco y antiguo rival de Coriolano.",
           "color": "olive"
         }
       ],
@@ -20551,6 +20558,146 @@ window.SHAKESPEARE_READER_DATA = {
               "lemmaUrl": "https://en.wiktionary.org/wiki/trencher"
             }
           ]
+        },
+        {
+          "line": "2730",
+          "speaker": "aufidius",
+          "en": "Where is this fellow?",
+          "es": "¿Dónde está ese individuo?",
+          "notes": []
+        },
+        {
+          "line": "2731–2732",
+          "speaker": "second-servingman",
+          "en": "Here, sir. I’d have beaten him like\na dog, but for disturbing the lords within.",
+          "es": "Aquí, señor. Le habría dado una paliza como\na un perro, de no ser porque habría molestado a los señores que están dentro.",
+          "notes": [
+            {
+              "term": "but for",
+              "title": "but for",
+              "type": "Nota filológica",
+              "gloss": "de no ser por",
+              "body": "Construcción exceptiva que introduce el impedimento alegado por el criado; su bravuconería contrasta con la violencia que acaba de sufrir. Fuentes: Folger Shakespeare Library, Coriolanus IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); Shakespeare Online, IV.5 (https://www.shakespeare-online.com/plays/corio_4_5.html)."
+            }
+          ]
+        },
+        {
+          "line": "2733–2735",
+          "speaker": "aufidius",
+          "en": "Whence com’st thou? What wouldst thou?\nThy name? Why speak’st not? Speak, man. What’s\nthy name?",
+          "es": "¿De dónde vienes? ¿Qué quieres?\n¿Cómo te llamas? ¿Por qué no hablas? Habla, hombre. ¿Cuál es\ntu nombre?",
+          "notes": [
+            {
+              "term": "com’st / wouldst / speak’st",
+              "title": "com’st / wouldst / speak’st",
+              "type": "Nota filológica",
+              "gloss": "vienes / quieres / hablas",
+              "body": "Formas de segunda persona singular con thou; wouldst es modal flexionado, y speak’st presenta elisión gráfica. Fuentes: Folger Shakespeare Library, Coriolanus IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); Shakespeare Online, IV.5 (https://www.shakespeare-online.com/plays/corio_4_5.html).",
+              "lemma": "would",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/would"
+            },
+            {
+              "term": "Thy name?",
+              "title": "Thy name?",
+              "type": "Nota filológica",
+              "gloss": "¿Cómo te llamas?",
+              "body": "Interrogación elíptica sin verbo, parte de la sucesión apremiante de preguntas de Aufidio. Fuentes: Folger Shakespeare Library, Coriolanus IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); Shakespeare Online, IV.5 (https://www.shakespeare-online.com/plays/corio_4_5.html)."
+            }
+          ]
+        },
+        {
+          "line": "2736–2739",
+          "speaker": "coriolanus",
+          "en": "If, Tullus,\nNot yet thou know’st me, and seeing me, dost not\nThink me for the man I am, necessity\nCommands me name myself.",
+          "es": "Si, Tulo,\ntodavía no me reconoces y, aun viéndome, no\nme tomas por quien soy, la necesidad\nme obliga a decir mi nombre.",
+          "notes": [
+            {
+              "term": "Think me for the man I am",
+              "title": "Think me for the man I am",
+              "type": "Nota filológica",
+              "gloss": "reconocerme como quien soy",
+              "body": "La construcción think ... for equivale aquí a «tomar por»; Coriolano distingue el reconocimiento visual de la identificación personal. Fuentes: Folger Shakespeare Library, Coriolanus IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); Shakespeare Online, IV.5 (https://www.shakespeare-online.com/plays/corio_4_5.html)."
+            },
+            {
+              "term": "Commands me name myself",
+              "title": "Commands me name myself",
+              "type": "Nota filológica",
+              "gloss": "me obliga a decir mi nombre",
+              "body": "La necesidad aparece personificada como autoridad que ordena revelar una identidad hasta ahora ocultada. Fuentes: Folger Shakespeare Library, Coriolanus IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); Shakespeare Online, IV.5 (https://www.shakespeare-online.com/plays/corio_4_5.html)."
+            }
+          ]
+        },
+        {
+          "line": "2740",
+          "speaker": "aufidius",
+          "en": "What is thy name?",
+          "es": "¿Cuál es tu nombre?",
+          "notes": []
+        },
+        {
+          "line": "2741–2742",
+          "speaker": "coriolanus",
+          "en": "A name unmusical to the Volscians’ ears\nAnd harsh in sound to thine.",
+          "es": "Un nombre que suena desagradable a los oídos de los volscos\ny áspero a los tuyos.",
+          "notes": [
+            {
+              "term": "unmusical",
+              "title": "unmusical",
+              "type": "Nota filológica",
+              "gloss": "desagradable al oído",
+              "body": "Negación figurada de la armonía: el nombre es odioso por la historia de enfrentamientos, no por sus sonidos en sí. Fuentes: Folger Shakespeare Library, Coriolanus IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); Shakespeare Online, IV.5 (https://www.shakespeare-online.com/plays/corio_4_5.html).",
+              "lemma": "unmusical",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/unmusical"
+            }
+          ]
+        },
+        {
+          "line": "2743–2746",
+          "speaker": "aufidius",
+          "en": "Say, what’s thy name?\nThou hast a grim appearance, and thy face\nBears a command in ’t. Though thy tackle’s torn,\nThou show’st a noble vessel. What’s thy name?",
+          "es": "Dime, ¿cómo te llamas?\nTienes un aspecto severo y tu rostro\nlleva impresa la autoridad. Aunque tus aparejos estén desgarrados,\npareces una nave noble. ¿Cuál es tu nombre?",
+          "notes": [
+            {
+              "term": "tackle / vessel",
+              "title": "tackle / vessel",
+              "type": "Nota filológica",
+              "gloss": "aparejos / nave",
+              "body": "Metáfora náutica sostenida: el vestido deteriorado equivale al aparejo dañado, mientras el porte revela la calidad de la nave; la identificación de tackle con ropa es contextual. Fuentes: Folger Shakespeare Library, Coriolanus IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); Shakespeare Online, IV.5 (https://www.shakespeare-online.com/plays/corio_4_5.html).",
+              "lemma": "tackle",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/tackle"
+            },
+            {
+              "term": "Bears a command in ’t",
+              "title": "Bears a command in ’t",
+              "type": "Nota filológica",
+              "gloss": "lleva impresa la autoridad",
+              "body": "La autoridad se lee en el rostro antes de conocer el nombre: reconocimiento de rango, no aún de identidad. Fuentes: Folger Shakespeare Library, Coriolanus IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); Shakespeare Online, IV.5 (https://www.shakespeare-online.com/plays/corio_4_5.html)."
+            }
+          ]
+        },
+        {
+          "line": "2747",
+          "speaker": "coriolanus",
+          "en": "Prepare thy brow to frown. Know’st thou me yet?",
+          "es": "Prepara el ceño para fruncirlo. ¿Todavía no me reconoces?",
+          "notes": [
+            {
+              "term": "Know’st thou me yet?",
+              "title": "Know’st thou me yet?",
+              "type": "Nota filológica",
+              "gloss": "¿todavía no me reconoces?",
+              "body": "Inversión verbo-sujeto sin do auxiliar, posible en el inglés moderno temprano; la forma know’st conserva la flexión de thou. Fuentes: Folger Shakespeare Library, Coriolanus IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); Shakespeare Online, IV.5 (https://www.shakespeare-online.com/plays/corio_4_5.html).",
+              "lemma": "know",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/know"
+            }
+          ]
+        },
+        {
+          "line": "2748",
+          "speaker": "aufidius",
+          "en": "I know thee not. Thy name?",
+          "es": "No te reconozco. ¿Tu nombre?",
+          "notes": []
         }
       ]
     }
