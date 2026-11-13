@@ -1588,13 +1588,22 @@
       "last_line": 3269,
       "editorial_state": "translated_source_checked_external_references",
       "note": "Cinco parlamentos completos: aceptación de Menenio y su estrategia de esperar a que Coriolano coma; Folger V.1 y MIT cotejados. Revisión retrospectiva y cotejo privado pendientes."
+    },
+    {
+      "id": "coriolanus-5-1-3270-3283",
+      "act": 5,
+      "scene": 1,
+      "first_line": 3270,
+      "last_line": 3283,
+      "editorial_state": "translated_source_checked_external_references",
+      "note": "Cierre de V.1: tres parlamentos completos, 14 líneas; Cominio describe el agravio y la última esperanza en Volumnia y Virgilia. Folger y MIT cotejados; revisión retrospectiva y cotejo privado pendientes."
     }
   ],
   "next_fragment": {
     "act": 5,
-    "scene": 1,
-    "first_line": 3270,
-    "note": "Cominio desconfía del éxito de Menenio; continuar hasta límite natural de parlamento."
+    "scene": 2,
+    "first_line": 3284,
+    "note": "Inicio de V.2, campamento volsco: verificar entrada y primeros parlamentos Folger antes de editar."
   },
   "completed_acts": [],
   "last_update_commit": "pending_atomic_commit",

@@ -24097,6 +24097,92 @@ window.SHAKESPEARE_READER_DATA = {
               "lemmaUrl": "https://en.wiktionary.org/wiki/ere"
             }
           ]
+        },
+        {
+          "line": "3270",
+          "speaker": "cominius",
+          "en": "He’ll never hear him.",
+          "es": "Jamás lo escuchará.",
+          "notes": []
+        },
+        {
+          "line": "3271",
+          "speaker": "sicinius",
+          "en": "Not?",
+          "es": "¿No?",
+          "notes": []
+        },
+        {
+          "line": "3272–3283",
+          "speaker": "cominius",
+          "en": "I tell you, he does sit in gold, his eye\nRed as ’twould burn Rome; and his injury\nThe jailor to his pity. I kneeled before him;\n’Twas very faintly he said “Rise”; dismissed me\nThus with his speechless hand. What he would do\nHe sent in writing after me; what he\nWould not, bound with an oath to yield to his\nConditions. So that all hope is vain\nUnless his noble mother and his wife,\nWho, as I hear, mean to solicit him\nFor mercy to his country. Therefore let’s hence\nAnd with our fair entreaties haste them on.",
+          "es": "Te digo que está sentado entre riquezas, con los ojos\nrojos como si fueran a incendiar Roma; y la ofensa que ha sufrido\nmantiene prisionera su compasión. Me arrodillé ante él;\napenas pronunció «Levántate» y me despidió\ncon un gesto mudo de la mano. Lo que estaba dispuesto a hacer\nme lo comunicó después por escrito; en cuanto a lo que\nno aceptaría, juró no ceder de sus\ncondiciones. Así que toda esperanza es vana,\na menos que su noble madre y su esposa,\nque, según tengo entendido, piensan suplicarle\nque tenga piedad de su patria. Vayamos, pues,\ny apresurémoslas con nuestras respetuosas súplicas.",
+          "notes": [
+            {
+              "term": "sit in gold",
+              "title": "sit in gold",
+              "type": "Nota filológica",
+              "gloss": "sentado entre riquezas",
+              "body": "La imagen presenta a Coriolano como una figura de poder y esplendor. No exige entender que el asiento sea literalmente de oro. Referencias: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.1, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/1/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.1.html."
+            },
+            {
+              "term": "his injury",
+              "title": "his injury",
+              "type": "Nota filológica",
+              "gloss": "la ofensa que ha sufrido",
+              "body": "Injury nombra el agravio percibido por Coriolano tras su destierro; su resentimiento encarcela metafóricamente la piedad. Referencias: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.1, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/1/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.1.html."
+            },
+            {
+              "term": "jailor to his pity",
+              "title": "jailor to his pity",
+              "type": "Nota filológica",
+              "gloss": "carcelero de su compasión",
+              "body": "Personificación: el agravio custodia y retiene la piedad, como si esta fuese una prisionera. Referencias: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.1, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/1/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.1.html.",
+              "lemma": "jailor",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/jailor"
+            },
+            {
+              "term": "speechless hand",
+              "title": "speechless hand",
+              "type": "Nota filológica",
+              "gloss": "gesto mudo de la mano",
+              "body": "Cominio contrapone la escasa palabra de bienvenida al gesto con que Coriolano lo despide. Referencias: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.1, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/1/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.1.html."
+            },
+            {
+              "term": "What he would do",
+              "title": "What he would do",
+              "type": "Nota filológica",
+              "gloss": "lo que estaba dispuesto a hacer",
+              "body": "Would expresa voluntad o disposición, no simplemente futuro hipotético; se opone a what he would not. Referencias: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.1, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/1/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.1.html."
+            },
+            {
+              "term": "bound with an oath",
+              "title": "bound with an oath",
+              "type": "Nota filológica",
+              "gloss": "obligado por un juramento",
+              "body": "El juramento refuerza el carácter irrevocable de las condiciones de Coriolano; la construcción condensa la negativa. Referencias: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.1, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/1/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.1.html.",
+              "lemma": "bind",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/bind"
+            },
+            {
+              "term": "solicit him",
+              "title": "solicit him",
+              "type": "Nota filológica",
+              "gloss": "suplicarle; pedirle clemencia",
+              "body": "Solicit conserva el valor de rogar o solicitar con insistencia, no el sentido moderno especializado de captar clientes. Referencias: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.1, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/1/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.1.html.",
+              "lemma": "solicit",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/solicit"
+            },
+            {
+              "term": "haste them on",
+              "title": "haste them on",
+              "type": "Nota filológica",
+              "gloss": "apresurarlas; instarlas a actuar",
+              "body": "Haste funciona como verbo transitivo causativo: impulsar a alguien a actuar sin demora. Referencias: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.1, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/1/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.1.html.",
+              "lemma": "haste",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/haste"
+            }
+          ]
         }
       ]
     }
