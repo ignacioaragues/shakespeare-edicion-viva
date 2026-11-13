@@ -24194,7 +24194,7 @@ window.SHAKESPEARE_READER_DATA = {
       "scene": 2,
       "place": "Entrada del campamento volsco, ante Roma",
       "sourceRef": "Folger Shakespeare Library · Acto V, escena 2",
-      "sectionLabel": "Edición en curso · líneas 3284–3368",
+      "sectionLabel": "Edición en curso · líneas 3284–3383",
       "introduction": "Menenio llega a la guardia del campamento volsco y trata de hacerse reconocer como allegado de Coriolano; los centinelas rechazan su autoridad romana.",
       "stage": "Entra Menenio ante los centinelas del campamento volsco.",
       "characters": [
@@ -24824,6 +24824,132 @@ window.SHAKESPEARE_READER_DATA = {
               "body": "Block puede designar un bloque de madera y, figuradamente, una persona torpe o insensible. El símil rebaja al centinela a materia inerte. Fuentes: Barbara Mowat y Paul Werstine (eds.), William Shakespeare, Coriolanus, V.2, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; MIT Shakespeare, Coriolanus, V.2, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html.",
               "lemma": "block",
               "lemmaUrl": "https://en.wiktionary.org/wiki/block"
+            }
+          ]
+        },
+        {
+          "line": "3369",
+          "speaker": "coriolanus",
+          "en": "Away!",
+          "es": "¡Vete!",
+          "notes": [
+            {
+              "term": "Away!",
+              "title": "Away!",
+              "type": "Nota filológica",
+              "gloss": "¡vete!; ¡fuera!",
+              "body": "Imperativo elíptico que corta abruptamente la súplica; su repetición posterior por Menenio transforma el rechazo en una fórmula de despedida. Fuentes: Barbara Mowat y Paul Werstine (eds.), William Shakespeare, Coriolanus, V.2, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; MIT Shakespeare, Coriolanus, V.2, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html."
+            }
+          ]
+        },
+        {
+          "line": "3370",
+          "speaker": "menenius",
+          "en": "How? Away?",
+          "es": "¿Cómo? ¿Que me vaya?",
+          "notes": []
+        },
+        {
+          "line": "3371–3382",
+          "speaker": "coriolanus",
+          "en": "Wife, mother, child, I know not. My affairs\nAre servanted to others. Though I owe\nMy revenge properly, my remission lies\nIn Volscian breasts. That we have been familiar,\nIngrate forgetfulness shall poison rather\nThan pity note how much. Therefore, begone.\nMine ears against your suits are stronger than\nYour gates against my force. Yet, for I loved thee,\nTake this along; I writ it for thy sake,\nAnd would have sent it. Another word, Menenius,\nI will not hear thee speak.—This man, Aufidius,\nWas my beloved in Rome; yet thou behold’st.",
+          "es": "No conozco esposa, madre ni hijo. Mis asuntos\nestán al servicio de otros. Aunque la venganza\nme pertenece por derecho, la facultad de perdonar\nestá en manos de los volscos. El afecto que nos unió\nprefiero que lo envenene un olvido ingrato\nantes que reconocerlo con compasión. Así que vete.\nMis oídos resisten tus ruegos mejor que\nlas puertas de Roma resistirán mi ejército. Sin embargo, porque te quise,\nllévate esto: lo escribí por ti\ny pensaba enviártelo. Ni una palabra más, Menenio:\nno volveré a escucharte. Este hombre, Aufidio,\nera alguien a quien yo quería en Roma; y ya ves lo que ocurre.",
+          "notes": [
+            {
+              "term": "Wife, mother, child, I know not",
+              "title": "Wife, mother, child, I know not",
+              "type": "Nota filológica",
+              "gloss": "no conozco esposa, madre ni hijo",
+              "body": "La enumeración sin artículos ni conjunciones dramatiza la ruptura declarada con los vínculos familiares; el rechazo es una afirmación del personaje, no prueba de que haya dejado de sentir afecto. Fuentes: Barbara Mowat y Paul Werstine (eds.), William Shakespeare, Coriolanus, V.2, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; Jacob Ginsberg, «Coriolanus Act 5, Scene 2», LitCharts (2017), https://www.litcharts.com/lit/coriolanus/act-5-scene-2."
+            },
+            {
+              "term": "servanted to others",
+              "title": "servanted to others",
+              "type": "Nota filológica",
+              "gloss": "puestos al servicio de otros",
+              "body": "Servanted es un participio verbal poco corriente derivado de servant: Coriolano presenta sus decisiones como subordinadas a la causa volsca. La formulación no implica que haya perdido toda iniciativa personal. Fuentes: Barbara Mowat y Paul Werstine (eds.), William Shakespeare, Coriolanus, V.2, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; MIT Shakespeare, Coriolanus, V.2, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html.",
+              "lemma": "servant",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/servant"
+            },
+            {
+              "term": "owe / My revenge properly",
+              "title": "owe / My revenge properly",
+              "type": "Nota filológica",
+              "gloss": "la venganza me pertenece por derecho",
+              "body": "Owe puede significar «poseer» en el inglés de Shakespeare; properly precisa que se trata de un derecho personal. No significa aquí que Coriolano «deba» venganza como una deuda. Fuentes: Barbara Mowat y Paul Werstine (eds.), William Shakespeare, Coriolanus, V.2, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; MIT Shakespeare, Coriolanus, V.2, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html.",
+              "lemma": "owe",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/owe"
+            },
+            {
+              "term": "my remission lies / In Volscian breasts",
+              "title": "my remission lies / In Volscian breasts",
+              "type": "Nota filológica",
+              "gloss": "la facultad de perdonar está en manos de los volscos",
+              "body": "Remission es perdón o condonación, no la acepción médica moderna. Breasts es una metonimia de las voluntades o corazones de sus aliados; contrasta el agravio propio con la decisión colectiva. Fuentes: Barbara Mowat y Paul Werstine (eds.), William Shakespeare, Coriolanus, V.2, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; Jacob Ginsberg, «Coriolanus Act 5, Scene 2», LitCharts (2017), https://www.litcharts.com/lit/coriolanus/act-5-scene-2.",
+              "lemma": "remission",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/remission"
+            },
+            {
+              "term": "Ingrate forgetfulness",
+              "title": "Ingrate forgetfulness",
+              "type": "Nota filológica",
+              "gloss": "olvido ingrato",
+              "body": "La personificación hace del olvido un veneno contra la antigua familiaridad; la sintaxis opone poison al reconocimiento compasivo (pity note). Fuentes: Barbara Mowat y Paul Werstine (eds.), William Shakespeare, Coriolanus, V.2, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; MIT Shakespeare, Coriolanus, V.2, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html.",
+              "lemma": "forgetfulness",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/forgetfulness"
+            },
+            {
+              "term": "Mine ears against your suits",
+              "title": "Mine ears against your suits",
+              "type": "Nota filológica",
+              "gloss": "mis oídos resisten tus ruegos",
+              "body": "Suits significa peticiones o súplicas. El contraste con las puertas de Roma crea una comparación entre la resistencia a la palabra y la resistencia militar. Fuentes: Barbara Mowat y Paul Werstine (eds.), William Shakespeare, Coriolanus, V.2, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; MIT Shakespeare, Coriolanus, V.2, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html.",
+              "lemma": "suit",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/suit"
+            },
+            {
+              "term": "I writ it",
+              "title": "I writ it",
+              "type": "Nota filológica",
+              "gloss": "lo escribí",
+              "body": "Writ es aquí forma pretérita de write, equivalente al moderno wrote; no es el sustantivo jurídico writ. Fuentes: Barbara Mowat y Paul Werstine (eds.), William Shakespeare, Coriolanus, V.2, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; MIT Shakespeare, Coriolanus, V.2, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html.",
+              "lemma": "write",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/write"
+            },
+            {
+              "term": "would have sent it",
+              "title": "would have sent it",
+              "type": "Nota filológica",
+              "gloss": "pensaba enviártelo",
+              "body": "La edición Folger lee sent, mientras el texto MIT ofrece rent («lo habría rasgado»). Son lecturas divergentes con consecuencias dramáticas: intención de enviar el escrito frente a intención de destruirlo. Se sigue Folger como texto base; la variante no debe armonizarse silenciosamente. Fuentes: Barbara Mowat y Paul Werstine (eds.), William Shakespeare, Coriolanus, V.2, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; MIT Shakespeare, Coriolanus, V.2, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html.",
+              "lemma": "send",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/send"
+            },
+            {
+              "term": "my beloved in Rome",
+              "title": "my beloved in Rome",
+              "type": "Nota filológica",
+              "gloss": "alguien a quien yo quería en Roma",
+              "body": "Beloved designa aquí a Menenio, a quien Coriolano identifica ante Aufidio, no a Aufidio. La puntuación y la deixis «This man, Aufidius» son esenciales para reconocer al destinatario. Fuentes: Barbara Mowat y Paul Werstine (eds.), William Shakespeare, Coriolanus, V.2, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; MIT Shakespeare, Coriolanus, V.2, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html.",
+              "lemma": "beloved",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/beloved"
+            }
+          ]
+        },
+        {
+          "line": "3383",
+          "speaker": "aufidius",
+          "en": "You keep a constant temper.",
+          "es": "Mantienes una firmeza invariable.",
+          "notes": [
+            {
+              "term": "constant temper",
+              "title": "constant temper",
+              "type": "Nota filológica",
+              "gloss": "firmeza invariable; ánimo constante",
+              "body": "Aufidio elogia la aparente imperturbabilidad de Coriolano. La observación cobra ironía dramática a la luz de la posterior intervención de Volumnia; se trata de una lectura interpretativa, no de una variante textual. Fuentes: Barbara Mowat y Paul Werstine (eds.), William Shakespeare, Coriolanus, V.2, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; Jacob Ginsberg, «Coriolanus Act 5, Scene 2», LitCharts (2017), https://www.litcharts.com/lit/coriolanus/act-5-scene-2.",
+              "lemma": "temper",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/temper"
             }
           ]
         }
