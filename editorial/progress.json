@@ -1624,13 +1624,22 @@
       "last_line": 3346,
       "editorial_state": "translated_source_checked_external_references",
       "note": "Ocho parlamentos completos, 23 líneas. Folger V.2, MIT y cotejo con comentario alternativo sobre dotant; diferencia de atribución del centinela en 3341. Pendientes revisión retrospectiva y cotejo privado."
+    },
+    {
+      "id": "coriolanus-5-2-3347-3368",
+      "act": 5,
+      "scene": 2,
+      "first_line": 3347,
+      "last_line": 3368,
+      "editorial_state": "translated_source_checked_external_references",
+      "note": "Entrada de Coriolano y Aufidio, pregunta breve y parlamento íntegro de Menenio (22 líneas Folger); Folger V.2, MIT y análisis LitCharts contrastados. Hipérbole del sínodo, Jack guardant, office, juego moved/move, lágrimas contra incendio. Revisión retrospectiva y cotejo privado pendientes."
     }
   ],
   "next_fragment": {
     "act": 5,
     "scene": 2,
-    "first_line": 3347,
-    "note": "Entrada de Coriolano y Aufidio; seguir parlamentos completos desde la pregunta de Coriolano."
+    "first_line": 3369,
+    "note": "Respuesta de Coriolano, «Away!», réplica de Menenio y rechazo completo de Coriolano hasta 3382; no dividir su parlamento."
   },
   "completed_acts": [],
   "last_update_commit": "pending_atomic_commit",

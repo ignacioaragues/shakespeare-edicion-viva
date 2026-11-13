@@ -24194,7 +24194,7 @@ window.SHAKESPEARE_READER_DATA = {
       "scene": 2,
       "place": "Entrada del campamento volsco, ante Roma",
       "sourceRef": "Folger Shakespeare Library · Acto V, escena 2",
-      "sectionLabel": "Edición en curso · líneas 3284–3346",
+      "sectionLabel": "Edición en curso · líneas 3284–3368",
       "introduction": "Menenio llega a la guardia del campamento volsco y trata de hacerse reconocer como allegado de Coriolano; los centinelas rechazan su autoridad romana.",
       "stage": "Entra Menenio ante los centinelas del campamento volsco.",
       "characters": [
@@ -24217,6 +24217,20 @@ window.SHAKESPEARE_READER_DATA = {
           "name": "Segundo centinela",
           "english": "Second Watch",
           "identity": "Guardia volsco de la entrada.",
+          "color": "olive"
+        },
+        {
+          "id": "coriolanus",
+          "name": "Coriolano",
+          "english": "Coriolanus",
+          "identity": "General romano desterrado, ahora aliado de los volscos.",
+          "color": "copper"
+        },
+        {
+          "id": "aufidius",
+          "name": "Tulo Aufidio",
+          "english": "Tullus Aufidius",
+          "identity": "General volsco y aliado de Coriolano.",
           "color": "olive"
         }
       ],
@@ -24702,6 +24716,116 @@ window.SHAKESPEARE_READER_DATA = {
           "en": "Nay, but fellow, fellow—",
           "es": "No, pero, amigo, amigo...",
           "notes": []
+        },
+        {
+          "line": "3347",
+          "speaker": "coriolanus",
+          "en": "What’s the matter?",
+          "es": "¿Qué sucede?",
+          "notes": []
+        },
+        {
+          "line": "3348–3368",
+          "speaker": "menenius",
+          "en": "Now, you companion, I’ll\nsay an errand for you. You shall know now that I\nam in estimation; you shall perceive that a Jack\nguardant cannot office me from my son Coriolanus.\nGuess but by my entertainment with him\nif thou stand’st not i’ th’ state of hanging or of some\ndeath more long in spectatorship and crueler in\nsuffering; behold now presently, and swoon for\nwhat’s to come upon thee. The\nglorious gods sit in hourly synod about thy particular\nprosperity and love thee no worse than thy old\nfather Menenius does! O my son, my son!\nThou art preparing fire for us; look thee,\nhere’s water to quench it. I was hardly moved to\ncome to thee; but being assured none but myself\ncould move thee, I have been blown out of your\ngates with sighs, and conjure thee to pardon Rome\nand thy petitionary countrymen. The good gods\nassuage thy wrath and turn the dregs of it upon\nthis varlet here, this, who, like a block, hath denied\nmy access to thee.",
+          "es": "Ahora, tú, compañero, voy a darte un recado.\nAhora sabrás que se me tiene en estima; verás\nque un simple guardia de tres al cuarto no puede\nimpedirme llegar hasta mi hijo Coriolano.\nJuzga por cómo me reciba si no estás a punto\nde acabar en la horca, o de sufrir una muerte\nmás prolongada como espectáculo y más cruel\nen el tormento. ¡Mira lo que va a ocurrirte\ny desmáyate de una vez! Los gloriosos dioses\nse reúnen cada hora en consejo para velar\npor tu prosperidad particular y te aman tanto\ncomo tu viejo padre Menenio. ¡Hijo mío, hijo mío!\nEstás preparando el fuego que nos consumirá;\nmira: aquí tienes agua para apagarlo.\nMe costó decidirme a venir a verte, pero,\nconvencido de que nadie más podría conmoverte,\nme han empujado fuera de nuestras puertas\nentre suspiros. Te conjuro a perdonar a Roma\ny a tus compatriotas suplicantes. ¡Que los buenos\ndioses calmen tu ira y descarguen sus últimos\nrestos sobre este bribón, este tronco que me\nha impedido llegar hasta ti!",
+          "notes": [
+            {
+              "term": "companion",
+              "title": "companion",
+              "type": "Nota filológica",
+              "gloss": "individuo; sujeto de poca monta",
+              "body": "El vocativo se vuelve despectivo al dirigirse Menenio al centinela; contrasta con su saludo anterior, «Good my friends». Fuentes: Barbara Mowat y Paul Werstine (eds.), William Shakespeare, Coriolanus, V.2, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; MIT Shakespeare, Coriolanus, V.2, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html.",
+              "lemma": "companion",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/companion"
+            },
+            {
+              "term": "Jack guardant",
+              "title": "Jack guardant",
+              "type": "Nota filológica",
+              "gloss": "guardia de tres al cuarto",
+              "body": "Jack es aquí una designación desdeñosa de un hombre de condición inferior; guardant significa que hace guardia. Menenio pretende que su posición social lo exima del control del centinela. Fuentes: Barbara Mowat y Paul Werstine (eds.), William Shakespeare, Coriolanus, V.2, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; MIT Shakespeare, Coriolanus, V.2, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html.",
+              "lemma": "Jack",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/Jack"
+            },
+            {
+              "term": "office me from",
+              "title": "office me from",
+              "type": "Nota filológica",
+              "gloss": "impedirme el acceso por razón de su cargo",
+              "body": "Office funciona como verbo ocasional: ejercer las funciones del puesto para excluir a alguien. El valor de la expresión depende del contexto, no de un sentido administrativo moderno habitual. Fuentes: Barbara Mowat y Paul Werstine (eds.), William Shakespeare, Coriolanus, V.2, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; MIT Shakespeare, Coriolanus, V.2, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html.",
+              "lemma": "office",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/office"
+            },
+            {
+              "term": "entertainment",
+              "title": "entertainment",
+              "type": "Nota filológica",
+              "gloss": "recibimiento; trato dispensado",
+              "body": "Entertainment designa la recepción que Coriolano le dará, no una diversión ni un espectáculo. La ironía dramática consiste en que Menenio anticipa una acogida favorable. Fuentes: Barbara Mowat y Paul Werstine (eds.), William Shakespeare, Coriolanus, V.2, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; MIT Shakespeare, Coriolanus, V.2, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html.",
+              "lemma": "entertainment",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/entertainment"
+            },
+            {
+              "term": "death more long in spectatorship",
+              "title": "death more long in spectatorship",
+              "type": "Nota filológica",
+              "gloss": "muerte más prolongada como espectáculo",
+              "body": "La amenaza de Menenio imagina una ejecución dilatada ante espectadores; la violencia de la fantasía subraya su seguridad excesiva. Cotejo de interpretación: Jacob Ginsberg, «Coriolanus Act 5, Scene 2», LitCharts (2017), https://www.litcharts.com/lit/coriolanus/act-5-scene-2. Fuentes: Barbara Mowat y Paul Werstine (eds.), William Shakespeare, Coriolanus, V.2, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; MIT Shakespeare, Coriolanus, V.2, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html."
+            },
+            {
+              "term": "hourly synod",
+              "title": "hourly synod",
+              "type": "Nota filológica",
+              "gloss": "consejo reunido cada hora",
+              "body": "Synod, término de asamblea o concilio, se traslada a los dioses: hipérbole de Menenio que imagina una deliberación divina constante a favor de Coriolano. Fuentes: Barbara Mowat y Paul Werstine (eds.), William Shakespeare, Coriolanus, V.2, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; MIT Shakespeare, Coriolanus, V.2, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html.",
+              "lemma": "synod",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/synod"
+            },
+            {
+              "term": "here’s water to quench it",
+              "title": "here’s water to quench it",
+              "type": "Nota filológica",
+              "gloss": "aquí tienes agua para apagarlo",
+              "body": "El agua representa las lágrimas de Menenio, indicadas por la acotación de llanto en Folger. Responde al fuego con que Coriolano amenaza Roma; la eficacia de la súplica es una expectativa del personaje, no un hecho. Fuentes: Barbara Mowat y Paul Werstine (eds.), William Shakespeare, Coriolanus, V.2, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; MIT Shakespeare, Coriolanus, V.2, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html."
+            },
+            {
+              "term": "I was hardly moved",
+              "title": "I was hardly moved",
+              "type": "Nota filológica",
+              "gloss": "me costó decidirme; fui persuadido con dificultad",
+              "body": "Hardly modifica moved: Menenio afirma que aceptó a regañadientes la misión; inmediatamente juega con move en el sentido de conmover o persuadir a Coriolano. Fuentes: Barbara Mowat y Paul Werstine (eds.), William Shakespeare, Coriolanus, V.2, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; MIT Shakespeare, Coriolanus, V.2, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html.",
+              "lemma": "move",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/move"
+            },
+            {
+              "term": "petitionary countrymen",
+              "title": "petitionary countrymen",
+              "type": "Nota filológica",
+              "gloss": "compatriotas que suplican",
+              "body": "Petitionary describe a los romanos en actitud de petición; la súplica contrasta con la altivez del propio Menenio ante los guardias. Fuentes: Barbara Mowat y Paul Werstine (eds.), William Shakespeare, Coriolanus, V.2, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; MIT Shakespeare, Coriolanus, V.2, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html.",
+              "lemma": "petitionary",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/petitionary"
+            },
+            {
+              "term": "dregs of it",
+              "title": "dregs of it",
+              "type": "Nota filológica",
+              "gloss": "los últimos restos de esa ira",
+              "body": "Dregs son los posos o residuos de un líquido; Menenio desea desviar incluso el remanente de la cólera hacia el guardia. Fuentes: Barbara Mowat y Paul Werstine (eds.), William Shakespeare, Coriolanus, V.2, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; MIT Shakespeare, Coriolanus, V.2, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html.",
+              "lemma": "dregs",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/dregs"
+            },
+            {
+              "term": "like a block",
+              "title": "like a block",
+              "type": "Nota filológica",
+              "gloss": "como un tronco; insensible",
+              "body": "Block puede designar un bloque de madera y, figuradamente, una persona torpe o insensible. El símil rebaja al centinela a materia inerte. Fuentes: Barbara Mowat y Paul Werstine (eds.), William Shakespeare, Coriolanus, V.2, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; MIT Shakespeare, Coriolanus, V.2, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html.",
+              "lemma": "block",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/block"
+            }
+          ]
         }
       ]
     }
