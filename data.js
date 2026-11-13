@@ -23934,6 +23934,169 @@ window.SHAKESPEARE_READER_DATA = {
               "lemmaUrl": "https://en.wiktionary.org/wiki/trial"
             }
           ]
+        },
+        {
+          "line": "3245–3249",
+          "speaker": "menenius",
+          "en": "Well, and say that\nMartius\nReturn me, as Cominius is returned, unheard,\nWhat then? But as a discontented friend,\nGrief-shot with his unkindness? Say ’t be so?",
+          "es": "Bien, pero supongamos que\nMarcio\nme haga volver, como ha vuelto Cominio, sin escucharme.\n¿Qué ocurriría entonces? ¿Acaso sería algo más que un amigo descontento,\nherido de pena por su falta de afecto? Admitamos que así fuera.",
+          "notes": [
+            {
+              "term": "and say that",
+              "title": "and say that",
+              "type": "Nota filológica",
+              "gloss": "pero supongamos que",
+              "body": "Say that introduce una hipótesis, no una orden de comunicar algo. El argumento de Menenio pondera el coste personal de fracasar. Referencias: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.1, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/1/; cotejo textual: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.1.html."
+            },
+            {
+              "term": "Return me",
+              "title": "Return me",
+              "type": "Nota filológica",
+              "gloss": "me haga volver; me despida",
+              "body": "Return funciona transitivamente: Marcio lo enviaría de regreso sin recibir su petición. No significa aquí que Menenio regrese voluntariamente. Referencias: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.1, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/1/; cotejo textual: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.1.html.",
+              "lemma": "return",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/return"
+            },
+            {
+              "term": "Grief-shot",
+              "title": "Grief-shot",
+              "type": "Nota filológica",
+              "gloss": "herido de pena",
+              "body": "Compuesto metafórico: shot presenta el dolor emocional como una herida de proyectil. La edición Folger conserva la forma con guion. Referencias: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.1, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/1/; cotejo textual: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.1.html.",
+              "lemma": "grief",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/grief"
+            }
+          ]
+        },
+        {
+          "line": "3250–3252",
+          "speaker": "sicinius",
+          "en": "Yet your good will\nMust have that thanks from Rome after the measure\nAs you intended well.",
+          "es": "Aun así, Roma tendrá que agradecerle\nsu buena voluntad en la medida\nde sus buenas intenciones.",
+          "notes": [
+            {
+              "term": "after the measure",
+              "title": "after the measure",
+              "type": "Nota filológica",
+              "gloss": "en la medida de",
+              "body": "After introduce aquí proporción o correspondencia: el agradecimiento dependerá de la intención, no del éxito de la embajada. Referencias: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.1, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/1/; cotejo textual: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.1.html."
+            },
+            {
+              "term": "good will",
+              "title": "good will",
+              "type": "Nota filológica",
+              "gloss": "buena voluntad",
+              "body": "Sicinio intenta desplazar el criterio de éxito hacia la intención del mediador, para vencer la resistencia de Menenio. Es una estrategia persuasiva en este diálogo. Referencias: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.1, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/1/; cotejo textual: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.1.html."
+            }
+          ]
+        },
+        {
+          "line": "3253–3264",
+          "speaker": "menenius",
+          "en": "I’ll undertake ’t.\nI think he’ll hear me. Yet to bite his lip\nAnd hum at good Cominius much unhearts me.\nHe was not taken well; he had not dined.\nThe veins unfilled, our blood is cold, and then\nWe pout upon the morning, are unapt\nTo give or to forgive; but when we have stuffed\nThese pipes and these conveyances of our blood\nWith wine and feeding, we have suppler souls\nThan in our priestlike fasts. Therefore I’ll watch him\nTill he be dieted to my request,\nAnd then I’ll set upon him.",
+          "es": "Aceptaré la misión.\nCreo que me escuchará. Sin embargo, que se mordiera el labio\ny respondiera con gruñidos al buen Cominio me desalienta mucho.\nNo lo encontraron en buen momento: todavía no había comido.\nCon las venas vacías, la sangre se nos enfría y entonces\namanecemos malhumorados, poco dispuestos\na dar ni a perdonar. Pero cuando llenamos\nestos conductos por los que circula nuestra sangre\ncon vino y comida, tenemos el ánimo más flexible\nque durante nuestros ayunos de sacerdotes. Por eso esperaré\nhasta que haya comido lo suficiente para atender mi petición,\ny entonces lo abordaré.",
+          "notes": [
+            {
+              "term": "unhearts",
+              "title": "unhearts",
+              "type": "Nota filológica",
+              "gloss": "me desalienta",
+              "body": "Verbo transitivo formado sobre heart: quitar ánimo o valor. El sujeto es la conducta de Coriolano con Cominio. Referencias: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.1, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/1/; cotejo textual: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.1.html.",
+              "lemma": "unheart",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/unheart"
+            },
+            {
+              "term": "not taken well",
+              "title": "not taken well",
+              "type": "Nota filológica",
+              "gloss": "no lo encontraron en buen momento",
+              "body": "Menenio interpreta el fracaso de Cominio como un problema de disposición física y temperamental, que atribuye al ayuno; no se presenta como un hecho confirmado. Referencias: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.1, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/1/; cotejo textual: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.1.html."
+            },
+            {
+              "term": "pipes and these conveyances",
+              "title": "pipes and these conveyances",
+              "type": "Nota filológica",
+              "gloss": "conductos por los que circula la sangre",
+              "body": "Imágenes corporales de tubos y canales; la metáfora enlaza nutrición, circulación y disposición moral. No equivale a una descripción anatómica moderna. Referencias: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.1, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/1/; cotejo textual: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.1.html.",
+              "lemma": "conveyance",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/conveyance"
+            },
+            {
+              "term": "priestlike fasts",
+              "title": "priestlike fasts",
+              "type": "Nota filológica",
+              "gloss": "ayunos de sacerdotes",
+              "body": "Comparación de los ayunos con la abstinencia religiosa. Su tono es humorístico y pragmático, en contraste con la solemnidad de la misión. Referencias: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.1, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/1/; cotejo textual: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.1.html."
+            },
+            {
+              "term": "dieted to my request",
+              "title": "dieted to my request",
+              "type": "Nota filológica",
+              "gloss": "alimentado hasta quedar dispuesto a atender mi petición",
+              "body": "Dieted es un participio verbal aplicado a la preparación estratégica del interlocutor. Menenio confía en persuadirlo después de comer, no en prescribirle una dieta. Referencias: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.1, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/1/; cotejo textual: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.1.html.",
+              "lemma": "diet",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/diet"
+            },
+            {
+              "term": "set upon him",
+              "title": "set upon him",
+              "type": "Nota filológica",
+              "gloss": "lo abordaré",
+              "body": "Set upon suele significar atacar o abalanzarse; aquí el lenguaje de asalto se traslada humorísticamente a una entrevista persuasiva. Referencias: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.1, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/1/; cotejo textual: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.1.html.",
+              "lemma": "set",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/set"
+            }
+          ]
+        },
+        {
+          "line": "3265–3266",
+          "speaker": "brutus",
+          "en": "You know the very road into his kindness\nAnd cannot lose your way.",
+          "es": "Usted conoce el camino exacto para llegar a su benevolencia\ny no puede perderse.",
+          "notes": [
+            {
+              "term": "road into his kindness",
+              "title": "road into his kindness",
+              "type": "Nota filológica",
+              "gloss": "camino para llegar a su benevolencia",
+              "body": "Bruto prolonga la metáfora espacial de la intercesión: la intimidad personal con Marcio sería una ruta hacia su clemencia. Referencias: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.1, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/1/; cotejo textual: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.1.html."
+            }
+          ]
+        },
+        {
+          "line": "3267–3269",
+          "speaker": "menenius",
+          "en": "Good faith, I’ll prove him,\nSpeed how it will. I shall ere long have knowledge\nOf my success.",
+          "es": "De veras, lo pondré a prueba,\nsalga como salga. Pronto sabré\nsi he tenido éxito.",
+          "notes": [
+            {
+              "term": "prove him",
+              "title": "prove him",
+              "type": "Nota filológica",
+              "gloss": "lo pondré a prueba",
+              "body": "Prove equivale aquí a probar o comprobar la disposición de Marcio, no a demostrar una tesis. Referencias: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.1, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/1/; cotejo textual: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.1.html.",
+              "lemma": "prove",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/prove"
+            },
+            {
+              "term": "Speed how it will",
+              "title": "Speed how it will",
+              "type": "Nota filológica",
+              "gloss": "salga como salga",
+              "body": "Speed es un verbo que puede expresar prosperar o tener éxito; la construcción concesiva admite cualquier resultado. Referencias: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.1, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/1/; cotejo textual: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.1.html.",
+              "lemma": "speed",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/speed"
+            },
+            {
+              "term": "ere long",
+              "title": "ere long",
+              "type": "Nota filológica",
+              "gloss": "pronto; antes de mucho",
+              "body": "Ere significa «antes de»; ere long es una locución temporal característica del inglés literario y antiguo. Referencias: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.1, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/1/; cotejo textual: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.1.html.",
+              "lemma": "ere",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/ere"
+            }
+          ]
         }
       ]
     }

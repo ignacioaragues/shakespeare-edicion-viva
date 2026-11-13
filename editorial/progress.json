@@ -1579,13 +1579,22 @@
       "last_line": 3244,
       "editorial_state": "translated_source_checked_external_references",
       "note": "Siete parlamentos completos; metáfora del grano y la paja, lenguaje de intercesión y reproches de Menenio. Folger V.1 y MIT Shakespeare; revisión retrospectiva y cotejo privado pendientes."
+    },
+    {
+      "id": "coriolanus-5-1-3245-3269",
+      "act": 5,
+      "scene": 1,
+      "first_line": 3245,
+      "last_line": 3269,
+      "editorial_state": "translated_source_checked_external_references",
+      "note": "Cinco parlamentos completos: aceptación de Menenio y su estrategia de esperar a que Coriolano coma; Folger V.1 y MIT cotejados. Revisión retrospectiva y cotejo privado pendientes."
     }
   ],
   "next_fragment": {
     "act": 5,
     "scene": 1,
-    "first_line": 3245,
-    "note": "Menenio sopesa el rechazo y acepta interceder; continuar por parlamentos completos."
+    "first_line": 3270,
+    "note": "Cominio desconfía del éxito de Menenio; continuar hasta límite natural de parlamento."
   },
   "completed_acts": [],
   "last_update_commit": "pending_atomic_commit",
