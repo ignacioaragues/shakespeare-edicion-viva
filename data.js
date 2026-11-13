@@ -24194,7 +24194,7 @@ window.SHAKESPEARE_READER_DATA = {
       "scene": 2,
       "place": "Entrada del campamento volsco, ante Roma",
       "sourceRef": "Folger Shakespeare Library · Acto V, escena 2",
-      "sectionLabel": "Edición en curso · líneas 3284–3323",
+      "sectionLabel": "Edición en curso · líneas 3284–3346",
       "introduction": "Menenio llega a la guardia del campamento volsco y trata de hacerse reconocer como allegado de Coriolano; los centinelas rechazan su autoridad romana.",
       "stage": "Entra Menenio ante los centinelas del campamento volsco.",
       "characters": [
@@ -24532,6 +24532,176 @@ window.SHAKESPEARE_READER_DATA = {
               "body": "Retoma la estrategia de V.1: Menenio esperaba que Coriolano, ya alimentado, estuviera mejor dispuesto a perdonar. La pregunta tiene una función dramática, no solo doméstica. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.2, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html."
             }
           ]
+        },
+        {
+          "line": "3324",
+          "speaker": "first-watch",
+          "en": "You are a Roman, are you?",
+          "es": "Usted es romano, ¿verdad?",
+          "notes": []
+        },
+        {
+          "line": "3325",
+          "speaker": "menenius",
+          "en": "I am, as thy general is.",
+          "es": "Lo soy, igual que su general.",
+          "notes": [
+            {
+              "term": "as thy general is",
+              "title": "as thy general is",
+              "type": "Nota filológica",
+              "gloss": "igual que su general",
+              "body": "Menenio invoca la procedencia romana de Coriolano para insistir en su familiaridad; el centinela convierte esa misma identidad en argumento de condena. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus V.2 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html."
+            }
+          ]
+        },
+        {
+          "line": "3326–3338",
+          "speaker": "first-watch",
+          "en": "Then you should hate Rome as he does.\nCan you, when you have pushed out your gates the\nvery defender of them, and, in a violent popular\nignorance given your enemy your shield, think to\nfront his revenges with the easy groans of old\nwomen, the virginal palms of your daughters, or\nwith the palsied intercession of such a decayed\ndotant as you seem to be? Can you think to blow\nout the intended fire your city is ready to flame in\nwith such weak breath as this? No, you are deceived.\nTherefore, back to Rome and prepare for\nyour execution. You are condemned. Our general\nhas sworn you out of reprieve and pardon.",
+          "es": "Entonces debería odiar a Roma como él.\n¿Acaso cree que, después de haber expulsado de sus puertas\nal hombre que las defendía y de haber entregado,\nen un arrebato de ignorancia popular, su escudo al enemigo,\npodrá hacer frente a su venganza con los débiles lamentos\nde las ancianas, las manos virginales de sus hijas\njuntas en súplica o la intercesión temblorosa de un viejo\ncaduco y entregado a su afecto, como parece ser usted?\n¿Cree que con un aliento tan débil podrá apagar\nel incendio que está a punto de devorar su ciudad?\nNo, se engaña. Regrese, pues, a Roma y prepárese\npara su ejecución. Está condenado: nuestro general\nha jurado excluirlo de toda prórroga y de todo perdón.",
+          "notes": [
+            {
+              "term": "violent popular ignorance",
+              "title": "violent popular ignorance",
+              "type": "Nota filológica",
+              "gloss": "arrebato de ignorancia popular",
+              "body": "Popular remite aquí al pueblo como cuerpo político, no a la aceptación pública; el guardia atribuye el destierro de Coriolano a la decisión colectiva. La acusación es una perspectiva del personaje, no un juicio histórico objetivo. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus V.2 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html.",
+              "lemma": "popular",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/popular"
+            },
+            {
+              "term": "given your enemy your shield",
+              "title": "given your enemy your shield",
+              "type": "Nota filológica",
+              "gloss": "entregado su escudo al enemigo",
+              "body": "Paradoja militar: al desterrar a quien defendía Roma, los romanos habrían convertido su propia protección en arma enemiga. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus V.2 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html."
+            },
+            {
+              "term": "front his revenges",
+              "title": "front his revenges",
+              "type": "Nota filológica",
+              "gloss": "hacer frente a su venganza",
+              "body": "Front se usa transitivamente como resistir o enfrentarse; revenges aparece en plural para abarcar los actos de represalia. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus V.2 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html.",
+              "lemma": "front",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/front"
+            },
+            {
+              "term": "virginal palms",
+              "title": "virginal palms",
+              "type": "Nota filológica",
+              "gloss": "manos virginales en súplica",
+              "body": "Palms son las palmas de las manos, imaginadas en actitud suplicante. La imagen forma una gradación de ruegos que el centinela juzga ineficaces. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus V.2 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html.",
+              "lemma": "palm",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/palm"
+            },
+            {
+              "term": "palsied intercession",
+              "title": "palsied intercession",
+              "type": "Nota filológica",
+              "gloss": "intercesión temblorosa",
+              "body": "Palsied alude a un temblor o parálisis asociada con la vejez; el centinela ridiculiza la debilidad física de Menenio. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus V.2 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html.",
+              "lemma": "palsied",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/palsied"
+            },
+            {
+              "term": "decayed dotant",
+              "title": "decayed dotant",
+              "type": "Nota filológica",
+              "gloss": "viejo caduco y devoto; posible «viejo chocho»",
+              "body": "La lectura tradicional entiende dotant como un anciano senil (dotard), pero existe una interpretación filológica alternativa: alguien que «dota» o profesa afecto excesivo a Coriolano, relevante tras my lover (V.2). Se mantiene la ambigüedad y no se presenta la hipótesis como certeza. Véase además el artículo crítico reproducido en https://www.researchgate.net/publication/343189837_Shakespeare%27s_King_Lear_4247-51, pasaje sobre Coriolanus V.2. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus V.2 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html.",
+              "lemma": "dote",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/dote"
+            },
+            {
+              "term": "sworn you out of reprieve and pardon",
+              "title": "sworn you out of reprieve and pardon",
+              "type": "Nota filológica",
+              "gloss": "ha jurado excluirlos de toda prórroga y perdón",
+              "body": "Sworn ... out of expresa la exclusión categórica mediante juramento; reprieve alude a la suspensión o aplazamiento de una condena, mientras pardon es su remisión. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus V.2 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html.",
+              "lemma": "reprieve",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/reprieve"
+            }
+          ]
+        },
+        {
+          "line": "3339–3340",
+          "speaker": "menenius",
+          "en": "Sirrah, if thy captain knew I were here, he\nwould use me with estimation.",
+          "es": "Oiga, si su capitán supiera que estoy aquí,\nme trataría con consideración.",
+          "notes": [
+            {
+              "term": "Sirrah",
+              "title": "Sirrah",
+              "type": "Nota filológica",
+              "gloss": "oye tú; oiga",
+              "body": "Vocativo de superior a inferior, a menudo desdeñoso. Menenio intenta recuperar su autoridad social ante el guardia. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus V.2 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html.",
+              "lemma": "sirrah",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/sirrah"
+            },
+            {
+              "term": "use me with estimation",
+              "title": "use me with estimation",
+              "type": "Nota filológica",
+              "gloss": "tratarme con consideración",
+              "body": "Use significa tratar a una persona de cierta manera; estimation implica aprecio o respeto, no cálculo numérico. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus V.2 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html.",
+              "lemma": "estimation",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/estimation"
+            }
+          ]
+        },
+        {
+          "line": "3341",
+          "speaker": "first-watch",
+          "en": "Come, my captain knows you not.",
+          "es": "Vamos, mi capitán no lo conoce.",
+          "notes": [
+            {
+              "term": "my captain",
+              "title": "my captain",
+              "type": "Nota filológica",
+              "gloss": "mi capitán",
+              "body": "La atribución al primer centinela sigue Folger; el texto de MIT asigna esta réplica al segundo centinela. Se trata de una diferencia editorial de asignación del parlamento, no de significado. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus V.2 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html."
+            }
+          ]
+        },
+        {
+          "line": "3342",
+          "speaker": "menenius",
+          "en": "I mean thy general.",
+          "es": "Me refiero a su general.",
+          "notes": []
+        },
+        {
+          "line": "3343–3345",
+          "speaker": "first-watch",
+          "en": "My general cares not for you. Back, I say,\ngo, lest I let forth your half pint of blood. Back!\nThat’s the utmost of your having. Back!",
+          "es": "A mi general no le importa usted. ¡Atrás, le digo!\n¡Váyase, o le sacaré esa media pinta de sangre que tiene!\n¡Es todo lo que posee! ¡Atrás!",
+          "notes": [
+            {
+              "term": "half pint of blood",
+              "title": "half pint of blood",
+              "type": "Nota filológica",
+              "gloss": "media pinta de sangre",
+              "body": "Hipérbole despectiva: reduce la vida de Menenio a una cantidad irrisoria de sangre, como amenaza de violencia física. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus V.2 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html.",
+              "lemma": "pint",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/pint"
+            },
+            {
+              "term": "the utmost of your having",
+              "title": "the utmost of your having",
+              "type": "Nota filológica",
+              "gloss": "todo lo que posee",
+              "body": "El centinela identifica irónicamente el patrimonio de Menenio con su escasa sangre: un insulto a su vejez y fragilidad. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus V.2 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html."
+            }
+          ]
+        },
+        {
+          "line": "3346",
+          "speaker": "menenius",
+          "en": "Nay, but fellow, fellow—",
+          "es": "No, pero, amigo, amigo...",
+          "notes": []
         }
       ]
     }
