@@ -1669,13 +1669,22 @@
       "last_line": 3445,
       "editorial_state": "translated_source_checked_external_references",
       "note": "21 líneas Folger en cuatro parlamentos completos; Folger y MIT cotejados; lectura crítica de Catherine Belsey sobre el yo autosuficiente; glosas españolas, referencias, enlaces morfológicos selectivos. Revisión retrospectiva y cotejo privado pendientes."
+    },
+    {
+      "id": "coriolanus-5-3-3446-3464",
+      "act": 5,
+      "scene": 3,
+      "first_line": 3446,
+      "last_line": 3464,
+      "editorial_state": "translated_source_checked_external_references",
+      "note": "19 líneas Folger, dos parlamentos íntegros: metáfora teatral, beso de Virgilia, juramento a Juno, arrodillamiento recíproco; Folger y MIT contrastados, lectura de LitCharts consultada. Revisión retrospectiva y cotejo privado pendientes."
     }
   ],
   "next_fragment": {
     "act": 5,
     "scene": 3,
-    "first_line": 3446,
-    "note": "Siguiente parlamento completo de Coriolano, sobre el actor que olvida su papel y el beso de Virgilia (3446–3459)."
+    "first_line": 3465,
+    "note": "Sigue la reacción de Coriolano al arrodillamiento de Volumnia (3465–3471); continuar por parlamentos completos."
   },
   "completed_acts": [],
   "last_update_commit": "pending_atomic_commit",

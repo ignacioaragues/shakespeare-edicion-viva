@@ -25111,7 +25111,7 @@ window.SHAKESPEARE_READER_DATA = {
       "scene": 3,
       "place": "Campamento volsco, ante Roma",
       "sourceRef": "Folger Shakespeare Library · Acto V, escena 3",
-      "sectionLabel": "Edición en curso · líneas 3401–3445",
+      "sectionLabel": "Edición en curso · líneas 3401–3464",
       "introduction": "Coriolano y Aufidio preparan el avance sobre Roma. Coriolano insiste en que ni la intercesión de Menenio ni nuevas embajadas podrán hacerlo cambiar de opinión; entonces se oyen gritos.",
       "stage": "Entran Coriolano y Aufidio. Más tarde entran Virgilia, Volumnia, Valeria y el joven Marcio, con acompañantes.",
       "characters": [
@@ -25435,6 +25435,148 @@ window.SHAKESPEARE_READER_DATA = {
               "body": "Deliver puede significar presentar o llevar ante alguien. Virgilia atribuye a su propio sufrimiento la percepción de extrañeza de Coriolano; el sujeto de makes es the sorrow. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo textual: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
               "lemma": "deliver",
               "lemmaUrl": "https://en.wiktionary.org/wiki/deliver"
+            }
+          ]
+        },
+        {
+          "line": "3446–3459",
+          "speaker": "coriolanus",
+          "en": "Like a dull actor now,\nI have forgot my part, and I am out,\nEven to a full disgrace. Best of my flesh,\nForgive my tyranny, but do not say\nFor that “Forgive our Romans.” O, a kiss\nLong as my exile, sweet as my revenge!\nNow, by the jealous queen of heaven, that kiss\nI carried from thee, dear, and my true lip\nHath virgined it e’er since. You gods! I prate\nAnd the most noble mother of the world\nLeave unsaluted. Sink, my knee, i’ th’ earth;\nOf thy deep duty more impression show\nThan that of common sons.",
+          "es": "Ahora, como un mal actor,\nhe olvidado mi papel y he perdido el hilo,\npara mi completa vergüenza. Tú, la más querida de mi propia carne,\nperdona mi tiranía, pero no me digas a cambio:\n«Perdona a nuestros romanos». ¡Ah, un beso\ntan largo como mi destierro, tan dulce como mi venganza!\nAhora, por la celosa reina del cielo, ese beso\nque me llevé de ti, querida, lo he guardado,\ny mis labios fieles lo han mantenido intacto desde entonces.\n¡Dioses! Estoy hablando sin parar\ny dejo sin saludar a la madre más noble del mundo.\n¡Híncate en la tierra, rodilla mía!\nQue tu profunda reverencia deje una huella mayor\nque la de los hijos comunes.",
+          "notes": [
+            {
+              "term": "dull actor",
+              "title": "dull actor",
+              "type": "Nota filológica",
+              "gloss": "mal actor; intérprete torpe",
+              "body": "Comparación metateatral: el héroe que se resistía a representar un papel público se reconoce incapaz de mantener el que se ha impuesto. La lectura del vínculo entre actuación e identidad es interpretativa, no una variante textual. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library, 2015, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo textual: MIT Shakespeare, Coriolanus, V.3, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html. Véase Jacob Ginsberg, «Coriolanus Act 5, Scene 3», LitCharts (2017), https://www.litcharts.com/lit/coriolanus/act-5-scene-3.",
+              "lemma": "actor",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/actor"
+            },
+            {
+              "term": "forgot my part, and I am out",
+              "title": "forgot my part, and I am out",
+              "type": "Nota filológica",
+              "gloss": "he olvidado mi papel y perdido el hilo",
+              "body": "Part es el papel teatral; be out puede expresar quedar descolocado al olvidar la intervención. La metáfora presenta el afecto como interrupción de una actuación. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library, 2015, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo textual: MIT Shakespeare, Coriolanus, V.3, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "lemma": "part",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/part"
+            },
+            {
+              "term": "Best of my flesh",
+              "title": "Best of my flesh",
+              "type": "Nota filológica",
+              "gloss": "la más querida de mi propia carne",
+              "body": "Flesh enfatiza el parentesco corporal y matrimonial; el vocativo se dirige a Virgilia, no a Volumnia. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library, 2015, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo textual: MIT Shakespeare, Coriolanus, V.3, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "lemma": "flesh",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/flesh"
+            },
+            {
+              "term": "Forgive my tyranny, but do not say",
+              "title": "Forgive my tyranny, but do not say",
+              "type": "Nota filológica",
+              "gloss": "perdona mi tiranía, pero no me pidas que perdone",
+              "body": "La súplica personal es aceptable para Coriolano, pero este intenta separar el perdón doméstico del perdón político. Contraste deliberado entre dos imperativos del mismo verbo. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library, 2015, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo textual: MIT Shakespeare, Coriolanus, V.3, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "lemma": "forgive",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/forgive"
+            },
+            {
+              "term": "Long as my exile, sweet as my revenge",
+              "title": "Long as my exile, sweet as my revenge",
+              "type": "Nota filológica",
+              "gloss": "tan largo como mi destierro, tan dulce como mi venganza",
+              "body": "Paralelismo hiperbólico de duración y sabor; la ternura conyugal se mide con las experiencias que han determinado su destierro y su hostilidad. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library, 2015, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo textual: MIT Shakespeare, Coriolanus, V.3, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "lemma": "exile",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/exile"
+            },
+            {
+              "term": "jealous queen of heaven",
+              "title": "jealous queen of heaven",
+              "type": "Nota filológica",
+              "gloss": "celosa reina del cielo; Juno",
+              "body": "Alusión a Juno, esposa de Júpiter y protectora del matrimonio. Jealous evoca su celo conyugal, no debe traducirse como simple envidia. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library, 2015, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo textual: MIT Shakespeare, Coriolanus, V.3, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "lemma": "jealous",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/jealous"
+            },
+            {
+              "term": "Hath virgined it e’er since",
+              "title": "Hath virgined it e’er since",
+              "type": "Nota filológica",
+              "gloss": "lo ha conservado intacto desde entonces",
+              "body": "Virgined es un verbo formado a partir de virgin: representa la fidelidad del beso guardado, no una afirmación literal de virginidad física. Hath es la forma de tercera persona de have; e’er equivale a ever. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library, 2015, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo textual: MIT Shakespeare, Coriolanus, V.3, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "lemma": "virgin",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/virgin"
+            },
+            {
+              "term": "I prate",
+              "title": "I prate",
+              "type": "Nota filológica",
+              "gloss": "estoy hablando demasiado; parloteo",
+              "body": "Prate expresa hablar en exceso o con ligereza; Coriolano se interrumpe a sí mismo al recordar que todavía no ha saludado a Volumnia. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library, 2015, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo textual: MIT Shakespeare, Coriolanus, V.3, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "lemma": "prate",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/prate"
+            },
+            {
+              "term": "Sink, my knee, i’ th’ earth",
+              "title": "Sink, my knee, i’ th’ earth",
+              "type": "Nota filológica",
+              "gloss": "híncate en la tierra, rodilla mía",
+              "body": "Apóstrofe a su propia rodilla; la acotación de Folger indica que Coriolano se arrodilla. I’ th’ contrae in the. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library, 2015, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo textual: MIT Shakespeare, Coriolanus, V.3, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "lemma": "knee",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/knee"
+            },
+            {
+              "term": "Of thy deep duty more impression show",
+              "title": "Of thy deep duty more impression show",
+              "type": "Nota filológica",
+              "gloss": "deja una huella mayor de tu profunda reverencia",
+              "body": "Impression combina la marca física de la rodilla sobre el suelo con la manifestación visible de un deber filial extraordinario; no se refiere a una impresión psicológica. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library, 2015, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo textual: MIT Shakespeare, Coriolanus, V.3, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "lemma": "impression",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/impression"
+            }
+          ]
+        },
+        {
+          "line": "3460–3464",
+          "speaker": "volumnia",
+          "en": "O, stand up blest,\nWhilst with no softer cushion than the flint\nI kneel before thee and unproperly\nShow duty, as mistaken all this while\nBetween the child and parent.",
+          "es": "¡Ah, levántate y recibe mi bendición!\nMientras yo, sin más cojín que la dura piedra,\nme arrodillo ante ti y, contra lo que corresponde,\nte rindo obediencia, como si hasta ahora hubiera confundido\nquién es el hijo y quién la madre.",
+          "notes": [
+            {
+              "term": "stand up blest",
+              "title": "stand up blest",
+              "type": "Nota filológica",
+              "gloss": "levántate y recibe mi bendición",
+              "body": "La madre bendice al hijo y acto seguido invierte la postura habitual de autoridad filial; Folger indica que él se levanta y ella se arrodilla. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library, 2015, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo textual: MIT Shakespeare, Coriolanus, V.3, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "lemma": "bless",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/bless"
+            },
+            {
+              "term": "no softer cushion than the flint",
+              "title": "no softer cushion than the flint",
+              "type": "Nota filológica",
+              "gloss": "sin más cojín que la dura piedra",
+              "body": "Flint es pedernal; la imagen acentúa el dolor físico de arrodillarse, en contraste irónico con la blandura de un cojín. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library, 2015, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo textual: MIT Shakespeare, Coriolanus, V.3, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "lemma": "flint",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/flint"
+            },
+            {
+              "term": "unproperly / Show duty",
+              "title": "unproperly / Show duty",
+              "type": "Nota filológica",
+              "gloss": "rendir obediencia de manera impropia",
+              "body": "Unproperly significa aquí contra el orden o decoro esperado. Volumnia representa una inversión deliberada de los deberes entre madre e hijo, no una falta accidental de educación. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library, 2015, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo textual: MIT Shakespeare, Coriolanus, V.3, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "lemma": "proper",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/proper"
+            },
+            {
+              "term": "mistaken all this while / Between the child and parent",
+              "title": "mistaken all this while / Between the child and parent",
+              "type": "Nota filológica",
+              "gloss": "como si hubiera confundido quién es el hijo y quién la madre",
+              "body": "La construcción hace depender mistaken de la distinción entre los papeles familiares: el gesto de la madre convierte al hijo en autoridad ante la que se arrodilla. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library, 2015, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo textual: MIT Shakespeare, Coriolanus, V.3, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "lemma": "mistake",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/mistake"
             }
           ]
         }
