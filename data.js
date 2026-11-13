@@ -25111,7 +25111,7 @@ window.SHAKESPEARE_READER_DATA = {
       "scene": 3,
       "place": "Campamento volsco, ante Roma",
       "sourceRef": "Folger Shakespeare Library · Acto V, escena 3",
-      "sectionLabel": "Edición en curso · líneas 3401–3551",
+      "sectionLabel": "Edición en curso · líneas 3401–3604",
       "introduction": "Coriolano y Aufidio preparan el avance sobre Roma. Coriolano insiste en que ni la intercesión de Menenio ni nuevas embajadas podrán hacerlo cambiar de opinión; entonces se oyen gritos.",
       "stage": "Entran Coriolano y Aufidio. Más tarde entran Virgilia, Volumnia, Valeria y el joven Marcio, con acompañantes.",
       "characters": [
@@ -26129,6 +26129,133 @@ window.SHAKESPEARE_READER_DATA = {
               "type": "Nota filológica",
               "gloss": "llevo demasiado tiempo sentado",
               "body": "La acotación de Folger indica que Coriolano se levanta. El movimiento intenta cerrar la audiencia antes de la siguiente intervención de Volumnia. Fuente textual: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library, 2015, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html."
+            }
+          ]
+        },
+        {
+          "line": "3552–3604",
+          "speaker": "volumnia",
+          "en": "Nay, go not from us thus.\nIf it were so that our request did tend\nTo save the Romans, thereby to destroy\nThe Volsces whom you serve, you might condemn\nus\nAs poisonous of your honor. No, our suit\nIs that you reconcile them, while the Volsces\nMay say “This mercy we have showed,” the Romans\n“This we received,” and each in either side\nGive the all-hail to thee and cry “Be blest\nFor making up this peace!” Thou know’st, great son,\nThe end of war’s uncertain, but this certain,\nThat, if thou conquer Rome, the benefit\nWhich thou shalt thereby reap is such a name\nWhose repetition will be dogged with curses,\nWhose chronicle thus writ: “The man was noble,\nBut with his last attempt he wiped it out,\nDestroyed his country, and his name remains\nTo th’ ensuing age abhorred.” Speak to me, son.\nThou hast affected the fine strains of honor\nTo imitate the graces of the gods,\nTo tear with thunder the wide cheeks o’ th’ air\nAnd yet to charge thy sulfur with a bolt\nThat should but rive an oak. Why dost not speak?\nThink’st thou it honorable for a noble man\nStill to remember wrongs?—Daughter, speak you.\nHe cares not for your weeping.—Speak thou, boy.\nPerhaps thy childishness will move him more\nThan can our reasons.—There’s no man in the world\nMore bound to ’s mother, yet here he lets me prate\nLike one i’ th’ stocks. Thou hast never in thy life\nShowed thy dear mother any courtesy\nWhen she, poor hen, fond of no second brood,\nHas clucked thee to the wars and safely home,\nLoaden with honor. Say my request’s unjust\nAnd spurn me back; but if it be not so,\nThou art not honest, and the gods will plague thee\nThat thou restrain’st from me the duty which\nTo a mother’s part belongs.—He turns away.—\nDown, ladies! Let us shame him with our knees.\nTo his surname Coriolanus ’longs more pride\nThan pity to our prayers. Down! An end.\nThis is the last. So, we will home to Rome\nAnd die among our neighbors.—Nay, behold ’s.\nThis boy that cannot tell what he would have,\nBut kneels and holds up hands for fellowship,\nDoes reason our petition with more strength\nThan thou hast to deny ’t.—Come, let us go.\nThis fellow had a Volscian to his mother,\nHis wife is in Corioles, and his child\nLike him by chance.—Yet give us our dispatch.\nI am hushed until our city be afire,\nAnd then I’ll speak a little.",
+          "es": "No, no te alejes de nosotros de esta manera.\nSi nuestra petición buscara\nsalvar a los romanos a costa de destruir\na los volscos a quienes sirves, podrías condenarnos\npor ello\ncomo enemigas de tu honor. No: te pedimos\nque los reconcilies, de modo que los volscos\npuedan decir: «Hemos mostrado esta clemencia», y los romanos:\n«La hemos recibido», y que ambos bandos\nte aclamen y exclamen: «¡Bendito seas\npor haber concertado esta paz!». Sabes, hijo ilustre,\nque el resultado de la guerra es incierto, pero esto es seguro:\nsi conquistas Roma, el provecho\nque obtendrás será un nombre\nque nadie pronunciará sin maldecirlo;\nasí quedará escrita su historia: «Fue un hombre noble,\npero con su última empresa borró sus méritos:\ndestruyó su patria y su nombre quedó\naborrecido por las generaciones futuras». Respóndeme, hijo.\nSiempre has aspirado a las formas más elevadas del honor,\na imitar la grandeza de los dioses,\na desgarrar con truenos la inmensidad del cielo,\ny, sin embargo, a cargar tu rayo de azufre\npara no partir más que un roble. ¿Por qué no hablas?\n¿Crees que es digno de un hombre noble\nrecordar eternamente las ofensas? Hija, habla tú.\nNo le importan tus lágrimas. Habla tú, niño.\nQuizá tu inocencia lo conmueva más\nque nuestros argumentos. No hay hombre en el mundo\nque deba tanto a su madre, y aquí me deja hablar\ncomo a alguien expuesto en el cepo. Jamás en tu vida\nhas tenido una consideración con tu querida madre,\ncuando ella, pobre gallina sin deseos de otra nidada,\nte ha despedido hacia la guerra y recibido de vuelta sano,\ncargado de honores. Dime que mi petición es injusta\ny recházame; pero, si no lo es,\nno actúas con rectitud, y los dioses te castigarán\npor negarme el respeto\nque corresponde a una madre. Se vuelve de espaldas.\n¡De rodillas, señoras! Avergoncémoslo con nuestra súplica.\nA su sobrenombre, Coriolano, se aferra más orgullo\nque compasión por nuestros ruegos. ¡De rodillas! Basta.\nEsta es la última vez. Volveremos a Roma\na morir entre nuestros vecinos. Pero míranos:\neste niño, que ni siquiera sabe expresar lo que desea,\nse arrodilla y levanta las manos para acompañarnos,\ny defiende nuestra petición con más fuerza\nde la que tienes tú para rechazarla. Vamos, marchemos.\nEste hombre debió de tener por madre a una volsca;\nsu esposa vive en Corioles y su hijo\nse le parece por casualidad. Danos ya una respuesta.\nGuardaré silencio hasta que nuestra ciudad esté en llamas;\nentonces diré unas pocas palabras.",
+          "notes": [
+            {
+              "term": "poisonous of your honor",
+              "title": "poisonous of your honor",
+              "type": "Nota filológica",
+              "gloss": "perjudiciales para tu honor",
+              "body": "Construcción con of de valor relacional: Volumnia concede que pedir la destrucción de los volscos dañaría el honor de su hijo; su propuesta no exige esa traición. Fuente: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html."
+            },
+            {
+              "term": "reconcile them",
+              "title": "reconcile them",
+              "type": "Nota filológica",
+              "gloss": "reconciliar a ambos pueblos",
+              "body": "El argumento se formula como una paz bilateral y no como una victoria romana a cualquier precio. La oposición entre dar y recibir clemencia estructura los versos siguientes. Fuente: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "lemma": "reconcile",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/reconcile"
+            },
+            {
+              "term": "all-hail",
+              "title": "all-hail",
+              "type": "Nota filológica",
+              "gloss": "aclamación; saludo de homenaje",
+              "body": "La expresión funciona como saludo solemne de ambos bandos al mediador; la fórmula convierte la paz en una nueva fuente de gloria. Fuente: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html."
+            },
+            {
+              "term": "dogged with curses",
+              "title": "dogged with curses",
+              "type": "Nota filológica",
+              "gloss": "perseguido por maldiciones",
+              "body": "Dogged es participio de dog, «perseguir obstinadamente»; la fama de Coriolano quedaría inseparable de la reprobación pública. Fuente: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "lemma": "dog",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/dog"
+            },
+            {
+              "term": "fine strains of honor",
+              "title": "fine strains of honor",
+              "type": "Nota filológica",
+              "gloss": "las formas más elevadas del honor",
+              "body": "Strains puede aludir a cualidades o disposiciones: Volumnia opone el ideal heroico que él persigue a la destrucción de su propia ciudad. Fuente: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html."
+            },
+            {
+              "term": "charge thy sulfur with a bolt",
+              "title": "charge thy sulfur with a bolt",
+              "type": "Nota filológica",
+              "gloss": "cargar de azufre tu rayo",
+              "body": "La imagen atribuye al héroe un poder semejante al del rayo de Júpiter, pero lo limita al blanco menor de un roble: la desproporción forma parte del reproche. Fuente: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html."
+            },
+            {
+              "term": "rive an oak",
+              "title": "rive an oak",
+              "type": "Nota filológica",
+              "gloss": "partir un roble",
+              "body": "Rive es «hender, partir»; la comparación propone contener una fuerza devastadora en vez de dirigirla contra una ciudad. Fuente: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "lemma": "rive",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/rive"
+            },
+            {
+              "term": "bound to ’s mother",
+              "title": "bound to ’s mother",
+              "type": "Nota filológica",
+              "gloss": "obligado para con su madre",
+              "body": "Bound to indica deber moral, no sujeción física; ’s representa his en la forma contraída. Fuente: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html."
+            },
+            {
+              "term": "i’ th’ stocks",
+              "title": "i’ th’ stocks",
+              "type": "Nota filológica",
+              "gloss": "en el cepo",
+              "body": "Los stocks eran un instrumento público de inmovilización y escarnio: Volumnia presenta su propia elocuencia como humillada e impotente. Fuente: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html."
+            },
+            {
+              "term": "poor hen",
+              "title": "poor hen",
+              "type": "Nota filológica",
+              "gloss": "pobre gallina",
+              "body": "La metáfora doméstica contrapone a la madre protectora con el hijo educado para la guerra; «sin deseos de otra nidada» refuerza la singularidad de su vínculo. Fuente: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html."
+            },
+            {
+              "term": "clucked thee to the wars",
+              "title": "clucked thee to the wars",
+              "type": "Nota filológica",
+              "gloss": "te ha despedido hacia la guerra como una gallina que cacarea",
+              "body": "Clucked es un uso verbal figurado: el sonido de la gallina se proyecta sobre la madre que alienta y recibe al hijo. Fuente: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "lemma": "cluck",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/cluck"
+            },
+            {
+              "term": "’longs",
+              "title": "’longs",
+              "type": "Nota filológica",
+              "gloss": "pertenece; corresponde",
+              "body": "Forma aféresis de belongs: el orgullo pertenece más al sobrenombre militar que la piedad a las súplicas. Fuente: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "lemma": "belong",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/belong"
+            },
+            {
+              "term": "Does reason our petition",
+              "title": "Does reason our petition",
+              "type": "Nota filológica",
+              "gloss": "argumenta a favor de nuestra petición",
+              "body": "Reason es aquí verbo transitivo: el gesto del niño ofrece una razón persuasiva sin palabras. Fuente: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "lemma": "reason",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/reason"
+            },
+            {
+              "term": "had a Volscian to his mother",
+              "title": "had a Volscian to his mother",
+              "type": "Nota filológica",
+              "gloss": "debió de tener una volsca por madre",
+              "body": "La afirmación es una negación retórica de su filiación romana, no una noticia genealógica. Fuente: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html."
+            },
+            {
+              "term": "I am hushed",
+              "title": "I am hushed",
+              "type": "Nota filológica",
+              "gloss": "guardaré silencio",
+              "body": "El silencio anunciado culmina el discurso: la respuesta escénica de Coriolano se desencadena después de que ella deja de hablar. Fuente: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "lemma": "hush",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/hush"
             }
           ]
         }

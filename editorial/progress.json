@@ -1714,13 +1714,22 @@
       "last_line": 3551,
       "editorial_state": "translated_source_checked_external_references",
       "note": "Tres parlamentos íntegros, 8 líneas; cotejo Folger/MIT, cuatro notas contextuales; revisión retrospectiva pendiente."
+    },
+    {
+      "id": "coriolanus-5-3-3552-3604",
+      "act": 5,
+      "scene": 3,
+      "first_line": 3552,
+      "last_line": 3604,
+      "editorial_state": "translated_source_checked_external_references",
+      "note": "53 líneas Folger: segundo parlamento completo de Volumnia; unidad dramática indivisible, cotejada con Folger/MIT y comentarios externos; glosas contextuales. Cotejo privado y revisión retrospectiva pendientes."
     }
   ],
   "next_fragment": {
     "act": 5,
     "scene": 3,
-    "first_line": 3552,
-    "note": "Comienza un nuevo parlamento largo de Volumnia, hasta la línea 3604; tratar como unidad íntegra en una pasada posterior."
+    "first_line": 3605,
+    "note": "Respuesta de Coriolano a Volumnia; continuar por parlamentos completos."
   },
   "completed_acts": [],
   "last_update_commit": "pending_atomic_commit",
