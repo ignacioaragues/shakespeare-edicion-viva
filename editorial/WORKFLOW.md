@@ -11,3 +11,13 @@ This is an incremental, noncommercial, bilingual reading edition. The machine-re
 7. At the end of each session, report the exact act/scene/lines, what changed, the commit or URL, any uncertainties, and the next passage. Upon completing and checking all five acts, set `status` to `complete`, report the result, and disable the recurring task.
 
 The current 1.1.1–67 sample is a **prototype** and needs eventual editorial rechecking against these sources. Avoid treating it as a finished critical edition.
+
+## Large-file GitHub connector fallback (mandatory)
+
+The GitHub connector's `fetch_file` can return an empty `content` for the large root `data.js` while still returning its correct blob `sha`. **This is not proof that the file is empty or inaccessible.** Before reporting a blockage or asking the user to use Codex:
+
+1. Call `fetch_file` for `data.js` and capture `result.sha`. If `result.content` is empty, call `fetch_blob({repository_full_name: "ignacioaragues/shakespeare-edicion-viva", blob_sha: result.sha})`. The blob endpoint has successfully returned the complete ~1.45 MB file.
+2. Validate the recovered content: it begins with `window.SHAKESPEARE_READER_DATA =`, ends with `;`, parses as JSON after removing that assignment and semicolon, and contains `works` and `scenes`. Check the latest published scene against `editorial/progress.json` before editing.
+3. Never substitute an empty `fetch_file` response for the existing data, truncate the file, or advance the checkpoint on a failed read. A failed blob retrieval is a real blocker: leave `main` unchanged and report it.
+4. Before committing, recheck the latest `main` head. Write updated `data.js`, `editorial/progress.json`, and any reader changes into **one Git tree and one commit**, then update `main` with `expected_sha` equal to the head inspected. On a race, re-read and reconcile; never force-overwrite.
+5. For future substantial growth, consider splitting scene data only after a separate migration with verified navigation and stable `data-reading-id` highlight identifiers; splitting is **not** necessary merely because `fetch_file` returns empty content.
