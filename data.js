@@ -25111,7 +25111,7 @@ window.SHAKESPEARE_READER_DATA = {
       "scene": 3,
       "place": "Campamento volsco, ante Roma",
       "sourceRef": "Folger Shakespeare Library · Acto V, escena 3",
-      "sectionLabel": "Edición en curso · líneas 3401–3464",
+      "sectionLabel": "Edición en curso · líneas 3401–3486",
       "introduction": "Coriolano y Aufidio preparan el avance sobre Roma. Coriolano insiste en que ni la intercesión de Menenio ni nuevas embajadas podrán hacerlo cambiar de opinión; entonces se oyen gritos.",
       "stage": "Entran Coriolano y Aufidio. Más tarde entran Virgilia, Volumnia, Valeria y el joven Marcio, con acompañantes.",
       "characters": [
@@ -25577,6 +25577,209 @@ window.SHAKESPEARE_READER_DATA = {
               "body": "La construcción hace depender mistaken de la distinción entre los papeles familiares: el gesto de la madre convierte al hijo en autoridad ante la que se arrodilla. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library, 2015, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo textual: MIT Shakespeare, Coriolanus, V.3, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
               "lemma": "mistake",
               "lemmaUrl": "https://en.wiktionary.org/wiki/mistake"
+            }
+          ]
+        },
+        {
+          "line": "3465–3471",
+          "speaker": "coriolanus",
+          "en": "What’s this?\nYour knees to me? To your corrected son?\nThen let the pebbles on the hungry beach\nFillip the stars! Then let the mutinous winds\nStrike the proud cedars ’gainst the fiery sun,\nMurdering impossibility to make\nWhat cannot be slight work.",
+          "es": "¿Qué es esto?\n¿Te arrodillas ante mí? ¿Ante tu hijo, al que has corregido?\n¡Entonces que las piedrecillas de la playa voraz\nsalgan disparadas hasta las estrellas! ¡Que los vientos rebeldes\narrojen los altivos cedros contra el sol ardiente,\naniquilando lo imposible, hasta convertir\nen cosa fácil lo que no puede suceder!",
+          "notes": [
+            {
+              "term": "corrected son",
+              "title": "corrected son",
+              "type": "Nota filológica",
+              "gloss": "hijo corregido; hijo al que has educado",
+              "body": "Corrected puede evocar la disciplina y formación impartidas por la madre; la paradoja es que la educadora se arrodilla ante el educado. La acotación de Folger indica que Coriolano la levanta; MIT no explicita aquí ese gesto. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo: MIT Shakespeare, Coriolanus, V.3, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "lemma": "correct",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/correct"
+            },
+            {
+              "term": "hungry beach",
+              "title": "hungry beach",
+              "type": "Nota filológica",
+              "gloss": "playa voraz",
+              "body": "La personificación puede sugerir la playa que engulle las olas o que reclama materia. La traducción mantiene la imagen sin fijar una explicación física única. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo: MIT Shakespeare, Coriolanus, V.3, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html."
+            },
+            {
+              "term": "Fillip the stars",
+              "title": "Fillip the stars",
+              "type": "Nota filológica",
+              "gloss": "lanzar de un papirotazo hasta las estrellas",
+              "body": "Fillip designa un golpe dado con un dedo, capaz aquí, por hipérbole imposible, de propulsar guijarros hasta el firmamento. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo: MIT Shakespeare, Coriolanus, V.3, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "lemma": "fillip",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/fillip"
+            },
+            {
+              "term": "mutinous winds",
+              "title": "mutinous winds",
+              "type": "Nota filológica",
+              "gloss": "vientos rebeldes; amotinados",
+              "body": "Mutinous traslada a la naturaleza el vocabulario político y militar de la insubordinación. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo: MIT Shakespeare, Coriolanus, V.3, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "lemma": "mutinous",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/mutinous"
+            },
+            {
+              "term": "Murdering impossibility",
+              "title": "Murdering impossibility",
+              "type": "Nota filológica",
+              "gloss": "aniquilando lo imposible",
+              "body": "Paradoja enfática: si se invierte la jerarquía natural entre madre e hijo, también podrían hacerse fáciles los hechos físicamente imposibles. La interpretación de esa relación es contextual. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo: MIT Shakespeare, Coriolanus, V.3, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "lemma": "murder",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/murder"
+            }
+          ]
+        },
+        {
+          "line": "3472–3473",
+          "speaker": "volumnia",
+          "en": "Thou art my warrior;\nI holp to frame thee. Do you know this lady?",
+          "es": "Tú eres mi guerrero;\nyo contribuí a formarte. ¿Reconoces a esta dama?",
+          "notes": [
+            {
+              "term": "I holp to frame thee",
+              "title": "I holp to frame thee",
+              "type": "Nota filológica",
+              "gloss": "yo contribuí a formarte",
+              "body": "Holp es un pretérito histórico de help; frame remite a formar o modelar. Volumnia reivindica su papel en la creación del guerrero, retomando la imagen del molde en 3425–3426. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo: MIT Shakespeare, Coriolanus, V.3, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "lemma": "help",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/help"
+            },
+            {
+              "term": "Thou art / Do you know",
+              "title": "Thou art / Do you know",
+              "type": "Nota filológica",
+              "gloss": "tú eres / ¿reconoces?",
+              "body": "El paso de thou a you en el mismo parlamento muestra la coexistencia de formas de tratamiento en inglés moderno temprano. No se debe proyectar automáticamente una diferencia fija de cortesía sobre cada ocurrencia. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo: MIT Shakespeare, Coriolanus, V.3, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "lemma": "thou",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/thou"
+            }
+          ]
+        },
+        {
+          "line": "3474–3477",
+          "speaker": "coriolanus",
+          "en": "The noble sister of Publicola,\nThe moon of Rome, chaste as the icicle\nThat’s curdied by the frost from purest snow\nAnd hangs on Dian’s temple!—Dear Valeria.",
+          "es": "¡La noble hermana de Publícola,\nla luna de Roma, casta como el carámbano\nque la escarcha ha formado con la nieve más pura\ny que cuelga del templo de Diana! ¡Querida Valeria!",
+          "notes": [
+            {
+              "term": "sister of Publicola",
+              "title": "sister of Publicola",
+              "type": "Nota filológica",
+              "gloss": "hermana de Publícola",
+              "body": "Publicola es el cognomen romano asociado a Publio Valerio Publícola. En este parlamento se identifica a Valeria por parentesco, sin necesidad de suponer que la genealogía dramática reproduce exactamente una fuente histórica. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo: MIT Shakespeare, Coriolanus, V.3, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html."
+            },
+            {
+              "term": "moon of Rome",
+              "title": "moon of Rome",
+              "type": "Nota filológica",
+              "gloss": "luna de Roma",
+              "body": "Metáfora laudatoria que asocia a Valeria con la luminosidad y la castidad lunar; la identificación con Diana se hace explícita al final del parlamento. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo: MIT Shakespeare, Coriolanus, V.3, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html."
+            },
+            {
+              "term": "curdied by the frost",
+              "title": "curdied by the frost",
+              "type": "Nota filológica",
+              "gloss": "formado o cuajado por la escarcha",
+              "body": "Curdied es forma poco corriente vinculada a curdle: cuajarse o espesarse. La comparación describe la formación del hielo a partir de nieve pura; no se trata de leche literal. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo: MIT Shakespeare, Coriolanus, V.3, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "lemma": "curdle",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/curdle"
+            },
+            {
+              "term": "Dian’s temple",
+              "title": "Dian’s temple",
+              "type": "Nota filológica",
+              "gloss": "templo de Diana",
+              "body": "Dian es forma poética abreviada de Diana, diosa romana asociada a la luna y a la virginidad. El carámbano colgante prolonga la metáfora de la castidad. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo: MIT Shakespeare, Coriolanus, V.3, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "lemma": "Diana",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/Diana"
+            }
+          ]
+        },
+        {
+          "line": "3478–3480",
+          "speaker": "volumnia",
+          "en": "This is a poor epitome of yours,\nWhich by th’ interpretation of full time\nMay show like all yourself.",
+          "es": "Este es un pequeño compendio de ti mismo,\nque, cuando el tiempo haya desplegado todo su significado,\npodrá llegar a parecerse a ti por completo.",
+          "notes": [
+            {
+              "term": "poor epitome of yours",
+              "title": "poor epitome of yours",
+              "type": "Nota filológica",
+              "gloss": "pequeño compendio o imagen abreviada de ti",
+              "body": "Epitome designa un resumen o compendio; Volumnia presenta al niño como versión todavía incompleta de su padre. Poor señala aquí su pequeñez o insuficiencia, no necesariamente pobreza económica. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo: MIT Shakespeare, Coriolanus, V.3, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "lemma": "epitome",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/epitome"
+            },
+            {
+              "term": "interpretation of full time",
+              "title": "interpretation of full time",
+              "type": "Nota filológica",
+              "gloss": "lo que el paso del tiempo revelará",
+              "body": "La metáfora convierte el crecimiento en interpretación: solo la madurez permitirá desplegar el significado del hijo como imagen paterna. Es una lectura contextual de la sintaxis, no una variante textual. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo: MIT Shakespeare, Coriolanus, V.3, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "lemma": "interpretation",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/interpretation"
+            }
+          ]
+        },
+        {
+          "line": "3481–3486",
+          "speaker": "coriolanus",
+          "en": "The god of soldiers,\nWith the consent of supreme Jove, inform\nThy thoughts with nobleness, that thou mayst prove\nTo shame unvulnerable, and stick i’ th’ wars\nLike a great seamark standing every flaw\nAnd saving those that eye thee.",
+          "es": "Que el dios de los soldados,\ncon el consentimiento del supremo Júpiter, infunda\nnobleza en tus pensamientos, para que resultes\ninvulnerable a la deshonra y permanezcas firme en la guerra\ncomo una gran señal marítima que resiste todas las tempestades\ny guía a quienes la tienen a la vista.",
+          "notes": [
+            {
+              "term": "god of soldiers",
+              "title": "god of soldiers",
+              "type": "Nota filológica",
+              "gloss": "dios de los soldados; Marte",
+              "body": "La invocación se dirige probablemente a Marte, dios romano de la guerra; Shakespeare no lo nombra explícitamente en este verso. Se distingue la identificación contextual de la literalidad del texto. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo: MIT Shakespeare, Coriolanus, V.3, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html."
+            },
+            {
+              "term": "inform / Thy thoughts",
+              "title": "inform / Thy thoughts",
+              "type": "Nota filológica",
+              "gloss": "infunda forma y nobleza a tus pensamientos",
+              "body": "Inform conserva el sentido de dar forma o configurar, además de comunicar. El deseo paterno prolonga la insistencia de Volumnia en haber modelado al guerrero. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo: MIT Shakespeare, Coriolanus, V.3, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "lemma": "inform",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/inform"
+            },
+            {
+              "term": "thou mayst prove",
+              "title": "thou mayst prove",
+              "type": "Nota filológica",
+              "gloss": "para que llegues a ser; para que resultes",
+              "body": "Mayst es segunda persona singular del modal may, concordante con thou; prove aquí expresa resultar o mostrarse, no demostrar mediante un experimento. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo: MIT Shakespeare, Coriolanus, V.3, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "lemma": "may",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/may"
+            },
+            {
+              "term": "To shame unvulnerable",
+              "title": "To shame unvulnerable",
+              "type": "Nota filológica",
+              "gloss": "invulnerable a la deshonra",
+              "body": "La construcción antepone el complemento to shame al adjetivo unvulnerable; la inmunidad deseada es moral, no una garantía de invulnerabilidad física. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo: MIT Shakespeare, Coriolanus, V.3, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "lemma": "unvulnerable",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/unvulnerable"
+            },
+            {
+              "term": "great seamark standing every flaw",
+              "title": "great seamark standing every flaw",
+              "type": "Nota filológica",
+              "gloss": "gran señal marítima que resiste cada ráfaga",
+              "body": "Seamark es una referencia visible para la navegación; flaw puede significar ráfaga o temporal repentino. La comparación une resistencia y orientación para otros. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo: MIT Shakespeare, Coriolanus, V.3, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "lemma": "seamark",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/seamark"
+            },
+            {
+              "term": "saving those that eye thee",
+              "title": "saving those that eye thee",
+              "type": "Nota filológica",
+              "gloss": "salvando a quienes te avistan",
+              "body": "Eye funciona como verbo transitivo: mirar o tener a la vista. El hijo debe servir como punto de orientación salvador, no solamente destacar por valentía. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo: MIT Shakespeare, Coriolanus, V.3, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "lemma": "eye",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/eye"
             }
           ]
         }
