@@ -1606,13 +1606,22 @@
       "last_line": 3300,
       "editorial_state": "translated_source_checked_external_references",
       "note": "Inicio de V.2: nueve parlamentos completos, 17 líneas; contraste Folger y MIT, incluidos rótulos divergentes Watch/Senator; glosas y referencias verificables. Cotejo privado y revisión retrospectiva pendientes."
+    },
+    {
+      "id": "coriolanus-5-2-3301-3323",
+      "act": 5,
+      "scene": 2,
+      "first_line": 3301,
+      "last_line": 3323,
+      "editorial_state": "translated_source_checked_external_references",
+      "note": "Cinco parlamentos completos; fama/libro, bowling y leasing, respuesta del centinela, pregunta sobre la comida. Folger V.2 y MIT cotejados; se registra variante Folger fame/happily frente a MIT name/haply. Revisión retrospectiva y cotejo privado pendientes."
     }
   ],
   "next_fragment": {
     "act": 5,
     "scene": 2,
-    "first_line": 3301,
-    "note": "Sigue el largo parlamento de Menenio (3301–3311), que debe conservarse completo."
+    "first_line": 3324,
+    "note": "Continuar con la pregunta del primer centinela y su largo parlamento sobre Roma; no interrumpir a mitad de intervención."
   },
   "completed_acts": [],
   "last_update_commit": "pending_atomic_commit",

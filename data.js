@@ -24194,7 +24194,7 @@ window.SHAKESPEARE_READER_DATA = {
       "scene": 2,
       "place": "Entrada del campamento volsco, ante Roma",
       "sourceRef": "Folger Shakespeare Library · Acto V, escena 2",
-      "sectionLabel": "Edición en curso · líneas 3284–3300",
+      "sectionLabel": "Edición en curso · líneas 3284–3323",
       "introduction": "Menenio llega a la guardia del campamento volsco y trata de hacerse reconocer como allegado de Coriolano; los centinelas rechazan su autoridad romana.",
       "stage": "Entra Menenio ante los centinelas del campamento volsco.",
       "characters": [
@@ -24363,6 +24363,173 @@ window.SHAKESPEARE_READER_DATA = {
               "body": "Juego entre la admisibilidad de un nombre y el paso físico por el puesto de guardia. La respuesta desautoriza el capital político romano de Menenio. Referencias: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.2, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; cotejo de variantes de atribución y lectura: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html.",
               "lemma": "passable",
               "lemmaUrl": "https://en.wiktionary.org/wiki/passable"
+            }
+          ]
+        },
+        {
+          "line": "3301–3311",
+          "speaker": "menenius",
+          "en": "I tell thee, fellow,\nThy general is my lover. I have been\nThe book of his good acts, whence men have read\nHis fame unparalleled happily amplified;\nFor I have ever verified my friends—\nOf whom he’s chief—with all the size that verity\nWould without lapsing suffer. Nay, sometimes,\nLike to a bowl upon a subtle ground,\nI have tumbled past the throw, and in his praise\nHave almost stamped the leasing. Therefore, fellow,\nI must have leave to pass.",
+          "es": "Te digo, amigo,\nque tu general me tiene gran afecto. Yo he sido\nel libro de sus buenas acciones, en el que los hombres han leído\nsu fama incomparable, acaso algo engrandecida;\npues siempre he ponderado a mis amigos,\ny a él más que a ninguno, hasta el límite que la verdad\npermite sin caer en la falsedad. Es más, a veces,\ncomo una bola de juego sobre un terreno engañoso,\nme he pasado del punto al que apuntaba y, al elogiarlo,\nhe estado a punto de dar por buena una mentira. Por eso, amigo,\ntienes que dejarme pasar.",
+          "notes": [
+            {
+              "term": "my lover",
+              "title": "my lover",
+              "type": "Nota filológica",
+              "gloss": "alguien que me quiere; amigo íntimo",
+              "body": "Lover expresa aquí afecto y amistad, sin implicar una relación amorosa o sexual. Menenio invoca una intimidad que supone reconocida por Coriolano. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.2, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html.",
+              "lemma": "lover",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/lover"
+            },
+            {
+              "term": "The book of his good acts",
+              "title": "The book of his good acts",
+              "type": "Nota filológica",
+              "gloss": "el libro de sus buenas acciones",
+              "body": "Metáfora de la fama como relato escrito: Menenio se presenta como el cronista y propagador de los méritos de Coriolano. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.2, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html."
+            },
+            {
+              "term": "happily amplified",
+              "title": "happily amplified",
+              "type": "Nota filológica",
+              "gloss": "acaso engrandecida",
+              "body": "Happily admite el valor de «quizá» o «por ventura» en el inglés de la época. MIT transmite «haply amplified» y «His name», mientras Folger imprime «happily amplified» y «His fame»; no se mezclan ambas lecturas en el texto base. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.2, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html.",
+              "lemma": "haply",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/haply"
+            },
+            {
+              "term": "verified my friends",
+              "title": "verified my friends",
+              "type": "Nota filológica",
+              "gloss": "he ponderado a mis amigos sin apartarme de la verdad",
+              "body": "Verified tiene aquí un matiz de avalar mediante afirmaciones veraces; Menenio reconoce enseguida que sus elogios pudieron rebasar ese límite. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.2, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html.",
+              "lemma": "verify",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/verify"
+            },
+            {
+              "term": "with all the size that verity / Would without lapsing suffer",
+              "title": "with all the size that verity / Would without lapsing suffer",
+              "type": "Nota filológica",
+              "gloss": "hasta el límite permitido por la verdad sin caer en falsedad",
+              "body": "Size es extensión o medida; verity, verdad; lapsing alude a desviarse de ella. La sintaxis subordina la amplitud del elogio al límite de lo verdadero. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.2, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html.",
+              "lemma": "verity",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/verity"
+            },
+            {
+              "term": "a bowl upon a subtle ground",
+              "title": "a bowl upon a subtle ground",
+              "type": "Nota filológica",
+              "gloss": "una bola de juego sobre un terreno engañoso",
+              "body": "Alusión al juego de bolos sobre césped: una bola puede desviarse o ir más allá del punto previsto por las irregularidades del terreno. Subtle sugiere aquí dificultad engañosa, no delicadeza estética. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.2, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html.",
+              "lemma": "bowl",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/bowl"
+            },
+            {
+              "term": "stamped the leasing",
+              "title": "stamped the leasing",
+              "type": "Nota filológica",
+              "gloss": "haber dado por buena una mentira",
+              "body": "Leasing es «mentira» en el uso arcaico; stamped evoca estampar un sello o marca de aprobación. Menenio confiesa una exageración cercana a la falsedad. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.2, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html.",
+              "lemma": "leasing",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/leasing"
+            }
+          ]
+        },
+        {
+          "line": "3312–3315",
+          "speaker": "first-watch",
+          "en": "Faith, sir, if you had told as many lies in\nhis behalf as you have uttered words in your own,\nyou should not pass here, no, though it were as virtuous\nto lie as to live chastely. Therefore, go back.",
+          "es": "A fe mía, señor, aunque hubiera dicho tantas mentiras\nen favor de él como palabras acaba de pronunciar en defensa propia,\nno lo dejaría pasar; ni siquiera si mentir fuera tan virtuoso\ncomo vivir castamente. Así que regrese.",
+          "notes": [
+            {
+              "term": "in his behalf ... in your own",
+              "title": "in his behalf ... in your own",
+              "type": "Nota filológica",
+              "gloss": "en favor de él ... en defensa propia",
+              "body": "El centinela opone la supuesta defensa de Coriolano a la verbosidad interesada de Menenio; el paralelismo ridiculiza su pretensión de autoridad. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.2, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html."
+            },
+            {
+              "term": "as virtuous / to lie as to live chastely",
+              "title": "as virtuous / to lie as to live chastely",
+              "type": "Nota filológica",
+              "gloss": "tan virtuoso mentir como vivir castamente",
+              "body": "Comparación deliberadamente absurda: ni una hipotética virtud de la mentira alteraría la prohibición. La réplica recoge el «leasing» de Menenio. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.2, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html.",
+              "lemma": "chastely",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/chastely"
+            }
+          ]
+        },
+        {
+          "line": "3316–3318",
+          "speaker": "menenius",
+          "en": "Prithee, fellow, remember my name is Menenius,\nalways factionary on the party of your\ngeneral.",
+          "es": "Te ruego, amigo, que recuerdes que me llamo Menenio\ny que siempre he sido partidario\nde tu general.",
+          "notes": [
+            {
+              "term": "Prithee",
+              "title": "Prithee",
+              "type": "Nota filológica",
+              "gloss": "te ruego; por favor",
+              "body": "Contracción histórica de «I pray thee», fórmula apelativa familiar dirigida a un solo interlocutor. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.2, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html.",
+              "lemma": "prithee",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/prithee"
+            },
+            {
+              "term": "factionary on the party",
+              "title": "factionary on the party",
+              "type": "Nota filológica",
+              "gloss": "partidario del bando",
+              "body": "Factionary es un partidario de una facción; on the party refuerza la adhesión al bando de Coriolano. No implica necesariamente una pertenencia formal a un partido moderno. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.2, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html.",
+              "lemma": "factionary",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/factionary"
+            }
+          ]
+        },
+        {
+          "line": "3319–3321",
+          "speaker": "second-watch",
+          "en": "Howsoever you have been his liar, as\nyou say you have, I am one that, telling true under\nhim, must say you cannot pass. Therefore, go back.",
+          "es": "Por mucho que usted haya sido su mentiroso, como\nacaba de admitir, yo, que estoy a sus órdenes y digo la verdad,\ntengo que decirle que no puede pasar. Así que regrese.",
+          "notes": [
+            {
+              "term": "his liar",
+              "title": "his liar",
+              "type": "Nota filológica",
+              "gloss": "su mentiroso; quien miente por él",
+              "body": "El centinela toma maliciosamente la confesión de Menenio sobre sus exageraciones y la convierte en un oficio: mentir en favor de Coriolano. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.2, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html.",
+              "lemma": "liar",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/liar"
+            },
+            {
+              "term": "telling true under him",
+              "title": "telling true under him",
+              "type": "Nota filológica",
+              "gloss": "diciendo la verdad a sus órdenes",
+              "body": "Contraste entre el supuesto adulador y el soldado que se presenta como obediente y veraz; under him señala subordinación militar. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.2, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html."
+            }
+          ]
+        },
+        {
+          "line": "3322–3323",
+          "speaker": "menenius",
+          "en": "Has he dined, can’st thou tell? For I would\nnot speak with him till after dinner.",
+          "es": "¿Ya ha comido? ¿Puedes decírmelo? Porque preferiría\nno hablar con él hasta después de la comida.",
+          "notes": [
+            {
+              "term": "can’st thou",
+              "title": "can’st thou",
+              "type": "Nota filológica",
+              "gloss": "¿puedes tú?",
+              "body": "Can’st es la segunda persona singular antigua de can con thou; aquí se conserva la familiaridad del trato de Menenio al centinela. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.2, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html.",
+              "lemma": "can",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/can"
+            },
+            {
+              "term": "till after dinner",
+              "title": "till after dinner",
+              "type": "Nota filológica",
+              "gloss": "hasta después de la comida",
+              "body": "Retoma la estrategia de V.1: Menenio esperaba que Coriolano, ya alimentado, estuviera mejor dispuesto a perdonar. La pregunta tiene una función dramática, no solo doméstica. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.2, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html."
             }
           ]
         }
