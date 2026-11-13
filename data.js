@@ -26461,6 +26461,210 @@ window.SHAKESPEARE_READER_DATA = {
           ]
         }
       ]
+    },
+    {
+      "id": "coriolanus-5-4",
+      "workId": "coriolanus",
+      "act": 5,
+      "scene": 4,
+      "place": "Roma · una plaza pública",
+      "sourceRef": "Folger Shakespeare Library · Acto V, escena 4",
+      "sectionLabel": "Edición en curso · líneas 3635–3659",
+      "introduction": "Menenio y Sicinio aguardan noticias de la embajada de las mujeres. Ignoran todavía que Volumnia ha logrado persuadir a Coriolano.",
+      "stage": "Entran Menenio y Sicinio.",
+      "characters": [
+        "menenius",
+        "sicinius"
+      ],
+      "blocks": [
+        {
+          "line": "3635–3636",
+          "speaker": "menenius",
+          "en": "See you yond coign o’ th’ Capitol, yond\ncornerstone?",
+          "es": "¿Ves aquella esquina del Capitolio, aquella\npiedra angular?",
+          "notes": [
+            {
+              "term": "coign",
+              "title": "coign",
+              "type": "Nota filológica",
+              "gloss": "esquina saliente; ángulo",
+              "body": "Forma de coin, aquí una esquina o saliente arquitectónico. Menenio señala un elemento aparentemente imposible de mover con un dedo; el argumento depende de su solidez. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.4, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.4.html.",
+              "lemma": "coign",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/coign"
+            }
+          ]
+        },
+        {
+          "line": "3637",
+          "speaker": "sicinius",
+          "en": "Why, what of that?",
+          "es": "Sí, ¿y qué tiene que ver?"
+        },
+        {
+          "line": "3638–3642",
+          "speaker": "menenius",
+          "en": "If it be possible for you to displace it with\nyour little finger, there is some hope the ladies of\nRome, especially his mother, may prevail with\nhim. But I say there is no hope in ’t. Our throats\nare sentenced and stay upon execution.",
+          "es": "Si pudieras moverla con el dedo meñique,\nhabría alguna esperanza de que las mujeres de\nRoma, especialmente su madre, consiguieran persuadirlo.\nPero yo digo que no hay ninguna esperanza.\nYa estamos condenados a muerte; solo falta ejecutar la sentencia.",
+          "notes": [
+            {
+              "term": "prevail with",
+              "title": "prevail with",
+              "type": "Nota filológica",
+              "gloss": "conseguir persuadir",
+              "body": "La construcción con with indica lograr que alguien ceda ante una petición; no se refiere a vencerlo militarmente. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.4, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.4.html.",
+              "lemma": "prevail",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/prevail"
+            },
+            {
+              "term": "stay upon execution",
+              "title": "stay upon execution",
+              "type": "Nota filológica",
+              "gloss": "aguardan la ejecución",
+              "body": "Stay upon expresa espera o demora; el sujeto figurado son nuestras gargantas, metonimia de la vida de los romanos amenazados. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.4, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.4.html.",
+              "lemma": "stay",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/stay"
+            }
+          ]
+        },
+        {
+          "line": "3643–3644",
+          "speaker": "sicinius",
+          "en": "Is ’t possible that so short a time can alter the\ncondition of a man?",
+          "es": "¿Es posible que tan poco tiempo cambie\nhasta ese punto la naturaleza de un hombre?",
+          "notes": [
+            {
+              "term": "condition",
+              "title": "condition",
+              "type": "Nota filológica",
+              "gloss": "carácter; disposición",
+              "body": "No designa aquí una condición social, sino la disposición moral o el carácter que Sicinio cree conocer. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.4, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.4.html.",
+              "lemma": "condition",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/condition"
+            }
+          ]
+        },
+        {
+          "line": "3645–3648",
+          "speaker": "menenius",
+          "en": "There is differency between a grub and a\nbutterfly, yet your butterfly was a grub. This Martius\nis grown from man to dragon. He has wings;\nhe’s more than a creeping thing.",
+          "es": "Hay una diferencia entre una oruga y una\nmariposa, aunque toda mariposa fue antes una oruga.\nEste Marcio ha pasado de hombre a dragón. Tiene alas:\nya no es una criatura que se arrastra.",
+          "notes": [
+            {
+              "term": "differency",
+              "title": "differency",
+              "type": "Nota filológica",
+              "gloss": "diferencia",
+              "body": "Sustantivo de uso antiguo, equivalente aquí a difference; la comparación establece una metamorfosis cada vez más extrema. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.4, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.4.html.",
+              "lemma": "differency",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/differency"
+            },
+            {
+              "term": "grub",
+              "title": "grub",
+              "type": "Nota filológica",
+              "gloss": "larva; oruga",
+              "body": "El contraste con butterfly presenta primero una metamorfosis natural y luego una transformación fabulosa en dragón. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.4, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.4.html.",
+              "lemma": "grub",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/grub"
+            },
+            {
+              "term": "dragon",
+              "title": "dragon",
+              "type": "Nota filológica",
+              "gloss": "dragón",
+              "body": "La hipérbole convierte a Marcio en criatura alada y temible. La ironía dramática reside en que el público ya ha presenciado su rendición ante Volumnia. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.4, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.4.html. Jacob Ginsberg, «Coriolanus Act 5, Scene 4», LitCharts (2017), https://www.litcharts.com/lit/coriolanus/act-5-scene-4.",
+              "lemma": "dragon",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/dragon"
+            }
+          ]
+        },
+        {
+          "line": "3649",
+          "speaker": "sicinius",
+          "en": "He loved his mother dearly.",
+          "es": "Amaba profundamente a su madre."
+        },
+        {
+          "line": "3650–3659",
+          "speaker": "menenius",
+          "en": "So did he me; and he no more remembers\nhis mother now than an eight-year-old horse. The\ntartness of his face sours ripe grapes. When he\nwalks, he moves like an engine, and the ground\nshrinks before his treading. He is able to pierce a\ncorslet with his eye, talks like a knell, and his hum\nis a battery. He sits in his state as a thing made for\nAlexander. What he bids be done is finished with\nhis bidding. He wants nothing of a god but eternity\nand a heaven to throne in.",
+          "es": "También me amaba a mí; y ahora no recuerda\na su madre más que un caballo de ocho años.\nLa aspereza de su rostro agria las uvas maduras.\nCuando camina, avanza como una máquina de guerra,\ny la tierra parece encogerse bajo sus pasos.\nPuede atravesar una coraza con la mirada; habla\ncomo una campana fúnebre y hasta su murmullo\nes un bombardeo. Se sienta con una majestad digna\nde Alejandro. Basta que ordene algo para que se cumpla.\nPara ser un dios solo le faltan la eternidad\ny un cielo donde instalar su trono.",
+          "notes": [
+            {
+              "term": "eight-year-old horse",
+              "title": "eight-year-old horse",
+              "type": "Nota filológica",
+              "gloss": "caballo de ocho años",
+              "body": "Menenio exagera la falta de memoria afectiva de Coriolano; la comparación no demuestra ninguna creencia zoológica precisa. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.4, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.4.html.",
+              "lemma": "horse",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/horse"
+            },
+            {
+              "term": "tartness",
+              "title": "tartness",
+              "type": "Nota filológica",
+              "gloss": "aspereza; acritud",
+              "body": "El adjetivo implícito en tartness pasa del gesto severo a la acidez que agriaría incluso uvas maduras. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.4, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.4.html.",
+              "lemma": "tartness",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/tartness"
+            },
+            {
+              "term": "engine",
+              "title": "engine",
+              "type": "Nota filológica",
+              "gloss": "máquina de guerra",
+              "body": "En el contexto militar temprano moderno, engine puede designar un artefacto bélico o de asedio; no debe entenderse como motor moderno. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.4, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.4.html.",
+              "lemma": "engine",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/engine"
+            },
+            {
+              "term": "corslet",
+              "title": "corslet",
+              "type": "Nota filológica",
+              "gloss": "coraza; peto",
+              "body": "Pieza de armadura que protege el torso; atravesarla con la mirada es una hipérbole de agresividad. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.4, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.4.html.",
+              "lemma": "corslet",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/corslet"
+            },
+            {
+              "term": "knell",
+              "title": "knell",
+              "type": "Nota filológica",
+              "gloss": "toque fúnebre",
+              "body": "La voz se compara con una campana que anuncia una muerte. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.4, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.4.html.",
+              "lemma": "knell",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/knell"
+            },
+            {
+              "term": "battery",
+              "title": "battery",
+              "type": "Nota filológica",
+              "gloss": "bombardeo; ataque de artillería",
+              "body": "La imagen prolonga la serie de metáforas militares: hasta el sonido apenas articulado del personaje amenaza como un ataque. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.4, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.4.html.",
+              "lemma": "battery",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/battery"
+            },
+            {
+              "term": "Alexander",
+              "title": "Alexander",
+              "type": "Nota filológica",
+              "gloss": "Alejandro Magno",
+              "body": "Alusión a Alejandro III de Macedonia como modelo de majestad conquistadora; no implica que el personaje se identifique históricamente con él. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.4, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.4.html.",
+              "lemma": "Alexander",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/Alexander"
+            },
+            {
+              "term": "He wants nothing of a god but eternity",
+              "title": "He wants nothing of a god but eternity",
+              "type": "Nota filológica",
+              "gloss": "para ser un dios solo le falta la eternidad",
+              "body": "Want significa aquí carecer de, no desear. La exageración culmina la descripción de un Coriolano casi divino, precisamente cuando el espectador sabe que ha cedido. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.4, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.4.html.",
+              "lemma": "want",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/want"
+            }
+          ]
+        }
+      ]
     }
   ]
 };
