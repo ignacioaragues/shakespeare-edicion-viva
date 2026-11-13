@@ -25111,9 +25111,9 @@ window.SHAKESPEARE_READER_DATA = {
       "scene": 3,
       "place": "Campamento volsco, ante Roma",
       "sourceRef": "Folger Shakespeare Library · Acto V, escena 3",
-      "sectionLabel": "Edición en curso · líneas 3401–3424",
+      "sectionLabel": "Edición en curso · líneas 3401–3445",
       "introduction": "Coriolano y Aufidio preparan el avance sobre Roma. Coriolano insiste en que ni la intercesión de Menenio ni nuevas embajadas podrán hacerlo cambiar de opinión; entonces se oyen gritos.",
-      "stage": "Entran Coriolano y Aufidio. Se oyen gritos fuera de escena antes de la pregunta de Coriolano.",
+      "stage": "Entran Coriolano y Aufidio. Más tarde entran Virgilia, Volumnia, Valeria y el joven Marcio, con acompañantes.",
       "characters": [
         {
           "id": "coriolanus",
@@ -25128,6 +25128,34 @@ window.SHAKESPEARE_READER_DATA = {
           "english": "Tullus Aufidius",
           "identity": "General volsco y aliado de Coriolano.",
           "color": "slate"
+        },
+        {
+          "id": "virgilia",
+          "name": "Virgilia",
+          "english": "Virgilia",
+          "identity": "Esposa de Coriolano, llega a suplicar por Roma.",
+          "color": "olive"
+        },
+        {
+          "id": "volumnia",
+          "name": "Volumnia",
+          "english": "Volumnia",
+          "identity": "Madre de Coriolano y principal intercesora ante él.",
+          "color": "slate"
+        },
+        {
+          "id": "valeria",
+          "name": "Valeria",
+          "english": "Valeria",
+          "identity": "Dama romana que acompaña a la familia.",
+          "color": "olive"
+        },
+        {
+          "id": "young-martius",
+          "name": "Joven Marcio",
+          "english": "Young Martius",
+          "identity": "Hijo de Coriolano y Virgilia.",
+          "color": "copper"
         }
       ],
       "blocks": [
@@ -25263,6 +25291,150 @@ window.SHAKESPEARE_READER_DATA = {
               "type": "Nota filológica",
               "gloss": "¿eh? ¿qué gritos son esos?",
               "body": "Folger intercala una acotación de gritos entre el rechazo de las peticiones y la pregunta; MIT sitúa el grito después de la pregunta. Es una diferencia de colocación escénica, no de argumento. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo: MIT Shakespeare, Coriolanus V.3, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html."
+            }
+          ]
+        },
+        {
+          "line": "3425–3441",
+          "speaker": "coriolanus",
+          "en": "My wife comes foremost, then the honored mold\nWherein this trunk was framed, and in her hand\nThe grandchild to her blood. But out, affection!\nAll bond and privilege of nature, break!\nLet it be virtuous to be obstinate.\nWhat is that curtsy worth? Or those doves’ eyes,\nWhich can make gods forsworn? I melt and am not\nOf stronger earth than others. My mother bows,\nAs if Olympus to a molehill should\nIn supplication nod; and my young boy\nHath an aspect of intercession which\nGreat Nature cries “Deny not!” Let the Volsces\nPlow Rome and harrow Italy, I’ll never\nBe such a gosling to obey instinct, but stand\nAs if a man were author of himself,\nAnd knew no other kin.",
+          "es": "Mi esposa viene delante; después, el venerable molde\nen el que se formó este cuerpo, y de su mano\nlleva a un nieto de su propia sangre. ¡Pero fuera, afecto!\n¡Que se rompan todos los vínculos y derechos de la naturaleza!\nQue la obstinación sea una virtud.\n¿Qué valor tiene esa reverencia? ¿O esos ojos de paloma,\ncapaces de hacer que los dioses falten a sus juramentos? Me derrito:\nno estoy hecho de una materia más firme que los demás. Mi madre se inclina,\ncomo si el Olimpo bajara la cabeza para suplicar\na un montículo de tierra. Y mi pequeño hijo\ntiene un semblante tan suplicante que\nla propia Naturaleza exclama: «¡No se lo niegues!». ¡Que los volscos\naren Roma y rastrillen Italia! Yo nunca\nseré un gansito que obedece al instinto, sino que me mantendré firme,\ncomo si un hombre pudiera ser su propio creador\ny no reconociera ningún otro parentesco.",
+          "notes": [
+            {
+              "term": "honored mold / Wherein this trunk was framed",
+              "title": "honored mold / Wherein this trunk was framed",
+              "type": "Nota filológica",
+              "gloss": "venerable molde en que se formó este cuerpo",
+              "body": "Metáfora de la gestación: Volumnia es el molde que dio forma al cuerpo de Coriolano. La imagen contradice su posterior fantasía de autogeneración. Véase también Catherine Belsey, «Coriolanus and the ‘Common Part’», Shakespeare Survey, Cambridge University Press, https://www.cambridge.org/core/books/shakespeare-survey/coriolanus-and-the-common-part/2D37D5125B262397F0C8E1CCCCE335E8. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo textual: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "lemma": "mold",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/mold"
+            },
+            {
+              "term": "All bond and privilege of nature, break!",
+              "title": "All bond and privilege of nature, break!",
+              "type": "Nota filológica",
+              "gloss": "que se rompan los vínculos y derechos naturales",
+              "body": "Apóstrofe imperativo dirigido a los lazos de parentesco. La voluntad de anularlos es dramáticamente paradójica: los reconoce al intentar romperlos. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo textual: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html."
+            },
+            {
+              "term": "Let it be virtuous to be obstinate",
+              "title": "Let it be virtuous to be obstinate",
+              "type": "Nota filológica",
+              "gloss": "que la obstinación sea una virtud",
+              "body": "Coriolano pretende redefinir la firmeza intransigente como excelencia moral; el verso invita a distinguir la virtud reivindicada por el personaje del juicio de la obra. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo textual: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "lemma": "obstinate",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/obstinate"
+            },
+            {
+              "term": "curtsy",
+              "title": "curtsy",
+              "type": "Nota filológica",
+              "gloss": "reverencia",
+              "body": "El gesto de Virgilia se especifica en la acotación de Folger. MIT omite aquí la indicación escénica explícita; el verso, no obstante, presupone la reverencia. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo textual: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "lemma": "curtsy",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/curtsy"
+            },
+            {
+              "term": "doves’ eyes / Which can make gods forsworn",
+              "title": "doves’ eyes / Which can make gods forsworn",
+              "type": "Nota filológica",
+              "gloss": "ojos de paloma capaces de hacer perjurar a los dioses",
+              "body": "La mansedumbre proverbial de la paloma contrasta con la firmeza divina: hipérbole del poder afectivo de la mirada. Forsworn es participio de forswear. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo textual: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "lemma": "forswear",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/forswear"
+            },
+            {
+              "term": "I melt and am not / Of stronger earth than others",
+              "title": "I melt and am not / Of stronger earth than others",
+              "type": "Nota filológica",
+              "gloss": "me derrito; no soy de una materia más firme",
+              "body": "La imagen de ablandamiento deshace la fantasía de un héroe inmune a las emociones. La oposición entre materialidad y autosuficiencia ha sido estudiada por Catherine Belsey, «Coriolanus and the ‘Common Part’», Shakespeare Survey, Cambridge University Press, https://www.cambridge.org/core/books/shakespeare-survey/coriolanus-and-the-common-part/2D37D5125B262397F0C8E1CCCCE335E8. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo textual: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "lemma": "melt",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/melt"
+            },
+            {
+              "term": "Olympus to a molehill",
+              "title": "Olympus to a molehill",
+              "type": "Nota filológica",
+              "gloss": "el Olimpo ante un montículo de tierra",
+              "body": "Desproporción mitológica y topográfica: la madre se eleva figuradamente a la montaña de los dioses mientras el hijo se rebaja a un pequeño montículo. Es una comparación de Coriolano, no una acotación objetiva. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo textual: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "lemma": "molehill",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/molehill"
+            },
+            {
+              "term": "Hath an aspect of intercession",
+              "title": "Hath an aspect of intercession",
+              "type": "Nota filológica",
+              "gloss": "tiene un semblante suplicante",
+              "body": "Hath es tercera persona singular del presente de have; aspect alude aquí a la expresión del rostro, no a un aspecto abstracto. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo textual: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "lemma": "have",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/have"
+            },
+            {
+              "term": "Plow Rome and harrow Italy",
+              "title": "Plow Rome and harrow Italy",
+              "type": "Nota filológica",
+              "gloss": "aren Roma y rastrillen Italia",
+              "body": "Plow y harrow designan labores agrícolas sucesivas. Aplicadas a la ciudad y la península, expresan una devastación total; la imagen enlaza guerra y destrucción del suelo. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo textual: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "lemma": "harrow",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/harrow"
+            },
+            {
+              "term": "gosling to obey instinct",
+              "title": "gosling to obey instinct",
+              "type": "Nota filológica",
+              "gloss": "gansito que obedece al instinto",
+              "body": "El ganso joven representa para Coriolano una dependencia filial automática y despreciable. La comparación opone naturaleza y autonomía imaginada; véase Catherine Belsey, «Coriolanus and the ‘Common Part’», Shakespeare Survey, Cambridge University Press, https://www.cambridge.org/core/books/shakespeare-survey/coriolanus-and-the-common-part/2D37D5125B262397F0C8E1CCCCE335E8. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo textual: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "lemma": "gosling",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/gosling"
+            },
+            {
+              "term": "author of himself",
+              "title": "author of himself",
+              "type": "Nota filológica",
+              "gloss": "su propio creador",
+              "body": "Author no significa aquí escritor de un libro: alude al origen o agente de la propia existencia. La paradoja es que Coriolano acaba de reconocer el molde materno que lo formó. Estudio: Catherine Belsey, «Coriolanus and the ‘Common Part’», Shakespeare Survey, Cambridge University Press, https://www.cambridge.org/core/books/shakespeare-survey/coriolanus-and-the-common-part/2D37D5125B262397F0C8E1CCCCE335E8. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo textual: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "lemma": "author",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/author"
+            }
+          ]
+        },
+        {
+          "line": "3442",
+          "speaker": "virgilia",
+          "en": "My lord and husband.",
+          "es": "Mi señor y esposo.",
+          "notes": []
+        },
+        {
+          "line": "3443",
+          "speaker": "coriolanus",
+          "en": "These eyes are not the same I wore in Rome.",
+          "es": "Estos ojos no son los mismos que tenía en Roma.",
+          "notes": [
+            {
+              "term": "These eyes are not the same",
+              "title": "These eyes are not the same",
+              "type": "Nota filológica",
+              "gloss": "estos ojos no son los mismos",
+              "body": "Coriolano se presenta como transformado por el destierro; la afirmación también responde al modo en que Virgilia lo mira. Es una declaración de identidad, no un cambio físico literal. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo textual: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html."
+            }
+          ]
+        },
+        {
+          "line": "3444–3445",
+          "speaker": "virgilia",
+          "en": "The sorrow that delivers us thus changed\nMakes you think so.",
+          "es": "Es el dolor, que nos ha traído hasta aquí tan cambiadas,\nel que te hace pensar eso.",
+          "notes": [
+            {
+              "term": "delivers us thus changed",
+              "title": "delivers us thus changed",
+              "type": "Nota filológica",
+              "gloss": "nos ha traído hasta aquí tan cambiadas",
+              "body": "Deliver puede significar presentar o llevar ante alguien. Virgilia atribuye a su propio sufrimiento la percepción de extrañeza de Coriolano; el sujeto de makes es the sorrow. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo textual: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "lemma": "deliver",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/deliver"
             }
           ]
         }

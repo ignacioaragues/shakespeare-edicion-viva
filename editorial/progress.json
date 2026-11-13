@@ -1660,13 +1660,22 @@
       "last_line": 3424,
       "editorial_state": "translated_source_checked_external_references",
       "note": "Inicio de V.3, 24 líneas en tres parlamentos íntegros; Folger V.3 y MIT cotejados, glosas, metáforas de filiación y deificación, diferencia en la colocación del grito; revisión retrospectiva y cotejo privado pendientes."
+    },
+    {
+      "id": "coriolanus-5-3-3425-3445",
+      "act": 5,
+      "scene": 3,
+      "first_line": 3425,
+      "last_line": 3445,
+      "editorial_state": "translated_source_checked_external_references",
+      "note": "21 líneas Folger en cuatro parlamentos completos; Folger y MIT cotejados; lectura crítica de Catherine Belsey sobre el yo autosuficiente; glosas españolas, referencias, enlaces morfológicos selectivos. Revisión retrospectiva y cotejo privado pendientes."
     }
   ],
   "next_fragment": {
     "act": 5,
     "scene": 3,
-    "first_line": 3425,
-    "note": "Entrada de Virgilia, Volumnia, Valeria y el joven Marcio; comienza nuevo parlamento de Coriolano."
+    "first_line": 3446,
+    "note": "Siguiente parlamento completo de Coriolano, sobre el actor que olvida su papel y el beso de Virgilia (3446–3459)."
   },
   "completed_acts": [],
   "last_update_commit": "pending_atomic_commit",
