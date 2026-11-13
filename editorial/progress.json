@@ -1642,13 +1642,22 @@
       "last_line": 3383,
       "editorial_state": "translated_source_checked_external_references",
       "note": "Rechazo de Coriolano y comentario de Aufidio (15 líneas, 4 parlamentos); cotejo Folger, MIT y LitCharts. Variante sustantiva sent/rent anotada; traducción propia, glosas contextuales y enlaces de lema. Cotejo privado y revisión retrospectiva pendientes."
+    },
+    {
+      "id": "coriolanus-5-2-3384-3400",
+      "act": 5,
+      "scene": 2,
+      "first_line": 3384,
+      "last_line": 3400,
+      "editorial_state": "translated_source_checked_external_references",
+      "note": "Cierre de V.2: 17 líneas, siete parlamentos completos; sarcasmo de los centinelas, shent/shend, swoon, muerte voluntaria y repetición de away. Folger, MIT y comentario histórico cotejados. Revisión retrospectiva y cotejo privado pendientes."
     }
   ],
   "next_fragment": {
     "act": 5,
-    "scene": 2,
-    "first_line": 3384,
-    "note": "Réplicas irónicas de los centinelas y respuesta de Menenio; completar V.2 sin omitir el cierre."
+    "scene": 3,
+    "first_line": 3401,
+    "note": "Comenzar V.3: comprobar primera acotación y líneas Folger; crear escena navegable con personajes y sin alterar IDs previos."
   },
   "completed_acts": [],
   "last_update_commit": "pending_atomic_commit",

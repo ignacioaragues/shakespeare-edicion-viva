@@ -24194,7 +24194,7 @@ window.SHAKESPEARE_READER_DATA = {
       "scene": 2,
       "place": "Entrada del campamento volsco, ante Roma",
       "sourceRef": "Folger Shakespeare Library · Acto V, escena 2",
-      "sectionLabel": "Edición en curso · líneas 3284–3383",
+      "sectionLabel": "Acto V, escena 2 · completa · líneas 3284–3400",
       "introduction": "Menenio llega a la guardia del campamento volsco y trata de hacerse reconocer como allegado de Coriolano; los centinelas rechazan su autoridad romana.",
       "stage": "Entra Menenio ante los centinelas del campamento volsco.",
       "characters": [
@@ -24950,6 +24950,154 @@ window.SHAKESPEARE_READER_DATA = {
               "body": "Aufidio elogia la aparente imperturbabilidad de Coriolano. La observación cobra ironía dramática a la luz de la posterior intervención de Volumnia; se trata de una lectura interpretativa, no de una variante textual. Fuentes: Barbara Mowat y Paul Werstine (eds.), William Shakespeare, Coriolanus, V.2, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; Jacob Ginsberg, «Coriolanus Act 5, Scene 2», LitCharts (2017), https://www.litcharts.com/lit/coriolanus/act-5-scene-2.",
               "lemma": "temper",
               "lemmaUrl": "https://en.wiktionary.org/wiki/temper"
+            }
+          ]
+        },
+        {
+          "line": "3384",
+          "speaker": "first-watch",
+          "en": "Now, sir, is your name Menenius?",
+          "es": "Y ahora, señor, ¿se llama usted Menenio?",
+          "notes": []
+        },
+        {
+          "line": "3385–3386",
+          "speaker": "second-watch",
+          "en": "’Tis a spell, you see, of much power. You\nknow the way home again.",
+          "es": "Ya ve qué hechizo tan poderoso es ese nombre.\nSabe usted cómo volver a casa.",
+          "notes": [
+            {
+              "term": "spell",
+              "title": "spell",
+              "type": "Nota filológica",
+              "gloss": "hechizo; fórmula mágica",
+              "body": "Ironía sobre la pretendida eficacia del nombre propio: Menenio había afirmado que bastaría para franquear la guardia. El centinela se burla de la impotencia de su prestigio. Fuentes: Barbara Mowat y Paul Werstine (eds.), William Shakespeare, Coriolanus, V.2, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html.",
+              "lemma": "spell",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/spell"
+            }
+          ]
+        },
+        {
+          "line": "3387–3388",
+          "speaker": "first-watch",
+          "en": "Do you hear how we are shent for keeping\nyour Greatness back?",
+          "es": "¿Oye cómo nos han reprendido por impedirle el paso\na Su Grandeza?",
+          "notes": [
+            {
+              "term": "shent",
+              "title": "shent",
+              "type": "Nota filológica",
+              "gloss": "reprendidos; reprendidos severamente",
+              "body": "Participio arcaico de shend, «reprender» o «avergonzar». El centinela finge que Coriolano ha castigado a la guardia, cuando acaba de despedir al visitante; la ironía es transparente. El comentario histórico de la edición de Coriolanus en Wikimedia Commons (p. 171, nota 10) también define shent como «rebuked or scolded». Fuentes: Barbara Mowat y Paul Werstine (eds.), William Shakespeare, Coriolanus, V.2, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html.",
+              "lemma": "shend",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/shend"
+            },
+            {
+              "term": "your Greatness",
+              "title": "your Greatness",
+              "type": "Nota filológica",
+              "gloss": "Su Grandeza",
+              "body": "Tratamiento honorífico exagerado y sarcástico: reproduce la altivez con que Menenio exigía acceso al campamento. Fuentes: Barbara Mowat y Paul Werstine (eds.), William Shakespeare, Coriolanus, V.2, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html."
+            }
+          ]
+        },
+        {
+          "line": "3389–3390",
+          "speaker": "second-watch",
+          "en": "What cause do you think I have to\nswoon?",
+          "es": "¿Qué motivo cree usted que tengo\npara desmayarme?",
+          "notes": [
+            {
+              "term": "swoon",
+              "title": "swoon",
+              "type": "Nota filológica",
+              "gloss": "desmayarme",
+              "body": "El centinela devuelve a Menenio la amenaza anterior de desmayarse ante el castigo que recibiría (3355–3356); la réplica completa la inversión cómica de posiciones. Fuentes: Barbara Mowat y Paul Werstine (eds.), William Shakespeare, Coriolanus, V.2, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html.",
+              "lemma": "swoon",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/swoon"
+            }
+          ]
+        },
+        {
+          "line": "3391–3397",
+          "speaker": "menenius",
+          "en": "I neither care for th’ world nor your general.\nFor such things as you, I can scarce think\nthere’s any, you’re so slight. He that hath a will to\ndie by himself fears it not from another. Let your\ngeneral do his worst. For you, be that you are,\nlong; and your misery increase with your age! I say\nto you, as I was said to, away!",
+          "es": "Ya no me importa ni el mundo ni su general.\nEn cuanto a seres como ustedes, apenas puedo creer\nque existan, tan insignificantes son. Quien está dispuesto\na morir por su propia mano no teme que otro lo mate.\nQue su general haga cuanto quiera. Y ustedes, sigan siendo\nlo que son por mucho tiempo, ¡y que su desdicha crezca con los años!\nLes digo lo mismo que me dijeron a mí: ¡fuera!",
+          "notes": [
+            {
+              "term": "you’re so slight",
+              "title": "you’re so slight",
+              "type": "Nota filológica",
+              "gloss": "son tan insignificantes",
+              "body": "Slight expresa poca entidad o importancia. Menenio responde a la humillación negando valor incluso a la existencia de los centinelas. Fuentes: Barbara Mowat y Paul Werstine (eds.), William Shakespeare, Coriolanus, V.2, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html.",
+              "lemma": "slight",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/slight"
+            },
+            {
+              "term": "die by himself",
+              "title": "die by himself",
+              "type": "Nota filológica",
+              "gloss": "morir por su propia mano",
+              "body": "La frase puede aludir a la disposición de darse muerte y, por extensión, a no temer una muerte impuesta por otro. El comentario histórico impreso en Shakespeare's Tragedy of Coriolanus (p. 171, nota 11) glosa «by his own hands»; se conserva la fuerza inquietante del original. Fuentes: Barbara Mowat y Paul Werstine (eds.), William Shakespeare, Coriolanus, V.2, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html."
+            },
+            {
+              "term": "be that you are, long",
+              "title": "be that you are, long",
+              "type": "Nota filológica",
+              "gloss": "sigan siendo lo que son por mucho tiempo",
+              "body": "Maldición paradójica: no les desea prosperidad, sino una existencia prolongada en la misma condición despreciable, acompañada de miseria creciente. Fuentes: Barbara Mowat y Paul Werstine (eds.), William Shakespeare, Coriolanus, V.2, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html."
+            },
+            {
+              "term": "as I was said to, away!",
+              "title": "as I was said to, away!",
+              "type": "Nota filológica",
+              "gloss": "como me dijeron a mí: ¡fuera!",
+              "body": "Repetición exacta de la orden que Coriolano le dirigió en 3369; Menenio transmite su humillación a quienes antes había despreciado. Fuentes: Barbara Mowat y Paul Werstine (eds.), William Shakespeare, Coriolanus, V.2, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html.",
+              "lemma": "away",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/away"
+            }
+          ]
+        },
+        {
+          "line": "3398",
+          "speaker": "first-watch",
+          "en": "A noble fellow, I warrant him.",
+          "es": "Un hombre noble, se lo aseguro.",
+          "notes": [
+            {
+              "term": "I warrant him",
+              "title": "I warrant him",
+              "type": "Nota filológica",
+              "gloss": "se lo aseguro",
+              "body": "Warrant tiene aquí valor aseverativo; el elogio puede entenderse como burla ante la impotencia del visitante, más que como juicio sincero. Fuentes: Barbara Mowat y Paul Werstine (eds.), William Shakespeare, Coriolanus, V.2, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html.",
+              "lemma": "warrant",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/warrant"
+            }
+          ]
+        },
+        {
+          "line": "3399–3400",
+          "speaker": "second-watch",
+          "en": "The worthy fellow is our general. He’s\nthe rock, the oak not to be wind-shaken.",
+          "es": "El hombre verdaderamente digno es nuestro general. Él es\nla roca, el roble que ningún viento puede sacudir.",
+          "notes": [
+            {
+              "term": "the rock, the oak",
+              "title": "the rock, the oak",
+              "type": "Nota filológica",
+              "gloss": "la roca, el roble",
+              "body": "Dos imágenes de firmeza y resistencia. El centinela atribuye a Coriolano una constancia que la intervención de Volumnia pondrá a prueba en la escena siguiente; la anticipación es una lectura dramática. Fuentes: Barbara Mowat y Paul Werstine (eds.), William Shakespeare, Coriolanus, V.2, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html.",
+              "lemma": "oak",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/oak"
+            },
+            {
+              "term": "wind-shaken",
+              "title": "wind-shaken",
+              "type": "Nota filológica",
+              "gloss": "sacudido por el viento",
+              "body": "Compuesto adjetival que completa la metáfora del roble: no se trata de viento meteorológico literal, sino de presiones y ruegos. Fuentes: Barbara Mowat y Paul Werstine (eds.), William Shakespeare, Coriolanus, V.2, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html.",
+              "lemma": "shake",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/shake"
             }
           ]
         }
