@@ -25111,7 +25111,7 @@ window.SHAKESPEARE_READER_DATA = {
       "scene": 3,
       "place": "Campamento volsco, ante Roma",
       "sourceRef": "Folger Shakespeare Library · Acto V, escena 3",
-      "sectionLabel": "Edición en curso · líneas 3401–3604",
+      "sectionLabel": "Edición en curso · líneas 3401–3623",
       "introduction": "Coriolano y Aufidio preparan el avance sobre Roma. Coriolano insiste en que ni la intercesión de Menenio ni nuevas embajadas podrán hacerlo cambiar de opinión; entonces se oyen gritos.",
       "stage": "Entran Coriolano y Aufidio. Más tarde entran Virgilia, Volumnia, Valeria y el joven Marcio, con acompañantes.",
       "characters": [
@@ -26256,6 +26256,128 @@ window.SHAKESPEARE_READER_DATA = {
               "body": "El silencio anunciado culmina el discurso: la respuesta escénica de Coriolano se desencadena después de que ella deja de hablar. Fuente: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
               "lemma": "hush",
               "lemmaUrl": "https://en.wiktionary.org/wiki/hush"
+            }
+          ]
+        },
+        {
+          "line": "3605–3616",
+          "speaker": "coriolanus",
+          "en": "O mother, mother!\nWhat have you done? Behold, the heavens do ope,\nThe gods look down, and this unnatural scene\nThey laugh at. O, my mother, mother, O!\nYou have won a happy victory to Rome,\nBut, for your son—believe it, O, believe it!—\nMost dangerously you have with him prevailed,\nIf not most mortal to him. But let it come.—\nAufidius, though I cannot make true wars,\nI’ll frame convenient peace. Now, good Aufidius,\nWere you in my stead, would you have heard\nA mother less? Or granted less, Aufidius?",
+          "es": "¡Madre, madre!\n¿Qué has hecho? Mira: los cielos se abren,\nlos dioses contemplan desde lo alto esta escena contraria al orden natural\ny se ríen de ella. ¡Ay, madre mía, madre!\nHas conseguido una feliz victoria para Roma,\npero para tu hijo —créelo, ¡créelo!—\ntu persuasión ha sido sumamente peligrosa,\nsi no mortal. Pero que venga lo que haya de venir.\nAufidio, aunque ya no puedo librar una guerra leal,\nprocuraré concertar una paz conveniente. Dime, buen Aufidio:\nsi estuvieras en mi lugar, ¿habrías escuchado\nmenos a una madre? ¿Le habrías concedido menos?",
+          "notes": [
+            {
+              "term": "the heavens do ope",
+              "title": "the heavens do ope",
+              "type": "Nota filológica",
+              "gloss": "los cielos se abren",
+              "body": "Ope es forma poética de open; la apertura del cielo convierte la decisión familiar en espectáculo ante los dioses. La risa divina es una imagen del personaje, no una acotación que confirme intervención sobrenatural. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo del First Folio: https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_5_Scene_3.",
+              "lemma": "ope",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/ope"
+            },
+            {
+              "term": "unnatural scene",
+              "title": "unnatural scene",
+              "type": "Nota filológica",
+              "gloss": "escena contraria al orden natural",
+              "body": "Unnatural condensa la inversión de lealtades: el hijo armado contra su patria y la madre que lo vence con súplicas. El término scene también permite una resonancia metateatral, interpretación no exigida por el texto. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo del First Folio: https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_5_Scene_3."
+            },
+            {
+              "term": "happy victory to Rome",
+              "title": "happy victory to Rome",
+              "type": "Nota filológica",
+              "gloss": "victoria favorable para Roma",
+              "body": "Happy se aplica al resultado para la ciudad; el verso siguiente contrapone expresamente ese triunfo a la amenaza personal para el vencedor. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo del First Folio: https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_5_Scene_3."
+            },
+            {
+              "term": "most mortal to him",
+              "title": "most mortal to him",
+              "type": "Nota filológica",
+              "gloss": "quizá mortal para él",
+              "body": "Mortal significa capaz de ocasionar la muerte, no simplemente «muy grave». El condicional if not introduce la posibilidad de que la decisión le cueste la vida; no afirma todavía su desenlace. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo del First Folio: https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_5_Scene_3."
+            },
+            {
+              "term": "make true wars",
+              "title": "make true wars",
+              "type": "Nota filológica",
+              "gloss": "librar una guerra leal",
+              "body": "True implica aquí fidelidad al compromiso asumido con los volscos; Coriolano considera incompatible continuar la campaña con lo que acaba de conceder a su madre. Es una lectura contextual, no un juicio objetivo sobre qué guerra sería justa. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo del First Folio: https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_5_Scene_3."
+            },
+            {
+              "term": "frame convenient peace",
+              "title": "frame convenient peace",
+              "type": "Nota filológica",
+              "gloss": "concertar una paz apropiada",
+              "body": "Frame significa elaborar o disponer; convenient, adecuada a las circunstancias y aceptable para las partes, no «cómoda» en sentido moderno. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo del First Folio: https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_5_Scene_3.",
+              "lemma": "frame",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/frame"
+            },
+            {
+              "term": "Were you in my stead",
+              "title": "Were you in my stead",
+              "type": "Nota filológica",
+              "gloss": "si estuvieras en mi lugar",
+              "body": "Stead es «lugar, posición»; la pregunta solicita a Aufidio que juzgue la decisión poniéndose en su situación. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo del First Folio: https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_5_Scene_3.",
+              "lemma": "stead",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/stead"
+            }
+          ]
+        },
+        {
+          "line": "3617",
+          "speaker": "aufidius",
+          "en": "I was moved withal.",
+          "es": "A mí también me conmovió todo esto.",
+          "notes": [
+            {
+              "term": "moved withal",
+              "title": "moved withal",
+              "type": "Nota filológica",
+              "gloss": "conmovido por ello",
+              "body": "Withal retoma la escena de súplica; la respuesta declara emoción, sin prometer apoyo político. La ambigüedad dramática importa ante el posterior aparte de Aufidio. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo del First Folio: https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_5_Scene_3.",
+              "lemma": "withal",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/withal"
+            }
+          ]
+        },
+        {
+          "line": "3618–3623",
+          "speaker": "coriolanus",
+          "en": "I dare be sworn you were.\nAnd, sir, it is no little thing to make\nMine eyes to sweat compassion. But, good sir,\nWhat peace you’ll make advise me. For my part,\nI’ll not to Rome. I’ll back with you; and pray you,\nStand to me in this cause.—O mother!—Wife!",
+          "es": "Estoy seguro de que así fue.\nY, señor, no es poca cosa conseguir\nque mis ojos suden compasión. Pero, buen señor,\naconseja qué paz debemos concertar. Por mi parte,\nno iré a Roma: regresaré contigo, y te ruego\nque me apoyes en este asunto. ¡Madre! ¡Esposa!",
+          "notes": [
+            {
+              "term": "I dare be sworn",
+              "title": "I dare be sworn",
+              "type": "Nota filológica",
+              "gloss": "puedo asegurarlo",
+              "body": "Fórmula enfática de certeza: Coriolano da por sincera la conmoción de Aufidio, sin advertir todavía el conflicto que se avecina. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo del First Folio: https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_5_Scene_3.",
+              "lemma": "swear",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/swear"
+            },
+            {
+              "term": "Mine eyes to sweat compassion",
+              "title": "Mine eyes to sweat compassion",
+              "type": "Nota filológica",
+              "gloss": "que mis ojos suden compasión",
+              "body": "La metáfora evita nombrar directamente las lágrimas; sweat sugiere esfuerzo físico, en consonancia con el lenguaje marcial del personaje. Es una lectura retórica de la imagen. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo del First Folio: https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_5_Scene_3.",
+              "lemma": "sweat",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/sweat"
+            },
+            {
+              "term": "I’ll not to Rome",
+              "title": "I’ll not to Rome",
+              "type": "Nota filológica",
+              "gloss": "no iré a Roma",
+              "body": "Elipsis del verbo de movimiento go: not to Rome significa que no regresará a la ciudad, aunque haya decidido salvarla. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo del First Folio: https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_5_Scene_3."
+            },
+            {
+              "term": "Stand to me",
+              "title": "Stand to me",
+              "type": "Nota filológica",
+              "gloss": "apóyame; mantente de mi parte",
+              "body": "Stand to expresa sostener o respaldar a alguien en una causa; Coriolano solicita la solidaridad de Aufidio en las negociaciones. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo del First Folio: https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_5_Scene_3.",
+              "lemma": "stand",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/stand"
             }
           ]
         }
