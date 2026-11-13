@@ -32,7 +32,8 @@ window.SHAKESPEARE_READER_DATA = {
         "coriolanus-4-6",
         "coriolanus-4-7",
         "coriolanus-5-1",
-        "coriolanus-5-2"
+        "coriolanus-5-2",
+        "coriolanus-5-3"
       ]
     }
   ],
@@ -25098,6 +25099,170 @@ window.SHAKESPEARE_READER_DATA = {
               "body": "Compuesto adjetival que completa la metáfora del roble: no se trata de viento meteorológico literal, sino de presiones y ruegos. Fuentes: Barbara Mowat y Paul Werstine (eds.), William Shakespeare, Coriolanus, V.2, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html.",
               "lemma": "shake",
               "lemmaUrl": "https://en.wiktionary.org/wiki/shake"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "coriolanus-5-3",
+      "workId": "coriolanus",
+      "act": 5,
+      "scene": 3,
+      "place": "Campamento volsco, ante Roma",
+      "sourceRef": "Folger Shakespeare Library · Acto V, escena 3",
+      "sectionLabel": "Edición en curso · líneas 3401–3424",
+      "introduction": "Coriolano y Aufidio preparan el avance sobre Roma. Coriolano insiste en que ni la intercesión de Menenio ni nuevas embajadas podrán hacerlo cambiar de opinión; entonces se oyen gritos.",
+      "stage": "Entran Coriolano y Aufidio. Se oyen gritos fuera de escena antes de la pregunta de Coriolano.",
+      "characters": [
+        {
+          "id": "coriolanus",
+          "name": "Coriolano",
+          "english": "Coriolanus",
+          "identity": "General romano desterrado, ahora al frente del ejército volsco.",
+          "color": "copper"
+        },
+        {
+          "id": "aufidius",
+          "name": "Tulo Aufidio",
+          "english": "Tullus Aufidius",
+          "identity": "General volsco y aliado de Coriolano.",
+          "color": "slate"
+        }
+      ],
+      "blocks": [
+        {
+          "line": "3401–3404",
+          "speaker": "coriolanus",
+          "en": "We will before the walls of Rome tomorrow\nSet down our host. My partner in this action,\nYou must report to th’ Volscian lords how plainly\nI have borne this business.",
+          "es": "Mañana acamparemos con nuestro ejército\nante las murallas de Roma. Compañero en esta empresa,\ndebes informar a los señores volscos de la franqueza\ncon que he conducido este asunto.",
+          "notes": [
+            {
+              "term": "Set down our host",
+              "title": "Set down our host",
+              "type": "Nota filológica",
+              "gloss": "establecer nuestro ejército; acampar",
+              "body": "Host designa aquí el ejército, no un anfitrión. Set down implica establecer el campamento ante la ciudad. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo: MIT Shakespeare, Coriolanus V.3, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "lemma": "host",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/host"
+            },
+            {
+              "term": "how plainly / I have borne this business",
+              "title": "how plainly / I have borne this business",
+              "type": "Nota filológica",
+              "gloss": "con qué franqueza he conducido este asunto",
+              "body": "Plainly alude a la transparencia de Coriolano en su actuación; borne expresa cómo ha llevado o gestionado la empresa. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo: MIT Shakespeare, Coriolanus V.3, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "lemma": "bear",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/bear"
+            }
+          ]
+        },
+        {
+          "line": "3405–3409",
+          "speaker": "aufidius",
+          "en": "Only their ends\nYou have respected, stopped your ears against\nThe general suit of Rome, never admitted\nA private whisper, no, not with such friends\nThat thought them sure of you.",
+          "es": "Solo has atendido a los intereses de ellos: cerraste los oídos\na la petición general de Roma y jamás admitiste\nuna súplica privada, ni siquiera de amigos\nque creían tener asegurado tu favor.",
+          "notes": [
+            {
+              "term": "their ends",
+              "title": "their ends",
+              "type": "Nota filológica",
+              "gloss": "sus fines; sus intereses",
+              "body": "El posesivo remite a los señores volscos. Aufidio elogia una fidelidad política que también puede entenderse como una exigencia de obediencia. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo: MIT Shakespeare, Coriolanus V.3, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html."
+            },
+            {
+              "term": "general suit",
+              "title": "general suit",
+              "type": "Nota filológica",
+              "gloss": "petición colectiva; súplica pública",
+              "body": "General se opone a private whisper: el ruego institucional de Roma frente a las gestiones personales. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo: MIT Shakespeare, Coriolanus V.3, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "lemma": "suit",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/suit"
+            },
+            {
+              "term": "thought them sure of you",
+              "title": "thought them sure of you",
+              "type": "Nota filológica",
+              "gloss": "creían tener asegurado tu favor",
+              "body": "Them funciona como objeto reflexivo en una construcción histórica: 'se creían seguros de ti'. No implica que los amigos fueran realmente capaces de persuadirlo. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo: MIT Shakespeare, Coriolanus V.3, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "lemma": "sure",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/sure"
+            }
+          ]
+        },
+        {
+          "line": "3410–3424",
+          "speaker": "coriolanus",
+          "en": "This last old man,\nWhom with a cracked heart I have sent to Rome,\nLoved me above the measure of a father,\nNay, godded me indeed. Their latest refuge\nWas to send him, for whose old love I have—\nThough I showed sourly to him—once more offered\nThe first conditions, which they did refuse\nAnd cannot now accept, to grace him only\nThat thought he could do more. A very little\nI have yielded to. Fresh embassies and suits,\nNor from the state nor private friends, hereafter\nWill I lend ear to. Ha? What shout is this?\nShall I be tempted to infringe my vow\nIn the same time ’tis made? I will not.",
+          "es": "Ese último anciano, a quien he enviado a Roma\ncon el corazón quebrantado, me quería más\nque un padre; es más, me veneraba como a un dios.\nSu último recurso fue enviarlo. Por el afecto que me ha tenido\ndesde hace tantos años, aunque lo traté con aspereza,\nvolví a ofrecer las condiciones iniciales, que ellos rechazaron\ny que ahora ya no pueden aceptar. Lo hice únicamente\npara honrarlo, pues creyó que podría conseguir más.\nHe cedido muy poco. De ahora en adelante no escucharé\nnuevas embajadas ni súplicas, vengan del Estado\no de amigos particulares. ¿Eh? ¿Qué gritos son esos?\n¿Voy a dejarme tentar a quebrantar mi juramento\nen el mismo instante de pronunciarlo? No lo haré.",
+          "notes": [
+            {
+              "term": "cracked heart",
+              "title": "cracked heart",
+              "type": "Nota filológica",
+              "gloss": "corazón quebrantado",
+              "body": "La imagen reconoce el sufrimiento de Menenio, aunque Coriolano se esfuerce en sostener su resolución. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo: MIT Shakespeare, Coriolanus V.3, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "lemma": "cracked",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/cracked"
+            },
+            {
+              "term": "above the measure of a father",
+              "title": "above the measure of a father",
+              "type": "Nota filológica",
+              "gloss": "más que un padre",
+              "body": "La comparación invierte la relación paternal: Menenio siente por Coriolano un afecto que excede el de un padre ordinario. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo: MIT Shakespeare, Coriolanus V.3, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html."
+            },
+            {
+              "term": "godded me",
+              "title": "godded me",
+              "type": "Nota filológica",
+              "gloss": "me veneraba como a un dios",
+              "body": "God funciona como verbo transitivo, deificación hiperbólica que anticipa el contraste entre poder y afectos familiares. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo: MIT Shakespeare, Coriolanus V.3, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "lemma": "god",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/god"
+            },
+            {
+              "term": "showed sourly",
+              "title": "showed sourly",
+              "type": "Nota filológica",
+              "gloss": "traté con aspereza",
+              "body": "Sourly califica la conducta exterior de Coriolano ante Menenio; no niega el afecto anterior. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo: MIT Shakespeare, Coriolanus V.3, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "lemma": "sourly",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/sourly"
+            },
+            {
+              "term": "to grace him only",
+              "title": "to grace him only",
+              "type": "Nota filológica",
+              "gloss": "únicamente para honrarlo",
+              "body": "La concesión limitada pretende salvar la dignidad de Menenio, no abrir de nuevo una negociación plena. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo: MIT Shakespeare, Coriolanus V.3, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "lemma": "grace",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/grace"
+            },
+            {
+              "term": "Fresh embassies and suits",
+              "title": "Fresh embassies and suits",
+              "type": "Nota filológica",
+              "gloss": "nuevas embajadas y súplicas",
+              "body": "La acumulación comprende gestiones oficiales y peticiones privadas; el rechazo se anuncia como definitivo. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo: MIT Shakespeare, Coriolanus V.3, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "lemma": "embassy",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/embassy"
+            },
+            {
+              "term": "infringe my vow",
+              "title": "infringe my vow",
+              "type": "Nota filológica",
+              "gloss": "quebrantar mi juramento",
+              "body": "Infringe significa violar una obligación. La llegada de las mujeres pondrá a prueba de inmediato la promesa de no escuchar más ruegos. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo: MIT Shakespeare, Coriolanus V.3, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "lemma": "infringe",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/infringe"
+            },
+            {
+              "term": "Ha? What shout is this?",
+              "title": "Ha? What shout is this?",
+              "type": "Nota filológica",
+              "gloss": "¿eh? ¿qué gritos son esos?",
+              "body": "Folger intercala una acotación de gritos entre el rechazo de las peticiones y la pregunta; MIT sitúa el grito después de la pregunta. Es una diferencia de colocación escénica, no de argumento. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo: MIT Shakespeare, Coriolanus V.3, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html."
             }
           ]
         }

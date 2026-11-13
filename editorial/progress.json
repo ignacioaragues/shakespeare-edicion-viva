@@ -1651,13 +1651,22 @@
       "last_line": 3400,
       "editorial_state": "translated_source_checked_external_references",
       "note": "Cierre de V.2: 17 líneas, siete parlamentos completos; sarcasmo de los centinelas, shent/shend, swoon, muerte voluntaria y repetición de away. Folger, MIT y comentario histórico cotejados. Revisión retrospectiva y cotejo privado pendientes."
+    },
+    {
+      "id": "coriolanus-5-3-3401-3424",
+      "act": 5,
+      "scene": 3,
+      "first_line": 3401,
+      "last_line": 3424,
+      "editorial_state": "translated_source_checked_external_references",
+      "note": "Inicio de V.3, 24 líneas en tres parlamentos íntegros; Folger V.3 y MIT cotejados, glosas, metáforas de filiación y deificación, diferencia en la colocación del grito; revisión retrospectiva y cotejo privado pendientes."
     }
   ],
   "next_fragment": {
     "act": 5,
     "scene": 3,
-    "first_line": 3401,
-    "note": "Comenzar V.3: comprobar primera acotación y líneas Folger; crear escena navegable con personajes y sin alterar IDs previos."
+    "first_line": 3425,
+    "note": "Entrada de Virgilia, Volumnia, Valeria y el joven Marcio; comienza nuevo parlamento de Coriolano."
   },
   "completed_acts": [],
   "last_update_commit": "pending_atomic_commit",
