@@ -25957,6 +25957,126 @@ window.SHAKESPEARE_READER_DATA = {
               "body": "La presencia de Aufidio y los volscos convierte la súplica familiar en una negociación presenciada por el bando al que Coriolano se ha unido. Fuentes de cotejo: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; MIT Shakespeare, Coriolanus V.3, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html."
             }
           ]
+        },
+        {
+          "line": "3509–3543",
+          "speaker": "volumnia",
+          "en": "Should we be silent and not speak, our raiment\nAnd state of bodies would bewray what life\nWe have led since thy exile. Think with thyself\nHow more unfortunate than all living women\nAre we come hither; since that thy sight, which\nshould\nMake our eyes flow with joy, hearts dance with\ncomforts,\nConstrains them weep and shake with fear and\nsorrow,\nMaking the mother, wife, and child to see\nThe son, the husband, and the father tearing\nHis country’s bowels out. And to poor we\nThine enmity’s most capital. Thou barr’st us\nOur prayers to the gods, which is a comfort\nThat all but we enjoy. For how can we—\nAlas, how can we—for our country pray,\nWhereto we are bound, together with thy victory,\nWhereto we are bound? Alack, or we must lose\nThe country, our dear nurse, or else thy person,\nOur comfort in the country. We must find\nAn evident calamity, though we had\nOur wish, which side should win, for either thou\nMust as a foreign recreant be led\nWith manacles through our streets, or else\nTriumphantly tread on thy country’s ruin\nAnd bear the palm for having bravely shed\nThy wife and children’s blood. For myself, son,\nI purpose not to wait on fortune till\nThese wars determine. If I cannot persuade thee\nRather to show a noble grace to both parts\nThan seek the end of one, thou shalt no sooner\nMarch to assault thy country than to tread—\nTrust to ’t, thou shalt not—on thy mother’s womb\nThat brought thee to this world.",
+          "es": "Aunque guardáramos silencio, nuestra ropa\ny el estado de nuestros cuerpos revelarían cómo\nhemos vivido desde tu destierro. Piensa\nque hemos venido aquí más desdichadas\nque cualquier otra mujer viva: verte debería\nllenarnos los ojos de alegría y hacer\nque nuestros corazones saltaran de consuelo;\npero nos obliga a llorar y temblar de miedo\ny tristeza, porque la madre, la esposa y el hijo\ncontemplan al hijo, al esposo y al padre\ndesgarrando las entrañas de su patria.\nY para nosotras, desdichadas, tu enemistad es\nespecialmente terrible: nos impides dirigir\nnuestras plegarias a los dioses, consuelo del que\ntodos disfrutan menos nosotras. Pues ¿cómo podemos,\nay, cómo podemos rezar por nuestra patria,\na la que estamos ligadas, y al mismo tiempo por tu victoria,\na la que también estamos ligadas? ¡Ay de nosotras!\nO perdemos nuestra patria, nuestra querida nodriza,\no te perdemos a ti, nuestro consuelo dentro de ella.\nNos espera una desgracia inevitable,\nsea cual sea el bando vencedor, incluso si se cumpliera\nnuestro deseo: o te conducirán por nuestras calles,\nencadenado como un traidor al servicio del extranjero,\no pisotearás triunfante las ruinas de tu patria\ny recibirás la palma de la victoria por haber derramado\nvalerosamente la sangre de tu esposa y de tus hijos.\nPor mi parte, hijo, no pienso esperar a que la fortuna\ndecida esta guerra. Si no consigo persuadirte\nde mostrar noble generosidad hacia ambos bandos,\nen vez de procurar la destrucción de uno,\nno podrás marchar contra tu patria sin pasar\n—tenlo por seguro: no lo harás—\nsobre el vientre de tu madre,\nque te trajo a este mundo.",
+          "notes": [
+            {
+              "term": "raiment",
+              "title": "raiment",
+              "type": "Nota filológica",
+              "gloss": "vestimenta; ropa",
+              "body": "El atuendo de duelo y el deterioro físico son pruebas visibles del sufrimiento, aun sin palabras. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library, edición digital (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; MIT Shakespeare, Coriolanus, V.3, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "lemma": "raiment",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/raiment"
+            },
+            {
+              "term": "bewray",
+              "title": "bewray",
+              "type": "Nota filológica",
+              "gloss": "revelar; delatar",
+              "body": "Forma antigua de bewray, «poner al descubierto», no confundir con betray («traicionar»); Folger conserva bewray. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library, edición digital (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; MIT Shakespeare, Coriolanus, V.3, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "lemma": "bewray",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/bewray"
+            },
+            {
+              "term": "thy sight",
+              "title": "thy sight",
+              "type": "Nota filológica",
+              "gloss": "verte; tu presencia",
+              "body": "El contraste entre la alegría esperada y el miedo real constituye la antítesis que organiza el comienzo del parlamento. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library, edición digital (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; MIT Shakespeare, Coriolanus, V.3, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html."
+            },
+            {
+              "term": "country’s bowels",
+              "title": "country’s bowels",
+              "type": "Nota filológica",
+              "gloss": "las entrañas de su patria",
+              "body": "La patria se representa como cuerpo herido: la violencia de Coriolano contra Roma es figurada como una evisceración. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library, edición digital (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; MIT Shakespeare, Coriolanus, V.3, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html."
+            },
+            {
+              "term": "to poor we",
+              "title": "to poor we",
+              "type": "Nota filológica",
+              "gloss": "para nosotras, desdichadas",
+              "body": "Construcción pronominal que puede sonar irregular en inglés actual: poor we aparece como término de la preposición to; se conserva la forma de Folger. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library, edición digital (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; MIT Shakespeare, Coriolanus, V.3, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html."
+            },
+            {
+              "term": "most capital",
+              "title": "most capital",
+              "type": "Nota filológica",
+              "gloss": "especialmente grave; mortal",
+              "body": "Capital intensifica la gravedad de la enemistad; no alude aquí a una ciudad capital. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library, edición digital (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; MIT Shakespeare, Coriolanus, V.3, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "lemma": "capital",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/capital"
+            },
+            {
+              "term": "Thou barr’st us",
+              "title": "Thou barr’st us",
+              "type": "Nota filológica",
+              "gloss": "nos impides",
+              "body": "Barr’st: segunda persona singular de bar con terminación -st, propia del tratamiento thou; el objeto de la prohibición son las plegarias. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library, edición digital (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; MIT Shakespeare, Coriolanus, V.3, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "lemma": "bar",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/bar"
+            },
+            {
+              "term": "our dear nurse",
+              "title": "our dear nurse",
+              "type": "Nota filológica",
+              "gloss": "nuestra querida nodriza",
+              "body": "La patria se personifica como quien alimenta y cría, reforzando la imagen materna que culmina el parlamento. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library, edición digital (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; MIT Shakespeare, Coriolanus, V.3, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html."
+            },
+            {
+              "term": "foreign recreant",
+              "title": "foreign recreant",
+              "type": "Nota filológica",
+              "gloss": "traidor al servicio del extranjero",
+              "body": "Recreant puede significar cobarde o renegado; aquí describe al romano que combate por una potencia enemiga. Es una lectura contextual, no una equivalencia única. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library, edición digital (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; MIT Shakespeare, Coriolanus, V.3, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "lemma": "recreant",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/recreant"
+            },
+            {
+              "term": "manacles",
+              "title": "manacles",
+              "type": "Nota filológica",
+              "gloss": "grilletes; esposas",
+              "body": "La imagen evoca una entrada humillante en Roma, contrapuesta al triunfo militar del verso siguiente. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library, edición digital (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; MIT Shakespeare, Coriolanus, V.3, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "lemma": "manacle",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/manacle"
+            },
+            {
+              "term": "bear the palm",
+              "title": "bear the palm",
+              "type": "Nota filológica",
+              "gloss": "recibir la palma de la victoria",
+              "body": "La palma simboliza el triunfo; la ironía consiste en que la victoria militar se pagaría con sangre familiar. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library, edición digital (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; MIT Shakespeare, Coriolanus, V.3, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html."
+            },
+            {
+              "term": "These wars determine",
+              "title": "These wars determine",
+              "type": "Nota filológica",
+              "gloss": "se resuelva esta guerra",
+              "body": "Determine tiene aquí el sentido de «llegar a una resolución», no de «determinar» algo por anticipado. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library, edición digital (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; MIT Shakespeare, Coriolanus, V.3, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "lemma": "determine",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/determine"
+            },
+            {
+              "term": "both parts",
+              "title": "both parts",
+              "type": "Nota filológica",
+              "gloss": "ambos bandos",
+              "body": "Volumnia propone una salida que beneficie a romanos y volscos, no una simple derrota del ejército aliado de Coriolano. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library, edición digital (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; MIT Shakespeare, Coriolanus, V.3, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html."
+            },
+            {
+              "term": "thy mother’s womb",
+              "title": "thy mother’s womb",
+              "type": "Nota filológica",
+              "gloss": "el vientre de tu madre",
+              "body": "El cierre vuelve corporal y literal la obligación filial: para atacar Roma, Coriolano tendría que pasar sobre el cuerpo de quien lo dio a luz. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library, edición digital (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; MIT Shakespeare, Coriolanus, V.3, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html."
+            }
+          ]
         }
       ]
     }
