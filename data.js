@@ -31,7 +31,8 @@ window.SHAKESPEARE_READER_DATA = {
         "coriolanus-4-5",
         "coriolanus-4-6",
         "coriolanus-4-7",
-        "coriolanus-5-1"
+        "coriolanus-5-1",
+        "coriolanus-5-2"
       ]
     }
   ],
@@ -24181,6 +24182,187 @@ window.SHAKESPEARE_READER_DATA = {
               "body": "Haste funciona como verbo transitivo causativo: impulsar a alguien a actuar sin demora. Referencias: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.1, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/1/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.1.html.",
               "lemma": "haste",
               "lemmaUrl": "https://en.wiktionary.org/wiki/haste"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "coriolanus-5-2",
+      "workId": "coriolanus",
+      "act": 5,
+      "scene": 2,
+      "place": "Entrada del campamento volsco, ante Roma",
+      "sourceRef": "Folger Shakespeare Library · Acto V, escena 2",
+      "sectionLabel": "Edición en curso · líneas 3284–3300",
+      "introduction": "Menenio llega a la guardia del campamento volsco y trata de hacerse reconocer como allegado de Coriolano; los centinelas rechazan su autoridad romana.",
+      "stage": "Entra Menenio ante los centinelas del campamento volsco.",
+      "characters": [
+        {
+          "id": "menenius",
+          "name": "Menenio Agripa",
+          "english": "Menenius Agrippa",
+          "identity": "Patricio romano y antiguo protector de Coriolano.",
+          "color": "slate"
+        },
+        {
+          "id": "first-watch",
+          "name": "Primer centinela",
+          "english": "First Watch",
+          "identity": "Guardia volsco que impide el acceso al campamento.",
+          "color": "copper"
+        },
+        {
+          "id": "second-watch",
+          "name": "Segundo centinela",
+          "english": "Second Watch",
+          "identity": "Guardia volsco de la entrada.",
+          "color": "olive"
+        }
+      ],
+      "blocks": [
+        {
+          "line": "3284",
+          "speaker": "first-watch",
+          "en": "Stay! Whence are you?",
+          "es": "¡Alto! ¿De dónde viene?",
+          "notes": []
+        },
+        {
+          "line": "3285",
+          "speaker": "second-watch",
+          "en": "Stand, and go back.",
+          "es": "Deténgase y regrese.",
+          "notes": []
+        },
+        {
+          "line": "3286–3288",
+          "speaker": "menenius",
+          "en": "You guard like men; ’tis well. But by your leave,\nI am an officer of state and come\nTo speak with Coriolanus.",
+          "es": "Cumplen la guardia como hombres de bien; está muy bien. Pero, con su permiso,\nsoy un funcionario del Estado y he venido\npara hablar con Coriolano.",
+          "notes": [
+            {
+              "term": "by your leave",
+              "title": "by your leave",
+              "type": "Nota filológica",
+              "gloss": "con su permiso",
+              "body": "Fórmula de cortesía que introduce una petición de paso; el tono conciliador de Menenio contrasta con la negativa de los centinelas. Referencias: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.2, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; cotejo de variantes de atribución y lectura: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html.",
+              "lemma": "leave",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/leave"
+            },
+            {
+              "term": "officer of state",
+              "title": "officer of state",
+              "type": "Nota filológica",
+              "gloss": "funcionario del Estado",
+              "body": "Menenio apela a su rango político romano, cuya autoridad no se reconoce en el campamento enemigo. Referencias: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.2, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; cotejo de variantes de atribución y lectura: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html."
+            }
+          ]
+        },
+        {
+          "line": "3289",
+          "speaker": "first-watch",
+          "en": "From whence?",
+          "es": "¿De dónde?",
+          "notes": []
+        },
+        {
+          "line": "3290",
+          "speaker": "menenius",
+          "en": "From Rome.",
+          "es": "De Roma.",
+          "notes": []
+        },
+        {
+          "line": "3291–3292",
+          "speaker": "first-watch",
+          "en": "You may not pass; you must return. Our general\nWill no more hear from thence.",
+          "es": "No puede pasar; tiene que regresar. Nuestro general\nno escuchará más mensajes de allí.",
+          "notes": [
+            {
+              "term": "from thence",
+              "title": "from thence",
+              "type": "Nota filológica",
+              "gloss": "de allí; procedentes de Roma",
+              "body": "Thence es un adverbio de procedencia, aquí referido a Roma; la guardia niega el acceso a cualquier enviado romano. Referencias: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.2, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; cotejo de variantes de atribución y lectura: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html.",
+              "lemma": "thence",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/thence"
+            }
+          ]
+        },
+        {
+          "line": "3293–3294",
+          "speaker": "second-watch",
+          "en": "You’ll see your Rome embraced with fire before\nYou’ll speak with Coriolanus.",
+          "es": "Verá a esa Roma suya envuelta en llamas antes\nde que consiga hablar con Coriolano.",
+          "notes": [
+            {
+              "term": "your Rome",
+              "title": "your Rome",
+              "type": "Nota filológica",
+              "gloss": "esa Roma suya",
+              "body": "El posesivo marca distancia y hostilidad: para el centinela, Roma pertenece al visitante, no al ejército que sirve. Referencias: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.2, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; cotejo de variantes de atribución y lectura: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html."
+            },
+            {
+              "term": "embraced with fire",
+              "title": "embraced with fire",
+              "type": "Nota filológica",
+              "gloss": "envuelta en llamas",
+              "body": "Personificación violenta: el fuego «abraza» la ciudad. La imagen anticipa la destrucción anunciada por Coriolano. Referencias: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.2, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; cotejo de variantes de atribución y lectura: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html.",
+              "lemma": "embrace",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/embrace"
+            }
+          ]
+        },
+        {
+          "line": "3295–3298",
+          "speaker": "menenius",
+          "en": "Good my friends,\nIf you have heard your general talk of Rome\nAnd of his friends there, it is lots to blanks\nMy name hath touched your ears. It is Menenius.",
+          "es": "Buenos amigos míos,\nsi han oído a su general hablar de Roma\ny de sus amigos allí, es casi seguro\nque mi nombre les haya llegado a los oídos. Soy Menenio.",
+          "notes": [
+            {
+              "term": "lots to blanks",
+              "title": "lots to blanks",
+              "type": "Nota filológica",
+              "gloss": "es casi seguro; hay muchas más posibilidades a favor",
+              "body": "La comparación remite a una lotería: los lotes premiados frente a las papeletas en blanco. Menenio da por muy probable que Coriolano haya hablado de él; no se trata de una apuesta monetaria literal. Referencias: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.2, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; cotejo de variantes de atribución y lectura: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html.",
+              "lemma": "lot",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/lot"
+            },
+            {
+              "term": "hath touched your ears",
+              "title": "hath touched your ears",
+              "type": "Nota filológica",
+              "gloss": "les haya llegado a los oídos",
+              "body": "Hath es la tercera persona singular de have; la metáfora convierte la fama en algo que toca físicamente el oído. Referencias: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.2, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; cotejo de variantes de atribución y lectura: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html.",
+              "lemma": "have",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/have"
+            }
+          ]
+        },
+        {
+          "line": "3299–3300",
+          "speaker": "first-watch",
+          "en": "Be it so; go back. The virtue of your name\nIs not here passable.",
+          "es": "Aunque así sea, regrese. La autoridad de su nombre\nno le da derecho a pasar por aquí.",
+          "notes": [
+            {
+              "term": "The virtue of your name",
+              "title": "The virtue of your name",
+              "type": "Nota filológica",
+              "gloss": "la autoridad de su nombre",
+              "body": "Virtue es aquí eficacia o poder social; la reputación de Menenio no constituye un salvoconducto ante los volscos. Referencias: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.2, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; cotejo de variantes de atribución y lectura: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html.",
+              "lemma": "virtue",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/virtue"
+            },
+            {
+              "term": "passable",
+              "title": "passable",
+              "type": "Nota filológica",
+              "gloss": "válido para franquear el paso",
+              "body": "Juego entre la admisibilidad de un nombre y el paso físico por el puesto de guardia. La respuesta desautoriza el capital político romano de Menenio. Referencias: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.2, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; cotejo de variantes de atribución y lectura: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html.",
+              "lemma": "passable",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/passable"
             }
           ]
         }

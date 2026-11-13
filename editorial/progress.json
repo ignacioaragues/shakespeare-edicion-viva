@@ -1597,13 +1597,22 @@
       "last_line": 3283,
       "editorial_state": "translated_source_checked_external_references",
       "note": "Cierre de V.1: tres parlamentos completos, 14 líneas; Cominio describe el agravio y la última esperanza en Volumnia y Virgilia. Folger y MIT cotejados; revisión retrospectiva y cotejo privado pendientes."
+    },
+    {
+      "id": "coriolanus-5-2-3284-3300",
+      "act": 5,
+      "scene": 2,
+      "first_line": 3284,
+      "last_line": 3300,
+      "editorial_state": "translated_source_checked_external_references",
+      "note": "Inicio de V.2: nueve parlamentos completos, 17 líneas; contraste Folger y MIT, incluidos rótulos divergentes Watch/Senator; glosas y referencias verificables. Cotejo privado y revisión retrospectiva pendientes."
     }
   ],
   "next_fragment": {
     "act": 5,
     "scene": 2,
-    "first_line": 3284,
-    "note": "Inicio de V.2, campamento volsco: verificar entrada y primeros parlamentos Folger antes de editar."
+    "first_line": 3301,
+    "note": "Sigue el largo parlamento de Menenio (3301–3311), que debe conservarse completo."
   },
   "completed_acts": [],
   "last_update_commit": "pending_atomic_commit",
