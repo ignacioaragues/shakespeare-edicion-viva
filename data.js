@@ -25111,7 +25111,7 @@ window.SHAKESPEARE_READER_DATA = {
       "scene": 3,
       "place": "Campamento volsco, ante Roma",
       "sourceRef": "Folger Shakespeare Library · Acto V, escena 3",
-      "sectionLabel": "Edición en curso · líneas 3401–3486",
+      "sectionLabel": "Edición en curso · líneas 3401–3508",
       "introduction": "Coriolano y Aufidio preparan el avance sobre Roma. Coriolano insiste en que ni la intercesión de Menenio ni nuevas embajadas podrán hacerlo cambiar de opinión; entonces se oyen gritos.",
       "stage": "Entran Coriolano y Aufidio. Más tarde entran Virgilia, Volumnia, Valeria y el joven Marcio, con acompañantes.",
       "characters": [
@@ -25780,6 +25780,181 @@ window.SHAKESPEARE_READER_DATA = {
               "body": "Eye funciona como verbo transitivo: mirar o tener a la vista. El hijo debe servir como punto de orientación salvador, no solamente destacar por valentía. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo: MIT Shakespeare, Coriolanus, V.3, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
               "lemma": "eye",
               "lemmaUrl": "https://en.wiktionary.org/wiki/eye"
+            }
+          ]
+        },
+        {
+          "line": "3487",
+          "speaker": "volumnia",
+          "en": "Your knee, sirrah.",
+          "es": "De rodillas, muchacho.",
+          "notes": [
+            {
+              "term": "sirrah",
+              "title": "sirrah",
+              "type": "Nota filológica",
+              "gloss": "muchacho; joven",
+              "body": "Vocativo empleado por una persona de mayor rango o edad para dirigirse a un subordinado o a un niño; en boca de Volumnia es una orden familiar, no necesariamente un insulto. Fuentes de cotejo: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; MIT Shakespeare, Coriolanus V.3, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "lemma": "sirrah",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/sirrah"
+            }
+          ]
+        },
+        {
+          "line": "3488",
+          "speaker": "coriolanus",
+          "en": "That’s my brave boy!",
+          "es": "¡Ese es mi valiente muchacho!",
+          "notes": [
+            {
+              "term": "brave boy",
+              "title": "brave boy",
+              "type": "Nota filológica",
+              "gloss": "muchacho valiente",
+              "body": "La aprobación del padre ante el gesto obediente del hijo crea una ironía dramática: él mismo se resiste a la petición de su madre. Es una interpretación del contraste escénico. Fuentes de cotejo: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; MIT Shakespeare, Coriolanus V.3, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html."
+            }
+          ]
+        },
+        {
+          "line": "3489–3490",
+          "speaker": "volumnia",
+          "en": "Even he, your wife, this lady, and myself\nAre suitors to you.",
+          "es": "Él también, tu esposa, esta señora y yo\nhemos venido a suplicarte.",
+          "notes": [
+            {
+              "term": "suitors",
+              "title": "suitors",
+              "type": "Nota filológica",
+              "gloss": "suplicantes; personas que presentan una petición",
+              "body": "Suitor tiene aquí sentido jurídico y político de peticionario, no el de pretendiente amoroso. La enumeración convierte a la familia entera en una delegación. Fuentes de cotejo: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; MIT Shakespeare, Coriolanus V.3, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "lemma": "suitor",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/suitor"
+            }
+          ]
+        },
+        {
+          "line": "3491–3499",
+          "speaker": "coriolanus",
+          "en": "I beseech you, peace;\nOr if you’d ask, remember this before:\nThe thing I have forsworn to grant may never\nBe held by you denials. Do not bid me\nDismiss my soldiers or capitulate\nAgain with Rome’s mechanics. Tell me not\nWherein I seem unnatural; desire not\nT’ allay my rages and revenges with\nYour colder reasons.",
+          "es": "Te ruego que calles;\no, si vas a pedirme algo, recuerda primero esto:\nno consideres una negativa mía\nque no conceda aquello que he jurado no conceder.\nNo me pidas que licencie a mis soldados ni que vuelva\na negociar con los artesanos de Roma. No me digas\nen qué parezco actuar contra la naturaleza; no pretendas\napaciguar mi ira y mis deseos de venganza\ncon tus razonamientos más fríos.",
+          "notes": [
+            {
+              "term": "I beseech you, peace",
+              "title": "I beseech you, peace",
+              "type": "Nota filológica",
+              "gloss": "te ruego que calles",
+              "body": "Peace funciona como imperativo elíptico que pide silencio; la fórmula cortés contrasta con la inflexibilidad del mandato. Fuentes de cotejo: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; MIT Shakespeare, Coriolanus V.3, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "lemma": "beseech",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/beseech"
+            },
+            {
+              "term": "forsworn to grant",
+              "title": "forsworn to grant",
+              "type": "Nota filológica",
+              "gloss": "jurado no conceder",
+              "body": "Forswear expresa renunciar mediante juramento; aquí el complemento to grant indica aquello que Coriolano se ha comprometido a no otorgar. Fuentes de cotejo: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; MIT Shakespeare, Coriolanus V.3, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "lemma": "forswear",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/forswear"
+            },
+            {
+              "term": "Be held by you denials",
+              "title": "Be held by you denials",
+              "type": "Nota filológica",
+              "gloss": "ser consideradas negativas por ustedes",
+              "body": "Construcción pasiva: Coriolano pretende excluir de la negociación las peticiones que ya ha jurado rechazar. Su argumento distingue, interesadamente, entre no conceder y denegar. Fuentes de cotejo: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; MIT Shakespeare, Coriolanus V.3, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html."
+            },
+            {
+              "term": "capitulate / Again with Rome’s mechanics",
+              "title": "capitulate / Again with Rome’s mechanics",
+              "type": "Nota filológica",
+              "gloss": "volver a negociar con los trabajadores manuales de Roma",
+              "body": "Capitulate puede significar concertar condiciones; mechanics designa artesanos o trabajadores de oficios manuales, con desprecio social en boca de Coriolano. No se refiere a ingenieros mecánicos modernos. Fuentes de cotejo: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; MIT Shakespeare, Coriolanus V.3, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "lemma": "mechanic",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/mechanic"
+            },
+            {
+              "term": "unnatural",
+              "title": "unnatural",
+              "type": "Nota filológica",
+              "gloss": "contrario a los vínculos naturales; desnaturalizado",
+              "body": "Coriolano anticipa el reproche de traicionar a su madre y a su patria. La acusación remite a los deberes familiares y cívicos, no a una anomalía física. Fuentes de cotejo: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; MIT Shakespeare, Coriolanus V.3, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "lemma": "unnatural",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/unnatural"
+            },
+            {
+              "term": "T’ allay my rages and revenges",
+              "title": "T’ allay my rages and revenges",
+              "type": "Nota filológica",
+              "gloss": "apaciguar mi ira y mis venganzas",
+              "body": "Allay es calmar o disminuir. Folger lee allay, mientras MIT presenta ally, «aliar»: diferencia textual significativa que no debe homogeneizarse silenciosamente. Fuentes de cotejo: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; MIT Shakespeare, Coriolanus V.3, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "lemma": "allay",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/allay"
+            },
+            {
+              "term": "Your colder reasons",
+              "title": "Your colder reasons",
+              "type": "Nota filológica",
+              "gloss": "tus razonamientos más fríos",
+              "body": "Contraposición entre el ardor de la venganza y la deliberación serena de Volumnia; colder es comparativo de cold. Fuentes de cotejo: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; MIT Shakespeare, Coriolanus V.3, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "lemma": "cold",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/cold"
+            }
+          ]
+        },
+        {
+          "line": "3500–3505",
+          "speaker": "volumnia",
+          "en": "O, no more, no more!\nYou have said you will not grant us anything;\nFor we have nothing else to ask but that\nWhich you deny already. Yet we will ask,\nThat if you fail in our request, the blame\nMay hang upon your hardness. Therefore hear us.",
+          "es": "¡Oh, basta, basta!\nHas dicho que no nos concederás nada,\nporque no tenemos otra cosa que pedirte\nsino aquello que ya rechazas. Pero aun así lo pediremos,\npara que, si no accedes a nuestra súplica, la culpa\nrecaiga sobre tu dureza. Por eso, escúchanos.",
+          "notes": [
+            {
+              "term": "Yet we will ask",
+              "title": "Yet we will ask",
+              "type": "Nota filológica",
+              "gloss": "pero aun así lo pediremos",
+              "body": "Volumnia se niega a aceptar que el juramento previo cierre la audiencia: exige que la negativa sea explícita y moralmente imputable a su hijo. Fuentes de cotejo: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; MIT Shakespeare, Coriolanus V.3, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html."
+            },
+            {
+              "term": "the blame / May hang upon your hardness",
+              "title": "the blame / May hang upon your hardness",
+              "type": "Nota filológica",
+              "gloss": "la culpa recaiga sobre tu dureza",
+              "body": "Hardness significa dureza de corazón u obstinación; hang upon convierte la responsabilidad moral en una carga que queda suspendida sobre Coriolano. Fuentes de cotejo: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; MIT Shakespeare, Coriolanus V.3, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "lemma": "hardness",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/hardness"
+            }
+          ]
+        },
+        {
+          "line": "3506–3508",
+          "speaker": "coriolanus",
+          "en": "Aufidius, and you Volsces, mark, for we’ll\nHear naught from Rome in private. Your request?",
+          "es": "Aufidio, y ustedes, volscos, sean testigos, pues no\nescucharemos nada de Roma en privado. ¿Qué solicitan?",
+          "notes": [
+            {
+              "term": "mark",
+              "title": "mark",
+              "type": "Nota filológica",
+              "gloss": "presten atención; sean testigos",
+              "body": "Imperativo dirigido a Aufidio y a los volscos presentes: Coriolano quiere que la audiencia sea pública para no despertar sospechas de trato privado. Fuentes de cotejo: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; MIT Shakespeare, Coriolanus V.3, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "lemma": "mark",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/mark"
+            },
+            {
+              "term": "naught",
+              "title": "naught",
+              "type": "Nota filológica",
+              "gloss": "nada",
+              "body": "Forma literaria y arcaizante equivalente a nothing; Folger escribe naught y MIT nought, variantes ortográficas sin cambio sustancial de sentido. Fuentes de cotejo: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; MIT Shakespeare, Coriolanus V.3, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "lemma": "naught",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/naught"
+            },
+            {
+              "term": "in private",
+              "title": "in private",
+              "type": "Nota filológica",
+              "gloss": "en privado",
+              "body": "La presencia de Aufidio y los volscos convierte la súplica familiar en una negociación presenciada por el bando al que Coriolano se ha unido. Fuentes de cotejo: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; MIT Shakespeare, Coriolanus V.3, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html."
             }
           ]
         }

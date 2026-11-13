@@ -1687,13 +1687,22 @@
       "last_line": 3486,
       "editorial_state": "translated_source_checked_external_references",
       "note": "22 líneas Folger, cinco parlamentos íntegros; Folger V.3 y MIT cotejados; glosas de holp, fillip, epitome, seamark y curdied; revisión retrospectiva y cotejo privado pendientes."
+    },
+    {
+      "id": "coriolanus-5-3-3487-3508",
+      "act": 5,
+      "scene": 3,
+      "first_line": 3487,
+      "last_line": 3508,
+      "editorial_state": "translated_source_checked_external_references",
+      "note": "22 líneas Folger, seis parlamentos completos; lectura cotejada con Folger y MIT, especialmente allay/ally y naught/nought; glosas contextualizadas. Cotejo privado y revisión retrospectiva pendientes."
     }
   ],
   "next_fragment": {
     "act": 5,
     "scene": 3,
-    "first_line": 3487,
-    "note": "Sigue la instrucción de Volumnia al niño y la revelación de que toda la familia comparece como suplicante."
+    "first_line": 3509,
+    "note": "Comienza el gran parlamento de Volumnia, líneas 3509–3543: conservar íntegro en la próxima unidad, aunque exceda 30 líneas."
   },
   "completed_acts": [],
   "last_update_commit": "pending_atomic_commit",
