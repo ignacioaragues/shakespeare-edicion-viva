@@ -25111,7 +25111,7 @@ window.SHAKESPEARE_READER_DATA = {
       "scene": 3,
       "place": "Campamento volsco, ante Roma",
       "sourceRef": "Folger Shakespeare Library · Acto V, escena 3",
-      "sectionLabel": "Edición en curso · líneas 3401–3508",
+      "sectionLabel": "Edición en curso · líneas 3401–3551",
       "introduction": "Coriolano y Aufidio preparan el avance sobre Roma. Coriolano insiste en que ni la intercesión de Menenio ni nuevas embajadas podrán hacerlo cambiar de opinión; entonces se oyen gritos.",
       "stage": "Entran Coriolano y Aufidio. Más tarde entran Virgilia, Volumnia, Valeria y el joven Marcio, con acompañantes.",
       "characters": [
@@ -26075,6 +26075,60 @@ window.SHAKESPEARE_READER_DATA = {
               "type": "Nota filológica",
               "gloss": "el vientre de tu madre",
               "body": "El cierre vuelve corporal y literal la obligación filial: para atacar Roma, Coriolano tendría que pasar sobre el cuerpo de quien lo dio a luz. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library, edición digital (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; MIT Shakespeare, Coriolanus, V.3, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html."
+            }
+          ]
+        },
+        {
+          "line": "3544–3546",
+          "speaker": "virgilia",
+          "en": "Ay, and mine,\nThat brought you forth this boy to keep your name\nLiving to time.",
+          "es": "Sí, y sobre el mío,\nque te dio este hijo para que tu nombre\nperdure a través del tiempo.",
+          "notes": [
+            {
+              "term": "Living to time",
+              "title": "Living to time",
+              "type": "Nota filológica",
+              "gloss": "perdurando a través del tiempo",
+              "body": "La expresión proyecta la continuidad del nombre familiar hacia el futuro; Virgilia se suma a la amenaza de Volumnia de interponerse físicamente ante el ejército. Fuente textual: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library, 2015, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html."
+            }
+          ]
+        },
+        {
+          "line": "3547–3548",
+          "speaker": "young-martius",
+          "en": "He shall not tread on me.\nI’ll run away till I am bigger, but then I’ll fight.",
+          "es": "No va a pisotearme.\nHuiré hasta que sea más grande, pero entonces lucharé.",
+          "notes": [
+            {
+              "term": "He shall not tread on me",
+              "title": "He shall not tread on me",
+              "type": "Nota filológica",
+              "gloss": "no va a pisotearme",
+              "body": "El niño retoma literalmente la imagen de pisar el vientre materno, pero responde con una promesa infantil de resistencia futura. Folger imprime «He», mientras que MIT presenta la forma contraída «A’». Fuente textual: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library, 2015, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "lemma": "tread",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/tread"
+            }
+          ]
+        },
+        {
+          "line": "3549–3551",
+          "speaker": "coriolanus",
+          "en": "Not of a woman’s tenderness to be\nRequires nor child nor woman’s face to see.—\nI have sat too long.",
+          "es": "Quien no quiera ceder a la ternura de una mujer\nno debe mirar el rostro de una mujer ni de un niño.\nLlevo demasiado tiempo sentado.",
+          "notes": [
+            {
+              "term": "Not of a woman’s tenderness to be",
+              "title": "Not of a woman’s tenderness to be",
+              "type": "Nota filológica",
+              "gloss": "no ceder a la ternura propia de una mujer",
+              "body": "La construcción negativa, condensada e invertida, formula una máxima de dureza: para evitar conmoverse hay que apartar la vista de mujeres y niños. Es una interpretación sintáctica, no una afirmación general del editor sobre las mujeres. Fuente textual: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library, 2015, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html."
+            },
+            {
+              "term": "I have sat too long",
+              "title": "I have sat too long",
+              "type": "Nota filológica",
+              "gloss": "llevo demasiado tiempo sentado",
+              "body": "La acotación de Folger indica que Coriolano se levanta. El movimiento intenta cerrar la audiencia antes de la siguiente intervención de Volumnia. Fuente textual: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library, 2015, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html."
             }
           ]
         }
