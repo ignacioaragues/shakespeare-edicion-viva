@@ -25111,7 +25111,7 @@ window.SHAKESPEARE_READER_DATA = {
       "scene": 3,
       "place": "Campamento volsco, ante Roma",
       "sourceRef": "Folger Shakespeare Library · Acto V, escena 3",
-      "sectionLabel": "Edición en curso · líneas 3401–3623",
+      "sectionLabel": "Edición en curso · líneas 3401–3634",
       "introduction": "Coriolano y Aufidio preparan el avance sobre Roma. Coriolano insiste en que ni la intercesión de Menenio ni nuevas embajadas podrán hacerlo cambiar de opinión; entonces se oyen gritos.",
       "stage": "Entran Coriolano y Aufidio. Más tarde entran Virgilia, Volumnia, Valeria y el joven Marcio, con acompañantes.",
       "characters": [
@@ -26378,6 +26378,85 @@ window.SHAKESPEARE_READER_DATA = {
               "body": "Stand to expresa sostener o respaldar a alguien en una causa; Coriolano solicita la solidaridad de Aufidio en las negociaciones. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo del First Folio: https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_5_Scene_3.",
               "lemma": "stand",
               "lemmaUrl": "https://en.wiktionary.org/wiki/stand"
+            }
+          ]
+        },
+        {
+          "line": "3624–3626",
+          "speaker": "aufidius",
+          "en": "I am glad thou hast set thy mercy and thy honor\nAt difference in thee. Out of that I’ll work\nMyself a former fortune.",
+          "es": "Me alegra que hayas puesto en conflicto\ntu compasión y tu honor. De esa discordia\nsacaré la ocasión de recuperar mi antigua fortuna.",
+          "notes": [
+            {
+              "term": "At difference",
+              "title": "At difference",
+              "type": "Nota filológica",
+              "gloss": "en conflicto; enfrentados",
+              "body": "La expresión describe dos impulsos que Aufidio juzga incompatibles en Coriolano. El aparte permite al público conocer su cálculo mientras el otro personaje conversa con las mujeres. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "lemma": "difference",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/difference"
+            },
+            {
+              "term": "work / Myself a former fortune",
+              "title": "work / Myself a former fortune",
+              "type": "Nota filológica",
+              "gloss": "recuperar para mí una fortuna anterior",
+              "body": "Work rige aquí el resultado que Aufidio pretende obtener: restablecer su antigua posición. La referencia a su rivalidad previa es una interpretación dramática respaldada por el desarrollo de la obra, no una promesa explícita de asesinato en estos versos. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "lemma": "work",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/work"
+            }
+          ]
+        },
+        {
+          "line": "3627–3634",
+          "speaker": "coriolanus",
+          "en": "Ay, by and by;\nBut we will drink together, and you shall bear\nA better witness back than words, which we,\nOn like conditions, will have countersealed.\nCome, enter with us. Ladies, you deserve\nTo have a temple built you. All the swords\nIn Italy, and her confederate arms,\nCould not have made this peace.",
+          "es": "Sí, enseguida;\npero antes beberemos juntos, y llevarán de regreso\nun testimonio más firme que las palabras: un acuerdo\nque haremos refrendar en condiciones equivalentes.\nVengan, entren con nosotros. Señoras, merecen\nque les levanten un templo. Todas las espadas\nde Italia, junto con las armas de sus aliados,\nno habrían podido conseguir esta paz.",
+          "notes": [
+            {
+              "term": "by and by",
+              "title": "by and by",
+              "type": "Nota filológica",
+              "gloss": "enseguida; dentro de un momento",
+              "body": "La respuesta de Coriolano se dirige a las mujeres después del aparte de Aufidio; la edición Folger marca explícitamente el cambio de destinatario. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "lemma": "by_and_by",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/by_and_by"
+            },
+            {
+              "term": "a better witness back than words",
+              "title": "a better witness back than words",
+              "type": "Nota filológica",
+              "gloss": "una prueba más firme que las palabras",
+              "body": "Witness significa aquí testimonio o garantía: la paz debe quedar acreditada por algo más que una promesa oral. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "lemma": "witness",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/witness"
+            },
+            {
+              "term": "countersealed",
+              "title": "countersealed",
+              "type": "Nota filológica",
+              "gloss": "refrendado; sellado por ambas partes",
+              "body": "El verbo alude a la ratificación mediante un sello adicional o correspondiente. La traducción conserva la idea de una garantía formal, sin presumir un procedimiento diplomático preciso. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "lemma": "counterseal",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/counterseal"
+            },
+            {
+              "term": "a temple built you",
+              "title": "a temple built you",
+              "type": "Nota filológica",
+              "gloss": "un templo erigido en honor de ustedes",
+              "body": "La hipérbole convierte la mediación de las mujeres en un acto digno de veneración pública; el texto no afirma que el templo llegue a construirse. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "lemma": "temple",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/temple"
+            },
+            {
+              "term": "confederate arms",
+              "title": "confederate arms",
+              "type": "Nota filológica",
+              "gloss": "las fuerzas de sus aliados",
+              "body": "Confederate funciona como adjetivo de alianza militar; la comparación subraya que la persuasión logró lo que los ejércitos no podían. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "lemma": "confederate",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/confederate"
             }
           ]
         }

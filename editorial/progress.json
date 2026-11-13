@@ -1732,13 +1732,22 @@
       "last_line": 3623,
       "editorial_state": "translated_source_checked",
       "note": "Coriolanus' concession and exchange with Aufidius; three complete speeches. Folger online and First Folio checked; notes cite both."
+    },
+    {
+      "id": "coriolanus-5-3-3624-3634",
+      "act": 5,
+      "scene": 3,
+      "first_line": 3624,
+      "last_line": 3634,
+      "editorial_state": "translated_source_checked_external_references",
+      "note": "Cierre de V.3: aparte de Aufidio y despedida de Coriolano, dos parlamentos completos; cotejo Folger/MIT; siete notas con glosas. Revisión retrospectiva pendiente."
     }
   ],
   "next_fragment": {
     "act": 5,
-    "scene": 3,
-    "first_line": 3605,
-    "note": "Respuesta de Coriolano a Volumnia; continuar por parlamentos completos."
+    "scene": 4,
+    "first_line": 3635,
+    "note": "Comienzo de V.4; verificar numeración Folger antes de editar."
   },
   "completed_acts": [],
   "last_update_commit": "pending_atomic_commit",
