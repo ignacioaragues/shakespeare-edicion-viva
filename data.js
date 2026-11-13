@@ -33,7 +33,8 @@ window.SHAKESPEARE_READER_DATA = {
         "coriolanus-4-7",
         "coriolanus-5-1",
         "coriolanus-5-2",
-        "coriolanus-5-3"
+        "coriolanus-5-3",
+        "coriolanus-5-4"
       ]
     }
   ],
@@ -26473,8 +26474,20 @@ window.SHAKESPEARE_READER_DATA = {
       "introduction": "Menenio y Sicinio aguardan noticias de la embajada de las mujeres. Ignoran todavía que Volumnia ha logrado persuadir a Coriolano.",
       "stage": "Entran Menenio y Sicinio.",
       "characters": [
-        "menenius",
-        "sicinius"
+        {
+          "id": "menenius",
+          "name": "Menenio Agripa",
+          "english": "Menenius Agrippa",
+          "identity": "Patricio romano y antiguo protector de Coriolano.",
+          "color": "slate"
+        },
+        {
+          "id": "sicinius",
+          "name": "Sicinio Veluto",
+          "english": "Sicinius Velutus",
+          "identity": "Tribuno de la plebe, preocupado por la amenaza sobre Roma.",
+          "color": "olive"
+        }
       ],
       "blocks": [
         {
