@@ -1759,13 +1759,22 @@
       "last_line": 3675,
       "editorial_state": "translated_source_checked_external_references",
       "note": "Cinco parlamentos completos, Folger y MIT cotejados; notas con glosas. Cotejo privado y revisión retrospectiva pendientes."
+    },
+    {
+      "id": "coriolanus-5-4-3676-3689",
+      "act": 5,
+      "scene": 4,
+      "first_line": 3676,
+      "last_line": 3689,
+      "editorial_state": "translated_source_checked_external_references",
+      "note": "Cinco parlamentos completos, 14 líneas Folger; Folger y MIT cotejados; glosas de prevail, dislodge, Tarquins, recomforted e instrumentos. Revisión retrospectiva y cotejo privado pendientes."
     }
   ],
   "next_fragment": {
     "act": 5,
     "scene": 4,
-    "first_line": 3676,
-    "note": "Segundo mensajero: anuncio de la salvación de Roma."
+    "first_line": 3690,
+    "note": "Respuesta de Menenio y celebración de la salvación de Roma."
   },
   "completed_acts": [],
   "last_update_commit": "pending_atomic_commit",

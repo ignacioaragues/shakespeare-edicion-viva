@@ -26470,7 +26470,7 @@ window.SHAKESPEARE_READER_DATA = {
       "scene": 4,
       "place": "Roma · una plaza pública",
       "sourceRef": "Folger Shakespeare Library · Acto V, escena 4",
-      "sectionLabel": "Edición en curso · líneas 3635–3659",
+      "sectionLabel": "Edición en curso · líneas 3635–3689",
       "introduction": "Menenio y Sicinio aguardan noticias de la embajada de las mujeres. Ignoran todavía que Volumnia ha logrado persuadir a Coriolano.",
       "stage": "Entran Menenio y Sicinio.",
       "characters": [
@@ -26494,6 +26494,13 @@ window.SHAKESPEARE_READER_DATA = {
           "english": "Messenger",
           "identity": "Trae noticias de la violencia contra los tribunos.",
           "color": "slate"
+        },
+        {
+          "id": "second-messenger",
+          "name": "Segundo mensajero",
+          "english": "Second Messenger",
+          "identity": "Anuncia el éxito de la embajada de las mujeres y la retirada volsca.",
+          "color": "olive"
         }
       ],
       "blocks": [
@@ -26790,6 +26797,120 @@ window.SHAKESPEARE_READER_DATA = {
               "type": "Nota filológica",
               "gloss": "muerte lenta",
               "body": "Amenaza de suplicio gradual sin método explícito. Referencias: Mowat y Werstine (eds.), Coriolanus, V.4, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/; cotejo MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.4.html."
+            }
+          ]
+        },
+        {
+          "line": "3676",
+          "speaker": "sicinius",
+          "en": "What’s the news?",
+          "es": "¿Qué noticias traes?"
+        },
+        {
+          "line": "3677–3680",
+          "speaker": "second-messenger",
+          "en": "Good news, good news! The ladies have prevailed.\nThe Volscians are dislodged and Martius gone.\nA merrier day did never yet greet Rome,\nNo, not th’ expulsion of the Tarquins.",
+          "es": "¡Buenas noticias, buenas noticias! Las mujeres han conseguido persuadirlo.\nLos volscos se han retirado y Marcio se ha marchado.\nNunca amaneció para Roma un día más alegre,\nni siquiera cuando fueron expulsados los Tarquinios.",
+          "notes": [
+            {
+              "term": "prevailed",
+              "title": "prevailed",
+              "type": "Nota filológica",
+              "gloss": "han conseguido persuadirlo",
+              "body": "Prevail retoma la esperanza que Menenio juzgaba imposible: que las mujeres lograsen convencer a Coriolano. Referencias: Mowat, Barbara y Paul Werstine (eds.), William Shakespeare, Coriolanus, V.4, Folger Shakespeare Library, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.4.html.",
+              "lemma": "prevail",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/prevail"
+            },
+            {
+              "term": "dislodged",
+              "title": "dislodged",
+              "type": "Nota filológica",
+              "gloss": "se han retirado de sus posiciones",
+              "body": "El verbo militar señala el levantamiento de las posiciones volscas; no implica necesariamente una derrota en combate. Referencias: Mowat, Barbara y Paul Werstine (eds.), William Shakespeare, Coriolanus, V.4, Folger Shakespeare Library, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.4.html.",
+              "lemma": "dislodge",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/dislodge"
+            },
+            {
+              "term": "expulsion of the Tarquins",
+              "title": "expulsion of the Tarquins",
+              "type": "Nota filológica",
+              "gloss": "expulsión de los Tarquinios",
+              "body": "Alusión a la caída de la monarquía romana, tradicionalmente situada en 509 a. C.; la comparación es una hipérbole del mensajero, no una equiparación histórica demostrable. Referencias: Mowat, Barbara y Paul Werstine (eds.), William Shakespeare, Coriolanus, V.4, Folger Shakespeare Library, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.4.html."
+            }
+          ]
+        },
+        {
+          "line": "3681–3682",
+          "speaker": "sicinius",
+          "en": "Friend,\nArt thou certain this is true? Is ’t most certain?",
+          "es": "Amigo,\n¿estás seguro de que es verdad? ¿Completamente seguro?",
+          "notes": [
+            {
+              "term": "Art thou",
+              "title": "Art thou",
+              "type": "Nota filológica",
+              "gloss": "¿estás tú...?",
+              "body": "Interrogativa con la segunda persona singular antigua thou y la forma verbal art; el tratamiento directo subraya la urgencia de la confirmación. Referencias: Mowat, Barbara y Paul Werstine (eds.), William Shakespeare, Coriolanus, V.4, Folger Shakespeare Library, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.4.html.",
+              "lemma": "art",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/art"
+            }
+          ]
+        },
+        {
+          "line": "3683–3689",
+          "speaker": "second-messenger",
+          "en": "As certain as I know the sun is fire.\nWhere have you lurked that you make doubt of it?\nNe’er through an arch so hurried the blown tide\nAs the recomforted through th’ gates. Why, hark you!\nThe trumpets, sackbuts, psalteries, and fifes,\nTabors and cymbals, and the shouting Romans\nMake the sun dance. Hark you!",
+          "es": "Tan seguro como de que el sol es fuego.\n¿Dónde te has escondido para ponerlo en duda?\nJamás una marea crecida se precipitó por un arco\ncon tanta fuerza como la multitud, reconfortada, atraviesa las puertas. ¡Escucha!\nLas trompetas, los sacabuches, los salterios y los pífanos,\nlos tamboriles, los címbalos y los gritos de los romanos\nhacen bailar al sol. ¡Escucha!",
+          "notes": [
+            {
+              "term": "lurked",
+              "title": "lurked",
+              "type": "Nota filológica",
+              "gloss": "te has escondido",
+              "body": "La pregunta reprocha a Sicinio su aislamiento de una noticia que ya circula públicamente. Referencias: Mowat, Barbara y Paul Werstine (eds.), William Shakespeare, Coriolanus, V.4, Folger Shakespeare Library, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.4.html.",
+              "lemma": "lurk",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/lurk"
+            },
+            {
+              "term": "blown tide",
+              "title": "blown tide",
+              "type": "Nota filológica",
+              "gloss": "marea crecida",
+              "body": "Imagen de una corriente hinchada que atraviesa un paso estrecho; el arco sirve de comparación con las puertas de la ciudad. Referencias: Mowat, Barbara y Paul Werstine (eds.), William Shakespeare, Coriolanus, V.4, Folger Shakespeare Library, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.4.html."
+            },
+            {
+              "term": "recomforted",
+              "title": "recomforted",
+              "type": "Nota filológica",
+              "gloss": "reconfortados; aliviados",
+              "body": "Participio sustantivado: los romanos que recuperan el ánimo tras conocer la salvación de la ciudad. Referencias: Mowat, Barbara y Paul Werstine (eds.), William Shakespeare, Coriolanus, V.4, Folger Shakespeare Library, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.4.html.",
+              "lemma": "recomfort",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/recomfort"
+            },
+            {
+              "term": "sackbuts",
+              "title": "sackbuts",
+              "type": "Nota filológica",
+              "gloss": "sacabuches",
+              "body": "Instrumentos de viento de metal, antecesores del trombón; la enumeración construye una sonoridad festiva. Referencias: Mowat, Barbara y Paul Werstine (eds.), William Shakespeare, Coriolanus, V.4, Folger Shakespeare Library, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.4.html.",
+              "lemma": "sackbut",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/sackbut"
+            },
+            {
+              "term": "psalteries",
+              "title": "psalteries",
+              "type": "Nota filológica",
+              "gloss": "salterios",
+              "body": "Instrumentos de cuerda pulsada, aquí integrados en el catálogo festivo de instrumentos. Referencias: Mowat, Barbara y Paul Werstine (eds.), William Shakespeare, Coriolanus, V.4, Folger Shakespeare Library, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.4.html.",
+              "lemma": "psaltery",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/psaltery"
+            },
+            {
+              "term": "Make the sun dance",
+              "title": "Make the sun dance",
+              "type": "Nota filológica",
+              "gloss": "hacen bailar al sol",
+              "body": "Hipérbole cósmica: la celebración colectiva parece afectar incluso al astro; no se afirma un prodigio literal. Referencias: Mowat, Barbara y Paul Werstine (eds.), William Shakespeare, Coriolanus, V.4, Folger Shakespeare Library, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.4.html."
             }
           ]
         }
