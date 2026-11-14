@@ -1971,6 +1971,21 @@
         "https://www.litcharts.com/lit/coriolanus/act-1-scene-1"
       ],
       "status": "reviewed_with_open_sources_private_books_pending"
+    },
+    {
+      "id": "coriolanus-1-1-98-116",
+      "act": 1,
+      "scene": 1,
+      "first_line": 98,
+      "last_line": 116,
+      "reviewed_on": "2026-11-15",
+      "scope": "Segunda pasada de la apertura de la fábula del vientre: seis notas revisadas y dos añadidas, glosas contextuales, comparación con Livio 2.32 y estudio de Cambridge sobre la jerarquía del cuerpo político; inglés, español e identificadores de parlamento sin cambios.",
+      "sources": [
+        "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/",
+        "https://cts.perseids.org/read/latinLit/phi0914/phi001/perseus-eng3/2.32.5-2.33.7",
+        "https://doi.org/10.1017/9781009389334.002"
+      ],
+      "status": "reviewed_with_open_sources_private_books_pending"
     }
   ]
 }

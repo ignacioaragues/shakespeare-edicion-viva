@@ -1020,19 +1020,24 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "gulf",
               "type": "Léxico",
               "title": "like a gulf",
-              "body": "Gulf sugiere una cavidad profunda que engulle cuanto recibe; refuerza la acusación de voracidad."
+              "body": "La comparación del vientre con un «gulf» lo representa como una cavidad que recibe y retiene alimento. En Livio (Ab urbe condita 2.32.9–12), los miembros también acusan al vientre de disfrutar inmóvil de su trabajo; la analogía justifica luego la interdependencia política. El reproche pertenece a los miembros, no a una descripción neutral. Fuentes: Folger I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; Livio 2.32, https://cts.perseids.org/read/latinLit/phi0914/phi001/perseus-eng3/2.32.5-2.33.7; The Divided Body Politic, en The Body Politic in Roman Political Thought (Cambridge University Press), https://doi.org/10.1017/9781009389334.002.",
+              "gloss": "abismo; cavidad que engulle"
             },
             {
               "term": "cupboarding the viand",
               "type": "Lengua y metáfora",
               "title": "cupboarding the viand",
-              "body": "El verbo cupboarding deriva de cupboard, «despensa»: guardar el alimento como si se lo acaparara. Viand significa «comida» o «alimento»."
+              "body": "«Cupboarding» convierte el sustantivo «cupboard» (alacena, despensa) en verbo de acaparamiento; «viand» designa alimento o comida. La personificación acusa al vientre de almacenar sin contribuir al trabajo común. La equivalencia es contextual, no una descripción de una despensa literal. Fuente: Folger I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/.",
+              "gloss": "guardar el alimento en la despensa",
+              "lemma": "cupboard",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/cupboard"
             },
             {
               "term": "mutually participate",
               "type": "Sintaxis",
               "title": "mutually participate",
-              "body": "La expresión subraya la cooperación recíproca de los órganos; la sintaxis acumulativa reproduce la enumeración de funciones."
+              "body": "La enumeración de sentidos y movimientos presenta a los órganos como colaboradores. «Mutually participate» introduce la idea de cooperación que Menenio intentará atribuir también al vientre. El razonamiento político de la fábula naturaliza una jerarquía social, no presupone igualdad entre los miembros; véase The Divided Body Politic (Cambridge University Press), https://doi.org/10.1017/9781009389334.002; Folger I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/.",
+              "gloss": "participar y colaborar recíprocamente"
             }
           ]
         },
@@ -1041,7 +1046,15 @@ window.SHAKESPEARE_READER_DATA = {
           "speaker": "citizen2",
           "en": "Well, sir, what answer made the belly?",
           "es": "Bien, señor, ¿qué respondió el vientre?",
-          "notes": []
+          "notes": [
+            {
+              "term": "what answer made the belly",
+              "title": "what answer made the belly",
+              "type": "Nota filológica",
+              "gloss": "¿qué respondió el vientre?",
+              "body": "El ciudadano exige que Menenio llegue a la respuesta de la fábula. Sus interrupciones mantienen abierta la discusión y evitan que el relato se convierta en un monólogo incontestado. Fuente: Folger I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/."
+            }
+          ]
         },
         {
           "line": "109–116",
@@ -1053,19 +1066,35 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "ne’er came from the lungs",
               "type": "Imagen",
               "title": "una sonrisa sin pulmones",
-              "body": "Menenio juega con la imposibilidad de que el vientre sonría o hable: reconoce el artificio de su personificación."
+              "body": "«Ne’er» es contracción de «never». La sonrisa del vientre es una imposibilidad corporal que Menenio convierte en recurso teatral: parece imitarla antes de explicar la respuesta. No se trata de una acotación explícita de Folger. Fuente: Folger I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/.",
+              "gloss": "que nunca salió de los pulmones",
+              "lemma": "never",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/never"
             },
             {
               "term": "receipt",
               "type": "Léxico",
               "title": "receipt",
-              "body": "Aquí designa lo que el vientre recibe, especialmente alimento, no un recibo escrito."
+              "body": "«Receipt» es aquí la recepción o cantidad recibida, especialmente alimento; no un comprobante escrito. El ciudadano denuncia precisamente la desigual distribución de las provisiones. Fuente: Folger I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/.",
+              "gloss": "lo que recibe; provisiones recibidas",
+              "lemma": "receipt",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/receipt"
             },
             {
               "term": "tauntingly",
               "type": "Interpretación",
               "title": "tauntingly",
-              "body": "La réplica del vientre se presenta como burlona; esa actitud complica la pretendida benevolencia de la alegoría política."
+              "body": "El adverbio califica la respuesta atribuida al vientre. La burla hace menos conciliadora la fábula que pretende apaciguar la revuelta; es un efecto de la caracterización de Menenio. Fuente: Folger I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/.",
+              "gloss": "con burla; provocativamente",
+              "lemma": "tauntingly",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/tauntingly"
+            },
+            {
+              "term": "they are not such as you",
+              "title": "they are not such as you",
+              "type": "Nota interpretativa",
+              "gloss": "no son como ustedes",
+              "body": "Menenio identifica expresamente a los senadores con el vientre y a los ciudadanos con los miembros rebeldes antes de completar la fábula. En Livio 2.32 la analogía también se utiliza para restaurar la concordia, pero no para afirmar igualdad política. Fuentes: Folger I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; Livio 2.32, https://cts.perseids.org/read/latinLit/phi0914/phi001/perseus-eng3/2.32.5-2.33.7; The Divided Body Politic, https://doi.org/10.1017/9781009389334.002."
             }
           ]
         },
