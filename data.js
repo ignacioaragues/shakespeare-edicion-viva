@@ -27706,6 +27706,149 @@ window.SHAKESPEARE_READER_DATA = {
               "body": "La promesa de audiencia pública contrasta irónicamente con el plan anterior de silenciarlo; el contraste es una lectura dramática, no una variante textual. Fuentes: Folger Digital Texts, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; cotejo textual: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.6.html."
             }
           ]
+        },
+        {
+          "line": "3795–3809",
+          "speaker": "coriolanus",
+          "en": "Hail, lords! I am returned your soldier,\nNo more infected with my country’s love\nThan when I parted hence, but still subsisting\nUnder your great command. You are to know\nThat prosperously I have attempted, and\nWith bloody passage led your wars even to\nThe gates of Rome. Our spoils we have brought\nhome\nDoth more than counterpoise a full third part\nThe charges of the action. We have made peace\nWith no less honor to the Antiates\nThan shame to th’ Romans, and we here deliver,\nSubscribed by’ th’ Consuls and patricians,\nTogether with the seal o’ th’ Senate, what\nWe have compounded on.\n[He offers the lords a paper.]",
+          "es": "¡Salud, señores! Regreso como soldado de ustedes,\nno más contagiado de amor por mi patria\nque cuando partí de aquí, y sigo sometido\na su alto mando. Deben saber\nque he llevado a buen término la campaña y,\nabriéndome paso entre sangre, he conducido sus ejércitos\nhasta las puertas de Roma. El botín que hemos traído\nde vuelta compensa con creces una tercera parte\nde los gastos de la expedición. Hemos acordado una paz\nque honra tanto a los habitantes de Ancio\ncomo avergüenza a los romanos. Aquí les entregamos\nlos términos pactados, firmados por los cónsules\ny los patricios, y refrendados con el sello del Senado.\n[Ofrece un documento a los señores.]",
+          "notes": [
+            {
+              "term": "infected with my country’s love",
+              "title": "infected with my country’s love",
+              "type": "Nota filológica",
+              "gloss": "contagiado de amor por mi patria",
+              "body": "La metáfora de enfermedad presenta el afecto patriótico como una posible contaminación de la lealtad militar. Coriolano niega que haya aumentado, pese a su decisión de salvar Roma. Fuentes: Folger, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; lema: https://en.wiktionary.org/wiki/infect.",
+              "lemma": "infect",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/infect"
+            },
+            {
+              "term": "still subsisting",
+              "title": "still subsisting",
+              "type": "Nota filológica",
+              "gloss": "todavía sujeto al mando",
+              "body": "«Subsisting under» expresa continuidad en una relación de subordinación; no equivale aquí simplemente a «sobrevivir». Fuentes: Folger, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; lema: https://en.wiktionary.org/wiki/subsist.",
+              "lemma": "subsist",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/subsist"
+            },
+            {
+              "term": "bloody passage",
+              "title": "bloody passage",
+              "type": "Nota filológica",
+              "gloss": "avance sangriento",
+              "body": "La fórmula condensa la violencia de la campaña y contrasta con el documento diplomático que Coriolano presenta al final del parlamento. Fuentes: Folger, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/."
+            },
+            {
+              "term": "Doth more than counterpoise",
+              "title": "Doth more than counterpoise",
+              "type": "Nota filológica",
+              "gloss": "compensa con creces",
+              "body": "«Doth» es tercera persona singular histórica de «do»; el sujeto gramatical es «Our spoils», tratado aquí como conjunto. «Counterpoise» significa equilibrar o compensar. Fuentes: Folger, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; lema: https://en.wiktionary.org/wiki/do.",
+              "lemma": "do",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/do"
+            },
+            {
+              "term": "Antiates",
+              "title": "Antiates",
+              "type": "Nota filológica",
+              "gloss": "habitantes de Ancio",
+              "body": "Gentilicio de Antium (Ancio), ciudad volsca. La paz se presenta como honorable para ellos, aunque los señores acaban de juzgarla una pérdida. Fuentes: Folger, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; lema: https://en.wiktionary.org/wiki/Antiate.",
+              "lemma": "Antiate",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/Antiate"
+            },
+            {
+              "term": "compounded on",
+              "title": "compounded on",
+              "type": "Nota filológica",
+              "gloss": "acordado mediante negociación",
+              "body": "«Compound» tiene aquí sentido de llegar a un arreglo. La presentación de un acuerdo sellado contrasta con la acusación de traición que sigue. Fuentes: Folger, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; lema: https://en.wiktionary.org/wiki/compound.",
+              "lemma": "compound",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/compound"
+            },
+            {
+              "term": "Subscribed by’ th’ Consuls",
+              "title": "El documento y la autoridad",
+              "type": "Nota de contexto",
+              "gloss": "firmado por los cónsules",
+              "body": "El acuerdo firmado y sellado hace visible la pretensión de legitimidad de Coriolano: entrega un instrumento de paz, no solo una explicación oral. La legitimidad que reivindica no garantiza su aceptación por los volscos. Texto: Folger V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; para el relato antiguo de la campaña y la negociación, Plutarco, Vida de Coriolano, §§27–36, https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Coriolanus%2A.html."
+            }
+          ]
+        },
+        {
+          "line": "3810–3812",
+          "speaker": "aufidius",
+          "en": "Read it not, noble lords,\nBut tell the traitor in the highest degree\nHe hath abused your powers.",
+          "es": "No lo lean, nobles señores;\ndíganle, en cambio, a este traidor de la peor especie\nque ha abusado de los poderes que ustedes le confiaron.",
+          "notes": [
+            {
+              "term": "Read it not",
+              "title": "Read it not",
+              "type": "Nota filológica",
+              "gloss": "no lo lean",
+              "body": "Imperativo negativo que impide considerar el documento: Aufidio sustituye la lectura del tratado por una acusación pública. Fuentes: Folger, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/."
+            },
+            {
+              "term": "in the highest degree",
+              "title": "in the highest degree",
+              "type": "Nota filológica",
+              "gloss": "en grado máximo; de la peor especie",
+              "body": "Intensificador aplicado a «traitor»; Aufidio formula una condena antes de que los señores examinen el acuerdo. Fuentes: Folger, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/."
+            },
+            {
+              "term": "hath abused your powers",
+              "title": "hath abused your powers",
+              "type": "Nota filológica",
+              "gloss": "ha abusado de la autoridad que le confiaron",
+              "body": "«Hath» es forma antigua de tercera persona de «have»; «powers» puede referirse a facultades de mando y fuerzas puestas a su disposición. Fuentes: Folger, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; lema: https://en.wiktionary.org/wiki/have.",
+              "lemma": "have",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/have"
+            }
+          ]
+        },
+        {
+          "line": "3813",
+          "speaker": "coriolanus",
+          "en": "“Traitor”? How now?",
+          "es": "¿«Traidor»? ¿Qué significa esto?",
+          "notes": [
+            {
+              "term": "How now?",
+              "title": "How now?",
+              "type": "Nota filológica",
+              "gloss": "¿qué pasa?; ¿qué significa esto?",
+              "body": "Interjección de sorpresa y protesta, no pregunta literal sobre el tiempo presente. Fuentes: Folger, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/."
+            }
+          ]
+        },
+        {
+          "line": "3814",
+          "speaker": "aufidius",
+          "en": "Ay, traitor, Martius.",
+          "es": "Sí, traidor, Marcio.",
+          "notes": [
+            {
+              "term": "Martius",
+              "title": "Martius",
+              "type": "Nota filológica",
+              "gloss": "Marcio",
+              "body": "Aufidio abandona deliberadamente el sobrenombre «Coriolano», ganado en la conquista de la ciudad volsca; el cambio de nombre anticipa su ataque a la identidad heroica del rival. Fuentes: Folger, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/."
+            }
+          ]
+        },
+        {
+          "line": "3815",
+          "speaker": "coriolanus",
+          "en": "Martius?",
+          "es": "¿Marcio?",
+          "notes": [
+            {
+              "term": "Martius?",
+              "title": "Martius?",
+              "type": "Nota filológica",
+              "gloss": "¿Marcio?",
+              "body": "La repetición aislada registra el impacto de ser llamado por el nombre anterior a «Coriolanus». Su interpretación como indignación es dramática, no una indicación explícita de escena. Fuentes: Folger, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/."
+            }
+          ]
         }
       ]
     }
