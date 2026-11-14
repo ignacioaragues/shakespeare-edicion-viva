@@ -27849,6 +27849,129 @@ window.SHAKESPEARE_READER_DATA = {
               "body": "La repetición aislada registra el impacto de ser llamado por el nombre anterior a «Coriolanus». Su interpretación como indignación es dramática, no una indicación explícita de escena. Fuentes: Folger, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/."
             }
           ]
+        },
+        {
+          "line": "3816–3828",
+          "speaker": "aufidius",
+          "en": "Ay, Martius, Caius Martius. Dost thou think\nI’ll grace thee with that robbery, thy stol’n name\nCoriolanus, in Corioles?\nYou lords and heads o’ th’ state, perfidiously\nHe has betrayed your business and given up\nFor certain drops of salt your city Rome—\nI say your city—to his wife and mother,\nBreaking his oath and resolution like\nA twist of rotten silk, never admitting\nCounsel o’ th’ war, but at his nurse’s tears\nHe whined and roared away your victory,\nThat pages blushed at him and men of heart\nLooked wond’ring each at other.",
+          "es": "Sí, Marcio, Cayo Marcio. ¿Crees que voy\na honrarte con ese nombre robado, Coriolano,\naquí, en Corioles?\nSeñores y gobernantes del Estado: este hombre\nha traicionado pérfidamente la misión que le confiaron\ny, a cambio de unas gotas de agua salada,\nha entregado Roma, la ciudad de ustedes —sí,\nde ustedes—, a su esposa y a su madre.\nRompió su juramento y su determinación\ncomo una hebra de seda podrida. Sin aceptar\nconsejo militar alguno, ante las lágrimas\nde su nodriza gimoteó y bramó hasta perder\nla victoria de ustedes, de tal manera que los pajes\nse sonrojaron por él y los hombres valerosos\nse miraron unos a otros, atónitos.",
+          "notes": [
+            {
+              "term": "Dost thou think",
+              "title": "Dost thou think",
+              "type": "Nota filológica",
+              "gloss": "¿crees?",
+              "body": "«Dost» es segunda persona singular histórica del auxiliar «do», concordante con «thou»; el ataque directo cambia enseguida a una acusación en tercera persona ante los señores. Fuentes: Folger Digital Texts, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; análisis interpretativo contrastado con LitCharts, «Coriolanus Act 5, Scene 6 Summary & Analysis», https://www.litcharts.com/lit/coriolanus/act-5-scene-6.",
+              "lemma": "do",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/do"
+            },
+            {
+              "term": "thy stol’n name",
+              "title": "thy stol’n name",
+              "type": "Nota filológica",
+              "gloss": "tu nombre usurpado",
+              "body": "Aufidio impugna el sobrenombre militar «Coriolanus», concedido por la conquista de Corioles (I.9). «Robbery» convierte el honor en un supuesto robo; es una acusación del personaje, no un hecho establecido. Fuentes: Folger Digital Texts, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; análisis interpretativo contrastado con LitCharts, «Coriolanus Act 5, Scene 6 Summary & Analysis», https://www.litcharts.com/lit/coriolanus/act-5-scene-6."
+            },
+            {
+              "term": "perfidiously",
+              "title": "perfidiously",
+              "type": "Nota filológica",
+              "gloss": "con perfidia; traicioneramente",
+              "body": "El adverbio califica la supuesta traición al encargo de los volscos; la condena de Aufidio forma parte de su estrategia pública. Fuentes: Folger Digital Texts, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; análisis interpretativo contrastado con LitCharts, «Coriolanus Act 5, Scene 6 Summary & Analysis», https://www.litcharts.com/lit/coriolanus/act-5-scene-6.",
+              "lemma": "perfidiously",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/perfidiously"
+            },
+            {
+              "term": "certain drops of salt",
+              "title": "certain drops of salt",
+              "type": "Nota filológica",
+              "gloss": "unas gotas saladas; lágrimas",
+              "body": "Metonimia despectiva de las lágrimas de Volumnia y Virgilia: Aufidio reduce la intervención política de ambas a una sustancia insignificante. Fuentes: Folger Digital Texts, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; análisis interpretativo contrastado con LitCharts, «Coriolanus Act 5, Scene 6 Summary & Analysis», https://www.litcharts.com/lit/coriolanus/act-5-scene-6."
+            },
+            {
+              "term": "your city Rome",
+              "title": "your city Rome",
+              "type": "Nota filológica",
+              "gloss": "Roma, la ciudad de ustedes",
+              "body": "La insistencia «I say your city» reinterpreta la ciudad enemiga como posesión ya ganada por los volscos; es una apropiación retórica, no un hecho militar consumado. Fuentes: Folger Digital Texts, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; análisis interpretativo contrastado con LitCharts, «Coriolanus Act 5, Scene 6 Summary & Analysis», https://www.litcharts.com/lit/coriolanus/act-5-scene-6."
+            },
+            {
+              "term": "A twist of rotten silk",
+              "title": "A twist of rotten silk",
+              "type": "Nota filológica",
+              "gloss": "una hebra de seda podrida",
+              "body": "Símil de la fragilidad del juramento roto: el material valioso pierde toda resistencia por la podredumbre. Fuentes: Folger Digital Texts, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; análisis interpretativo contrastado con LitCharts, «Coriolanus Act 5, Scene 6 Summary & Analysis», https://www.litcharts.com/lit/coriolanus/act-5-scene-6."
+            },
+            {
+              "term": "his nurse’s tears",
+              "title": "his nurse’s tears",
+              "type": "Nota filológica",
+              "gloss": "las lágrimas de su nodriza",
+              "body": "«Nurse» infantiliza a Coriolano y desdibuja deliberadamente la autoridad materna de Volumnia; la identificación literal de la nodriza no está confirmada en escena. Fuentes: Folger Digital Texts, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; análisis interpretativo contrastado con LitCharts, «Coriolanus Act 5, Scene 6 Summary & Analysis», https://www.litcharts.com/lit/coriolanus/act-5-scene-6."
+            },
+            {
+              "term": "He whined and roared away",
+              "title": "He whined and roared away",
+              "type": "Nota filológica",
+              "gloss": "gimoteó y bramó hasta perder",
+              "body": "Los verbos yuxtaponen quejido infantil y rugido animal; «away» expresa aquí el resultado de malgastar o hacer desaparecer la victoria. Fuentes: Folger Digital Texts, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; análisis interpretativo contrastado con LitCharts, «Coriolanus Act 5, Scene 6 Summary & Analysis», https://www.litcharts.com/lit/coriolanus/act-5-scene-6.",
+              "lemma": "whine",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/whine"
+            },
+            {
+              "term": "pages blushed",
+              "title": "pages blushed",
+              "type": "Nota filológica",
+              "gloss": "los pajes se sonrojaron",
+              "body": "La vergüenza de los muchachos sirve de contraste acusatorio con «men of heart», hombres de valor; es la caracterización interesada de Aufidio. Fuentes: Folger Digital Texts, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; análisis interpretativo contrastado con LitCharts, «Coriolanus Act 5, Scene 6 Summary & Analysis», https://www.litcharts.com/lit/coriolanus/act-5-scene-6."
+            }
+          ]
+        },
+        {
+          "line": "3829",
+          "speaker": "coriolanus",
+          "en": "Hear’st thou, Mars?",
+          "es": "¿Lo oyes, Marte?",
+          "notes": [
+            {
+              "term": "Hear’st thou",
+              "title": "Hear’st thou",
+              "type": "Nota filológica",
+              "gloss": "¿oyes tú?",
+              "body": "«Hear’st» contrae «hearest», segunda persona singular histórica con «thou». La invocación al dios de la guerra enfrenta la acusación de cobardía con la identidad marcial del protagonista. Fuentes: Folger Digital Texts, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; análisis interpretativo contrastado con LitCharts, «Coriolanus Act 5, Scene 6 Summary & Analysis», https://www.litcharts.com/lit/coriolanus/act-5-scene-6.",
+              "lemma": "hear",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/hear"
+            }
+          ]
+        },
+        {
+          "line": "3830",
+          "speaker": "aufidius",
+          "en": "Name not the god, thou boy of tears.",
+          "es": "No nombres a ese dios, muchacho llorón.",
+          "notes": [
+            {
+              "term": "boy of tears",
+              "title": "boy of tears",
+              "type": "Nota filológica",
+              "gloss": "muchacho llorón",
+              "body": "El insulto niega a Coriolano su madurez guerrera; «boy» provoca la reacción inmediata del héroe. La glosa conserva el desprecio infantilizante sin convertirlo en una descripción objetiva. Fuentes: Folger Digital Texts, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; análisis interpretativo contrastado con LitCharts, «Coriolanus Act 5, Scene 6 Summary & Analysis», https://www.litcharts.com/lit/coriolanus/act-5-scene-6."
+            }
+          ]
+        },
+        {
+          "line": "3831",
+          "speaker": "coriolanus",
+          "en": "Ha?",
+          "es": "¿Cómo?",
+          "notes": []
+        },
+        {
+          "line": "3832",
+          "speaker": "aufidius",
+          "en": "No more.",
+          "es": "Basta.",
+          "notes": []
         }
       ]
     }

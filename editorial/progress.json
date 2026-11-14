@@ -1831,15 +1831,24 @@
       "last_line": 3815,
       "editorial_state": "translated_source_checked_external_references",
       "note": "21 líneas Folger, cinco parlamentos completos; cotejo con Folger y Plutarco; notas sobre lealtad, documento de paz y pérdida del nombre. Revisión privada pendiente."
+    },
+    {
+      "id": "coriolanus-5-6-3816-3832",
+      "act": 5,
+      "scene": 6,
+      "first_line": 3816,
+      "last_line": 3832,
+      "editorial_state": "translated_source_checked_external_references",
+      "note": "17 líneas Folger; cinco parlamentos completos. Texto contrastado con Folger y comentario externo LitCharts; nueve glosas del parlamento central y notas de morfología e identidad heroica. Cotejo de libros privados pendiente."
     }
   ],
   "next_fragment": {
     "act": 5,
     "scene": 6,
-    "first_line": 3795,
-    "note": "Comienza el parlamento de Coriolano ante los señores volscos; mantenerlo íntegro hasta 3809."
+    "first_line": 3833,
+    "note": "Comienza el parlamento de Coriolano «Measureless liar»; preservar la intervención íntegra hasta 3841."
   },
   "completed_acts": [],
-  "last_update_commit": "pending_atomic_commit",
+  "last_update_commit": "1b9573f7d2a5e4bce0bd8f849d1c47807673fc25",
   "notes": "Folger online line 66 is 'We cannot, sir; we are undone already.' The original prototype had an off-by-one numbering error, corrected in this release. Text is still under editorial review."
 }
