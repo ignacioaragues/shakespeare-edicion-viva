@@ -1867,15 +1867,19 @@
       "last_line": 3879,
       "editorial_state": "translated_source_checked_external_references",
       "note": "18 líneas Folger, nueve parlamentos completos; asesinato con acotaciones conservadas; notas sobre gesto, lenguaje jurídico y Plutarco 39.4–5; libros privados pendientes."
+    },
+    {
+      "id": "coriolanus-5-6-3880-3895",
+      "act": 5,
+      "scene": 6,
+      "first_line": 3880,
+      "last_line": 3895,
+      "editorial_state": "translated_source_checked_external_references",
+      "note": "Cierre de la tragedia: 16 líneas, tres parlamentos completos, ceremonia fúnebre y notas de léxico, ética y Plutarco; cotejo privado y revisión global pendientes."
     }
   ],
-  "next_fragment": {
-    "act": 5,
-    "scene": 6,
-    "first_line": 3880,
-    "note": "Respuesta del primer señor sobre el cuerpo de Coriolano y honras funerarias; cierre de V.6."
-  },
+  "next_fragment": null,
   "completed_acts": [],
   "last_update_commit": "1b9573f7d2a5e4bce0bd8f849d1c47807673fc25",
-  "notes": "Folger online line 66 is 'We cannot, sir; we are undone already.' The original prototype had an off-by-one numbering error, corrected in this release. Text is still under editorial review."
+  "notes": "Folger online line 66 is 'We cannot, sir; we are undone already.' The original prototype had an off-by-one numbering error, corrected in this release. Text is still under editorial review.\nEl texto de los cinco actos llega al cierre Folger 3895 (V.6); pendiente revisión crítica integral, cotejo de materiales privados, auditoría de alineación y despliegue antes de marcar complete."
 }

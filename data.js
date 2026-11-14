@@ -27133,7 +27133,7 @@ window.SHAKESPEARE_READER_DATA = {
       "sourceRef": "Folger Shakespeare Library · V.6",
       "sectionLabel": "Fragmento · líneas 3711–3779",
       "introduction": "Aufidio convierte la paz acordada con Roma en motivo de venganza; sus conspiradores planean silenciar a Coriolano antes de que pueda hablar ante el pueblo.",
-      "stage": "Entra Tulio Aufidio con sus acompañantes.",
+      "stage": "Entra Tulio Aufidio con sus acompañantes.\nFinal: Salen llevando el cuerpo de Marcio. Suena una marcha fúnebre.",
       "characters": [
         {
           "id": "aufidius",
@@ -28380,6 +28380,112 @@ window.SHAKESPEARE_READER_DATA = {
               "body": "«Censure» puede denotar juicio y castigo, no solamente una reprimenda verbal. Aufidio ofrece someterse al Senado, sin que el texto garantice una investigación efectiva. Fuentes: Folger Shakespeare Library, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/",
               "lemma": "censure",
               "lemmaUrl": "https://en.wiktionary.org/wiki/censure"
+            }
+          ]
+        },
+        {
+          "line": "3880–3883",
+          "speaker": "lord1",
+          "en": "Bear from hence his body,\nAnd mourn you for him. Let him be regarded\nAs the most noble corse that ever herald\nDid follow to his urn.",
+          "es": "Lleven de aquí su cuerpo\ny guarden duelo por él. Que se lo considere\nel cadáver más noble que jamás un heraldo\nhaya acompañado hasta su urna funeraria.",
+          "notes": [
+            {
+              "term": "corse",
+              "title": "corse",
+              "type": "Nota filológica",
+              "gloss": "cadáver",
+              "body": "Forma poética e histórica de «corpse», frecuente en el lenguaje funerario; no debe confundirse con «curse». Referencias: Folger Shakespeare Library, «Coriolanus», V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/",
+              "lemma": "corse",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/corse"
+            },
+            {
+              "term": "herald",
+              "title": "herald",
+              "type": "Nota filológica",
+              "gloss": "heraldo; oficial de ceremonias",
+              "body": "La figura del heraldo evoca el ceremonial público del honor militar, que contrasta con la muerte tumultuaria. Referencias: Folger Shakespeare Library, «Coriolanus», V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/",
+              "lemma": "herald",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/herald"
+            },
+            {
+              "term": "urn",
+              "title": "urn",
+              "type": "Nota filológica",
+              "gloss": "urna funeraria",
+              "body": "La urna remite al destino funerario del cuerpo; la frase es una hipérbole de dignificación, no una indicación de cremación efectiva en escena. Referencias: Folger Shakespeare Library, «Coriolanus», V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/",
+              "lemma": "urn",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/urn"
+            }
+          ]
+        },
+        {
+          "line": "3884–3886",
+          "speaker": "second_lord",
+          "en": "His own impatience\nTakes from Aufidius a great part of blame.\nLet’s make the best of it.",
+          "es": "Su propia falta de dominio\nle quita a Aufidio buena parte de la culpa.\nProcuremos resolver esto del mejor modo posible.",
+          "notes": [
+            {
+              "term": "impatience",
+              "title": "impatience",
+              "type": "Nota filológica",
+              "gloss": "impetuosidad; falta de dominio de sí",
+              "body": "No significa simplemente impaciencia por esperar: atribuye a Coriolano una incapacidad para contener su ira. La intervención distribuye la responsabilidad del asesinato sin absolver a Aufidio. Referencias: Folger Shakespeare Library, «Coriolanus», V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/",
+              "lemma": "impatience",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/impatience"
+            },
+            {
+              "term": "Let’s make the best of it",
+              "title": "Let’s make the best of it",
+              "type": "Nota filológica",
+              "gloss": "hagamos lo mejor posible dadas las circunstancias",
+              "body": "Fórmula pragmática de gestión de una crisis ya consumada; su tono contrasta con el elogio fúnebre anterior. Referencias: Folger Shakespeare Library, «Coriolanus», V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/"
+            }
+          ]
+        },
+        {
+          "line": "3887–3895",
+          "speaker": "aufidius",
+          "en": "My rage is gone,\nAnd I am struck with sorrow.—Take him up.\nHelp, three o’ th’ chiefest soldiers; I’ll be one.—\nBeat thou the drum that it speak mournfully.—\nTrail your steel pikes. Though in this city he\nHath widowed and unchilded many a one,\nWhich to this hour bewail the injury,\nYet he shall have a noble memory. Assist.",
+          "es": "Mi furia ha desaparecido\ny me ha invadido la tristeza. Levántenlo.\nQue ayuden tres de los soldados principales; yo seré uno de ellos.\nToca el tambor de modo que suene lúgubre.\nLleven las picas de acero arrastrando. Aunque en esta ciudad\nha dejado a muchos sin esposo o sin hijos,\ny todavía hoy lloran esa desgracia,\nse conservará de él un recuerdo noble. Ayuden.",
+          "notes": [
+            {
+              "term": "struck with sorrow",
+              "title": "struck with sorrow",
+              "type": "Nota filológica",
+              "gloss": "abatido por la tristeza",
+              "body": "La pasiva metafórica invierte la violencia física anterior: quien impulsó la muerte se declara ahora golpeado por el dolor. Referencias: Folger Shakespeare Library, «Coriolanus», V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/"
+            },
+            {
+              "term": "chiefest soldiers",
+              "title": "chiefest soldiers",
+              "type": "Nota filológica",
+              "gloss": "los soldados de mayor rango",
+              "body": "Superlativo de «chief»: aquí señala a los soldados principales, apropiados para cargar honoríficamente el cadáver. Referencias: Folger Shakespeare Library, «Coriolanus», V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/",
+              "lemma": "chief",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/chief"
+            },
+            {
+              "term": "Trail your steel pikes",
+              "title": "Trail your steel pikes",
+              "type": "Nota filológica",
+              "gloss": "lleven las picas arrastrando",
+              "body": "Orden de bajar las armas en señal de duelo; el efecto ceremonial sustituye la agresión inmediatamente anterior. Referencias: Folger Shakespeare Library, «Coriolanus», V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/"
+            },
+            {
+              "term": "widowed and unchilded",
+              "title": "widowed and unchilded",
+              "type": "Nota filológica",
+              "gloss": "privado de esposos y de hijos",
+              "body": "Dos verbos transitivos derivados de sustantivos, coordinados para expresar el costo humano de la conquista de Corioles; «unchilded» es especialmente expresivo y poco usual. Referencias: Folger Shakespeare Library, «Coriolanus», V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/",
+              "lemma": "unchild",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/unchild"
+            },
+            {
+              "term": "noble memory",
+              "title": "noble memory",
+              "type": "Nota filológica",
+              "gloss": "recuerdo honorable; memoria noble",
+              "body": "La decisión final de Aufidio repara simbólicamente la honra del adversario. En Plutarco, «Vida de Coriolano», 39, los volscos le tributan sepultura honrosa y la muerte suscita duelo: Shakespeare dramatiza el viraje del enemigo hacia el homenaje. Referencias: Folger Shakespeare Library, «Coriolanus», V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; Plutarco, «Vida de Coriolano», 39, traducción inglesa de Bernadotte Perrin (1916), https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Coriolanus%2A.html"
             }
           ]
         }
