@@ -1881,5 +1881,22 @@
   "next_fragment": null,
   "completed_acts": [],
   "last_update_commit": "1b9573f7d2a5e4bce0bd8f849d1c47807673fc25",
-  "notes": "Folger online line 66 is 'We cannot, sir; we are undone already.' The original prototype had an off-by-one numbering error, corrected in this release. Text is still under editorial review.\nEl texto de los cinco actos llega al cierre Folger 3895 (V.6); pendiente revisión crítica integral, cotejo de materiales privados, auditoría de alineación y despliegue antes de marcar complete."
+  "notes": "Folger online line 66 is 'We cannot, sir; we are undone already.' The original prototype had an off-by-one numbering error, corrected in this release. Text is still under editorial review.\nEl texto de los cinco actos llega al cierre Folger 3895 (V.6); pendiente revisión crítica integral, cotejo de materiales privados, auditoría de alineación y despliegue antes de marcar complete.",
+  "editorial_reviews": [
+    {
+      "id": "coriolanus-1-1-1-16",
+      "act": 1,
+      "scene": 1,
+      "first_line": 1,
+      "last_line": 16,
+      "reviewed_on": "2026-11-15",
+      "scope": "Second pass: Spanish lexical glosses, historical morphology links, Folger comparison, First Folio spelling at surfeits on, social interpretation checked against LitCharts.",
+      "sources": [
+        "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/",
+        "https://www.vellumandveil.com/shakespeare/shakespeare-first-folio/the-tragedie-of-coriolanus",
+        "https://www.litcharts.com/lit/coriolanus/act-1-scene-1"
+      ],
+      "status": "reviewed_with_open_sources_private_books_pending"
+    }
+  ]
 }

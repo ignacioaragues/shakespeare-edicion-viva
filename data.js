@@ -161,19 +161,25 @@ window.SHAKESPEARE_READER_DATA = {
           "line": "4–5",
           "speaker": "citizen1",
           "en": "You are all resolved rather to die than to famish?",
-          "es": "¿Están todos decididos a morir antes que dejarse morir de hambre?",
+          "es": "¿Están todos decididos a morir antes que perecer de hambre?",
           "notes": [
             {
               "term": "resolved",
-              "type": "Lengua",
               "title": "resolved",
-              "body": "Aquí significa «decididos» o «resueltos», no «resignados». La construcción que sigue contrapone dos destinos terribles."
+              "type": "Nota filológica",
+              "gloss": "decididos; resueltos",
+              "body": "El participio marca una decisión colectiva: el ciudadano plantea una alternativa extrema, no una simple resignación. Referencias: Folger Digital Texts, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/",
+              "lemma": "resolve",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/resolve"
             },
             {
               "term": "famish",
-              "type": "Léxico histórico",
               "title": "famish",
-              "body": "Morir de hambre o padecer hambre extrema. En el inglés actual resulta arcaizante; el verbo to starve sería más corriente."
+              "type": "Nota filológica",
+              "gloss": "morir de hambre",
+              "body": "El verbo designa hambre extrema, incluso mortal; conserva una fuerza que no equivale al coloquial «tener hambre». Referencias: Folger Digital Texts, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/",
+              "lemma": "famish",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/famish"
             }
           ]
         },
@@ -192,9 +198,10 @@ window.SHAKESPEARE_READER_DATA = {
           "notes": [
             {
               "term": "Caius Martius",
-              "type": "Personajes",
               "title": "Caius Martius",
-              "body": "Cayo Marcio es el nombre con el que se presenta inicialmente al protagonista. Su nombre y el título de la obra no son intercambiables en todos los momentos de la acción."
+              "type": "Nota filológica",
+              "gloss": "Cayo Marcio",
+              "body": "El protagonista todavía no ha recibido el sobrenombre «Coriolanus», asociado a la campaña de Corioles. La distinción entre nombres tiene valor dramático. Referencias: Folger Digital Texts, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/"
             }
           ]
         },
@@ -206,9 +213,12 @@ window.SHAKESPEARE_READER_DATA = {
           "notes": [
             {
               "term": "’t",
-              "type": "Lengua",
               "title": "’t",
-              "body": "Forma reducida de it. Shakespeare usa constantemente estas contracciones, sobre todo en el diálogo dramático."
+              "type": "Nota filológica",
+              "gloss": "lo; ello (it)",
+              "body": "Contracción enclítica del pronombre «it» tras «know»; es un rasgo gráfico frecuente del texto dramático. Referencias: Folger Digital Texts, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/",
+              "lemma": "it",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/it"
             }
           ]
         },
@@ -220,15 +230,21 @@ window.SHAKESPEARE_READER_DATA = {
           "notes": [
             {
               "term": "corn",
-              "type": "Léxico histórico",
               "title": "corn",
-              "body": "En el inglés de Shakespeare significa «grano» o «cereal» en general, no necesariamente maíz, sentido habitual en el inglés estadounidense actual."
+              "type": "Nota filológica",
+              "gloss": "grano; cereal",
+              "body": "En el contexto inglés temprano moderno, «corn» designa grano en general y no específicamente maíz. Referencias: Folger Digital Texts, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/",
+              "lemma": "corn",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/corn"
             },
             {
               "term": "verdict",
-              "type": "Retórica",
               "title": "verdict",
-              "body": "El hablante presenta el consentimiento colectivo como si fuera un veredicto formal. La palabra tiene resonancias jurídicas, aunque aquí no hay un juicio."
+              "type": "Nota filológica",
+              "gloss": "veredicto; decisión colectiva",
+              "body": "La pregunta convierte el asentimiento de la multitud en una resolución cuasijudicial. La escena no representa un tribunal. Referencias: Folger Digital Texts, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/",
+              "lemma": "verdict",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/verdict"
             }
           ]
         },
@@ -254,27 +270,39 @@ window.SHAKESPEARE_READER_DATA = {
           "notes": [
             {
               "term": "accounted",
-              "type": "Léxico",
               "title": "accounted",
-              "body": "«Considerados», «tenidos por». No se refiere simplemente a un cálculo: hay una clasificación social implícita."
+              "type": "Nota filológica",
+              "gloss": "considerados; tenidos por",
+              "body": "El verbo señala una valoración social: la oposición entre «poor» y «good» no es solo económica. Referencias: Folger Digital Texts, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/",
+              "lemma": "account",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/account"
             },
             {
               "term": "good",
-              "type": "Semántica",
-              "title": "poor / good",
-              "body": "La oposición mezcla riqueza, estatus y valoración moral. Los patricios se consideran «buenos ciudadanos» en contraste con quienes son pobres."
+              "title": "good",
+              "type": "Nota filológica",
+              "gloss": "respetables; de buena posición",
+              "body": "«Good» se contrapone aquí a «poor» y puede implicar condición social además de estima moral; la lectura social de la frase es deliberadamente ambigua. Referencias: Folger Digital Texts, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; LitCharts, «Coriolanus Act 1, Scene 1 Summary & Analysis», https://www.litcharts.com/lit/coriolanus/act-1-scene-1",
+              "lemma": "good",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/good"
             },
             {
               "term": "What authority surfeits on",
-              "type": "Sintaxis",
               "title": "What authority surfeits on",
-              "body": "Es una relativa libre que funciona como sujeto de would relieve us. Reordenado: «The things that those in power gorge themselves on would be enough to relieve us». Authority designa colectivamente a quienes ejercen el poder."
+              "type": "Nota filológica",
+              "gloss": "aquello de lo que se atiborran los poderosos",
+              "body": "Relativa libre que funciona como sujeto de «would relieve us»; «authority» se entiende colectivamente como quienes detentan el poder. Referencias: Folger Digital Texts, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/",
+              "lemma": "surfeit",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/surfeit"
             },
             {
-              "term": "surfeits",
-              "type": "Crítica textual",
-              "title": "surfeits on / surfeits one",
-              "body": "El First Folio (1623) imprime «surfeits one»; Folger edita «surfeits on». Es una intervención textual menor, pero permite ver que la puntuación y la grafía de una edición moderna no son transparentes."
+              "term": "surfeits on",
+              "title": "surfeits on",
+              "type": "Nota filológica",
+              "gloss": "se atiborran de",
+              "body": "El First Folio (1623) presenta «surfets one»; Folger imprime «surfeits on». La diferencia exige distinguir la lectura transmitida de la regularización editorial, sin tratarla como un cambio seguro de sentido. Referencias: Folger Digital Texts, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; First Folio (1623), transcripción, https://www.vellumandveil.com/shakespeare/shakespeare-first-folio/the-tragedie-of-coriolanus",
+              "lemma": "surfeit",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/surfeit"
             }
           ]
         },
