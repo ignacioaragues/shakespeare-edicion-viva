@@ -27176,6 +27176,27 @@ window.SHAKESPEARE_READER_DATA = {
           "english": "First Lord",
           "identity": "Miembro de la autoridad volsca.",
           "color": "slate"
+        },
+        {
+          "id": "all_conspirators",
+          "name": "Todos los conspiradores",
+          "english": "All Conspirators",
+          "identity": "Conspiradores de la facción de Aufidio.",
+          "color": "slate"
+        },
+        {
+          "id": "all_people",
+          "name": "El pueblo volsco",
+          "english": "All People",
+          "identity": "Ciudadanos de Corioles presentes en la asamblea.",
+          "color": "slate"
+        },
+        {
+          "id": "second_lord",
+          "name": "Segundo señor volsco",
+          "english": "Second Lord",
+          "identity": "Autoridad volsca que exige una audiencia justa.",
+          "color": "slate"
         }
       ],
       "blocks": [
@@ -28078,6 +28099,127 @@ window.SHAKESPEARE_READER_DATA = {
               "body": "La imagen evoca el aleteo desordenado y la dispersión de los defensores. Fuentes: Folger, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/",
               "lemma": "flutter",
               "lemmaUrl": "https://en.wiktionary.org/wiki/flutter"
+            }
+          ]
+        },
+        {
+          "line": "3849–3852",
+          "speaker": "aufidius",
+          "en": "Why, noble lords,\nWill you be put in mind of his blind fortune,\nWhich was your shame, by this unholy braggart,\n’Fore your own eyes and ears?",
+          "es": "Pero, nobles señores,\n¿van a permitir que este fanfarrón impío les recuerde,\nante sus propios ojos y oídos, su fortuna ciega,\nque fue motivo de vergüenza para ustedes?",
+          "notes": [
+            {
+              "term": "blind fortune",
+              "title": "blind fortune",
+              "type": "Nota filológica",
+              "gloss": "fortuna ciega; suerte caprichosa",
+              "body": "Aufidio reduce la victoria de Coriolano en Corioles a un golpe de suerte, en oposición al relato heroico que acaba de pronunciar. Fuentes: Folger Shakespeare Library, Coriolanus, V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; First Folio, Coriolanus, V.6, facsímil textual, https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_5_Scene_6."
+            },
+            {
+              "term": "unholy braggart",
+              "title": "unholy braggart",
+              "type": "Nota filológica",
+              "gloss": "fanfarrón impío",
+              "body": "La descalificación convierte la evocación de la hazaña militar en una ofensa pública a los volscos; «unholy» añade censura moral. Fuentes: Folger Shakespeare Library, Coriolanus, V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; First Folio, Coriolanus, V.6, facsímil textual, https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_5_Scene_6.",
+              "lemma": "braggart",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/braggart"
+            },
+            {
+              "term": "’Fore your own eyes and ears",
+              "title": "’Fore your own eyes and ears",
+              "type": "Nota filológica",
+              "gloss": "ante sus propios ojos y oídos",
+              "body": "Apela a los testigos presentes y convierte la memoria de la derrota en una humillación inmediata. «’Fore» es una contracción de «before». Fuentes: Folger Shakespeare Library, Coriolanus, V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; First Folio, Coriolanus, V.6, facsímil textual, https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_5_Scene_6.",
+              "lemma": "before",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/before"
+            }
+          ]
+        },
+        {
+          "line": "3853",
+          "speaker": "all_conspirators",
+          "en": "Let him die for ’t.",
+          "es": "¡Que muera por eso!",
+          "notes": [
+            {
+              "term": "for ’t",
+              "title": "for ’t",
+              "type": "Nota filológica",
+              "gloss": "por eso; por lo que acaba de decir",
+              "body": "La contracción «’t» representa «it»; los conspiradores presentan la fanfarronería como causa suficiente para matarlo. Fuentes: Folger Shakespeare Library, Coriolanus, V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; First Folio, Coriolanus, V.6, facsímil textual, https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_5_Scene_6."
+            }
+          ]
+        },
+        {
+          "line": "3854–3856",
+          "speaker": "all_people",
+          "en": "Tear him to pieces! Do it presently! He\nkilled my son! My daughter! He killed my cousin\nMarcus! He killed my father!",
+          "es": "¡Despedácenlo! ¡Háganlo ahora mismo! ¡Mató a mi hijo! ¡A mi hija! ¡Mató a mi primo Marcio! ¡Mató a mi padre!",
+          "notes": [
+            {
+              "term": "presently",
+              "title": "presently",
+              "type": "Nota filológica",
+              "gloss": "ahora mismo; sin demora",
+              "body": "En este contexto «presently» exige acción inmediata, no una promesa de actuar más adelante. Fuentes: Folger Shakespeare Library, Coriolanus, V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; First Folio, Coriolanus, V.6, facsímil textual, https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_5_Scene_6.",
+              "lemma": "presently",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/presently"
+            },
+            {
+              "term": "my son! My daughter!",
+              "title": "my son! My daughter!",
+              "type": "Nota filológica",
+              "gloss": "¡mi hijo! ¡Mi hija!",
+              "body": "Las voces colectivas enumeran pérdidas familiares distintas. La acotación «All People» no implica necesariamente que un solo individuo pronuncie todas las acusaciones; la distribución escénica es interpretativa. Fuentes: Folger Shakespeare Library, Coriolanus, V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; First Folio, Coriolanus, V.6, facsímil textual, https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_5_Scene_6."
+            },
+            {
+              "term": "Marcus",
+              "title": "Marcus",
+              "type": "Nota filológica",
+              "gloss": "Marcio",
+              "body": "Nombre propio del pariente de una de las voces del pueblo; no debe confundirse con Cayo Marcio Coriolano. Fuentes: Folger Shakespeare Library, Coriolanus, V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; First Folio, Coriolanus, V.6, facsímil textual, https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_5_Scene_6."
+            }
+          ]
+        },
+        {
+          "line": "3857–3861",
+          "speaker": "second_lord",
+          "en": "Peace, ho! No outrage! Peace!\nThe man is noble, and his fame folds in\nThis orb o’ th’ Earth. His last offenses to us\nShall have judicious hearing. Stand, Aufidius,\nAnd trouble not the peace.",
+          "es": "¡Paz, oigan! ¡Nada de violencia! ¡Calma!\nEste hombre es noble, y su fama abarca\ntodo el orbe terrestre. Sus últimas faltas contra nosotros\nserán examinadas con justicia. Detente, Aufidio,\ny no perturbes la paz.",
+          "notes": [
+            {
+              "term": "No outrage",
+              "title": "No outrage",
+              "type": "Nota filológica",
+              "gloss": "¡nada de violencia!",
+              "body": "«Outrage» designa un acto violento o desaforado, no simplemente indignación. Fuentes: Folger Shakespeare Library, Coriolanus, V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; First Folio, Coriolanus, V.6, facsímil textual, https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_5_Scene_6.",
+              "lemma": "outrage",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/outrage"
+            },
+            {
+              "term": "his fame folds in / This orb o’ th’ Earth",
+              "title": "his fame folds in / This orb o’ th’ Earth",
+              "type": "Nota filológica",
+              "gloss": "su fama abarca todo el orbe terrestre",
+              "body": "La imagen de envolver el mundo magnifica la reputación del héroe, en contraste con la muchedumbre que exige su muerte. Fuentes: Folger Shakespeare Library, Coriolanus, V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; First Folio, Coriolanus, V.6, facsímil textual, https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_5_Scene_6."
+            },
+            {
+              "term": "judicious hearing",
+              "title": "judicious hearing",
+              "type": "Nota filológica",
+              "gloss": "audiencia justa; examen con criterio",
+              "body": "El señor reclama un procedimiento de evaluación antes de castigar al acusado; es una exigencia dentro del diálogo, no prueba de un proceso judicial histórico. Fuentes: Folger Shakespeare Library, Coriolanus, V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; First Folio, Coriolanus, V.6, facsímil textual, https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_5_Scene_6.",
+              "lemma": "judicious",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/judicious"
+            },
+            {
+              "term": "Stand, Aufidius",
+              "title": "Stand, Aufidius",
+              "type": "Nota filológica",
+              "gloss": "detente, Aufidio",
+              "body": "Imperativo de suspensión o contención: el señor intenta frenar la escalada de violencia. Fuentes: Folger Shakespeare Library, Coriolanus, V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; First Folio, Coriolanus, V.6, facsímil textual, https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_5_Scene_6.",
+              "lemma": "stand",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/stand"
             }
           ]
         }

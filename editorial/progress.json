@@ -1849,13 +1849,22 @@
       "last_line": 3848,
       "editorial_state": "translated_source_checked_external_references",
       "note": "16 líneas Folger, tres parlamentos completos, notas sobre honor, memoria y violencia; fuentes Folger y Plutarco; cotejo privado pendiente."
+    },
+    {
+      "id": "coriolanus-5-6-3849-3861",
+      "act": 5,
+      "scene": 6,
+      "first_line": 3849,
+      "last_line": 3861,
+      "editorial_state": "translated_source_checked_external_references",
+      "note": "13 líneas Folger, cuatro parlamentos completos; confrontación entre Aufidio, conspiradores, pueblo y autoridad; glosas sobre blind fortune, presently, judicious hearing; Folger y First Folio consultados; cotejo privado pendiente."
     }
   ],
   "next_fragment": {
     "act": 5,
     "scene": 6,
-    "first_line": 3849,
-    "note": "Aufidio retoma la palabra: «Why, noble lords»."
+    "first_line": 3862,
+    "note": "Coriolano desenvaina la espada; seguir por parlamentos completos, incluyendo las acotaciones del asesinato."
   },
   "completed_acts": [],
   "last_update_commit": "1b9573f7d2a5e4bce0bd8f849d1c47807673fc25",
