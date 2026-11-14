@@ -1768,13 +1768,22 @@
       "last_line": 3689,
       "editorial_state": "translated_source_checked_external_references",
       "note": "Cinco parlamentos completos, 14 líneas Folger; Folger y MIT cotejados; glosas de prevail, dislodge, Tarquins, recomforted e instrumentos. Revisión retrospectiva y cotejo privado pendientes."
+    },
+    {
+      "id": "coriolanus-5-4-3690-3702",
+      "act": 5,
+      "scene": 4,
+      "first_line": 3690,
+      "last_line": 3702,
+      "editorial_state": "translated_source_checked_external_references",
+      "note": "Cierre íntegro de V.4: seis parlamentos, Folger y MIT contrastados, glosas y referencias; cotejo privado y revisión retrospectiva pendientes."
     }
   ],
   "next_fragment": {
     "act": 5,
-    "scene": 4,
-    "first_line": 3690,
-    "note": "Respuesta de Menenio y celebración de la salvación de Roma."
+    "scene": 5,
+    "first_line": 3703,
+    "note": "Entrada triunfal de Volumnia y homenaje público en Roma; comprobar numeración Folger."
   },
   "completed_acts": [],
   "last_update_commit": "pending_atomic_commit",

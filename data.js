@@ -26470,7 +26470,7 @@ window.SHAKESPEARE_READER_DATA = {
       "scene": 4,
       "place": "Roma · una plaza pública",
       "sourceRef": "Folger Shakespeare Library · Acto V, escena 4",
-      "sectionLabel": "Edición en curso · líneas 3635–3689",
+      "sectionLabel": "Escena completa · líneas 3635–3702",
       "introduction": "Menenio y Sicinio aguardan noticias de la embajada de las mujeres. Ignoran todavía que Volumnia ha logrado persuadir a Coriolano.",
       "stage": "Entran Menenio y Sicinio.",
       "characters": [
@@ -26911,6 +26911,125 @@ window.SHAKESPEARE_READER_DATA = {
               "type": "Nota filológica",
               "gloss": "hacen bailar al sol",
               "body": "Hipérbole cósmica: la celebración colectiva parece afectar incluso al astro; no se afirma un prodigio literal. Referencias: Mowat, Barbara y Paul Werstine (eds.), William Shakespeare, Coriolanus, V.4, Folger Shakespeare Library, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.4.html."
+            }
+          ]
+        },
+        {
+          "line": "3690–3696",
+          "speaker": "menenius",
+          "en": "This is good news.\nI will go meet the ladies. This Volumnia\nIs worth of consuls, senators, patricians\nA city full; of tribunes such as you\nA sea and land full. You have prayed well today.\nThis morning for ten thousand of your throats\nI’d not have given a doit. Hark, how they joy!",
+          "es": "Estas son buenas noticias.\nIré a recibir a las mujeres. Esta Volumnia\nvale tanto como una ciudad entera de cónsules,\nsenadores y patricios; y como un mar y una tierra\nllenos de tribunos como tú. Hoy has rezado con provecho.\nEsta mañana no habría dado ni una moneda insignificante\npor diez mil vidas como la tuya. ¡Escucha cómo celebran!",
+          "notes": [
+            {
+              "term": "worth of consuls",
+              "title": "worth of consuls",
+              "type": "Nota filológica",
+              "gloss": "vale tanto como cónsules",
+              "body": "Construcción comparativa de valor, amplificada por «a city full»; la sintaxis desplaza el complemento cuantificador al verso siguiente. Referencias: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.4, Folger Shakespeare Library, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/; cotejo textual: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.4.html."
+            },
+            {
+              "term": "A sea and land full",
+              "title": "A sea and land full",
+              "type": "Nota filológica",
+              "gloss": "un mar y una tierra llenos",
+              "body": "La desmesura contrasta el mérito de Volumnia con la multitud de tribunos, insulto jocoso dirigido a Sicinio. Referencias: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.4, Folger Shakespeare Library, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/; cotejo textual: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.4.html."
+            },
+            {
+              "term": "prayed well",
+              "title": "prayed well",
+              "type": "Nota filológica",
+              "gloss": "has rezado con provecho",
+              "body": "Ironía de Menenio: Sicinio ha pedido auxilio divino cuando ya se había obtenido la salvación. Referencias: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.4, Folger Shakespeare Library, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/; cotejo textual: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.4.html."
+            },
+            {
+              "term": "doit",
+              "title": "doit",
+              "type": "Nota filológica",
+              "gloss": "moneda de valor ínfimo",
+              "body": "Doit designa una pequeña moneda; Menenio declara que antes no habría apostado nada por la supervivencia de los tribunos. Referencias: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.4, Folger Shakespeare Library, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/; cotejo textual: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.4.html.",
+              "lemma": "doit",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/doit"
+            },
+            {
+              "term": "Hark",
+              "title": "Hark",
+              "type": "Nota filológica",
+              "gloss": "escucha",
+              "body": "Imperativo de percepción que devuelve la atención al júbilo audible fuera de escena. Referencias: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.4, Folger Shakespeare Library, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/; cotejo textual: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.4.html.",
+              "lemma": "hark",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/hark"
+            }
+          ]
+        },
+        {
+          "line": "3697–3698",
+          "speaker": "sicinius",
+          "en": "First, the gods bless\nyou for your tidings; next, accept my thankfulness.",
+          "es": "Ante todo, que los dioses te bendigan\npor las noticias que traes; después, acepta mi agradecimiento.",
+          "notes": [
+            {
+              "term": "tidings",
+              "title": "tidings",
+              "type": "Nota filológica",
+              "gloss": "noticias",
+              "body": "Sustantivo plural convencional en inglés antiguo y moderno temprano para las novedades comunicadas. Referencias: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.4, Folger Shakespeare Library, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/; cotejo textual: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.4.html.",
+              "lemma": "tidings",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/tidings"
+            }
+          ]
+        },
+        {
+          "line": "3699",
+          "speaker": "second-messenger",
+          "en": "Sir, we have all great cause to give great thanks.",
+          "es": "Señor, todos tenemos sobrados motivos para dar las gracias.",
+          "notes": [
+            {
+              "term": "great cause to give great thanks",
+              "title": "great cause to give great thanks",
+              "type": "Nota filológica",
+              "gloss": "sobrados motivos para dar las gracias",
+              "body": "La repetición de great intensifica la gratitud colectiva y desplaza el mérito de la noticia hacia la salvación compartida. Referencias: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.4, Folger Shakespeare Library, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/; cotejo textual: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.4.html."
+            }
+          ]
+        },
+        {
+          "line": "3700",
+          "speaker": "sicinius",
+          "en": "They are near the city?",
+          "es": "¿Están cerca de la ciudad?"
+        },
+        {
+          "line": "3701",
+          "speaker": "second-messenger",
+          "en": "Almost at point to enter.",
+          "es": "Están a punto de entrar.",
+          "notes": [
+            {
+              "term": "at point to enter",
+              "title": "at point to enter",
+              "type": "Nota filológica",
+              "gloss": "a punto de entrar",
+              "body": "Locución que expresa inminencia; «almost» añade un matiz de proximidad temporal. Referencias: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.4, Folger Shakespeare Library, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/; cotejo textual: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.4.html.",
+              "lemma": "point",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/point"
+            }
+          ]
+        },
+        {
+          "line": "3702",
+          "speaker": "sicinius",
+          "en": "We’ll meet them, and help the joy.",
+          "es": "Salgamos a recibirlas y sumémonos a la alegría.",
+          "notes": [
+            {
+              "term": "help the joy",
+              "title": "help the joy",
+              "type": "Nota filológica",
+              "gloss": "sumémonos a la alegría",
+              "body": "Help funciona aquí como «acrecentar» o «contribuir a» la celebración, no como auxiliar a una persona. Referencias: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.4, Folger Shakespeare Library, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/; cotejo textual: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.4.html.",
+              "lemma": "help",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/help"
             }
           ]
         }
