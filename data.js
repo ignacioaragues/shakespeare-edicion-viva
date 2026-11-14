@@ -778,28 +778,86 @@ window.SHAKESPEARE_READER_DATA = {
           "es": "Les aseguro, amigos, que los patricios se preocupan por ustedes con la mayor generosidad. En cuanto a sus necesidades y a lo que sufren por esta escasez, tanto les serviría golpear el cielo con sus bastones como alzarlos contra el Estado romano. Este seguirá su curso y romperá diez mil ataduras más resistentes que cualquier obstáculo que ustedes puedan oponerle. La escasez la causan los dioses, no los patricios: deben buscar remedio de rodillas ante ellos, no con las armas. ¡Ay! La desgracia los arrastra hacia males aún mayores, y ustedes calumnian a quienes gobiernan el Estado, que los cuidan como padres, llamándolos enemigos.",
           "notes": [
             {
-              "term": "charitable care",
-              "type": "Retórica",
+              "term": "most charitable care",
               "title": "most charitable care",
-              "body": "Menenio atribuye a los patricios una solicitud paternal y caritativa. La afirmación forma parte de su defensa política, no es un hecho que la edición deba dar por probado."
+              "type": "Nota filológica",
+              "gloss": "el mayor cuidado caritativo",
+              "body": "La declaración de Menenio presenta la tutela patricia como beneficencia paternal; es una afirmación interesada del personaje, contradicha enseguida por el ciudadano. Referencias: Folger, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; Folger, Textual Notes, https://www.folger.edu/explore/shakespeares-works/coriolanus/textual-notes/."
+            },
+            {
+              "term": "your wants",
+              "title": "your wants",
+              "type": "Nota filológica",
+              "gloss": "sus necesidades; privaciones",
+              "body": "«Wants» designa aquí carencias materiales, no deseos voluntarios. Referencias: Folger, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; Folger, Textual Notes, https://www.folger.edu/explore/shakespeares-works/coriolanus/textual-notes/.",
+              "lemma": "want",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/want"
+            },
+            {
+              "term": "dearth",
+              "title": "dearth",
+              "type": "Nota filológica",
+              "gloss": "escasez de alimentos; carestía",
+              "body": "Menenio atribuye la escasez a los dioses, desplazando la responsabilidad política; la réplica ciudadana insistirá en los graneros llenos. Referencias: Folger, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; Folger, Textual Notes, https://www.folger.edu/explore/shakespeares-works/coriolanus/textual-notes/.",
+              "lemma": "dearth",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/dearth"
+            },
+            {
+              "term": "Strike at the heaven with your staves",
+              "title": "Strike at the heaven with your staves",
+              "type": "Nota filológica",
+              "gloss": "golpear el cielo con sus bastones",
+              "body": "La comparación desacredita la rebelión como inútil, equiparando la resistencia al Estado con un ataque contra el cielo. Referencias: Folger, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; Folger, Textual Notes, https://www.folger.edu/explore/shakespeares-works/coriolanus/textual-notes/."
+            },
+            {
+              "term": "whose course will on",
+              "title": "whose course will on",
+              "type": "Nota filológica",
+              "gloss": "que seguirá su curso",
+              "body": "La elipsis verbal y la inversión enfatizan el avance inexorable del Estado; «on» señala continuidad de movimiento. Referencias: Folger, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; Folger, Textual Notes, https://www.folger.edu/explore/shakespeares-works/coriolanus/textual-notes/.",
+              "lemma": "will",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/will"
             },
             {
               "term": "curbs",
-              "type": "Léxico",
               "title": "curbs",
-              "body": "Frenos, trabas o ataduras que contienen una fuerza. La imagen presenta al Estado como un poder imposible de detener."
+              "type": "Nota filológica",
+              "gloss": "frenos; trabas",
+              "body": "«Curbs» evoca los frenos que restringen un caballo o un movimiento: el Estado rompería obstáculos mucho más fuertes que los ciudadanos. Referencias: Folger, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; Folger, Textual Notes, https://www.folger.edu/explore/shakespeares-works/coriolanus/textual-notes/.",
+              "lemma": "curb",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/curb"
+            },
+            {
+              "term": "Of more strong link",
+              "title": "Of more strong link",
+              "type": "Nota filológica",
+              "gloss": "de eslabones más resistentes",
+              "body": "La construcción comparativa «more strong» corresponde a «stronger» en inglés moderno; «link» sostiene la imagen de cadenas. Referencias: Folger, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; Folger, Textual Notes, https://www.folger.edu/explore/shakespeares-works/coriolanus/textual-notes/.",
+              "lemma": "strong",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/strong"
             },
             {
               "term": "Your knees to them, not arms",
-              "type": "Retórica",
-              "title": "rodillas, no armas",
-              "body": "La antítesis contrapone la súplica religiosa a la rebelión armada. Them remite a los dioses, no a los patricios."
+              "title": "Your knees to them, not arms",
+              "type": "Nota filológica",
+              "gloss": "ante ellos, de rodillas, no con armas",
+              "body": "Antítesis entre súplica religiosa y lucha armada. El pronombre «them» remite a los dioses. Referencias: Folger, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; Folger, Textual Notes, https://www.folger.edu/explore/shakespeares-works/coriolanus/textual-notes/."
+            },
+            {
+              "term": "transported by calamity",
+              "title": "transported by calamity",
+              "type": "Nota filológica",
+              "gloss": "arrastrados por la desgracia",
+              "body": "«Transported» indica un arrebato que los lleva a mayores males; no un traslado físico literal. Referencias: Folger, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; Folger, Textual Notes, https://www.folger.edu/explore/shakespeares-works/coriolanus/textual-notes/.",
+              "lemma": "transport",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/transport"
             },
             {
               "term": "helms o’ th’ state",
-              "type": "Metáfora",
               "title": "helms o’ th’ state",
-              "body": "Helm designa el timón y, por metonimia, a quienes conducen el Estado. La metáfora náutica enlaza gobierno y navegación."
+              "type": "Nota filológica",
+              "gloss": "los timones del Estado; sus gobernantes",
+              "body": "Metonimia náutica: quienes manejan el timón representan a los dirigentes. La imagen complementa la metáfora de la tutela paterna. Referencias: Folger, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; Folger, Textual Notes, https://www.folger.edu/explore/shakespeares-works/coriolanus/textual-notes/."
             }
           ]
         },

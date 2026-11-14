@@ -1941,6 +1941,21 @@
         "https://www.sparknotes.com/shakespeare/coriolanus/section1/"
       ],
       "status": "reviewed_with_open_sources_private_books_pending"
+    },
+    {
+      "id": "coriolanus-1-1-67-80",
+      "act": 1,
+      "scene": 1,
+      "first_line": 67,
+      "last_line": 80,
+      "reviewed_on": "2026-11-15",
+      "scope": "Segunda pasada: diez fichas con glosa contextual y enlaces léxicos; análisis de responsabilidad divina, tutela paternal, imagen náutica y fuerza estatal; cotejo con Folger y su aparato textual; traducción y localizadores estables.",
+      "sources": [
+        "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/",
+        "https://www.folger.edu/explore/shakespeares-works/coriolanus/textual-notes/",
+        "https://www.litcharts.com/lit/coriolanus/act-1-scene-1"
+      ],
+      "status": "reviewed_with_open_sources_private_books_pending"
     }
   ]
 }
