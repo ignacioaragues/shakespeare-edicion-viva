@@ -1786,13 +1786,22 @@
       "last_line": 3710,
       "editorial_state": "translated_source_checked_external_references",
       "note": "Escena completa: dos intervenciones, Folger y MIT cotejados; cinco glosas filológicas con referencias. Cotejo privado y revisión retrospectiva pendientes."
+    },
+    {
+      "id": "coriolanus-5-6-3711-3733",
+      "act": 5,
+      "scene": 6,
+      "first_line": 3711,
+      "last_line": 3733,
+      "editorial_state": "translated_source_checked_external_references",
+      "note": "Siete parlamentos completos; cotejo Folger/MIT y nueve notas con glosas. Revisión bibliográfica retrospectiva pendiente."
     }
   ],
   "next_fragment": {
     "act": 5,
     "scene": 6,
-    "first_line": 3711,
-    "note": "Inicio de la última escena, en Antium: Aufidio y sus acusaciones ante los magistrados volscos. Verificar numeración Folger."
+    "first_line": 3734,
+    "note": "Continúa el extenso parlamento de Aufidio: no cortar en medio de la intervención."
   },
   "completed_acts": [],
   "last_update_commit": "pending_atomic_commit",

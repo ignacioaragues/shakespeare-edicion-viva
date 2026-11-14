@@ -35,7 +35,8 @@ window.SHAKESPEARE_READER_DATA = {
         "coriolanus-5-2",
         "coriolanus-5-3",
         "coriolanus-5-4",
-        "coriolanus-5-5"
+        "coriolanus-5-5",
+        "coriolanus-5-6"
       ]
     }
   ],
@@ -27120,6 +27121,188 @@ window.SHAKESPEARE_READER_DATA = {
           "en": "Welcome, ladies, welcome!",
           "es": "¡Bienvenidas, señoras, bienvenidas!",
           "after": "Suenan tambores y trompetas en una fanfarria. Salen todos."
+        }
+      ]
+    },
+    {
+      "id": "coriolanus-5-6",
+      "workId": "coriolanus",
+      "act": 5,
+      "scene": 6,
+      "place": "Antium · plaza pública",
+      "sourceRef": "Folger Shakespeare Library · V.6",
+      "sectionLabel": "Fragmento · líneas 3711–3733",
+      "introduction": "Aufidio prepara la acusación pública contra Coriolano y sus partidarios calculan el desenlace de la rivalidad.",
+      "stage": "Entra Tulio Aufidio con sus acompañantes.",
+      "characters": [
+        {
+          "id": "aufidius",
+          "name": "Tulio Aufidio",
+          "english": "Tullus Aufidius",
+          "identity": "General volsco.",
+          "color": "rust"
+        },
+        {
+          "id": "conspirator1",
+          "name": "Primer conspirador",
+          "english": "First Conspirator",
+          "identity": "Partidario de Aufidio.",
+          "color": "slate"
+        },
+        {
+          "id": "conspirator2",
+          "name": "Segundo conspirador",
+          "english": "Second Conspirator",
+          "identity": "Partidario de Aufidio.",
+          "color": "slate"
+        },
+        {
+          "id": "conspirator3",
+          "name": "Tercer conspirador",
+          "english": "Third Conspirator",
+          "identity": "Partidario de Aufidio.",
+          "color": "slate"
+        }
+      ],
+      "blocks": [
+        {
+          "line": "3711–3719",
+          "speaker": "aufidius",
+          "en": "Go tell the lords o’ th’ city I am here.\nDeliver them this paper. Having read it,\nBid them repair to th’ marketplace, where I,\nEven in theirs and in the commons’ ears,\nWill vouch the truth of it. Him I accuse\nThe city ports by this hath entered and\nIntends t’ appear before the people, hoping\nTo purge himself with words. Dispatch.",
+          "es": "Vayan a decirles a los señores de la ciudad que estoy aquí.\nEntréguenles este escrito. Cuando lo hayan leído,\npídanles que acudan a la plaza del mercado, donde yo,\nante ellos y ante el pueblo,\nconfirmaré que cuanto dice es verdad. El hombre al que acuso\nya habrá entrado por las puertas de la ciudad\ny pretende presentarse ante el pueblo con la esperanza\nde exculparse con palabras. Apresúrense.",
+          "after": "Aufidio entrega el escrito. Salen los acompañantes. Entran tres o cuatro conspiradores de su partido.",
+          "notes": [
+            {
+              "term": "repair",
+              "title": "repair",
+              "type": "Nota filológica",
+              "gloss": "acudir; dirigirse",
+              "body": "Repair to es un verbo de movimiento, no «reparar». Fuente: Folger Digital Texts, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; contraste: https://shakespeare.mit.edu/coriolanus/coriolanus.5.6.html.",
+              "lemma": "repair",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/repair"
+            },
+            {
+              "term": "ports",
+              "title": "ports",
+              "type": "Nota filológica",
+              "gloss": "puertas de la ciudad",
+              "body": "Ports se refiere a accesos urbanos, no a puertos marítimos. Fuente: Folger Digital Texts, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; contraste: https://shakespeare.mit.edu/coriolanus/coriolanus.5.6.html.",
+              "lemma": "port",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/port"
+            },
+            {
+              "term": "purge himself",
+              "title": "purge himself",
+              "type": "Nota filológica",
+              "gloss": "exculparse",
+              "body": "Purge expresa aquí limpiar el propio nombre frente a una acusación. Fuente: Folger Digital Texts, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; contraste: https://shakespeare.mit.edu/coriolanus/coriolanus.5.6.html.",
+              "lemma": "purge",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/purge"
+            }
+          ]
+        },
+        {
+          "line": "3720",
+          "speaker": "aufidius",
+          "en": "Most welcome!",
+          "es": "¡Sean muy bienvenidos!"
+        },
+        {
+          "line": "3721",
+          "speaker": "conspirator1",
+          "en": "How is it with our general?",
+          "es": "¿Cómo está nuestro general?"
+        },
+        {
+          "line": "3722–3724",
+          "speaker": "aufidius",
+          "en": "Even so\nAs with a man by his own alms empoisoned\nAnd with his charity slain.",
+          "es": "Como un hombre\nenvenenado por sus propias limosnas\ny muerto a causa de su generosidad.",
+          "notes": [
+            {
+              "term": "alms",
+              "title": "alms",
+              "type": "Nota filológica",
+              "gloss": "limosnas; dádivas",
+              "body": "La paradoja convierte la generosidad en causa de ruina. El referente preciso de la imagen admite discusión. Fuente: Folger Digital Texts, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; contraste: https://shakespeare.mit.edu/coriolanus/coriolanus.5.6.html.",
+              "lemma": "alms",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/alms"
+            },
+            {
+              "term": "empoisoned",
+              "title": "empoisoned",
+              "type": "Nota filológica",
+              "gloss": "envenenado",
+              "body": "Forma histórica de poisoned; prolonga la metáfora de una caridad mortífera. Fuente: Folger Digital Texts, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; contraste: https://shakespeare.mit.edu/coriolanus/coriolanus.5.6.html.",
+              "lemma": "empoison",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/empoison"
+            }
+          ]
+        },
+        {
+          "line": "3725–3728",
+          "speaker": "conspirator2",
+          "en": "Most noble sir,\nIf you do hold the same intent wherein\nYou wished us parties, we’ll deliver you\nOf your great danger.",
+          "es": "Nobilísimo señor,\nsi mantiene el propósito para el que quiso\nhacernos partícipes, lo libraremos\ndel grave peligro que corre.",
+          "notes": [
+            {
+              "term": "parties",
+              "title": "parties",
+              "type": "Nota filológica",
+              "gloss": "partícipes; cómplices",
+              "body": "Se refiere a quienes participan en un plan, no a una celebración. Fuente: Folger Digital Texts, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; contraste: https://shakespeare.mit.edu/coriolanus/coriolanus.5.6.html.",
+              "lemma": "party",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/party"
+            },
+            {
+              "term": "deliver you",
+              "title": "deliver you",
+              "type": "Nota filológica",
+              "gloss": "librarlo",
+              "body": "Deliver significa aquí salvar de un peligro, no entregar. Fuente: Folger Digital Texts, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; contraste: https://shakespeare.mit.edu/coriolanus/coriolanus.5.6.html.",
+              "lemma": "deliver",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/deliver"
+            }
+          ]
+        },
+        {
+          "line": "3729–3730",
+          "speaker": "aufidius",
+          "en": "Sir, I cannot tell.\nWe must proceed as we do find the people.",
+          "es": "Señor, todavía no puedo decirlo.\nDebemos actuar según la disposición que encontremos en el pueblo.",
+          "notes": [
+            {
+              "term": "as we do find the people",
+              "title": "as we do find the people",
+              "type": "Nota filológica",
+              "gloss": "según la disposición del pueblo",
+              "body": "Aufidio supedita la acción a la reacción de la multitud; no implica necesariamente un arrepentimiento. Fuente: Folger Digital Texts, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; contraste: https://shakespeare.mit.edu/coriolanus/coriolanus.5.6.html."
+            }
+          ]
+        },
+        {
+          "line": "3731–3733",
+          "speaker": "conspirator3",
+          "en": "The people will remain uncertain whilst\n’Twixt you there’s difference, but the fall of either\nMakes the survivor heir of all.",
+          "es": "El pueblo seguirá indeciso mientras\nhaya discordia entre ustedes dos; pero la caída de cualquiera\ndejará al superviviente como heredero de todo.",
+          "notes": [
+            {
+              "term": "’Twixt",
+              "title": "’Twixt",
+              "type": "Nota filológica",
+              "gloss": "entre",
+              "body": "Contracción de betwixt. Fuente: Folger Digital Texts, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; contraste: https://shakespeare.mit.edu/coriolanus/coriolanus.5.6.html.",
+              "lemma": "betwixt",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/betwixt"
+            },
+            {
+              "term": "heir of all",
+              "title": "heir of all",
+              "type": "Nota filológica",
+              "gloss": "heredero de todo",
+              "body": "Metáfora sucesoria: quien sobreviva a la caída del otro monopolizará su autoridad. Fuente: Folger Digital Texts, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; contraste: https://shakespeare.mit.edu/coriolanus/coriolanus.5.6.html."
+            }
+          ]
         }
       ]
     }
