@@ -26487,6 +26487,13 @@ window.SHAKESPEARE_READER_DATA = {
           "english": "Sicinius Velutus",
           "identity": "Tribuno de la plebe, preocupado por la amenaza sobre Roma.",
           "color": "olive"
+        },
+        {
+          "id": "messenger",
+          "name": "Mensajero",
+          "english": "Messenger",
+          "identity": "Trae noticias de la violencia contra los tribunos.",
+          "color": "slate"
         }
       ],
       "blocks": [
@@ -26674,6 +26681,115 @@ window.SHAKESPEARE_READER_DATA = {
               "body": "Want significa aquí carecer de, no desear. La exageración culmina la descripción de un Coriolano casi divino, precisamente cuando el espectador sabe que ha cedido. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.4, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.4.html.",
               "lemma": "want",
               "lemmaUrl": "https://en.wiktionary.org/wiki/want"
+            }
+          ]
+        },
+        {
+          "line": "3660",
+          "speaker": "sicinius",
+          "en": "Yes, mercy, if you report him truly.",
+          "es": "Sí, que los dioses se apiaden de nosotros, si lo describes tal como es.",
+          "notes": [
+            {
+              "term": "mercy",
+              "title": "mercy",
+              "type": "Nota filológica",
+              "gloss": "piedad",
+              "body": "Exclamación elíptica que pide misericordia, no atribuye clemencia a Coriolano. Referencias: Mowat y Werstine (eds.), Coriolanus, V.4, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/; cotejo MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.4.html."
+            }
+          ]
+        },
+        {
+          "line": "3661–3665",
+          "speaker": "menenius",
+          "en": "I paint him in the character. Mark what\nmercy his mother shall bring from him. There is\nno more mercy in him than there is milk in a male\ntiger. That shall our poor city find, and all this is\nlong of you.",
+          "es": "Lo retrato tal como es. Ya verás cuánta\npiedad conseguirá arrancarle su madre. Hay\ntanta misericordia en él como leche en un tigre\nmacho. Nuestra pobre ciudad lo comprobará,\ny todo esto es culpa tuya.",
+          "notes": [
+            {
+              "term": "in the character",
+              "title": "in the character",
+              "type": "Nota filológica",
+              "gloss": "fielmente; tal como es",
+              "body": "Character remite a los rasgos distintivos del retratado. Referencias: Mowat y Werstine (eds.), Coriolanus, V.4, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/; cotejo MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.4.html."
+            },
+            {
+              "term": "milk in a male tiger",
+              "title": "milk in a male tiger",
+              "type": "Nota filológica",
+              "gloss": "leche en un tigre macho",
+              "body": "Hipérbole de imposibilidad: el macho no amamanta. Referencias: Mowat y Werstine (eds.), Coriolanus, V.4, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/; cotejo MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.4.html."
+            },
+            {
+              "term": "long of you",
+              "title": "long of you",
+              "type": "Nota filológica",
+              "gloss": "por culpa tuya",
+              "body": "Locución histórica que atribuye causalidad y responsabilidad. Referencias: Mowat y Werstine (eds.), Coriolanus, V.4, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/; cotejo MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.4.html.",
+              "lemma": "long",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/long"
+            }
+          ]
+        },
+        {
+          "line": "3666",
+          "speaker": "sicinius",
+          "en": "The gods be good unto us.",
+          "es": "Que los dioses sean benévolos con nosotros."
+        },
+        {
+          "line": "3667–3670",
+          "speaker": "menenius",
+          "en": "No, in such a case the gods will not be good\nunto us. When we banished him, we respected not\nthem; and he returning to break our necks, they\nrespect not us.",
+          "es": "No. En semejante situación, los dioses no\nserán benévolos con nosotros. Cuando lo desterramos,\nno mostramos respeto por ellos; y ahora que él\nregresa para quebrarnos el cuello, ellos no nos respetan.",
+          "notes": [
+            {
+              "term": "respected not them",
+              "title": "respected not them",
+              "type": "Nota filológica",
+              "gloss": "no los respetamos",
+              "body": "Menenio interpreta el destierro como una ofensa religiosa; es una atribución del personaje, no un hecho sobrenatural confirmado. Referencias: Mowat y Werstine (eds.), Coriolanus, V.4, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/; cotejo MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.4.html."
+            },
+            {
+              "term": "he returning",
+              "title": "he returning",
+              "type": "Nota filológica",
+              "gloss": "ahora que él regresa",
+              "body": "Construcción absoluta con sujeto explícito. Referencias: Mowat y Werstine (eds.), Coriolanus, V.4, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/; cotejo MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.4.html.",
+              "lemma": "return",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/return"
+            }
+          ]
+        },
+        {
+          "line": "3671–3675",
+          "speaker": "messenger",
+          "en": "Sir, if you’d save your life, fly to your house.\nThe plebeians have got your fellow tribune\nAnd hale him up and down, all swearing if\nThe Roman ladies bring not comfort home,\nThey’ll give him death by inches.",
+          "es": "Señor, si quieres salvar la vida, huye a tu casa.\nLos plebeyos han apresado a tu compañero tribuno\ny lo arrastran de un lado a otro. Todos juran que,\nsi las mujeres romanas no regresan con buenas noticias,\nlo harán morir poco a poco.",
+          "notes": [
+            {
+              "term": "fly to your house",
+              "title": "fly to your house",
+              "type": "Nota filológica",
+              "gloss": "huye a tu casa",
+              "body": "Fly es aquí el imperativo de huir. Referencias: Mowat y Werstine (eds.), Coriolanus, V.4, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/; cotejo MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.4.html.",
+              "lemma": "fly",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/fly"
+            },
+            {
+              "term": "hale him up and down",
+              "title": "hale him up and down",
+              "type": "Nota filológica",
+              "gloss": "lo arrastran de un lado a otro",
+              "body": "Hale expresa tirar violentamente de alguien. Referencias: Mowat y Werstine (eds.), Coriolanus, V.4, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/; cotejo MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.4.html.",
+              "lemma": "hale",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/hale"
+            },
+            {
+              "term": "death by inches",
+              "title": "death by inches",
+              "type": "Nota filológica",
+              "gloss": "muerte lenta",
+              "body": "Amenaza de suplicio gradual sin método explícito. Referencias: Mowat y Werstine (eds.), Coriolanus, V.4, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/; cotejo MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.4.html."
             }
           ]
         }

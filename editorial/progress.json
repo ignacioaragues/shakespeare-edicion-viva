@@ -1750,13 +1750,22 @@
       "last_line": 3659,
       "editorial_state": "translated_source_checked_external_references",
       "note": "Siete parlamentos completos; cotejo Folger/MIT, comentarios LitCharts y notas con glosas. Revisión retrospectiva y cotejo privado pendientes."
+    },
+    {
+      "id": "coriolanus-5-4-3660-3675",
+      "act": 5,
+      "scene": 4,
+      "first_line": 3660,
+      "last_line": 3675,
+      "editorial_state": "translated_source_checked_external_references",
+      "note": "Cinco parlamentos completos, Folger y MIT cotejados; notas con glosas. Cotejo privado y revisión retrospectiva pendientes."
     }
   ],
   "next_fragment": {
     "act": 5,
     "scene": 4,
-    "first_line": 3660,
-    "note": "Respuesta de Sicinio y continuación de Menenio; respetar límites de parlamentos."
+    "first_line": 3676,
+    "note": "Segundo mensajero: anuncio de la salvación de Roma."
   },
   "completed_acts": [],
   "last_update_commit": "pending_atomic_commit",
