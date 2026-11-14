@@ -1911,6 +1911,21 @@
         "https://www.litcharts.com/lit/coriolanus/act-1-scene-1"
       ],
       "status": "reviewed_with_open_sources_private_books_pending"
+    },
+    {
+      "id": "coriolanus-1-1-25-43",
+      "act": 1,
+      "scene": 1,
+      "first_line": 25,
+      "last_line": 43,
+      "reviewed_on": "2026-11-15",
+      "scope": "Segunda pasada de nueve fichas existentes; glosas contextuales, morfología de hath, motivaciones de Marcio y distinción entre orgullo y codicia. Parlamentos e identificadores estables; sin cambios de traducción.",
+      "sources": [
+        "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/",
+        "https://www.shakespeare-online.com/plays/corio_1_1.html",
+        "https://www.litcharts.com/lit/coriolanus/act-1-scene-1"
+      ],
+      "status": "reviewed_with_open_sources_private_books_pending"
     }
   ]
 }

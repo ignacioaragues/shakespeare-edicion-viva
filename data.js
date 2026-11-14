@@ -424,7 +424,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "commonalty",
               "type": "Léxico histórico",
               "title": "commonalty",
-              "body": "El conjunto de la gente común, especialmente en contraposición con los grupos privilegiados; «el pueblo llano»."
+              "body": "«Commonalty» designa al conjunto de la población no privilegiada; el insulto «dog» pertenece a la voz colectiva de los ciudadanos, no al narrador. Fuentes: Folger, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; Shakespeare Online, Act I, scene 1, https://www.shakespeare-online.com/plays/corio_1_1.html; LitCharts, Act 1, Scene 1 (lectura interpretativa), https://www.litcharts.com/lit/coriolanus/act-1-scene-1.",
+              "gloss": "el pueblo llano"
             }
           ]
         },
@@ -438,7 +439,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "Consider you",
               "type": "Sintaxis",
               "title": "Consider you",
-              "body": "Interrogativa sin el auxiliar do. Un lector moderno esperaría «Do you consider…?»."
+              "body": "Interrogación sin auxiliar «do», posible en el inglés de Shakespeare; el Segundo ciudadano recuerda los servicios militares de Marcio. Fuentes: Folger, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; Shakespeare Online, Act I, scene 1, https://www.shakespeare-online.com/plays/corio_1_1.html; LitCharts, Act 1, Scene 1 (lectura interpretativa), https://www.litcharts.com/lit/coriolanus/act-1-scene-1.",
+              "gloss": "¿tienen ustedes en cuenta?"
             }
           ]
         },
@@ -452,7 +454,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "but that",
               "type": "Sintaxis",
               "title": "but that",
-              "body": "En esta construcción equivale aproximadamente a «si no fuera porque». Introduce la razón por la que el hablante retira su elogio."
+              "body": "La locución introduce la excepción que impide el elogio; «good report» es una buena opinión pública, no un informe escrito. Fuentes: Folger, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; Shakespeare Online, Act I, scene 1, https://www.shakespeare-online.com/plays/corio_1_1.html; LitCharts, Act 1, Scene 1 (lectura interpretativa), https://www.litcharts.com/lit/coriolanus/act-1-scene-1.",
+              "gloss": "si no fuera porque"
             }
           ]
         },
@@ -466,7 +469,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "Nay",
               "type": "Crítica textual",
               "title": "¿Quién pronuncia esta frase?",
-              "body": "Este es un caso interesante: el First Folio atribuye la réplica al conjunto de los ciudadanos (All); la edición Folger la asigna al Segundo ciudadano. La atribución es una decisión editorial y afecta ligeramente la dinámica dramática."
+              "body": "La réplica rechaza la atribución de motivos maliciosos. La asignación del parlamento al Segundo ciudadano en Folger debe distinguirse de las atribuciones de otros testimonios editoriales. Fuentes: Folger, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; Shakespeare Online, Act I, scene 1, https://www.shakespeare-online.com/plays/corio_1_1.html; LitCharts, Act 1, Scene 1 (lectura interpretativa), https://www.litcharts.com/lit/coriolanus/act-1-scene-1.",
+              "gloss": "no; de ninguna manera"
             }
           ]
         },
@@ -480,19 +484,24 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "hath",
               "type": "Lengua",
               "title": "hath",
-              "body": "Tercera persona singular de have. Equivale al inglés actual has."
+              "body": "Forma histórica de tercera persona singular de «have», correspondiente a «has»; en «what he hath done» funciona como auxiliar del perfecto. Fuentes: Folger, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; Shakespeare Online, Act I, scene 1, https://www.shakespeare-online.com/plays/corio_1_1.html; LitCharts, Act 1, Scene 1 (lectura interpretativa), https://www.litcharts.com/lit/coriolanus/act-1-scene-1.",
+              "gloss": "ha; tiene (según contexto)",
+              "lemma": "have",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/have"
             },
             {
               "term": "soft-conscienced",
               "type": "Semántica",
               "title": "soft-conscienced",
-              "body": "Quienes juzgan con una conciencia demasiado blanda o indulgente. El primer ciudadano desacredita de antemano la lectura patriótica de las hazañas."
+              "body": "Compuesto valorativo con el que el Primer ciudadano desautoriza la explicación patriótica de las hazañas; no implica necesariamente falta de inteligencia. Fuentes: Folger, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; Shakespeare Online, Act I, scene 1, https://www.shakespeare-online.com/plays/corio_1_1.html; LitCharts, Act 1, Scene 1 (lectura interpretativa), https://www.litcharts.com/lit/coriolanus/act-1-scene-1.",
+              "gloss": "de juicio indulgente"
             },
             {
               "term": "altitude of his virtue",
               "type": "Interpretación",
               "title": "altitude of his virtue",
-              "body": "La imagen de la altura concede que la virtud de Marcio es grande, pero sugiere que su orgullo crece hasta el mismo nivel. Un elogio queda absorbido por una acusación."
+              "body": "La imagen iguala la magnitud del orgullo y la virtud: la acusación concede implícitamente que Marcio posee valor militar. Fuentes: Folger, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; Shakespeare Online, Act I, scene 1, https://www.shakespeare-online.com/plays/corio_1_1.html; LitCharts, Act 1, Scene 1 (lectura interpretativa), https://www.litcharts.com/lit/coriolanus/act-1-scene-1.",
+              "gloss": "a la altura de su virtud"
             }
           ]
         },
@@ -506,13 +515,17 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "What he cannot help",
               "type": "Sintaxis",
               "title": "What he cannot help in his nature",
-              "body": "La relativa libre aparece antepuesta como objeto de account: «You account what he cannot help in his nature a vice in him»."
+              "body": "Relativa libre antepuesta como objeto de «account»; «account a vice» significa considerar algo un vicio. Fuentes: Folger, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; Shakespeare Online, Act I, scene 1, https://www.shakespeare-online.com/plays/corio_1_1.html; LitCharts, Act 1, Scene 1 (lectura interpretativa), https://www.litcharts.com/lit/coriolanus/act-1-scene-1.",
+              "gloss": "lo que no puede evitar"
             },
             {
               "term": "covetous",
               "type": "Léxico",
               "title": "covetous",
-              "body": "Codicioso, especialmente de posesiones o riquezas. No es sinónimo general de «ambicioso» en todos los contextos."
+              "body": "La defensa del Segundo ciudadano distingue el orgullo de la codicia material: no niega necesariamente todos los defectos de Marcio. Fuentes: Folger, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; Shakespeare Online, Act I, scene 1, https://www.shakespeare-online.com/plays/corio_1_1.html; LitCharts, Act 1, Scene 1 (lectura interpretativa), https://www.litcharts.com/lit/coriolanus/act-1-scene-1.",
+              "gloss": "codicioso; ávido de riquezas",
+              "lemma": "covetous",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/covetous"
             }
           ]
         },
