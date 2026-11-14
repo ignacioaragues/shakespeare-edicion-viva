@@ -27972,6 +27972,114 @@ window.SHAKESPEARE_READER_DATA = {
           "en": "No more.",
           "es": "Basta.",
           "notes": []
+        },
+        {
+          "line": "3833–3841",
+          "speaker": "coriolanus",
+          "en": "Measureless liar, thou hast made my heart\nToo great for what contains it. “Boy”? O slave!—\nPardon me, lords, ’tis the first time that ever\nI was forced to scold. Your judgments, my grave\nlords,\nMust give this cur the lie; and his own notion—\nWho wears my stripes impressed upon him, that\nMust bear my beating to his grave—shall join\nTo thrust the lie unto him.",
+          "es": "Mentiroso sin medida, has hecho que mi corazón\nsea demasiado grande para el pecho que lo encierra. ¿«Muchacho»? ¡Ah, miserable!\nPerdónenme, señores: es la primera vez\nque me veo obligado a insultar así. Su juicio, respetables\nseñores, debe desmentir a este perro; y su propia conciencia —\npues lleva impresas las marcas de mis golpes,\nque cargará hasta la tumba— también habrá de contribuir\na demostrar que miente.",
+          "notes": [
+            {
+              "term": "Measureless liar",
+              "title": "Measureless liar",
+              "type": "Nota filológica",
+              "gloss": "mentiroso sin medida",
+              "body": "La imagen del corazón que excede su continente convierte la indignación en una presión corporal. Fuentes: Folger, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/"
+            },
+            {
+              "term": "scold",
+              "title": "scold",
+              "type": "Nota filológica",
+              "gloss": "reñir; lanzar improperios",
+              "body": "Coriolano presenta la violencia verbal como excepcional. Fuentes: Folger, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/",
+              "lemma": "scold",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/scold"
+            },
+            {
+              "term": "grave lords",
+              "title": "grave lords",
+              "type": "Nota filológica",
+              "gloss": "respetables señores",
+              "body": "«Grave» indica dignidad y autoridad, no tristeza. Fuentes: Folger, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/",
+              "lemma": "grave",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/grave"
+            },
+            {
+              "term": "cur",
+              "title": "cur",
+              "type": "Nota filológica",
+              "gloss": "perro despreciable",
+              "body": "Insulto animalizante dirigido a Aufidio. Fuentes: Folger, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/"
+            },
+            {
+              "term": "his own notion",
+              "title": "his own notion",
+              "type": "Nota filológica",
+              "gloss": "su propio conocimiento; conciencia",
+              "body": "La frase puede aludir al conocimiento que Aufidio tiene de las derrotas sufridas; interpretación del pasaje, no variante textual. Fuentes: Folger, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/"
+            },
+            {
+              "term": "stripes impressed upon him",
+              "title": "stripes impressed upon him",
+              "type": "Nota filológica",
+              "gloss": "marcas de los golpes recibidos",
+              "body": "Las cicatrices invocadas funcionan como testimonio corporal de la superioridad anterior de Coriolano. Fuentes: Folger, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/"
+            },
+            {
+              "term": "thrust the lie unto him",
+              "title": "thrust the lie unto him",
+              "type": "Nota filológica",
+              "gloss": "refutar violentamente su mentira",
+              "body": "«Thrust» traslada el lenguaje de la lucha física al desmentido. Plutarco, en la Vida de Coriolano, narra cómo la disputa final precipita la violencia. Fuentes: Folger, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; Plutarco, Vida de Coriolano, §39, https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Coriolanus%2A.html"
+            }
+          ]
+        },
+        {
+          "line": "3842",
+          "speaker": "first_lord",
+          "en": "Peace, both, and hear me speak.",
+          "es": "¡Silencio los dos, y escúchenme!",
+          "notes": []
+        },
+        {
+          "line": "3843–3848",
+          "speaker": "coriolanus",
+          "en": "Cut me to pieces, Volsces. Men and lads,\nStain all your edges on me. “Boy”? False hound!\nIf you have writ your annals true, ’tis there\nThat like an eagle in a dovecote, I\nFluttered your Volscians in Corioles,\nAlone I did it. “Boy”!",
+          "es": "¡Despedácenme, volscos! Hombres y muchachos,\nmanchen conmigo el filo de todas sus armas. ¿«Muchacho»? ¡Perro embustero!\nSi han escrito fielmente sus anales, allí consta\nque, como un águila en un palomar,\nyo sembré el pánico entre sus volscos en Corioles.\n¡Lo hice yo solo! ¿«Muchacho»?",
+          "notes": [
+            {
+              "term": "Stain all your edges",
+              "title": "Stain all your edges",
+              "type": "Nota filológica",
+              "gloss": "manchen todos sus filos",
+              "body": "«Edges» designa los filos de las armas; los desafía a ensangrentarlos. Fuentes: Folger, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/"
+            },
+            {
+              "term": "annals",
+              "title": "annals",
+              "type": "Nota filológica",
+              "gloss": "anales; crónicas",
+              "body": "Apela a una memoria histórica escrita de la conquista de Corioles. Fuentes: Folger, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/",
+              "lemma": "annals",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/annals"
+            },
+            {
+              "term": "an eagle in a dovecote",
+              "title": "an eagle in a dovecote",
+              "type": "Nota filológica",
+              "gloss": "un águila en un palomar",
+              "body": "El símil enfrenta un depredador solitario a aves indefensas. Fuentes: Folger, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/"
+            },
+            {
+              "term": "Fluttered",
+              "title": "Fluttered",
+              "type": "Nota filológica",
+              "gloss": "hice revolotear aterrados; sembré el pánico",
+              "body": "La imagen evoca el aleteo desordenado y la dispersión de los defensores. Fuentes: Folger, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/",
+              "lemma": "flutter",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/flutter"
+            }
+          ]
         }
       ]
     }

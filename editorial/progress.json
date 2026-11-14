@@ -1840,13 +1840,22 @@
       "last_line": 3832,
       "editorial_state": "translated_source_checked_external_references",
       "note": "17 líneas Folger; cinco parlamentos completos. Texto contrastado con Folger y comentario externo LitCharts; nueve glosas del parlamento central y notas de morfología e identidad heroica. Cotejo de libros privados pendiente."
+    },
+    {
+      "id": "coriolanus-5-6-3833-3848",
+      "act": 5,
+      "scene": 6,
+      "first_line": 3833,
+      "last_line": 3848,
+      "editorial_state": "translated_source_checked_external_references",
+      "note": "16 líneas Folger, tres parlamentos completos, notas sobre honor, memoria y violencia; fuentes Folger y Plutarco; cotejo privado pendiente."
     }
   ],
   "next_fragment": {
     "act": 5,
     "scene": 6,
-    "first_line": 3833,
-    "note": "Comienza el parlamento de Coriolano «Measureless liar»; preservar la intervención íntegra hasta 3841."
+    "first_line": 3849,
+    "note": "Aufidio retoma la palabra: «Why, noble lords»."
   },
   "completed_acts": [],
   "last_update_commit": "1b9573f7d2a5e4bce0bd8f849d1c47807673fc25",
