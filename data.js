@@ -27131,8 +27131,8 @@ window.SHAKESPEARE_READER_DATA = {
       "scene": 6,
       "place": "Antium · plaza pública",
       "sourceRef": "Folger Shakespeare Library · V.6",
-      "sectionLabel": "Fragmento · líneas 3711–3733",
-      "introduction": "Aufidio prepara la acusación pública contra Coriolano y sus partidarios calculan el desenlace de la rivalidad.",
+      "sectionLabel": "Fragmento · líneas 3711–3757",
+      "introduction": "Aufidio prepara su acusación y relata cómo la hospitalidad y el mando compartido terminaron, según él, en una humillación política.",
       "stage": "Entra Tulio Aufidio con sus acompañantes.",
       "characters": [
         {
@@ -27301,6 +27301,127 @@ window.SHAKESPEARE_READER_DATA = {
               "type": "Nota filológica",
               "gloss": "heredero de todo",
               "body": "Metáfora sucesoria: quien sobreviva a la caída del otro monopolizará su autoridad. Fuente: Folger Digital Texts, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; contraste: https://shakespeare.mit.edu/coriolanus/coriolanus.5.6.html."
+            }
+          ]
+        },
+        {
+          "line": "3734–3741",
+          "speaker": "aufidius",
+          "en": "I know it,\nAnd my pretext to strike at him admits\nA good construction. I raised him, and I pawned\nMine honor for his truth, who, being so heightened,\nHe watered his new plants with dews of flattery,\nSeducing so my friends; and to this end,\nHe bowed his nature, never known before\nBut to be rough, unswayable, and free.",
+          "es": "Lo sé,\ny el pretexto que tengo para atacarlo\npuede interpretarse favorablemente. Yo lo encumbré y empeñé\nmi honor como garantía de su lealtad. Pero él, una vez elevado,\nregó sus nuevas plantas con el rocío de la adulación\ny así se ganó a mis amigos; para conseguirlo,\ndobló su carácter, hasta entonces conocido\npor ser áspero, inflexible e independiente.",
+          "notes": [
+            {
+              "term": "pretext",
+              "title": "pretext",
+              "type": "Nota filológica",
+              "gloss": "pretexto; motivo alegado",
+              "body": "Aufidio reconoce que su justificación pública puede recibir una interpretación favorable; «pretext» no garantiza que la acusación sea justa. Fuentes: Folger, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; contraste textual: https://shakespeare.mit.edu/coriolanus/coriolanus.5.6.html.",
+              "lemma": "pretext",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/pretext"
+            },
+            {
+              "term": "pawned",
+              "title": "pawned",
+              "type": "Nota filológica",
+              "gloss": "empeñé; puse en prenda",
+              "body": "Imagen jurídica y económica: Aufidio puso su honor como garantía de la fidelidad de Coriolano. Fuentes: Folger, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; contraste textual: https://shakespeare.mit.edu/coriolanus/coriolanus.5.6.html.",
+              "lemma": "pawn",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/pawn"
+            },
+            {
+              "term": "new plants",
+              "title": "new plants",
+              "type": "Nota filológica",
+              "gloss": "nuevos protegidos; nuevos partidarios",
+              "body": "Metáfora de cultivo político: las «plantas» pueden entenderse como los seguidores recién atraídos por Coriolano, no como vegetación literal. Fuentes: Folger, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; contraste textual: https://shakespeare.mit.edu/coriolanus/coriolanus.5.6.html."
+            },
+            {
+              "term": "He bowed his nature",
+              "title": "He bowed his nature",
+              "type": "Lectura crítica",
+              "gloss": "dobló su carácter; se acomodó",
+              "body": "Aufidio sostiene que Coriolano aprendió a halagar para captar apoyos. Michael Goldman («Characterizing Coriolanus», 1985) observa que este retrato del protagonista como manipulador político no encaja fácilmente con lo que el público ha visto; es una interpretación crítica, no un hecho dramático establecido. Referencia: https://www.enotes.com/topics/coriolanus/criticism/coriolanus-vol-64/criticism-character-studies/michael-goldman-essay-date-1985; texto: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/",
+              "lemma": "bow",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/bow"
+            }
+          ]
+        },
+        {
+          "line": "3742–3744",
+          "speaker": "conspirator3",
+          "en": "Sir, his stoutness\nWhen he did stand for consul, which he lost\nBy lack of stooping—",
+          "es": "Señor, su obstinación,\ncuando aspiró al consulado y lo perdió\npor negarse a inclinarse ante los demás...",
+          "notes": [
+            {
+              "term": "stoutness",
+              "title": "stoutness",
+              "type": "Nota filológica",
+              "gloss": "firmeza; obstinación",
+              "body": "La cualidad puede leerse como fortaleza o terquedad, según el juicio del hablante; aquí introduce la derrota electoral. Fuentes: Folger, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; contraste textual: https://shakespeare.mit.edu/coriolanus/coriolanus.5.6.html.",
+              "lemma": "stoutness",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/stoutness"
+            },
+            {
+              "term": "stooping",
+              "title": "stooping",
+              "type": "Nota filológica",
+              "gloss": "inclinarse; ceder",
+              "body": "Alude tanto al gesto físico de rebajarse como a la condescendencia política que Coriolano rechazó ante los ciudadanos. Fuentes: Folger, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; contraste textual: https://shakespeare.mit.edu/coriolanus/coriolanus.5.6.html.",
+              "lemma": "stoop",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/stoop"
+            }
+          ]
+        },
+        {
+          "line": "3745–3757",
+          "speaker": "aufidius",
+          "en": "That I would have spoke of.\nBeing banished for ’t, he came unto my hearth,\nPresented to my knife his throat. I took him,\nMade him joint servant with me, gave him way\nIn all his own desires; nay, let him choose\nOut of my files, his projects to accomplish,\nMy best and freshest men; served his designments\nIn mine own person; holp to reap the fame\nWhich he did end all his; and took some pride\nTo do myself this wrong; till at the last\nI seemed his follower, not partner; and\nHe waged me with his countenance as if\nI had been mercenary.",
+          "es": "Precisamente de eso quería hablar.\nDesterrado por ello, vino a mi hogar\ny ofreció su garganta a mi cuchillo. Yo lo acogí,\nlo hice compartir el mando conmigo y le dejé actuar\na su antojo; más aún, le permití escoger,\nde entre mis tropas, a mis mejores hombres,\nlos más vigorosos, para llevar a cabo sus planes.\nYo mismo serví sus proyectos y ayudé a cosechar la gloria\nque él terminó por atribuirse toda; incluso sentí cierto orgullo\nde perjudicarme así. Hasta que, al final,\nparecía su subordinado y no su compañero;\ny me pagaba con sus miradas de aprobación, como si\nyo hubiera sido un soldado a sueldo.",
+          "notes": [
+            {
+              "term": "hearth",
+              "title": "hearth",
+              "type": "Nota filológica",
+              "gloss": "hogar; casa",
+              "body": "Aufidio recuerda la hospitalidad que ofreció al desterrado; el hogar privado se contrapone a la posterior rivalidad pública. Fuentes: Folger, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; contraste textual: https://shakespeare.mit.edu/coriolanus/coriolanus.5.6.html.",
+              "lemma": "hearth",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/hearth"
+            },
+            {
+              "term": "files",
+              "title": "files",
+              "type": "Nota filológica",
+              "gloss": "filas; efectivos militares",
+              "body": "Designa las filas o contingentes de soldados de los que Coriolano pudo seleccionar hombres. Fuentes: Folger, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; contraste textual: https://shakespeare.mit.edu/coriolanus/coriolanus.5.6.html.",
+              "lemma": "file",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/file"
+            },
+            {
+              "term": "designments",
+              "title": "designments",
+              "type": "Nota filológica",
+              "gloss": "planes; proyectos",
+              "body": "Sustantivo poco frecuente, relacionado con design: propósitos militares. Fuentes: Folger, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; contraste textual: https://shakespeare.mit.edu/coriolanus/coriolanus.5.6.html.",
+              "lemma": "designment",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/designment"
+            },
+            {
+              "term": "holp",
+              "title": "holp",
+              "type": "Nota filológica",
+              "gloss": "ayudé",
+              "body": "Forma histórica de pasado de help, comparable al moderno helped; no confundir con un infinitivo. Fuentes: Folger, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; contraste textual: https://shakespeare.mit.edu/coriolanus/coriolanus.5.6.html.",
+              "lemma": "help",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/help"
+            },
+            {
+              "term": "waged me with his countenance",
+              "title": "waged me with his countenance",
+              "type": "Nota filológica",
+              "gloss": "me pagaba con sus gestos de aprobación",
+              "body": "Aufidio denuncia que Coriolano lo trataba como asalariado y lo recompensaba solo con muestras de favor. La lectura de «countenance» como semblante o favor personal admite matices. Fuentes: Folger, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; contraste textual: https://shakespeare.mit.edu/coriolanus/coriolanus.5.6.html.",
+              "lemma": "wage",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/wage"
             }
           ]
         }

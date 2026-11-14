@@ -1795,13 +1795,22 @@
       "last_line": 3733,
       "editorial_state": "translated_source_checked_external_references",
       "note": "Siete parlamentos completos; cotejo Folger/MIT y nueve notas con glosas. Revisión bibliográfica retrospectiva pendiente."
+    },
+    {
+      "id": "coriolanus-5-6-3734-3757",
+      "act": 5,
+      "scene": 6,
+      "first_line": 3734,
+      "last_line": 3757,
+      "editorial_state": "translated_source_checked_external_references",
+      "note": "Tres parlamentos completos (24 líneas). Cotejo Folger y MIT; lectura crítica de Goldman (1985) sobre la caracterización de Coriolano. Cotejo privado y revisión retrospectiva pendientes."
     }
   ],
   "next_fragment": {
     "act": 5,
     "scene": 6,
-    "first_line": 3734,
-    "note": "Continúa el extenso parlamento de Aufidio: no cortar en medio de la intervención."
+    "first_line": 3758,
+    "note": "Continuar con el primer conspirador y la respuesta de Aufidio, sin cortar parlamentos."
   },
   "completed_acts": [],
   "last_update_commit": "pending_atomic_commit",
