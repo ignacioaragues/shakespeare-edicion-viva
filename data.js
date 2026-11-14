@@ -1105,16 +1105,52 @@ window.SHAKESPEARE_READER_DATA = {
           "es": "¿Y la respuesta de su vientre? La cabeza coronada como un rey, el ojo vigilante, el corazón consejero, el brazo que es nuestro soldado, la pierna que es nuestra montura, la lengua que hace de trompetero y las demás defensas y pequeñas ayudas de esta estructura que es nuestro cuerpo, si todos ellos…",
           "notes": [
             {
+              "term": "kingly crownèd head",
+              "title": "kingly crownèd head",
+              "type": "Nota filológica",
+              "gloss": "cabeza coronada como un rey",
+              "body": "La enumeración del ciudadano distribuye funciones de gobierno entre órganos diferentes; «crownèd» se pronuncia con sílaba adicional en la forma marcada. La imagen de la cabeza regia no implica que el ciudadano apruebe el predominio del vientre. Fuentes: Folger, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; Shakespeare Online, I.1, https://www.shakespeare-online.com/plays/corio_1_1.html."
+            },
+            {
+              "term": "vigilant eye",
+              "title": "vigilant eye",
+              "type": "Nota filológica",
+              "gloss": "ojo vigilante",
+              "body": "Vigilant describe una función de vigilancia y atención dentro del cuerpo político; la personificación es parte de la réplica del ciudadano. Fuentes: Folger, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; Shakespeare Online, I.1, https://www.shakespeare-online.com/plays/corio_1_1.html."
+            },
+            {
+              "term": "counselor heart",
+              "title": "counselor heart",
+              "type": "Nota filológica",
+              "gloss": "corazón consejero",
+              "body": "El corazón recibe una función deliberativa, no meramente emotiva. La distribución de cargos entre órganos permite cuestionar que el vientre gobierne por sí solo. Fuentes: Folger, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; Shakespeare Online, I.1, https://www.shakespeare-online.com/plays/corio_1_1.html."
+            },
+            {
+              "term": "steed the leg",
+              "title": "steed the leg",
+              "type": "Nota filológica",
+              "gloss": "la pierna como montura",
+              "body": "Steed designa un caballo de montar: el ciudadano equipara el movimiento corporal con el transporte de una comunidad militarizada. Fuentes: Folger, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; Shakespeare Online, I.1, https://www.shakespeare-online.com/plays/corio_1_1.html.",
+              "lemma": "steed",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/steed"
+            },
+            {
               "term": "muniments",
-              "type": "Léxico",
               "title": "muniments",
-              "body": "Medios de defensa o protección; el término prolonga las imágenes militares y políticas de los órganos."
+              "type": "Nota filológica",
+              "gloss": "defensas; medios de protección",
+              "body": "En este contexto son recursos protectores o defensivos, no documentos de propiedad; la serie incorpora funciones militares y auxiliares. Fuentes: Folger, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; Shakespeare Online, I.1, https://www.shakespeare-online.com/plays/corio_1_1.html.",
+              "lemma": "muniment",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/muniment"
             },
             {
               "term": "fabric",
-              "type": "Metáfora",
               "title": "fabric",
-              "body": "La constitución o estructura del cuerpo, imaginada como un edificio o sistema organizado."
+              "type": "Nota filológica",
+              "gloss": "estructura; organismo",
+              "body": "Fabric alude a la constitución o armazón del cuerpo, no a una tela. «If that they—» deja la sintaxis en suspenso hasta «Should ... be restrained» (125). Fuentes: Folger, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; Shakespeare Online, I.1, https://www.shakespeare-online.com/plays/corio_1_1.html.",
+              "lemma": "fabric",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/fabric"
             }
           ]
         },
@@ -1126,9 +1162,10 @@ window.SHAKESPEARE_READER_DATA = {
           "notes": [
             {
               "term": "’Fore me",
-              "type": "Lengua",
               "title": "’Fore me",
-              "body": "Juramento elíptico, relacionado con fórmulas como «before me»; funciona como exclamación, no como indicación espacial."
+              "type": "Nota filológica",
+              "gloss": "¡por mi vida!",
+              "body": "Exclamación juramentada elíptica; Menenio interrumpe la construcción sintáctica del ciudadano y repite «What then?» con impaciencia. No es una indicación espacial. Fuentes: Folger, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; Shakespeare Online, I.1, https://www.shakespeare-online.com/plays/corio_1_1.html."
             }
           ]
         },
@@ -1140,15 +1177,21 @@ window.SHAKESPEARE_READER_DATA = {
           "notes": [
             {
               "term": "cormorant belly",
-              "type": "Imagen",
               "title": "cormorant belly",
-              "body": "Cormorant, «cormorán», se usaba figuradamente para alguien insaciable. La imagen atribuye al vientre una voracidad parasitaria."
+              "type": "Nota filológica",
+              "gloss": "vientre insaciable",
+              "body": "Cormorant designa literalmente un ave acuática y figuradamente a un glotón: el ciudadano acusa al vientre de consumir sin medida. La caracterización pertenece al rebelde, no al narrador. Fuentes: Folger, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; Shakespeare Online, I.1, https://www.shakespeare-online.com/plays/corio_1_1.html.",
+              "lemma": "cormorant",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/cormorant"
             },
             {
-              "term": "sink",
-              "type": "Léxico",
+              "term": "sink o’ th’ body",
               "title": "sink o’ th’ body",
-              "body": "Sumidero o desagüe: el ciudadano convierte el órgano central en receptáculo de desperdicios."
+              "type": "Nota filológica",
+              "gloss": "sumidero del cuerpo",
+              "body": "Sink es un desagüe o receptáculo de residuos; la imagen degrada la supuesta sede distributiva del alimento. El apóstrofo marca elisión de «of the». Fuentes: Folger, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; Shakespeare Online, I.1, https://www.shakespeare-online.com/plays/corio_1_1.html.",
+              "lemma": "sink",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/sink"
             }
           ]
         },
@@ -1166,10 +1209,13 @@ window.SHAKESPEARE_READER_DATA = {
           "es": "Si esos órganos que realizan todo el trabajo se quejaran, ¿qué podría responderles el vientre?",
           "notes": [
             {
-              "term": "agents",
-              "type": "Léxico",
+              "term": "former agents",
               "title": "former agents",
-              "body": "Los órganos que actúan y desempeñan funciones, mencionados en la enumeración anterior."
+              "type": "Nota filológica",
+              "gloss": "órganos que actúan",
+              "body": "Former remite a los órganos enumerados; agents significa los que ejecutan funciones. La pregunta insiste en exigir la defensa del vientre en vez de aceptar la analogía política sin respuesta. Fuentes: Folger, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; Shakespeare Online, I.1, https://www.shakespeare-online.com/plays/corio_1_1.html.",
+              "lemma": "agent",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/agent"
             }
           ]
         },
@@ -1180,10 +1226,18 @@ window.SHAKESPEARE_READER_DATA = {
           "es": "Se lo diré, si me concede un poco de algo que tiene muy poco: paciencia. Espere un momento y oirá la respuesta del vientre.",
           "notes": [
             {
+              "term": "bestow a small—of what you have little—Patience",
+              "title": "bestow a small—of what you have little—Patience",
+              "type": "Nota filológica",
+              "gloss": "conceder un poco de paciencia, que escasea",
+              "body": "Menenio inserta un inciso insultante dentro de su petición de paciencia; la interrupción vuelve visible su estrategia de aplazar la respuesta. Fuentes: Folger, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; Shakespeare Online, I.1, https://www.shakespeare-online.com/plays/corio_1_1.html."
+            },
+            {
               "term": "you’st",
-              "type": "Lengua histórica",
               "title": "you’st",
-              "body": "Forma contraída arcaica con valor futuro, aproximadamente «you shall»; no corresponde al uso moderno."
+              "type": "Nota filológica",
+              "gloss": "oirás; ustedes oirán (valor futuro)",
+              "body": "Contracción histórica que Folger conserva como «you’st». La lectura contextual es de futuro («you shall»); no debe tratarse como paradigma productivo del inglés actual. Se omite enlace morfológico por falta de una entrada específica comprobada. Fuentes: Folger, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; Shakespeare Online, I.1, https://www.shakespeare-online.com/plays/corio_1_1.html."
             }
           ]
         },
@@ -1192,7 +1246,15 @@ window.SHAKESPEARE_READER_DATA = {
           "speaker": "citizen2",
           "en": "You’re long about it.",
           "es": "Está tardando demasiado.",
-          "notes": []
+          "notes": [
+            {
+              "term": "You’re long about it",
+              "title": "You’re long about it",
+              "type": "Nota filológica",
+              "gloss": "está tardando demasiado",
+              "body": "La réplica seca del ciudadano subraya que Menenio ha retrasado la respuesta prometida; su insistencia interrumpe la autoridad del relato. Véase también el análisis del intercambio en LitCharts, https://www.litcharts.com/lit/coriolanus/act-1-scene-1. Fuentes: Folger, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; Shakespeare Online, I.1, https://www.shakespeare-online.com/plays/corio_1_1.html."
+            }
+          ]
         },
         {
           "line": "134–149",
