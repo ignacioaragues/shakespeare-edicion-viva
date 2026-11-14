@@ -27197,6 +27197,13 @@ window.SHAKESPEARE_READER_DATA = {
           "english": "Second Lord",
           "identity": "Autoridad volsca que exige una audiencia justa.",
           "color": "slate"
+        },
+        {
+          "id": "third_lord",
+          "name": "Tercer señor volsco",
+          "english": "Third Lord",
+          "identity": "Autoridad volsca que detiene la profanación del cadáver.",
+          "color": "slate"
         }
       ],
       "blocks": [
@@ -28220,6 +28227,159 @@ window.SHAKESPEARE_READER_DATA = {
               "body": "Imperativo de suspensión o contención: el señor intenta frenar la escalada de violencia. Fuentes: Folger Shakespeare Library, Coriolanus, V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; First Folio, Coriolanus, V.6, facsímil textual, https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_5_Scene_6.",
               "lemma": "stand",
               "lemmaUrl": "https://en.wiktionary.org/wiki/stand"
+            }
+          ]
+        },
+        {
+          "line": "3862–3864",
+          "speaker": "coriolanus",
+          "en": "[Drawing his sword.]\nO, that I had him,\nWith six Aufidiuses, or more, his tribe,\nTo use my lawful sword.",
+          "es": "[Desenvaina la espada.]\n¡Ah, si lo tuviera delante,\ncon otros seis Aufidios, o más, de su misma estirpe,\npara emplear contra ellos mi espada legítimamente!",
+          "notes": [
+            {
+              "term": "six Aufidiuses",
+              "title": "six Aufidiuses",
+              "type": "Nota filológica",
+              "gloss": "seis Aufidios más",
+              "body": "La multiplicación hiperbólica del enemigo transforma el desafío personal en provocación a todo su linaje. Fuentes: Folger Shakespeare Library, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/"
+            },
+            {
+              "term": "lawful sword",
+              "title": "lawful sword",
+              "type": "Nota filológica",
+              "gloss": "espada legítima; espada usada con derecho",
+              "body": "Coriolano reivindica el derecho a combatir, pese a estar ante una autoridad que acaba de reclamar un juicio. La legitimidad es su afirmación, no una conclusión jurídica. Fuentes: Folger Shakespeare Library, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/"
+            }
+          ]
+        },
+        {
+          "line": "3865",
+          "speaker": "aufidius",
+          "en": "Insolent villain!",
+          "es": "¡Miserable insolente!",
+          "notes": []
+        },
+        {
+          "line": "3866",
+          "speaker": "all_conspirators",
+          "en": "Kill, kill, kill, kill, kill him!\n[The conspirators draw their swords and kill Martius, who falls. Aufidius stands on him.]",
+          "es": "¡Mátenlo, mátenlo, mátenlo, mátenlo, mátenlo!\n[Los conspiradores desenvainan sus espadas y matan a Marcio, que cae. Aufidio se yergue sobre él.]",
+          "notes": [
+            {
+              "term": "Martius",
+              "title": "Martius",
+              "type": "Nota filológica",
+              "gloss": "Marcio (no «Coriolano»)",
+              "body": "La acotación de Folger llama «Martius» al personaje asesinado: en la escena Aufidio le ha negado expresamente el sobrenombre honorífico. La resonancia es una interpretación dramatúrgica, no prueba de que la acotación sea un comentario deliberado del autor. Fuentes: Folger Shakespeare Library, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/"
+            },
+            {
+              "term": "Aufidius stands on him",
+              "title": "Aufidius stands on him",
+              "type": "Nota filológica",
+              "gloss": "Aufidio se yergue sobre él",
+              "body": "La posición escénica hace visible el triunfo sobre el rival. Plutarco, Vida de Coriolano 39.4, también relata el asesinato colectivo, pero no esta postura teatral. Fuentes: Folger Shakespeare Library, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; Plutarco, Vida de Coriolano 39.4–5, https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Coriolanus%2A.html"
+            }
+          ]
+        },
+        {
+          "line": "3867",
+          "speaker": "lords",
+          "en": "Hold, hold, hold, hold!",
+          "es": "¡Deténganse, deténganse, deténganse, deténganse!",
+          "notes": []
+        },
+        {
+          "line": "3868",
+          "speaker": "aufidius",
+          "en": "My noble masters, hear me speak.",
+          "es": "Nobles señores, escúchenme.",
+          "notes": []
+        },
+        {
+          "line": "3869",
+          "speaker": "lord1",
+          "en": "O Tullus!",
+          "es": "¡Oh, Tulio!",
+          "notes": []
+        },
+        {
+          "line": "3870",
+          "speaker": "second_lord",
+          "en": "Thou hast done a deed whereat valor will weep.",
+          "es": "Has cometido un acto por el que hasta el valor derramará lágrimas.",
+          "notes": [
+            {
+              "term": "valor will weep",
+              "title": "valor will weep",
+              "type": "Nota filológica",
+              "gloss": "el valor llorará",
+              "body": "Personificación de la valentía: la muerte del guerrero suscita duelo incluso en quienes debían juzgarlo. Fuentes: Folger Shakespeare Library, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/"
+            }
+          ]
+        },
+        {
+          "line": "3871–3872",
+          "speaker": "third_lord",
+          "en": "Tread not upon him.—Masters, all be quiet.—\nPut up your swords.",
+          "es": "No lo pises. Señores, cálmense todos.\nEnvainen las espadas.",
+          "notes": [
+            {
+              "term": "Tread not upon him",
+              "title": "Tread not upon him",
+              "type": "Nota filológica",
+              "gloss": "no lo pises",
+              "body": "El tercer señor reprende la postura de Aufidio sobre el cuerpo. El gesto exige respeto por el muerto, sin absolver sus actos. Fuentes: Folger Shakespeare Library, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/"
+            },
+            {
+              "term": "Put up your swords",
+              "title": "Put up your swords",
+              "type": "Nota filológica",
+              "gloss": "envainen las espadas",
+              "body": "Aquí «put up» significa guardar las armas, no levantarlas; la orden intenta restaurar la autoridad pública. Fuentes: Folger Shakespeare Library, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/",
+              "lemma": "put",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/put"
+            }
+          ]
+        },
+        {
+          "line": "3873–3879",
+          "speaker": "aufidius",
+          "en": "My lords, when you shall know—as in this rage,\nProvoked by him, you cannot—the great danger\nWhich this man’s life did owe you, you’ll rejoice\nThat he is thus cut off. Please it your Honors\nTo call me to your senate, I’ll deliver\nMyself your loyal servant or endure\nYour heaviest censure.",
+          "es": "Señores, cuando comprendan —algo que ahora, en medio de esta ira\nprovocada por él, no pueden hacer— el grave peligro\nque la vida de este hombre representaba para ustedes,\nse alegrarán de que lo hayan eliminado. Si sus señorías\ntienen a bien convocarme ante el Senado,\nme presentaré como su servidor leal o aceptaré\nla más severa de sus condenas.",
+          "notes": [
+            {
+              "term": "did owe you",
+              "title": "did owe you",
+              "type": "Nota filológica",
+              "gloss": "representaba para ustedes; les suponía",
+              "body": "En esta construcción «owe» expresa una relación de obligación o amenaza, no la deuda monetaria habitual. Aufidio afirma que Coriolano constituía un peligro para los volscos; no es un hecho demostrado. Fuentes: Folger Shakespeare Library, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/",
+              "lemma": "owe",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/owe"
+            },
+            {
+              "term": "cut off",
+              "title": "cut off",
+              "type": "Nota filológica",
+              "gloss": "eliminado; muerto",
+              "body": "Eufemismo de la ejecución violenta: Aufidio procura justificar retrospectivamente el asesinato. Fuentes: Folger Shakespeare Library, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/"
+            },
+            {
+              "term": "Please it your Honors",
+              "title": "Please it your Honors",
+              "type": "Nota filológica",
+              "gloss": "si sus señorías tienen a bien",
+              "body": "Fórmula deferente e impersonal de petición ante los magistrados; contrasta con la violencia inmediatamente anterior. Fuentes: Folger Shakespeare Library, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/",
+              "lemma": "please",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/please"
+            },
+            {
+              "term": "heaviest censure",
+              "title": "heaviest censure",
+              "type": "Nota filológica",
+              "gloss": "la condena más severa",
+              "body": "«Censure» puede denotar juicio y castigo, no solamente una reprimenda verbal. Aufidio ofrece someterse al Senado, sin que el texto garantice una investigación efectiva. Fuentes: Folger Shakespeare Library, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/",
+              "lemma": "censure",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/censure"
             }
           ]
         }

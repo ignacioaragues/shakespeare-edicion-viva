@@ -1858,13 +1858,22 @@
       "last_line": 3861,
       "editorial_state": "translated_source_checked_external_references",
       "note": "13 líneas Folger, cuatro parlamentos completos; confrontación entre Aufidio, conspiradores, pueblo y autoridad; glosas sobre blind fortune, presently, judicious hearing; Folger y First Folio consultados; cotejo privado pendiente."
+    },
+    {
+      "id": "coriolanus-5-6-3862-3879",
+      "act": 5,
+      "scene": 6,
+      "first_line": 3862,
+      "last_line": 3879,
+      "editorial_state": "translated_source_checked_external_references",
+      "note": "18 líneas Folger, nueve parlamentos completos; asesinato con acotaciones conservadas; notas sobre gesto, lenguaje jurídico y Plutarco 39.4–5; libros privados pendientes."
     }
   ],
   "next_fragment": {
     "act": 5,
     "scene": 6,
-    "first_line": 3862,
-    "note": "Coriolano desenvaina la espada; seguir por parlamentos completos, incluyendo las acotaciones del asesinato."
+    "first_line": 3880,
+    "note": "Respuesta del primer señor sobre el cuerpo de Coriolano y honras funerarias; cierre de V.6."
   },
   "completed_acts": [],
   "last_update_commit": "1b9573f7d2a5e4bce0bd8f849d1c47807673fc25",
