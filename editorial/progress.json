@@ -1897,6 +1897,20 @@
         "https://www.litcharts.com/lit/coriolanus/act-1-scene-1"
       ],
       "status": "reviewed_with_open_sources_private_books_pending"
+    },
+    {
+      "id": "coriolanus-1-1-17-24",
+      "act": 1,
+      "scene": 1,
+      "first_line": 17,
+      "last_line": 24,
+      "reviewed_on": "2026-11-15",
+      "scope": "Second pass of the remaining portions of three existing speech blocks (16–24): nine lexical notes with contextual Spanish glosses, selected morphology links, rhetorical and economic interpretation; stable block IDs and English/Spanish content unchanged.",
+      "sources": [
+        "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/",
+        "https://www.litcharts.com/lit/coriolanus/act-1-scene-1"
+      ],
+      "status": "reviewed_with_open_sources_private_books_pending"
     }
   ]
 }

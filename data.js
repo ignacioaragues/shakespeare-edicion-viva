@@ -314,21 +314,28 @@ window.SHAKESPEARE_READER_DATA = {
           "notes": [
             {
               "term": "yield us",
-              "type": "Lengua",
               "title": "yield us",
-              "body": "«Darnos», «cedernos». Us funciona como dativo: aquello que se cede se expresa después como the superfluity."
+              "type": "Nota filológica",
+              "gloss": "entregarnos; cedernos",
+              "body": "«Yield» es aquí transitivo con destinatario («us»): el ciudadano reclama la cesión del excedente, no una rendición. Texto: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/",
+              "lemma": "yield",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/yield"
             },
             {
               "term": "but",
-              "type": "Sintaxis",
               "title": "but",
-              "body": "Aquí equivale a «solamente» o «tan solo». No introduce una oposición adversativa."
+              "type": "Nota filológica",
+              "gloss": "tan solo; únicamente",
+              "body": "Adverbio restrictivo: «but the superfluity» significa únicamente el sobrante, no toda la reserva. Texto: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/"
             },
             {
               "term": "wholesome",
-              "type": "Semántica",
               "title": "wholesome",
-              "body": "En este contexto, alimento sano, todavía apto para comer. No «saludable» en el sentido vago y moralizado que puede tener hoy."
+              "type": "Nota filológica",
+              "gloss": "todavía apto para comer",
+              "body": "«While it were wholesome» añade una condición temporal: la comida debe entregarse antes de echarse a perder. Es una petición de alimento utilizable, no de restos corrompidos. Texto: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/",
+              "lemma": "wholesome",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/wholesome"
             }
           ]
         },
@@ -340,21 +347,30 @@ window.SHAKESPEARE_READER_DATA = {
           "notes": [
             {
               "term": "too dear",
-              "type": "Semántica",
               "title": "too dear",
-              "body": "Dear puede significar «querido» y también «caro». Aquí la expresión presenta a los pobres como una carga económica a ojos de los privilegiados."
+              "type": "Nota filológica",
+              "gloss": "demasiado costosos de mantener",
+              "body": "«Dear» expresa aquí costo o carga económica; no cariño. La lectura política de la negativa a alimentar al pueblo es una acusación del ciudadano. Texto: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; comentario: https://www.litcharts.com/lit/coriolanus/act-1-scene-1",
+              "lemma": "dear",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/dear"
             },
             {
               "term": "inventory",
-              "type": "Imagen retórica",
               "title": "inventory",
-              "body": "El cuerpo escuálido se convierte figuradamente en un inventario de los bienes ajenos. El contraste riqueza / hambre se representa mediante una metáfora contable."
+              "type": "Nota filológica",
+              "gloss": "inventario; relación detallada",
+              "body": "Metáfora contable: los cuerpos enflaquecidos de los plebeyos hacen visible, como un registro, la abundancia patricia. Es una imagen retórica, no un inventario literal. Texto: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/",
+              "lemma": "inventory",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/inventory"
             },
             {
               "term": "sufferance",
-              "type": "Léxico histórico",
               "title": "sufferance",
-              "body": "Aquí «sufrimiento» o «padecimiento», no el sentido legal moderno de tolerancia o permiso tácito."
+              "type": "Nota filológica",
+              "gloss": "sufrimiento; padecimiento",
+              "body": "El sustantivo remite al sufrimiento soportado; «a gain to them» lo presenta como beneficio para los poderosos según la denuncia del personaje. Texto: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/",
+              "lemma": "sufferance",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/sufferance"
             }
           ]
         },
@@ -366,21 +382,28 @@ window.SHAKESPEARE_READER_DATA = {
           "notes": [
             {
               "term": "pikes",
-              "type": "Juego verbal",
-              "title": "pikes / rakes",
-              "body": "Pikes son picas, armas largas; rakes son rastrillos. El par produce un juego sonoro que conduce de las armas al cuerpo demacrado por el hambre."
+              "title": "pikes",
+              "type": "Nota filológica",
+              "gloss": "picas; armas de asta",
+              "body": "«Pikes» designa armas largas; su oposición fónica con «rakes» (rastrillos) convierte el hambre en amenaza de violencia y de extrema delgadez. Texto: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/",
+              "lemma": "pike",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/pike"
             },
             {
               "term": "ere",
-              "type": "Léxico histórico",
               "title": "ere",
-              "body": "Conjunción que significa «antes de». Muy frecuente en la poesía y el teatro de la época."
+              "type": "Nota filológica",
+              "gloss": "antes de que",
+              "body": "Conjunción temporal arcaizante equivalente a «before»; «ere we become rakes» anticipa la consumición física por el hambre. Texto: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/",
+              "lemma": "ere",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/ere"
             },
             {
               "term": "hunger for bread",
-              "type": "Retórica",
-              "title": "hunger / thirst",
-              "body": "La antítesis hambre de pan / sed de venganza separa explícitamente la necesidad material del deseo de violencia, aunque el discurso incite a ella."
+              "title": "hunger for bread",
+              "type": "Nota filológica",
+              "gloss": "hambre de pan",
+              "body": "La antítesis «hunger for bread / thirst for revenge» diferencia la necesidad corporal del deseo de venganza; el orador insiste en que la primera motiva su discurso. Texto: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; comentario: https://www.litcharts.com/lit/coriolanus/act-1-scene-1"
             }
           ]
         },
