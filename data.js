@@ -27133,7 +27133,7 @@ window.SHAKESPEARE_READER_DATA = {
       "sourceRef": "Folger Shakespeare Library · V.6",
       "sectionLabel": "Fragmento · líneas 3711–3779",
       "introduction": "Aufidio convierte la paz acordada con Roma en motivo de venganza; sus conspiradores planean silenciar a Coriolano antes de que pueda hablar ante el pueblo.",
-      "stage": "Entra Tulio Aufidio con sus acompañantes.\nFinal: Salen llevando el cuerpo de Marcio. Suena una marcha fúnebre.",
+      "stage": "Entra Tulio Aufidio con sus acompañantes.",
       "characters": [
         {
           "id": "aufidius",
@@ -28445,8 +28445,8 @@ window.SHAKESPEARE_READER_DATA = {
         {
           "line": "3887–3895",
           "speaker": "aufidius",
-          "en": "My rage is gone,\nAnd I am struck with sorrow.—Take him up.\nHelp, three o’ th’ chiefest soldiers; I’ll be one.—\nBeat thou the drum that it speak mournfully.—\nTrail your steel pikes. Though in this city he\nHath widowed and unchilded many a one,\nWhich to this hour bewail the injury,\nYet he shall have a noble memory. Assist.",
-          "es": "Mi furia ha desaparecido\ny me ha invadido la tristeza. Levántenlo.\nQue ayuden tres de los soldados principales; yo seré uno de ellos.\nToca el tambor de modo que suene lúgubre.\nLleven las picas de acero arrastrando. Aunque en esta ciudad\nha dejado a muchos sin esposo o sin hijos,\ny todavía hoy lloran esa desgracia,\nse conservará de él un recuerdo noble. Ayuden.",
+          "en": "My rage is gone,\nAnd I am struck with sorrow.—Take him up.\nHelp, three o’ th’ chiefest soldiers; I’ll be one.—\nBeat thou the drum that it speak mournfully.—\nTrail your steel pikes. Though in this city he\nHath widowed and unchilded many a one,\nWhich to this hour bewail the injury,\nYet he shall have a noble memory. Assist.\n[They exit bearing the body of Martius. A dead march sounded.]",
+          "es": "Mi furia ha desaparecido\ny me ha invadido la tristeza. Levántenlo.\nQue ayuden tres de los soldados principales; yo seré uno de ellos.\nToca el tambor de modo que suene lúgubre.\nLleven las picas de acero arrastrando. Aunque en esta ciudad\nha dejado a muchos sin esposo o sin hijos,\ny todavía hoy lloran esa desgracia,\nse conservará de él un recuerdo noble. Ayuden.\n[Salen llevando el cuerpo de Marcio. Suena una marcha fúnebre.]",
           "notes": [
             {
               "term": "struck with sorrow",
