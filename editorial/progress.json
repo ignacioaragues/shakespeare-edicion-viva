@@ -1777,13 +1777,22 @@
       "last_line": 3702,
       "editorial_state": "translated_source_checked_external_references",
       "note": "Cierre íntegro de V.4: seis parlamentos, Folger y MIT contrastados, glosas y referencias; cotejo privado y revisión retrospectiva pendientes."
+    },
+    {
+      "id": "coriolanus-5-5-3703-3710",
+      "act": 5,
+      "scene": 5,
+      "first_line": 3703,
+      "last_line": 3710,
+      "editorial_state": "translated_source_checked_external_references",
+      "note": "Escena completa: dos intervenciones, Folger y MIT cotejados; cinco glosas filológicas con referencias. Cotejo privado y revisión retrospectiva pendientes."
     }
   ],
   "next_fragment": {
     "act": 5,
-    "scene": 5,
-    "first_line": 3703,
-    "note": "Entrada triunfal de Volumnia y homenaje público en Roma; comprobar numeración Folger."
+    "scene": 6,
+    "first_line": 3711,
+    "note": "Inicio de la última escena, en Antium: Aufidio y sus acusaciones ante los magistrados volscos. Verificar numeración Folger."
   },
   "completed_acts": [],
   "last_update_commit": "pending_atomic_commit",

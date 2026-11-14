@@ -34,7 +34,8 @@ window.SHAKESPEARE_READER_DATA = {
         "coriolanus-5-1",
         "coriolanus-5-2",
         "coriolanus-5-3",
-        "coriolanus-5-4"
+        "coriolanus-5-4",
+        "coriolanus-5-5"
       ]
     }
   ],
@@ -27032,6 +27033,93 @@ window.SHAKESPEARE_READER_DATA = {
               "lemmaUrl": "https://en.wiktionary.org/wiki/help"
             }
           ]
+        }
+      ]
+    },
+    {
+      "id": "coriolanus-5-5",
+      "workId": "coriolanus",
+      "act": 5,
+      "scene": 5,
+      "place": "Roma · una calle junto a la puerta",
+      "sourceRef": "Folger Shakespeare Library · Acto V, escena 5",
+      "sectionLabel": "Escena completa · líneas 3703–3710",
+      "introduction": "La ciudad recibe con honores a Volumnia y a las mujeres que consiguieron detener el ataque contra Roma.",
+      "stage": "Entran dos senadores, con Volumnia, Virgilia y Valeria, que atraviesan el escenario acompañadas por otros nobles.",
+      "characters": [
+        {
+          "id": "senator",
+          "name": "Senador",
+          "english": "Senator",
+          "identity": "Magistrado romano que proclama el homenaje a las mujeres.",
+          "color": "slate"
+        },
+        {
+          "id": "all",
+          "name": "Todos",
+          "english": "All",
+          "identity": "Voces reunidas en la aclamación pública.",
+          "color": "olive"
+        }
+      ],
+      "blocks": [
+        {
+          "line": "3703–3709",
+          "speaker": "senator",
+          "en": "Behold our patroness, the life of Rome!\nCall all your tribes together, praise the gods,\nAnd make triumphant fires. Strew flowers before\nthem,\nUnshout the noise that banished Martius,\nRepeal him with the welcome of his mother.\nCry “Welcome, ladies, welcome!”",
+          "es": "¡Contemplen a nuestra protectora, la vida de Roma!\nConvoquen a todas las tribus, alaben a los dioses\ny enciendan hogueras de triunfo. Esparzan flores\na su paso.\nDesdigan los gritos que desterraron a Marcio;\nllámenlo de vuelta al dar la bienvenida a su madre.\nGriten: «¡Bienvenidas, señoras, bienvenidas!»",
+          "notes": [
+            {
+              "term": "patroness",
+              "title": "patroness",
+              "type": "Nota filológica",
+              "gloss": "protectora; salvadora",
+              "body": "El título cívico eleva a Volumnia a protectora de Roma. Es una exaltación retórica, no una prueba de que recibiera oficialmente culto divino. Referencia: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.5, Folger Shakespeare Library, edición digital (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/5/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.5.html.",
+              "lemma": "patroness",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/patroness"
+            },
+            {
+              "term": "tribes",
+              "title": "tribes",
+              "type": "Nota filológica",
+              "gloss": "tribus; divisiones cívicas",
+              "body": "En la Roma republicana, tribus puede designar las agrupaciones cívicas del pueblo. El imperativo convierte el recibimiento en celebración colectiva. Referencia: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.5, Folger Shakespeare Library, edición digital (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/5/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.5.html.",
+              "lemma": "tribe",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/tribe"
+            },
+            {
+              "term": "triumphant fires",
+              "title": "triumphant fires",
+              "type": "Nota filológica",
+              "gloss": "hogueras de triunfo",
+              "body": "La imagen integra la salvación de la ciudad en un lenguaje de celebración pública y victoria; no debe confundirse automáticamente con un triunfo militar formal. Referencia: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.5, Folger Shakespeare Library, edición digital (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/5/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.5.html."
+            },
+            {
+              "term": "Unshout",
+              "title": "Unshout",
+              "type": "Nota filológica",
+              "gloss": "desdecir los gritos",
+              "body": "Verbo formado con el prefijo reversivo un-: pide deshacer simbólicamente el clamor que expulsó a Marcio. No se trata de silenciar simplemente a la multitud. Referencia: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.5, Folger Shakespeare Library, edición digital (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/5/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.5.html.",
+              "lemma": "unshout",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/unshout"
+            },
+            {
+              "term": "Repeal him",
+              "title": "Repeal him",
+              "type": "Nota filológica",
+              "gloss": "llamarlo de vuelta del destierro",
+              "body": "Repeal conserva aquí el sentido histórico de revocar un destierro o llamar de vuelta a una persona; no el uso moderno más habitual de derogar una ley. La restitución verbal resulta irónica ante la suerte que le aguarda. Referencia: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.5, Folger Shakespeare Library, edición digital (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/5/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.5.html.",
+              "lemma": "repeal",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/repeal"
+            }
+          ]
+        },
+        {
+          "line": "3710",
+          "speaker": "all",
+          "en": "Welcome, ladies, welcome!",
+          "es": "¡Bienvenidas, señoras, bienvenidas!",
+          "after": "Suenan tambores y trompetas en una fanfarria. Salen todos."
         }
       ]
     }
