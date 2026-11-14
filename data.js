@@ -537,21 +537,48 @@ window.SHAKESPEARE_READER_DATA = {
           "notes": [
             {
               "term": "barren",
-              "type": "Metáfora",
+              "type": "Nota filológica",
               "title": "barren of accusations",
-              "body": "Barren significa «estéril» o «improductivo». El hablante insiste en que dispone de muchas acusaciones alternativas."
+              "gloss": "sin acusaciones; falto de argumentos",
+              "body": "«Barren» significa literalmente estéril. El ciudadano afirma que no se quedará sin reproches aunque se descarte la codicia. Fuentes: Folger, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; Shakespeare Online, I.1, https://www.shakespeare-online.com/plays/corio_1_1.html.",
+              "lemma": "barren",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/barren"
+            },
+            {
+              "term": "hath",
+              "type": "Nota filológica",
+              "title": "He hath faults",
+              "gloss": "tiene defectos",
+              "body": "«Hath» es la tercera persona singular del presente de «have» en inglés moderno temprano. Fuentes: Folger, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; Shakespeare Online, I.1, https://www.shakespeare-online.com/plays/corio_1_1.html.",
+              "lemma": "have",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/have"
+            },
+            {
+              "term": "surplus",
+              "type": "Nota filológica",
+              "title": "with surplus",
+              "gloss": "de sobra; en abundancia",
+              "body": "La abundancia de defectos invierte irónicamente el motivo económico de la escasez que moviliza a los ciudadanos. Fuentes: Folger, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; Shakespeare Online, I.1, https://www.shakespeare-online.com/plays/corio_1_1.html.",
+              "lemma": "surplus",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/surplus"
             },
             {
               "term": "risen",
-              "type": "Léxico",
-              "title": "risen",
-              "body": "Aquí «levantado» o «sublevado», no simplemente «se ha puesto de pie»."
+              "type": "Nota filológica",
+              "title": "is risen",
+              "gloss": "se ha sublevado",
+              "body": "«Is risen» emplea «be» como auxiliar de un verbo de movimiento o cambio de estado; aquí significa que otra parte de la ciudad se ha levantado en rebelión. Fuentes: Folger, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; Shakespeare Online, I.1, https://www.shakespeare-online.com/plays/corio_1_1.html.",
+              "lemma": "rise",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/rise"
             },
             {
               "term": "prating",
-              "type": "Léxico histórico",
+              "type": "Nota filológica",
               "title": "prating",
-              "body": "Hablar inútilmente, parlotear. El personaje se impacienta con la discusión."
+              "gloss": "parloteando; hablando sin actuar",
+              "body": "El verbo descalifica la discusión mientras se oye la agitación de la ciudad. Fuentes: Folger, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; Shakespeare Online, I.1, https://www.shakespeare-online.com/plays/corio_1_1.html.",
+              "lemma": "prate",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/prate"
             }
           ]
         },
@@ -570,9 +597,12 @@ window.SHAKESPEARE_READER_DATA = {
           "notes": [
             {
               "term": "Soft",
-              "type": "Léxico histórico",
+              "type": "Nota filológica",
               "title": "Soft",
-              "body": "Interjección que pide detenerse o bajar el ritmo: «espera», «un momento», «alto ahí». No debe traducirse literalmente como «suave»."
+              "gloss": "espera; un momento",
+              "body": "Interjección de interrupción, no el adjetivo «suave». El grito colectivo se detiene al aparecer Menenio. Fuentes: Folger, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; Shakespeare Online, I.1, https://www.shakespeare-online.com/plays/corio_1_1.html.",
+              "lemma": "soft",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/soft"
             }
           ],
           "stageBefore": "Entra Menenio Agripa."
@@ -582,7 +612,24 @@ window.SHAKESPEARE_READER_DATA = {
           "speaker": "citizen2",
           "en": "Worthy Menenius Agrippa, one that hath always loved the people.",
           "es": "El digno Menenio Agripa, uno que siempre ha querido al pueblo.",
-          "notes": []
+          "notes": [
+            {
+              "term": "Worthy",
+              "type": "Nota filológica",
+              "title": "Worthy Menenius Agrippa",
+              "gloss": "el estimable Menenio Agripa",
+              "body": "El epíteto muestra que los ciudadanos distinguen entre patricios: no todos son presentados como enemigos. Fuentes: Folger, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; Shakespeare Online, I.1, https://www.shakespeare-online.com/plays/corio_1_1.html."
+            },
+            {
+              "term": "hath",
+              "type": "Nota filológica",
+              "title": "hath always loved",
+              "gloss": "siempre ha querido",
+              "body": "Forma histórica de tercera persona singular de «have»; el perfecto subraya una relación de larga duración. Fuentes: Folger, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; Shakespeare Online, I.1, https://www.shakespeare-online.com/plays/corio_1_1.html.",
+              "lemma": "have",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/have"
+            }
+          ]
         },
         {
           "line": "53–54",
@@ -591,10 +638,18 @@ window.SHAKESPEARE_READER_DATA = {
           "es": "Ese es bastante honrado. ¡Ojalá los demás fueran como él!",
           "notes": [
             {
-              "term": "Would",
-              "type": "Sintaxis",
+              "term": "honest enough",
+              "type": "Nota filológica",
+              "title": "one honest enough",
+              "gloss": "bastante honrado",
+              "body": "La aprobación es deliberadamente limitada: «enough» no equivale a un elogio absoluto. Fuentes: Folger, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; Shakespeare Online, I.1, https://www.shakespeare-online.com/plays/corio_1_1.html."
+            },
+            {
+              "term": "Would all the rest were so",
+              "type": "Nota filológica",
               "title": "Would all the rest were so!",
-              "body": "Construcción optativa: «Ojalá todos los demás fueran así». Would no funciona aquí como simple condicional."
+              "gloss": "¡Ojalá los demás fueran así!",
+              "body": "Construcción optativa con «would» y «were»; expresa un deseo contrario a la valoración que el ciudadano hace del resto de los patricios. Fuentes: Folger, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; Shakespeare Online, I.1, https://www.shakespeare-online.com/plays/corio_1_1.html."
             }
           ]
         },
@@ -606,15 +661,28 @@ window.SHAKESPEARE_READER_DATA = {
           "notes": [
             {
               "term": "What work’s",
-              "type": "Sintaxis",
+              "type": "Nota filológica",
               "title": "What work’s … in hand?",
-              "body": "What work is in hand? equivale a «¿Qué asunto se trae entre manos?». El apóstrofo marca la contracción de is."
+              "gloss": "¿qué asunto traen entre manos?",
+              "body": "«Work’s» contrae «work is»; «in hand» significa en curso o en preparación. Fuentes: Folger, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; Shakespeare Online, I.1, https://www.shakespeare-online.com/plays/corio_1_1.html."
             },
             {
               "term": "bats",
-              "type": "Léxico histórico",
-              "title": "bats",
-              "body": "En este contexto, palos o bastones usados como armas, no murciélagos."
+              "type": "Nota filológica",
+              "title": "bats and clubs",
+              "gloss": "palos y garrotes",
+              "body": "«Bats» designa bastones usados como armas, no animales. La duplicación refuerza el carácter improvisado del armamento. Fuentes: Folger, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; Shakespeare Online, I.1, https://www.shakespeare-online.com/plays/corio_1_1.html.",
+              "lemma": "bat",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/bat"
+            },
+            {
+              "term": "I pray you",
+              "type": "Nota filológica",
+              "title": "I pray you",
+              "gloss": "se lo ruego; por favor",
+              "body": "Fórmula de cortesía que modula las preguntas de Menenio antes de su intervención política. Fuentes: Folger, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; Shakespeare Online, I.1, https://www.shakespeare-online.com/plays/corio_1_1.html.",
+              "lemma": "pray",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/pray"
             }
           ]
         },
@@ -626,21 +694,37 @@ window.SHAKESPEARE_READER_DATA = {
           "notes": [
             {
               "term": "inkling",
-              "type": "Léxico",
-              "title": "inkling",
-              "body": "Indicio, sospecha o conocimiento parcial de algo. Aquí el Senado ya sabe que se prepara una acción."
+              "type": "Nota filológica",
+              "title": "had inkling",
+              "gloss": "tenían indicios; sospechaban",
+              "body": "«Inkling» indica conocimiento parcial; la amenaza no sorprende por completo al Senado. Fuentes: Folger, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; Shakespeare Online, I.1, https://www.shakespeare-online.com/plays/corio_1_1.html.",
+              "lemma": "inkling",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/inkling"
             },
             {
               "term": "this fortnight",
-              "type": "Léxico histórico",
+              "type": "Nota filológica",
               "title": "this fortnight",
-              "body": "Un período de dos semanas. Aquí «durante estas últimas dos semanas»."
+              "gloss": "estas dos últimas semanas",
+              "body": "«Fortnight» es un período de catorce días; «this» señala el intervalo reciente. Fuentes: Folger, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; Shakespeare Online, I.1, https://www.shakespeare-online.com/plays/corio_1_1.html.",
+              "lemma": "fortnight",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/fortnight"
+            },
+            {
+              "term": "poor suitors",
+              "type": "Nota filológica",
+              "title": "poor suitors",
+              "gloss": "peticionarios pobres",
+              "body": "«Suitors» son quienes presentan súplicas o peticiones, no pretendientes amorosos. La frase prepara la burla del aliento. Fuentes: Folger, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; Shakespeare Online, I.1, https://www.shakespeare-online.com/plays/corio_1_1.html.",
+              "lemma": "suitor",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/suitor"
             },
             {
               "term": "strong breaths",
-              "type": "Retórica",
+              "type": "Nota filológica",
               "title": "strong breaths / strong arms",
-              "body": "La primera expresión puede aludir al mal aliento de los pobres que vienen a suplicar; la réplica transforma ese desprecio social en una amenaza física mediante el paralelo con arms."
+              "gloss": "aliento fuerte / brazos fuertes",
+              "body": "El ciudadano devuelve la expresión despectiva aplicada a los peticionarios pobres y la transforma en amenaza física; es una interpretación del juego verbal, no una acotación. Fuentes: Folger, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; Shakespeare Online, I.1, https://www.shakespeare-online.com/plays/corio_1_1.html; SparkNotes, Coriolanus, I.1, https://www.sparknotes.com/shakespeare/coriolanus/section1/."
             }
           ]
         },
@@ -651,10 +735,22 @@ window.SHAKESPEARE_READER_DATA = {
           "es": "Pero, señores, buenos amigos míos, honrados vecinos, ¿quieren provocar su propia ruina?",
           "notes": [
             {
+              "term": "masters",
+              "type": "Nota filológica",
+              "title": "masters",
+              "gloss": "señores; amigos",
+              "body": "Tratamiento de cortesía empleado por Menenio para aproximarse a los sublevados. Fuentes: Folger, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; Shakespeare Online, I.1, https://www.shakespeare-online.com/plays/corio_1_1.html.",
+              "lemma": "master",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/master"
+            },
+            {
               "term": "undo yourselves",
-              "type": "Semántica",
+              "type": "Nota filológica",
               "title": "undo yourselves",
-              "body": "«Arruinarse», «destruirse». Menenio presenta la rebelión como algo que terminará perjudicando a los propios sublevados."
+              "gloss": "arruinarse; destruirse",
+              "body": "Menenio interpreta la rebelión como autodestrucción; el interlocutor contestará repitiendo «undone». Fuentes: Folger, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; Shakespeare Online, I.1, https://www.shakespeare-online.com/plays/corio_1_1.html.",
+              "lemma": "undo",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/undo"
             }
           ]
         },
@@ -666,9 +762,12 @@ window.SHAKESPEARE_READER_DATA = {
           "notes": [
             {
               "term": "undone",
-              "type": "Retórica",
-              "title": "undo / undone",
-              "body": "El segundo ciudadano devuelve a Menenio su misma palabra: no pueden arruinarse porque ya están arruinados. El paralelismo revela la distancia entre las dos perspectivas sociales."
+              "type": "Nota filológica",
+              "title": "we are undone already",
+              "gloss": "ya estamos arruinados",
+              "body": "La réplica invierte la advertencia de Menenio: el daño que teme ya es, para los ciudadanos, una realidad. El eco «undo/undone» hace visible el desacuerdo social. Fuentes: Folger, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; Shakespeare Online, I.1, https://www.shakespeare-online.com/plays/corio_1_1.html.",
+              "lemma": "undo",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/undo"
             }
           ]
         },

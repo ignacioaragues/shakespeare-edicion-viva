@@ -1926,6 +1926,21 @@
         "https://www.litcharts.com/lit/coriolanus/act-1-scene-1"
       ],
       "status": "reviewed_with_open_sources_private_books_pending"
+    },
+    {
+      "id": "coriolanus-1-1-44-66",
+      "act": 1,
+      "scene": 1,
+      "first_line": 44,
+      "last_line": 66,
+      "reviewed_on": "2026-11-15",
+      "scope": "Segunda pasada: 20 notas léxicas y retóricas con glosa española; formas hath, risen, prating; contrastes surplus/escasez, strong breaths/arms, undo/undone; cotejo privado del PDF español localizado en Library, pendiente comparación textual exhaustiva. Parlamentos, traducciones e identificadores estables.",
+      "sources": [
+        "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/",
+        "https://www.shakespeare-online.com/plays/corio_1_1.html",
+        "https://www.sparknotes.com/shakespeare/coriolanus/section1/"
+      ],
+      "status": "reviewed_with_open_sources_private_books_pending"
     }
   ]
 }
