@@ -27162,6 +27162,20 @@ window.SHAKESPEARE_READER_DATA = {
           "english": "Third Conspirator",
           "identity": "Partidario de Aufidio.",
           "color": "slate"
+        },
+        {
+          "id": "lords",
+          "name": "Señores volscos",
+          "english": "Lords of the city",
+          "identity": "Autoridades de la ciudad volsca.",
+          "color": "slate"
+        },
+        {
+          "id": "lord1",
+          "name": "Primer señor volsco",
+          "english": "First Lord",
+          "identity": "Miembro de la autoridad volsca.",
+          "color": "slate"
         }
       ],
       "blocks": [
@@ -27582,6 +27596,114 @@ window.SHAKESPEARE_READER_DATA = {
               "type": "Nota filológica",
               "gloss": "la versión pública que tú proclames",
               "body": "La sintaxis condensa el contraste entre relato oficial y defensa silenciada. La lectura de «after your way» como «según tu versión» es contextual: el conspirador propone que Aufidio controle el relato tras el asesinato. Fuentes: Folger, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.6.html."
+            }
+          ]
+        },
+        {
+          "line": "3780–3781",
+          "speaker": "aufidius",
+          "en": "Say no more.\n[Enter the Lords of the city.]\nHere come the lords.",
+          "es": "No digan más.\n[Entran los señores de la ciudad.]\nAquí llegan los señores.",
+          "notes": [
+            {
+              "term": "Say no more",
+              "title": "Say no more",
+              "type": "Nota filológica",
+              "gloss": "no digan más",
+              "body": "Aufidio corta la propuesta de asesinar a Coriolano antes de que pueda hablar; la interrupción coincide con la llegada de las autoridades. Fuentes: Folger Digital Texts, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; cotejo textual: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.6.html."
+            }
+          ]
+        },
+        {
+          "line": "3782",
+          "speaker": "lords",
+          "en": "You are most welcome home.",
+          "es": "Sean muy bienvenidos de regreso."
+        },
+        {
+          "line": "3783–3785",
+          "speaker": "aufidius",
+          "en": "I have not deserved it.\nBut, worthy lords, have you with heed perused\nWhat I have written to you?",
+          "es": "No he hecho méritos para recibir tal bienvenida.\nPero, dignos señores, ¿han leído con atención\nlo que les he escrito?",
+          "notes": [
+            {
+              "term": "with heed perused",
+              "title": "with heed perused",
+              "type": "Nota filológica",
+              "gloss": "leído detenidamente",
+              "body": "La construcción combina el sustantivo «heed» (atención) con «perused»; Aufidio busca que su denuncia escrita preceda al debate público. Fuentes: Folger Digital Texts, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; cotejo textual: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.6.html.",
+              "lemma": "peruse",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/peruse"
+            }
+          ]
+        },
+        {
+          "line": "3786",
+          "speaker": "lords",
+          "en": "We have.",
+          "es": "Sí, lo hemos leído."
+        },
+        {
+          "line": "3787–3793",
+          "speaker": "lord1",
+          "en": "And grieve to hear ’t.\nWhat faults he made before the last, I think\nMight have found easy fines, but there to end\nWhere he was to begin and give away\nThe benefit of our levies, answering us\nWith our own charge, making a treaty where\nThere was a yielding—this admits no excuse.",
+          "es": "Y nos duele enterarnos.\nCreo que sus faltas anteriores a la última\npodrían haberse saldado con sanciones leves; pero detenerse\njusto cuando debía comenzar, y entregar\nel fruto de nuestras levas, devolviéndonos\nsolo lo que ya habíamos costeado, y pactar un tratado\ncuando el enemigo estaba a punto de rendirse: eso no admite excusa.",
+          "notes": [
+            {
+              "term": "easy fines",
+              "title": "easy fines",
+              "type": "Nota filológica",
+              "gloss": "sanciones leves",
+              "body": "«Fine» puede aludir a una multa o penalización; el señor distingue faltas anteriores reparables de la decisión final. Fuentes: Folger Digital Texts, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; cotejo textual: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.6.html.",
+              "lemma": "fine",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/fine"
+            },
+            {
+              "term": "there to end / Where he was to begin",
+              "title": "there to end / Where he was to begin",
+              "type": "Nota filológica",
+              "gloss": "detenerse cuando debía empezar",
+              "body": "Antítesis temporal: para los volscos, alcanzar las puertas de Roma era el comienzo de la victoria, no el final de la campaña. Fuentes: Folger Digital Texts, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; cotejo textual: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.6.html."
+            },
+            {
+              "term": "levies",
+              "title": "levies",
+              "type": "Nota filológica",
+              "gloss": "tropas reclutadas; levas",
+              "body": "Aquí alude a los recursos humanos movilizados para la guerra, no a impuestos en abstracto. Fuentes: Folger Digital Texts, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; cotejo textual: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.6.html.",
+              "lemma": "levy",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/levy"
+            },
+            {
+              "term": "our own charge",
+              "title": "our own charge",
+              "type": "Nota filológica",
+              "gloss": "lo que habíamos costeado",
+              "body": "«Charge» señala el gasto de la expedición; la queja sostiene que la paz apenas compensa los recursos aportados. Fuentes: Folger Digital Texts, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; cotejo textual: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.6.html.",
+              "lemma": "charge",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/charge"
+            },
+            {
+              "term": "making a treaty where / There was a yielding",
+              "title": "making a treaty where / There was a yielding",
+              "type": "Nota filológica",
+              "gloss": "negociar cuando se esperaba una rendición",
+              "body": "El señor considera que Coriolano sustituyó una capitulación militar por un acuerdo. Es la valoración interesada del personaje, no un hecho que el editor deba adoptar sin matices. Fuentes: Folger Digital Texts, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; cotejo textual: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.6.html."
+            }
+          ]
+        },
+        {
+          "line": "3794",
+          "speaker": "aufidius",
+          "en": "[Enter Coriolanus marching with Drum and Colors, the Commoners being with him.]\nHe approaches. You shall hear him.",
+          "es": "[Entra Coriolano marchando con tambores y estandartes, acompañado por gente del pueblo.]\nSe acerca. Podrán escucharlo.",
+          "notes": [
+            {
+              "term": "You shall hear him",
+              "title": "You shall hear him",
+              "type": "Nota filológica",
+              "gloss": "podrán escucharlo",
+              "body": "La promesa de audiencia pública contrasta irónicamente con el plan anterior de silenciarlo; el contraste es una lectura dramática, no una variante textual. Fuentes: Folger Digital Texts, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; cotejo textual: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.6.html."
             }
           ]
         }
