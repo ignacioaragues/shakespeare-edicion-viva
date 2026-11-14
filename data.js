@@ -27131,8 +27131,8 @@ window.SHAKESPEARE_READER_DATA = {
       "scene": 6,
       "place": "Antium · plaza pública",
       "sourceRef": "Folger Shakespeare Library · V.6",
-      "sectionLabel": "Fragmento · líneas 3711–3757",
-      "introduction": "Aufidio prepara su acusación y relata cómo la hospitalidad y el mando compartido terminaron, según él, en una humillación política.",
+      "sectionLabel": "Fragmento · líneas 3711–3779",
+      "introduction": "Aufidio convierte la paz acordada con Roma en motivo de venganza; sus conspiradores planean silenciar a Coriolano antes de que pueda hablar ante el pueblo.",
       "stage": "Entra Tulio Aufidio con sus acompañantes.",
       "characters": [
         {
@@ -27422,6 +27422,166 @@ window.SHAKESPEARE_READER_DATA = {
               "body": "Aufidio denuncia que Coriolano lo trataba como asalariado y lo recompensaba solo con muestras de favor. La lectura de «countenance» como semblante o favor personal admite matices. Fuentes: Folger, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; contraste textual: https://shakespeare.mit.edu/coriolanus/coriolanus.5.6.html.",
               "lemma": "wage",
               "lemmaUrl": "https://en.wiktionary.org/wiki/wage"
+            }
+          ]
+        },
+        {
+          "line": "3758–3761",
+          "speaker": "conspirator1",
+          "en": "So he did, my lord.\nThe army marvelled at it, and, in the last,\nWhen he had carried Rome and that we looked\nFor no less spoil than glory—",
+          "es": "Así fue, señor.\nEl ejército se asombró de ello; y, al final,\ncuando ya había sometido a Roma y esperábamos\nun botín no menor que la gloria...",
+          "notes": [
+            {
+              "term": "carried Rome",
+              "title": "carried Rome",
+              "type": "Nota filológica",
+              "gloss": "había sometido a Roma",
+              "body": "«Carry» tiene aquí valor militar: haber alcanzado la victoria sobre Roma; el conspirador presenta como consumada una conquista que finalmente no se materializó. Fuentes: Folger, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.6.html.",
+              "lemma": "carry",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/carry"
+            },
+            {
+              "term": "spoil",
+              "title": "spoil",
+              "type": "Nota filológica",
+              "gloss": "botín",
+              "body": "El conspirador contrapone el beneficio material de la campaña a la fama militar. La expectativa del botín hace visible el interés colectivo que Aufidio invoca. Fuentes: Folger, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.6.html.",
+              "lemma": "spoil",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/spoil"
+            }
+          ]
+        },
+        {
+          "line": "3762–3767",
+          "speaker": "aufidius",
+          "en": "There was it\nFor which my sinews shall be stretched upon him.\nAt a few drops of women’s rheum, which are\nAs cheap as lies, he sold the blood and labor\nOf our great action. Therefore shall he die,\nAnd I’ll renew me in his fall. But hark!",
+          "es": "Ahí está precisamente\nla razón por la que emplearé todas mis fuerzas contra él.\nPor unas gotas de lágrimas de mujer, tan baratas\ncomo las mentiras, vendió la sangre y el esfuerzo\nde nuestra gran empresa. Por eso ha de morir,\ny yo recobraré mi posición con su caída. ¡Pero escuchen!",
+          "notes": [
+            {
+              "term": "sinews",
+              "title": "sinews",
+              "type": "Nota filológica",
+              "gloss": "tendones; fuerzas",
+              "body": "Metonimia corporal: los tendones representan la fuerza que Aufidio está dispuesto a emplear. «Stretched upon him» permite percibir la tensión física de esa ofensiva. Fuentes: Folger, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.6.html.",
+              "lemma": "sinew",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/sinew"
+            },
+            {
+              "term": "women’s rheum",
+              "title": "women’s rheum",
+              "type": "Nota filológica",
+              "gloss": "lágrimas de mujeres",
+              "body": "«Rheum» designa un flujo de líquido corporal; aquí, despectivamente, las lágrimas de las mujeres que persuadieron a Coriolano. La valoración pertenece a Aufidio, no al editor. Fuentes: Folger, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.6.html.",
+              "lemma": "rheum",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/rheum"
+            },
+            {
+              "term": "As cheap as lies",
+              "title": "As cheap as lies",
+              "type": "Nota filológica",
+              "gloss": "tan baratas como las mentiras",
+              "body": "Símil que devalúa las lágrimas y presenta la clemencia como una transacción indigna. Contrasta con la escena V.3, en que la intervención de Volumnia se representa como decisiva. Fuentes: Folger, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.6.html."
+            },
+            {
+              "term": "renew me",
+              "title": "renew me",
+              "type": "Nota filológica",
+              "gloss": "recobraré mi posición",
+              "body": "El verbo alude a la recuperación del poder y prestigio de Aufidio mediante la eliminación de su rival; «renovarme» sería un calco poco claro. Fuentes: Folger, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.6.html.",
+              "lemma": "renew",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/renew"
+            }
+          ]
+        },
+        {
+          "line": "3768–3770",
+          "speaker": "conspirator1",
+          "en": "[Drums and trumpets sound, with great shouts of the people.]\nYour native town you entered like a post\nAnd had no welcomes home, but he returns\nSplitting the air with noise.",
+          "es": "[Suenan tambores y trompetas, entre grandes aclamaciones del pueblo.]\nTú entraste en tu ciudad natal como un simple mensajero,\nsin que nadie te diera la bienvenida; él, en cambio, regresa\nentre clamores que parten el aire.",
+          "notes": [
+            {
+              "term": "like a post",
+              "title": "like a post",
+              "type": "Nota filológica",
+              "gloss": "como un mensajero de posta",
+              "body": "«Post» se refiere al correo o mensajero que llega sin ceremonia; la comparación acentúa la humillación de Aufidio frente a la acogida de Coriolano. Fuentes: Folger, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.6.html.",
+              "lemma": "post",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/post"
+            },
+            {
+              "term": "Splitting the air",
+              "title": "Splitting the air",
+              "type": "Nota filológica",
+              "gloss": "partiendo el aire",
+              "body": "Hipérbole acústica de la ovación. Los tambores y las trompetas constituyen una indicación escénica que permite oír el contraste entre los dos generales. Fuentes: Folger, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.6.html."
+            }
+          ]
+        },
+        {
+          "line": "3771–3773",
+          "speaker": "conspirator2",
+          "en": "And patient fools,\nWhose children he hath slain, their base throats tear\nWith giving him glory.",
+          "es": "Y esos necios que todo lo soportan,\ncuyos hijos él ha matado, se desgarran\nsus miserables gargantas para aclamarlo.",
+          "notes": [
+            {
+              "term": "patient fools",
+              "title": "patient fools",
+              "type": "Nota filológica",
+              "gloss": "necios resignados",
+              "body": "«Patient» destaca la tolerancia o pasividad que el conspirador desprecia: el pueblo celebra al hombre que causó pérdidas entre sus familias. Fuentes: Folger, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.6.html.",
+              "lemma": "patient",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/patient"
+            },
+            {
+              "term": "hath slain",
+              "title": "hath slain",
+              "type": "Nota filológica",
+              "gloss": "ha matado",
+              "body": "«Hath» es forma histórica de tercera persona singular de «have», auxiliar del perfecto; «slain» es participio de «slay». Fuentes: Folger, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.6.html.",
+              "lemma": "slay",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/slay"
+            }
+          ]
+        },
+        {
+          "line": "3774–3779",
+          "speaker": "conspirator3",
+          "en": "Therefore at your vantage,\nEre he express himself or move the people\nWith what he would say, let him feel your sword,\nWhich we will second. When he lies along,\nAfter your way his tale pronounced shall bury\nHis reasons with his body.",
+          "es": "Por eso, cuando se presente la ocasión favorable,\nantes de que pueda explicarse o conmover al pueblo\ncon sus palabras, haz que sienta tu espada:\nnosotros te secundaremos. Una vez que yazca tendido,\nla versión que tú hagas pública de lo ocurrido\nsepultará sus razones junto con su cuerpo.",
+          "notes": [
+            {
+              "term": "at your vantage",
+              "title": "at your vantage",
+              "type": "Nota filológica",
+              "gloss": "en el momento oportuno",
+              "body": "«Vantage» señala una posición ventajosa para actuar; el conspirador propone atacar antes de que Coriolano pueda defenderse verbalmente. Fuentes: Folger, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.6.html.",
+              "lemma": "vantage",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/vantage"
+            },
+            {
+              "term": "Ere",
+              "title": "Ere",
+              "type": "Nota filológica",
+              "gloss": "antes de que",
+              "body": "Conjunción temporal frecuente en el inglés moderno temprano; introduce la urgencia de impedir la intervención pública de Coriolano. Fuentes: Folger, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.6.html.",
+              "lemma": "ere",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/ere"
+            },
+            {
+              "term": "second",
+              "title": "second",
+              "type": "Nota filológica",
+              "gloss": "secundaremos; respaldaremos",
+              "body": "Verbo militar y político: los conspiradores prometen apoyar materialmente el golpe de Aufidio. Fuentes: Folger, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.6.html.",
+              "lemma": "second",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/second"
+            },
+            {
+              "term": "his tale pronounced",
+              "title": "his tale pronounced",
+              "type": "Nota filológica",
+              "gloss": "la versión pública que tú proclames",
+              "body": "La sintaxis condensa el contraste entre relato oficial y defensa silenciada. La lectura de «after your way» como «según tu versión» es contextual: el conspirador propone que Aufidio controle el relato tras el asesinato. Fuentes: Folger, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.6.html."
             }
           ]
         }

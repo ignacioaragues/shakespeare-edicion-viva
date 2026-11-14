@@ -1804,13 +1804,22 @@
       "last_line": 3757,
       "editorial_state": "translated_source_checked_external_references",
       "note": "Tres parlamentos completos (24 líneas). Cotejo Folger y MIT; lectura crítica de Goldman (1985) sobre la caracterización de Coriolano. Cotejo privado y revisión retrospectiva pendientes."
+    },
+    {
+      "id": "coriolanus-5-6-3758-3779",
+      "act": 5,
+      "scene": 6,
+      "first_line": 3758,
+      "last_line": 3779,
+      "editorial_state": "translated_source_checked_external_references",
+      "note": "Cinco parlamentos completos (22 líneas Folger), cotejados con Folger y MIT; glosas españolas y notas sobre botín, lágrimas, ovación y control del relato. Revisión bibliográfica privada pendiente."
     }
   ],
   "next_fragment": {
     "act": 5,
     "scene": 6,
-    "first_line": 3758,
-    "note": "Continuar con el primer conspirador y la respuesta de Aufidio, sin cortar parlamentos."
+    "first_line": 3780,
+    "note": "Retomar con la respuesta de Aufidio y la entrada de los señores volscos; preservar parlamentos completos."
   },
   "completed_acts": [],
   "last_update_commit": "pending_atomic_commit",
