@@ -1956,6 +1956,21 @@
         "https://www.litcharts.com/lit/coriolanus/act-1-scene-1"
       ],
       "status": "reviewed_with_open_sources_private_books_pending"
+    },
+    {
+      "id": "coriolanus-1-1-81-97",
+      "act": 1,
+      "scene": 1,
+      "first_line": 81,
+      "last_line": 97,
+      "reviewed_on": "2026-11-15",
+      "scope": "Segunda pasada de 15 notas: usura, ley, hambre y retórica de la fábula; cotejo de variante stale/scale en Folger I.1.94; glosas contextuales y enlaces léxicos; parlamentos y localizadores intactos.",
+      "sources": [
+        "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/",
+        "https://www.folger.edu/explore/shakespeares-works/coriolanus/textual-notes/",
+        "https://www.litcharts.com/lit/coriolanus/act-1-scene-1"
+      ],
+      "status": "reviewed_with_open_sources_private_books_pending"
     }
   ]
 }

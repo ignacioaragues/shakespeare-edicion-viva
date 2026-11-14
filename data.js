@@ -869,21 +869,58 @@ window.SHAKESPEARE_READER_DATA = {
           "notes": [
             {
               "term": "Care for us?",
-              "type": "Retórica",
               "title": "Care for us?",
-              "body": "La interrogación repite con incredulidad el care for you de Menenio. El ciudadano desmonta la metáfora paternal mediante ejemplos materiales."
+              "type": "Nota filológica",
+              "gloss": "¿Que nos cuidan?",
+              "body": "La interrogación eco responde a la imagen paternal de Menenio; la ironía es del ciudadano, no una afirmación del narrador. Referencias: Folger, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; https://www.litcharts.com/lit/coriolanus/act-1-scene-1."
             },
             {
-              "term": "usury",
-              "type": "Léxico histórico",
-              "title": "usury",
-              "body": "Préstamo con interés, a menudo entendido como interés abusivo. La acusación apunta a leyes que favorecen a quienes prestan dinero."
+              "term": "Suffer us to famish",
+              "title": "Suffer us to famish",
+              "type": "Nota filológica",
+              "gloss": "nos dejan morir de hambre",
+              "body": "«Suffer» expresa aquí permitir o tolerar que ocurra algo, no padecerlo; «famish» significa morir o desfallecer de hambre. Referencias: Folger, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; https://www.litcharts.com/lit/coriolanus/act-1-scene-1.",
+              "lemma": "suffer",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/suffer"
+            },
+            {
+              "term": "storehouses crammed with grain",
+              "title": "storehouses crammed with grain",
+              "type": "Nota filológica",
+              "gloss": "graneros atestados de cereal",
+              "body": "El contraste entre el acopio y la inanición contradice la explicación providencial de Menenio. Referencias: Folger, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; https://www.litcharts.com/lit/coriolanus/act-1-scene-1."
+            },
+            {
+              "term": "edicts for usury",
+              "title": "edicts for usury",
+              "type": "Nota filológica",
+              "gloss": "decretos sobre la usura",
+              "body": "La acusación denuncia protección legal de los prestamistas; no demuestra por sí sola que toda forma de interés fuera ilícita. Referencias: Folger, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; https://www.litcharts.com/lit/coriolanus/act-1-scene-1.",
+              "lemma": "usury",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/usury"
+            },
+            {
+              "term": "wholesome act",
+              "title": "wholesome act",
+              "type": "Nota filológica",
+              "gloss": "ley beneficiosa",
+              "body": "«Wholesome» califica una disposición favorable al bienestar público, no su salubridad física. Referencias: Folger, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; https://www.litcharts.com/lit/coriolanus/act-1-scene-1.",
+              "lemma": "wholesome",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/wholesome"
             },
             {
               "term": "piercing statutes",
-              "type": "Imagen",
               "title": "piercing statutes",
-              "body": "Piercing evoca algo que penetra o hiere. La dureza de las leyes contra los pobres se representa como violencia física."
+              "type": "Nota filológica",
+              "gloss": "leyes que hieren; disposiciones opresivas",
+              "body": "El adjetivo traslada al derecho la imagen de una lesión física; «chain up» prolonga la metáfora coercitiva. Referencias: Folger, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; https://www.litcharts.com/lit/coriolanus/act-1-scene-1."
+            },
+            {
+              "term": "If the wars eat us not up",
+              "title": "If the wars eat us not up",
+              "type": "Nota filológica",
+              "gloss": "si las guerras no nos devoran",
+              "body": "La personificación de la guerra como fuerza devoradora retoma el campo léxico del hambre y anticipa la fábula del vientre. Referencias: Folger, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; https://www.litcharts.com/lit/coriolanus/act-1-scene-1."
             }
           ]
         },
@@ -894,16 +931,38 @@ window.SHAKESPEARE_READER_DATA = {
           "es": "O reconocen que son extraordinariamente malintencionados, o habrá que acusarlos de necios. Les contaré una bonita fábula. Tal vez ya la hayan oído, pero, como viene bien a mi propósito, me arriesgaré a gastarla un poco más de tanto repetirla.",
           "notes": [
             {
-              "term": "wondrous",
-              "type": "Lengua",
-              "title": "wondrous",
-              "body": "Funciona aquí como intensificador adverbial: «extraordinariamente». No describe algo maravilloso en sentido elogioso."
+              "term": "wondrous malicious",
+              "title": "wondrous malicious",
+              "type": "Nota filológica",
+              "gloss": "extraordinariamente malintencionados",
+              "body": "«Wondrous» actúa como intensificador adverbial; Menenio plantea una disyuntiva que desacredita a los ciudadanos. Referencias: Folger, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; https://www.litcharts.com/lit/coriolanus/act-1-scene-1.",
+              "lemma": "wondrous",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/wondrous"
             },
             {
-              "term": "stale",
-              "type": "Léxico y edición",
+              "term": "folly",
+              "title": "folly",
+              "type": "Nota filológica",
+              "gloss": "necedad; insensatez",
+              "body": "La alternativa retórica de Menenio reduce la denuncia a malicia o ignorancia. Referencias: Folger, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; https://www.litcharts.com/lit/coriolanus/act-1-scene-1.",
+              "lemma": "folly",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/folly"
+            },
+            {
+              "term": "pretty tale",
+              "title": "pretty tale",
+              "type": "Nota filológica",
+              "gloss": "bonita fábula; relato ingenioso",
+              "body": "«Pretty» puede aludir a una narración hábil y agradable; el relato cumple una función persuasiva explícita. Referencias: Folger, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; https://www.litcharts.com/lit/coriolanus/act-1-scene-1."
+            },
+            {
+              "term": "stale ’t",
               "title": "stale ’t",
-              "body": "«Volverla trillada» o «gastarla por repetición». Folger señala la palabra como intervención editorial; conviene cotejar el aparato textual antes de atribuir una variante concreta al Folio."
+              "type": "Nota filológica",
+              "gloss": "volverla trillada; gastarla de tanto contarla",
+              "body": "Folger imprime «stale», lectura editorial frente a «scale» del First Folio (nota textual I.1.94). La enmienda hace inteligible la broma sobre repetir una fábula conocida. Referencias: Folger, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; Folger, Textual Notes I.1.94, https://www.folger.edu/explore/shakespeares-works/coriolanus/textual-notes/.",
+              "lemma": "stale",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/stale"
             }
           ]
         },
@@ -915,15 +974,39 @@ window.SHAKESPEARE_READER_DATA = {
           "notes": [
             {
               "term": "fob off",
-              "type": "Locución",
               "title": "fob off",
-              "body": "Quitarse de encima una reclamación con una excusa o sustituto insuficiente. El ciudadano sospecha que la fábula desviará la discusión de su sufrimiento."
+              "type": "Nota filológica",
+              "gloss": "despachar con una excusa; quitarse de encima",
+              "body": "El ciudadano advierte que no aceptará un relato como sustituto de remedios materiales. Referencias: Folger, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; https://www.litcharts.com/lit/coriolanus/act-1-scene-1.",
+              "lemma": "fob",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/fob"
+            },
+            {
+              "term": "our disgrace",
+              "title": "our disgrace",
+              "type": "Nota filológica",
+              "gloss": "nuestra desgracia; situación humillante",
+              "body": "Aquí «disgrace» se refiere a la condición miserable de los ciudadanos, no necesariamente a una falta moral. Referencias: Folger, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; https://www.litcharts.com/lit/coriolanus/act-1-scene-1.",
+              "lemma": "disgrace",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/disgrace"
             },
             {
               "term": "an ’t please you",
-              "type": "Sintaxis histórica",
               "title": "an ’t please you",
-              "body": "Fórmula condicional de cortesía, aproximadamente «si le place». An equivale a if y ’t a it."
+              "type": "Nota filológica",
+              "gloss": "si le place; si gusta",
+              "body": "«An» es una conjunción condicional histórica equivalente a «if» y «’t» representa «it»; la cortesía no implica que el ciudadano retire su objeción. Referencias: Folger, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; https://www.litcharts.com/lit/coriolanus/act-1-scene-1.",
+              "lemma": "an",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/an"
+            },
+            {
+              "term": "deliver",
+              "title": "deliver",
+              "type": "Nota filológica",
+              "gloss": "cuéntela; expóngala",
+              "body": "Imperativo dirigido a Menenio para que relate la fábula; no significa aquí entregar un objeto. Referencias: Folger, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; https://www.litcharts.com/lit/coriolanus/act-1-scene-1.",
+              "lemma": "deliver",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/deliver"
             }
           ]
         },
