@@ -243,6 +243,40 @@
     return button;
   }
 
+  // Verse breaks are zero-text DOM markers: neither en/es nor reading offsets change.
+  // Each anchor is checked against the published string before applying the layout.
+  const verifiedVerseStarts = {
+    'coriolanus-1-1|67–80': {
+      en: ['Have the patricians','Your suffering','Strike at the heaven','Against the Roman state','The way it takes','Of more strong link','Appear in your impediment','The gods, not the patricians','Your knees to them','You are transported','Thither where more attends','The helms o’ th’ state','When you curse them'],
+      es: ['En cuanto a sus necesidades','y a lo que sufren','tanto les serviría','como alzarlos contra','Este seguirá su curso','y romperá diez mil','más resistentes que','La escasez la causan','deben buscar remedio','¡Ay! La desgracia','hacia males aún mayores','y ustedes calumnian','llamándolos enemigos']
+    }
+  };
+
+  function restoreVisualVerseLines(paragraph, sourceText, starts) {
+    if (!starts || !starts.length) return;
+    const positions = starts.map(anchor => sourceText.indexOf(anchor));
+    if (positions.some((position, i) => position <= 0 || sourceText.indexOf(starts[i], position + 1) !== -1)
+        || positions.some((position, i) => i > 0 && position <= positions[i - 1])) return;
+    // Apply backwards so splitting nodes cannot shift earlier character positions.
+    for (const position of positions.reverse()) {
+      const walker = document.createTreeWalker(paragraph, NodeFilter.SHOW_TEXT);
+      let textNode, cursor = 0;
+      while ((textNode = walker.nextNode())) {
+        if (textNode.parentElement?.closest('.supplemental-notes')) continue;
+        const end = cursor + textNode.length;
+        if (position <= end && position >= cursor) {
+          const marker = el('span', 'verse-break');
+          marker.setAttribute('aria-hidden', 'true');
+          if (position === cursor) textNode.before(marker);
+          else if (position === end) textNode.after(marker);
+          else textNode.splitText(position - cursor).before(marker);
+          break;
+        }
+        cursor = end;
+      }
+    }
+  }
+
   function renderSpeech(block, index, sourceScene) {
     const row = el('article', 'speech-row');
     row.dataset.index = String(index);
@@ -274,12 +308,16 @@
     englishCell.appendChild(characterButton(character, false));
     const englishParagraph = el('p', 'speech-text');
     englishParagraph.appendChild(originalText(block.en, block.notes || []));
+    const verseLayout = verifiedVerseStarts[sourceScene.id + '|' + block.line];
+    restoreVisualVerseLines(englishParagraph, block.en, verseLayout?.en);
     englishCell.appendChild(englishParagraph);
     row.appendChild(englishCell);
 
     const spanishCell = el('div', 'speech-cell spanish');
     spanishCell.appendChild(characterButton(character, true));
-    spanishCell.appendChild(el('p', 'speech-text', block.es));
+    const spanishParagraph = el('p', 'speech-text', block.es);
+    restoreVisualVerseLines(spanishParagraph, block.es, verseLayout?.es);
+    spanishCell.appendChild(spanishParagraph);
     row.appendChild(spanishCell);
     return row;
   }

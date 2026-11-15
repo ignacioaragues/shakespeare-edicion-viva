@@ -301,3 +301,6 @@ body.dividers-on .inline-stage,body.dividers-on .stage-direction{border-bottom:1
 @media(max-width:1160px){.topbar{grid-template-columns:225px minmax(0,1fr)}.topbar-actions{position:absolute;right:0;top:19px}}
 @media(max-width:860px){.topbar-actions{position:static;padding:0;gap:7px;min-width:0}.topbar-actions .ev-highlights-nav{padding:7px 9px}}
 @media(max-width:600px){.topbar-actions{gap:5px}.topbar-actions .source-button{font-size:9px}.topbar-actions .ev-highlights-nav{font-size:10px}}
+
+/* Display-only verse boundaries; markers contribute no text to highlight offsets. */
+.speech-text .verse-break{display:block;height:0;line-height:0;pointer-events:none}
