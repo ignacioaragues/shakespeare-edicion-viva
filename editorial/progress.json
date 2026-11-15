@@ -2273,6 +2273,21 @@
         "https://www.folger.edu/explore/shakespeares-works/coriolanus/reading-shakespeares-language-coriolanus/"
       ],
       "status": "reviewed_with_open_sources_private_books_pending"
+    },
+    {
+      "id": "coriolanus-1-6-658-706",
+      "act": 1,
+      "scene": 6,
+      "first_line": 658,
+      "last_line": 706,
+      "reviewed_on": "2026-11-16",
+      "scope": "Segunda pasada crítica de 49 líneas y 36 fichas glosadas: retirada estratégica, vanguardia de Ancio, juramento militar, sangre como pintura, antítesis muerte/vida y selección de voluntarios. Variantes Antiates/Antients, Lesser/Lessen e I/foure documentadas con el aparato Folger. Texto EN/ES e IDs preservados; cotejo privado y QA visual pendientes.",
+      "sources": [
+        "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/6/",
+        "https://www.folger.edu/explore/shakespeares-works/coriolanus/textual-notes/",
+        "https://shakespeare.mit.edu/coriolanus/coriolanus.1.6.html"
+      ],
+      "status": "reviewed_with_open_sources_private_books_pending"
     }
   ],
   "verse_format_reviews": [

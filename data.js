@@ -5527,19 +5527,22 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "Will the time serve",
               "type": "Locución",
               "title": "¿Hay tiempo suficiente?",
-              "body": "Serve expresa aquí que el tiempo alcance para una tarea."
+              "body": "Serve expresa suficiencia: Marcio corta la narración para exigir acción inmediata. Fuente: Folger, Coriolanus I.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/6/; cotejo: MIT Shakespeare, I.6, https://shakespeare.mit.edu/coriolanus/coriolanus.1.6.html.",
+              "gloss": "¿habrá tiempo?"
             },
             {
               "term": "lords o’ th’ field",
               "type": "Metáfora militar",
               "title": "Dueños del campo",
-              "body": "Ser señores del campo equivale a controlar la posición tras la batalla."
+              "body": "Ser lord del campo equivale a controlar el terreno tras el combate, no a ostentar un título nobiliario. Fuente: Folger, Coriolanus I.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/6/; cotejo: MIT Shakespeare, I.6, https://shakespeare.mit.edu/coriolanus/coriolanus.1.6.html.",
+              "gloss": "dueños del campo"
             },
             {
               "term": "why cease you",
               "type": "Sintaxis histórica",
               "title": "Interrogación sin do",
-              "body": "El verbo léxico precede al sujeto sin el auxiliar do habitual en el inglés actual."
+              "body": "Interrogación exhortativa: la victoria debe consumarse antes de descansar. Fuente: Folger, Coriolanus I.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/6/; cotejo: MIT Shakespeare, I.6, https://shakespeare.mit.edu/coriolanus/coriolanus.1.6.html.",
+              "gloss": "¿por qué se detienen?"
             }
           ]
         },
@@ -5553,13 +5556,15 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "at disadvantage",
               "type": "Léxico militar",
               "title": "En condiciones desfavorables",
-              "body": "La expresión indica desventaja táctica, no necesariamente inferioridad numérica."
+              "body": "La retirada de Cominio se presenta como decisión táctica, no como cobardía. Fuente: Folger, Coriolanus I.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/6/; cotejo: MIT Shakespeare, I.6, https://shakespeare.mit.edu/coriolanus/coriolanus.1.6.html.",
+              "gloss": "en desventaja"
             },
             {
               "term": "retire to win our purpose",
               "type": "Estrategia",
               "title": "Retirada deliberada",
-              "body": "Cominio presenta la retirada como un medio para lograr su objetivo; el texto no especifica aquí todos los detalles del plan."
+              "body": "La paradoja verbal opone el retroceso físico a la finalidad estratégica. Fuente: Folger, Coriolanus I.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/6/; cotejo: MIT Shakespeare, I.6, https://shakespeare.mit.edu/coriolanus/coriolanus.1.6.html.",
+              "gloss": "retirarnos para lograr el objetivo"
             }
           ]
         },
@@ -5573,13 +5578,15 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "battle",
               "type": "Léxico militar",
               "title": "Formación de combate",
-              "body": "Battle puede designar el cuerpo de tropas o su disposición, no solo el enfrentamiento mismo."
+              "body": "Battle puede designar la disposición de un ejército, no solo el enfrentamiento. Fuente: Folger, Coriolanus I.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/6/; cotejo: MIT Shakespeare, I.6, https://shakespeare.mit.edu/coriolanus/coriolanus.1.6.html.",
+              "gloss": "formación de combate"
             },
             {
               "term": "men of trust",
               "type": "Léxico",
               "title": "Tropas de confianza",
-              "body": "La expresión destaca a los soldados considerados más fiables por sus mandos."
+              "body": "Expresión militar que identifica el sector más fiable de las fuerzas enemigas. Fuente: Folger, Coriolanus I.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/6/; cotejo: MIT Shakespeare, I.6, https://shakespeare.mit.edu/coriolanus/coriolanus.1.6.html.",
+              "gloss": "tropas de confianza"
             }
           ]
         },
@@ -5593,25 +5600,31 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "As I guess",
               "type": "Modalidad",
               "title": "Información no confirmada",
-              "body": "Cominio presenta la identificación de las tropas como una conjetura, no como certeza."
+              "body": "Cominio señala que su conocimiento de la formación enemiga es conjetural. Fuente: Folger, Coriolanus I.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/6/; cotejo: MIT Shakespeare, I.6, https://shakespeare.mit.edu/coriolanus/coriolanus.1.6.html.",
+              "gloss": "según calculo"
             },
             {
               "term": "vaward",
               "type": "Léxico militar histórico",
               "title": "Vanguardia",
-              "body": "Forma histórica de vanward: la parte adelantada de una formación militar."
+              "body": "Forma histórica de vanward, el frente del ejército. Fuente: Folger, Coriolanus I.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/6/; cotejo: MIT Shakespeare, I.6, https://shakespeare.mit.edu/coriolanus/coriolanus.1.6.html.",
+              "gloss": "vanguardia",
+              "lemma": "vaward",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/vaward"
             },
             {
               "term": "Antiates",
               "type": "Geografía y gentilicio",
               "title": "Los de Ancio",
-              "body": "Designa a los hombres de Antium (Ancio), ciudad volsca; no debe confundirse con el conjunto de los volscos."
+              "body": "Gentilicio de Antium. Folger adopta Antiates donde el Primer Folio imprime Antients; la lectura es una enmienda editorial. Fuente: Folger, Coriolanus I.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/6/ Aparato de variantes: https://www.folger.edu/explore/shakespeares-works/coriolanus/textual-notes/; cotejo: MIT Shakespeare, I.6, https://shakespeare.mit.edu/coriolanus/coriolanus.1.6.html.",
+              "gloss": "hombres de Ancio"
             },
             {
               "term": "heart of hope",
               "type": "Metáfora",
               "title": "Centro de sus esperanzas",
-              "body": "Aufidio aparece como el sostén principal de la confianza militar volsca."
+              "body": "Metáfora corporal que presenta a Aufidio como núcleo moral de las fuerzas volscas. Fuente: Folger, Coriolanus I.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/6/; cotejo: MIT Shakespeare, I.6, https://shakespeare.mit.edu/coriolanus/coriolanus.1.6.html.",
+              "gloss": "centro de sus esperanzas"
             }
           ]
         },
@@ -5625,31 +5638,40 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "beseech",
               "type": "Léxico",
               "title": "Súplica enfática",
-              "body": "Beseech expresa un ruego insistente; Marcio apela a la relación personal con Cominio, aunque se trata de una petición militar."
+              "body": "Verbo de petición intensa; introduce una apelación acumulativa a la amistad militar. Fuente: Folger, Coriolanus I.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/6/; cotejo: MIT Shakespeare, I.6, https://shakespeare.mit.edu/coriolanus/coriolanus.1.6.html.",
+              "gloss": "suplico",
+              "lemma": "beseech",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/beseech"
             },
             {
               "term": "endure friends",
               "type": "Sintaxis histórica",
               "title": "Permanecer amigos",
-              "body": "Endure tiene aquí valor intransitivo de «perdurar» o «mantenerse»: los dos han jurado conservar su amistad."
+              "body": "Endure funciona como 'permanecer'; el juramento compromete una amistad duradera. Fuente: Folger, Coriolanus I.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/6/; cotejo: MIT Shakespeare, I.6, https://shakespeare.mit.edu/coriolanus/coriolanus.1.6.html.",
+              "gloss": "seguir siendo amigos",
+              "lemma": "endure",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/endure"
             },
             {
               "term": "directly",
               "type": "Léxico histórico",
               "title": "Sin demora",
-              "body": "El adverbio puede indicar inmediatez; la petición exige asignarlo enseguida al frente de Aufidio."
+              "body": "En este contexto exige enfrentar a Marcio con Aufidio sin desvíos ni dilaciones. Fuente: Folger, Coriolanus I.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/6/; cotejo: MIT Shakespeare, I.6, https://shakespeare.mit.edu/coriolanus/coriolanus.1.6.html.",
+              "gloss": "sin demora / directamente"
             },
             {
               "term": "delay the present",
               "type": "Interpretación",
               "title": "No perder la ocasión",
-              "body": "Present se entiende como la oportunidad o situación actual; no se refiere a un obsequio."
+              "body": "Present es la oportunidad actual de combate, no un regalo. Fuente: Folger, Coriolanus I.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/6/; cotejo: MIT Shakespeare, I.6, https://shakespeare.mit.edu/coriolanus/coriolanus.1.6.html.",
+              "gloss": "aplazar la ocasión"
             },
             {
               "term": "prove",
               "type": "Léxico",
               "title": "Poner a prueba",
-              "body": "Prove puede significar «probar» o «demostrar mediante la experiencia»; aquí propone resolver el enfrentamiento en combate."
+              "body": "Prove es someter a prueba el valor en el enfrentamiento. Fuente: Folger, Coriolanus I.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/6/; cotejo: MIT Shakespeare, I.6, https://shakespeare.mit.edu/coriolanus/coriolanus.1.6.html.",
+              "gloss": "ponernos a prueba"
             }
           ]
         },
@@ -5663,19 +5685,22 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "gentle bath",
               "type": "Imagen",
               "title": "Baño reparador",
-              "body": "El baño y los ungüentos contrastan con la sangre y la urgencia bélica de Marcio; Cominio expresa preocupación por su estado físico."
+              "body": "Cominio contrasta el cuidado del cuerpo herido con la urgencia belicosa de Marcio. Fuente: Folger, Coriolanus I.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/6/; cotejo: MIT Shakespeare, I.6, https://shakespeare.mit.edu/coriolanus/coriolanus.1.6.html.",
+              "gloss": "baño reconfortante"
             },
             {
               "term": "dare I never",
               "type": "Sintaxis histórica",
               "title": "Inversión enfática",
-              "body": "El auxiliar modal precede al sujeto en una construcción enfática negativa: «jamás me atrevería»."
+              "body": "Inversión del orden habitual con el modal dare; expresa deferencia ante la petición. Fuente: Folger, Coriolanus I.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/6/; cotejo: MIT Shakespeare, I.6, https://shakespeare.mit.edu/coriolanus/coriolanus.1.6.html.",
+              "gloss": "jamás me atrevería"
             },
             {
               "term": "action",
               "type": "Léxico militar",
               "title": "Operación de combate",
-              "body": "Action designa aquí la acción militar propuesta, no una acción genérica."
+              "body": "Action se refiere a la misión de combate, no a una acción abstracta. Fuente: Folger, Coriolanus I.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/6/; cotejo: MIT Shakespeare, I.6, https://shakespeare.mit.edu/coriolanus/coriolanus.1.6.html.",
+              "gloss": "empresa militar"
             }
           ]
         },
@@ -5689,37 +5714,43 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "Those are they",
               "type": "Sintaxis",
               "title": "La voluntad como criterio",
-              "body": "Marcio responde a la oferta de elegir a los más aptos: para él los mejores son quienes están más dispuestos a combatir."
+              "body": "El antecedente son los soldados más dispuestos, no necesariamente los de mayor rango. Fuente: Folger, Coriolanus I.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/6/; cotejo: MIT Shakespeare, I.6, https://shakespeare.mit.edu/coriolanus/coriolanus.1.6.html.",
+              "gloss": "esos son los hombres"
             },
             {
               "term": "as it were sin to doubt",
               "type": "Retórica",
               "title": "Duda casi sacrílega",
-              "body": "La hipérbole presenta como moralmente improcedente dudar del valor de los soldados; as it were atenúa literalmente la identificación con un pecado."
+              "body": "Inciso hiperbólico: Marcio presume que el valor colectivo es indudable. Fuente: Folger, Coriolanus I.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/6/; cotejo: MIT Shakespeare, I.6, https://shakespeare.mit.edu/coriolanus/coriolanus.1.6.html.",
+              "gloss": "como si dudarlo fuera pecado"
             },
             {
               "term": "painting",
               "type": "Metáfora",
               "title": "La sangre como pintura",
-              "body": "Marcio convierte la sangre que lo cubre en una imagen visible de su experiencia en combate."
+              "body": "Imagen irónica de la sangre que cubre a Marcio; no se trata de una pintura artística literal. Fuente: Folger, Coriolanus I.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/6/; cotejo: MIT Shakespeare, I.6, https://shakespeare.mit.edu/coriolanus/coriolanus.1.6.html.",
+              "gloss": "esta pintura de sangre"
             },
             {
               "term": "Lesser his person",
               "type": "Léxico y sintaxis histórica",
               "title": "Estimar menos la propia persona",
-              "body": "Lesser funciona verbalmente en la lectura modernizada de Folger: «considerar menos importante». La forma aparece marcada editorialmente por Folger; no se infiere aquí una variante sin cotejo documental."
+              "body": "Folger adopta Lesser, lectura del Tercer Folio, frente a Lessen del Primero; la sintaxis vincula la estima del cuerpo con el temor a la deshonra. Fuente: Folger, Coriolanus I.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/6/ Aparato de variantes: https://www.folger.edu/explore/shakespeares-works/coriolanus/textual-notes/; cotejo: MIT Shakespeare, I.6, https://shakespeare.mit.edu/coriolanus/coriolanus.1.6.html.",
+              "gloss": "estime menos su propia persona"
             },
             {
               "term": "brave death outweighs bad life",
               "type": "Antítesis",
               "title": "Muerte valerosa y vida indigna",
-              "body": "La oposición valora el honor por encima de la mera supervivencia, de acuerdo con el ideal marcial que enuncia el personaje."
+              "body": "Antítesis axiológica: el prestigio guerrero prevalece sobre la supervivencia. Fuente: Folger, Coriolanus I.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/6/; cotejo: MIT Shakespeare, I.6, https://shakespeare.mit.edu/coriolanus/coriolanus.1.6.html.",
+              "gloss": "una muerte valerosa vale más que una vida indigna"
             },
             {
               "term": "Wave thus",
               "type": "Deixis escénica",
               "title": "El gesto acompaña al discurso",
-              "body": "Thus señala una demostración corporal; Folger añade una acotación en la que Marcio agita su espada."
+              "body": "La acotación asocia el gesto con blandir la espada, respuesta visible a la exhortación. Fuente: Folger, Coriolanus I.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/6/; cotejo: MIT Shakespeare, I.6, https://shakespeare.mit.edu/coriolanus/coriolanus.1.6.html.",
+              "gloss": "hagan esta señal"
             }
           ],
           "stageBefore": null
@@ -5735,49 +5766,57 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "Make you a sword of me",
               "type": "Metáfora y gesto escénico",
               "title": "¿Convertirme en espada?",
-              "body": "Marcio protesta mientras lo alzan: la pregunta convierte figuradamente su cuerpo en arma. La imagen puede sugerir también que los soldados lo blandieran como una espada; esta segunda lectura es interpretativa."
+              "body": "Al levantarlo en brazos, los soldados convierten figuradamente a Marcio en arma; su protesta es también jocosa. Fuente: Folger, Coriolanus I.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/6/; cotejo: MIT Shakespeare, I.6, https://shakespeare.mit.edu/coriolanus/coriolanus.1.6.html.",
+              "gloss": "¿quieren hacer de mí una espada?"
             },
             {
               "term": "shows be not outward",
               "type": "Léxico y retórica",
               "title": "Apariencia y convicción",
-              "body": "Shows son manifestaciones visibles de entusiasmo; outward contrapone el gesto exterior a una disposición auténtica. La condición pone a prueba la sinceridad de la aclamación."
+              "body": "Contrapone la exhibición externa de entusiasmo con la disposición real a combatir. Fuente: Folger, Coriolanus I.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/6/; cotejo: MIT Shakespeare, I.6, https://shakespeare.mit.edu/coriolanus/coriolanus.1.6.html.",
+              "gloss": "si no son meras apariencias"
             },
             {
               "term": "four Volsces",
               "type": "Hipérbole",
               "title": "Cuatro enemigos por hombre",
-              "body": "La equivalencia de un romano con cuatro volscos es una exageración de arenga, no un cálculo militar."
+              "body": "Hipérbole encomiástica que multiplica por cuatro la fuerza de cada romano. Fuente: Folger, Coriolanus I.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/6/; cotejo: MIT Shakespeare, I.6, https://shakespeare.mit.edu/coriolanus/coriolanus.1.6.html.",
+              "gloss": "cuatro volscos"
             },
             {
               "term": "bear against",
               "type": "Léxico militar",
               "title": "Resistir frente a",
-              "body": "Bear against expresa sostener o resistir el enfrentamiento; la mención del escudo prolonga la imagen defensiva."
+              "body": "Bear implica sostener el enfrentamiento y resistir el ataque de Aufidio. Fuente: Folger, Coriolanus I.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/6/; cotejo: MIT Shakespeare, I.6, https://shakespeare.mit.edu/coriolanus/coriolanus.1.6.html.",
+              "gloss": "oponer resistencia a"
             },
             {
               "term": "A certain number",
               "type": "Léxico",
               "title": "Un contingente limitado",
-              "body": "Certain indica aquí un número determinado o limitado, no que el número sea seguro o conocido por el público."
+              "body": "Marcio debe seleccionar un destacamento pese al entusiasmo general. Fuente: Folger, Coriolanus I.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/6/; cotejo: MIT Shakespeare, I.6, https://shakespeare.mit.edu/coriolanus/coriolanus.1.6.html.",
+              "gloss": "un número determinado"
             },
             {
               "term": "As cause will be obeyed",
               "type": "Sintaxis e interpretación",
               "title": "Según lo exija la necesidad",
-              "body": "Cause puede significar la necesidad o exigencia de la situación militar. La construcción personifica esa exigencia como algo que debe obedecerse."
+              "body": "Cause alude a la necesidad de la campaña, que debe dictar el reparto de funciones. Fuente: Folger, Coriolanus I.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/6/; cotejo: MIT Shakespeare, I.6, https://shakespeare.mit.edu/coriolanus/coriolanus.1.6.html.",
+              "gloss": "según lo exijan las circunstancias"
             },
             {
               "term": "draw out my command",
               "type": "Léxico militar",
               "title": "Seleccionar el destacamento",
-              "body": "Draw out alude a separar hombres del conjunto; command designa aquí la fuerza puesta bajo las órdenes de Marcio."
+              "body": "Draw out significa apartar y organizar a los hombres que estarán bajo su mando. Folger imprime I, enmienda editorial frente a foure del Primer Folio. Fuente: Folger, Coriolanus I.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/6/ Aparato de variantes: https://www.folger.edu/explore/shakespeares-works/coriolanus/textual-notes/; cotejo: MIT Shakespeare, I.6, https://shakespeare.mit.edu/coriolanus/coriolanus.1.6.html.",
+              "gloss": "seleccionar mi destacamento"
             },
             {
               "term": "best inclined",
               "type": "Semántica",
               "title": "Los más dispuestos",
-              "body": "Inclined señala inclinación o voluntad de participar, en consonancia con la selección de voluntarios iniciada en el parlamento anterior."
+              "body": "Inclined designa la voluntad y disposición de los voluntarios, no su posición física. Fuente: Folger, Coriolanus I.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/6/; cotejo: MIT Shakespeare, I.6, https://shakespeare.mit.edu/coriolanus/coriolanus.1.6.html.",
+              "gloss": "mejor dispuestos"
             }
           ]
         },
@@ -5791,19 +5830,22 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "Make good",
               "type": "Locución",
               "title": "Respaldar con hechos",
-              "body": "Make good significa cumplir o demostrar en la práctica lo prometido; Cominio exige que la aclamación se traduzca en combate."
+              "body": "Cominio exige cumplir la promesa implícita en la demostración de entusiasmo. Fuente: Folger, Coriolanus I.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/6/; cotejo: MIT Shakespeare, I.6, https://shakespeare.mit.edu/coriolanus/coriolanus.1.6.html.",
+              "gloss": "demuestren con hechos"
             },
             {
               "term": "ostentation",
               "type": "Léxico histórico",
               "title": "Demostración pública",
-              "body": "Ostentation designa aquí la exhibición de ardor y valentía, sin exigir el sentido actual peyorativo de presunción."
+              "body": "Ostentation no es necesariamente vanidad: aquí designa la exhibición de ardor guerrero. Fuente: Folger, Coriolanus I.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/6/; cotejo: MIT Shakespeare, I.6, https://shakespeare.mit.edu/coriolanus/coriolanus.1.6.html.",
+              "gloss": "demostración pública"
             },
             {
               "term": "Divide in all with us",
               "type": "Sintaxis y léxico",
               "title": "Compartir los resultados",
-              "body": "Divide in significa participar de una distribución; Cominio promete una parte de los resultados o recompensas, sin especificar aquí su naturaleza."
+              "body": "Divide in equivale a participar en los beneficios o recompensas de la victoria. Fuente: Folger, Coriolanus I.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/6/; cotejo: MIT Shakespeare, I.6, https://shakespeare.mit.edu/coriolanus/coriolanus.1.6.html.",
+              "gloss": "compartirán todo con nosotros"
             }
           ],
           "stageAfter": "Salen todos."
