@@ -4020,7 +4020,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "A wager",
               "type": "Léxico",
               "title": "Una apuesta",
-              "body": "La expresión introduce una apuesta informal sobre si los ejércitos han llegado a combatir."
+              "body": "Marcio supone que los ejércitos ya se enfrentaron; la apuesta jocosa convierte una noticia militar en una competición personal. Véase Folger Shakespeare Library, Coriolanus I.4, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/4/.",
+              "gloss": "una apuesta"
             }
           ]
         },
@@ -4034,7 +4035,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "My horse to yours",
               "type": "Elipsis",
               "title": "La apuesta",
-              "body": "Se sobreentiende el verbo de apostar: Larcio ofrece su caballo frente al de Marcio."
+              "body": "Fórmula de apuesta: Lartio arriesga su caballo frente al de Marcio, convencido de que aún no ha habido combate. Véase Folger Shakespeare Library, Coriolanus I.4, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/4/.",
+              "gloss": "apuesto mi caballo contra el tuyo"
             }
           ]
         },
@@ -4063,7 +4065,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "our general",
               "type": "Contexto",
               "title": "Cominio",
-              "body": "Se refieren a Cominio, comandante de las fuerzas romanas que operan fuera de Corioles."
+              "body": "Se refiere a Cominio, que dirige otro contingente romano; no a Marcio. Véase Folger Shakespeare Library, Coriolanus I.4, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/4/.",
+              "gloss": "nuestro general"
             }
           ]
         },
@@ -4077,7 +4080,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "have not spoke",
               "type": "Gramática histórica",
               "title": "Participio spoke",
-              "body": "Spoke aparece como participio donde el inglés actual estándar prefiere spoken. El contexto militar permite interpretar «no han entablado combate», aunque literalmente se alude a no haberse hablado."
+              "body": "Participio spoke sin -n, forma documentada en el inglés de Shakespeare; el contexto contrasta ejércitos a la vista pero aún sin encuentro. Véase Folger Shakespeare Library, Coriolanus I.4, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/4/.",
+              "gloss": "todavía no han hablado / entrado en combate"
             }
           ]
         },
@@ -4098,7 +4102,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "buy him of you",
               "type": "Sintaxis histórica",
               "title": "Comprar a alguien",
-              "body": "Of you expresa al vendedor, equivalente a from you en el inglés actual."
+              "body": "Of introduce al vendedor en una construcción histórica con buy. Véase Folger Shakespeare Library, Coriolanus I.4, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/4/.",
+              "gloss": "comprártelo"
             }
           ]
         },
@@ -4112,19 +4117,22 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "nor sell nor give",
               "type": "Sintaxis",
               "title": "Coordinación negativa",
-              "body": "La doble coordinación negativa refuerza la negativa de Larcio a desprenderse del caballo."
+              "body": "La acumulación de nor después de la negación refuerza el rechazo humorístico de Lartio. Véase Folger Shakespeare Library, Coriolanus I.4, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/4/.",
+              "gloss": "ni venderlo ni regalarlo"
             },
             {
               "term": "half a hundred years",
               "type": "Léxico",
               "title": "Cincuenta años",
-              "body": "La exagerada duración del préstamo convierte la apuesta en una broma amistosa."
+              "body": "Hipérbole cómica: ofrecer el caballo prestado durante medio siglo equivale prácticamente a no devolverlo. Véase Folger Shakespeare Library, Coriolanus I.4, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/4/.",
+              "gloss": "cincuenta años"
             },
             {
               "term": "Summon the town",
               "type": "Léxico militar",
               "title": "Requerir la rendición",
-              "body": "Summon se usa para exigir formalmente que una ciudad sitiada se rinda; no significa simplemente llamar a sus habitantes."
+              "body": "Orden de llamar a los defensores de Corioles mediante señal de parlamento; no de convocar a todos los habitantes. Véase Folger Shakespeare Library, Coriolanus I.4, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/4/.",
+              "gloss": "intima a la ciudad a responder"
             }
           ]
         },
@@ -4145,7 +4153,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "this mile and half",
               "type": "Medidas",
               "title": "Distancia aproximada",
-              "body": "La frase elide la segunda aparición de mile: una milla y media, sin necesidad de convertir la medida en el diálogo."
+              "body": "Construcción de distancia con this demostrativo y artículo omitido ante half. Véase Folger Shakespeare Library, Coriolanus I.4, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/4/.",
+              "gloss": "a una milla y media"
             }
           ]
         },
@@ -4159,31 +4168,36 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "’larum",
               "type": "Léxico militar",
               "title": "Alarma de combate",
-              "body": "Forma abreviada de alarum, señal sonora de combate o alarma militar."
+              "body": "Contracción de alarum, señal acústica militar; los ejércitos próximos podrán oírse mutuamente. Véase Folger Shakespeare Library, Coriolanus I.4, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/4/.",
+              "gloss": "alarma / señal de combate"
             },
             {
               "term": "Mars",
               "type": "Mitología",
               "title": "Marte",
-              "body": "Invocación al dios romano de la guerra; no se trata de una referencia al propio Marcio."
+              "body": "Invocación al dios romano de la guerra; dramatiza la impaciencia de Marcio por entrar en combate. Véase Folger Shakespeare Library, Coriolanus I.4, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/4/.",
+              "gloss": "Marte"
             },
             {
               "term": "smoking swords",
               "type": "Imagen retórica",
               "title": "Espadas humeantes",
-              "body": "Imagen hiperbólica de armas todavía calientes por la violencia del combate."
+              "body": "Hipérbole de la violencia y rapidez de la lucha: el humo no tiene por qué ser literal. Véase Folger Shakespeare Library, Coriolanus I.4, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/4/.",
+              "gloss": "espadas humeantes"
             },
             {
               "term": "fielded friends",
               "type": "Léxico militar",
               "title": "Compañeros desplegados",
-              "body": "Fielded sitúa a los aliados en el campo de batalla, en contraste con las fuerzas ante la ciudad."
+              "body": "Fielded describe tropas ya situadas en el campo, frente al asedio de la ciudad. Véase Folger Shakespeare Library, Coriolanus I.4, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/4/.",
+              "gloss": "compañeros desplegados en el campo de batalla"
             },
             {
               "term": "blow thy blast",
               "type": "Léxico",
               "title": "Toque de trompeta",
-              "body": "Blast designa aquí el sonido emitido por un instrumento de viento militar."
+              "body": "La orden desencadena la señal de parlamento, no necesariamente un ataque inmediato. Véase Folger Shakespeare Library, Coriolanus I.4, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/4/.",
+              "gloss": "haz sonar la trompeta"
             }
           ]
         },
@@ -4198,7 +4212,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "within your walls",
               "type": "Léxico",
               "title": "Dentro de la ciudad",
-              "body": "La referencia a las murallas identifica a Corioles como plaza fortificada; Marcio pregunta por la presencia de su rival."
+              "body": "Marcio busca a Aufidio en Corioles, pero el rival está combatiendo fuera. Véase Folger Shakespeare Library, Coriolanus I.4, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/4/.",
+              "gloss": "dentro de sus murallas"
             }
           ]
         },
@@ -4213,31 +4228,36 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "lesser than a little",
               "type": "Retórica",
               "title": "Menos que casi nada",
-              "body": "La réplica intensifica mediante una comparación paradójica el desprecio que los defensores dicen sentir por los romanos."
+              "body": "La respuesta del senador juega con la cantidad mínima de temor que Aufidio siente por Marcio. Véase Folger Shakespeare Library, Coriolanus I.4, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/4/.",
+              "gloss": "menos que muy poco"
             },
             {
               "term": "pound us up",
               "type": "Léxico histórico",
               "title": "Encerrarnos",
-              "body": "Pound funciona como verbo de encerrar o confinar, como se hace con animales en un cercado; no significa aquí golpear."
+              "body": "La imagen presenta el asedio como un encierro forzado: los volscos prefieren abrir paso antes que ser confinados. Véase Folger Shakespeare Library, Coriolanus I.4, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/4/.",
+              "gloss": "encerrarnos a golpes"
             },
             {
               "term": "pinned with rushes",
               "type": "Imagen",
               "title": "Apenas sujetas con juncos",
-              "body": "Los juncos son cierres proverbialmente débiles: el senador afirma que las puertas pueden abrirse fácilmente para una salida ofensiva."
+              "body": "Imagen provocadora de puertas sujetas con material frágil: los defensores anuncian una salida voluntaria. Véase Folger Shakespeare Library, Coriolanus I.4, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/4/.",
+              "gloss": "cerradas apenas con juncos"
             },
             {
               "term": "List",
               "type": "Gramática histórica",
               "title": "Escuchen",
-              "body": "Imperativo de list, forma abreviada o variante de listen."
+              "body": "Imperativo arcaico de listen; invita a oír el combate de Aufidio. Véase Folger Shakespeare Library, Coriolanus I.4, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/4/.",
+              "gloss": "escucha"
             },
             {
               "term": "cloven army",
               "type": "Interpretación",
               "title": "Ejército dividido",
-              "body": "Cloven significa partido o hendido; el senador presenta como hecho la ruptura de las filas romanas, en tono provocador."
+              "body": "Cloven presenta a las fuerzas romanas como hendidas por el ataque de Aufidio, en una fanfarronada enemiga. Véase Folger Shakespeare Library, Coriolanus I.4, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/4/.",
+              "gloss": "ejército partido / dividido"
             }
           ]
         },
@@ -4252,7 +4272,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "at it",
               "type": "Expresión idiomática",
               "title": "En plena acción",
-              "body": "La expresión remite aquí al combate que se oye fuera de escena."
+              "body": "Expresión elíptica que señala el comienzo del enfrentamiento audible. Véase Folger Shakespeare Library, Coriolanus I.4, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/4/.",
+              "gloss": "ya están combatiendo"
             }
           ]
         },
@@ -4266,13 +4287,15 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "Their noise be our instruction",
               "type": "Sintaxis",
               "title": "Que el ruido nos guíe",
-              "body": "Be tiene valor exhortativo: Larcio propone tomar el ruido del combate como señal para actuar."
+              "body": "Subjuntivo exhortativo be: Lartio interpreta los sonidos de batalla como orden de actuar. Véase Folger Shakespeare Library, Coriolanus I.4, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/4/.",
+              "gloss": "que su estruendo nos sirva de señal"
             },
             {
               "term": "Ladders",
               "type": "Léxico militar",
               "title": "Escalas de asalto",
-              "body": "Son escalas para franquear una muralla, no escaleras domésticas."
+              "body": "Utensilios de asalto para franquear murallas, no escaleras interiores. Véase Folger Shakespeare Library, Coriolanus I.4, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/4/.",
+              "gloss": "escalas"
             }
           ]
         },
@@ -4287,31 +4310,36 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "issue forth",
               "type": "Léxico",
               "title": "Salir en formación",
-              "body": "Issue forth significa salir al exterior; aquí designa una salida militar desde las puertas de la ciudad."
+              "body": "Issue forth es salir desde el interior; aquí los volscos abandonan la protección de las murallas. Véase Folger Shakespeare Library, Coriolanus I.4, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/4/.",
+              "gloss": "salen en formación"
             },
             {
               "term": "more proof than shields",
               "type": "Retórica",
               "title": "Más resistentes que los escudos",
-              "body": "Proof expresa resistencia a un ataque. La exhortación contrapone la firmeza interior al equipo defensivo."
+              "body": "Proof denota resistencia a un golpe o prueba; Marcio exige valor interior superior a la defensa material. Véase Folger Shakespeare Library, Coriolanus I.4, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/4/.",
+              "gloss": "más resistentes que los escudos"
             },
             {
               "term": "disdain",
               "type": "Léxico",
               "title": "Despreciar",
-              "body": "El desprecio que Marcio atribuye a los volscos provoca su ira, antes incluso del choque."
+              "body": "La salida ofensiva de los volscos es interpretada por Marcio como una afrenta al prestigio romano. Véase Folger Shakespeare Library, Coriolanus I.4, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/4/.",
+              "gloss": "nos desprecian"
             },
             {
               "term": "He that retires",
               "type": "Sintaxis",
               "title": "Quien retroceda",
-              "body": "He that es una construcción relativa generalizadora; retires significa aquí retirarse del combate."
+              "body": "Relativa generalizadora con he: amenaza a cualquier soldado romano que se retire. Véase Folger Shakespeare Library, Coriolanus I.4, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/4/.",
+              "gloss": "quien retroceda"
             },
             {
               "term": "mine edge",
               "type": "Metonimia",
               "title": "El filo de mi espada",
-              "body": "Edge designa por metonimia el arma cortante con la que amenaza a sus propios soldados."
+              "body": "Metonimia del arma con la que Marcio amenaza a sus propios soldados. Véase Folger Shakespeare Library, Coriolanus I.4, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/4/.",
+              "gloss": "el filo de mi espada"
             }
           ]
         },
@@ -4326,55 +4354,64 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "contagion of the south",
               "type": "Contexto léxico",
               "title": "Viento pestilente",
-              "body": "El viento del sur se asocia aquí con aires insalubres; la maldición imagina una epidemia que cae sobre los soldados."
+              "body": "Maldición asociada a los aires meridionales tenidos por insalubres en la imaginación médica tempranomoderna; no afirmación científica. Véase Folger Shakespeare Library, Coriolanus I.4, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/4/.",
+              "gloss": "pestilencia del sur"
             },
             {
               "term": "You herd of—",
               "type": "Retórica",
               "title": "Insulto interrumpido",
-              "body": "La construcción queda suspendida antes de que Marcio encuentre un sustantivo para completar la injuria; el giro pasa directamente a otra maldición."
+              "body": "Insulto interrumpido por la propia furia del hablante; la suspensión es dramáticamente significativa. Véase Folger Shakespeare Library, Coriolanus I.4, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/4/.",
+              "gloss": "¡manada de…!"
             },
             {
               "term": "Plaster you o’er",
               "type": "Léxico",
               "title": "Cubrir por entero",
-              "body": "Plaster funciona como verbo: cubrir o embadurnar; aquí la imagen es una costra de llagas y enfermedades."
+              "body": "Plaster funciona como verbo de cubrir, aquí con forúnculos y plagas imaginados. Véase Folger Shakespeare Library, Coriolanus I.4, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/4/.",
+              "gloss": "los cubran por completo"
             },
             {
               "term": "Against the wind",
               "type": "Hipérbole",
               "title": "Contagio contra el viento",
-              "body": "La infección imaginada se propaga incluso en dirección contraria al viento, exageración que intensifica la repulsión."
+              "body": "Hipérbole: la infección debería propagarse incluso contra la dirección natural del aire. Véase Folger Shakespeare Library, Coriolanus I.4, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/4/.",
+              "gloss": "contra el viento"
             },
             {
               "term": "souls of geese",
               "type": "Imagen animal",
               "title": "Almas de ganso",
-              "body": "La cobardía se atribuye a un interior animal encerrado en un cuerpo humano; la oposición se explicita en el verso siguiente."
+              "body": "Insulto animal que atribuye cobardía a soldados de apariencia humana. Véase Folger Shakespeare Library, Coriolanus I.4, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/4/.",
+              "gloss": "almas de ganso"
             },
             {
               "term": "All hurt behind",
               "type": "Elipsis",
               "title": "Heridas en la espalda",
-              "body": "La frase omite un verbo expreso: la posición de las heridas acusa a los soldados de haber dado la espalda al enemigo."
+              "body": "Las heridas en la parte posterior del cuerpo delatan la huida, no una defensa frontal. Véase Folger Shakespeare Library, Coriolanus I.4, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/4/.",
+              "gloss": "todos heridos por la espalda"
             },
             {
               "term": "agued fear",
               "type": "Léxico histórico",
               "title": "Miedo febril",
-              "body": "Ague designa una fiebre acompañada de escalofríos; fear recibe esa cualidad corporal en la imagen."
+              "body": "Ague era una fiebre con escalofríos; el miedo se figura como una enfermedad temblorosa. Véase Folger Shakespeare Library, Coriolanus I.4, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/4/.",
+              "gloss": "miedo febril"
             },
             {
               "term": "charge home",
               "type": "Léxico militar",
               "title": "Atacar a fondo",
-              "body": "Home refuerza el alcance o la contundencia de la acometida, no indica un regreso al hogar."
+              "body": "Home intensifica la idea de llevar el ataque hasta el blanco, no regresar al hogar. Véase Folger Shakespeare Library, Coriolanus I.4, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/4/.",
+              "gloss": "ataquen con decisión"
             },
             {
               "term": "Follow ’s",
               "type": "Gramática",
               "title": "Síganme",
-              "body": "’s representa us en la exhortación «Follow us»; el hablante encabeza la carga y llama a los demás a seguirlo."
+              "body": "’s representa us en una exhortación rápida; no posesivo ni terminación verbal. Véase Folger Shakespeare Library, Coriolanus I.4, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/4/.",
+              "gloss": "¡síganme!"
             }
           ]
         },
@@ -4389,25 +4426,29 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "ope",
               "type": "Gramática histórica",
               "title": "Abiertas",
-              "body": "Ope es una forma poética abreviada de open, usada aquí como adjetivo predicativo."
+              "body": "Forma poética abreviada de open. Véase Folger Shakespeare Library, Coriolanus I.4, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/4/.",
+              "gloss": "abiertas"
             },
             {
               "term": "good seconds",
               "type": "Léxico",
               "title": "Buenos apoyos en combate",
-              "body": "Second designa a quien respalda a otro en una pelea; Marcio exige que los soldados lo secunden."
+              "body": "Second designa quien secunda o respalda a otro en combate. Véase Folger Shakespeare Library, Coriolanus I.4, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/4/.",
+              "gloss": "buenos compañeros de apoyo"
             },
             {
               "term": "fortune widens them",
               "type": "Personificación",
               "title": "La fortuna abre las puertas",
-              "body": "Fortune aparece como agente que ensancha las puertas para los perseguidores; es una interpretación figurada de la oportunidad militar."
+              "body": "Personificación de la fortuna que facilita el avance de quienes persiguen al enemigo. Véase Folger Shakespeare Library, Coriolanus I.4, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/4/.",
+              "gloss": "la fortuna abre las puertas de par en par"
             },
             {
               "term": "followers",
               "type": "Contraste retórico",
               "title": "Perseguidores y fugitivos",
-              "body": "Followers y fliers forman una antítesis: en esta situación, seguir significa perseguir al enemigo en retirada."
+              "body": "Contraste con fliers, los que huyen; la oposición depende de la dirección del movimiento. Véase Folger Shakespeare Library, Coriolanus I.4, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/4/.",
+              "gloss": "los que persiguen"
             }
           ]
         },
