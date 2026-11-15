@@ -6343,25 +6343,29 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "grave of your deserving",
               "type": "Metáfora",
               "title": "Sepultar los propios méritos",
-              "body": "Cominio presenta el silencio de Marcio como una tumba que impediría que sus servicios fueran conocidos públicamente."
+              "body": "Cominio se niega a que los méritos de Marcio queden enterrados con él: imagen de la fama pública como memoria duradera. Referencia: Folger Shakespeare Library, Coriolanus I.9, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/9/.",
+              "gloss": "tumba de tus méritos"
             },
             {
               "term": "traducement",
               "type": "Léxico histórico",
               "title": "Difamación",
-              "body": "Traducement es la acción de desacreditar o calumniar; para Cominio, ocultar los méritos equivale a perjudicar la reputación de Marcio."
+              "body": "Traducement significa deshonra o difamación, no traducción: ocultar las hazañas equivaldría a perjudicar su reputación. Referencia: Folger Shakespeare Library, Coriolanus I.9, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/9/.",
+              "gloss": "difamación"
             },
             {
               "term": "spire and top",
               "type": "Retórica",
               "title": "La cima de los elogios",
-              "body": "La imagen arquitectónica acumula dos términos de altura para expresar el grado máximo de alabanza, que aun así resultaría insuficiente."
+              "body": "Doble imagen de altura extrema; Cominio sostiene que aun el mayor elogio sería moderado. Referencia: Folger Shakespeare Library, Coriolanus I.9, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/9/.",
+              "gloss": "cumbre de los elogios"
             },
             {
               "term": "In sign of what you are",
               "type": "Distinción retórica",
               "title": "Reconocimiento, no pago",
-              "body": "Cominio distingue el testimonio público de la valía de Marcio de una recompensa material por sus acciones."
+              "body": "Cominio distingue el reconocimiento público del valor personal de una remuneración material por servicios prestados. Referencia: Folger Shakespeare Library, Coriolanus I.9, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/9/.",
+              "gloss": "como reconocimiento de lo que eres"
             }
           ]
         },
@@ -6375,13 +6379,15 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "smart",
               "type": "Léxico",
               "title": "Dolor punzante",
-              "body": "Smart significa doler o escocer; el verbo atribuye a las heridas una reacción física a las palabras."
+              "body": "Smart es verbo de dolor físico; las heridas reaccionan figuradamente al recuerdo de la batalla. Referencia: Folger Shakespeare Library, Coriolanus I.9, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/9/.",
+              "gloss": "duelen / escuecen"
             },
             {
               "term": "hear themselves remembered",
               "type": "Personificación",
               "title": "Heridas que escuchan",
-              "body": "Marcio personifica sus heridas como si pudieran oír las alabanzas y reaccionar al recuerdo de su origen."
+              "body": "Personificación: las heridas parecen tener oído y sensibilidad ante el elogio. Referencia: Folger Shakespeare Library, Coriolanus I.9, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/9/.",
+              "gloss": "oír que se las menciona"
             }
           ]
         },
@@ -6395,31 +6401,36 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "Should they not",
               "type": "Gramática histórica",
               "title": "Condicional elíptica",
-              "body": "La inversión equivale a «si no lo hicieran»: Cominio retoma el escozor de las heridas mencionado por Marcio."
+              "body": "Condicional elíptica: si las heridas no dolieran al recordarlas, podrían infectarse por ingratitud. Referencia: Folger Shakespeare Library, Coriolanus I.9, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/9/.",
+              "gloss": "si no lo hicieran"
             },
             {
               "term": "tent themselves with death",
               "type": "Léxico médico e imagen",
               "title": "Heridas que se abren",
-              "body": "Tent puede remitir a explorar o mantener abierta una herida con una sonda o mecha; la expresión exagera el daño que provocaría la ingratitud. La interpretación exacta de la imagen es discutible."
+              "body": "Tent es instrumento quirúrgico para explorar o mantener abierta una herida; Cominio convierte el riesgo de muerte en instrumento que la herida se aplica a sí misma. Referencia: Folger Shakespeare Library, Coriolanus I.9, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/9/.",
+              "gloss": "sondearse con la muerte"
             },
             {
               "term": "good and good store",
               "type": "Énfasis",
               "title": "Calidad y cantidad",
-              "body": "La repetición de good distingue caballos valiosos y un número abundante de capturas."
+              "body": "Repetición enfática de good: calidad y cantidad del botín capturado. Referencia: Folger Shakespeare Library, Coriolanus I.9, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/9/.",
+              "gloss": "buenos caballos y en abundancia"
             },
             {
               "term": "the tenth",
               "type": "Reparto del botín",
               "title": "La décima parte",
-              "body": "Cominio ofrece a Marcio un diezmo del botín antes de su distribución entre los soldados; se trata de una concesión excepcional dentro de la escena."
+              "body": "Parte extraordinaria del botín ofrecida a Marcio antes del reparto general; no debe confundirse con un tributo regular. Referencia: Folger Shakespeare Library, Coriolanus I.9, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/9/.",
+              "gloss": "la décima parte"
             },
             {
               "term": "At your only choice",
               "type": "Sintaxis",
               "title": "A su exclusiva elección",
-              "body": "Only restringe la elección a Marcio, que podrá seleccionar personalmente los bienes de su décima parte."
+              "body": "Marcio podría elegir su décima parte antes que los demás; only aquí marca exclusividad. Referencia: Folger Shakespeare Library, Coriolanus I.9, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/9/.",
+              "gloss": "a tu exclusiva elección"
             }
           ]
         },
@@ -6434,19 +6445,22 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "A bribe to pay my sword",
               "type": "Retórica",
               "title": "Recompensa como soborno",
-              "body": "Marcio califica la recompensa extraordinaria de soborno: es una valoración moral del ofrecimiento, no una acusación jurídica."
+              "body": "Marcio presenta la recompensa como compra de su valor militar, no como honor legítimo. Referencia: Folger Shakespeare Library, Coriolanus I.9, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/9/.",
+              "gloss": "un soborno como pago por mi espada"
             },
             {
               "term": "stand upon my common part",
               "type": "Léxico",
               "title": "La cuota ordinaria",
-              "body": "Stand upon significa insistir en un derecho; common part es la porción que le correspondería en el reparto general."
+              "body": "Stand upon expresa insistencia en un derecho; pide la porción ordinaria compartida con los demás soldados. Referencia: Folger Shakespeare Library, Coriolanus I.9, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/9/.",
+              "gloss": "reclamo únicamente mi parte común"
             },
             {
               "term": "beheld the doing",
               "type": "Sintaxis",
               "title": "Testigos de la acción",
-              "body": "Doing designa lo realizado en combate; la formulación literal destaca a quienes vieron la acción."
+              "body": "El participio beheld remite a quienes vieron el combate, sin exigir que hayan realizado la misma hazaña. Referencia: Folger Shakespeare Library, Coriolanus I.9, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/9/.",
+              "gloss": "presenciaron la acción"
             }
           ]
         },
@@ -6460,43 +6474,50 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "instruments, which you profane",
               "type": "Retórica",
               "title": "Profanación militar",
-              "body": "El verbo religioso profane presenta las aclamaciones como una degradación del sentido solemne de la música militar."
+              "body": "Los instrumentos son tambores y trompetas militares; profanar consiste en usarlos para la adulación. Referencia: Folger Shakespeare Library, Coriolanus I.9, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/9/.",
+              "gloss": "instrumentos que ustedes profanan"
             },
             {
               "term": "false-faced soothing",
               "type": "Léxico histórico",
               "title": "Adulación hipócrita",
-              "body": "Soothing aquí se refiere a halagar interesadamente, no simplemente a calmar."
+              "body": "Soothing aquí significa halago complaciente, no consuelo terapéutico. Referencia: Folger Shakespeare Library, Coriolanus I.9, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/9/.",
+              "gloss": "adulación hipócrita"
             },
             {
               "term": "parasite’s silk",
               "type": "Contexto",
               "title": "El adulador cortesano",
-              "body": "Parasite designa al dependiente que vive de halagos; la seda contrasta con el acero del soldado."
+              "body": "Parasite designa al dependiente que vive de complacer a un poderoso; la seda se opone al acero del soldado. La imagen permite una lectura de dependencia y pérdida de autonomía. Referencia: Folger Shakespeare Library, Coriolanus I.9, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/9/.",
+              "gloss": "seda del adulador cortesano"
             },
             {
               "term": "ovator",
-              "type": "Contexto romano",
+              "type": "Crítica textual",
               "title": "Ovación militar",
-              "body": "El término alude a la ovación romana, honor militar menor que el triunfo. La imagen es sarcástica."
+              "body": "Lectura editorial de Folger frente a la difícil Ouerture del Primer Folio; la frase alude irónicamente a honores militares concedidos al adulador. Otras ediciones conservan o enmiendan de otro modo la palabra; no es una variante segura del autor. Referencia: Folger Shakespeare Library, Coriolanus I.9, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/9/ ; aparato de variantes, https://www.folger.edu/explore/shakespeares-works/coriolanus/textual-notes/ (I.9, línea 52); véase también Richard Grant White, ed., Coriolanus, notas a I.9, https://upload.wikimedia.org/wikipedia/commons/b/b5/Coriolanus_%28IA_coriolanus00shakrich%29.pdf.",
+              "gloss": "quien recibe una ovación menor"
             },
             {
               "term": "debile wretch",
               "type": "Léxico",
               "title": "Debilidad",
-              "body": "Debile significa débil o sin fuerzas; no equivale necesariamente al insulto español moderno."
+              "body": "Debile es un adjetivo culto de debilidad física; Marcio minimiza a un enemigo vencido. Referencia: Folger Shakespeare Library, Coriolanus I.9, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/9/.",
+              "gloss": "desdichado débil"
             },
             {
               "term": "my little",
               "type": "Interpretación",
               "title": "Méritos minimizados",
-              "body": "Little sustantivado reduce retóricamente el valor de sus propias hazañas."
+              "body": "Sustantivación de little: Marcio rebaja retóricamente la importancia de lo que ha hecho. Referencia: Folger Shakespeare Library, Coriolanus I.9, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/9/.",
+              "gloss": "mis escasos méritos"
             },
             {
               "term": "dieted",
               "type": "Metáfora",
               "title": "Elogios como alimento",
-              "body": "Dieted y sauced convierten las alabanzas en comida condimentada con mentiras."
+              "body": "Metáfora alimentaria: los méritos son servidos con elogios, como una comida. Referencia: Folger Shakespeare Library, Coriolanus I.9, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/9/.",
+              "gloss": "alimentados"
             }
           ]
         },
@@ -6511,49 +6532,57 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "More cruel to your good report",
               "type": "Retórica",
               "title": "Crueldad contra la propia reputación",
-              "body": "Cominio presenta la modestia de Marcio como un daño infligido a su propia fama; la personificación invierte la virtud aparente en falta."
+              "body": "Cominio invierte la acusación de adulación: la autodenigración de Marcio sería injusta con sus méritos. Referencia: Folger Shakespeare Library, Coriolanus I.9, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/9/.",
+              "gloss": "más cruel con tu propia reputación"
             },
             {
               "term": "give you truly",
               "type": "Sintaxis y léxico",
               "title": "Alabanza veraz",
-              "body": "Give se entiende aquí en relación con el reconocimiento o elogio que los demás le otorgan; truly insiste en su sinceridad."
+              "body": "Give se refiere al reconocimiento verbal y material que Cominio considera merecido. Referencia: Folger Shakespeare Library, Coriolanus I.9, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/9/.",
+              "gloss": "te reconocemos con verdad"
             },
             {
               "term": "By your patience",
               "type": "Fórmula de cortesía",
               "title": "Con tu permiso",
-              "body": "Expresión que introduce una réplica potencialmente incómoda; no significa literalmente que se pida paciencia física."
+              "body": "Fórmula de cortesía que introduce una firme contradicción. Referencia: Folger Shakespeare Library, Coriolanus I.9, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/9/.",
+              "gloss": "con tu permiso"
             },
             {
               "term": "proper harm",
               "type": "Léxico histórico",
               "title": "Su propio daño",
-              "body": "Proper puede significar «propio» o «personal» en inglés moderno temprano."
+              "body": "Proper significa propio, no correcto: el símil es el de alguien que pretende perjudicarse. Referencia: Folger Shakespeare Library, Coriolanus I.9, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/9/.",
+              "gloss": "su propio daño"
             },
             {
               "term": "manacles",
               "type": "Léxico",
               "title": "Grilletes",
-              "body": "La amenaza de sujetarlo es figurada: Cominio compara el rechazo de los elogios con una conducta autodestructiva."
+              "body": "Imagen hiperbólica: sujetar a Marcio como a una persona que podría hacerse daño. Referencia: Folger Shakespeare Library, Coriolanus I.9, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/9/.",
+              "gloss": "grilletes"
             },
             {
               "term": "this war’s garland",
               "type": "Imagen honorífica",
               "title": "La corona de la victoria",
-              "body": "Garland designa una guirnalda o corona; en este contexto es emblema del mérito militar, no una coronación política."
+              "body": "Garland es la corona simbólica de la victoria y la gloria; aquí no se identifica necesariamente con una condecoración romana específica. Referencia: Folger Shakespeare Library, Coriolanus I.9, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/9/.",
+              "gloss": "la corona de esta guerra"
             },
             {
               "term": "trim belonging",
               "type": "Léxico",
               "title": "Los arreos del caballo",
-              "body": "Trim designa aquí los adornos o aparejos que acompañan al caballo regalado."
+              "body": "Trim designa el equipamiento o adornos del caballo regalado. Referencia: Folger Shakespeare Library, Coriolanus I.9, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/9/.",
+              "gloss": "todos sus arreos"
             },
             {
               "term": "Th’ addition",
               "type": "Onomástica",
               "title": "El sobrenombre honorífico",
-              "body": "Addition es un nombre o título agregado al nombre personal; Coriolanus recuerda la toma de Corioles. No implica que Marcio cambie de identidad."
+              "body": "Addition es el nuevo título honorífico Coriolanus, derivado de Corioles; no es un ascenso militar. Referencia: Folger Shakespeare Library, Coriolanus I.9, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/9/.",
+              "gloss": "el sobrenombre añadido"
             }
           ]
         },

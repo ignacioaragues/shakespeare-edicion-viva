@@ -2304,6 +2304,21 @@
         "https://www.folger.edu/explore/shakespeares-works/coriolanus/textual-notes/"
       ],
       "status": "reviewed_with_open_sources_private_books_pending"
+    },
+    {
+      "id": "coriolanus-1-9-760-809",
+      "act": 1,
+      "scene": 9,
+      "first_line": 760,
+      "last_line": 809,
+      "reviewed_on": "2026-11-16",
+      "scope": "Segunda revisión de 50 líneas: 29 fichas con glosas contextualizadas; reconocimiento público, heridas y cirugía, botín, rechazo de recompensa, metáforas de adulación y variante ovator/Ouerture. EN/ES, IDs y offsets intactos; cotejo privado y QA visual pendientes.",
+      "sources": [
+        "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/9/",
+        "https://www.folger.edu/explore/shakespeares-works/coriolanus/textual-notes/",
+        "https://upload.wikimedia.org/wikipedia/commons/b/b5/Coriolanus_%28IA_coriolanus00shakrich%29.pdf"
+      ],
+      "status": "reviewed_with_open_sources_private_books_pending"
     }
   ],
   "verse_format_reviews": [
