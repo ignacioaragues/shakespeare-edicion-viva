@@ -246,6 +246,22 @@
   // Verse breaks are zero-text DOM markers: neither en/es nor reading offsets change.
   // Each anchor is checked against the published string before applying the layout.
   const verifiedVerseStarts = {
+    'coriolanus-1-1|201–202': {
+      en: ['The city is well stored.'],
+      es: ['dicen que la ciudad']
+    },
+    'coriolanus-1-1|203–215': {
+      en: ['They say?', 'What’s done i’ th’ Capitol', 'Who thrives, and who declines', 'Conjectural marriages', 'And feebling such', 'Below their cobbled shoes.', 'Would the nobility', 'And let me use my sword', 'With thousands', 'As I could pick my lance.'],
+      es: ['¿Eso dicen?', 'qué ocurre en el Capitolio', 'quién prospera y quién cae.', 'Toman partido por unas facciones', 'fortaleciendo a unos bandos', 'ni estar bajo sus zapatos remendados.', 'Si la nobleza dejara', 'y me permitiera usar la espada', 'amontonaría los cuerpos descuartizados', 'hasta donde alcanzara']
+    },
+    'coriolanus-1-1|216–219': {
+      en: ['For though abundantly', 'Yet are they passing cowardly.', 'What says the other troop?'],
+      es: ['aunque les falta muchísimo juicio', 'son extraordinariamente cobardes.', '¿qué dice el otro grupo?']
+    },
+    'coriolanus-1-1|220–235': {
+      en: ['They said they were an-hungry', 'That hunger broke stone walls', 'That meat was made for mouths', 'Corn for the rich men only.', 'They vented their complainings', 'And a petition granted them', 'To break the heart of generosity', 'And make bold power look pale', 'As they would hang them', 'Shouting their emulation.'],
+      es: ['Decían que tenían hambre', 'que el hambre derriba muros', 'que la comida se hizo para las bocas', 'y que los dioses no enviaron', 'Con esos retazos daban salida', 'Cuando recibieron respuesta', 'una petición insólita', 'y hacer palidecer al poder', 'lanzaron sus gorros', 'gritando en su afán']
+    },
     'coriolanus-1-1|174–176': {
       en: ['That, rubbing the poor itch', 'Make yourselves scabs?'],
       es: ['De tanto rascarse', '¿acaban convirtiéndose']
