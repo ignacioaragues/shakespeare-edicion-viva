@@ -3157,13 +3157,15 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "good report",
               "type": "Léxico",
               "title": "La fama que sobrevive",
-              "body": "Report designa aquí la reputación pública del muerto, no un informe. Volumnia convierte metafóricamente la fama póstuma en sustituto del hijo."
+              "body": "La reputación pública del guerrero sustituiría al hijo muerto: la paradoja anticipa «issue», que prolonga el parentesco figurado. Fuentes: Folger, Coriolanus I.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/3/; cotejo del primer folio: https://so.davidlassner.com/Neigung/D.%20Tieck/tragedie/cor/pair_Act%201_Scene%203.html.",
+              "gloss": "fama honorable que sobreviviría al hijo"
             },
             {
               "term": "issue",
               "type": "Semántica histórica",
               "title": "Descendencia",
-              "body": "Issue significa prole o descendencia: Volumnia prolonga la metáfora al imaginar la reputación de Marcio como su descendiente."
+              "body": "Issue significa prole; el «hijo» imaginario de Volumnia sería la fama póstuma de Marcio. La afirmación pertenece a su ideología del honor, no a una voz histórica neutral. Fuentes: Folger, Coriolanus I.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/3/; cotejo del primer folio: https://so.davidlassner.com/Neigung/D.%20Tieck/tragedie/cor/pair_Act%201_Scene%203.html.",
+              "gloss": "descendencia"
             },
             {
               "term": "had I a dozen sons",
@@ -3181,7 +3183,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "voluptuously surfeit out of action",
               "type": "Léxico y retórica",
               "title": "Hastío de placeres e inacción",
-              "body": "Surfeit implica exceso hasta la saciedad. La expresión opone el morir noblemente en servicio activo a consumir la vida en placeres e inactividad; no alude a una muerte por indigestión literal."
+              "body": "Surfeit denota hartarse hasta el exceso. La oposición sintáctica es entre once muertes honrosas y un solo hijo que se abandona a la molicie; no se describe literalmente una muerte por indigestión. Fuentes: Folger, Coriolanus I.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/3/; cotejo del primer folio: https://so.davidlassner.com/Neigung/D.%20Tieck/tragedie/cor/pair_Act%201_Scene%203.html.",
+              "gloss": "consumirse en placeres, apartado de la acción"
             }
           ]
         },
@@ -3196,7 +3199,10 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "is come",
               "type": "Gramática histórica",
               "title": "Perfecto con be",
-              "body": "Is come emplea be como auxiliar de un verbo de movimiento, construcción frecuente en inglés de la época; en español se expresa naturalmente como «ha venido»."
+              "body": "Perfecto con be, auxiliar posible con verbos de movimiento en el inglés moderno temprano. Equivale aquí a has come; no es presente simple. Fuentes: Folger, Coriolanus I.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/3/; cotejo del primer folio: https://so.davidlassner.com/Neigung/D.%20Tieck/tragedie/cor/pair_Act%201_Scene%203.html.",
+              "gloss": "ha venido",
+              "lemma": "come",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/come"
             }
           ]
         },
@@ -3210,7 +3216,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "Beseech you",
               "type": "Sintaxis",
               "title": "Sujeto omitido",
-              "body": "Se sobreentiende I: «I beseech you». Es una fórmula cortés de petición."
+              "body": "Petición elíptica con sujeto I tácito: I beseech you. Virgilia solicita retirarse ante la visita. Fuentes: Folger, Coriolanus I.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/3/; cotejo del primer folio: https://so.davidlassner.com/Neigung/D.%20Tieck/tragedie/cor/pair_Act%201_Scene%203.html.",
+              "gloss": "le ruego"
             }
           ]
         },
@@ -3224,7 +3231,10 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "Methinks",
               "type": "Gramática histórica",
               "title": "Me parece",
-              "body": "Methinks es una construcción impersonal: «me parece». Su repetición organiza la visión imaginaria de Volumnia, que no presencia la batalla."
+              "body": "Forma impersonal histórica (me + thinks, ‘parece’), repetida dos veces para introducir la batalla imaginada por Volumnia, no una visión directa. Fuentes: Folger, Coriolanus I.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/3/; cotejo del primer folio: https://so.davidlassner.com/Neigung/D.%20Tieck/tragedie/cor/pair_Act%201_Scene%203.html.",
+              "gloss": "me parece",
+              "lemma": "methinks",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/methinks"
             },
             {
               "term": "As children from a bear",
@@ -3236,13 +3246,17 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "You were got in fear",
               "type": "Léxico",
               "title": "Engendrados en el miedo",
-              "body": "Got tiene aquí el valor de «engendrados». Volumnia imagina a Marcio acusando a sus enemigos de cobardía innata."
+              "body": "Got funciona como participio de beget (‘engendrar’). La frase atribuye cobardía desde el origen, aunque los interpelados nacieran en Roma. Fuentes: Folger, Coriolanus I.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/3/; cotejo del primer folio: https://so.davidlassner.com/Neigung/D.%20Tieck/tragedie/cor/pair_Act%201_Scene%203.html.",
+              "gloss": "fueron engendrados en el miedo",
+              "lemma": "beget",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/beget"
             },
             {
               "term": "mailed hand",
               "type": "Léxico militar",
               "title": "Mano protegida por malla",
-              "body": "Mailed significa cubierta de armadura de malla, no «enviada por correo»; la traducción usa «guantelete» como aproximación visual."
+              "body": "Mailed alude a la protección metálica de la mano. «Guantelete» en la traducción evoca la pieza defensiva, pero no reproduce literalmente la referencia a la malla. Fuentes: Folger, Coriolanus I.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/3/; cotejo del primer folio: https://so.davidlassner.com/Neigung/D.%20Tieck/tragedie/cor/pair_Act%201_Scene%203.html.",
+              "gloss": "mano cubierta de malla"
             },
             {
               "term": "harvestman",
@@ -3254,7 +3268,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "⌜that’s⌝",
               "type": "Crítica textual",
               "title": "Suplemento editorial",
-              "body": "Los corchetes angulares de Folger señalan una intervención editorial en la lectura; no deben confundirse con signos pronunciados por el personaje."
+              "body": "Los signos editoriales de Folger delimitan una adición de los editores. La lectura del primer folio no contiene ese «that's»; la comparación del segador conserva la alternativa textual. Fuentes: Folger, Coriolanus I.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/3/; cotejo del primer folio: https://so.davidlassner.com/Neigung/D.%20Tieck/tragedie/cor/pair_Act%201_Scene%203.html.",
+              "gloss": "que está obligado"
             }
           ]
         },
@@ -3295,13 +3310,17 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "Hecuba",
               "type": "Mitología",
               "title": "Hécuba y Héctor",
-              "body": "Hécuba es la madre de Héctor, defensor de Troya. La imagen opone la lactancia materna a la sangre del guerrero adulto."
+              "body": "La evocación de Hécuba amamantando a Héctor enfrenta alimento materno y sangre guerrera. La valoración de la herida como belleza es de Volumnia, no un juicio del editor. Fuentes: Folger, Coriolanus I.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/3/; cotejo del primer folio: https://so.davidlassner.com/Neigung/D.%20Tieck/tragedie/cor/pair_Act%201_Scene%203.html.",
+              "gloss": "Hécuba, madre de Héctor"
             },
             {
               "term": "contemning",
               "type": "Sintaxis e interpretación",
               "title": "Desafiando",
-              "body": "El participio expresa desprecio o desafío ante la espada griega; la puntuación permite cierta ambigüedad sobre la relación exacta con la acción de sangrar."
+              "body": "Participio de contemn. La puntuación del pasaje no fija sin controversia su relación sintáctica con la espada y la frente; conviene conservar la ambigüedad interpretativa. Fuentes: Folger, Coriolanus I.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/3/; cotejo del primer folio: https://so.davidlassner.com/Neigung/D.%20Tieck/tragedie/cor/pair_Act%201_Scene%203.html.",
+              "gloss": "desafiando, despreciando",
+              "lemma": "contemn",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/contemn"
             }
           ]
         },
@@ -3372,13 +3391,15 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "manifest housekeepers",
               "type": "Léxico y tono",
               "title": "Mujeres de casa",
-              "body": "Valeria comenta, con un matiz juguetón, que las encuentra ocupadas en labores domésticas; housekeepers no significa aquí empleadas de limpieza."
+              "body": "La expresión comenta irónicamente la escena de costura; no significa «empleadas domésticas». Valeria pasa de la exaltación de la guerra a una sociabilidad femenina cotidiana. Fuentes: Folger, Coriolanus I.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/3/; cotejo del primer folio: https://so.davidlassner.com/Neigung/D.%20Tieck/tragedie/cor/pair_Act%201_Scene%203.html.",
+              "gloss": "evidentemente dedicadas a la casa"
             },
             {
               "term": "spot",
               "type": "Léxico",
               "title": "Motivo bordado",
-              "body": "Spot puede referirse a un pequeño motivo ornamental de la labor de aguja, no necesariamente a una mancha."
+              "body": "En el contexto de sewing, spot se refiere a un pequeño motivo de la labor de aguja; no necesariamente una mancha. Fuentes: Folger, Coriolanus I.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/3/; cotejo del primer folio: https://so.davidlassner.com/Neigung/D.%20Tieck/tragedie/cor/pair_Act%201_Scene%203.html.",
+              "gloss": "motivo ornamental bordado"
             }
           ]
         },
@@ -3406,7 +3427,10 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "had rather",
               "type": "Gramática histórica",
               "title": "Preferencia",
-              "body": "Had rather equivale a would rather. Volumnia celebra la inclinación bélica del niño."
+              "body": "Construcción histórica de preferencia equivalente a would rather, seguida de infinitivo sin to. Fuentes: Folger, Coriolanus I.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/3/; cotejo del primer folio: https://so.davidlassner.com/Neigung/D.%20Tieck/tragedie/cor/pair_Act%201_Scene%203.html.",
+              "gloss": "preferiría",
+              "lemma": "rather",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/rather"
             }
           ]
         },
@@ -3438,13 +3462,19 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "catched",
               "type": "Gramática histórica",
               "title": "Pasado de catch",
-              "body": "Catched es una forma histórica del pasado de catch; hoy predomina caught."
+              "body": "Pasado histórico de catch. Folger imprime catched; el primer folio presenta «catcht», variante ortográfica y morfológica relevante para el cotejo. Fuentes: Folger, Coriolanus I.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/3/; cotejo del primer folio: https://so.davidlassner.com/Neigung/D.%20Tieck/tragedie/cor/pair_Act%201_Scene%203.html.",
+              "gloss": "atrapó",
+              "lemma": "catch",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/catch"
             },
             {
               "term": "mammocked",
               "type": "Léxico histórico",
               "title": "Hacer pedazos",
-              "body": "Mammock significa despedazar o destrozar. El juego infantil culmina en una imagen de violencia."
+              "body": "Mammock expresa desgarrar en fragmentos. La violencia de la mariposa se interpreta como rasgo heredado del padre en boca de Valeria y Volumnia; no es una aprobación editorial. Fuentes: Folger, Coriolanus I.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/3/; cotejo del primer folio: https://so.davidlassner.com/Neigung/D.%20Tieck/tragedie/cor/pair_Act%201_Scene%203.html.",
+              "gloss": "despedazó",
+              "lemma": "mammock",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/mammock"
             }
           ]
         },
@@ -3458,7 +3488,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "on ’s",
               "type": "Gramática histórica",
               "title": "Contracción",
-              "body": "On ’s representa aquí «of his»; Volumnia reconoce en el niño el carácter de Marcio."
+              "body": "La secuencia on ’s equivale aquí a of his, contracción coloquial. Volumnia reconoce en el niño uno de los arrebatos del padre. Fuentes: Folger, Coriolanus I.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/3/; cotejo del primer folio: https://so.davidlassner.com/Neigung/D.%20Tieck/tragedie/cor/pair_Act%201_Scene%203.html.",
+              "gloss": "de su"
             }
           ]
         },
@@ -3486,7 +3517,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "crack",
               "type": "Léxico histórico",
               "title": "Muchacho travieso",
-              "body": "Crack puede designar a un muchacho pícaro o travieso; Virgilia matiza el elogio."
+              "body": "Sustantivo coloquial para un muchacho vivaz o travieso. Virgilia responde con una caracterización menos heroica que la de Valeria. Fuentes: Folger, Coriolanus I.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/3/; cotejo del primer folio: https://so.davidlassner.com/Neigung/D.%20Tieck/tragedie/cor/pair_Act%201_Scene%203.html.",
+              "gloss": "travieso, pícaro"
             }
           ]
         },
