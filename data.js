@@ -1916,37 +1916,62 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "an-hungry",
               "type": "Lengua histórica",
               "title": "an-hungry",
-              "body": "Forma enfática o dialectal de hungry, «hambrientos». Marcio la reproduce con tono despectivo al resumir las quejas populares."
+              "body": "Forma marcada de hungry en la reproducción burlona de las quejas por hambre; el prefijo an- no indica negación. No atribuir sin prueba un dialecto concreto. Folger Shakespeare Library, Coriolanus, I.1.220–235 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/)",
+              "gloss": "hambrientos",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/an-hungry"
             },
             {
               "term": "meat",
               "type": "Léxico histórico",
               "title": "meat",
-              "body": "Aquí significa alimento o comida en general, no exclusivamente carne. El refrán afirma que los alimentos están destinados a ser consumidos."
+              "body": "En inglés de la época, meat podía referirse a alimentos en general y no solamente a carne. La secuencia de proverbios reivindica el acceso a lo necesario para comer. Folger Shakespeare Library, Coriolanus, I.1.220–235 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/)",
+              "gloss": "comida; alimento",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/meat"
             },
             {
               "term": "shreds",
               "type": "Retórica",
               "title": "Retazos de refranes",
-              "body": "Marcio rebaja las máximas de los ciudadanos a fragmentos inconexos; es una valoración del personaje, no una descripción objetiva de su argumento."
+              "body": "Marcio degrada los proverbios de los hambrientos llamándolos «retazos»; es una caracterización interesada de sus demandas. Compárese el insulto fragments en I.1.245. Folger Shakespeare Library, Coriolanus, I.1.220–235 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/)",
+              "gloss": "retazos; fragmentos"
             },
             {
               "term": "generosity",
               "type": "Léxico histórico",
               "title": "generosity",
-              "body": "En este contexto remite a nobleza de nacimiento o condición, además de las virtudes que se le atribuyen; no equivale sencillamente a «generosidad» económica."
+              "body": "Generosity conserva aquí el sentido histórico de nobleza de nacimiento o rango. La concesión de tribunos le parece a Marcio una humillación del orden aristocrático, no una pérdida de generosidad caritativa. Folger Shakespeare Library, Coriolanus, I.1.220–235 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/)",
+              "gloss": "nobleza; condición noble",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/generosity"
             },
             {
               "term": "horns o’ th’ moon",
               "type": "Imagen",
               "title": "Los cuernos de la luna",
-              "body": "La luna creciente se representa con dos puntas o «cuernos». El gesto exagerado de arrojar los gorros expresa el júbilo que Marcio contempla con desprecio."
+              "body": "Imagen hiperbólica: los gorros arrojados en señal de triunfo parecen alcanzar los extremos de la luna creciente. La escena está narrada por Marcio y refleja su desdén. Folger Shakespeare Library, Coriolanus, I.1.220–235 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/)",
+              "gloss": "cuernos de la luna creciente"
             },
             {
               "term": "emulation",
               "type": "Interpretación",
               "title": "emulation",
-              "body": "Puede denotar rivalidad, competición o afán de igualarse con otros. La traducción conserva ese matiz competitivo, aunque el contexto también permite entender una exaltación colectiva."
+              "body": "Emulation puede expresar competición o afán de equipararse; el júbilo popular puede oírse también como desafío a la superioridad patricia. No reducirlo sin más a «alegría». Folger Shakespeare Library, Coriolanus, I.1.220–235 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/)",
+              "gloss": "rivalidad; afán de igualarse",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/emulation"
+            },
+            {
+              "term": "vented their complainings",
+              "type": "Léxico y retórica",
+              "title": "Dar salida a las quejas",
+              "gloss": "dieron salida a sus quejas",
+              "body": "Vent funciona como verbo de emisión o descarga; Marcio convierte la protesta en un desahogo verbal, en vez de atender a sus razones. Folger Shakespeare Library, Coriolanus, I.1.220–235 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/)",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/vent"
+            },
+            {
+              "term": "bold power look pale",
+              "type": "Personificación política",
+              "title": "El poder que palidece",
+              "gloss": "hacer palidecer al poder audaz",
+              "body": "La personificación presenta al poder político como un cuerpo capaz de perder el color ante la concesión. Es la valoración alarmista de Marcio, no un hecho institucional neutral. Folger Shakespeare Library, Coriolanus, I.1.220–235 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/)"
             }
           ]
         },
