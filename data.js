@@ -5889,25 +5889,29 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "ports",
               "type": "Léxico histórico",
               "title": "Las puertas de la ciudad",
-              "body": "Ports designa aquí las puertas de acceso a una ciudad fortificada, no puertos marítimos."
+              "body": "Ports es un sustantivo militar para los accesos o puertas fortificadas, no puertos marítimos. Fuentes: Folger, Coriolanus I.7, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/7/; aparato textual: https://www.folger.edu/explore/shakespeares-works/coriolanus/textual-notes/.",
+              "gloss": "puertas de la ciudad"
             },
             {
               "term": "centuries",
               "type": "Terminología militar",
               "title": "Centurias",
-              "body": "Centuries alude a unidades militares romanas llamadas centurias. No equivale aquí a períodos de cien años; la fuerza real de una centuria podía variar."
+              "body": "Unidades de soldados romanos; el término no designa aquí períodos de cien años. Fuentes: Folger, Coriolanus I.7, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/7/; aparato textual: https://www.folger.edu/explore/shakespeares-works/coriolanus/textual-notes/.",
+              "gloss": "centurias"
             },
             {
               "term": "short holding",
               "type": "Léxico militar",
               "title": "Sostener la plaza por poco tiempo",
-              "body": "Holding expresa la acción de mantener una posición militar. Short limita la duración prevista de esa defensa."
+              "body": "Lartio calcula una resistencia limitada de la guarnición, subordinada al resultado de la batalla campal. Fuentes: Folger, Coriolanus I.7, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/7/; aparato textual: https://www.folger.edu/explore/shakespeares-works/coriolanus/textual-notes/.",
+              "gloss": "defensa por poco tiempo"
             },
             {
               "term": "field",
               "type": "Metonimia militar",
               "title": "El campo de batalla",
-              "body": "Lose the field equivale a perder la batalla; la oposición con town establece que la ciudad conquistada depende del resultado de la lucha exterior."
+              "body": "Lose the field significa perder la batalla en campo abierto; la ciudad quedaría indefendible. Fuentes: Folger, Coriolanus I.7, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/7/; aparato textual: https://www.folger.edu/explore/shakespeares-works/coriolanus/textual-notes/.",
+              "gloss": "campo de batalla"
             }
           ]
         },
@@ -5921,7 +5925,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "care",
               "type": "Léxico",
               "title": "Cuidado y responsabilidad",
-              "body": "Care se refiere aquí a la atención y responsabilidad con que el oficial cumplirá las órdenes, no a una preocupación afectiva."
+              "body": "El teniente garantiza que cumplirán con el cuidado de las defensas. Fuentes: Folger, Coriolanus I.7, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/7/; aparato textual: https://www.folger.edu/explore/shakespeares-works/coriolanus/textual-notes/.",
+              "gloss": "diligencia / vigilancia"
             }
           ]
         },
@@ -5937,19 +5942,22 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "upon ’s",
               "type": "Gramática histórica",
               "title": "Contracción pronominal",
-              "body": "’s representa aquí us («nosotros»): la orden es cerrar las puertas una vez que el grupo de Larcio haya salido."
+              "body": "Contracción de upon us: Lartio ordena cerrar las puertas después de su salida. Fuentes: Folger, Coriolanus I.7, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/7/; aparato textual: https://www.folger.edu/explore/shakespeares-works/coriolanus/textual-notes/.",
+              "gloss": "tras nosotros"
             },
             {
               "term": "guider",
               "type": "Léxico",
               "title": "Guía",
-              "body": "Guider es el agente que conduce al destacamento. La acotación de Folger dirige estas palabras al explorador."
+              "body": "Nombre de agente formado sobre guide; el explorador conduce a las tropas hacia el campamento. Fuentes: Folger, Coriolanus I.7, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/7/; aparato textual: https://www.folger.edu/explore/shakespeares-works/coriolanus/textual-notes/.",
+              "gloss": "guía"
             },
             {
               "term": "To th’ Roman camp",
               "type": "Sintaxis",
               "title": "Complemento adelantado",
-              "body": "El destino aparece antes del imperativo conduct us; el orden español se reorganiza para facilitar la lectura."
+              "body": "El orden de los constituyentes antepone el destino al imperativo conduct us. Fuentes: Folger, Coriolanus I.7, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/7/; aparato textual: https://www.folger.edu/explore/shakespeares-works/coriolanus/textual-notes/.",
+              "gloss": "al campamento romano"
             }
           ]
         }
@@ -5992,13 +6000,15 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "none but thee",
               "type": "Sintaxis",
               "title": "Exclusividad del duelo",
-              "body": "None but equivale a «nadie salvo»; thee es la forma de objeto del pronombre singular de segunda persona."
+              "body": "Teísmo exclusivo del desafío singular, con thee como pronombre objeto. Fuentes: Folger, Coriolanus I.8, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/8/; aparato textual: https://www.folger.edu/explore/shakespeares-works/coriolanus/textual-notes/.",
+              "gloss": "con nadie salvo contigo"
             },
             {
               "term": "promise-breaker",
               "type": "Léxico y valoración",
               "title": "El que rompe su promesa",
-              "body": "El compuesto designa a quien incumple su palabra. La comparación expresa la intensidad del odio de Marcio, no prueba que Aufidio haya quebrantado una promesa."
+              "body": "El incumplimiento de una promesa aparece como término de comparación moral para el odio. Fuentes: Folger, Coriolanus I.8, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/8/; aparato textual: https://www.folger.edu/explore/shakespeares-works/coriolanus/textual-notes/.",
+              "gloss": "quien falta a su palabra"
             }
           ]
         },
@@ -6012,19 +6022,22 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "Afric",
               "type": "Léxico histórico",
               "title": "África como imagen de peligro",
-              "body": "Afric es forma poética abreviada de Africa. La serpiente funciona como término de comparación del aborrecimiento, no como identificación zoológica precisa."
+              "body": "Forma poética abreviada; la serpiente sirve de imagen de repulsión extrema. Fuentes: Folger, Coriolanus I.8, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/8/; aparato textual: https://www.folger.edu/explore/shakespeares-works/coriolanus/textual-notes/.",
+              "gloss": "África"
             },
             {
               "term": "thy fame and envy",
               "type": "Semántica",
               "title": "Fama y envidia",
-              "body": "Envy puede nombrar la envidia que suscita una fama; la relación entre ambos sustantivos admite matices interpretativos. La traducción explicita esa lectura sin presentarla como única."
+              "body": "Envy puede nombrar hostilidad o resentimiento; la coordinación admite una tensión entre la reputación del rival y la envidia que suscita. Fuentes: Folger, Coriolanus I.8, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/8/; aparato textual: https://www.folger.edu/explore/shakespeares-works/coriolanus/textual-notes/.",
+              "gloss": "tu fama y la envidia que despiertas"
             },
             {
               "term": "Fix thy foot",
               "type": "Lengua y escena",
               "title": "No retrocedas",
-              "body": "El imperativo pide fijar la posición para el enfrentamiento. Foot designa literalmente el pie, pero la orden concierne a mantenerse en el sitio."
+              "body": "Orden de afirmarse en el terreno antes del combate. Fuentes: Folger, Coriolanus I.8, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/8/; aparato textual: https://www.folger.edu/explore/shakespeares-works/coriolanus/textual-notes/.",
+              "gloss": "no retrocedas"
             }
           ]
         },
@@ -6038,13 +6051,15 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "budger",
               "type": "Léxico histórico",
               "title": "Quien cede terreno",
-              "body": "Budger deriva de budge, «moverse» o «ceder»; en el desafío se refiere al primero que retroceda."
+              "body": "Budger es quien cede terreno o se mueve, aquí en el duelo. Fuentes: Folger, Coriolanus I.8, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/8/; aparato textual: https://www.folger.edu/explore/shakespeares-works/coriolanus/textual-notes/.",
+              "gloss": "el primero que retroceda"
             },
             {
               "term": "doom him",
               "type": "Léxico",
               "title": "Condena divina",
-              "body": "Doom es aquí un verbo de sentencia o condena; la maldición continúa más allá de la muerte."
+              "body": "Doom significa dictar sentencia, con un castigo divino añadido a la esclavitud. Fuentes: Folger, Coriolanus I.8, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/8/; aparato textual: https://www.folger.edu/explore/shakespeares-works/coriolanus/textual-notes/.",
+              "gloss": "que los dioses lo condenen"
             }
           ]
         },
@@ -6058,13 +6073,15 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "fly",
               "type": "Léxico histórico",
               "title": "Huir",
-              "body": "Fly significa aquí «huir», no «volar»; la construcción condicional retoma el desafío de no retroceder."
+              "body": "Fly tiene aquí el sentido militar de escapar, no de volar. Fuentes: Folger, Coriolanus I.8, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/8/; aparato textual: https://www.folger.edu/explore/shakespeares-works/coriolanus/textual-notes/.",
+              "gloss": "huir"
             },
             {
               "term": "Hollo me",
               "type": "Léxico de caza",
               "title": "Gritar tras la presa",
-              "body": "Hollo evoca el grito empleado para azuzar o señalar una presa en la caza. La liebre convierte una eventual huida en una persecución humillante."
+              "body": "Hollo es el grito con que se azuza o persigue una presa, reforzado por la comparación con la liebre. Fuentes: Folger, Coriolanus I.8, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/8/; aparato textual: https://www.folger.edu/explore/shakespeares-works/coriolanus/textual-notes/.",
+              "gloss": "persígueme a gritos"
             }
           ]
         },
@@ -6078,19 +6095,22 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "Within these three hours",
               "type": "Sintaxis temporal",
               "title": "En las últimas tres horas",
-              "body": "Within señala un intervalo reciente contado hacia atrás desde el momento de habla, no una acción futura."
+              "body": "Referencia temporal a la lucha reciente de Marcio dentro de Corioles. Fuentes: Folger, Coriolanus I.8, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/8/; aparato textual: https://www.folger.edu/explore/shakespeares-works/coriolanus/textual-notes/.",
+              "gloss": "en estas últimas tres horas"
             },
             {
               "term": "masked",
               "type": "Imagen escénica",
               "title": "Máscara de sangre",
-              "body": "Marcio atribuye a la sangre ajena el aspecto de máscara que cubre su rostro; el parlamento recuerda su entrada ensangrentada."
+              "body": "La sangre que cubre a Marcio procede, según afirma, de sus enemigos. Fuentes: Folger, Coriolanus I.8, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/8/; aparato textual: https://www.folger.edu/explore/shakespeares-works/coriolanus/textual-notes/.",
+              "gloss": "cubierto como por una máscara"
             },
             {
               "term": "Wrench up",
               "type": "Léxico y retórica",
               "title": "Tensar al máximo",
-              "body": "Wrench up transmite la idea de elevar o forzar violentamente la intensidad. Power puede aludir a fuerza o capacidad combativa."
+              "body": "Imagen de forzar o tensar toda la fuerza disponible para la venganza. Fuentes: Folger, Coriolanus I.8, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/8/; aparato textual: https://www.folger.edu/explore/shakespeares-works/coriolanus/textual-notes/.",
+              "gloss": "lleva al máximo"
             }
           ]
         },
@@ -6104,25 +6124,33 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "Wert thou",
               "type": "Gramática histórica",
               "title": "Hipótesis contraria a los hechos",
-              "body": "Wert thou equivale a «aunque fueras» o «si fueras»; la inversión sin if introduce una condición hipotética."
+              "body": "Inversión condicional de were + sujeto sin if; el verbo lleva -t de segunda persona. Fuentes: Folger, Coriolanus I.8, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/8/; aparato textual: https://www.folger.edu/explore/shakespeares-works/coriolanus/textual-notes/.",
+              "gloss": "aunque fueras",
+              "lemma": "were",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/were"
             },
             {
               "term": "Hector",
               "type": "Alusión clásica",
               "title": "Héctor de Troya",
-              "body": "Héctor es el defensor troyano de la Ilíada. La tradición romana hacía remontar sus orígenes a los troyanos; el insulto de Aufidio explota esa genealogía."
+              "body": "Héctor es el héroe troyano de la Ilíada; Aufidio lo invoca en relación con la ascendencia legendaria que reivindican los romanos. Fuentes: Folger, Coriolanus I.8, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/8/; aparato textual: https://www.folger.edu/explore/shakespeares-works/coriolanus/textual-notes/.",
+              "gloss": "Héctor de Troya"
             },
             {
               "term": "bragged progeny",
               "type": "Sintaxis e interpretación",
               "title": "Ascendencia celebrada",
-              "body": "La frase se refiere a la ascendencia de la que los romanos presumen. La traducción reordena la relación entre Héctor y los antepasados para hacerla inteligible."
+              "body": "Bragged indica una ascendencia celebrada con jactancia; no establece que la genealogía sea un hecho histórico. Fuentes: Folger, Coriolanus I.8, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/8/; aparato textual: https://www.folger.edu/explore/shakespeares-works/coriolanus/textual-notes/.",
+              "gloss": "antepasados de quienes presumen"
             },
             {
               "term": "scape",
               "type": "Léxico histórico",
               "title": "Escapar",
-              "body": "Scape es forma abreviada de escape, frecuente en el inglés dramático de la época."
+              "body": "Variante aféretica de escape, sin la sílaba inicial. Fuentes: Folger, Coriolanus I.8, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/8/; aparato textual: https://www.folger.edu/explore/shakespeares-works/coriolanus/textual-notes/.",
+              "gloss": "escapar",
+              "lemma": "scape",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/scape"
             }
           ]
         },
@@ -6138,19 +6166,22 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "Officious",
               "type": "Léxico histórico",
               "title": "Intervención inoportuna",
-              "body": "Officious significa aquí «entrometidos» o «solícitos en exceso», no «oficiales»."
+              "body": "El reproche de Aufidio distingue el auxilio no solicitado del verdadero valor en un duelo. Fuentes: Folger, Coriolanus I.8, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/8/; aparato textual: https://www.folger.edu/explore/shakespeares-works/coriolanus/textual-notes/.",
+              "gloss": "entrometidos / serviciales inoportunos"
             },
             {
               "term": "seconds",
               "type": "Léxico del duelo",
               "title": "Ayudantes en combate",
-              "body": "Seconds designa a quienes intervienen como apoyos de un combatiente; no se refiere a unidades de tiempo. Aufidio considera vergonzosa esa ayuda."
+              "body": "Seconds designa quienes intervienen para apoyar a un contendiente; aquí la ayuda deshonra a Aufidio. Fuentes: Folger, Coriolanus I.8, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/8/; aparato textual: https://www.folger.edu/explore/shakespeares-works/coriolanus/textual-notes/.",
+              "gloss": "auxiliares en el combate"
             },
             {
               "term": "condemnèd",
               "type": "Pronunciación editorial",
               "title": "La sílaba marcada",
-              "body": "El acento grave de condemnèd indica que la terminación -ed se pronuncia como sílaba en la lectura editorial; el juicio negativo pertenece al personaje."
+              "body": "El participio califica la intervención como vergonzosa; la tilde editorial señala la sílaba pronunciada. Fuentes: Folger, Coriolanus I.8, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/8/; aparato textual: https://www.folger.edu/explore/shakespeares-works/coriolanus/textual-notes/.",
+              "gloss": "reprobables"
             }
           ]
         }
@@ -6208,31 +6239,36 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "Thou ’t not",
               "type": "Gramática histórica",
               "title": "Negación y elisión",
-              "body": "La forma elidida equivale en contexto a «tú no creerías»; el verbo auxiliar queda reducido en el verso."
+              "body": "Forma elíptica y difícil en la lectura modernizada; se entiende como negación de la capacidad de creer el relato. Fuentes: Folger, Coriolanus I.9, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/9/; aparato textual: https://www.folger.edu/explore/shakespeares-works/coriolanus/textual-notes/.",
+              "gloss": "no creerías"
             },
             {
               "term": "gladly quaked",
               "type": "Retórica",
               "title": "Temor placentero",
-              "body": "La yuxtaposición une el estremecimiento del miedo con el placer de escuchar más; es una reacción imaginada por Cominio."
+              "body": "Paradoja entre el temor al relato bélico y el deseo de oírlo. Fuentes: Folger, Coriolanus I.9, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/9/; aparato textual: https://www.folger.edu/explore/shakespeares-works/coriolanus/textual-notes/.",
+              "gloss": "temblando con gusto"
             },
             {
               "term": "fusty",
               "type": "Léxico",
               "title": "Rancio",
-              "body": "Fusty designa lo enmohecido o rancio y funciona aquí como insulto social hacia los plebeyos."
+              "body": "Insulto de Cominio a los plebeyos; fusty combina la idea de moho o aire viciado con desprecio social. Fuentes: Folger, Coriolanus I.9, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/9/; aparato textual: https://www.folger.edu/explore/shakespeares-works/coriolanus/textual-notes/.",
+              "gloss": "rancios / malolientes"
             },
             {
               "term": "against their hearts",
               "type": "Expresión idiomática",
               "title": "Contra su voluntad",
-              "body": "Los tribunos pronunciarían elogios contrarios a sus sentimientos; Cominio imagina una alabanza forzada."
+              "body": "Los tribunos elogiarían a Marcio a regañadientes, pese a su hostilidad. Fuentes: Folger, Coriolanus I.9, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/9/; aparato textual: https://www.folger.edu/explore/shakespeares-works/coriolanus/textual-notes/.",
+              "gloss": "contra su voluntad"
             },
             {
               "term": "morsel of this feast",
               "type": "Metáfora",
               "title": "La batalla como banquete",
-              "body": "La comida figurada representa el combate: Marcio había luchado abundantemente antes de sumarse al ejército de Cominio."
+              "body": "Metáfora culinaria: la batalla es un festín del que Marcio ya ha participado abundantemente. Fuentes: Folger, Coriolanus I.9, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/9/; aparato textual: https://www.folger.edu/explore/shakespeares-works/coriolanus/textual-notes/.",
+              "gloss": "un bocado de este banquete"
             }
           ]
         },
@@ -6247,13 +6283,17 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "steed",
               "type": "Metáfora",
               "title": "El caballo y sus arreos",
-              "body": "Larcio identifica a Marcio con el caballo de guerra y al resto con su equipamiento: la imagen subordina la contribución colectiva a la fuerza del héroe."
+              "body": "Lartio presenta a Marcio como el caballo y a los demás soldados como sus arreos: la fuerza principal frente a sus accesorios. Fuentes: Folger, Coriolanus I.9, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/9/; aparato textual: https://www.folger.edu/explore/shakespeares-works/coriolanus/textual-notes/.",
+              "gloss": "caballo"
             },
             {
               "term": "Hadst thou beheld",
               "type": "Gramática histórica",
               "title": "Condicional sin if",
-              "body": "La inversión del auxiliar y el sujeto equivale a «si hubieras visto»; el parlamento queda interrumpido por Marcio."
+              "body": "Condicional con inversión de hadst, forma de segunda persona singular del pasado perfecto. Fuentes: Folger, Coriolanus I.9, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/9/; aparato textual: https://www.folger.edu/explore/shakespeares-works/coriolanus/textual-notes/.",
+              "gloss": "si hubieras visto",
+              "lemma": "have",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/have"
             }
           ]
         },
@@ -6267,25 +6307,29 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "charter",
               "type": "Léxico jurídico",
               "title": "Derecho reconocido",
-              "body": "Charter es una carta de privilegio o autorización; Marcio concede figuradamente a su madre el derecho a celebrar a su hijo."
+              "body": "La madre tendría autorización simbólica para alabar a su propio hijo. Fuentes: Folger, Coriolanus I.9, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/9/; aparato textual: https://www.folger.edu/explore/shakespeares-works/coriolanus/textual-notes/.",
+              "gloss": "privilegio / licencia"
             },
             {
               "term": "her blood",
               "type": "Metonimia",
               "title": "Su descendencia",
-              "body": "Blood alude al parentesco: Marcio es sangre de su madre."
+              "body": "Blood remite al vínculo de parentesco, no a la sangre derramada en batalla. Fuentes: Folger, Coriolanus I.9, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/9/; aparato textual: https://www.folger.edu/explore/shakespeares-works/coriolanus/textual-notes/.",
+              "gloss": "su propia sangre"
             },
             {
               "term": "Induced",
               "type": "Semántica",
               "title": "Motivación compartida",
-              "body": "Induced se refiere al impulso o motivo que llevó a combatir; Marcio insiste en que no actuó por una razón distinta a la de sus compañeros."
+              "body": "Marcio afirma que lo mueve la misma causa patriótica que a sus compañeros. Fuentes: Folger, Coriolanus I.9, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/9/; aparato textual: https://www.folger.edu/explore/shakespeares-works/coriolanus/textual-notes/.",
+              "gloss": "impulsado"
             },
             {
               "term": "effected his good will",
               "type": "Interpretación",
               "title": "Intención y acción",
-              "body": "Effected indica haber realizado efectivamente una buena intención; Marcio declara que quien cumple por entero su propósito moral lo aventaja, una valoración suya y no un hecho objetivo."
+              "body": "Contraste entre la voluntad moral y el resultado material de la acción: quien cumple su intención ya lo supera, según Marcio. Fuentes: Folger, Coriolanus I.9, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/9/; aparato textual: https://www.folger.edu/explore/shakespeares-works/coriolanus/textual-notes/.",
+              "gloss": "realizado su buena intención"
             }
           ]
         },

@@ -2288,6 +2288,22 @@
         "https://shakespeare.mit.edu/coriolanus/coriolanus.1.6.html"
       ],
       "status": "reviewed_with_open_sources_private_books_pending"
+    },
+    {
+      "id": "coriolanus-1-7-707-to-1-9-759",
+      "act": 1,
+      "scene": 7,
+      "first_line": 707,
+      "last_line": 759,
+      "reviewed_on": "2026-11-16",
+      "scope": "Segunda revisión de I.7 (707–715), I.8 (716–737) e I.9 (738–759): 38 notas con glosas sobre organización militar, rivalidad de Aufidio y Marcio, sintaxis arcaica, Héctor, duelo e ironía de los elogios. Folger y aparato cotejados; texto bilingüe y localizadores intactos. Libros privados y QA visual pendientes.",
+      "sources": [
+        "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/7/",
+        "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/8/",
+        "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/9/",
+        "https://www.folger.edu/explore/shakespeares-works/coriolanus/textual-notes/"
+      ],
+      "status": "reviewed_with_open_sources_private_books_pending"
     }
   ],
   "verse_format_reviews": [
