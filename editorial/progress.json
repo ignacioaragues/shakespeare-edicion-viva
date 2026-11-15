@@ -2132,6 +2132,20 @@
         "https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedie_of_Coriolanus/Act_1_Scene_1"
       ],
       "status": "reviewed_with_open_sources_private_books_pending"
+    },
+    {
+      "id": "coriolanus-1-1-301-321",
+      "act": 1,
+      "scene": 1,
+      "first_line": 301,
+      "last_line": 321,
+      "reviewed_on": "2026-11-15",
+      "scope": "Segunda pasada del cierre de I.1: once notas con glosas y fuentes; atribución de méritos y fallos entre Cominio y Marcio, juicio público y sintaxis relativa. EN/ES e identificadores preservados. Saltos de verso pendientes de arquitectura compatible con offsets.",
+      "sources": [
+        "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/",
+        "https://www.shakespeare-online.com/plays/corio_1_1.html"
+      ],
+      "status": "reviewed_with_open_sources_private_books_pending"
     }
   ]
 }

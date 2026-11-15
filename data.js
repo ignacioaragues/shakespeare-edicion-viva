@@ -2623,25 +2623,29 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "In whom",
               "type": "Sintaxis",
               "title": "Antecedente personal",
-              "body": "El relativo se refiere a Marcio, no a fame: la fama ya le ha dispensado su favor. La sintaxis intercala esta aclaración antes del verbo principal cannot."
+              "body": "El relativo se refiere a Marcio, no a fame: la fama ya le ha dispensado su favor. La sintaxis intercala esta aclaración antes del verbo principal cannot. Referencias: Folger Shakespeare Library, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; Shakespeare Online, Coriolanus I.1, https://www.shakespeare-online.com/plays/corio_1_1.html.",
+              "gloss": "en quien; referido a Marcio"
             },
             {
               "term": "A place below the first",
               "type": "Política y retórica",
               "title": "El segundo puesto",
-              "body": "Bruto interpreta la subordinación militar como una posición ventajosa para la reputación: Marcio puede recibir elogios sin asumir toda la responsabilidad del mando. Es el razonamiento interesado del tribuno."
+              "body": "Bruto interpreta la subordinación militar como una posición ventajosa para la reputación: Marcio puede recibir elogios sin asumir toda la responsabilidad del mando. Es el razonamiento interesado del tribuno. Referencias: Folger Shakespeare Library, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; Shakespeare Online, Coriolanus I.1, https://www.shakespeare-online.com/plays/corio_1_1.html.",
+              "gloss": "un puesto subordinado al mando principal"
             },
             {
               "term": "giddy censure",
               "type": "Léxico histórico",
               "title": "La opinión voluble",
-              "body": "Censure significa aquí juicio o valoración pública, no necesariamente censura institucional; giddy añade la idea de inconstancia o ligereza."
+              "body": "Censure significa aquí juicio o valoración pública, no necesariamente censura institucional; giddy añade la idea de inconstancia o ligereza. Referencias: Folger Shakespeare Library, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; Shakespeare Online, Coriolanus I.1, https://www.shakespeare-online.com/plays/corio_1_1.html.",
+              "gloss": "juicio público voluble"
             },
             {
               "term": "borne the business",
               "type": "Léxico",
               "title": "Llevar el mando",
-              "body": "Bear the business equivale a asumir la responsabilidad de la empresa militar; la exclamación imagina un mando alternativo de Marcio."
+              "body": "Bear the business equivale a asumir la responsabilidad de la empresa militar; la exclamación imagina un mando alternativo de Marcio. Referencias: Folger Shakespeare Library, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; Shakespeare Online, Coriolanus I.1, https://www.shakespeare-online.com/plays/corio_1_1.html.",
+              "gloss": "haber dirigido la campaña"
             }
           ]
         },
@@ -2655,13 +2659,17 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "sticks on",
               "type": "Léxico figurado",
               "title": "Una opinión adherida",
-              "body": "La imagen expresa la adhesión persistente de la opinión pública a Marcio."
+              "body": "La imagen expresa la adhesión persistente de la opinión pública a Marcio. Referencias: Folger Shakespeare Library, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; Shakespeare Online, Coriolanus I.1, https://www.shakespeare-online.com/plays/corio_1_1.html.",
+              "gloss": "se aferra a; favorece"
             },
             {
               "term": "demerits",
               "type": "Semántica histórica",
               "title": "demerits no significa «deméritos»",
-              "body": "En este uso temprano, demerits puede designar méritos o servicios dignos de recompensa; el sentido negativo predominante en el inglés moderno invertiría la frase. El pronombre his se refiere aquí a Cominio."
+              "body": "En este contexto histórico, demerits se emplea con sentido positivo: servicios o merecimientos, no «deméritos» en sentido moderno. El his remite a Cominio, cuya gloria pública puede quedar eclipsada por Marcio. Referencias: Folger Shakespeare Library, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; Shakespeare Online, Coriolanus I.1, https://www.shakespeare-online.com/plays/corio_1_1.html.",
+              "gloss": "méritos; servicios merecedores de recompensa",
+              "lemma": "demerit",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/demerit"
             }
           ]
         },
@@ -2675,19 +2683,24 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "are to Martius",
               "type": "Sintaxis",
               "title": "Reparto de honores",
-              "body": "La construcción indica destino o atribución: los honores terminarán acreditándose a Marcio."
+              "body": "La construcción indica destino o atribución: los honores terminarán acreditándose a Marcio. Referencias: Folger Shakespeare Library, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; Shakespeare Online, Coriolanus I.1, https://www.shakespeare-online.com/plays/corio_1_1.html.",
+              "gloss": "se atribuirán a Marcio"
             },
             {
               "term": "all his faults",
               "type": "Referencia pronominal",
               "title": "¿De quién son los errores?",
-              "body": "Por el paralelismo con Cominius’ honors, his remite probablemente a Cominio. Bruto insiste en que Marcio gana reputación tanto con los éxitos ajenos como con sus fracasos; la atribución es interpretativa."
+              "body": "Por el paralelismo con Cominius’ honors, his remite probablemente a Cominio. Bruto insiste en que Marcio gana reputación tanto con los éxitos ajenos como con sus fracasos; la atribución es interpretativa. Referencias: Folger Shakespeare Library, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; Shakespeare Online, Coriolanus I.1, https://www.shakespeare-online.com/plays/corio_1_1.html.",
+              "gloss": "todos sus errores; probablemente los de Cominio"
             },
             {
               "term": "In aught",
               "type": "Léxico histórico",
               "title": "In aught",
-              "body": "Aught significa «algo» o «cosa alguna»; aquí refuerza que Marcio podría recibir crédito sin mérito propio."
+              "body": "Aught significa «algo» o «cosa alguna»; aquí refuerza que Marcio podría recibir crédito sin mérito propio. Referencias: Folger Shakespeare Library, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; Shakespeare Online, Coriolanus I.1, https://www.shakespeare-online.com/plays/corio_1_1.html.",
+              "gloss": "en algo; en aspecto alguno",
+              "lemma": "aught",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/aught"
             }
           ]
         },
@@ -2701,13 +2714,15 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "dispatch",
               "type": "Léxico",
               "title": "La organización de la partida",
-              "body": "Dispatch puede referirse al despacho o preparación diligente de los asuntos; aquí alude a cómo se dispone la expedición."
+              "body": "Dispatch puede referirse al despacho o preparación diligente de los asuntos; aquí alude a cómo se dispone la expedición. Referencias: Folger Shakespeare Library, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; Shakespeare Online, Coriolanus I.1, https://www.shakespeare-online.com/plays/corio_1_1.html.",
+              "gloss": "preparación y despacho de la expedición"
             },
             {
               "term": "singularity",
               "type": "Interpretación",
               "title": "Singularidad de Marcio",
-              "body": "Singularity puede denotar carácter excepcional, conducta peculiar o afán de distinguirse. «Extravagancia» explicita el juicio crítico de Sicinio, sin reducir la palabra a una sola acepción posible."
+              "body": "Singularity puede denotar carácter excepcional, conducta peculiar o afán de distinguirse. «Extravagancia» explicita el juicio crítico de Sicinio, sin reducir la palabra a una sola acepción posible. Referencias: Folger Shakespeare Library, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; Shakespeare Online, Coriolanus I.1, https://www.shakespeare-online.com/plays/corio_1_1.html.",
+              "gloss": "carácter peculiar; afán de distinguirse"
             }
           ]
         },
