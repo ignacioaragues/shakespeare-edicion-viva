@@ -246,6 +246,10 @@
   // Verse breaks are zero-text DOM markers: neither en/es nor reading offsets change.
   // Each anchor is checked against the published string before applying the layout.
   const verifiedVerseStarts = {
+    'coriolanus-1-1|98–107': {
+      en: ['Rebelled against the belly', 'That only like a gulf', 'I’ th’ midst', 'Still cupboarding', 'Like labor with the rest', 'Did see and hear', 'And, mutually participate', 'Unto the appetite', 'Of the whole body.'],
+      es: ['se rebelaron contra el vientre', 'de permanecer en medio', 'ocioso e inactivo', 'guardando siempre la comida', 'y sin compartir el trabajo', 'Los otros órganos veían', 'y, colaborando entre sí', 'atendían las necesidades', 'El vientre respondió']
+    },
     'coriolanus-1-1|55–57': {
       en: ['you with bats', 'with bats and clubs'],
       es: ['¿Adónde van con palos', '¿Qué sucede?']
@@ -255,7 +259,7 @@
       es: ['honrados vecinos,', '¿quieren provocar su propia ruina?']
     },
     'coriolanus-1-1|89–94': {
-      en: ['Or be accused of folly.', 'I shall tell you', 'A pretty tale.', 'But since it serves my purpose,', 'To stale ’t a little more.'],
+      en: ['malicious', 'Or be accused of folly.', 'A pretty tale.', 'But since it serves my purpose,', 'To stale ’t a little more.'],
       es: ['o habrá que acusarlos de necios.', 'Les contaré una bonita fábula.', 'Tal vez ya la hayan oído,', 'pero, como viene bien a mi propósito,', 'me arriesgaré a gastarla un poco más']
     },
     'coriolanus-1-1|67–80': {

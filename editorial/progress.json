@@ -2237,6 +2237,17 @@
       "status": "visual_breaks_added_pending_browser_highlight_regression",
       "scope": "44–54 y 58–62, y réplica 66: prosa; 55–57 y 63–65: dos cortes visuales por parlamento inglés y español, según disposición Folger. EN/ES, notas e identificadores sin cambios. Comprobación visual y regresión de resaltados pendientes.",
       "source": "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/"
+    },
+    {
+      "id": "coriolanus-1-1-98-107",
+      "act": 1,
+      "scene": 1,
+      "first_line": 98,
+      "last_line": 107,
+      "reviewed_on": "2026-11-15",
+      "status": "visual_breaks_added_pending_browser_highlight_regression",
+      "scope": "Nueve límites versales del discurso de Menenio, cotejados con Folger, y cortes correspondientes en español; sin alterar en/es ni IDs. Corregido además el límite 89–90 (malicious) que se había omitido en la pasada previa. Requiere QA visual de resaltados.",
+      "source": "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/"
     }
   ]
 }
