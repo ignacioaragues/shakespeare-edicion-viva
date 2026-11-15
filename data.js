@@ -3083,37 +3083,45 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "comfortable sort",
               "type": "Léxico histórico",
               "title": "Comfortable",
-              "body": "Aquí no significa comodidad física: Volumnia pide una disposición de ánimo más animosa."
+              "body": "Modo de expresarse o estado de ánimo, no comodidad física. Volumnia exige alegría ante el honor militar. Fuentes: Folger, Coriolanus I.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/3/; Shakespeare Online, I.3, https://www.shakespeare-online.com/plays/corio_1_3.html.",
+              "gloss": "más animada"
             },
             {
               "term": "freelier",
               "type": "Gramática histórica",
               "title": "Comparativo en -er",
-              "body": "Comparativo de freely: «más gustosamente»."
+              "body": "Comparativo adverbial de freely: la ausencia honorable vale más que los abrazos del lecho. Fuentes: Folger, Coriolanus I.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/3/; Shakespeare Online, I.3, https://www.shakespeare-online.com/plays/corio_1_3.html.",
+              "gloss": "más gustosamente",
+              "lemma": "freely",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/freely"
             },
             {
               "term": "If my son were my husband",
               "type": "Retórica",
               "title": "Madre y esposa",
-              "body": "Volumnia imagina ocupar el lugar de Virgilia para anteponer la gloria pública a la intimidad conyugal."
+              "body": "Hipótesis retórica provocadora: Volumnia se imagina en el lugar de Virgilia para anteponer la gloria pública a la intimidad conyugal; no implica necesariamente deseo literal. Fuentes: Folger, Coriolanus I.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/3/; Shakespeare Online, I.3, https://www.shakespeare-online.com/plays/corio_1_3.html.",
+              "gloss": "si mi hijo fuera mi esposo"
             },
             {
               "term": "picture-like",
               "type": "Imagen",
               "title": "Figura inmóvil",
-              "body": "Sin la fama, la belleza juvenil quedaría reducida a una imagen colgada de la pared."
+              "body": "Sin renombre, la belleza sería un retrato colgado; stir opone movimiento y acción a inmovilidad. Fuentes: Folger, Coriolanus I.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/3/; Shakespeare Online, I.3, https://www.shakespeare-online.com/plays/corio_1_3.html.",
+              "gloss": "como una imagen inmóvil"
             },
             {
               "term": "bound with oak",
               "type": "Contexto romano",
               "title": "Corona de roble",
-              "body": "Alude a una distinción militar romana de hojas de roble, asociada especialmente con salvar a un ciudadano."
+              "body": "Alusión a la corona cívica romana de hojas de roble, tradicionalmente asociada a salvar a un conciudadano en combate; el parlamento no detalla la hazaña. Fuentes: Folger, Coriolanus I.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/3/; Shakespeare Online, I.3, https://www.shakespeare-online.com/plays/corio_1_3.html.",
+              "gloss": "coronado de roble"
             },
             {
               "term": "man-child",
               "type": "Semántica",
               "title": "Varón y hombre",
-              "body": "El contraste pasa de haber nacido varón a haber demostrado hombría en combate."
+              "body": "Contraste entre nacer varón y demostrar valor como hombre en la guerra; la repetición de man sustenta la antítesis. Fuentes: Folger, Coriolanus I.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/3/; Shakespeare Online, I.3, https://www.shakespeare-online.com/plays/corio_1_3.html.",
+              "gloss": "hijo varón"
             }
           ]
         },
@@ -3127,13 +3135,15 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "had he died",
               "type": "Sintaxis histórica",
               "title": "Condicional sin if",
-              "body": "La inversión de had y el sujeto equivale a «if he had died»."
+              "body": "Inversión de had y sujeto en una condicional sin if: Virgilia pregunta por el costo humano de la guerra. Fuente: Folger, Coriolanus I.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/3/.",
+              "gloss": "si hubiera muerto"
             },
             {
               "term": "the business",
               "type": "Léxico",
               "title": "La empresa",
-              "body": "Designa la campaña militar, no un negocio comercial."
+              "body": "Aquí business es la empresa bélica, no una transacción comercial. Fuente: Folger, Coriolanus I.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/3/.",
+              "gloss": "la campaña"
             }
           ]
         },
