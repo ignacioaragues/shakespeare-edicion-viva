@@ -2031,6 +2031,20 @@
         "https://www.litcharts.com/lit/coriolanus/act-1-scene-1"
       ],
       "status": "reviewed_with_open_sources_private_books_pending"
+    },
+    {
+      "id": "coriolanus-1-1-174-200",
+      "act": 1,
+      "scene": 1,
+      "first_line": 174,
+      "last_line": 200,
+      "reviewed_on": "2026-11-15",
+      "scope": "Segunda pasada crítica de tres parlamentos, 19 fichas con glosas: metáfora dermatológica, insultos de clase, símiles animales, paradojas materiales, juicio político y autoridad senatorial. EN/ES y localizadores intactos. Pendiente cotejo privado y saltos de verso.",
+      "sources": [
+        "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/",
+        "https://www.sparknotes.com/nofear/shakespeare/coriolanus/act-1-scene-1/"
+      ],
+      "status": "reviewed_with_open_sources_private_books_pending"
     }
   ]
 }

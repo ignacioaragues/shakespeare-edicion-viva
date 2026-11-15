@@ -1607,15 +1607,30 @@ window.SHAKESPEARE_READER_DATA = {
           "notes": [
             {
               "term": "dissentious rogues",
-              "type": "Léxico político",
-              "title": "Sedición y desprecio",
-              "body": "Dissentious califica a quienes provocan discordia; rogues añade el insulto social. Marcio no pregunta neutralmente por la protesta."
+              "title": "dissentious rogues",
+              "type": "Nota filológica",
+              "gloss": "canallas sediciosos",
+              "body": "La expresión combina discordia política e insulto social. Fuente: Folger, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/. Véase también SparkNotes, No Fear Shakespeare I.1, https://www.sparknotes.com/nofear/shakespeare/coriolanus/act-1-scene-1/.",
+              "lemma": "rogue",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/rogue"
             },
             {
               "term": "itch",
-              "type": "Retórica",
-              "title": "La opinión como enfermedad",
-              "body": "El juego entre picazón, rascarse y costras convierte la discrepancia política en una afección cutánea; scabs también puede sugerir una condición despreciable."
+              "title": "itch",
+              "type": "Nota filológica",
+              "gloss": "comezón",
+              "body": "La opinión es figurada como prurito que los ciudadanos se provocan al rascarse. Fuente: Folger, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/. Véase también SparkNotes, No Fear Shakespeare I.1, https://www.sparknotes.com/nofear/shakespeare/coriolanus/act-1-scene-1/.",
+              "lemma": "itch",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/itch"
+            },
+            {
+              "term": "scabs",
+              "title": "scabs",
+              "type": "Nota filológica",
+              "gloss": "costras; por extensión, gente despreciable",
+              "body": "Cierra la imagen dermatológica de la opinión enferma. Fuente: Folger, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/. Véase también SparkNotes, No Fear Shakespeare I.1, https://www.sparknotes.com/nofear/shakespeare/coriolanus/act-1-scene-1/.",
+              "lemma": "scab",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/scab"
             }
           ]
         },
@@ -1627,9 +1642,12 @@ window.SHAKESPEARE_READER_DATA = {
           "notes": [
             {
               "term": "good word",
-              "type": "Ironía",
-              "title": "Una cortesía envenenada",
-              "body": "El ciudadano responde irónicamente a los insultos de Marcio: la expresión de gratitud significa aquí lo contrario."
+              "title": "good word",
+              "type": "Nota filológica",
+              "gloss": "palabras amables, irónicamente",
+              "body": "La cortesía fingida responde a los insultos de Marcio. Fuente: Folger, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/. Véase también SparkNotes, No Fear Shakespeare I.1, https://www.sparknotes.com/nofear/shakespeare/coriolanus/act-1-scene-1/.",
+              "lemma": "word",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/word"
             }
           ]
         },
@@ -1641,39 +1659,138 @@ window.SHAKESPEARE_READER_DATA = {
           "notes": [
             {
               "term": "Beneath abhorring",
-              "type": "Interpretación",
-              "title": "La adulación y el asco",
-              "body": "Construcción comprimida: elogiar a este ciudadano exigiría una adulación que rebaja incluso el umbral de la repugnancia. La traducción explicita esa relación."
+              "title": "Beneath abhorring",
+              "type": "Nota filológica",
+              "gloss": "por debajo de lo tolerable incluso para el desprecio",
+              "body": "Construcción condensada de adulación y repugnancia; admite matices de interpretación. Fuente: Folger, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/. Véase también SparkNotes, No Fear Shakespeare I.1, https://www.sparknotes.com/nofear/shakespeare/coriolanus/act-1-scene-1/.",
+              "lemma": "abhor",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/abhor"
+            },
+            {
+              "term": "you curs",
+              "title": "you curs",
+              "type": "Nota filológica",
+              "gloss": "ustedes, perros despreciables",
+              "body": "Insulto animal que rebaja la condición social del destinatario. Fuente: Folger, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/. Véase también SparkNotes, No Fear Shakespeare I.1, https://www.sparknotes.com/nofear/shakespeare/coriolanus/act-1-scene-1/.",
+              "lemma": "cur",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/cur"
+            },
+            {
+              "term": "affrights you",
+              "title": "affrights you",
+              "type": "Nota filológica",
+              "gloss": "los atemoriza",
+              "body": "Verbo histórico que contrapone el miedo a la arrogancia. Fuente: Folger, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/. Véase también SparkNotes, No Fear Shakespeare I.1, https://www.sparknotes.com/nofear/shakespeare/coriolanus/act-1-scene-1/.",
+              "lemma": "affright",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/affright"
             },
             {
               "term": "lions",
-              "type": "Retórica",
-              "title": "Animales invertidos",
-              "body": "La secuencia leones/liebres y zorros/gansos opone valor y astucia a cobardía y necedad, según la valoración de Marcio."
+              "title": "lions",
+              "type": "Nota filológica",
+              "gloss": "leones, frente a liebres",
+              "body": "Contraste entre valentía esperada y cobardía atribuida a la multitud. Fuente: Folger, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/. Véase también SparkNotes, No Fear Shakespeare I.1, https://www.sparknotes.com/nofear/shakespeare/coriolanus/act-1-scene-1/.",
+              "lemma": "lion",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/lion"
             },
             {
               "term": "coal of fire upon the ice",
-              "type": "Imagen",
-              "title": "Inestabilidad imposible",
-              "body": "El carbón encendido sobre hielo y el granizo al sol figuran estados precarios; ilustran la supuesta inconstancia popular."
+              "title": "coal of fire upon the ice",
+              "type": "Nota filológica",
+              "gloss": "carbón encendido sobre hielo",
+              "body": "Imagen de incompatibilidad que representa inconstancia. Fuente: Folger, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/. Véase también SparkNotes, No Fear Shakespeare I.1, https://www.sparknotes.com/nofear/shakespeare/coriolanus/act-1-scene-1/.",
+              "lemma": "coal",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/coal"
+            },
+            {
+              "term": "Your virtue",
+              "title": "Your virtue",
+              "type": "Nota filológica",
+              "gloss": "su virtud, irónicamente",
+              "body": "Elogio aparente que introduce una acusación de injusticia. Fuente: Folger, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/. Véase también SparkNotes, No Fear Shakespeare I.1, https://www.sparknotes.com/nofear/shakespeare/coriolanus/act-1-scene-1/.",
+              "lemma": "virtue",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/virtue"
+            },
+            {
+              "term": "whose offense subdues him",
+              "title": "whose offense subdues him",
+              "type": "Nota filológica",
+              "gloss": "a quien su falta ha abatido",
+              "body": "El relativo identifica al hombre castigado que el pueblo, según Marcio, ensalza. Fuente: Folger, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/. Véase también SparkNotes, No Fear Shakespeare I.1, https://www.sparknotes.com/nofear/shakespeare/coriolanus/act-1-scene-1/.",
+              "lemma": "offense",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/offense"
+            },
+            {
+              "term": "sick man’s appetite",
+              "title": "sick man’s appetite",
+              "type": "Nota filológica",
+              "gloss": "apetito de un enfermo",
+              "body": "Símil de deseo autodestructivo: apetecer lo que agrava la enfermedad. Fuente: Folger, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/. Véase también SparkNotes, No Fear Shakespeare I.1, https://www.sparknotes.com/nofear/shakespeare/coriolanus/act-1-scene-1/.",
+              "lemma": "appetite",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/appetite"
             },
             {
               "term": "swims with fins of lead",
-              "type": "Retórica",
-              "title": "Instrumentos que impiden actuar",
-              "body": "Las aletas de plomo y los juncos usados para cortar robles son imágenes de medios contraproducentes, no descripciones literales."
+              "title": "swims with fins of lead",
+              "type": "Nota filológica",
+              "gloss": "nada con aletas de plomo",
+              "body": "Instrumento contraproducente que impide alcanzar el fin. Fuente: Folger, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/. Véase también SparkNotes, No Fear Shakespeare I.1, https://www.sparknotes.com/nofear/shakespeare/coriolanus/act-1-scene-1/.",
+              "lemma": "fin",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/fin"
+            },
+            {
+              "term": "hews down oaks with rushes",
+              "title": "hews down oaks with rushes",
+              "type": "Nota filológica",
+              "gloss": "derriba robles con juncos",
+              "body": "Paradoja material paralela a las aletas de plomo. Fuente: Folger, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/. Véase también SparkNotes, No Fear Shakespeare I.1, https://www.sparknotes.com/nofear/shakespeare/coriolanus/act-1-scene-1/.",
+              "lemma": "hew",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/hew"
+            },
+            {
+              "term": "Hang you! Trust you?",
+              "title": "Hang you! Trust you?",
+              "type": "Nota filológica",
+              "gloss": "¡que los cuelguen! ¿Confiar en ustedes?",
+              "body": "Las preguntas y exclamaciones interrumpen bruscamente el argumento. Fuente: Folger, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/. Véase también SparkNotes, No Fear Shakespeare I.1, https://www.sparknotes.com/nofear/shakespeare/coriolanus/act-1-scene-1/.",
+              "lemma": "hang",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/hang"
+            },
+            {
+              "term": "With every minute you do change a mind",
+              "title": "With every minute you do change a mind",
+              "type": "Nota filológica",
+              "gloss": "cambian de opinión a cada minuto",
+              "body": "«Do» refuerza el verbo; «a mind» es un parecer. Fuente: Folger, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/. Véase también SparkNotes, No Fear Shakespeare I.1, https://www.sparknotes.com/nofear/shakespeare/coriolanus/act-1-scene-1/.",
+              "lemma": "do",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/do"
             },
             {
               "term": "your garland",
-              "type": "Léxico",
-              "title": "Garland",
-              "body": "La guirnalda funciona como emblema de honor y reconocimiento público; el contraste con vile intensifica la acusación de volubilidad."
+              "title": "your garland",
+              "type": "Nota filológica",
+              "gloss": "a quien antes coronaban de honores",
+              "body": "La guirnalda simboliza reconocimiento público. Fuente: Folger, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/. Véase también SparkNotes, No Fear Shakespeare I.1, https://www.sparknotes.com/nofear/shakespeare/coriolanus/act-1-scene-1/.",
+              "lemma": "garland",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/garland"
             },
             {
               "term": "Under the gods",
-              "type": "Política",
-              "title": "Jerarquía de autoridad",
-              "body": "Marcio sitúa al Senado inmediatamente después de los dioses como fuerza que contiene a la multitud; es una afirmación del personaje, no una descripción neutral del orden romano."
+              "title": "Under the gods",
+              "type": "Nota filológica",
+              "gloss": "después de los dioses",
+              "body": "Marcio coloca al Senado inmediatamente por debajo de la autoridad divina. Fuente: Folger, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/. Véase también SparkNotes, No Fear Shakespeare I.1, https://www.sparknotes.com/nofear/shakespeare/coriolanus/act-1-scene-1/.",
+              "lemma": "under",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/under"
+            },
+            {
+              "term": "feed on one another",
+              "title": "feed on one another",
+              "type": "Nota filológica",
+              "gloss": "devorarse unos a otros",
+              "body": "Hipérbole de destrucción mutua sin autoridad senatorial. Fuente: Folger, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/. Véase también SparkNotes, No Fear Shakespeare I.1, https://www.sparknotes.com/nofear/shakespeare/coriolanus/act-1-scene-1/.",
+              "lemma": "feed",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/feed"
             }
           ]
         },
