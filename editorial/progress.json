@@ -2118,6 +2118,20 @@
         "https://www.cambridge.org/core/books/shakespeare-survey/coriolanus-and-the-common-part/2D37D5125B262397F0C8E1CCCCE335E8"
       ],
       "status": "reviewed_with_open_sources_private_books_pending"
+    },
+    {
+      "id": "coriolanus-1-1-280-300",
+      "act": 1,
+      "scene": 1,
+      "first_line": 280,
+      "last_line": 300,
+      "reviewed_on": "2026-11-15",
+      "scope": "Segunda pasada de 13 parlamentos: 15 notas revisadas, dos nuevas; glosas contextuales, ironía del hambre, retórica anti-plebeya, gestualidad de Marcio y subordinación militar. Folger y First Folio cotejados. Texto bilingüe e IDs intactos; libros privados y versos pendientes.",
+      "sources": [
+        "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/",
+        "https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedie_of_Coriolanus/Act_1_Scene_1"
+      ],
+      "status": "reviewed_with_open_sources_private_books_pending"
     }
   ]
 }

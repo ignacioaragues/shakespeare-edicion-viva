@@ -2407,7 +2407,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "Hence",
               "type": "Léxico",
               "title": "Hence",
-              "body": "Adverbio de dirección: «de aquí», «fuera». La orden del senador pone fin a la presencia de los ciudadanos en la reunión."
+              "body": "Adverbio de dirección: «de aquí», «fuera». La orden del senador pone fin a la presencia de los ciudadanos en la reunión. Véase Folger, Coriolanus I.1.280–300, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; cotejo del First Folio: https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_1_Scene_1.",
+              "gloss": "fuera de aquí"
             }
           ]
         },
@@ -2421,13 +2422,23 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "garners",
               "type": "Léxico histórico",
               "title": "garners",
-              "body": "Graneros o depósitos de cereal. La palabra prolonga la disputa inicial por el abastecimiento."
+              "body": "Graneros o depósitos de cereal. La palabra prolonga la disputa inicial por el abastecimiento. Véase Folger, Coriolanus I.1.280–300, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; cotejo del First Folio: https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_1_Scene_1.",
+              "gloss": "graneros, depósitos de cereal"
             },
             {
               "term": "rats",
               "type": "Retórica",
               "title": "Ratas y grano",
-              "body": "Marcio deshumaniza a los ciudadanos comparándolos con roedores que devoran reservas de alimento. La imagen enlaza la guerra exterior con el conflicto del hambre en Roma."
+              "body": "Marcio deshumaniza a los ciudadanos comparándolos con roedores que devoran reservas de alimento. La imagen enlaza la guerra exterior con el conflicto del hambre en Roma. Véase Folger, Coriolanus I.1.280–300, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; cotejo del First Folio: https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_1_Scene_1.",
+              "gloss": "ratas (insulto a los plebeyos)"
+            },
+            {
+              "term": "thither",
+              "type": "Adverbio histórico",
+              "title": "thither",
+              "gloss": "hacia allí",
+              "body": "Adverbio direccional que remite al territorio de los volscos. La propuesta de Marcio de enviar allí a los ciudadanos es sarcástica. Folger, Coriolanus I.1.280–300, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; cotejo del First Folio: https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_1_Scene_1.",
+              "morphology_url": "https://en.wiktionary.org/wiki/thither"
             }
           ]
         },
@@ -2442,13 +2453,15 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "Worshipful",
               "type": "Ironía",
               "title": "Worshipful mutineers",
-              "body": "Worshipful es un tratamiento honorífico. Unido a mutineers («amotinados»), produce una cortesía sarcástica."
+              "body": "Worshipful es un tratamiento honorífico. Unido a mutineers («amotinados»), produce una cortesía sarcástica. Véase Folger, Coriolanus I.1.280–300, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; cotejo del First Folio: https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_1_Scene_1.",
+              "gloss": "honorables (irónicamente)"
             },
             {
               "term": "puts well forth",
               "type": "Interpretación",
               "title": "Una valentía puesta en duda",
-              "body": "El elogio aparente de la valentía contrasta con la retirada furtiva de los ciudadanos; el efecto es irónico."
+              "body": "El elogio aparente de la valentía contrasta con la retirada furtiva de los ciudadanos; el efecto es irónico. Véase Folger, Coriolanus I.1.280–300, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; cotejo del First Folio: https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_1_Scene_1.",
+              "gloss": "se manifiesta admirablemente (ironía)"
             }
           ]
         },
@@ -2477,7 +2490,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "tribunes",
               "type": "Contexto institucional",
               "title": "Tribunos de la plebe",
-              "body": "Los tribunos representan los intereses de la plebe romana. La elección mencionada aquí es la concesión política que Marcio acaba de condenar."
+              "body": "Los tribunos representan los intereses de la plebe romana. La elección mencionada aquí es la concesión política que Marcio acaba de condenar. Véase Folger, Coriolanus I.1.280–300, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; cotejo del First Folio: https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_1_Scene_1.",
+              "gloss": "tribunos de la plebe"
             }
           ]
         },
@@ -2491,7 +2505,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "Marked you",
               "type": "Sintaxis",
               "title": "Marked you",
-              "body": "Interrogativa sin auxiliar do: equivale a «Did you notice…?». La pregunta dirige la atención a los gestos visibles de Marcio."
+              "body": "Interrogativa sin auxiliar do: equivale a «Did you notice…?». La pregunta dirige la atención a los gestos visibles de Marcio. Véase Folger, Coriolanus I.1.280–300, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; cotejo del First Folio: https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_1_Scene_1.",
+              "gloss": "¿notaste tú?"
             }
           ]
         },
@@ -2505,7 +2520,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "taunts",
               "type": "Léxico",
               "title": "taunts",
-              "body": "Burlas, provocaciones o palabras despectivas dirigidas a otros. Sicinio responde al gesto con el recuerdo de las palabras."
+              "body": "Burlas, provocaciones o palabras despectivas dirigidas a otros. Sicinio responde al gesto con el recuerdo de las palabras. Véase Folger, Coriolanus I.1.280–300, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; cotejo del First Folio: https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_1_Scene_1.",
+              "gloss": "burlas, provocaciones"
             }
           ]
         },
@@ -2519,7 +2535,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "gird",
               "type": "Léxico histórico",
               "title": "gird",
-              "body": "Aquí significa ridiculizar o atacar verbalmente, no «ceñir» o «rodear». La expresión describe la falta de freno de Marcio cuando se enoja."
+              "body": "Aquí significa ridiculizar o atacar verbalmente, no «ceñir» o «rodear». La expresión describe la falta de freno de Marcio cuando se enoja. Véase Folger, Coriolanus I.1.280–300, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; cotejo del First Folio: https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_1_Scene_1.",
+              "gloss": "burlarse de, zaherir"
             }
           ]
         },
@@ -2533,7 +2550,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "modest moon",
               "type": "Personificación",
               "title": "La luna recatada",
-              "body": "La luna recibe una cualidad humana, modest («recatada», «pudorosa»). Sicinio prolonga y exagera la acusación de irreverencia iniciada por Bruto."
+              "body": "La luna recibe una cualidad humana, modest («recatada», «pudorosa»). Sicinio prolonga y exagera la acusación de irreverencia iniciada por Bruto. Véase Folger, Coriolanus I.1.280–300, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; cotejo del First Folio: https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_1_Scene_1.",
+              "gloss": "luna recatada"
             }
           ]
         },
@@ -2547,13 +2565,15 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "devour him",
               "type": "Imagen retórica",
               "title": "La guerra que devora",
-              "body": "La guerra aparece personificada como una fuerza que puede engullir a Marcio. Bruto pasa de criticar su conducta a desearle la destrucción."
+              "body": "La guerra aparece personificada como una fuerza que puede engullir a Marcio. Bruto pasa de criticar su conducta a desearle la destrucción. Véase Folger, Coriolanus I.1.280–300, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; cotejo del First Folio: https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_1_Scene_1.",
+              "gloss": "que lo devoren, que acaben con él"
             },
             {
               "term": "Too proud to be so valiant",
               "type": "Interpretación",
               "title": "Orgullo y valor",
-              "body": "Bruto presenta la soberbia como incompatible con el valor que se reconoce a Marcio. La frase expresa su juicio hostil, no una constatación del narrador."
+              "body": "Bruto presenta la soberbia como incompatible con el valor que se reconoce a Marcio. La frase expresa su juicio hostil, no una constatación del narrador. Véase Folger, Coriolanus I.1.280–300, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; cotejo del First Folio: https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_1_Scene_1.",
+              "gloss": "demasiado soberbio para ser tan valiente"
             }
           ]
         },
@@ -2567,19 +2587,29 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "Tickled",
               "type": "Léxico figurado",
               "title": "Tickled with good success",
-              "body": "Tickled expresa aquí satisfacción o vanidad estimulada por el éxito, no cosquillas literales."
+              "body": "Tickled expresa aquí satisfacción o vanidad estimulada por el éxito, no cosquillas literales. Véase Folger, Coriolanus I.1.280–300, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; cotejo del First Folio: https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_1_Scene_1.",
+              "gloss": "halagado, complacido"
             },
             {
               "term": "shadow",
               "type": "Hipérbole",
               "title": "Despreciar su propia sombra",
-              "body": "La sombra del mediodía es especialmente corta; la imagen exagera el desprecio de Marcio incluso por lo que está bajo sus pies."
+              "body": "La sombra del mediodía es especialmente corta; la imagen exagera el desprecio de Marcio incluso por lo que está bajo sus pies. Véase Folger, Coriolanus I.1.280–300, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; cotejo del First Folio: https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_1_Scene_1.",
+              "gloss": "sombra propia al mediodía"
             },
             {
               "term": "brook",
               "type": "Léxico histórico",
               "title": "brook",
-              "body": "Verbo que aquí significa «tolerar» o «soportar». Sicinio duda de que Marcio acepte una posición subordinada."
+              "body": "Verbo que aquí significa «tolerar» o «soportar». Sicinio duda de que Marcio acepte una posición subordinada. Véase Folger, Coriolanus I.1.280–300, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; cotejo del First Folio: https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_1_Scene_1.",
+              "gloss": "tolerar, soportar"
+            },
+            {
+              "term": "insolence",
+              "type": "Léxico político",
+              "title": "insolence",
+              "gloss": "insolencia, arrogancia",
+              "body": "Sicinio presenta el temperamento de Marcio como incompatible con obedecer a Cominio; es un juicio del tribuno, no un hecho probado. Folger, Coriolanus I.1.280–300, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; cotejo del First Folio: https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_1_Scene_1."
             }
           ]
         },
