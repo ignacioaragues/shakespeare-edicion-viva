@@ -1996,27 +1996,66 @@ window.SHAKESPEARE_READER_DATA = {
             },
             {
               "term": "vulgar wisdoms",
-              "type": "Ironía",
-              "title": "La sabiduría «vulgar»",
-              "body": "Vulgar se relaciona con el pueblo común. La expresión es despectiva en boca de Marcio, que rechaza la autoridad política de los plebeyos."
+              "type": "Nota filológica",
+              "title": "vulgar wisdoms",
+              "body": "Vulgar significa «del común»; wisdoms se emplea irónicamente para desacreditar el juicio de los ciudadanos. Es la valoración de Marcio. Fuente: Folger Shakespeare Library, Coriolanus I.1.236–245, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; Shakespeare Online, I.1, https://www.shakespeare-online.com/plays/corio_1_1.html.",
+              "gloss": "opiniones populares, dicho despectivamente",
+              "lemma": "vulgar",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/vulgar"
             },
             {
               "term": "’Sdeath",
-              "type": "Lengua histórica",
+              "type": "Nota filológica",
               "title": "’Sdeath",
-              "body": "Juramento abreviado de God’s death («por la muerte de Dios»). Su forma contraída atenúa gráficamente una invocación blasfema."
+              "body": "Juramento contraído de God's death; no es una orden de matar. Expresa indignación ante la elección. Fuente: Folger Shakespeare Library, Coriolanus I.1.236–245, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; Shakespeare Online, I.1, https://www.shakespeare-online.com/plays/corio_1_1.html.",
+              "gloss": "¡por la muerte de Dios!",
+              "lemma": "'sdeath",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/'sdeath"
             },
             {
               "term": "unroofed",
-              "type": "Crítica textual",
+              "type": "Nota filológica",
               "title": "unroofed",
-              "body": "Folger presenta unroofed («dejado sin techo»). La imagen extrema indica que Marcio habría preferido una devastación de Roma antes que ceder; conviene cotejar la lectura con el Folio en una revisión textual integral."
+              "body": "Hipérbole: ni una destrucción extrema habría llevado a Marcio a ceder. Folger señala una intervención editorial en la lectura unroofed. Fuente: Folger Shakespeare Library, Coriolanus I.1.236–245, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; Shakespeare Online, I.1, https://www.shakespeare-online.com/plays/corio_1_1.html.",
+              "gloss": "arrancado los tejados",
+              "lemma": "unroof",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/unroof"
             },
             {
               "term": "Win upon power",
-              "type": "Sintaxis",
+              "type": "Nota filológica",
               "title": "Win upon power",
-              "body": "Win upon significa avanzar sobre, imponerse gradualmente a. El sujeto implícito es la concesión política recién mencionada."
+              "body": "Win upon describe un avance gradual: Marcio teme que el precedente erosione la autoridad de los patricios. Fuente: Folger Shakespeare Library, Coriolanus I.1.236–245, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; Shakespeare Online, I.1, https://www.shakespeare-online.com/plays/corio_1_1.html.",
+              "gloss": "ganar terreno frente al poder",
+              "lemma": "win",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/win"
+            },
+            {
+              "term": "Five tribunes",
+              "title": "Five tribunes",
+              "type": "Nota filológica",
+              "gloss": "cinco tribunos",
+              "body": "Los tribunos representan a la plebe. La cifra pertenece a la narración dramática; no presupone una correspondencia exacta con la cronología institucional romana. Fuente: Folger Shakespeare Library, Coriolanus I.1.236–245, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; Shakespeare Online, I.1, https://www.shakespeare-online.com/plays/corio_1_1.html.",
+              "lemma": "tribune",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/tribune"
+            },
+            {
+              "term": "Of their own choice",
+              "title": "Of their own choice",
+              "type": "Nota filológica",
+              "gloss": "elegidos por ellos mismos",
+              "body": "Subraya que los ciudadanos eligen a sus representantes: el núcleo político de la concesión que Marcio rechaza. Fuente: Folger Shakespeare Library, Coriolanus I.1.236–245, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; Shakespeare Online, I.1, https://www.shakespeare-online.com/plays/corio_1_1.html.",
+              "lemma": "choice",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/choice"
+            },
+            {
+              "term": "greater themes",
+              "title": "greater themes",
+              "type": "Nota filológica",
+              "gloss": "argumentos de mayor alcance",
+              "body": "Themes significa asuntos o argumentos: la concesión daría, según Marcio, nuevas razones para justificar futuras rebeliones. Fuente: Folger Shakespeare Library, Coriolanus I.1.236–245, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; Shakespeare Online, I.1, https://www.shakespeare-online.com/plays/corio_1_1.html.",
+              "lemma": "theme",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/theme"
             }
           ]
         },
@@ -2035,9 +2074,12 @@ window.SHAKESPEARE_READER_DATA = {
           "notes": [
             {
               "term": "fragments",
-              "type": "Insulto y metáfora",
+              "type": "Nota filológica",
               "title": "fragments",
-              "body": "Literalmente «fragmentos». Marcio reduce a los ciudadanos a restos sin unidad ni dignidad; la traducción procura conservar la descalificación."
+              "body": "Insulto que representa a los ciudadanos como fragmentos sin unidad ni dignidad; el plural se dirige a la multitud. Fuente: Folger Shakespeare Library, Coriolanus I.1.236–245, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; Shakespeare Online, I.1, https://www.shakespeare-online.com/plays/corio_1_1.html.",
+              "gloss": "restos; pedazos de nada",
+              "lemma": "fragment",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/fragment"
             }
           ]
         },
