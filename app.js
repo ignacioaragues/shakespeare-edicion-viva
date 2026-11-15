@@ -246,6 +246,26 @@
   // Verse breaks are zero-text DOM markers: neither en/es nor reading offsets change.
   // Each anchor is checked against the published string before applying the layout.
   const verifiedVerseStarts = {
+    'coriolanus-1-1|109–116': {
+      en: ['Which ne’er came', 'For, look you', 'As well as speak', 'To th’ discontented', 'That envied his receipt', 'As you malign', 'They are not such'],
+      es: ['que no salía de los pulmones', 'Porque, fíjese', 'tanto como hacerlo hablar.', 'a los miembros descontentos', 'que envidiaban cuanto recibía', 'exactamente como ustedes denigran', 'porque no son como ustedes.']
+    },
+    'coriolanus-1-1|117–122': {
+      en: ['The kingly crownèd', 'The counselor heart', 'Our steed the leg', 'With other muniments', 'In this our fabric'],
+      es: ['La cabeza coronada', 'el corazón consejero', 'la pierna que es nuestra montura', 'y las demás defensas', 'de esta estructura que es nuestro cuerpo']
+    },
+    'coriolanus-1-1|123–124': {
+      en: ['’Fore me, this fellow'],
+      es: ['¡Por mi vida']
+    },
+    'coriolanus-1-1|125–126': {
+      en: ['Who is the sink'],
+      es: ['que es el sumidero']
+    },
+    'coriolanus-1-1|128–129': {
+      en: ['What could the belly answer?'],
+      es: ['¿qué podría responderles el vientre?']
+    },
     'coriolanus-1-1|98–107': {
       en: ['Rebelled against the belly', 'That only like a gulf', 'I’ th’ midst', 'Still cupboarding', 'Like labor with the rest', 'Did see and hear', 'And, mutually participate', 'Unto the appetite', 'Of the whole body.'],
       es: ['se rebelaron contra el vientre', 'de permanecer en medio', 'ocioso e inactivo', 'guardando siempre la comida', 'y sin compartir el trabajo', 'Los otros órganos veían', 'y, colaborando entre sí', 'atendían las necesidades', 'El vientre respondió']
