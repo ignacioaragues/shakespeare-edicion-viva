@@ -6603,31 +6603,36 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "when my face is fair",
               "type": "Doble sentido",
               "title": "El rostro limpio",
-              "body": "Fair puede aludir al rostro limpio y también a su aspecto presentable; la sangre del combate impide advertir si se ruboriza."
+              "body": "La sangre oculta el rubor: Marcio aplaza la comprobación de si la nueva distinción lo avergüenza. Fuente textual: Folger Shakespeare Library, Coriolanus I.9, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/9/.",
+              "gloss": "cuando tenga el rostro limpio"
             },
             {
               "term": "Howbeit",
               "type": "Léxico histórico",
               "title": "Sea como sea",
-              "body": "Conector concesivo equivalente a «sin embargo» o «en cualquier caso»."
+              "body": "Conector concesivo que matiza la incomodidad ante la ceremonia con un agradecimiento. Fuente textual: Folger Shakespeare Library, Coriolanus I.9, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/9/.",
+              "gloss": "sin embargo"
             },
             {
               "term": "stride your steed",
               "type": "Léxico",
               "title": "Montar a horcajadas",
-              "body": "Stride significa aquí montar o sentarse a horcajadas sobre el caballo recibido."
+              "body": "Stride se usa transitivamente con el sentido de montar a horcajadas; acepta el caballo, aunque antes rechazó una porción extraordinaria del botín. Fuente textual: Folger Shakespeare Library, Coriolanus I.9, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/9/.",
+              "gloss": "montar tu caballo"
             },
             {
               "term": "undercrest",
               "type": "Imagen heráldica",
               "title": "Sostener el nombre recibido",
-              "body": "El verbo, poco común, evoca el blasón o la cimera; la interpretación como «honrar» o «estar a la altura» del sobrenombre es contextual, no una equivalencia léxica simple."
+              "body": "Imagen heráldica: llevar bajo una cimera el título concedido; no implica que el nuevo nombre sea una insignia material. Fuente textual: Folger Shakespeare Library, Coriolanus I.9, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/9/.",
+              "gloss": "honrar / sostener dignamente"
             },
             {
               "term": "To th’ fairness of my power",
               "type": "Interpretación",
               "title": "En la medida de sus fuerzas",
-              "body": "Power puede referirse a capacidad o fuerza; la formulación mantiene una reserva sobre cuánto podrá corresponder al honor."
+              "body": "La promesa se limita a la medida de su capacidad: fairness puede sugerir la mejor o más honrosa expresión de sus fuerzas. Fuente textual: Folger Shakespeare Library, Coriolanus I.9, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/9/.",
+              "gloss": "hasta donde alcancen mis fuerzas"
             }
           ]
         },
@@ -6641,19 +6646,26 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "ere",
               "type": "Léxico histórico",
               "title": "Antes de",
-              "body": "Ere es una forma literaria de «antes de que»; aquí introduce el descanso todavía pendiente."
+              "body": "Conjunción temporal antigua; equivale a before. Fuente textual: Folger Shakespeare Library, Coriolanus I.9, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/9/.",
+              "gloss": "antes de",
+              "lemma": "ere",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/ere"
             },
             {
               "term": "articulate",
               "type": "Léxico político",
               "title": "Negociar condiciones",
-              "body": "Articulate alude a formular o acordar artículos y condiciones; no significa simplemente «pronunciar con claridad»."
+              "body": "Verbo de negociación formal: concertar artículos o cláusulas con los representantes volscos, no simplemente hablar. Fuente textual: Folger Shakespeare Library, Coriolanus I.9, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/9/.",
+              "gloss": "negociar condiciones",
+              "lemma": "articulate",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/articulate"
             },
             {
               "term": "The best",
               "type": "Interpretación",
               "title": "Los más adecuados",
-              "body": "El superlativo se refiere a los representantes de Corioles que pueden negociar; la elección de «más capaces» explicita su función, no su posición social."
+              "body": "Se refiere a interlocutores destacados de Corioles para negociar los términos de la ocupación; la identidad concreta no se precisa. Fuente textual: Folger Shakespeare Library, Coriolanus I.9, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/9/.",
+              "gloss": "los principales ciudadanos"
             }
           ]
         },
@@ -6674,13 +6686,17 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "most princely gifts",
               "type": "Retórica",
               "title": "Contraste de dignidad",
-              "body": "La magnificencia de los regalos rechazados contrasta con la petición particular que Coriolano se dispone a hacer."
+              "body": "Marcio contrapone las recompensas militares que rechazó con la petición personal que está por hacer. Fuente textual: Folger Shakespeare Library, Coriolanus I.9, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/9/.",
+              "gloss": "regalos dignos de príncipes"
             },
             {
               "term": "am bound to beg",
               "type": "Sintaxis y matiz",
               "title": "Obligado a pedir",
-              "body": "Bound to expresa obligación o necesidad; beg puede significar solicitar humildemente, sin implicar mendicidad material."
+              "body": "Bound to indica necesidad o compromiso, y beg invierte irónicamente su anterior rechazo de regalos. Fuente textual: Folger Shakespeare Library, Coriolanus I.9, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/9/.",
+              "gloss": "me veo obligado a pedir",
+              "lemma": "bind",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/bind"
             }
           ]
         },
@@ -6694,7 +6710,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "Take ’t",
               "type": "Retórica dramática",
               "title": "Concesión anticipada",
-              "body": "Cominio acepta la petición antes de conocerla, señal de confianza y reconocimiento hacia Coriolano."
+              "body": "Cominio concede anticipadamente la petición, sin conocer todavía su contenido. Fuente textual: Folger Shakespeare Library, Coriolanus I.9, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/9/.",
+              "gloss": "concédetelo por hecho"
             }
           ]
         },
@@ -6708,25 +6725,31 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "sometime",
               "type": "Léxico histórico",
               "title": "En cierta ocasión",
-              "body": "Sometime tiene aquí valor temporal indefinido («una vez», «en otro tiempo»), no el de «a veces»."
+              "body": "Aquí sometime es adverbio temporal indefinido, no sometimes ('a veces'). Fuente textual: Folger Shakespeare Library, Coriolanus I.9, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/9/.",
+              "gloss": "en cierta ocasión"
             },
             {
               "term": "he used me kindly",
               "type": "Léxico histórico",
               "title": "Trato hospitalario",
-              "body": "Used me significa «me trató»; no tiene el sentido moderno de «utilizarme»."
+              "body": "Use significa tratar a alguien de cierta manera, no utilizarlo como instrumento. Fuente textual: Folger Shakespeare Library, Coriolanus I.9, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/9/.",
+              "gloss": "me trató con bondad",
+              "lemma": "use",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/use"
             },
             {
               "term": "He cried to me",
               "type": "Interpretación",
               "title": "Un llamado desde el cautiverio",
-              "body": "Cried to me señala que el prisionero llamó a Coriolano; no indica necesariamente que llorara."
+              "body": "La frase señala una súplica del prisionero; el contexto no especifica las palabras pronunciadas. Fuente textual: Folger Shakespeare Library, Coriolanus I.9, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/9/.",
+              "gloss": "me pidió ayuda a gritos"
             },
             {
               "term": "wrath o’erwhelmed my pity",
               "type": "Retórica",
               "title": "Ira y compasión",
-              "body": "La personificación de las pasiones presenta la ira del combate como una fuerza que ahoga la piedad; Coriolano reconoce su propia omisión."
+              "body": "La furia bélica ante Aufidio desplaza la deuda de hospitalidad con el hombre que lo acogió. Fuente textual: Folger Shakespeare Library, Coriolanus I.9, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/9/.",
+              "gloss": "la ira sofocó mi compasión"
             }
           ]
         },
@@ -6740,19 +6763,22 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "well begged",
               "type": "Retórica",
               "title": "Una petición acertada",
-              "body": "Cominio aprueba la petición de clemencia; begged retoma el verbo beg empleado por Coriolano."
+              "body": "La aprobación de Cominio reconoce que la petición beneficia a otro, en lugar de enriquecer al héroe. Fuente textual: Folger Shakespeare Library, Coriolanus I.9, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/9/.",
+              "gloss": "bien pedido"
             },
             {
               "term": "butcher of my son",
               "type": "Hipérbole",
               "title": "Hasta el asesino de su hijo",
-              "body": "Cominio exagera el alcance de su promesa: perdonaría incluso al asesino de su hijo. No se afirma que el prisionero haya cometido ese crimen."
+              "body": "Hipérbole de Cominio: incluso si el cautivo hubiera matado a su hijo, concedería la libertad solicitada. Fuente textual: Folger Shakespeare Library, Coriolanus I.9, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/9/.",
+              "gloss": "asesino de mi hijo"
             },
             {
               "term": "free as is the wind",
               "type": "Símil",
               "title": "Libre como el viento",
-              "body": "La comparación expresa una libertad sin restricciones y refuerza la generosidad enfática de Cominio."
+              "body": "Símil enfático de libertad incondicional. Fuente textual: Folger Shakespeare Library, Coriolanus I.9, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/9/.",
+              "gloss": "libre como el viento"
             }
           ]
         },
@@ -6766,7 +6792,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "his name",
               "type": "Elipsis",
               "title": "¿Cuál es su nombre?",
-              "body": "La pregunta omite el verbo: Larcio necesita identificar al prisionero para cumplir la orden."
+              "body": "Lartio necesita identificar al cautivo para poder liberarlo. Fuente textual: Folger Shakespeare Library, Coriolanus I.9, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/9/.",
+              "gloss": "cómo se llama"
             }
           ]
         },
@@ -6780,19 +6807,24 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "By Jupiter",
               "type": "Invocación",
               "title": "Juramento romano",
-              "body": "Júpiter es invocado como fórmula exclamativa; el juramento refuerza la sorpresa ante el olvido."
+              "body": "Juramento por la divinidad romana; expresa sorpresa ante el olvido. Fuente textual: Folger Shakespeare Library, Coriolanus I.9, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/9/.",
+              "gloss": "¡por Júpiter!"
             },
             {
               "term": "forgot",
               "type": "Sintaxis",
               "title": "Verbo sin auxiliar explícito",
-              "body": "La exclamación elide el sujeto y el auxiliar que exige una paráfrasis en español: «lo he olvidado»."
+              "body": "Participio o forma elíptica en exclamación: Marcio no recuerda el nombre del hombre al que intenta salvar. Fuente textual: Folger Shakespeare Library, Coriolanus I.9, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/9/.",
+              "gloss": "¡lo olvidé!",
+              "lemma": "forget",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/forget"
             },
             {
               "term": "my memory is tired",
               "type": "Personificación",
               "title": "Una memoria fatigada",
-              "body": "Coriolano atribuye a la memoria el cansancio del cuerpo. La escena deja sin identificar al huésped que acaba de intentar salvar."
+              "body": "La fatiga física se proyecta sobre la memoria; el olvido compromete la eficacia de la súplica. Fuente textual: Folger Shakespeare Library, Coriolanus I.9, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/9/.",
+              "gloss": "tengo agotada la memoria"
             }
           ]
         },
@@ -6807,19 +6839,26 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "Go we",
               "type": "Sintaxis histórica",
               "title": "Exhortación con inversión",
-              "body": "La inversión verbal de Go we equivale a una exhortación colectiva: «vayamos»."
+              "body": "Orden exhortativa con inversión del verbo y el sujeto, sin auxiliar let. Fuente textual: Folger Shakespeare Library, Coriolanus I.9, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/9/.",
+              "gloss": "vayamos",
+              "lemma": "go",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/go"
             },
             {
               "term": "looked to",
               "type": "Léxico",
               "title": "Atender las heridas",
-              "body": "Look to significa ocuparse de algo o atenderlo; aquí se refiere a la sangre y las heridas de Coriolano."
+              "body": "Look to equivale a ocuparse de algo: la sangre seca reclama atención a las heridas. Fuente textual: Folger Shakespeare Library, Coriolanus I.9, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/9/.",
+              "gloss": "atender / curar",
+              "lemma": "look",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/look"
             },
             {
               "term": "visage",
               "type": "Léxico",
               "title": "El rostro",
-              "body": "Visage es un sustantivo de registro elevado para «cara» o «rostro»."
+              "body": "Término literario para la cara, en el cierre de la escena. Fuente textual: Folger Shakespeare Library, Coriolanus I.9, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/9/.",
+              "gloss": "rostro"
             }
           ]
         }
@@ -6862,7 +6901,10 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "ta’en",
               "type": "Gramática histórica",
               "title": "Participio contraído",
-              "body": "Ta’en es la forma contraída de taken; la oración pasiva comunica que Corioles ha caído en manos romanas."
+              "body": "Contracción poética del participio taken; Aufidio reconoce la caída de Corioles. Fuente textual: Folger Shakespeare Library, Coriolanus I.10, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/10/. Cotejo: Shakespeare Online, I.10, https://www.shakespeare-online.com/plays/corio_1_10.html.",
+              "gloss": "tomada / conquistada",
+              "lemma": "take",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/take"
             }
           ]
         },
@@ -6876,13 +6918,15 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "delivered back",
               "type": "Léxico",
               "title": "Devolución de la ciudad",
-              "body": "Delivered back significa restituir o devolver; el soldado confía en una devolución negociada, no en una nueva victoria militar."
+              "body": "El soldado anticipa una restitución negociada de la ciudad, no una victoria militar. Fuente textual: Folger Shakespeare Library, Coriolanus I.10, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/10/. Cotejo: Shakespeare Online, I.10, https://www.shakespeare-online.com/plays/corio_1_10.html.",
+              "gloss": "devuelta"
             },
             {
               "term": "on good condition",
               "type": "Interpretación",
               "title": "Condiciones de rendición",
-              "body": "Condition alude a los términos de un acuerdo; el singular puede tener valor colectivo. No sabemos todavía cuáles serán esos términos."
+              "body": "Condition refiere a términos de capitulación; la expresión dispara la protesta de Aufidio. Fuente textual: Folger Shakespeare Library, Coriolanus I.10, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/10/. Cotejo: Shakespeare Online, I.10, https://www.shakespeare-online.com/plays/corio_1_10.html.",
+              "gloss": "en condiciones favorables"
             }
           ]
         },
@@ -6896,55 +6940,70 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "I would I were",
               "type": "Sintaxis histórica",
               "title": "Deseo irreal",
-              "body": "Would introduce aquí un deseo contrario a la realidad, equivalente a «ojalá fuera»; no es un condicional ordinario."
+              "body": "Would introduce deseo contrafáctico; were es subjuntivo, no futuro. Fuente textual: Folger Shakespeare Library, Coriolanus I.10, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/10/. Cotejo: Shakespeare Online, I.10, https://www.shakespeare-online.com/plays/corio_1_10.html.",
+              "gloss": "ojalá fuera",
+              "lemma": "would",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/would"
             },
             {
               "term": "Being a Volsce, be that I am",
               "type": "Interpretación",
               "title": "Identidad y derrota",
-              "body": "Aufidio siente que su condición de volsco derrotado le impide realizar su identidad o valía. La frase admite matices: la traducción hace explícita esa frustración."
+              "body": "Aufidio percibe la rendición como negación de su identidad guerrera; la paradoja expresa vergüenza, no un cambio literal de nacionalidad. Fuente textual: Folger Shakespeare Library, Coriolanus I.10, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/10/. Cotejo: Shakespeare Online, I.10, https://www.shakespeare-online.com/plays/corio_1_10.html.",
+              "gloss": "siendo volsco, ser lo que soy"
             },
             {
               "term": "at mercy",
               "type": "Léxico político",
               "title": "A merced del vencedor",
-              "body": "La parte vencida depende de la clemencia de quien domina; Aufidio cuestiona que pueda negociar en pie de igualdad."
+              "body": "La parte derrotada carece de capacidad para imponer términos ventajosos. Fuente textual: Folger Shakespeare Library, Coriolanus I.10, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/10/. Cotejo: Shakespeare Online, I.10, https://www.shakespeare-online.com/plays/corio_1_10.html.",
+              "gloss": "a merced del vencedor"
             },
             {
               "term": "should we encounter",
               "type": "Sintaxis histórica",
               "title": "Condicional invertida",
-              "body": "Should we encounter equivale a «si nos encontráramos»; el auxiliar antecede al sujeto sin necesidad de if."
+              "body": "Inversión condicional sin if: should precede al sujeto we. Fuente textual: Folger Shakespeare Library, Coriolanus I.10, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/10/. Cotejo: Shakespeare Online, I.10, https://www.shakespeare-online.com/plays/corio_1_10.html.",
+              "gloss": "si nos enfrentáramos",
+              "lemma": "should",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/should"
             },
             {
               "term": "beard to beard",
               "type": "Imagen retórica",
               "title": "Cara a cara",
-              "body": "La imagen de las barbas enfrentadas intensifica la proximidad física de un combate personal."
+              "body": "La proximidad física subraya el duelo personal; cualquier resonancia erótica es interpretativa, no un significado léxico necesario. Fuente textual: Folger Shakespeare Library, Coriolanus I.10, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/10/. Cotejo: Shakespeare Online, I.10, https://www.shakespeare-online.com/plays/corio_1_10.html.",
+              "gloss": "cara a cara"
             },
             {
               "term": "Mine emulation",
               "type": "Léxico histórico",
               "title": "Rivalidad competitiva",
-              "body": "Emulation designa aquí rivalidad o afán de superar al adversario, no simplemente imitación admirativa."
+              "body": "Emulation significa aquí competencia celosa, no imitación admirativa; Aufidio admite que ha perdido su código de honor. Fuente textual: Folger Shakespeare Library, Coriolanus I.10, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/10/. Cotejo: Shakespeare Online, I.10, https://www.shakespeare-online.com/plays/corio_1_10.html.",
+              "gloss": "mi rivalidad"
             },
             {
               "term": "equal force",
               "type": "Ética guerrera",
               "title": "Combate en igualdad",
-              "body": "Aufidio contrapone la antigua aspiración a un duelo equilibrado con la disposición a recurrir a cualquier procedimiento."
+              "body": "Alude al ideal de combate equilibrado, opuesto a las estratagemas que ahora acepta. Fuente textual: Folger Shakespeare Library, Coriolanus I.10, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/10/. Cotejo: Shakespeare Online, I.10, https://www.shakespeare-online.com/plays/corio_1_10.html.",
+              "gloss": "en igualdad de fuerzas"
             },
             {
               "term": "potch",
               "type": "Léxico histórico",
               "title": "Atacar de modo irregular",
-              "body": "Potch es un verbo raro asociado a golpear o pinchar; en este contexto señala una agresión oportunista, en contraste con el duelo limpio."
+              "body": "Verbo de ataque punzante; su uso anuncia la renuncia a un enfrentamiento limpio. Fuente textual: Folger Shakespeare Library, Coriolanus I.10, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/10/. Cotejo: Shakespeare Online, I.10, https://www.shakespeare-online.com/plays/corio_1_10.html.",
+              "gloss": "asestarle una estocada",
+              "lemma": "potch",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/potch"
             },
             {
               "term": "wrath or craft",
               "type": "Antítesis",
               "title": "Ira o astucia",
-              "body": "La pareja contrapone impulso violento y cálculo estratégico; ambos quedan subordinados al objetivo de vencer a Marcio."
+              "body": "La disyuntiva legitima tanto la violencia impulsiva como el engaño; rompe el ideal anterior de espada contra espada. Fuente textual: Folger Shakespeare Library, Coriolanus I.10, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/10/. Cotejo: Shakespeare Online, I.10, https://www.shakespeare-online.com/plays/corio_1_10.html.",
+              "gloss": "por furia o por astucia"
             }
           ]
         },
