@@ -2325,6 +2325,17 @@
       "status": "visual_breaks_added_pending_source_lineation_and_browser_highlight_regression",
       "scope": "Bloques completos 264–286: 264–265 un corte, 267–270 tres, 271–273 dos, 275–276 uno, 277–279 dos, 282–284 dos, 285–286 uno. Versos únicos 266,274,280,281. Cortes españoles de lectura, texto/IDs intactos. Requiere cotejo de precisión con Folger y QA navegador.",
       "source": "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/"
+    },
+    {
+      "id": "coriolanus-1-1-287-300",
+      "act": 1,
+      "scene": 1,
+      "first_line": 287,
+      "last_line": 300,
+      "reviewed_on": "2026-11-15",
+      "status": "visual_breaks_added_pending_source_lineation_and_browser_highlight_regression",
+      "scope": "287–293 son parlamentos de un verso cada uno. 294–295: un salto; 296–300: cuatro saltos visuales en EN y cortes españoles. Primera pasada de marcadores completada hasta línea 300, sin certificar todavía exactitud Folger ni QA de resaltados; segmentos 1–43 pendientes de auditoría global.",
+      "source": "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/"
     }
   ]
 }

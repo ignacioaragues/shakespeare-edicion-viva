@@ -246,6 +246,14 @@
   // Verse breaks are zero-text DOM markers: neither en/es nor reading offsets change.
   // Each anchor is checked against the published string before applying the layout.
   const verifiedVerseStarts = {
+    'coriolanus-1-1|294–295': {
+      en: ['Too proud to be so valiant.'],
+      es: ['Se ha vuelto demasiado soberbio']
+    },
+    'coriolanus-1-1|296–300': {
+      en: ['Tickled with good success', 'Which he treads on at noon.', 'His insolence can brook', 'Under Cominius.'],
+      es: ['halagado por sus triunfos', 'desprecia hasta la sombra', 'Pero me sorprende', 'tolere estar bajo las órdenes']
+    },
     'coriolanus-1-1|264–265': {
       en: ['Attend upon Cominius'],
       es: ['acompaña a Cominio']
