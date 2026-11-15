@@ -2244,6 +2244,21 @@
         "https://www.folger.edu/explore/shakespeares-works/coriolanus/reading-shakespeares-language-coriolanus/"
       ],
       "status": "reviewed_with_open_sources_private_books_pending"
+    },
+    {
+      "id": "coriolanus-1-4-544-to-1-5-599",
+      "act": 1,
+      "scene": 4,
+      "first_line": 544,
+      "last_line": 599,
+      "reviewed_on": "2026-11-16",
+      "scope": "Segunda revisión filológica de I.4 544–567 e I.5 568–599; 28 fichas mejoradas con glosas, interpretación de antítesis sensible/insensible, joya, variante Cato/Calues, léxico del saqueo, sentido medicinal de physical y bendición de Fortuna. Texto bilingüe e IDs sin cambios; cotejo privado y QA visual pendientes.",
+      "sources": [
+        "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/4/",
+        "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/5/",
+        "https://www.folger.edu/explore/shakespeares-works/coriolanus/textual-notes/"
+      ],
+      "status": "reviewed_with_open_sources_private_books_pending"
     }
   ],
   "verse_format_reviews": [

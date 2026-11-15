@@ -4463,7 +4463,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "Foolhardiness",
               "type": "Léxico",
               "title": "Temeridad",
-              "body": "El soldado califica de imprudente el arrojo de Marcio y se niega a imitarlo."
+              "body": "El soldado rechaza imitar la acción arriesgada de Marcio; el juicio pertenece al personaje, no a una voz narrativa. Fuente: Folger Shakespeare Library, Coriolanus I.4, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/4/.",
+              "gloss": "temeridad"
             }
           ]
         },
@@ -4499,13 +4500,15 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "To th’ pot",
               "type": "Locución",
               "title": "Camino de la perdición",
-              "body": "Expresión figurada de ruina o muerte, no una referencia literal a una olla."
+              "body": "Locución coloquial que pronostica la muerte o destrucción de Marcio. Fuente: Folger Shakespeare Library, Coriolanus I.4, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/4/.",
+              "gloss": "está perdido"
             },
             {
               "term": "I warrant him",
               "type": "Sintaxis",
               "title": "Afirmación enfática",
-              "body": "Warrant equivale a asegurar o garantizar; him señala a aquel cuyo destino se predice."
+              "body": "Warrant introduce una garantía enfática del hablante, aunque su pronóstico resulta equivocado. Fuente: Folger Shakespeare Library, Coriolanus I.4, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/4/.",
+              "gloss": "lo aseguro"
             }
           ]
         },
@@ -4548,7 +4551,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "at the very heels",
               "type": "Locución",
               "title": "Pisándoles los talones",
-              "body": "Imagen de persecución a distancia mínima."
+              "body": "Imagen de persecución inmediata, que explica cómo Marcio entra con los fugitivos. Fuente: Folger Shakespeare Library, Coriolanus I.4, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/4/.",
+              "gloss": "pisándoles los talones"
             },
             {
               "term": "upon the sudden",
@@ -4560,7 +4564,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "Clapped to",
               "type": "Léxico",
               "title": "Cerrar de golpe",
-              "body": "Clap to expresa el cierre brusco de una puerta."
+              "body": "Clap to expresa el cierre brusco de las puertas. Fuente: Folger Shakespeare Library, Coriolanus I.4, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/4/.",
+              "gloss": "cerraron de golpe"
             },
             {
               "term": "To answer all the city",
@@ -4580,37 +4585,43 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "sensibly outdares his senseless sword",
               "type": "Antítesis",
               "title": "Conciencia y materia",
-              "body": "Sensibly y senseless contraponen el valor consciente del guerrero a su espada inanimada."
+              "body": "Antítesis entre el guerrero capaz de sentir y el arma inanimada; sensible no significa aquí meramente razonable. Fuente: Folger Shakespeare Library, Coriolanus I.4, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/4/.",
+              "gloss": "consciente, supera en audacia a su espada insensible"
             },
             {
               "term": "when it bows",
               "type": "Imagen",
               "title": "La espada que cede",
-              "body": "El arma que se dobla contrasta con la firmeza de Marcio; no exige suponer una espada rota."
+              "body": "El pronombre refiere a la espada; Lartio opone su flexión a la firmeza de Marcio. Fuente: Folger Shakespeare Library, Coriolanus I.4, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/4/.",
+              "gloss": "cuando ella se dobla"
             },
             {
               "term": "carbuncle",
               "type": "Léxico histórico",
               "title": "Gema roja",
-              "body": "Carbuncle designa aquí una piedra preciosa roja, no una lesión cutánea."
+              "body": "Carbuncle designa una gema roja; Lartio afirma que ni una piedra de tamaño humano igualaría el valor del guerrero. Fuente: Folger Shakespeare Library, Coriolanus I.4, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/4/.",
+              "gloss": "rubí o granate rojo"
             },
             {
               "term": "⌜Cato’s⌝",
               "type": "Crítica textual",
               "title": "Lectura editorial",
-              "body": "Los signos de Folger señalan una intervención editorial; no se atribuye una variante específica sin cotejarla."
+              "body": "La lectura es una enmienda editorial: Folger registra «Calues» en el Primer Folio. No debe presentarse como lectura indiscutida del testimonio original. Fuente: Folger Shakespeare Library, Coriolanus I.4, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/4/. Aparato: https://www.folger.edu/explore/shakespeares-works/coriolanus/textual-notes/.",
+              "gloss": "al ideal de Catón"
             },
             {
               "term": "thunderlike percussion",
               "type": "Retórica",
               "title": "Resonancia de trueno",
-              "body": "Percussion presenta la voz como un impacto sonoro de gran fuerza."
+              "body": "La voz del combatiente se compara con una percusión atronadora; intensifica el retrato marcial. Fuente: Folger Shakespeare Library, Coriolanus I.4, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/4/.",
+              "gloss": "estruendo semejante al trueno"
             },
             {
               "term": "feverous",
               "type": "Imagen",
               "title": "Mundo febril",
-              "body": "El temblor del mundo entero es una hipérbole del terror de los enemigos."
+              "body": "Metáfora de la tierra que tiembla de fiebre ante los gritos de Marcio. Fuente: Folger Shakespeare Library, Coriolanus I.4, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/4/.",
+              "gloss": "febril"
             }
           ]
         },
@@ -4646,7 +4657,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "make remain alike",
               "type": "Sintaxis e interpretación",
               "title": "Compartir su suerte",
-              "body": "La elipsis contrapone traer de vuelta a Marcio y permanecer con él; alike subraya la suerte común de quienes entren a auxiliarlo. La traducción explicita la alternativa sin añadir una muerte segura."
+              "body": "Lartio propone rescatarlo o morir junto a él; remain no significa quedarse inmóviles. Fuente: Folger Shakespeare Library, Coriolanus I.4, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/4/.",
+              "gloss": "correr su misma suerte"
             }
           ]
         }
@@ -4738,7 +4750,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "murrain",
               "type": "Léxico histórico",
               "title": "Maldición de enfermedad",
-              "body": "Murrain designa una peste del ganado; aquí se usa como imprecación, sin referencia a una epidemia efectiva."
+              "body": "Murrain es una enfermedad del ganado, utilizada aquí como maldición coloquial. Fuente: Folger Shakespeare Library, Coriolanus I.5, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/5/.",
+              "gloss": "¡maldita sea!"
             },
             {
               "term": "took this for",
@@ -4759,31 +4772,36 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "movers",
               "type": "Léxico e interpretación",
               "title": "Los que trasladan el botín",
-              "body": "Marcio señala despectivamente a quienes se afanan en transportar objetos. El valor preciso de movers depende del contexto de saqueo."
+              "body": "La palabra califica despectivamente a quienes se afanan en recoger objetos mientras continúa la batalla; su interpretación exacta admite matices. Fuente: Folger Shakespeare Library, Coriolanus I.5, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/5/.",
+              "gloss": "saqueadores"
             },
             {
               "term": "cracked drachma",
               "type": "Léxico monetario",
               "title": "Dracma rajada",
-              "body": "La moneda dañada sirve para representar un valor ínfimo; el pasaje contrapone el tiempo de combate al provecho mezquino."
+              "body": "Moneda de poco valor: la imagen subraya que los saqueadores malgastan su tiempo por una ganancia miserable. Fuente: Folger Shakespeare Library, Coriolanus I.5, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/5/.",
+              "gloss": "dracma devaluada o deteriorada"
             },
             {
               "term": "Irons of a doit",
               "type": "Léxico histórico",
               "title": "Objetos de valor mínimo",
-              "body": "Doit es una moneda de escaso valor; irons se refiere a objetos de hierro. La expresión subraya la insignificancia del botín."
+              "body": "Doit designa una moneda de valor muy bajo; Marcio enumera objetos despreciables. Fuente: Folger Shakespeare Library, Coriolanus I.5, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/5/.",
+              "gloss": "hierros que valen una moneda ínfima"
             },
             {
               "term": "doublets",
               "type": "Indumentaria",
               "title": "Jubones",
-              "body": "El doublet era una prenda ajustada del torso, común en la indumentaria masculina de la época de Shakespeare."
+              "body": "Prenda masculina ajustada al torso; la comparación con ropa de ahorcados refuerza el desprecio. Fuente: Folger Shakespeare Library, Coriolanus I.5, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/5/.",
+              "gloss": "jubones"
             },
             {
               "term": "Ere yet",
               "type": "Gramática histórica",
               "title": "Antes de que",
-              "body": "Ere es una conjunción temporal equivalente a before; yet refuerza que el combate todavía no ha terminado."
+              "body": "Ere es conjunción temporal arcaica; el combate todavía no ha concluido. Fuente: Folger Shakespeare Library, Coriolanus I.5, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/5/.",
+              "gloss": "antes siquiera de que"
             },
             {
               "term": "pack up",
@@ -4810,7 +4828,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "my soul’s hate",
               "type": "Retórica",
               "title": "Enemistad absoluta",
-              "body": "El posesivo sitúa el odio en lo más íntimo del hablante, intensificando la rivalidad con Aufidio."
+              "body": "La rivalidad con Aufidio se formula como afecto total y personal. Fuente: Folger Shakespeare Library, Coriolanus I.5, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/5/.",
+              "gloss": "el odio más profundo de mi alma"
             },
             {
               "term": "Piercing",
@@ -4822,13 +4841,15 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "Convenient numbers",
               "type": "Léxico histórico",
               "title": "Fuerzas suficientes",
-              "body": "Convenient significa aquí apropiado o adecuado para la tarea, no cómodo."
+              "body": "Convenient significa aquí suficiente o apropiado para asegurar la plaza, no cómodo. Fuente: Folger Shakespeare Library, Coriolanus I.5, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/5/.",
+              "gloss": "un número adecuado de hombres"
             },
             {
               "term": "make good the city",
               "type": "Locución militar",
               "title": "Asegurar Corioles",
-              "body": "Make good expresa consolidar o mantener el control de una posición conquistada."
+              "body": "Expresión militar: consolidar el control romano sobre Corioles. Fuente: Folger Shakespeare Library, Coriolanus I.5, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/5/.",
+              "gloss": "asegurar la ciudad"
             }
           ]
         },
@@ -4848,7 +4869,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "second course",
               "type": "Metáfora",
               "title": "Otra ronda de lucha",
-              "body": "Course puede designar una etapa o una sucesión de acciones; Larcio considera excesivo que Marcio vuelva a combatir."
+              "body": "Metáfora de un nuevo turno de lucha; Lartio teme que Marcio, herido, se exceda. Fuente: Folger Shakespeare Library, Coriolanus I.5, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/5/.",
+              "gloss": "una segunda ronda de combate"
             }
           ]
         },
@@ -4868,7 +4890,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "physical",
               "type": "Léxico histórico",
               "title": "Saludable o medicinal",
-              "body": "Physical puede significar medicinal o beneficioso para la salud; la afirmación desafiante invierte el valor habitual de la pérdida de sangre."
+              "body": "Physical posee aquí el sentido de beneficioso para la salud: Marcio afirma paradójicamente que sangrar lo favorece. Fuente: Folger Shakespeare Library, Coriolanus I.5, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/5/.",
+              "gloss": "saludable / medicinal"
             },
             {
               "term": "thus",
@@ -4888,19 +4911,22 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "Fall deep in love",
               "type": "Gramática histórica",
               "title": "Deseo expresado sin may",
-              "body": "El verbo en forma simple introduce aquí un deseo o bendición: «que se enamore»; no describe un hecho."
+              "body": "Optativo sin may: Lartio invoca a Fortuna para que favorezca a Marcio. Fuente: Folger Shakespeare Library, Coriolanus I.5, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/5/.",
+              "gloss": "se enamore profundamente"
             },
             {
               "term": "Misguide",
               "type": "Léxico y retórica",
               "title": "Desviar las espadas",
-              "body": "El verbo expresa que las armas enemigas pierdan su dirección, por intervención de Fortuna."
+              "body": "La bendición pide que Fortuna haga errar las espadas enemigas. Fuente: Folger Shakespeare Library, Coriolanus I.5, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/5/.",
+              "gloss": "desvíe"
             },
             {
               "term": "Prosperity be thy page",
               "type": "Personificación",
               "title": "La prosperidad como paje",
-              "body": "Page designa al joven servidor o acompañante de un caballero. La prosperidad queda figurada como su asistente constante."
+              "body": "Personificación de la prosperidad como servidor que acompaña al guerrero. Fuente: Folger Shakespeare Library, Coriolanus I.5, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/5/.",
+              "gloss": "que la prosperidad sea tu paje"
             }
           ]
         },
@@ -4920,7 +4946,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "placeth",
               "type": "Gramática histórica",
               "title": "Terminación -eth",
-              "body": "Placeth es la tercera persona singular del presente de place; equivale a «coloca» o «sitúa»."
+              "body": "Forma verbal con desinencia arcaica -eth de tercera persona singular. Fuente: Folger Shakespeare Library, Coriolanus I.5, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/5/.",
+              "gloss": "coloca"
             }
           ]
         },
@@ -4947,7 +4974,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "our mind",
               "type": "Léxico contextual",
               "title": "Nuestra voluntad",
-              "body": "Mind designa aquí la intención o decisión de los mandos romanos, que los oficiales deberán conocer."
+              "body": "Lartio convoca a los oficiales para comunicar las disposiciones romanas, no un estado de ánimo. Fuente: Folger Shakespeare Library, Coriolanus I.5, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/5/.",
+              "gloss": "nuestras órdenes / intención"
             }
           ]
         }
