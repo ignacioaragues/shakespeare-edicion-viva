@@ -2303,6 +2303,17 @@
       "status": "visual_breaks_added_pending_browser_highlight_regression",
       "scope": "201–202: 1 límite; 203–215: 10 cortes, 216–219: 3 cortes; 220–235: 10 cortes visuales conservando parlamento íntegro. Saltos de lectura en español; sin alterar textos, notas ni IDs. Comprobación Folger y QA de resaltados aún necesarios para certificar disposición exacta.",
       "source": "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/"
+    },
+    {
+      "id": "coriolanus-1-1-236-263",
+      "act": 1,
+      "scene": 1,
+      "first_line": 236,
+      "last_line": 263,
+      "reviewed_on": "2026-11-15",
+      "status": "visual_breaks_added_pending_source_lineation_and_browser_highlight_regression",
+      "scope": "236,244–248,259: parlamentos de línea única; 237–243: seis marcadores; 249–251: dos; 252–253: uno; 254–258: cuatro; 260–263: tres. Se incluyen las líneas 260–263 como bloque completo. Cortes de lectura españoles; no se modifica texto ni IDs. Pendiente cotejo de lineación exacta Folger y QA visual.",
+      "source": "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/"
     }
   ]
 }

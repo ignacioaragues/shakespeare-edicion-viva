@@ -246,6 +246,26 @@
   // Verse breaks are zero-text DOM markers: neither en/es nor reading offsets change.
   // Each anchor is checked against the published string before applying the layout.
   const verifiedVerseStarts = {
+    'coriolanus-1-1|237–243': {
+      en: ['Of their own choice.', 'Sicinius Velutus', '’Sdeath!', 'Ere so prevailed with me.', 'Win upon power', 'For insurrection’s arguing.'],
+      es: ['Uno es Junio Bruto', '¡Por la muerte de Dios!', 'Antes habría tenido', 'Con el tiempo', 'y dará nuevos motivos', 'para justificar la insurrección.']
+    },
+    'coriolanus-1-1|249–251': {
+      en: ['Our musty superfluity.', 'See our best elders.'],
+      es: ['Así tendremos ocasión', 'Ahí vienen nuestros más ilustres mayores.']
+    },
+    'coriolanus-1-1|252–253': {
+      en: ['The Volsces are in arms.'],
+      es: ['los volscos están en armas.']
+    },
+    'coriolanus-1-1|254–258': {
+      en: ['Tullus Aufidius', 'I sin in envying', 'And, were I anything', 'I would wish me only he.'],
+      es: ['Tulo Aufidio', 'Pecaría por envidiar', 'y, si yo pudiera ser', 'solo desearía ser él.']
+    },
+    'coriolanus-1-1|260–263': {
+      en: ['Upon my party', 'Only my wars with him.', 'That I am proud to hunt.'],
+      es: ['y él combatiera de mi lado', 'yo cambiaría de bando', 'Es un león al que me enorgullece dar caza.']
+    },
     'coriolanus-1-1|201–202': {
       en: ['The city is well stored.'],
       es: ['dicen que la ciudad']
