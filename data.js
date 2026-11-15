@@ -3532,13 +3532,15 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "stitchery",
               "type": "Léxico",
               "title": "Labores de aguja",
-              "body": "Stitchery designa la costura o el bordado que están realizando las mujeres."
+              "body": "El trabajo doméstico que Valeria invita a dejar a un lado. Véase Folger, Coriolanus I.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/3/; contraste textual: https://shakespeare.mit.edu/coriolanus/coriolanus.1.3.html.",
+              "gloss": "labor de costura"
             },
             {
               "term": "idle huswife",
               "type": "Tono e interpretación",
               "title": "La mujer ociosa",
-              "body": "Huswife es una forma histórica de housewife. Valeria juega con la oposición entre las labores domésticas y una tarde de ocio; no constituye necesariamente un insulto."
+              "body": "La expresión es una invitación jocosa a abandonar las labores y divertirse; huswife es una forma histórica de housewife. Véase Folger, Coriolanus I.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/3/; contraste textual: https://shakespeare.mit.edu/coriolanus/coriolanus.1.3.html.",
+              "gloss": "ama de casa ociosa"
             }
           ]
         },
@@ -3552,7 +3554,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "will not out",
               "type": "Sintaxis",
               "title": "Verbo de movimiento omitido",
-              "body": "La construcción omite go: «I will not [go] out of doors». La negativa es tajante."
+              "body": "Out funciona con el verbo de movimiento elidido. Véase Folger, Coriolanus I.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/3/; contraste textual: https://shakespeare.mit.edu/coriolanus/coriolanus.1.3.html.",
+              "gloss": "no saldré"
             }
           ]
         },
@@ -3573,7 +3576,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "shall",
               "type": "Modalidad",
               "title": "Voluntad de Volumnia",
-              "body": "Shall expresa aquí la determinación de Volumnia respecto de lo que hará Virgilia, no una simple predicción neutral."
+              "body": "Shall expresa aquí la insistencia de Volumnia frente a la negativa de Virgilia. Véase Folger, Coriolanus I.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/3/; contraste textual: https://shakespeare.mit.edu/coriolanus/coriolanus.1.3.html.",
+              "gloss": "sí que saldrá"
             }
           ]
         },
@@ -3587,13 +3591,15 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "by your patience",
               "type": "Fórmula de cortesía",
               "title": "Con su permiso",
-              "body": "Expresión cortés que atenúa una negativa firme; no se refiere literalmente a la paciencia como virtud."
+              "body": "Fórmula cortés que introduce una negativa firme. Véase Folger, Coriolanus I.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/3/; contraste textual: https://shakespeare.mit.edu/coriolanus/coriolanus.1.3.html.",
+              "gloss": "con su permiso"
             },
             {
               "term": "till my lord return",
               "type": "Gramática histórica",
               "title": "Subjuntivo sin -s",
-              "body": "Return, sin la terminación de tercera persona singular, aparece en una subordinada temporal de sentido futuro."
+              "body": "Return sin -s es un subjuntivo conservado tras till. Véase Folger, Coriolanus I.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/3/; contraste textual: https://shakespeare.mit.edu/coriolanus/coriolanus.1.3.html.",
+              "gloss": "hasta que regrese mi esposo"
             }
           ]
         },
@@ -3607,13 +3613,15 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "Fie",
               "type": "Interjección",
               "title": "Reprobación leve",
-              "body": "Fie expresa desaprobación o impaciencia; aquí Valeria reprende amistosamente a Virgilia."
+              "body": "Interjección de censura o desaprobación. Véase Folger, Coriolanus I.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/3/; contraste textual: https://shakespeare.mit.edu/coriolanus/coriolanus.1.3.html.",
+              "gloss": "¡vamos!"
             },
             {
               "term": "lies in",
               "type": "Léxico histórico",
               "title": "Guardar cama tras el parto",
-              "body": "Lie in alude al periodo de reposo asociado al parto; la mujer mencionada está de parto o acaba de dar a luz. El contexto no permite precisar más."
+              "body": "Lie in designa el parto y la reclusión posterior; no se especifica el momento exacto. Véase Folger, Coriolanus I.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/3/; contraste textual: https://shakespeare.mit.edu/coriolanus/coriolanus.1.3.html.",
+              "gloss": "está de parto o acaba de dar a luz"
             }
           ]
         },
@@ -3627,13 +3635,15 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "speedy strength",
               "type": "Léxico",
               "title": "Pronta recuperación",
-              "body": "Strength alude aquí a recuperar las fuerzas, en el contexto del parto."
+              "body": "Deseo de recuperar fuerzas, en el contexto del parto. Véase Folger, Coriolanus I.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/3/; contraste textual: https://shakespeare.mit.edu/coriolanus/coriolanus.1.3.html.",
+              "gloss": "pronta recuperación"
             },
             {
               "term": "thither",
               "type": "Adverbio histórico",
               "title": "Allí",
-              "body": "Thither indica movimiento hacia un lugar; hoy suele sustituirse por there."
+              "body": "Adverbio de movimiento hacia un lugar. Véase Folger, Coriolanus I.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/3/; contraste textual: https://shakespeare.mit.edu/coriolanus/coriolanus.1.3.html.",
+              "gloss": "allí"
             }
           ]
         },
@@ -3647,7 +3657,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "I pray you",
               "type": "Fórmula discursiva",
               "title": "Dime, por favor",
-              "body": "I pray you funciona como fórmula de petición, aquí incorporada a una pregunta insistente."
+              "body": "Fórmula de insistencia en una pregunta. Véase Folger, Coriolanus I.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/3/; contraste textual: https://shakespeare.mit.edu/coriolanus/coriolanus.1.3.html.",
+              "gloss": "dime, por favor"
             }
           ]
         },
@@ -3661,7 +3672,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "want love",
               "type": "Léxico histórico",
               "title": "Faltar afecto",
-              "body": "Want tiene aquí el sentido de «carecer de», no el moderno «desear». Virgilia niega que su negativa sea falta de cariño."
+              "body": "Want significa carecer de, no desear. Véase Folger, Coriolanus I.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/3/; contraste textual: https://shakespeare.mit.edu/coriolanus/coriolanus.1.3.html.",
+              "gloss": "me falte afecto"
             }
           ]
         },
@@ -3675,31 +3687,36 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "Penelope",
               "type": "Alusión clásica",
               "title": "Penélope",
-              "body": "Esposa de Odiseo (Ulises), célebre por esperar su regreso y por su labor textil. Valeria emplea la comparación con ironía."
+              "body": "La esposa de Odiseo, proverbial por su espera y su tejido, es objeto de una burla afectuosa. Véase Folger, Coriolanus I.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/3/; contraste textual: https://shakespeare.mit.edu/coriolanus/coriolanus.1.3.html.",
+              "gloss": "Penélope"
             },
             {
               "term": "did but",
               "type": "Sintaxis",
               "title": "No hizo sino",
-              "body": "Did but equivale a «solo consiguió» o «no hizo más que»; Valeria reduce burlonamente la utilidad de la labor."
+              "body": "But restringe el resultado a una consecuencia inútil. Véase Folger, Coriolanus I.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/3/; contraste textual: https://shakespeare.mit.edu/coriolanus/coriolanus.1.3.html.",
+              "gloss": "no hizo sino"
             },
             {
               "term": "cambric",
               "type": "Léxico textil",
               "title": "Batista",
-              "body": "Cambric es un tejido fino de lino, llamado batista en español."
+              "body": "Tejido fino que Valeria imagina dotado de sensibilidad. Véase Folger, Coriolanus I.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/3/; contraste textual: https://shakespeare.mit.edu/coriolanus/coriolanus.1.3.html.",
+              "gloss": "batista fina"
             },
             {
               "term": "sensible",
               "type": "Léxico histórico",
               "title": "Capaz de sentir",
-              "body": "Sensible significa aquí «sensible al dolor» o «capaz de sentir»; Valeria personifica la tela que Virgilia pincha con la aguja."
+              "body": "Se refiere a la sensibilidad física del tejido personificado. Véase Folger, Coriolanus I.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/3/; contraste textual: https://shakespeare.mit.edu/coriolanus/coriolanus.1.3.html.",
+              "gloss": "capaz de sentir"
             },
             {
               "term": "I would",
               "type": "Gramática histórica",
               "title": "Deseo hipotético",
-              "body": "I would introduce un deseo equivalente a «ojalá»; were mantiene la modalidad irreal."
+              "body": "Construcción desiderativa, no condicional ordinario. Véase Folger, Coriolanus I.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/3/; contraste textual: https://shakespeare.mit.edu/coriolanus/coriolanus.1.3.html.",
+              "gloss": "ojalá"
             }
           ]
         },
@@ -3713,7 +3730,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "forth",
               "type": "Léxico",
               "title": "Salir de casa",
-              "body": "El adverbio forth completa el verbo de movimiento elidido: Virgilia insiste en que no saldrá."
+              "body": "Adverbio de dirección con go elidido. Véase Folger, Coriolanus I.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/3/; contraste textual: https://shakespeare.mit.edu/coriolanus/coriolanus.1.3.html.",
+              "gloss": "afuera"
             }
           ]
         },
@@ -3727,7 +3745,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "la",
               "type": "Partícula conversacional",
               "title": "Una interjección familiar",
-              "body": "La es una partícula enfática o familiar, frecuente en el diálogo de la época; no es aquí una nota musical."
+              "body": "Partícula conversacional enfática. Véase Folger, Coriolanus I.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/3/; contraste textual: https://shakespeare.mit.edu/coriolanus/coriolanus.1.3.html.",
+              "gloss": "¡vaya!"
             }
           ]
         },
@@ -3741,7 +3760,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "none yet",
               "type": "Interpretación",
               "title": "La incredulidad de Virgilia",
-              "body": "None retoma news: Virgilia considera demasiado pronto que hayan llegado noticias de la campaña; no afirma que su esposo haya muerto."
+              "body": "None remite a news. Véase Folger, Coriolanus I.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/3/; contraste textual: https://shakespeare.mit.edu/coriolanus/coriolanus.1.3.html.",
+              "gloss": "todavía no hay noticias"
             }
           ]
         },
@@ -3755,13 +3775,15 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "Verily",
               "type": "Léxico",
               "title": "Afirmación enfática",
-              "body": "Verily refuerza la veracidad de lo que sigue: «en verdad», «ciertamente»."
+              "body": "Adverbio enfático de veracidad. Véase Folger, Coriolanus I.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/3/; contraste textual: https://shakespeare.mit.edu/coriolanus/coriolanus.1.3.html.",
+              "gloss": "de veras"
             },
             {
               "term": "jest",
               "type": "Léxico",
               "title": "Bromear",
-              "body": "Jest significa hablar en broma. Valeria desmiente que esté tentando a Virgilia con una noticia inventada."
+              "body": "Valeria insiste en que habla en serio. Véase Folger, Coriolanus I.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/3/; contraste textual: https://shakespeare.mit.edu/coriolanus/coriolanus.1.3.html.",
+              "gloss": "bromear"
             }
           ]
         },
@@ -3782,37 +3804,43 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "In earnest",
               "type": "Léxico",
               "title": "Lo digo en serio",
-              "body": "La expresión contrasta con jest en la intervención anterior: Valeria insiste en que no bromea."
+              "body": "Fórmula de garantía de veracidad. Véase Folger, Coriolanus I.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/3/; contraste textual: https://shakespeare.mit.edu/coriolanus/coriolanus.1.3.html.",
+              "gloss": "en serio"
             },
             {
               "term": "power",
               "type": "Léxico militar",
               "title": "Fuerzas armadas",
-              "body": "Power designa aquí el contingente militar romano, no el poder político abstracto."
+              "body": "Power designa las fuerzas militares romanas. Véase Folger, Coriolanus I.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/3/; contraste textual: https://shakespeare.mit.edu/coriolanus/coriolanus.1.3.html.",
+              "gloss": "tropas"
             },
             {
               "term": "set down before",
               "type": "Léxico militar",
               "title": "Tomar posiciones ante una ciudad",
-              "body": "Set down before expresa la instalación de tropas frente a una plaza para atacarla o sitiarla."
+              "body": "Expresión militar: desplegarse ante una ciudad para sitiarla. Véase Folger, Coriolanus I.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/3/; contraste textual: https://shakespeare.mit.edu/coriolanus/coriolanus.1.3.html.",
+              "gloss": "han acampado ante"
             },
             {
               "term": "They nothing doubt",
               "type": "Sintaxis histórica",
               "title": "Negación adverbial",
-              "body": "Nothing funciona como modificador de doubt: «no dudan en absoluto»; no significa que no sospechen nada."
+              "body": "Nothing intensifica la negación en orden sintáctico histórico. Véase Folger, Coriolanus I.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/3/; contraste textual: https://shakespeare.mit.edu/coriolanus/coriolanus.1.3.html.",
+              "gloss": "no dudan en absoluto"
             },
             {
               "term": "to make it brief wars",
               "type": "Sintaxis e interpretación",
               "title": "Una campaña breve",
-              "body": "La construcción coordina dos resultados esperados, prevalecer y abreviar la guerra. El plural wars puede aludir a las operaciones bélicas en conjunto."
+              "body": "Construcción elíptica referida a una campaña breve. Véase Folger, Coriolanus I.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/3/; contraste textual: https://shakespeare.mit.edu/coriolanus/coriolanus.1.3.html.",
+              "gloss": "terminar pronto la guerra"
             },
             {
               "term": "on mine honor",
               "type": "Fórmula de juramento",
               "title": "Por mi honor",
-              "body": "Mine es la forma posesiva que aparece ante vocal en usos históricos; la fórmula garantiza la sinceridad de Valeria."
+              "body": "Juramento de veracidad; mine es forma histórica ante vocal. Véase Folger, Coriolanus I.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/3/; contraste textual: https://shakespeare.mit.edu/coriolanus/coriolanus.1.3.html.",
+              "gloss": "por mi honor"
             }
           ]
         },
@@ -3826,13 +3854,15 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "Give me excuse",
               "type": "Fórmula de cortesía",
               "title": "Discúlpeme",
-              "body": "Virgilia pide que se excuse su negativa actual, aunque promete obediencia en el futuro."
+              "body": "Fórmula de rechazo cortés. Véase Folger, Coriolanus I.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/3/; contraste textual: https://shakespeare.mit.edu/coriolanus/coriolanus.1.3.html.",
+              "gloss": "discúlpeme"
             },
             {
               "term": "hereafter",
               "type": "Léxico",
               "title": "De ahora en adelante",
-              "body": "Aquí hereafter se refiere a ocasiones futuras, sin implicar el más allá."
+              "body": "Promete obedecer en otra ocasión. Véase Folger, Coriolanus I.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/3/; contraste textual: https://shakespeare.mit.edu/coriolanus/coriolanus.1.3.html.",
+              "gloss": "en adelante"
             }
           ]
         },
@@ -3846,13 +3876,15 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "disease",
               "type": "Léxico histórico",
               "title": "Perturbar o estropear",
-              "body": "Disease es aquí un verbo que significa incomodar o perturbar; no se refiere a transmitir una enfermedad."
+              "body": "Metáfora de contagio: la tristeza arruinaría la diversión. Véase Folger, Coriolanus I.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/3/; contraste textual: https://shakespeare.mit.edu/coriolanus/coriolanus.1.3.html.",
+              "gloss": "estropear"
             },
             {
               "term": "better mirth",
               "type": "Interpretación",
               "title": "La alegría de las otras",
-              "body": "Volumnia contrapone el ánimo sombrío de Virgilia a la diversión que esperan disfrutar las demás mujeres."
+              "body": "Better califica la alegría de las acompañantes, no su superioridad moral. Véase Folger, Coriolanus I.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/3/; contraste textual: https://shakespeare.mit.edu/coriolanus/coriolanus.1.3.html.",
+              "gloss": "nuestra alegría"
             }
           ]
         },
@@ -3866,19 +3898,22 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "In troth",
               "type": "Léxico",
               "title": "En verdad",
-              "body": "Fórmula enfática de sinceridad. Valeria concede que Volumnia tiene razón sobre el efecto del ánimo de Virgilia."
+              "body": "Fórmula de asentimiento. Véase Folger, Coriolanus I.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/3/; contraste textual: https://shakespeare.mit.edu/coriolanus/coriolanus.1.3.html.",
+              "gloss": "en verdad"
             },
             {
               "term": "Prithee",
               "type": "Gramática histórica",
               "title": "Te lo ruego",
-              "body": "Contracción histórica de «I pray thee»; Valeria pasa a una súplica directa y familiar."
+              "body": "Contracción de I pray thee. Véase Folger, Coriolanus I.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/3/; contraste textual: https://shakespeare.mit.edu/coriolanus/coriolanus.1.3.html.",
+              "gloss": "te lo ruego"
             },
             {
               "term": "solemness",
               "type": "Léxico e interpretación",
               "title": "Seriedad sombría",
-              "body": "Solemness designa aquí la gravedad o tristeza de Virgilia. «Echarla fuera de casa» prolonga la imagen doméstica de salir al exterior."
+              "body": "Forma histórica de la gravedad de Virgilia; no se normaliza el original. Véase Folger, Coriolanus I.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/3/; contraste textual: https://shakespeare.mit.edu/coriolanus/coriolanus.1.3.html.",
+              "gloss": "seriedad sombría"
             }
           ]
         },
@@ -3892,19 +3927,22 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "at a word",
               "type": "Expresión idiomática",
               "title": "Respuesta definitiva",
-              "body": "La fórmula refuerza la negativa: Virgilia quiere cerrar la discusión sin dar más explicaciones."
+              "body": "Marca la decisión definitiva. Véase Folger, Coriolanus I.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/3/; contraste textual: https://shakespeare.mit.edu/coriolanus/coriolanus.1.3.html.",
+              "gloss": "de una vez por todas"
             },
             {
               "term": "must not",
               "type": "Modalidad",
               "title": "No puedo hacerlo",
-              "body": "Must not presenta la permanencia en casa como una obligación para Virgilia, no solo como una preferencia."
+              "body": "El modal expresa obligación asumida. Véase Folger, Coriolanus I.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/3/; contraste textual: https://shakespeare.mit.edu/coriolanus/coriolanus.1.3.html.",
+              "gloss": "no debo"
             },
             {
               "term": "mirth",
               "type": "Léxico",
               "title": "Diversión",
-              "body": "Mirth retoma la «alegría» mencionada por Volumnia en 478 y subraya la distancia entre las visitantes y Virgilia."
+              "body": "Deseo de disfrute dirigido a las demás. Véase Folger, Coriolanus I.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/3/; contraste textual: https://shakespeare.mit.edu/coriolanus/coriolanus.1.3.html.",
+              "gloss": "alegría"
             }
           ]
         },
