@@ -2994,7 +2994,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "The gods",
               "type": "Contexto religioso",
               "title": "Invocación a los dioses",
-              "body": "La despedida adopta la forma de un deseo de protección divina. La referencia es plural, acorde con el marco religioso romano de la acción."
+              "body": "Fórmula optativa de despedida: el plural 'gods' corresponde al marco religioso pagano de la acción. La réplica de Aufidio en el verso siguiente completa el intercambio de bendiciones; no se identifica una divinidad particular. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Digital Texts, Coriolanus I.2, líneas 365–366, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/2/; William Shakespeare, Coriolanus I.2, texto en MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.1.2.html.",
+              "gloss": "¡Que los dioses te ayuden!"
             }
           ]
         },
@@ -3008,7 +3009,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "And keep",
               "type": "Sintaxis",
               "title": "Elipsis del sujeto",
-              "body": "El sujeto de keep se recupera de la intervención anterior: son los dioses quienes deben proteger a los senadores. La réplica forma una sola fórmula de despedida con el parlamento precedente."
+              "body": "La conjunción inicial 'And' prolonga la bendición del coro: el sujeto tácito de 'keep' es 'the gods' del parlamento anterior. 'Your Honors' es tratamiento honorífico plural, no el sustantivo abstracto 'honores'. Fuente: Barbara Mowat y Paul Werstine (eds.), Folger Digital Texts, Coriolanus I.2, líneas 365–366, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/2/.",
+              "gloss": "¡Y que los mantengan a salvo!"
             }
           ]
         },
@@ -3017,7 +3019,15 @@ window.SHAKESPEARE_READER_DATA = {
           "speaker": "senator1",
           "en": "Farewell.",
           "es": "Adiós.",
-          "notes": []
+          "notes": [
+            {
+              "term": "Farewell",
+              "title": "Despedida escalonada",
+              "type": "Dramaturgia",
+              "gloss": "Adiós",
+              "body": "La repetición sucesiva de 'Farewell' por el primer senador, el segundo y el conjunto cierra la escena con una fórmula coral breve. Se trata de una observación escénica derivada de la distribución de parlamentos, no de una indicación adicional del texto. Fuente: Barbara Mowat y Paul Werstine (eds.), Folger Digital Texts, Coriolanus I.2, líneas 367–369, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/2/."
+            }
+          ]
         },
         {
           "line": "368",
