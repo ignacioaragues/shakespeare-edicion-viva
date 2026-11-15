@@ -246,6 +246,10 @@
   // Verse breaks are zero-text DOM markers: neither en/es nor reading offsets change.
   // Each anchor is checked against the published string before applying the layout.
   const verifiedVerseStarts = {
+    'coriolanus-1-1|89–94': {
+      en: ['Or be accused of folly.', 'I shall tell you', 'A pretty tale.', 'But since it serves my purpose,', 'To stale ’t a little more.'],
+      es: ['o habrá que acusarlos de necios.', 'Les contaré una bonita fábula.', 'Tal vez ya la hayan oído,', 'pero, como viene bien a mi propósito,', 'me arriesgaré a gastarla un poco más']
+    },
     'coriolanus-1-1|67–80': {
       en: ['Have the patricians','Your suffering','Strike at the heaven','Against the Roman state','The way it takes','Of more strong link','Appear in your impediment','The gods, not the patricians','Your knees to them','You are transported','Thither where more attends','The helms o’ th’ state','When you curse them'],
       es: ['En cuanto a sus necesidades','y a lo que sufren','tanto les serviría','como alzarlos contra','Este seguirá su curso','y romperá diez mil','más resistentes que','La escasez la causan','deben buscar remedio','¡Ay! La desgracia','hacia males aún mayores','y ustedes calumnian','llamándolos enemigos']

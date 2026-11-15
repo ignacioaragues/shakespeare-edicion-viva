@@ -2215,6 +2215,17 @@
       "status": "visual_breaks_added_pending_browser_highlight_regression",
       "scope": "13 límites versales ingleses cotejados con Folger; 13 cortes de lectura españoles. Marcadores DOM sin contenido textual, conservando strings en/es e identificadores. Rango 1–66 no se marca como restaurado; 81–300 pendiente.",
       "source": "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/"
+    },
+    {
+      "id": "coriolanus-1-1-81-97",
+      "act": 1,
+      "scene": 1,
+      "first_line": 81,
+      "last_line": 97,
+      "reviewed_on": "2026-11-15",
+      "status": "visual_breaks_added_pending_browser_highlight_regression",
+      "scope": "81–88 y 95–97: prosa, sin cortes artificiales; 89–94: cinco límites versales ingleses cotejados con Folger y cinco cortes españoles. Texto y localizadores conservados. Pendientes 98–300.",
+      "source": "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/"
     }
   ]
 }
