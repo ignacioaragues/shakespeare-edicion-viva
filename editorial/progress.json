@@ -2146,6 +2146,20 @@
         "https://www.shakespeare-online.com/plays/corio_1_1.html"
       ],
       "status": "reviewed_with_open_sources_private_books_pending"
+    },
+    {
+      "id": "coriolanus-1-2-322-343",
+      "act": 1,
+      "scene": 2,
+      "first_line": 322,
+      "last_line": 343,
+      "reviewed_on": "2026-11-15",
+      "scope": "Segunda pasada crítica del comienzo del consejo volsco: siete fichas revisadas con glosas españolas y referencias a Folger y Cambridge Edition; lectura de la carta, espionaje, leva, construcción comparativa y sintaxis histórica. EN/ES, IDs y offsets intactos. Saltos de verso y cotejo privado pendientes.",
+      "sources": [
+        "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/2/",
+        "https://readingroo.ms/4/9/0/0/49007/49007-h/49007-h.htm"
+      ],
+      "status": "reviewed_with_open_sources_private_books_pending"
     }
   ]
 }

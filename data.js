@@ -2780,7 +2780,10 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "entered in our counsels",
               "type": "Léxico y sintaxis",
               "title": "Penetrar en los planes",
-              "body": "Entered in significa aquí haber tenido acceso a información reservada; counsels designa deliberaciones o planes, no consejeros."
+              "body": "Entered in significa aquí haber tenido acceso a información reservada; counsels designa deliberaciones o planes, no consejeros. Referencias: Folger Shakespeare Library, Coriolanus I.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/2/ ; William George Clark y William Aldis Wright (eds.), The Works of William Shakespeare, Cambridge Edition, vol. 6 (1866), I.2, https://readingroo.ms/4/9/0/0/49007/49007-h/49007-h.htm",
+              "gloss": "han penetrado en nuestros planes",
+              "lemma": "enter",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/enter"
             }
           ]
         },
@@ -2794,31 +2797,44 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "bodily act",
               "type": "Léxico",
               "title": "De la intención al hecho",
-              "body": "Bodily act contrapone la ejecución material de un plan a su mera concepción."
+              "body": "Bodily act contrapone la ejecución material de un plan a su mera concepción. Referencias: Folger Shakespeare Library, Coriolanus I.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/2/ ; William George Clark y William Aldis Wright (eds.), The Works of William Shakespeare, Cambridge Edition, vol. 6 (1866), I.2, https://readingroo.ms/4/9/0/0/49007/49007-h/49007-h.htm",
+              "gloss": "ejecución efectiva",
+              "lemma": "act",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/act"
             },
             {
               "term": "circumvention",
               "type": "Semántica histórica",
               "title": "Descubrimiento preventivo",
-              "body": "Circumvention puede implicar anticipación y frustración de los planes; Aufidio reprocha que Roma se haya adelantado a sus movimientos."
+              "body": "Circumvention puede implicar anticipación y frustración de los planes; Aufidio reprocha que Roma se haya adelantado a sus movimientos. Referencias: Folger Shakespeare Library, Coriolanus I.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/2/ ; William George Clark y William Aldis Wright (eds.), The Works of William Shakespeare, Cambridge Edition, vol. 6 (1866), I.2, https://readingroo.ms/4/9/0/0/49007/49007-h/49007-h.htm",
+              "gloss": "anticipación que frustra un plan",
+              "lemma": "circumvention",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/circumvention"
             },
             {
               "term": "pressed a power",
               "type": "Léxico militar",
               "title": "Leva de tropas",
-              "body": "Pressed se refiere a reclutar o movilizar hombres para el servicio militar; power significa aquí fuerza armada."
+              "body": "Pressed se refiere a reclutar o movilizar hombres para el servicio militar; power significa aquí fuerza armada. Referencias: Folger Shakespeare Library, Coriolanus I.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/2/ ; William George Clark y William Aldis Wright (eds.), The Works of William Shakespeare, Cambridge Edition, vol. 6 (1866), I.2, https://readingroo.ms/4/9/0/0/49007/49007-h/49007-h.htm",
+              "gloss": "han reclutado tropas",
+              "lemma": "press",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/press"
             },
             {
               "term": "Who is of Rome worse hated than of you",
               "type": "Sintaxis",
               "title": "Una comparación provocadora",
-              "body": "Of Rome y of you introducen los agentes del odio: Marcio es, según la carta, más odiado por los romanos que por el propio Aufidio. Es una afirmación del informante, no una verdad corroborada por la escena."
+              "body": "Of Rome y of you introducen los agentes del odio: Marcio es, según la carta, más odiado por los romanos que por el propio Aufidio. Es una afirmación del informante, no una verdad corroborada por la escena. Referencias: Folger Shakespeare Library, Coriolanus I.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/2/ ; William George Clark y William Aldis Wright (eds.), The Works of William Shakespeare, Cambridge Edition, vol. 6 (1866), I.2, https://readingroo.ms/4/9/0/0/49007/49007-h/49007-h.htm",
+              "gloss": "más odiado por Roma que por ti"
             },
             {
               "term": "Consider of it",
               "type": "Gramática histórica",
               "title": "Consider of",
-              "body": "La preposición of acompaña aquí a consider; en el inglés actual suele omitirse al emplear el verbo transitivamente."
+              "body": "La preposición of acompaña aquí a consider; en el inglés actual suele omitirse al emplear el verbo transitivamente. Referencias: Folger Shakespeare Library, Coriolanus I.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/2/ ; William George Clark y William Aldis Wright (eds.), The Works of William Shakespeare, Cambridge Edition, vol. 6 (1866), I.2, https://readingroo.ms/4/9/0/0/49007/49007-h/49007-h.htm",
+              "gloss": "ténganlo en cuenta",
+              "lemma": "consider",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/consider"
             }
           ],
           "stageBefore": "Aufidio saca una carta y la lee."
@@ -2833,7 +2849,10 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "made doubt but",
               "type": "Sintaxis histórica",
               "title": "No dudar de que",
-              "body": "La secuencia negativa never ... doubt but equivale a «nunca dudamos de que»; but no expresa aquí una excepción adversativa."
+              "body": "La secuencia negativa never ... doubt but equivale a «nunca dudamos de que»; but no expresa aquí una excepción adversativa. Referencias: Folger Shakespeare Library, Coriolanus I.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/2/ ; William George Clark y William Aldis Wright (eds.), The Works of William Shakespeare, Cambridge Edition, vol. 6 (1866), I.2, https://readingroo.ms/4/9/0/0/49007/49007-h/49007-h.htm",
+              "gloss": "nunca dudamos de que",
+              "lemma": "doubt",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/doubt"
             }
           ]
         },
