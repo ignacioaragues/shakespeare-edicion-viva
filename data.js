@@ -2203,7 +2203,15 @@ window.SHAKESPEARE_READER_DATA = {
           "speaker": "cominius",
           "en": "You have fought together?",
           "es": "¿Ya se han enfrentado en combate?",
-          "notes": []
+          "notes": [
+            {
+              "term": "fought together",
+              "type": "Contexto dramático",
+              "title": "La rivalidad anterior",
+              "gloss": "¿se han enfrentado antes?",
+              "body": "La pregunta de Cominio introduce una rivalidad ya existente, no un combate representado en esta escena. Véase Folger, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/."
+            }
+          ]
         },
         {
           "line": "260–263",
@@ -2212,28 +2220,36 @@ window.SHAKESPEARE_READER_DATA = {
           "es": "Aunque las dos mitades del mundo estuvieran enfrentadas y él combatiera de mi lado, yo cambiaría de bando con tal de luchar solo contra él. Es un león al que me enorgullece dar caza.",
           "notes": [
             {
-              "term": "half to half the world",
-              "type": "Sintaxis",
-              "title": "Las dos mitades del mundo",
-              "body": "La construcción condicional invertida were ... expresa una hipótesis extrema: un mundo dividido en dos bandos enfrentados."
+              "term": "Were half to half the world",
+              "type": "Sintaxis histórica",
+              "title": "Condicional invertida",
+              "gloss": "aunque medio mundo luchara contra el otro medio",
+              "lemma": "be",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/be",
+              "body": "«Were ...» omite if y plantea una situación hipotética extrema; «by th’ ears» evoca una pelea. Folger, I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/."
             },
             {
               "term": "Upon my party",
               "type": "Léxico histórico",
-              "title": "party",
-              "body": "Aquí party significa «bando» o «facción», no una celebración ni un partido político moderno."
+              "title": "party: el bando",
+              "gloss": "en mi propio bando",
+              "body": "«Party» es aquí el lado de un conflicto, no un partido político moderno. El hipotético cambio de bando intensifica el deseo de combate singular. Folger, I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/."
             },
             {
               "term": "I’d revolt",
-              "type": "Interpretación",
+              "type": "Retórica e interpretación",
               "title": "Cambiar de bando",
-              "body": "Marcio declara que incluso abandonaría su propio bando para poder enfrentarse a Aufidio. La hipérbole expresa su obsesión con un adversario digno, no un plan efectivo de traición."
+              "gloss": "me pasaría al bando contrario",
+              "lemma": "revolt",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/revolt",
+              "body": "La declaración es hipotética: Marcio preferiría combatir a Aufidio aun si ambos fueran aliados. No demuestra una deserción real. Emma Smith, «Coriolanus and the ‘Common Part’», Shakespeare Survey, https://www.cambridge.org/core/books/shakespeare-survey/coriolanus-and-the-common-part/2D37D5125B262397F0C8E1CCCCE335E8."
             },
             {
               "term": "lion",
               "type": "Imagen retórica",
-              "title": "El león y la caza",
-              "body": "La comparación convierte a Aufidio en presa formidable y a Marcio en cazador; combina admiración y deseo de vencerlo."
+              "title": "Aufidio como león",
+              "gloss": "un adversario formidable",
+              "body": "La imagen de cazar un león une reconocimiento de fuerza y voluntad de dominar. Es una lectura retórica del símil, no una alusión zoológica concreta. Folger, I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/."
             }
           ]
         },
@@ -2245,9 +2261,10 @@ window.SHAKESPEARE_READER_DATA = {
           "notes": [
             {
               "term": "Attend upon",
-              "type": "Léxico",
-              "title": "Attend upon",
-              "body": "Significa acompañar o servir bajo las órdenes de alguien; aquí introduce la subordinación militar de Marcio a Cominio."
+              "type": "Léxico militar",
+              "title": "Servir bajo el mando",
+              "gloss": "acompañar a Cominio en campaña",
+              "body": "El senador asigna a Marcio un puesto subordinado al mando de Cominio, asunto que más tarde suscitará el comentario de los tribunos. Folger, I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/."
             }
           ]
         },
@@ -2256,7 +2273,15 @@ window.SHAKESPEARE_READER_DATA = {
           "speaker": "cominius",
           "en": "It is your former promise.",
           "es": "Es lo que prometiste anteriormente.",
-          "notes": []
+          "notes": [
+            {
+              "term": "former promise",
+              "type": "Continuidad dramática",
+              "title": "Una promesa anterior",
+              "gloss": "el compromiso que ya habías asumido",
+              "body": "Cominio apela a un compromiso previo no escenificado; la respuesta de Marcio insiste en su firmeza. Folger, I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/."
+            }
+          ]
         },
         {
           "line": "267–270",
@@ -2267,20 +2292,25 @@ window.SHAKESPEARE_READER_DATA = {
             {
               "term": "constant",
               "type": "Léxico",
-              "title": "constant",
-              "body": "Aquí significa firme y fiel a la promesa, no simplemente «constante» en la repetición de actos."
-            },
-            {
-              "term": "stiff",
-              "type": "Interpretación",
-              "title": "stiff / Stand’st out?",
-              "body": "Marcio interpela a Larcio con dos expresiones que pueden aludir a rigidez física y resistencia a participar. La respuesta de Larcio menciona una muleta, lo que refuerza el primer matiz sin eliminar el segundo."
+              "title": "Fidelidad a la palabra",
+              "gloss": "firme; fiel a lo prometido",
+              "body": "«Constant» indica estabilidad de propósito y cumplimiento de una promesa. El contraste con el hipotético «I’d revolt» anterior es retóricamente llamativo, sin constituir contradicción factual. Folger, I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/."
             },
             {
               "term": "thou",
-              "type": "Gramática histórica",
-              "title": "thou / shalt / art / stand’st",
-              "body": "Las formas de segunda persona singular marcan trato directo y familiar con Larcio. En español se emplea «tú» y sus formas verbales, sin recurrir a «vosotros»."
+              "type": "Morfología histórica",
+              "title": "Segunda persona singular",
+              "gloss": "tú (trato singular)",
+              "lemma": "thou",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/thou",
+              "body": "«Thou», «shalt», «art» y «stand’st» forman un paradigma singular histórico. El contexto sugiere trato cercano y directo a Larcio, pero no determina por sí solo una relación social única. Folger, I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/."
+            },
+            {
+              "term": "stiff",
+              "type": "Léxico e interpretación",
+              "title": "¿Rigidez o resistencia?",
+              "gloss": "¿estás impedido?; ¿te resistes?",
+              "body": "La réplica de Larcio sobre las muletas da peso a la lectura física de «stiff»; «Stand’st out?» permite también la idea de negarse a participar. Se conservan ambos matices. Folger, I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/."
             }
           ]
         },
@@ -2292,15 +2322,19 @@ window.SHAKESPEARE_READER_DATA = {
           "notes": [
             {
               "term": "Ere",
-              "type": "Sintaxis",
-              "title": "Ere stay behind",
-              "body": "Ere significa «antes de». El giro elide la repetición de I’ll: Larcio preferiría luchar apoyado en muletas antes que quedarse atrás."
+              "type": "Sintaxis histórica",
+              "title": "Preferencia extrema",
+              "gloss": "antes que; antes de",
+              "lemma": "ere",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/ere",
+              "body": "La construcción «I’ll ... ere [I] stay» presenta la lucha con muletas como preferible a quedarse fuera de la campaña. Folger, I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/."
             },
             {
               "term": "crutch",
               "type": "Imagen dramática",
-              "title": "Las muletas",
-              "body": "La respuesta hace visible la determinación de Larcio mediante una imagen deliberadamente exagerada: combatir incluso con movilidad reducida."
+              "title": "Combatir con muletas",
+              "gloss": "muleta",
+              "body": "La imagen extrema exhibe voluntad militar pese a la limitación física; no permite inferir una lesión clínica concreta. Folger, I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/."
             }
           ]
         },
@@ -2313,8 +2347,9 @@ window.SHAKESPEARE_READER_DATA = {
             {
               "term": "true bred",
               "type": "Léxico e interpretación",
-              "title": "true bred",
-              "body": "Expresión de elogio al carácter o a la buena casta. La traducción privilegia el elogio de la disposición militar, sin reducirlo a un dato genealógico."
+              "title": "La buena casta",
+              "gloss": "de auténtica nobleza; de buena cepa",
+              "body": "Menenio elogia la disposición de Larcio con una expresión que puede evocar crianza o linaje. No debe reducirse a una genealogía literal. Folger, I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/."
             }
           ]
         },
@@ -2326,9 +2361,10 @@ window.SHAKESPEARE_READER_DATA = {
           "notes": [
             {
               "term": "friends",
-              "type": "Léxico",
-              "title": "friends",
-              "body": "En este contexto puede designar aliados o partidarios, no solo amigos personales."
+              "type": "Léxico político",
+              "title": "Los aliados del Capitolio",
+              "gloss": "partidarios o aliados",
+              "body": "En el contexto de la reunión senatorial, «friends» puede designar aliados políticos además de amigos personales. Folger, I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/."
             }
           ]
         },
@@ -2340,15 +2376,17 @@ window.SHAKESPEARE_READER_DATA = {
           "notes": [
             {
               "term": "Lead you on",
-              "type": "Acotación y sintaxis",
+              "type": "Acotación editorial",
               "title": "Dos destinatarios",
-              "body": "Folger señala que Larcio dirige primero «Lead you on» a Cominio y después «Follow Cominius» a Marcio. El cambio de interlocutor importa para entender la cortesía y la jerarquía entre los generales."
+              "gloss": "adelántate (a Cominio)",
+              "body": "Folger marca «to Cominius» y después «To Martius»: Larcio cambia de destinatario entre ambas órdenes. Estas marcas de interlocución son indicaciones editoriales de la edición de lectura. Folger, I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/."
             },
             {
               "term": "Right worthy you priority",
               "type": "Sintaxis",
-              "title": "El derecho a preceder",
-              "body": "Orden comprimido: «you are rightly worthy of priority». Larcio reconoce a Marcio un lugar de precedencia por su mérito."
+              "title": "Precedencia merecida",
+              "gloss": "bien mereces ocupar el primer lugar",
+              "body": "El orden elíptico de la frase presenta la prioridad como reconocimiento de mérito. No elimina la jerarquía formal del mando de Cominio. Folger, I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/."
             }
           ]
         },
