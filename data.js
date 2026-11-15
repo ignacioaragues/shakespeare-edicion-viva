@@ -1424,22 +1424,65 @@ window.SHAKESPEARE_READER_DATA = {
           "es": "Los senadores de Roma son ese buen vientre, y ustedes, los miembros amotinados. Examinen sus decisiones y sus desvelos; si consideran debidamente cuanto atañe al bienestar común, descubrirán que todos los beneficios públicos que reciben proceden de ellos, y de ningún modo de ustedes mismos. ¿Qué opinas tú, dedo gordo del pie de esta asamblea?",
           "notes": [
             {
+              "term": "good belly",
+              "title": "good belly",
+              "type": "Nota filológica",
+              "gloss": "vientre benéfico; Senado presentado como órgano proveedor",
+              "body": "La identificación de senadores y vientre es la conclusión política de Menenio, no una constatación neutral. La tradición histórica de la fábula figura también en Plutarco, Vida de Coriolano 6. Plutarco, Vida de Coriolano 6, https://www.greekmythology.com/sources/plutarch/life-of-coriolanus/5-7. Fuente: Folger Shakespeare Library, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/.",
+              "lemma": "belly",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/belly"
+            },
+            {
+              "term": "mutinous members",
+              "title": "mutinous members",
+              "type": "Nota filológica",
+              "gloss": "miembros amotinados",
+              "body": "El término devuelve a los ciudadanos al papel de órganos rebeldes; la metáfora fisiológica sirve para deslegitimar la protesta material. Fuente: Folger Shakespeare Library, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/.",
+              "lemma": "mutinous",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/mutinous"
+            },
+            {
+              "term": "counsels and their cares",
+              "title": "counsels and their cares",
+              "type": "Nota filológica",
+              "gloss": "decisiones y desvelos",
+              "body": "Par coordinado que presenta la deliberación senatorial como una forma de cuidado; la valoración pertenece al personaje. Fuente: Folger Shakespeare Library, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/.",
+              "lemma": "counsel",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/counsel"
+            },
+            {
               "term": "digest things rightly",
-              "type": "Retórica",
-              "title": "Digerir el argumento",
-              "body": "Digest pasa de la fisiología a la interpretación política: Menenio exige que los ciudadanos examinen correctamente el argumento."
+              "title": "digest things rightly",
+              "type": "Nota filológica",
+              "gloss": "considerar correctamente; digerir el argumento",
+              "body": "El verbo prolonga la metáfora alimentaria: de la digestión corporal se pasa al juicio político. La interpretación propuesta por Menenio exige aceptar su equivalencia entre Senado y vientre. Fuente: Folger Shakespeare Library, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/.",
+              "lemma": "digest",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/digest"
             },
             {
               "term": "weal o’ th’ common",
-              "type": "Léxico político",
-              "title": "Bienestar común",
-              "body": "Weal designa bienestar o prosperidad; common remite a la comunidad."
+              "title": "weal o’ th’ common",
+              "type": "Nota filológica",
+              "gloss": "bienestar de la comunidad; bien común",
+              "body": "«Weal» significa prosperidad o bienestar; «o’ th’» contrae «of the». No confundir con «wealth» entendido únicamente como riqueza privada. Fuente: Folger Shakespeare Library, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/.",
+              "lemma": "weal",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/weal"
+            },
+            {
+              "term": "No public benefit",
+              "title": "No public benefit",
+              "type": "Nota filológica",
+              "gloss": "ningún beneficio público",
+              "body": "La negación se completa con «But it proceeds ... from them»: Menenio sostiene que todo beneficio proviene de los senadores, tesis absoluta y políticamente interesada. LitCharts, Coriolanus I.1, https://www.litcharts.com/lit/coriolanus/act-1-scene-1. Fuente: Folger Shakespeare Library, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/."
             },
             {
               "term": "great toe",
-              "type": "Retórica",
-              "title": "El dedo gordo",
-              "body": "La analogía corporal se transforma en una burla jerárquica contra el ciudadano."
+              "title": "great toe",
+              "type": "Nota filológica",
+              "gloss": "dedo gordo del pie",
+              "body": "La analogía desciende de los órganos de gobierno al dedo del pie para rebajar al interlocutor; la burla se hace explícita en la respuesta siguiente. Fuente: Folger Shakespeare Library, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/.",
+              "lemma": "toe",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/toe"
             }
           ]
         },
@@ -1448,7 +1491,15 @@ window.SHAKESPEARE_READER_DATA = {
           "speaker": "citizen2",
           "en": "I the great toe? Why the great toe?",
           "es": "¿Yo, el dedo gordo? ¿Por qué el dedo gordo?",
-          "notes": []
+          "notes": [
+            {
+              "term": "I the great toe?",
+              "title": "I the great toe?",
+              "type": "Nota filológica",
+              "gloss": "¿yo, el dedo gordo del pie?",
+              "body": "La repetición interrogativa devuelve la burla a Menenio y obliga a explicar la jerarquía corporal implícita. Fuente: Folger Shakespeare Library, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/."
+            }
+          ]
         },
         {
           "line": "166–172",
@@ -1457,22 +1508,76 @@ window.SHAKESPEARE_READER_DATA = {
           "es": "Porque, aunque eres uno de los más bajos, despreciables y pobres de esta sapientísima rebelión, marchas a la cabeza. ¡Canalla! Tú, que eres el menos indicado para correr riesgos, te adelantas para sacar ventaja. Pero preparen sus recios bastones y garrotes: Roma y sus ratas están a punto de combatir. Uno de los dos bandos tendrá que sufrir las consecuencias.",
           "notes": [
             {
+              "term": "lowest, basest, poorest",
+              "title": "lowest, basest, poorest",
+              "type": "Nota filológica",
+              "gloss": "de los más bajos, despreciables y pobres",
+              "body": "La acumulación de superlativos mezcla posición anatómica, rango social y pobreza económica; Menenio hace del pie una imagen de inferioridad social. Fuente: Folger Shakespeare Library, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/.",
+              "lemma": "base",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/base"
+            },
+            {
               "term": "most wise rebellion",
-              "type": "Ironía",
-              "title": "La rebelión «sapientísima»",
-              "body": "El superlativo es irónico: Menenio ridiculiza la prudencia de los sublevados."
+              "title": "most wise rebellion",
+              "type": "Nota filológica",
+              "gloss": "esta sapientísima rebelión",
+              "body": "Elogio irónico: la expresión contrasta con los insultos que la rodean y no implica aprobación de la protesta. Fuente: Folger Shakespeare Library, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/.",
+              "lemma": "wise",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/wise"
+            },
+            {
+              "term": "thou goest foremost",
+              "title": "thou goest foremost",
+              "type": "Nota filológica",
+              "gloss": "tú vas a la cabeza",
+              "body": "«Thou» y «goest» son segunda persona singular histórica; el tratamiento directo pasa del «you» plural de la multitud a la invectiva personal. Fuente: Folger Shakespeare Library, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/.",
+              "lemma": "go",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/go"
             },
             {
               "term": "worst in blood to run",
-              "type": "Interpretación",
-              "title": "Sangre y riesgo",
-              "body": "La imagen de la sangre puede sugerir tanto condición social como disposición para exponerse; la traducción privilegia la idea de riesgo."
+              "title": "worst in blood to run",
+              "type": "Nota filológica",
+              "gloss": "el de peor sangre para correr; el menos apto para arriesgarla",
+              "body": "«Blood» puede evocar condición o calidad de sangre y valor para derramarla; la construcción admite matices y no conviene reducirla sin reserva a una sola explicación. Fuente: Folger Shakespeare Library, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/.",
+              "lemma": "blood",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/blood"
+            },
+            {
+              "term": "Lead’st first to win some vantage",
+              "title": "Lead’st first to win some vantage",
+              "type": "Nota filológica",
+              "gloss": "te adelantas para obtener alguna ventaja",
+              "body": "«Lead’st» es segunda persona singular con terminación -st; «vantage» equivale a ventaja o provecho. Menenio atribuye al ciudadano una motivación oportunista. Fuente: Folger Shakespeare Library, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/.",
+              "lemma": "lead",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/lead"
+            },
+            {
+              "term": "stiff bats and clubs",
+              "title": "stiff bats and clubs",
+              "type": "Nota filológica",
+              "gloss": "palos y garrotes resistentes",
+              "body": "Las armas improvisadas evocan el tumulto popular y recuperan los «bats and clubs» del inicio del encuentro. Fuente: Folger Shakespeare Library, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/.",
+              "lemma": "bat",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/bat"
+            },
+            {
+              "term": "Rome and her rats",
+              "title": "Rome and her rats",
+              "type": "Nota filológica",
+              "gloss": "Roma y sus ratas",
+              "body": "La metáfora animal deshumaniza a los sublevados; «Rome» se opone a quienes, aunque romanos, son expulsados verbalmente del cuerpo cívico. Fuente: Folger Shakespeare Library, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/.",
+              "lemma": "rat",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/rat"
             },
             {
               "term": "bale",
-              "type": "Léxico histórico",
               "title": "bale",
-              "body": "Desgracia, daño o sufrimiento, no el moderno sustantivo «fardo»."
+              "type": "Nota filológica",
+              "gloss": "desgracia; daño; sufrimiento",
+              "body": "Sustantivo histórico para el mal o la aflicción, distinto del inglés moderno «bale» («fardo»). La amenaza no determina cuál de los dos bandos sufrirá el daño. Fuente: Folger Shakespeare Library, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/.",
+              "lemma": "bale",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/bale"
             }
           ]
         },
@@ -1481,7 +1586,17 @@ window.SHAKESPEARE_READER_DATA = {
           "speaker": "menenius",
           "en": "Hail, noble Martius.",
           "es": "¡Salve, noble Marcio!",
-          "notes": [],
+          "notes": [
+            {
+              "term": "Hail",
+              "title": "Hail",
+              "type": "Nota filológica",
+              "gloss": "¡salve!; te saludo",
+              "body": "Fórmula de saludo solemne a Marcio, que contrasta con los insultos inmediatamente anteriores. La entrada escénica antecede a esta línea. Fuente: Folger Shakespeare Library, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/.",
+              "lemma": "hail",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/hail"
+            }
+          ],
           "stageBefore": "Entra Cayo Marcio."
         },
         {

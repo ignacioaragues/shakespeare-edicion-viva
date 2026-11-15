@@ -2016,6 +2016,21 @@
         "https://www.litcharts.com/lit/coriolanus/act-1-scene-1"
       ],
       "status": "reviewed_with_open_sources_private_books_pending"
+    },
+    {
+      "id": "coriolanus-1-1-157-173",
+      "act": 1,
+      "scene": 1,
+      "first_line": 157,
+      "last_line": 173,
+      "reviewed_on": "2026-11-15",
+      "scope": "Segunda pasada crítica de la aplicación política de la fábula y entrada de Marcio: 17 fichas con glosas, precisión de segunda persona arcaica, juego digestión/juicio, jerarquía social y metáfora animal. Textos EN/ES, escena, acotación e identificadores intactos. Saltos versales pendientes de migración compatible.",
+      "sources": [
+        "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/",
+        "https://www.greekmythology.com/sources/plutarch/life-of-coriolanus/5-7",
+        "https://www.litcharts.com/lit/coriolanus/act-1-scene-1"
+      ],
+      "status": "reviewed_with_open_sources_private_books_pending"
     }
   ]
 }
