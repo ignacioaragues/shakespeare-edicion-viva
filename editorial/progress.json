@@ -2089,6 +2089,21 @@
         "https://www.shakespeare-online.com/plays/corio_1_1.html"
       ],
       "status": "reviewed_with_open_sources_private_books_pending"
+    },
+    {
+      "id": "coriolanus-1-1-246-258",
+      "act": 1,
+      "scene": 1,
+      "first_line": 246,
+      "last_line": 258,
+      "reviewed_on": "2026-11-15",
+      "scope": "Segunda pasada de seis parlamentos: ocho fichas revisadas y una nueva, glosas contextuales, ambigüedad de musty superfluity, léxico militar, admiración por Aufidio y condicional invertida. Textos y localizadores estables. Libros privados y restauración de saltos de verso pendientes.",
+      "sources": [
+        "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/",
+        "https://www.litcharts.com/lit/coriolanus/act-1-scene-1",
+        "https://www.sparknotes.com/shakespeare/coriolanus/section1/"
+      ],
+      "status": "reviewed_with_open_sources_private_books_pending"
     }
   ]
 }

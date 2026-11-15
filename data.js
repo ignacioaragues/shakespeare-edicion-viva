@@ -2105,9 +2105,17 @@ window.SHAKESPEARE_READER_DATA = {
           "notes": [
             {
               "term": "Volsces",
-              "type": "Contexto",
+              "type": "Contexto histórico",
               "title": "Los volscos",
-              "body": "Pueblo itálico rival de Roma. La noticia desplaza el conflicto social hacia una guerra exterior."
+              "body": "Los volscos habitaban el Lacio meridional y fueron adversarios militares de Roma. La irrupción del mensajero desplaza la atención de la protesta por el grano hacia la guerra exterior; ese giro es dramático, no prueba de que el conflicto social esté resuelto. Fuentes: Folger I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; Folger, sinopsis, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1000/.",
+              "gloss": "pueblo itálico enemigo de Roma"
+            },
+            {
+              "term": "in arms",
+              "type": "Léxico",
+              "title": "in arms",
+              "gloss": "en armas; movilizados para combatir",
+              "body": "La expresión indica preparación militar, no necesariamente que el combate haya comenzado. Fuente: Folger I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/."
             }
           ]
         },
@@ -2121,19 +2129,24 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "vent",
               "type": "Léxico",
               "title": "vent",
-              "body": "Dar salida o desahogo. Marcio recibe la guerra como ocasión de descargar un excedente."
+              "body": "Marcio celebra que la guerra permita desahogar un excedente; no identifica de manera inequívoca qué se expulsará. Fuente: Folger I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; interpretación alternativa en LitCharts, https://www.litcharts.com/lit/coriolanus/act-1-scene-1.",
+              "gloss": "dar salida; descargar",
+              "lemma": "vent",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/vent"
             },
             {
               "term": "musty superfluity",
               "type": "Interpretación",
-              "title": "Excedente rancio",
-              "body": "Musty significa «rancio» y superfluity, «excedente». La frase deja abierto el referente exacto: puede sugerir personas sobrantes o energías estancadas."
+              "title": "musty superfluity",
+              "body": "«Musty» evoca lo guardado hasta enmohecerse y «superfluity» lo que sobra. El referente es discutible: puede insinuar hombres o energías sobrantes, o remitir irónicamente al grano acaparado del debate anterior. La glosa no debe fijar como hecho una sola lectura. Fuentes: Folger I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; LitCharts, https://www.litcharts.com/lit/coriolanus/act-1-scene-1; SparkNotes, https://www.sparknotes.com/nofear/shakespeare/coriolanus/act-1-scene-1/.",
+              "gloss": "excedente rancio; sobrante estancado"
             },
             {
               "term": "elders",
-              "type": "Léxico",
+              "type": "Léxico político",
               "title": "elders",
-              "body": "Personas de autoridad o rango superior, no solo de mayor edad."
+              "body": "El deíctico «See» coincide con la entrada de senadores y magistrados; «elders» alude aquí a precedencia y autoridad, no simplemente a edad avanzada. Fuente: Folger I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/.",
+              "gloss": "autoridades; senadores principales"
             }
           ]
         },
@@ -2145,9 +2158,12 @@ window.SHAKESPEARE_READER_DATA = {
           "notes": [
             {
               "term": "’tis",
-              "type": "Lengua",
+              "type": "Morfología",
               "title": "’tis",
-              "body": "Contracción de it is, frecuente en el inglés dramático de Shakespeare."
+              "body": "Contracción de «it is»; el senador confirma la advertencia previa de Marcio. Fuente: Folger I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/.",
+              "gloss": "es; resulta que",
+              "lemma": "it",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/%27tis"
             }
           ]
         },
@@ -2160,20 +2176,25 @@ window.SHAKESPEARE_READER_DATA = {
             {
               "term": "put you to ’t",
               "type": "Léxico",
-              "title": "Poner a prueba",
-              "body": "Forma abreviada de put you to it: poner en aprietos."
+              "title": "put you to ’t",
+              "body": "«’t» abrevia «it»; el general enemigo será un adversario exigente para los romanos. Fuente: Folger I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/.",
+              "gloss": "ponerlos a prueba; ponerlos en aprietos"
             },
             {
               "term": "I sin in envying",
               "type": "Retórica",
-              "title": "Envidia y admiración",
-              "body": "Marcio presenta su admiración por el enemigo como una envidia que roza el pecado."
+              "title": "I sin in envying",
+              "body": "Marcio presenta como falta moral su admiración por la nobleza del enemigo. La frase yuxtapone el código religioso del pecado y el código aristocrático del honor; no constituye una confesión de traición. Fuentes: Folger I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; SparkNotes, https://www.sparknotes.com/shakespeare/coriolanus/section1/.",
+              "gloss": "peco al envidiar"
             },
             {
               "term": "were I",
-              "type": "Sintaxis",
-              "title": "Condicional invertida",
-              "body": "Equivale a if I were: inversión del verbo sin la conjunción if."
+              "type": "Sintaxis histórica",
+              "title": "were I",
+              "body": "Inversión condicional sin «if», equivalente a «if I were». El subjuntivo plantea una identidad contrafáctica: solo querría ser Aufidio si dejara de ser Marcio. Fuente: Folger I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/.",
+              "gloss": "si yo fuera",
+              "lemma": "be",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/be"
             }
           ]
         },
