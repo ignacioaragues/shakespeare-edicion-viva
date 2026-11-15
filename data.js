@@ -1804,13 +1804,15 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "at their own rates",
               "type": "Léxico económico",
               "title": "El precio del grano",
-              "body": "Rates designa aquí precios o tarifas. La demanda es poder comprar el cereal al precio fijado por los ciudadanos, no recibirlo necesariamente gratis."
+              "body": "Rates designa aquí precios o tarifas. La demanda es poder comprar el cereal al precio fijado por los ciudadanos, no recibirlo necesariamente gratis. Fuente de cotejo: Folger Shakespeare Library, Coriolanus, I.1, líneas 201–202 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/).",
+              "gloss": "al precio que ellos mismos fijen"
             },
             {
               "term": "they say",
               "type": "Retórica",
               "title": "Distancia de Menenio",
-              "body": "Menenio presenta la abundancia de grano como una afirmación de los sublevados, sin confirmarla ni refutarla."
+              "body": "Menenio presenta la abundancia de grano como una afirmación de los sublevados, sin confirmarla ni refutarla. Fuente de cotejo: Folger Shakespeare Library, Coriolanus, I.1, líneas 201–202 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/).",
+              "gloss": "según ellos; eso dicen"
             }
           ]
         },
@@ -1824,31 +1826,53 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "side factions",
               "type": "Sintaxis",
               "title": "Tomar partido",
-              "body": "Side funciona como verbo: apoyar a una facción. Se enlaza con give out, «difundir» o «anunciar», en una serie de acusaciones contra la presunta intromisión popular en la política."
+              "body": "Side funciona como verbo: apoyar a una facción. Se enlaza con give out, «difundir» o «anunciar», en una serie de acusaciones contra la presunta intromisión popular en la política. Fuente de cotejo: Folger Shakespeare Library, Coriolanus, I.1, líneas 203–215 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/).",
+              "gloss": "tomar partido por facciones"
             },
             {
               "term": "Conjectural marriages",
               "type": "Léxico político",
               "title": "Matrimonios conjeturales",
-              "body": "Alude a alianzas matrimoniales que los ciudadanos imaginan o anuncian sin información segura. Marcio les reprocha especular sobre las relaciones de poder."
+              "body": "Alude a alianzas matrimoniales que los ciudadanos imaginan o anuncian sin información segura. Marcio les reprocha especular sobre las relaciones de poder. Fuente de cotejo: Folger Shakespeare Library, Coriolanus, I.1, líneas 203–215 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/).",
+              "gloss": "alianzas matrimoniales supuestas"
             },
             {
               "term": "cobbled shoes",
               "type": "Imagen social",
               "title": "Zapatos remendados",
-              "body": "Cobbled sugiere calzado reparado: la referencia materializa el desprecio de clase que atraviesa el discurso."
+              "body": "Cobbled sugiere calzado reparado: la referencia materializa el desprecio de clase que atraviesa el discurso. Fuente de cotejo: Folger Shakespeare Library, Coriolanus, I.1, líneas 203–215 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/).",
+              "gloss": "zapatos remendados"
             },
             {
               "term": "ruth",
               "type": "Léxico histórico",
               "title": "ruth",
-              "body": "Compasión o piedad. Marcio considera esa clemencia un obstáculo para ejercer violencia contra los ciudadanos."
+              "body": "Compasión o piedad. Marcio considera esa clemencia un obstáculo para ejercer violencia contra los ciudadanos. Fuente de cotejo: Folger Shakespeare Library, Coriolanus, I.1, líneas 203–215 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/).",
+              "gloss": "compasión, clemencia",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/ruth"
             },
             {
               "term": "quarry",
               "type": "Imagen bélica",
               "title": "quarry / quartered",
-              "body": "Quarry puede designar un montón de animales muertos tras la caza; junto a quartered, «descuartizados», convierte la represión imaginada en una carnicería. La traducción conserva la brutalidad sin identificar quarry con una cantera literal."
+              "body": "Quarry puede designar un montón de animales muertos tras la caza; junto a quartered, «descuartizados», convierte la represión imaginada en una carnicería. La traducción conserva la brutalidad sin identificar quarry con una cantera literal. Fuente de cotejo: Folger Shakespeare Library, Coriolanus, I.1, líneas 203–215 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/).",
+              "gloss": "montón de cuerpos abatidos"
+            },
+            {
+              "term": "feebling",
+              "type": "Morfología y retórica",
+              "title": "feebling: debilitar",
+              "gloss": "debilitando",
+              "body": "Participio de feeble usado verbalmente: «debilitar». La forma se contrapone a making parties strong, una antítesis que convierte los rumores políticos en supuesta redistribución de poder. Folger Shakespeare Library, Coriolanus I.1.209–211 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/).",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/feeble"
+            },
+            {
+              "term": "quartered slaves",
+              "type": "Violencia e imagen bélica",
+              "title": "quartered: descuartizados",
+              "gloss": "esclavos o miserables hechos pedazos",
+              "body": "Quartered evoca cuerpos divididos en cuartos; junto con quarry, la imagen de Marcio transforma a los ciudadanos en piezas de caza. «Slaves» funciona como insulto despectivo y no prueba que los plebeyos sean jurídicamente esclavos. Folger Shakespeare Library, Coriolanus I.1.214 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/).",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/quarter"
             }
           ]
         },
@@ -1862,13 +1886,23 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "passing cowardly",
               "type": "Léxico histórico",
               "title": "passing",
-              "body": "Passing intensifica el adjetivo: «sumamente» o «extraordinariamente». Menenio no está elogiando la prudencia de los ciudadanos."
+              "body": "Passing intensifica el adjetivo: «sumamente» o «extraordinariamente». Menenio no está elogiando la prudencia de los ciudadanos. Fuente de cotejo: Folger Shakespeare Library, Coriolanus, I.1, líneas 216–219 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/).",
+              "gloss": "sumamente cobardes",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/passing"
             },
             {
               "term": "other troop",
               "type": "Contexto escénico",
               "title": "El otro grupo",
-              "body": "Remite al segundo grupo de ciudadanos sublevados, al que Marcio ha encontrado fuera de escena; la pregunta prepara su informe sobre la concesión de tribunos."
+              "body": "Remite al segundo grupo de ciudadanos sublevados, al que Marcio ha encontrado fuera de escena; la pregunta prepara su informe sobre la concesión de tribunos. Fuente de cotejo: Folger Shakespeare Library, Coriolanus, I.1, líneas 216–219 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/).",
+              "gloss": "el otro grupo de sublevados"
+            },
+            {
+              "term": "abundantly they lack discretion",
+              "type": "Ironía verbal",
+              "title": "Abundancia de carencia",
+              "gloss": "les falta muchísimo juicio",
+              "body": "La proximidad de abundantly y lack produce una paradoja irónica: la «abundancia» se aplica a la ausencia de discernimiento. Es juicio de Menenio, no diagnóstico neutral de la multitud. Folger Shakespeare Library, Coriolanus I.1.217 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/); para el conflicto social, véase LitCharts, análisis de I.1 (https://www.litcharts.com/lit/coriolanus/act-1-scene-1)."
             }
           ]
         },

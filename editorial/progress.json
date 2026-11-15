@@ -2045,6 +2045,21 @@
         "https://www.sparknotes.com/nofear/shakespeare/coriolanus/act-1-scene-1/"
       ],
       "status": "reviewed_with_open_sources_private_books_pending"
+    },
+    {
+      "id": "coriolanus-1-1-201-219",
+      "act": 1,
+      "scene": 1,
+      "first_line": 201,
+      "last_line": 219,
+      "reviewed_on": "2026-11-15",
+      "scope": "Segunda pasada de tres parlamentos: nueve notas revisadas y tres añadidas; glosas contextuales, léxico político y violencia de clase; fuentes trazables en fichas. EN/ES e identificadores sin cambios; saltos de verso y libros privados pendientes.",
+      "sources": [
+        "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/",
+        "https://www.litcharts.com/lit/coriolanus/act-1-scene-1",
+        "https://www.sparknotes.com/nofear/shakespeare/coriolanus/act-1-scene-1/"
+      ],
+      "status": "reviewed_with_open_sources_private_books_pending"
     }
   ]
 }
