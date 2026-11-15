@@ -2314,6 +2314,17 @@
       "status": "visual_breaks_added_pending_source_lineation_and_browser_highlight_regression",
       "scope": "236,244–248,259: parlamentos de línea única; 237–243: seis marcadores; 249–251: dos; 252–253: uno; 254–258: cuatro; 260–263: tres. Se incluyen las líneas 260–263 como bloque completo. Cortes de lectura españoles; no se modifica texto ni IDs. Pendiente cotejo de lineación exacta Folger y QA visual.",
       "source": "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/"
+    },
+    {
+      "id": "coriolanus-1-1-264-286",
+      "act": 1,
+      "scene": 1,
+      "first_line": 264,
+      "last_line": 286,
+      "reviewed_on": "2026-11-15",
+      "status": "visual_breaks_added_pending_source_lineation_and_browser_highlight_regression",
+      "scope": "Bloques completos 264–286: 264–265 un corte, 267–270 tres, 271–273 dos, 275–276 uno, 277–279 dos, 282–284 dos, 285–286 uno. Versos únicos 266,274,280,281. Cortes españoles de lectura, texto/IDs intactos. Requiere cotejo de precisión con Folger y QA navegador.",
+      "source": "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/"
     }
   ]
 }

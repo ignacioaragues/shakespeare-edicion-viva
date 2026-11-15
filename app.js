@@ -246,6 +246,34 @@
   // Verse breaks are zero-text DOM markers: neither en/es nor reading offsets change.
   // Each anchor is checked against the published string before applying the layout.
   const verifiedVerseStarts = {
+    'coriolanus-1-1|264–265': {
+      en: ['Attend upon Cominius'],
+      es: ['acompaña a Cominio']
+    },
+    'coriolanus-1-1|267–270': {
+      en: ['And I am constant.', 'Shalt see me once more', 'What, art thou stiff?'],
+      es: ['y mantengo mi palabra.', 'volverás a verme atacar', '¿Qué ocurre?']
+    },
+    'coriolanus-1-1|271–273': {
+      en: ['I’ll lean upon one crutch', 'Ere stay behind this business.'],
+      es: ['Antes de quedarme fuera', 'me apoyaré en una muleta']
+    },
+    'coriolanus-1-1|275–276': {
+      en: ['Our greatest friends attend us.'],
+      es: ['donde sé que nos esperan']
+    },
+    'coriolanus-1-1|277–279': {
+      en: ['We must follow you;', 'Right worthy you priority.'],
+      es: ['Nosotros debemos seguirte', 'bien mereces ir primero.']
+    },
+    'coriolanus-1-1|282–284': {
+      en: ['The Volsces have much corn;', 'To gnaw their garners.'],
+      es: ['Los volscos tienen mucho grano;', 'lleven allí a estas ratas']
+    },
+    'coriolanus-1-1|285–286': {
+      en: ['Your valor puts well forth.'],
+      es: ['su valentía se luce']
+    },
     'coriolanus-1-1|237–243': {
       en: ['Of their own choice.', 'Sicinius Velutus', '’Sdeath!', 'Ere so prevailed with me.', 'Win upon power', 'For insurrection’s arguing.'],
       es: ['Uno es Junio Bruto', '¡Por la muerte de Dios!', 'Antes habría tenido', 'Con el tiempo', 'y dará nuevos motivos', 'para justificar la insurrección.']
