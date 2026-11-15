@@ -246,6 +246,14 @@
   // Verse breaks are zero-text DOM markers: neither en/es nor reading offsets change.
   // Each anchor is checked against the published string before applying the layout.
   const verifiedVerseStarts = {
+    'coriolanus-1-1|130–132': {
+      en: ['If you’ll bestow', 'Patience awhile'],
+      es: ['si me concede un poco', 'Espere un momento']
+    },
+    'coriolanus-1-1|134–149': {
+      en: ['Your most grave belly', 'Not rash like his accusers', '“True is it', '“That I receive', 'Which you do live upon', 'Because I am', 'Of the whole body.', 'I send it through', 'Even to the court', 'And, through the cranks', 'The strongest nerves', 'From me receive', 'Whereby they live.', 'You, my good friends'],
+      es: ['el muy respetable vientre', 'no se precipitó', 'Y dijo:', 'que soy el primero', 'Y así debe ser', 'porque soy el almacén', 'Pero recuerden', 'hasta la corte del corazón', 'y que, a través', 'tanto los nervios', 'como las venas menores', 'reciben de mí', 'Y aunque todos a la vez', 'Esto lo dice el vientre']
+    },
     'coriolanus-1-1|109–116': {
       en: ['Which ne’er came', 'For, look you', 'As well as speak', 'To th’ discontented', 'That envied his receipt', 'As you malign', 'They are not such'],
       es: ['que no salía de los pulmones', 'Porque, fíjese', 'tanto como hacerlo hablar.', 'a los miembros descontentos', 'que envidiaban cuanto recibía', 'exactamente como ustedes denigran', 'porque no son como ustedes.']

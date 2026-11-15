@@ -2259,6 +2259,17 @@
       "status": "visual_breaks_added_pending_browser_highlight_regression",
       "scope": "Cotejados con Folger: 108 y 127 son versos de una sola línea; 109–116, 117–122, 123–124, 125–126 y 128–129 restaurados con 15 marcadores visuales en inglés y español. EN/ES e identificadores estables sin cambios; pendiente QA de resaltados y renderizado.",
       "source": "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/"
+    },
+    {
+      "id": "coriolanus-1-1-130-150",
+      "act": 1,
+      "scene": 1,
+      "first_line": 130,
+      "last_line": 150,
+      "reviewed_on": "2026-11-15",
+      "status": "visual_breaks_added_pending_browser_highlight_regression",
+      "scope": "130–132 dos saltos, 133 verso único, 134–149 catorce saltos tipográficos, 150 verso único; disposición inglesa cotejada con Folger y cortes españoles de lectura. Texto, notas e IDs sin alteración. QA de resaltados pendiente.",
+      "source": "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/"
     }
   ]
 }
