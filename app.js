@@ -246,6 +246,18 @@
   // Verse breaks are zero-text DOM markers: neither en/es nor reading offsets change.
   // Each anchor is checked against the published string before applying the layout.
   const verifiedVerseStarts = {
+    'coriolanus-1-1|151–155': {
+      en: ['See what I do deliver', 'Yet I can make', 'From me do back', 'And leave me but the bran.'],
+      es: ['lo que entrego a cada uno', 'puedo presentar mis cuentas', 'que todos reciben de mí', 'mientras que para mí solo queda el salvado']
+    },
+    'coriolanus-1-1|157–164': {
+      en: ['And you the mutinous', 'Their counsels and their cares', 'Touching the weal', 'No public benefit', 'But it proceeds', 'And no way from yourselves.', 'You, the great toe'],
+      es: ['y ustedes, los miembros amotinados.', 'Examinen sus decisiones', 'si consideran debidamente', 'descubrirán que todos los beneficios', 'proceden de ellos', 'y de ningún modo de ustedes mismos.', '¿Qué opinas tú']
+    },
+    'coriolanus-1-1|166–172': {
+      en: ['Of this most wise rebellion', 'Thou rascal', 'Lead’st first', 'But make you ready', 'Rome and her rats', 'The one side must'],
+      es: ['de esta sapientísima rebelión', '¡Canalla!', 'te adelantas para sacar ventaja.', 'Pero preparen sus recios bastones', 'Roma y sus ratas', 'Uno de los dos bandos']
+    },
     'coriolanus-1-1|130–132': {
       en: ['If you’ll bestow', 'Patience awhile'],
       es: ['si me concede un poco', 'Espere un momento']

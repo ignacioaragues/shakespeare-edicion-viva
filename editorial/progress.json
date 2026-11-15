@@ -2270,6 +2270,17 @@
       "status": "visual_breaks_added_pending_browser_highlight_regression",
       "scope": "130–132 dos saltos, 133 verso único, 134–149 catorce saltos tipográficos, 150 verso único; disposición inglesa cotejada con Folger y cortes españoles de lectura. Texto, notas e IDs sin alteración. QA de resaltados pendiente.",
       "source": "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/"
+    },
+    {
+      "id": "coriolanus-1-1-151-172",
+      "act": 1,
+      "scene": 1,
+      "first_line": 151,
+      "last_line": 172,
+      "reviewed_on": "2026-11-15",
+      "status": "visual_breaks_added_pending_browser_highlight_regression",
+      "scope": "151–155: 4 cortes; 156 verso único; 157–164: 7 cortes; 165 verso único; 166–172: 6 cortes. Folger cotejado, cortes españoles de lectura, sin modificar texto ni IDs. QA visual y resaltados pendiente.",
+      "source": "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/"
     }
   ]
 }
