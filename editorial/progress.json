@@ -2226,6 +2226,17 @@
       "status": "visual_breaks_added_pending_browser_highlight_regression",
       "scope": "81–88 y 95–97: prosa, sin cortes artificiales; 89–94: cinco límites versales ingleses cotejados con Folger y cinco cortes españoles. Texto y localizadores conservados. Pendientes 98–300.",
       "source": "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/"
+    },
+    {
+      "id": "coriolanus-1-1-44-66",
+      "act": 1,
+      "scene": 1,
+      "first_line": 44,
+      "last_line": 66,
+      "reviewed_on": "2026-11-15",
+      "status": "visual_breaks_added_pending_browser_highlight_regression",
+      "scope": "44–54 y 58–62, y réplica 66: prosa; 55–57 y 63–65: dos cortes visuales por parlamento inglés y español, según disposición Folger. EN/ES, notas e identificadores sin cambios. Comprobación visual y regresión de resaltados pendientes.",
+      "source": "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/"
     }
   ]
 }

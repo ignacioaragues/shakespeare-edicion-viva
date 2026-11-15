@@ -246,6 +246,14 @@
   // Verse breaks are zero-text DOM markers: neither en/es nor reading offsets change.
   // Each anchor is checked against the published string before applying the layout.
   const verifiedVerseStarts = {
+    'coriolanus-1-1|55–57': {
+      en: ['you with bats', 'with bats and clubs'],
+      es: ['¿Adónde van con palos', '¿Qué sucede?']
+    },
+    'coriolanus-1-1|63–65': {
+      en: ['neighbors,', 'will you undo yourselves?'],
+      es: ['honrados vecinos,', '¿quieren provocar su propia ruina?']
+    },
     'coriolanus-1-1|89–94': {
       en: ['Or be accused of folly.', 'I shall tell you', 'A pretty tale.', 'But since it serves my purpose,', 'To stale ’t a little more.'],
       es: ['o habrá que acusarlos de necios.', 'Les contaré una bonita fábula.', 'Tal vez ya la hayan oído,', 'pero, como viene bien a mi propósito,', 'me arriesgaré a gastarla un poco más']
