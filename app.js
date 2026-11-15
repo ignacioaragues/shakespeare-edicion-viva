@@ -246,6 +246,14 @@
   // Verse breaks are zero-text DOM markers: neither en/es nor reading offsets change.
   // Each anchor is checked against the published string before applying the layout.
   const verifiedVerseStarts = {
+    'coriolanus-1-1|174–176': {
+      en: ['That, rubbing the poor itch', 'Make yourselves scabs?'],
+      es: ['De tanto rascarse', '¿acaban convirtiéndose']
+    },
+    'coriolanus-1-1|178–200': {
+      en: ['Beneath abhorring.', 'That like nor peace nor war?', 'The other makes you proud.', 'Where he should find you lions', 'Where foxes, geese.', 'Than is the coal', 'Or hailstone in the sun.', 'To make him worthy', 'And curse that justice', 'Deserves your hate;', 'A sick man’s appetite', 'Which would increase his evil.', 'Upon your favors', 'And hews down oaks', 'With every minute', 'And call him noble', 'Him vile that was your garland.', 'That in these several places', 'You cry against', 'Under the gods', 'Would feed on one another?'],
+      es: ['más allá de lo que permite', '¿Qué quieren, perros', 'La una los asusta', 'Quien confía en ustedes', 'donde espera zorros', 'No son más constantes', 'o que un granizo', 'Su virtud consiste', 'y maldecir a la justicia', 'Quien merece grandeza', 'sus afectos son como', 'que desea precisamente', 'Quien depende de su favor', 'y pretende talar robles', '¡Malditos sean!', 'Cambian de parecer', 'y vil a quien antes', '¿Qué ocurre para que', 'protesten contra el noble Senado', 'que, después de los dioses', 'Sin él, se devorarían']
+    },
     'coriolanus-1-1|151–155': {
       en: ['See what I do deliver', 'Yet I can make', 'From me do back', 'And leave me but the bran.'],
       es: ['lo que entrego a cada uno', 'puedo presentar mis cuentas', 'que todos reciben de mí', 'mientras que para mí solo queda el salvado']

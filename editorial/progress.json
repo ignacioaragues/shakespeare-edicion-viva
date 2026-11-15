@@ -2281,6 +2281,17 @@
       "status": "visual_breaks_added_pending_browser_highlight_regression",
       "scope": "151–155: 4 cortes; 156 verso único; 157–164: 7 cortes; 165 verso único; 166–172: 6 cortes. Folger cotejado, cortes españoles de lectura, sin modificar texto ni IDs. QA visual y resaltados pendiente.",
       "source": "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/"
+    },
+    {
+      "id": "coriolanus-1-1-173-200",
+      "act": 1,
+      "scene": 1,
+      "first_line": 173,
+      "last_line": 200,
+      "reviewed_on": "2026-11-15",
+      "status": "visual_breaks_added_pending_browser_highlight_regression",
+      "scope": "173 y 177 versos únicos; 174–176 dos límites; 178–200 veintiún límites del parlamento completo de Marcio. Cortes españoles de lectura, sin alterar cadenas, notas ni IDs. Revisión visual y de resaltados pendiente.",
+      "source": "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/"
     }
   ]
 }
