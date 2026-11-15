@@ -2866,31 +2866,40 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "pretenses",
               "type": "Semántica histórica",
               "title": "pretenses",
-              "body": "Aquí son propósitos o planes declarados como pretensiones; no necesariamente engaños o fingimientos en el sentido moderno."
+              "body": "En este pasaje, 'pretenses' designa los proyectos de los volscos; no exige el sentido moderno de simulación. Aufidio reprocha que los planes fueran conocidos antes de ejecutarse. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Digital Texts, Coriolanus I.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/2/; edición digital EMOTHE de la misma base textual, https://emothe.uv.es/biblioteca/textosEMOTHE/EMOTHE0676_Coriolanus.php.",
+              "gloss": "propósitos estratégicos; planes de conquista"
             },
             {
               "term": "needs must",
               "type": "Gramática histórica",
               "title": "needs must",
-              "body": "Construcción modal enfática: «necesariamente», «por fuerza». La revelación de los planes se presenta como inevitable."
+              "body": "'Needs' funciona como adverbio de necesidad junto al modal 'must'; la ocultación solo debía terminar cuando la operación ya no pudiera disimularse. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Digital Texts, Coriolanus I.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/2/; edición digital EMOTHE de la misma base textual, https://emothe.uv.es/biblioteca/textosEMOTHE/EMOTHE0676_Coriolanus.php.",
+              "gloss": "necesariamente; por fuerza",
+              "lemma": "need",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/need"
             },
             {
               "term": "in the hatching",
               "type": "Imagen retórica",
               "title": "Planes en gestación",
-              "body": "La metáfora del huevo que empieza a incubarse subraya que los romanos conocieron la operación antes de que estuviera madura."
+              "body": "La imagen de la incubación convierte los preparativos militares en un proceso aún inmaduro: Roma se enteró cuando todavía estaban gestándose. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Digital Texts, Coriolanus I.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/2/; edición digital EMOTHE de la misma base textual, https://emothe.uv.es/biblioteca/textosEMOTHE/EMOTHE0676_Coriolanus.php.",
+              "gloss": "en gestación; antes de concretarse"
             },
             {
               "term": "take in",
               "type": "Léxico militar",
               "title": "take in many towns",
-              "body": "Take in significa aquí tomar o conquistar ciudades, no acogerlas ni comprenderlas."
+              "body": "'Take in many towns' expresa ocupar militarmente numerosas ciudades antes de que Roma supiera de la campaña. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Digital Texts, Coriolanus I.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/2/; edición digital EMOTHE de la misma base textual, https://emothe.uv.es/biblioteca/textosEMOTHE/EMOTHE0676_Coriolanus.php.",
+              "gloss": "conquistar; apoderarse de",
+              "lemma": "take",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/take"
             },
             {
               "term": "afoot",
               "type": "Léxico",
               "title": "afoot",
-              "body": "Estar en marcha, haber iniciado una operación; no se refiere literalmente a combatir a pie."
+              "body": "La fuerza militar ya habría iniciado sus movimientos; no debe leerse como una oposición literal a ir a caballo. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Digital Texts, Coriolanus I.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/2/; edición digital EMOTHE de la misma base textual, https://emothe.uv.es/biblioteca/textosEMOTHE/EMOTHE0676_Coriolanus.php.",
+              "gloss": "en marcha; en campaña"
             }
           ]
         },
@@ -2904,31 +2913,38 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "commission",
               "type": "Léxico militar",
               "title": "commission",
-              "body": "Designa el encargo o autoridad formal para mandar tropas, no una comisión deliberativa."
+              "body": "El senador autoriza a Aufidio a dirigir sus fuerzas; el sustantivo no significa aquí una comisión deliberativa. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Digital Texts, Coriolanus I.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/2/; edición digital EMOTHE de la misma base textual, https://emothe.uv.es/biblioteca/textosEMOTHE/EMOTHE0676_Coriolanus.php.",
+              "gloss": "mando o encargo militar"
             },
             {
               "term": "hie you",
               "type": "Gramática histórica",
               "title": "hie you",
-              "body": "Imperativo reflexivo arcaico que expresa urgencia: «date prisa», «ve enseguida»."
+              "body": "Imperativo con pronombre reflexivo, característico del inglés antiguo y moderno temprano: una orden de partir inmediatamente. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Digital Texts, Coriolanus I.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/2/; edición digital EMOTHE de la misma base textual, https://emothe.uv.es/biblioteca/textosEMOTHE/EMOTHE0676_Coriolanus.php.",
+              "gloss": "apresúrate; ve sin demora",
+              "lemma": "hie",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/hie"
             },
             {
               "term": "bands",
               "type": "Léxico militar",
               "title": "bands",
-              "body": "Grupos organizados de soldados; aquí, las tropas bajo el mando de Aufidio."
+              "body": "'Bands' se refiere a unidades de soldados bajo el mando de Aufidio, no a bandas musicales. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Digital Texts, Coriolanus I.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/2/; edición digital EMOTHE de la misma base textual, https://emothe.uv.es/biblioteca/textosEMOTHE/EMOTHE0676_Coriolanus.php.",
+              "gloss": "tropas; destacamentos"
             },
             {
               "term": "set down before ’s",
               "type": "Léxico militar",
               "title": "Acampar ante la ciudad",
-              "body": "Set down before us significa establecer posiciones frente a la ciudad, potencialmente para sitiarla; ’s es la contracción de us."
+              "body": "Expresión militar para situar fuerzas frente a Corioles, posiblemente como comienzo de un asedio; '’s' abrevia 'us'. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Digital Texts, Coriolanus I.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/2/; edición digital EMOTHE de la misma base textual, https://emothe.uv.es/biblioteca/textosEMOTHE/EMOTHE0676_Coriolanus.php.",
+              "gloss": "establecer un campamento ante nosotros"
             },
             {
               "term": "for the remove",
               "type": "Interpretación",
               "title": "Levantar el sitio",
-              "body": "La frase es elíptica: el senador pide traer refuerzos para forzar la retirada de los romanos. «Levantar el sitio» explicita ese resultado probable."
+              "body": "La construcción elíptica pide que Aufidio regrese con su ejército si los romanos se establecen ante Corioles; 'remove' remite al levantamiento de sus posiciones. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Digital Texts, Coriolanus I.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/2/; edición digital EMOTHE de la misma base textual, https://emothe.uv.es/biblioteca/textosEMOTHE/EMOTHE0676_Coriolanus.php.",
+              "gloss": "para hacerlos retirarse"
             }
           ]
         },
@@ -2942,25 +2958,29 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "parcels of their power",
               "type": "Léxico militar",
               "title": "Unidades del ejército",
-              "body": "Parcels son porciones o destacamentos de la fuerza militar, no paquetes materiales."
+              "body": "'Power' es aquí fuerza armada y 'parcels' sus contingentes. Aufidio afirma que algunos ya han salido de Roma. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Digital Texts, Coriolanus I.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/2/; edición digital EMOTHE de la misma base textual, https://emothe.uv.es/biblioteca/textosEMOTHE/EMOTHE0676_Coriolanus.php.",
+              "gloss": "partes de su ejército; destacamentos"
             },
             {
               "term": "only hitherward",
               "type": "Sintaxis y deixis",
               "title": "Hacia aquí",
-              "body": "Hitherward indica dirección hacia el lugar donde hablan; only refuerza la exclusividad de ese destino."
+              "body": "'Hitherward' expresa movimiento hacia el lugar del hablante, Corioles; 'only' excluye otros destinos previstos. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Digital Texts, Coriolanus I.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/2/; edición digital EMOTHE de la misma base textual, https://emothe.uv.es/biblioteca/textosEMOTHE/EMOTHE0676_Coriolanus.php.",
+              "gloss": "directamente hacia aquí; solo en esta dirección"
             },
             {
               "term": "your Honors",
               "type": "Tratamiento",
               "title": "Sus señorías",
-              "body": "Fórmula de respeto dirigida a los senadores como cuerpo; no es una referencia abstracta a su honor personal."
+              "body": "Tratamiento formal plural dirigido a los senadores, no descripción de una virtud moral. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Digital Texts, Coriolanus I.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/2/; edición digital EMOTHE de la misma base textual, https://emothe.uv.es/biblioteca/textosEMOTHE/EMOTHE0676_Coriolanus.php.",
+              "gloss": "sus señorías"
             },
             {
               "term": "’Tis sworn between us",
               "type": "Retórica",
               "title": "Juramento entre enemigos",
-              "body": "Aufidio presenta la rivalidad con Marcio como un compromiso recíproco de combate a muerte. La escena no muestra cuándo ni cómo se formuló ese juramento."
+              "body": "Aufidio caracteriza su enemistad con Marcio como juramento recíproco de luchar hasta la incapacidad de uno; no se dramatiza cuándo fue pronunciado. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Digital Texts, Coriolanus I.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/2/; edición digital EMOTHE de la misma base textual, https://emothe.uv.es/biblioteca/textosEMOTHE/EMOTHE0676_Coriolanus.php.",
+              "gloss": "nos hemos jurado mutuamente"
             }
           ]
         },

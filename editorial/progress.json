@@ -1881,7 +1881,7 @@
   "next_fragment": null,
   "completed_acts": [],
   "last_update_commit": "1b9573f7d2a5e4bce0bd8f849d1c47807673fc25",
-  "notes": "Folger online line 66 is 'We cannot, sir; we are undone already.' The original prototype had an off-by-one numbering error, corrected in this release. Text is still under editorial review.\nEl texto de los cinco actos llega al cierre Folger 3895 (V.6); pendiente revisión crítica integral, cotejo de materiales privados, auditoría de alineación y despliegue antes de marcar complete.\nPendiente técnico identificado por el usuario: los versos originales se muestran concatenados, conservando mayúsculas iniciales en mitad del párrafo; recuperar saltos de verso EN/ES y separar acotaciones sin alterar data-reading-id ni offsets de resaltados.",
+  "notes": "Folger online line 66 is 'We cannot, sir; we are undone already.' The original prototype had an off-by-one numbering error, corrected in this release. Text is still under editorial review.\nEl texto de los cinco actos llega al cierre Folger 3895 (V.6); pendiente revisión crítica integral, cotejo de materiales privados, auditoría de alineación y despliegue antes de marcar complete.\nPendiente técnico identificado por el usuario: los versos originales se muestran concatenados, conservando mayúsculas iniciales en mitad del párrafo; recuperar saltos de verso EN/ES y separar acotaciones sin alterar data-reading-id ni offsets de resaltados. Revisión I.2 344–364: notas glosadas; saltos de verso I.1 1–300 aún sin modificar por seguridad de resaltados.",
   "editorial_reviews": [
     {
       "id": "coriolanus-1-1-1-16",
@@ -2158,6 +2158,20 @@
       "sources": [
         "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/2/",
         "https://readingroo.ms/4/9/0/0/49007/49007-h/49007-h.htm"
+      ],
+      "status": "reviewed_with_open_sources_private_books_pending"
+    },
+    {
+      "id": "coriolanus-1-2-344-364",
+      "act": 1,
+      "scene": 2,
+      "first_line": 344,
+      "last_line": 364,
+      "reviewed_on": "2026-11-15",
+      "scope": "Segunda pasada crítica de tres parlamentos y catorce fichas con glosas españolas: pretenses, needs must, in the hatching, take in, commission, hie you, set down before ’s, for the remove y juramento de Aufidio. Cotejo Folger y edición EMOTHE; textos, IDs y offsets intactos. Restauración versal 1–300 pendiente por compatibilidad con resaltados.",
+      "sources": [
+        "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/2/",
+        "https://emothe.uv.es/biblioteca/textosEMOTHE/EMOTHE0676_Coriolanus.php"
       ],
       "status": "reviewed_with_open_sources_private_books_pending"
     }
