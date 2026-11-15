@@ -1263,34 +1263,90 @@ window.SHAKESPEARE_READER_DATA = {
           "es": "Preste atención, buen amigo: el muy respetable vientre reflexionó antes de responder; no se precipitó como sus acusadores. Y dijo: «Es cierto, amigos míos, miembros de un mismo cuerpo, que soy el primero en recibir el alimento del que ustedes viven. Y así debe ser, porque soy el almacén y el centro de distribución de todo el organismo. Pero recuerden que lo envío por los ríos de la sangre hasta la corte del corazón y la sede del cerebro; y que, a través de los conductos y las distintas dependencias del cuerpo humano, tanto los nervios más robustos como las venas menores reciben de mí la porción necesaria para vivir. Y aunque todos a la vez, queridos amigos…». Esto lo dice el vientre, fíjese bien…",
           "notes": [
             {
+              "term": "grave belly",
+              "title": "grave belly",
+              "type": "Nota filológica",
+              "gloss": "vientre solemne y sensato",
+              "body": "Grave atribuye al vientre seriedad y prudencia, en contraste explícito con los acusadores rash («precipitados»). Es una caracterización interesada que Menenio introduce antes de dejar hablar al vientre. Fuentes: Folger, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; Shakespeare Online, I.1, https://www.shakespeare-online.com/plays/corio_1_1.html.",
+              "lemma": "grave",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/grave"
+            },
+            {
               "term": "incorporate friends",
-              "type": "Retórica",
               "title": "incorporate friends",
-              "body": "Incorporate juega con la pertenencia literal a un cuerpo y la integración de los miembros en una comunidad política."
+              "type": "Nota filológica",
+              "gloss": "amigos que forman un solo cuerpo",
+              "body": "Incorporate significa integrados en un mismo cuerpo; la personificación enlaza la anatomía literal con la idea política de una comunidad orgánica. La unidad proclamada no elimina el conflicto por la distribución del alimento. Fuentes: Folger, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; Shakespeare Online, I.1, https://www.shakespeare-online.com/plays/corio_1_1.html.",
+              "lemma": "incorporate",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/incorporate"
+            },
+            {
+              "term": "quoth he",
+              "title": "quoth he",
+              "type": "Nota filológica",
+              "gloss": "dijo él",
+              "body": "Quoth es forma pretérita histórica del verbo defectivo quethe, usada aquí como fórmula de cita en el discurso dramatizado del vientre. Fuentes: Folger, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; Shakespeare Online, I.1, https://www.shakespeare-online.com/plays/corio_1_1.html.",
+              "lemma": "quoth",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/quoth"
+            },
+            {
+              "term": "general food",
+              "title": "general food",
+              "type": "Nota filológica",
+              "gloss": "alimento común de todo el cuerpo",
+              "body": "General designa lo que corresponde al conjunto de los miembros. El vientre reconoce que recibe primero la provisión compartida y justifica esa prioridad por su supuesto papel redistributivo. Fuentes: Folger, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; Shakespeare Online, I.1, https://www.shakespeare-online.com/plays/corio_1_1.html.",
+              "lemma": "general",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/general"
             },
             {
               "term": "storehouse and the shop",
-              "type": "Metáfora",
-              "title": "almacén y centro de distribución",
-              "body": "El vientre se presenta no como consumidor improductivo sino como depósito y proveedor. Shop puede designar un establecimiento de trabajo o distribución, no necesariamente una tienda moderna."
+              "title": "storehouse and the shop",
+              "type": "Nota filológica",
+              "gloss": "almacén y centro de provisiones",
+              "body": "La doble imagen comercial transforma al vientre de acaparador en depósito y proveedor. «Centro de distribución» en español es una equivalencia explicativa, no el significado literal exclusivo de shop. Fuentes: Folger, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; Shakespeare Online, I.1, https://www.shakespeare-online.com/plays/corio_1_1.html.",
+              "lemma": "storehouse",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/storehouse"
+            },
+            {
+              "term": "rivers of your blood",
+              "title": "rivers of your blood",
+              "type": "Nota filológica",
+              "gloss": "ríos de la sangre",
+              "body": "Metáfora circulatoria con la que Menenio presenta al vientre como origen del sustento de los demás órganos. No debe leerse como descripción fisiológica científica moderna. Fuentes: Folger, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; Shakespeare Online, I.1, https://www.shakespeare-online.com/plays/corio_1_1.html."
             },
             {
               "term": "court, the heart",
-              "type": "Metáfora política",
-              "title": "la corte del corazón",
-              "body": "La imagen de la corte introduce una jerarquía política dentro de la fisiología alegórica."
+              "title": "court, the heart",
+              "type": "Nota filológica",
+              "gloss": "la corte: el corazón",
+              "body": "La corte inserta un centro de autoridad en la anatomía. La aposición heart / seat of the brain evoca lugares de gobierno dentro del organismo; el pasaje mezcla imágenes orgánicas y políticas. Fuentes: Folger, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; Shakespeare Online, I.1, https://www.shakespeare-online.com/plays/corio_1_1.html."
             },
             {
               "term": "cranks and offices",
-              "type": "Léxico",
               "title": "cranks and offices",
-              "body": "Cranks sugiere recodos o conductos; offices, partes con funciones asignadas. La expresión combina anatomía y administración."
+              "type": "Nota filológica",
+              "gloss": "recodos y dependencias del cuerpo",
+              "body": "Cranks son recodos o conductos sinuosos; offices, lugares o partes con funciones. La lectura permite oír simultáneamente un organismo y una administración con departamentos. Fuentes: Folger, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; Shakespeare Online, I.1, https://www.shakespeare-online.com/plays/corio_1_1.html.",
+              "lemma": "crank",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/crank"
             },
             {
               "term": "natural competency",
-              "type": "Léxico",
               "title": "natural competency",
-              "body": "Competency significa aquí provisión suficiente o porción adecuada para sostener la vida, no capacidad profesional."
+              "type": "Nota filológica",
+              "gloss": "porción suficiente para vivir",
+              "body": "Competency no significa aquí competencia profesional: es una provisión o suficiencia material para subsistir, recibida por nervios y venas. El contexto de la carestía hace relevante la elección. Fuentes: Folger, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; Shakespeare Online, I.1, https://www.shakespeare-online.com/plays/corio_1_1.html.",
+              "lemma": "competency",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/competency"
+            },
+            {
+              "term": "mark me",
+              "title": "mark me",
+              "type": "Nota filológica",
+              "gloss": "preste atención a lo que digo",
+              "body": "Menenio interrumpe la voz ficticia del vientre para reclamar la atención del oyente; el inciso recuerda que controla la alegoría y su aplicación política. Fuentes: Folger, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; Shakespeare Online, I.1, https://www.shakespeare-online.com/plays/corio_1_1.html.",
+              "lemma": "mark",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/mark"
             }
           ]
         },
@@ -1299,7 +1355,15 @@ window.SHAKESPEARE_READER_DATA = {
           "speaker": "citizen2",
           "en": "Ay, sir, well, well.",
           "es": "Sí, señor, está bien, está bien.",
-          "notes": []
+          "notes": [
+            {
+              "term": "well, well",
+              "title": "well, well",
+              "type": "Nota filológica",
+              "gloss": "sí, sí; continúe",
+              "body": "La réplica del ciudadano es breve y puede sonar impaciente: no equivale necesariamente a asentimiento con la defensa del vientre. Fuentes: Folger, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; Shakespeare Online, I.1, https://www.shakespeare-online.com/plays/corio_1_1.html."
+            }
+          ]
         },
         {
           "line": "151–155",
@@ -1308,16 +1372,31 @@ window.SHAKESPEARE_READER_DATA = {
           "es": "«Aunque no todos puedan ver al mismo tiempo lo que entrego a cada uno, puedo presentar mis cuentas y demostrar que todos reciben de mí lo mejor del alimento, mientras que para mí solo queda el salvado». ¿Qué le parece?",
           "notes": [
             {
-              "term": "audit",
-              "type": "Metáfora contable",
+              "term": "make my audit up",
               "title": "make my audit up",
-              "body": "El vientre imagina una rendición de cuentas: su contribución puede probarse aunque no sea visible de inmediato."
+              "type": "Nota filológica",
+              "gloss": "rendir cuentas; presentar el balance",
+              "body": "Audit es un examen o balance contable: el vientre afirma poder demostrar lo entregado a cada órgano aunque la distribución no sea simultáneamente visible. Es una defensa interesada, no una auditoría efectiva. Fuentes: Folger, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; Shakespeare Online, I.1, https://www.shakespeare-online.com/plays/corio_1_1.html.",
+              "lemma": "audit",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/audit"
             },
             {
-              "term": "flour",
-              "type": "Imagen",
-              "title": "flour / bran",
-              "body": "La oposición entre la harina fina y el salvado presenta al vientre como distribuidor de la parte nutritiva, que conserva para sí el residuo. Flour puede evocar también flower, «lo mejor»."
+              "term": "flour of all",
+              "title": "flour of all",
+              "type": "Nota filológica",
+              "gloss": "la flor, lo mejor del alimento",
+              "body": "Flour se opone a bran (salvado): la parte refinada frente al residuo. La proximidad histórica y semántica entre flour y flower permite además el sentido figurado de «lo mejor», sin exigir un juego de palabras inequívoco. Fuentes: Folger, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; Shakespeare Online, I.1, https://www.shakespeare-online.com/plays/corio_1_1.html.",
+              "lemma": "flour",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/flour"
+            },
+            {
+              "term": "bran",
+              "title": "bran",
+              "type": "Nota filológica",
+              "gloss": "salvado; parte residual del grano",
+              "body": "El vientre asegura quedarse con el residuo y entregar lo mejor. La inversión retórica responde a la acusación previa de acaparamiento, pero no prueba que el reparto social sea justo. Fuentes: Folger, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; Shakespeare Online, I.1, https://www.shakespeare-online.com/plays/corio_1_1.html.",
+              "lemma": "bran",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/bran"
             }
           ]
         },
@@ -1328,10 +1407,13 @@ window.SHAKESPEARE_READER_DATA = {
           "es": "Eso fue una respuesta. ¿Cómo aplica usted esa historia a nuestro caso?",
           "notes": [
             {
-              "term": "apply",
-              "type": "Retórica",
+              "term": "How apply you this?",
               "title": "How apply you this?",
-              "body": "El ciudadano exige la interpretación política de la alegoría: contar una fábula no basta para resolver su queja."
+              "type": "Nota filológica",
+              "gloss": "¿cómo se relaciona esto con nuestra situación?",
+              "body": "El ciudadano exige la aplicación política explícita de la fábula; distingue una respuesta alegórica de una justificación efectiva de los senadores. Fuentes: Folger, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; Shakespeare Online, I.1, https://www.shakespeare-online.com/plays/corio_1_1.html.",
+              "lemma": "apply",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/apply"
             }
           ]
         },

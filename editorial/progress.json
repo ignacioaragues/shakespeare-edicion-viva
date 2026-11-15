@@ -1881,7 +1881,7 @@
   "next_fragment": null,
   "completed_acts": [],
   "last_update_commit": "1b9573f7d2a5e4bce0bd8f849d1c47807673fc25",
-  "notes": "Folger online line 66 is 'We cannot, sir; we are undone already.' The original prototype had an off-by-one numbering error, corrected in this release. Text is still under editorial review.\nEl texto de los cinco actos llega al cierre Folger 3895 (V.6); pendiente revisión crítica integral, cotejo de materiales privados, auditoría de alineación y despliegue antes de marcar complete.",
+  "notes": "Folger online line 66 is 'We cannot, sir; we are undone already.' The original prototype had an off-by-one numbering error, corrected in this release. Text is still under editorial review.\nEl texto de los cinco actos llega al cierre Folger 3895 (V.6); pendiente revisión crítica integral, cotejo de materiales privados, auditoría de alineación y despliegue antes de marcar complete.\nPendiente técnico identificado por el usuario: los versos originales se muestran concatenados, conservando mayúsculas iniciales en mitad del párrafo; recuperar saltos de verso EN/ES y separar acotaciones sin alterar data-reading-id ni offsets de resaltados.",
   "editorial_reviews": [
     {
       "id": "coriolanus-1-1-1-16",
@@ -1995,6 +1995,21 @@
       "last_line": 133,
       "reviewed_on": "2026-11-15",
       "scope": "Segunda pasada de siete parlamentos: trece notas con glosa contextual y referencias verificables; cuerpo político, sintaxis suspendida, voracidad, interrupciones y you’st. Texto EN/ES y orden de bloques preservados; cotejo privado pendiente.",
+      "sources": [
+        "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/",
+        "https://www.shakespeare-online.com/plays/corio_1_1.html",
+        "https://www.litcharts.com/lit/coriolanus/act-1-scene-1"
+      ],
+      "status": "reviewed_with_open_sources_private_books_pending"
+    },
+    {
+      "id": "coriolanus-1-1-134-156",
+      "act": 1,
+      "scene": 1,
+      "first_line": 134,
+      "last_line": 156,
+      "reviewed_on": "2026-11-15",
+      "scope": "Segunda pasada de cuatro parlamentos: quince notas con glosas contextuales sobre incorporación política, alimento común, circulación, contabilidad, harina/salvado y exigencia de aplicación. Cotejo con Folger y Shakespeare Online, interpretación contrastada con LitCharts. Textos EN/ES e identificadores sin cambios. Pendiente preservar los saltos versales de Folger en una migración compatible con offsets de resaltado; libros privados pendientes.",
       "sources": [
         "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/",
         "https://www.shakespeare-online.com/plays/corio_1_1.html",
