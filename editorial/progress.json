@@ -2174,6 +2174,20 @@
         "https://emothe.uv.es/biblioteca/textosEMOTHE/EMOTHE0676_Coriolanus.php"
       ],
       "status": "reviewed_with_open_sources_private_books_pending"
+    },
+    {
+      "id": "coriolanus-1-2-365-369",
+      "act": 1,
+      "scene": 2,
+      "first_line": 365,
+      "last_line": 369,
+      "reviewed_on": "2026-11-15",
+      "scope": "Segunda pasada del cierre de I.2: cinco parlamentos breves; bendición optativa, elipsis del sujeto y triple despedida coral. Dos fichas ampliadas y una nueva, con glosas y fuentes; texto EN/ES e identificadores sin cambios. Saltos versales I.1 1–300 y cotejo privado pendientes.",
+      "sources": [
+        "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/2/",
+        "https://shakespeare.mit.edu/coriolanus/coriolanus.1.2.html"
+      ],
+      "status": "reviewed_with_open_sources_private_books_pending"
     }
   ]
 }
