@@ -5025,49 +5025,57 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "Breathe you",
               "type": "Gramática histórica",
               "title": "Imperativo con pronombre",
-              "body": "La construcción exhorta a los soldados a tomar aliento; you aparece tras el verbo."
+              "body": "La construcción exhorta a los soldados a tomar aliento; you aparece tras el verbo. Fuente textual: Folger Shakespeare Library, Coriolanus I.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/6/.",
+              "gloss": "descansen un momento"
             },
             {
               "term": "come off",
               "type": "Léxico militar",
               "title": "Salir del combate",
-              "body": "Significa salir de una acción militar, no necesariamente huir."
+              "body": "Significa salir de una acción militar, no necesariamente huir. Fuente textual: Folger Shakespeare Library, Coriolanus I.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/6/.",
+              "gloss": "retirarnos del combate"
             },
             {
               "term": "stands",
               "type": "Léxico militar",
               "title": "Resistencia",
-              "body": "Alude a mantenerse firme frente al enemigo."
+              "body": "Alude a mantenerse firme frente al enemigo. Fuente textual: Folger Shakespeare Library, Coriolanus I.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/6/.",
+              "gloss": "resistencias en el combate"
             },
             {
               "term": "retire",
               "type": "Léxico histórico",
               "title": "Retirada",
-              "body": "Aquí retire es sustantivo, no verbo."
+              "body": "Aquí retire es sustantivo, no verbo. Fuente textual: Folger Shakespeare Library, Coriolanus I.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/6/.",
+              "gloss": "retirada"
             },
             {
               "term": "Whiles",
               "type": "Gramática histórica",
               "title": "Mientras",
-              "body": "Variante histórica de while como conjunción."
+              "body": "Variante histórica de while como conjunción. Fuente textual: Folger Shakespeare Library, Coriolanus I.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/6/.",
+              "gloss": "mientras"
             },
             {
               "term": "conveying gusts",
               "type": "Imagen acústica",
               "title": "Ráfagas que transportan sonidos",
-              "body": "El viento lleva hasta Cominio el ruido del combate distante."
+              "body": "El viento lleva hasta Cominio el ruido del combate distante. Fuente textual: Folger Shakespeare Library, Coriolanus I.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/6/.",
+              "gloss": "ráfagas de viento que traen sonidos"
             },
             {
               "term": "smiling fronts",
               "type": "Retórica",
               "title": "Rostros y frentes",
-              "body": "Fronts puede evocar rostros y frentes militares; la imagen anticipa el encuentro amistoso."
+              "body": "Fronts puede evocar rostros y frentes militares; la imagen anticipa el encuentro amistoso. Fuente textual: Folger Shakespeare Library, Coriolanus I.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/6/.",
+              "gloss": "rostros alegres al encontrarse"
             },
             {
               "term": "thankful sacrifice",
               "type": "Contexto religioso",
               "title": "Ofrenda de gratitud",
-              "body": "Sacrificio ofrecido a los dioses por una victoria, no sacrificio humano."
+              "body": "Sacrificio ofrecido a los dioses por una victoria, no sacrificio humano. Fuente textual: Folger Shakespeare Library, Coriolanus I.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/6/.",
+              "gloss": "sacrificio de agradecimiento"
             }
           ]
         },
@@ -5081,7 +5089,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "Thy",
               "type": "Gramática histórica",
               "title": "Posesivo singular",
-              "body": "Thy equivale a «tu»; se dirige a un solo mensajero."
+              "body": "Thy equivale a «tu»; se dirige a un solo mensajero. Fuente textual: Folger Shakespeare Library, Coriolanus I.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/6/.",
+              "gloss": "tus / tu"
             }
           ],
           "stageBefore": "Entra un mensajero."
@@ -5096,25 +5105,29 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "issued",
               "type": "Léxico histórico",
               "title": "Salir",
-              "body": "Issue significa salir de un recinto; aquí, de la ciudad."
+              "body": "Issue significa salir de un recinto; aquí, de la ciudad. Fuente textual: Folger Shakespeare Library, Coriolanus I.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/6/.",
+              "gloss": "han salido de la ciudad"
             },
             {
               "term": "given to Lartius and to Martius battle",
               "type": "Sintaxis",
               "title": "Presentar batalla",
-              "body": "El orden de los complementos difiere del español habitual."
+              "body": "El orden de los complementos difiere del español habitual. Fuente textual: Folger Shakespeare Library, Coriolanus I.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/6/.",
+              "gloss": "han presentado batalla a Lartio y Marcio"
             },
             {
               "term": "our party",
               "type": "Léxico militar",
               "title": "Nuestras tropas",
-              "body": "Party se refiere aquí a un destacamento militar."
+              "body": "Party se refiere aquí a un destacamento militar. Fuente textual: Folger Shakespeare Library, Coriolanus I.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/6/.",
+              "gloss": "nuestras tropas"
             },
             {
               "term": "trenches",
               "type": "Léxico militar",
               "title": "Trincheras",
-              "body": "El mensajero describe un retroceso hasta las posiciones romanas."
+              "body": "El mensajero describe un retroceso hasta las posiciones romanas. Fuente textual: Folger Shakespeare Library, Coriolanus I.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/6/.",
+              "gloss": "trincheras / posiciones defensivas"
             }
           ]
         },
@@ -5128,13 +5141,17 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "Methinks",
               "type": "Gramática histórica",
               "title": "Me parece",
-              "body": "Construcción impersonal histórica."
+              "body": "Construcción impersonal histórica. Fuente textual: Folger Shakespeare Library, Coriolanus I.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/6/.",
+              "gloss": "me parece",
+              "lemma": "methinks",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/methinks"
             },
             {
               "term": "speak’st not well",
               "type": "Interpretación",
               "title": "Verdad y malas noticias",
-              "body": "Cominio distingue la veracidad del informe de su contenido desfavorable."
+              "body": "Cominio distingue la veracidad del informe de su contenido desfavorable. Fuente textual: Folger Shakespeare Library, Coriolanus I.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/6/.",
+              "gloss": "no traes buenas noticias"
             }
           ]
         },
@@ -5148,7 +5165,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "Above",
               "type": "Léxico histórico",
               "title": "Más de",
-              "body": "Expresa una cantidad superior, no posición espacial."
+              "body": "Expresa una cantidad superior, no posición espacial. Fuente textual: Folger Shakespeare Library, Coriolanus I.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/6/.",
+              "gloss": "más de"
             }
           ]
         },
@@ -5162,19 +5180,24 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "briefly",
               "type": "Léxico histórico",
               "title": "Hace poco",
-              "body": "Aquí indica un momento reciente, no una duración breve."
+              "body": "Aquí indica un momento reciente, no una duración breve. Fuente textual: Folger Shakespeare Library, Coriolanus I.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/6/.",
+              "gloss": "hace poco"
             },
             {
               "term": "confound an hour",
               "type": "Retórica",
               "title": "Consumir una hora",
-              "body": "Cominio reprocha la demora desproporcionada."
+              "body": "Cominio reprocha la demora desproporcionada. Fuente textual: Folger Shakespeare Library, Coriolanus I.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/6/.",
+              "gloss": "hacer que una hora se pierda en una milla"
             },
             {
               "term": "couldst thou",
               "type": "Gramática histórica",
               "title": "Segunda persona singular",
-              "body": "Couldst es forma histórica singular con thou."
+              "body": "Couldst es forma histórica singular con thou. Fuente textual: Folger Shakespeare Library, Coriolanus I.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/6/.",
+              "gloss": "¿cómo pudiste?",
+              "lemma": "couldst",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/couldst"
             }
           ]
         },
@@ -5188,25 +5211,29 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "Spies",
               "type": "Léxico militar",
               "title": "Exploradores",
-              "body": "Agentes enemigos que vigilan movimientos y aquí persiguen al mensajero."
+              "body": "Agentes enemigos que vigilan movimientos y aquí persiguen al mensajero. Fuente textual: Folger Shakespeare Library, Coriolanus I.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/6/.",
+              "gloss": "exploradores enemigos"
             },
             {
               "term": "Held me in chase",
               "type": "Locución",
               "title": "Mantener la persecución",
-              "body": "Expresa que estuvo siendo perseguido durante el recorrido."
+              "body": "Expresa que estuvo siendo perseguido durante el recorrido. Fuente textual: Folger Shakespeare Library, Coriolanus I.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/6/.",
+              "gloss": "me persiguieron"
             },
             {
               "term": "wheel",
               "type": "Léxico de movimiento",
               "title": "Dar un rodeo",
-              "body": "Cambiar de dirección para evitar a los perseguidores."
+              "body": "Cambiar de dirección para evitar a los perseguidores. Fuente textual: Folger Shakespeare Library, Coriolanus I.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/6/.",
+              "gloss": "dar un rodeo"
             },
             {
               "term": "else had I",
               "type": "Gramática histórica",
               "title": "Condicional con inversión",
-              "body": "La inversión auxiliar-sujeto expresa un resultado hipotético."
+              "body": "La inversión auxiliar-sujeto expresa un resultado hipotético. Fuente textual: Folger Shakespeare Library, Coriolanus I.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/6/.",
+              "gloss": "de lo contrario, habría"
             }
           ],
           "stageBefore": "El mensajero sale."
@@ -5222,19 +5249,22 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "as he were flayed",
               "type": "Gramática y comparación",
               "title": "Como si lo hubieran desollado",
-              "body": "As introduce una comparación hipotética con were; flayed significa «desollado». Cominio describe la sangre que cubre a Marcio, no una herida comprobada."
+              "body": "As introduce una comparación hipotética con were; flayed significa «desollado». Cominio describe la sangre que cubre a Marcio, no una herida comprobada. Fuente textual: Folger Shakespeare Library, Coriolanus I.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/6/.",
+              "gloss": "como si le hubieran arrancado la piel"
             },
             {
               "term": "stamp",
               "type": "Léxico figurado",
               "title": "Sello o impronta",
-              "body": "Stamp designa aquí el aspecto distintivo que permite reconocer a una persona."
+              "body": "Stamp designa aquí el aspecto distintivo que permite reconocer a una persona. Fuente textual: Folger Shakespeare Library, Coriolanus I.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/6/.",
+              "gloss": "aspecto reconocible"
             },
             {
               "term": "Before-time",
               "type": "Léxico histórico",
               "title": "Anteriormente",
-              "body": "Adverbio compuesto que remite a ocasiones anteriores en que Cominio vio a Marcio ensangrentado."
+              "body": "Adverbio compuesto que remite a ocasiones anteriores en que Cominio vio a Marcio ensangrentado. Fuente textual: Folger Shakespeare Library, Coriolanus I.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/6/.",
+              "gloss": "otras veces"
             }
           ]
         },
@@ -5248,7 +5278,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "Come I",
               "type": "Sintaxis interrogativa",
               "title": "Inversión sin auxiliar",
-              "body": "La interrogación coloca el verbo léxico delante del sujeto, construcción posible en el inglés de la época."
+              "body": "La interrogación coloca el verbo léxico delante del sujeto, construcción posible en el inglés de la época. Fuente textual: Folger Shakespeare Library, Coriolanus I.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/6/.",
+              "gloss": "¿he llegado?"
             }
           ]
         },
@@ -5262,19 +5293,22 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "tabor",
               "type": "Léxico musical",
               "title": "Tambor pequeño",
-              "body": "Tabor es un tambor usado, entre otros contextos, en música popular; contrasta con el trueno por su sonido."
+              "body": "Tabor es un tambor usado, entre otros contextos, en música popular; contrasta con el trueno por su sonido. Fuente textual: Folger Shakespeare Library, Coriolanus I.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/6/.",
+              "gloss": "tamboril"
             },
             {
               "term": "knows not thunder from a tabor",
               "type": "Retórica",
               "title": "Comparación de reconocimiento",
-              "body": "Cominio afirma que reconoce la voz de Marcio de inmediato; la comparación exagerada sirve para subrayar su familiaridad."
+              "body": "Cominio afirma que reconoce la voz de Marcio de inmediato; la comparación exagerada sirve para subrayar su familiaridad. Fuente textual: Folger Shakespeare Library, Coriolanus I.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/6/.",
+              "gloss": "distingue el trueno del tamboril"
             },
             {
               "term": "meaner",
               "type": "Léxico social",
               "title": "De rango o calidad menor",
-              "body": "Comparativo de mean en su sentido histórico de «inferior»; el juicio pertenece al personaje."
+              "body": "Comparativo de mean en su sentido histórico de «inferior»; el juicio pertenece al personaje. Fuente textual: Folger Shakespeare Library, Coriolanus I.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/6/.",
+              "gloss": "de menor rango"
             }
           ]
         },
@@ -5288,7 +5322,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "too late",
               "type": "Repetición dramática",
               "title": "Urgencia de Marcio",
-              "body": "La pregunta repetida muestra que Marcio antepone la situación de la batalla a las palabras de reconocimiento de Cominio."
+              "body": "La pregunta repetida muestra que Marcio antepone la situación de la batalla a las palabras de reconocimiento de Cominio. Fuente textual: Folger Shakespeare Library, Coriolanus I.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/6/.",
+              "gloss": "demasiado tarde"
             }
           ]
         },
@@ -5302,13 +5337,15 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "mantled",
               "type": "Imagen figurada",
               "title": "Envuelto como en un manto",
-              "body": "Mantled representa la sangre como una capa que recubre el cuerpo; Cominio no sabe todavía si procede de heridas propias o de los enemigos."
+              "body": "Mantled representa la sangre como una capa que recubre el cuerpo; Cominio no sabe todavía si procede de heridas propias o de los enemigos. Fuente textual: Folger Shakespeare Library, Coriolanus I.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/6/.",
+              "gloss": "cubierto como por un manto"
             },
             {
               "term": "if you come not",
               "type": "Sintaxis",
               "title": "Condición restrictiva",
-              "body": "La respuesta «sí» queda condicionada a que la sangre sea de Marcio: Cominio teme que haya llegado demasiado herido para combatir."
+              "body": "La respuesta «sí» queda condicionada a que la sangre sea de Marcio: Cominio teme que haya llegado demasiado herido para combatir. Fuente textual: Folger Shakespeare Library, Coriolanus I.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/6/.",
+              "gloss": "si no vienes"
             }
           ]
         },
@@ -5323,19 +5360,22 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "clip",
               "type": "Léxico histórico",
               "title": "Abrazar",
-              "body": "Clip significa aquí «rodear con los brazos», no «cortar»."
+              "body": "Clip significa aquí «rodear con los brazos», no «cortar». Fuente textual: Folger Shakespeare Library, Coriolanus I.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/6/.",
+              "gloss": "abrazar"
             },
             {
               "term": "sound",
               "type": "Léxico",
               "title": "Sano y fuerte",
-              "body": "Sound califica el estado físico de los brazos; Marcio afirma que sigue en condiciones de luchar."
+              "body": "Sound califica el estado físico de los brazos; Marcio afirma que sigue en condiciones de luchar. Fuente textual: Folger Shakespeare Library, Coriolanus I.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/6/.",
+              "gloss": "sanos / fuertes"
             },
             {
               "term": "tapers burnt to bedward",
               "type": "Costumbre y metáfora",
               "title": "Las velas y el lecho nupcial",
-              "body": "Tapers son velas; bedward indica dirección hacia la cama. La evocación de la noche de bodas transforma el reencuentro militar en una escena de intimidad y júbilo."
+              "body": "Tapers son velas; bedward indica dirección hacia la cama. La evocación de la noche de bodas transforma el reencuentro militar en una escena de intimidad y júbilo. Fuente textual: Folger Shakespeare Library, Coriolanus I.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/6/.",
+              "gloss": "velas encendidas camino del lecho nupcial"
             }
           ]
         },
@@ -5349,7 +5389,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "Flower of warriors",
               "type": "Metáfora encomiástica",
               "title": "Lo más selecto de los guerreros",
-              "body": "Flower puede designar figuradamente la excelencia o lo mejor de un grupo."
+              "body": "Flower puede designar figuradamente la excelencia o lo mejor de un grupo. Fuente textual: Folger Shakespeare Library, Coriolanus I.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/6/.",
+              "gloss": "flor de los guerreros"
             }
           ]
         },
@@ -5363,25 +5404,29 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "decrees",
               "type": "Imagen jurídica",
               "title": "Decretos y sentencias",
-              "body": "Marcio compara la autoridad militar de Larcio sobre la ciudad conquistada con la de un magistrado que decide destinos individuales."
+              "body": "Marcio compara la autoridad militar de Larcio sobre la ciudad conquistada con la de un magistrado que decide destinos individuales. Fuente textual: Folger Shakespeare Library, Coriolanus I.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/6/.",
+              "gloss": "sentencias / decisiones"
             },
             {
               "term": "Ransoming",
               "type": "Léxico bélico",
               "title": "Exigir rescate",
-              "body": "El verbo remite a la liberación de un cautivo a cambio de una suma u otra compensación."
+              "body": "El verbo remite a la liberación de un cautivo a cambio de una suma u otra compensación. Fuente textual: Folger Shakespeare Library, Coriolanus I.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/6/.",
+              "gloss": "exigiendo rescate"
             },
             {
               "term": "fawning greyhound",
               "type": "Símil",
               "title": "Galgo sumiso",
-              "body": "Fawning describe una actitud dócil o aduladora; la ciudad sometida queda comparada con un perro de caza sujeto por su dueño."
+              "body": "Fawning describe una actitud dócil o aduladora; la ciudad sometida queda comparada con un perro de caza sujeto por su dueño. Fuente textual: Folger Shakespeare Library, Coriolanus I.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/6/.",
+              "gloss": "galgo que se muestra dócil"
             },
             {
               "term": "let him slip",
               "type": "Léxico de caza",
               "title": "Soltar de la correa",
-              "body": "Slip puede referirse a soltar un perro de caza; el símil sugiere el control de Larcio sobre Corioles, no necesariamente una decisión literal de liberarla."
+              "body": "Slip puede referirse a soltar un perro de caza; el símil sugiere el control de Larcio sobre Corioles, no necesariamente una decisión literal de liberarla. Fuente textual: Folger Shakespeare Library, Coriolanus I.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/6/.",
+              "gloss": "soltarlo cuando quiera"
             }
           ]
         },
@@ -5395,19 +5440,22 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "slave",
               "type": "Insulto",
               "title": "Descalificación del mensajero",
-              "body": "Cominio emplea slave como insulto, no como prueba de que el mensajero sea jurídicamente esclavo."
+              "body": "Cominio emplea slave como insulto, no como prueba de que el mensajero sea jurídicamente esclavo. Fuente textual: Folger Shakespeare Library, Coriolanus I.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/6/.",
+              "gloss": "miserable (insulto)"
             },
             {
               "term": "had beat you",
               "type": "Gramática histórica",
               "title": "Participio beat",
-              "body": "Beat funciona aquí como participio de beat, donde el inglés contemporáneo suele preferir beaten."
+              "body": "Beat funciona aquí como participio de beat, donde el inglés contemporáneo suele preferir beaten. Fuente textual: Folger Shakespeare Library, Coriolanus I.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/6/.",
+              "gloss": "los habían hecho retroceder"
             },
             {
               "term": "hither",
               "type": "Léxico histórico",
               "title": "Hacia aquí",
-              "body": "Adverbio direccional: Cominio exige que hagan venir al mensajero."
+              "body": "Adverbio direccional: Cominio exige que hagan venir al mensajero. Fuente textual: Folger Shakespeare Library, Coriolanus I.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/6/.",
+              "gloss": "aquí"
             }
           ]
         },
@@ -5421,31 +5469,36 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "Let him alone",
               "type": "Locución",
               "title": "No lo molestes",
-              "body": "Marcio protege al mensajero: el informe era verdadero cuando se produjo."
+              "body": "Marcio protege al mensajero: el informe era verdadero cuando se produjo. Fuente textual: Folger Shakespeare Library, Coriolanus I.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/6/.",
+              "gloss": "déjalo en paz"
             },
             {
               "term": "common file",
               "type": "Léxico militar",
               "title": "La tropa común",
-              "body": "File puede designar a los soldados rasos, en contraste con los gentlemen mencionados antes."
+              "body": "File puede designar a los soldados rasos, en contraste con los gentlemen mencionados antes. Fuente textual: Folger Shakespeare Library, Coriolanus I.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/6/.",
+              "gloss": "soldados rasos"
             },
             {
               "term": "Tribunes for them",
               "type": "Contexto político",
               "title": "La concesión de tribunos",
-              "body": "La exclamación retoma con desprecio la representación política concedida a la plebe en I.1."
+              "body": "La exclamación retoma con desprecio la representación política concedida a la plebe en I.1. Fuente textual: Folger Shakespeare Library, Coriolanus I.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/6/.",
+              "gloss": "¡que tengan sus tribunos!"
             },
             {
               "term": "ne’er shunned",
               "type": "Léxico y comparación",
               "title": "Nunca rehuyó",
-              "body": "Ne’er equivale a never; el ratón que evita al gato intensifica la acusación de cobardía."
+              "body": "Ne’er equivale a never; el ratón que evita al gato intensifica la acusación de cobardía. Fuente textual: Folger Shakespeare Library, Coriolanus I.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/6/.",
+              "gloss": "nunca evitó"
             },
             {
               "term": "But for",
               "type": "Sintaxis e interpretación",
               "title": "Contraste con los oficiales",
-              "body": "La construcción introduce una salvedad: Marcio distingue a los caballeros de la tropa común, a la que culpa de la retirada."
+              "body": "La construcción introduce una salvedad: Marcio distingue a los caballeros de la tropa común, a la que culpa de la retirada. Fuente textual: Folger Shakespeare Library, Coriolanus I.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/6/.",
+              "gloss": "en cuanto a"
             }
           ]
         },
@@ -5459,7 +5512,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "prevailed",
               "type": "Léxico",
               "title": "Prevalecer en combate",
-              "body": "Cominio pregunta por el resultado de la lucha, no por una opinión que haya convencido a otros."
+              "body": "Cominio pregunta por el resultado de la lucha, no por una opinión que haya convencido a otros. Fuente textual: Folger Shakespeare Library, Coriolanus I.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/6/.",
+              "gloss": "vencieron"
             }
           ]
         },

@@ -2259,6 +2259,20 @@
         "https://www.folger.edu/explore/shakespeares-works/coriolanus/textual-notes/"
       ],
       "status": "reviewed_with_open_sources_private_books_pending"
+    },
+    {
+      "id": "coriolanus-1-6-600-657",
+      "act": 1,
+      "scene": 6,
+      "first_line": 600,
+      "last_line": 657,
+      "reviewed_on": "2026-11-16",
+      "scope": "Segunda pasada crítica: 50 fichas glosadas sobre retirada táctica, viento y sonido, mensajero, símil de desollamiento, tamboril, abrazo nupcial, autoridad sobre Corioles y desprecio de soldados rasos. Textos EN/ES, bloques e IDs intactos; cotejo privado y QA visual pendientes.",
+      "sources": [
+        "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/6/",
+        "https://www.folger.edu/explore/shakespeares-works/coriolanus/reading-shakespeares-language-coriolanus/"
+      ],
+      "status": "reviewed_with_open_sources_private_books_pending"
     }
   ],
   "verse_format_reviews": [
