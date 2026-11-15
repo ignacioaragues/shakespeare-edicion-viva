@@ -2216,6 +2216,20 @@
         "https://so.davidlassner.com/Neigung/D.%20Tieck/tragedie/cor/pair_Act%201_Scene%203.html"
       ],
       "status": "reviewed_with_open_sources_private_books_pending"
+    },
+    {
+      "id": "coriolanus-1-3-441-485",
+      "act": 1,
+      "scene": 3,
+      "first_line": 441,
+      "last_line": 485,
+      "reviewed_on": "2026-11-15",
+      "scope": "Segunda pasada filológica: 38 fichas revisadas con glosas contextuales, tejido y Penélope, vocabulario del parto, modales y sintaxis histórica, información militar y despedida de Virgilia. Texto EN/ES, IDs y offsets intactos. Pendientes contraste privado y QA de navegador.",
+      "sources": [
+        "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/3/",
+        "https://shakespeare.mit.edu/coriolanus/coriolanus.1.3.html"
+      ],
+      "status": "reviewed_with_open_sources_private_books_pending"
     }
   ],
   "verse_format_reviews": [
