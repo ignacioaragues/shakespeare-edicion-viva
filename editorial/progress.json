@@ -2188,6 +2188,20 @@
         "https://shakespeare.mit.edu/coriolanus/coriolanus.1.2.html"
       ],
       "status": "reviewed_with_open_sources_private_books_pending"
+    },
+    {
+      "id": "coriolanus-1-3-370-389",
+      "act": 1,
+      "scene": 3,
+      "first_line": 370,
+      "last_line": 389,
+      "reviewed_on": "2026-11-15",
+      "scope": "Segunda pasada crítica de dos parlamentos: ocho fichas con glosas y referencias trazables; comparación freelier, metáfora madre/esposa, corona cívica, man-child, condicional invertida. Textos EN/ES e identificadores intactos. Pasaje en prosa, sin saltos versales artificiales. Restauración de I.1 1–300 pendiente.",
+      "sources": [
+        "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/3/",
+        "https://www.shakespeare-online.com/plays/corio_1_3.html"
+      ],
+      "status": "reviewed_with_open_sources_private_books_pending"
     }
   ]
 }
