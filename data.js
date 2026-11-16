@@ -8597,19 +8597,22 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "all alone",
               "type": "Retórica",
               "title": "La hazaña individual",
-              "body": "La proclamación enfatiza que Marcio luchó solo dentro de las puertas; es un elogio ceremonial que condensa la acción representada en I.4."
+              "body": "La fórmula encomiástica magnifica el arrojo individual de Marcio en Corioles (I.4); no implica que ganara toda la batalla sin apoyo. Folger, II.1, FTLN 1046–1050: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/1/",
+              "gloss": "«completamente solo»"
             },
             {
               "term": "a name",
               "type": "Onomástica",
               "title": "El sobrenombre militar",
-              "body": "El nombre Coriolano deriva de Corioles, la ciudad conquistada. El heraldo presenta su incorporación como recompensa pública por la victoria."
+              "body": "El cognomen «Coriolanus» se agrega a Caius Martius como reconocimiento de su acción en Corioles. El heraldo hace pública la nueva identidad; el propio personaje rehúye enseguida la aclamación. Folger, II.1, FTLN 1046–1053: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/1/",
+              "gloss": "«un sobrenombre honorífico»"
             },
             {
               "term": "these In honor follows",
               "type": "Sintaxis",
               "title": "La fórmula del heraldo",
-              "body": "«These» remite a los nombres ya mencionados; la construcción anuncia que a ellos se suma el título «Coriolanus». La concordancia resulta irregular para el uso actual."
+              "body": "La concordancia «these ... follows» y la inversión del orden nominal pertenecen a la sintaxis condensada del anuncio. La edición Yale de C. F. Tucker Brooke (1924), II.1, nota al verso 183, explica «to» como «added to»; cotejo con Folger II.1, FTLN 1048–1049. https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_II",
+              "gloss": "«a estos [nombres] sigue, como honor, “Coriolanus”»"
             }
           ]
         },
@@ -8623,7 +8626,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "renownèd",
               "type": "Prosodia",
               "title": "Pronunciación de «renownèd»",
-              "body": "La grafía editorial con acento indica que la terminación -ed se pronuncia como sílaba independiente."
+              "body": "El acento editorial indica la pronunciación bisilábica de la terminación en este adjetivo («renown-ed»), útil para el ritmo del saludo colectivo. Folger, II.1, FTLN 1050–1051: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/1/",
+              "gloss": "«célebre, glorioso»"
             }
           ]
         },
@@ -8637,7 +8641,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "offend my heart",
               "type": "Interpretación",
               "title": "Rechazo de la alabanza",
-              "body": "«Offend» expresa molestia o disgusto; el contraste entre la aclamación pública y su respuesta abre la cuestión dramática de cómo recibe Coriolano los honores."
+              "body": "«Offend» tiene aquí valor afectivo de disgusto ante la celebración pública, no el sentido exclusivo de agravio moral. El rechazo contrasta con la insistencia ceremonial del heraldo y del coro. Folger, II.1, FTLN 1050–1053: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/1/",
+              "gloss": "«me hiere / me incomoda profundamente»"
             }
           ]
         },
@@ -8659,7 +8664,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "petitioned",
               "type": "Léxico",
               "title": "Suplicar a los dioses",
-              "body": "«Petition» significa presentar una súplica; el vocabulario de petición se traslada aquí a la esfera religiosa."
+              "body": "«Petition» traslada el lenguaje formal de la solicitud a las plegarias de Volumnia. El gesto de arrodillarse figura en la acotación de Folger después de «prosperity». Folger, II.1, FTLN 1055–1057: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/1/",
+              "gloss": "«has suplicado / rogado»"
             },
             {
               "term": "prosperity",
@@ -8680,7 +8686,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "By deed-achieving honor",
               "type": "Sintaxis y retórica",
               "title": "El honor ganado por los hechos",
-              "body": "La expresión vincula el nuevo nombre con acciones realizadas, no con un título heredado; el orden de palabras es condensado y poético."
+              "body": "La frase compuesta atribuye el nuevo nombre a hechos militares concretos. El titubeo «What is it?» dramatiza el paso de «Martius» a «Coriolanus». Folger, II.1, FTLN 1059–1062: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/1/",
+              "gloss": "«honrado por sus hazañas»"
             },
             {
               "term": "What is it?",
@@ -8706,25 +8713,33 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "gracious silence",
               "type": "Retórica",
               "title": "El silencio de Virgilia",
-              "body": "Coriolano se dirige a Virgilia mediante una personificación afectuosa de su silencio; la expresión también recuerda su reserva en I.3."
+              "body": "Apóstrofe afectuoso dirigido a Virgilia, cuyo silencio contrasta con la elocuencia pública de Volumnia. La edición Yale (Brooke, 1924), II.1, verso 194, remite a una nota explicativa sin imponer una interpretación única. https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_II",
+              "gloss": "«mi dulce y silenciosa esposa»"
             },
             {
               "term": "Wouldst thou have laughed",
               "type": "Sintaxis",
               "title": "Interrogación contrafáctica",
-              "body": "«Wouldst thou» equivale a «would you» singular; «had I come» es una prótasis condicional sin «if»: «si hubiera regresado»."
+              "body": "«Wouldst» es la segunda persona singular histórica de «would» con «thou»; «had I come» invierte sujeto y auxiliar en una condición irreal sin «if». No equivale a un plural moderno. Folger, II.1, FTLN 1063–1066: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/1/",
+              "gloss": "«¿te habrías reído si…?»",
+              "lemma": "would",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/would"
             },
             {
               "term": "coffined",
               "type": "Léxico",
               "title": "Regreso en un ataúd",
-              "body": "«Coffined» funciona como participio: llegado dentro de un féretro, es decir, muerto."
+              "body": "Participio de «coffin» empleado predicativamente: contrapone el regreso triunfal al regreso del cadáver. Folger, II.1, FTLN 1064–1066: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/1/",
+              "gloss": "«devuelto en un ataúd»",
+              "lemma": "coffin",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/coffin"
             },
             {
               "term": "Such eyes",
               "type": "Dramaturgia",
               "title": "Lágrimas de vencedores y vencidos",
-              "body": "La comparación traslada las lágrimas de Virgilia a las mujeres de Corioles, cuyos familiares han muerto en la campaña. El efecto puede leerse como una súbita conciencia del costo humano de la victoria."
+              "body": "El paralelo entre el llanto de Virgilia y el de las viudas y madres de Corioles introduce a las víctimas enemigas en el momento de la victoria. Es un contraste dramático observable, no prueba concluyente de arrepentimiento de Coriolano. Folger, II.1, FTLN 1066–1068: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/1/",
+              "gloss": "«ojos así, llenos de lágrimas»"
             }
           ]
         },
@@ -8753,7 +8768,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "And live you yet?",
               "type": "Dramaturgia",
               "title": "Reconocimiento de Valeria",
-              "body": "Coriolano repara en la presencia de Valeria después de saludar a su esposa; la pregunta es una fórmula de sorpresa y reconocimiento, no una duda literal sobre su supervivencia."
+              "body": "Dirigido a Valeria: su sentido pragmático es de reconocimiento jovial, no de preocupación médica. Folger, II.1, FTLN 1071–1072; Yale, Brooke (1924), II.1, v. 199. https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_II",
+              "gloss": "«¿sigues viva?» (saludo sorprendido)"
             }
           ]
         },
@@ -8793,19 +8809,22 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "⌜You⌝ are three",
               "type": "Texto",
               "title": "Pronombre suplido",
-              "body": "Folger marca «You» como intervención editorial; los tres son los comandantes de la comitiva."
+              "body": "Los corchetes angulares señalan una intervención editorial de Folger; los tres aludidos son los jefes militares presentes. Distinguir el texto establecido de la lección del Primer Folio. Folger, II.1, FTLN 1075–1084 y aparato: https://www.folger.edu/explore/shakespeares-works/coriolanus/textual-notes/",
+              "gloss": "«ustedes tres»"
             },
             {
               "term": "old crab trees",
               "type": "Léxico",
               "title": "Manzanos silvestres",
-              "body": "Los frutos agrios evocan a los adversarios incapaces de aceptar el triunfo."
+              "body": "«Crab trees» son manzanos silvestres de fruto ácido; la metáfora designa a los tribunos hostiles. Brooke, edición Yale (1924), II.1, nota al v. 207: «crabapple trees». https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_II",
+              "gloss": "«viejos manzanos agrios»"
             },
             {
               "term": "grafted to your relish",
               "type": "Metáfora",
               "title": "Injerto y gusto",
-              "body": "La horticultura se cruza con el gusto: los detractores no se adaptarán a la victoria."
+              "body": "El injerto hortícola prolonga la imagen de los manzanos agrios: los opositores no adoptarán el gusto o talante de los recién llegados. Brooke, Yale (1924), II.1, nota al v. 208. https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_II",
+              "gloss": "«injertarse para adquirir el gusto de ustedes»"
             },
             {
               "term": "a nettle but a nettle",
@@ -8880,7 +8899,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "change of honors",
               "type": "Léxico e interpretación",
               "title": "Honores renovados",
-              "body": "«Change» apunta a una modificación o intercambio de honores, no a un cambio de opinión; la traducción «nuevos honores» explicita el resultado en este contexto."
+              "body": "«Change» no indica aquí una retractación: Brooke, Yale (1924), II.1, v. 216, lo glosa como «a variety». La visita a los patricios precede al regreso doméstico. https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_II",
+              "gloss": "«distintos honores / honores añadidos»"
             }
           ]
         },
@@ -8894,7 +8914,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "inherited my very wishes",
               "type": "Sintaxis e imagen",
               "title": "Deseos hechos realidad",
-              "body": "«Inherited» presenta los deseos como una herencia que finalmente llega a poseerse; la construcción comprimida hace que el logro parezca una adquisición."
+              "body": "«Inherited» expresa entrar en posesión de lo deseado, no una herencia genealógica. Brooke, Yale (1924), II.1, v. 217: «realized, come into my possession». https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_II",
+              "gloss": "«ver cumplidos mis propios deseos»"
             },
             {
               "term": "buildings of my fancy",
@@ -8906,7 +8927,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "cast upon thee",
               "type": "Léxico político",
               "title": "Conferir un cargo",
-              "body": "«Cast upon» significa aquí conferir o imponer un honor; la alusión anticipa el consulado sin nombrarlo todavía."
+              "body": "Volumnia anticipa el consulado como dignidad que Roma concederá; la forma «cast upon» admite matiz de conferir o imponer, sin que el cargo se nombre todavía. Folger, II.1, FTLN 1094–1098: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/1/",
+              "gloss": "«te conferirá / depositará sobre ti»"
             }
           ]
         },
