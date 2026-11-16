@@ -11917,7 +11917,7 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "common in my love",
               "type": "Juego léxico",
               "title": "Un afecto nada común",
-              "body": "«Common» retoma «common people» de 1475: Coriolano convierte la acusación de no amar al pueblo en una pretendida virtud de selectividad afectiva. Folger, Coriolanus II.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; cotejo: https://www.shakespeare-online.com/plays/corio_2_3.html.",
+              "body": "El eco con «common people» transforma el reproche de no amar a la plebe en una defensa de la exclusividad de sus afectos. El argumento es irónico, no una declaración de imparcialidad. Folger, II.3, líneas 1476–1486: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/",
               "gloss": "indiscriminado en mi afecto"
             },
             {
@@ -11938,7 +11938,7 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "my hat than my heart",
               "type": "Metonimia",
               "title": "Sombrero y corazón",
-              "body": "Contraposición entre el saludo ceremonial (sombrero) y el afecto genuino (corazón); es la interpretación hostil de Coriolano de la demanda ciudadana. Folger, Coriolanus II.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; cotejo: https://www.shakespeare-online.com/plays/corio_2_3.html.",
+              "body": "«Hat» alude al saludo visible de quitarse o inclinar el sombrero, mientras «heart» representa el afecto interior. Coriolano contrapone la cortesía exigida a la sinceridad que se niega a ofrecer. Folger, II.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/",
               "gloss": "gesto exterior antes que sentimiento"
             },
             {
@@ -11954,7 +11954,7 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "counterfeitly",
               "type": "Léxico",
               "title": "Falsedad deliberada",
-              "body": "El adverbio subraya el carácter simulado de la cortesía; «counterfeit» se repite inmediatamente. Folger, Coriolanus II.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; cotejo: https://www.shakespeare-online.com/plays/corio_2_3.html.",
+              "body": "«Counterfeitly» y «counterfeit» forman una repetición explícita: el candidato anuncia que representará una simpatía popular que no siente. Se trata de una interpretación apoyada en la repetición verbal, no de una acotación de gesto. Folger, II.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/",
               "gloss": "fingidamente",
               "lemma": "counterfeit",
               "lemmaUrl": "https://en.wiktionary.org/wiki/counterfeit"
@@ -12015,7 +12015,7 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "seal your knowledge",
               "type": "Metáfora documental",
               "title": "Certificar lo sabido",
-              "body": "«Seal» representa la exhibición de heridas como sello que autenticaría un conocimiento previo. Folger, Coriolanus II.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; cotejo: https://www.shakespeare-online.com/plays/corio_2_3.html.",
+              "body": "El sello ratifica o autentica algo ya conocido: mostrar las heridas daría prueba visual de sus servicios. La negativa subvierte el rito electoral. Folger, II.3, líneas 1491–1493: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/",
               "gloss": "confirmar lo que saben",
               "lemma": "seal",
               "lemmaUrl": "https://en.wiktionary.org/wiki/seal"
@@ -12064,21 +12064,21 @@ window.SHAKESPEARE_READER_DATA = {
               "gloss": "recompensa; pago",
               "lemma": "hire",
               "lemmaUrl": "https://en.wiktionary.org/wiki/hire",
-              "body": "«Hire» designa una remuneración que, a juicio de Coriolano, ya le corresponde por sus servicios. Los corchetes angulares son marcas editoriales de Folger, no palabras pronunciadas; Shakespeare Online imprime «hire» sin esas marcas. Folger II.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; Shakespeare Online II.3: https://www.shakespeare-online.com/plays/corio_2_3.html."
+              "body": "La «recompensa» que dice merecer se opone al acto de suplicarla. Los corchetes angulares de Folger señalan una intervención editorial en el texto, no forman parte del discurso del personaje. Folger, II.3, líneas 1495–1507: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/"
             },
             {
               "term": "woolvish ⌜toge⌝",
               "type": "Imagen y léxico",
               "title": "La toga de lobo",
               "gloss": "toga lobuna",
-              "body": "«Woolvish» relaciona la vestimenta electoral con el lobo; la combinación puede sugerir una hostilidad incompatible con la humildad que exige el traje. «Toge» es una forma de «toga», no debe sustituirse silenciosamente por el inglés actual. Folger II.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; cotejo: https://www.shakespeare-online.com/plays/corio_2_3.html."
+              "body": "Lectura textual especialmente disputada: Folger imprime «woolvish toge», mientras que Brooke (Yale, 1924, nota a II.3.122) registra «Wooluish tongue» en el primer Folio, «Woolvish gowne» en folios posteriores y la conjetura «woolless toge». Su glosa interpreta una figura de lobo con piel de oveja. No presentar la toga lobuna como una lectura inequívoca del original. Fuentes: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/ ; C. F. Tucker Brooke, The Tragedy of Coriolanus (Yale, 1924), notas a II.3.122: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Notes"
             },
             {
               "term": "Hob and Dick",
               "type": "Onomástica social",
               "title": "Nombres genéricos",
               "gloss": "Juan y Pedro; ciudadanos cualesquiera",
-              "body": "La pareja de nombres propios designa despectivamente a ciudadanos corrientes, sin identificar a dos personajes concretos. Folger, Coriolanus II.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/."
+              "body": "Nombres corrientes usados despectivamente como representación de electores anónimos; no designan personajes concretos. El paralelismo con «needless vouches» convierte la petición de votos en humillación para Coriolano. Folger, II.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/"
             },
             {
               "term": "needless vouches",
@@ -12125,7 +12125,7 @@ window.SHAKESPEARE_READER_DATA = {
               "type": "Retórica política",
               "title": "Repetición insistente",
               "gloss": "votos; voces",
-              "body": "La repetición convierte la solicitud electoral en una enumeración casi mecánica. «Voices» conserva el doble valor de voz y voto; la insistencia puede representarse como parodia de la súplica ritual. Folger, Coriolanus II.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; cotejo: https://www.shakespeare-online.com/plays/corio_2_3.html."
+              "body": "La anáfora «for your voices» sustituye la narración de servicios militares por una fórmula de propaganda electoral, que el personaje había rechazado momentos antes. Esta lectura retórica se desprende de la repetición textual. Folger, II.3, líneas 1508–1515: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/"
             },
             {
               "term": "Watched",
@@ -12200,7 +12200,7 @@ window.SHAKESPEARE_READER_DATA = {
               "type": "Registro religioso",
               "title": "Aclamación colectiva",
               "gloss": "amén, amén",
-              "body": "La fórmula cristiana «Amen» aparece en una escena situada en la Roma pagana; se conserva como rasgo del lenguaje dramático de Shakespeare, sin atribuirla a una práctica romana histórica. Folger, Coriolanus II.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; cotejo: https://www.shakespeare-online.com/plays/corio_2_3.html."
+              "body": "La aclamación emplea una fórmula litúrgica cristiana en una ficción ambientada en la Roma republicana. Es un anacronismo de lenguaje dramático, no evidencia de que los personajes romanos practicaran el cristianismo. Folger, II.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/"
             },
             {
               "term": "God save thee",
