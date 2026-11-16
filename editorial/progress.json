@@ -2454,6 +2454,20 @@
         "https://www.owleyes.org/text/coriolanus/read/act-ii-scene-2"
       ],
       "status": "reviewed_with_open_sources_private_books_pending"
+    },
+    {
+      "id": "coriolanus-2-2-1249-1280",
+      "act": 2,
+      "scene": 2,
+      "first_line": 1249,
+      "last_line": 1280,
+      "reviewed_on": "2026-11-16",
+      "scope": "Segunda revisión filológica de 32 líneas Folger, unidad previa a la oración extensa de Cominio: 28 glosas españolas; revisión de disbenched, soothe, hipérbole política y rechazo de la alabanza. EN/ES, IDs y marcadores intactos. Cotejo privado y QA visual pendientes.",
+      "sources": [
+        "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/2/",
+        "https://www.shakespeareswords.com/Public/Play.aspx?Act=2&Scene=2&WorkId=3"
+      ],
+      "status": "reviewed_with_open_sources_private_books_pending"
     }
   ],
   "verse_format_reviews": [

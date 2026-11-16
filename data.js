@@ -10051,19 +10051,22 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "That’s off",
               "type": "Pragmática",
               "title": "That’s off",
-              "body": "Menenio declara inoportuna la objeción de Bruto e intenta devolver la sesión al homenaje militar."
+              "body": "Menenio declara inoportuna la objeción de Bruto e intenta devolver la sesión al homenaje militar.",
+              "gloss": "eso no viene al caso"
             },
             {
               "term": "I would you rather had been silent",
               "type": "Sintaxis",
               "title": "I would you rather had been silent",
-              "body": "«I would» expresa un deseo contrafáctico: Menenio habría preferido que Bruto callara."
+              "body": "«I would» expresa un deseo contrafáctico: Menenio habría preferido que Bruto callara.",
+              "gloss": "habría preferido que callaras"
             },
             {
               "term": "Please you",
               "type": "Fórmula de cortesía",
               "title": "Please you",
-              "body": "El giro equivale a «¿les parece bien?»; el destinatario inmediato es la asamblea."
+              "body": "El giro equivale a «¿les parece bien?»; el destinatario inmediato es la asamblea.",
+              "gloss": "¿les parece bien?"
             }
           ]
         },
@@ -10077,19 +10080,22 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "Most willingly",
               "type": "Respuesta formal",
               "title": "Most willingly",
-              "body": "Bruto acepta escuchar a Cominio sin retirar su reserva política."
+              "body": "Bruto acepta escuchar a Cominio sin retirar su reserva política.",
+              "gloss": "con mucho gusto"
             },
             {
               "term": "caution",
               "type": "Léxico",
               "title": "caution",
-              "body": "«Caution» es aquí una advertencia preventiva, no timidez ni simple prudencia."
+              "body": "«Caution» es aquí una advertencia preventiva, no timidez ni simple prudencia.",
+              "gloss": "advertencia"
             },
             {
               "term": "pertinent",
               "type": "Argumentación",
               "title": "pertinent",
-              "body": "Bruto insiste en que la relación de Coriolano con el pueblo sí es relevante para la deliberación."
+              "body": "Bruto insiste en que la relación de Coriolano con el pueblo sí es relevante para la deliberación.",
+              "gloss": "pertinente, oportuna"
             }
           ]
         },
@@ -10104,19 +10110,22 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "your people",
               "type": "Perspectiva política",
               "title": "your people",
-              "body": "El posesivo distancia a Menenio de la representación popular que ejercen los tribunos."
+              "body": "El posesivo distancia a Menenio de la representación popular que ejercen los tribunos.",
+              "gloss": "el pueblo de ustedes"
             },
             {
               "term": "bedfellow",
               "type": "Metáfora",
               "title": "bedfellow",
-              "body": "La intimidad de compartir cama exagera irónicamente la exigencia de cercanía con el pueblo."
+              "body": "La intimidad de compartir cama exagera irónicamente la exigencia de cercanía con el pueblo. Cotejo: Folger Shakespeare Library, Coriolanus II.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/2/); David Crystal y Ben Crystal, Shakespeare's Words, II.2 (https://www.shakespeareswords.com/Public/Play.aspx?Act=2&Scene=2&WorkId=3).",
+              "gloss": "compañero de cama; allegado íntimo"
             },
             {
               "term": "keep your place",
               "type": "Situación escénica",
               "title": "keep your place",
-              "body": "La orden se dirige a Coriolano, que se levanta para marcharse; la acotación de Folger precede a esta réplica."
+              "body": "La orden se dirige a Coriolano, que se levanta para marcharse; la acotación de Folger precede a esta réplica.",
+              "gloss": "permanece en tu sitio"
             }
           ]
         },
@@ -10130,7 +10139,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "Never shame",
               "type": "Elipsis",
               "title": "Never shame",
-              "body": "Construcción condensada: «nunca es vergonzoso»; el senador intenta legitimar el elogio público ante el propio homenajeado."
+              "body": "Construcción condensada: «nunca es vergonzoso»; el senador intenta legitimar el elogio público ante el propio homenajeado.",
+              "gloss": "no te avergüences"
             }
           ]
         },
@@ -10144,19 +10154,22 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "Your Honors",
               "type": "Tratamiento",
               "title": "Your Honors",
-              "body": "Coriolano se dirige respetuosamente a los senadores mediante un tratamiento honorífico plural."
+              "body": "Coriolano se dirige respetuosamente a los senadores mediante un tratamiento honorífico plural.",
+              "gloss": "señorías"
             },
             {
               "term": "I had rather",
               "type": "Gramática histórica",
               "title": "I had rather",
-              "body": "«Had rather» expresa preferencia: «preferiría»."
+              "body": "«Had rather» expresa preferencia: «preferiría».",
+              "gloss": "preferiría"
             },
             {
               "term": "my wounds to heal again",
               "type": "Imagen corporal",
               "title": "my wounds to heal again",
-              "body": "La comparación extrema opone el dolor físico de la guerra a la incomodidad de escuchar su propio elogio; la valoración es del personaje."
+              "body": "La comparación extrema opone el dolor físico de la guerra a la incomodidad de escuchar su propio elogio; la valoración es del personaje.",
+              "gloss": "que mis heridas tuvieran que cicatrizar de nuevo"
             }
           ]
         },
@@ -10170,7 +10183,9 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "disbenched",
               "type": "Léxico y formación",
               "title": "disbenched",
-              "body": "Verbo construido sobre «bench» (banco o escaño): hacer que alguien abandone su asiento. Bruto pregunta si su intervención motivó el gesto de Coriolano."
+              "body": "Verbo construido sobre «bench» (banco o escaño): hacer que alguien abandone su asiento. Bruto pregunta si su intervención motivó el gesto de Coriolano. Cotejo: Folger Shakespeare Library, Coriolanus II.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/2/); David Crystal y Ben Crystal, Shakespeare's Words, II.2 (https://www.shakespeareswords.com/Public/Play.aspx?Act=2&Scene=2&WorkId=3).",
+              "gloss": "te hice levantar del banco",
+              "morphologyUrl": "https://en.wiktionary.org/wiki/disbench"
             }
           ]
         },
@@ -10184,25 +10199,29 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "When blows have made me stay",
               "type": "Antítesis",
               "title": "Golpes y palabras",
-              "body": "Coriolano contrapone su resistencia a los golpes en combate con su rechazo de los discursos laudatorios; la paradoja caracteriza su incomodidad ante el elogio."
+              "body": "Coriolano contrapone su resistencia a los golpes en combate con su rechazo de los discursos laudatorios; la paradoja caracteriza su incomodidad ante el elogio.",
+              "gloss": "cuando los golpes me obligaron a resistir"
             },
             {
               "term": "soothed not",
               "type": "Léxico histórico",
               "title": "soothed",
-              "body": "Aquí «soothe» tiene el sentido de halagar o adular; no el moderno predominante de calmar o consolar."
+              "body": "Aquí «soothe» tiene el sentido de halagar o adular; no el moderno predominante de calmar o consolar. Cotejo: Folger Shakespeare Library, Coriolanus II.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/2/); David Crystal y Ben Crystal, Shakespeare's Words, II.2 (https://www.shakespeareswords.com/Public/Play.aspx?Act=2&Scene=2&WorkId=3).",
+              "gloss": "no me adulaste"
             },
             {
               "term": "as they weigh",
               "type": "Metáfora valorativa",
               "title": "as they weigh",
-              "body": "La imagen del peso equivale a estimar según el mérito o valor que se atribuye al pueblo. La frase es despectiva en su contexto, pero el texto no cuantifica ese valor."
+              "body": "La imagen del peso equivale a estimar según el mérito o valor que se atribuye al pueblo. La frase es despectiva en su contexto, pero el texto no cuantifica ese valor. Cotejo: Folger Shakespeare Library, Coriolanus II.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/2/); David Crystal y Ben Crystal, Shakespeare's Words, II.2 (https://www.shakespeareswords.com/Public/Play.aspx?Act=2&Scene=2&WorkId=3).",
+              "gloss": "según lo que valen"
             },
             {
               "term": "your people",
               "type": "Retórica política",
               "title": "your people",
-              "body": "El posesivo atribuye a Bruto la representación del pueblo y mantiene la distancia de Coriolano respecto de los ciudadanos."
+              "body": "El posesivo atribuye a Bruto la representación del pueblo y mantiene la distancia de Coriolano respecto de los ciudadanos.",
+              "gloss": "el pueblo de ustedes"
             }
           ]
         },
@@ -10216,7 +10235,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "Pray now",
               "type": "Pragmática",
               "title": "Pray now",
-              "body": "Fórmula de ruego que busca interrumpir la tensión y devolver a Coriolano a su asiento."
+              "body": "Fórmula de ruego que busca interrumpir la tensión y devolver a Coriolano a su asiento.",
+              "gloss": "vamos, por favor"
             }
           ]
         },
@@ -10231,25 +10251,29 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "I had rather",
               "type": "Gramática histórica",
               "title": "had rather",
-              "body": "La construcción expresa preferencia («preferiría»), como en la intervención anterior del personaje."
+              "body": "La construcción expresa preferencia («preferiría»), como en la intervención anterior del personaje.",
+              "gloss": "preferiría"
             },
             {
               "term": "scratch my head",
               "type": "Imagen y sintaxis",
               "title": "scratch my head",
-              "body": "«Have one scratch» es una construcción causativa: que alguien le rasque la cabeza. La escena imagina un gesto trivial incluso en plena alarma militar."
+              "body": "«Have one scratch» es una construcción causativa: que alguien le rasque la cabeza. La escena imagina un gesto trivial incluso en plena alarma militar.",
+              "gloss": "rascarme la cabeza"
             },
             {
               "term": "alarum",
               "type": "Léxico militar",
               "title": "alarum",
-              "body": "Forma histórica de «alarm», aquí señal de alarma o llamada a las armas."
+              "body": "Forma histórica de «alarm», aquí señal de alarma o llamada a las armas.",
+              "gloss": "alarma de combate"
             },
             {
               "term": "my nothings monstered",
               "type": "Retórica",
               "title": "my nothings monstered",
-              "body": "«Monstered» convierte los hechos que él minimiza («nothings») en algo enorme o monstruosamente exagerado. La autodepreciación contrasta con el elogio que se dispone a pronunciar Cominio."
+              "body": "«Monstered» convierte los hechos que él minimiza («nothings») en algo enorme o monstruosamente exagerado. La autodepreciación contrasta con el elogio que se dispone a pronunciar Cominio. Cotejo: Folger Shakespeare Library, Coriolanus II.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/2/); David Crystal y Ben Crystal, Shakespeare's Words, II.2 (https://www.shakespeareswords.com/Public/Play.aspx?Act=2&Scene=2&WorkId=3).",
+              "gloss": "mis insignificancias convertidas en prodigios"
             }
           ]
         },
@@ -10263,31 +10287,36 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "Masters of the people",
               "type": "Tratamiento político",
               "title": "Masters of the people",
-              "body": "Menenio vuelve a dirigirse a los tribunos mediante una fórmula de tratamiento que subraya su función representativa."
+              "body": "Menenio vuelve a dirigirse a los tribunos mediante una fórmula de tratamiento que subraya su función representativa.",
+              "gloss": "señores representantes del pueblo"
             },
             {
               "term": "multiplying spawn",
               "type": "Invectiva",
               "title": "multiplying spawn",
-              "body": "«Spawn» alude a crías o prole numerosa y tiene aquí valor peyorativo. La deshumanización pertenece a la voz de Menenio."
+              "body": "«Spawn» alude a crías o prole numerosa y tiene aquí valor peyorativo. La deshumanización pertenece a la voz de Menenio. Cotejo: Folger Shakespeare Library, Coriolanus II.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/2/); David Crystal y Ben Crystal, Shakespeare's Words, II.2 (https://www.shakespeareswords.com/Public/Play.aspx?Act=2&Scene=2&WorkId=3).",
+              "gloss": "prole que se multiplica"
             },
             {
               "term": "thousand to one good one",
               "type": "Hipérbole",
               "title": "thousand to one good one",
-              "body": "La proporción de mil a uno expresa desprecio por la multitud, no un cálculo demográfico."
+              "body": "La proporción de mil a uno expresa desprecio por la multitud, no un cálculo demográfico.",
+              "gloss": "mil por cada uno bueno"
             },
             {
               "term": "venture all his limbs",
               "type": "Metonimia corporal",
               "title": "venture all his limbs",
-              "body": "Arriesgar los miembros del cuerpo representa el riesgo físico de la guerra."
+              "body": "Arriesgar los miembros del cuerpo representa el riesgo físico de la guerra.",
+              "gloss": "arriesgar todos sus miembros"
             },
             {
               "term": "one on ’s ears",
               "type": "Elipsis y contraste",
               "title": "one on ’s ears",
-              "body": "«One» retoma «limbs» de forma jocosa y el giro dirige la atención a los oídos: el héroe soporta el peligro físico, pero rehúye escuchar su elogio."
+              "body": "«One» retoma «limbs» de forma jocosa y el giro dirige la atención a los oídos: el héroe soporta el peligro físico, pero rehúye escuchar su elogio.",
+              "gloss": "uno de sus oídos"
             }
           ]
         },
