@@ -8942,7 +8942,10 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "had rather",
               "type": "Gramática",
               "title": "Preferencia",
-              "body": "«Had rather» expresa preferencia, equivalente al actual «would rather»."
+              "body": "Preferiría; preferencia expresada con «had rather», equivalente al inglés actual «would rather». En el contraste «servant / sway», el personaje distingue servir a Roma según su propio criterio de gobernar sometido a las reglas ajenas. Fuente: Folger, Coriolanus II.1, líneas 1099–1101.",
+              "gloss": "preferiría",
+              "lemma": "rather",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/rather"
             },
             {
               "term": "servant ... sway",
@@ -8983,73 +8986,85 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "blearèd sights",
               "type": "Léxico e imagen",
               "title": "Ojos empañados",
-              "body": "«Blearèd» describe una visión turbia o legañosa; la hipérbole presenta incluso a quienes ven mal esforzándose por contemplar al héroe."
+              "body": "Ojos nublados o legañosos. «Sights» funciona metonímicamente por ojos o facultad visual; «spectacled» crea el efecto paradójico de ojos que se proveen de anteojos. Fuente: Folger, II.1, 1103–1104.",
+              "gloss": "ojos empañados"
             },
             {
               "term": "spectacled",
               "type": "Juego verbal",
               "title": "Anteojos para mirar",
-              "body": "El verbo deriva de «spectacles» (anteojos); prolonga la imagen de la mirada y el espectáculo público."
+              "body": "Provistos de anteojos. Shakespeare convierte «spectacles» en forma verbal para intensificar la hipérbole visual del recibimiento. Fuente: Folger, II.1, 1103–1104.",
+              "gloss": "se ponen anteojos"
             },
             {
               "term": "Into a rapture",
               "type": "Léxico",
               "title": "Arrebato",
-              "body": "«Rapture» expresa aquí un transporte o entusiasmo intenso, no una desaparición sobrenatural."
+              "body": "Arrebatada de entusiasmo; la niñera se distrae hablando del héroe mientras el niño llora. La frase no describe un éxtasis religioso. Fuente: Folger, II.1, 1105–1106.",
+              "gloss": "en un arrebato"
             },
             {
               "term": "kitchen malkin",
               "type": "Léxico social",
               "title": "La criada de cocina",
-              "body": "«Malkin» puede designar despectivamente a una sirvienta o muchacha de baja condición; Bruto recorre distintos estratos de la ciudad."
+              "body": "Criada de cocina, con matiz social despectivo. La forma «malkin» designa aquí a una sirvienta; la escena yuxtapone a la criada y a las damas de alta condición. Véase Folger, II.1, 1106–1117; edición histórica anotada de Coriolanus, nota sobre «kitchen malkin», https://upload.wikimedia.org/wikipedia/commons/2/28/Shakespeare%27s_tragedy_of_Coriolanus_%28IA_shakespearestrag03shakesp%29.pdf.",
+              "gloss": "criada de cocina"
             },
             {
               "term": "lockram",
               "type": "Indumentaria",
               "title": "Tela basta",
-              "body": "Nombre de una tela de lino relativamente ordinaria; el superlativo «richest» resulta irónico al aplicarse a las mejores galas de la criada."
+              "body": "Tela ordinaria de lino; «richest» se aplica irónicamente a la mejor pieza de la criada, no a una tela lujosa. Cotejo: edición histórica anotada de Coriolanus, nota a «lockram», https://upload.wikimedia.org/wikipedia/commons/2/28/Shakespeare%27s_tragedy_of_Coriolanus_%28IA_shakespearestrag03shakesp%29.pdf.",
+              "gloss": "lino basto"
             },
             {
               "term": "reechy",
               "type": "Léxico",
               "title": "Sucio de humo",
-              "body": "Adjetivo relacionado con el humo o el hollín; la suciedad del cuello contrasta con la tela festiva."
+              "body": "Ahumado, ennegrecido por el hollín; en el contexto, el cuello de quien trabaja en la cocina. Cotejo: edición histórica anotada de Coriolanus, nota a «reechy», https://upload.wikimedia.org/wikipedia/commons/2/28/Shakespeare%27s_tragedy_of_Coriolanus_%28IA_shakespearestrag03shakesp%29.pdf.",
+              "gloss": "ennegrecido por humo"
             },
             {
               "term": "leads",
               "type": "Arquitectura",
               "title": "Azoteas emplomadas",
-              "body": "Aquí «leads» alude a cubiertas planas revestidas de plomo, no al verbo «conducir»."
+              "body": "Cubiertas o azoteas revestidas de plomo. No es el verbo «lead»: la enumeración describe los lugares que ocupan los espectadores. Folger, II.1, 1108–1111.",
+              "gloss": "azoteas emplomadas"
             },
             {
               "term": "ridges horsed",
               "type": "Metáfora visual",
               "title": "Cabalgar los tejados",
-              "body": "«Horsed» representa a los espectadores montados sobre las cumbreras como si fueran caballos."
+              "body": "Cumbreras ocupadas por personas sentadas a horcajadas como jinetes; «horsed» es una imagen figurada. Edición histórica anotada de Coriolanus, nota al verso, https://upload.wikimedia.org/wikipedia/commons/2/28/Shakespeare%27s_tragedy_of_Coriolanus_%28IA_shakespearestrag03shakesp%29.pdf.",
+              "gloss": "tejados cabalgados"
             },
             {
               "term": "flamens",
               "type": "Contexto romano",
               "title": "Sacerdotes romanos",
-              "body": "Los flámines eran sacerdotes asociados a cultos específicos en Roma; su presencia excepcional amplifica la fama del vencedor."
+              "body": "Flámines, sacerdotes romanos dedicados al culto de determinadas divinidades. «Seld-shown» significa raramente vistos: hasta ellos buscan sitio entre la muchedumbre. Folger, II.1, 1112–1114.",
+              "gloss": "flámines, sacerdotes romanos"
             },
             {
               "term": "vulgar station",
               "type": "Semántica histórica",
               "title": "Un lugar entre el pueblo",
-              "body": "«Vulgar» significa aquí común o popular, sin la carga moderna de grosería."
+              "body": "Lugar entre la gente común; «vulgar» conserva aquí su sentido de «popular», sin implicar grosería. Folger, II.1, 1113–1114.",
+              "gloss": "sitio entre el pueblo"
             },
             {
               "term": "white and damask",
               "type": "Imagen cromática",
               "title": "Blanco y rosado",
-              "body": "«Damask» evoca el tono rosado o rojo de las mejillas; el sol amenaza con alterar la delicada combinación de colores."
+              "body": "Blanco y rosado o rojo suave de las mejillas; la «guerra» de colores representa el contraste del cutis. La metáfora reaparece en otras obras de Shakespeare, según la edición histórica anotada de Coriolanus, nota a «war of white and damask», https://upload.wikimedia.org/wikipedia/commons/2/28/Shakespeare%27s_tragedy_of_Coriolanus_%28IA_shakespearestrag03shakesp%29.pdf.",
+              "gloss": "blanco y rosado"
             },
             {
               "term": "Phoebus’ burning kisses",
               "type": "Mitología y personificación",
               "title": "Besos ardientes de Febo",
-              "body": "Febo, epíteto de Apolo asociado al sol, personifica la exposición solar que las damas aceptan con tal de ver a Coriolano."
+              "body": "Los rayos del sol figurados como besos ardientes de Febo, nombre clásico asociado a Apolo. Las damas exponen sus rostros para ver al héroe: el supuesto «spoiling» del cutis es una hipérbole. Folger, II.1, 1115–1117.",
+              "gloss": "rayos abrasadores del sol"
             },
             {
               "term": "whatsoever god",
@@ -9069,7 +9084,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "On the sudden",
               "type": "Léxico temporal",
               "title": "De inmediato",
-              "body": "Locución equivalente a «suddenly» o «at once»; Sicinio anticipa una elección rápida."
+              "body": "De inmediato, súbitamente; el tribuno prevé que la aclamación se convertirá rápidamente en elección consular. Folger, II.1, 1121–1122.",
+              "gloss": "de inmediato"
             }
           ]
         },
@@ -9097,13 +9113,15 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "temp’rately",
               "type": "Léxico",
               "title": "Con moderación",
-              "body": "El adverbio alude al dominio de sí mismo, virtud política que Sicinio niega a Coriolano."
+              "body": "Con templanza o moderación; adverbio que hace explícito el ideal de autocontrol del que Sicinio juzga incapaz a Coriolano. Folger, II.1, 1125–1127.",
+              "gloss": "con moderación"
             },
             {
               "term": "transport his honors",
               "type": "Interpretación",
               "title": "Administrar los honores",
-              "body": "«Transport» sugiere llevar una dignidad dentro de los límites apropiados; la traducción explicita la falta de mesura."
+              "body": "Llevar o administrar sus dignidades sin exceder sus límites. «Transport» admite la imagen de trasladar o sostener una carga; la interpretación política depende de «temp’rately». Folger, II.1, 1125–1127.",
+              "gloss": "administrar sus honores"
             }
           ]
         },
@@ -9149,7 +9167,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "make I as little question",
               "type": "Gramática",
               "title": "Inversión del sujeto",
-              "body": "«Make I» equivale a «I make»; «make little question» significa apenas dudar."
+              "body": "«Dudo tan poco»: inversión del sujeto tras la subordinada «which that he will give them». No se trata de formular una pregunta, sino de no albergar dudas. Folger, II.1, 1129–1135.",
+              "gloss": "no tengo la menor duda"
             }
           ]
         },
@@ -9163,25 +9182,31 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "Were he to stand",
               "type": "Gramática",
               "title": "Condicional sin if",
-              "body": "«Were he to» equivale a «If he were to»: «si llegara a presentarse»."
+              "body": "Si se presentara: inversión condicional sin «if», con «were» antes del sujeto. Folger, II.1, 1136–1137.",
+              "gloss": "si se presentara",
+              "lemma": "be",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/were"
             },
             {
               "term": "napless vesture",
               "type": "Léxico",
               "title": "Vestidura sin pelo",
-              "body": "«Nap» es la pelusa superficial del tejido; «napless» evoca una prenda gastada."
+              "body": "Vestimenta sin pelo o pelusa superficial; «napless» evoca una tela gastada o humilde. El sentido político es la ropa de humildad que se espera del candidato. Folger, II.1, 1138–1139.",
+              "gloss": "vestidura gastada"
             },
             {
               "term": "as the manner is",
               "type": "Contexto",
               "title": "Exhibición de heridas",
-              "body": "La obra presenta la exhibición de heridas como costumbre electoral; no constituye por sí sola prueba histórica independiente."
+              "body": "Según la costumbre descrita por la obra: mostrar las heridas ante el pueblo para solicitar apoyo. No debe inferirse de esta línea que el rito existiera exactamente así en la Roma histórica. Folger, II.1, 1139–1141.",
+              "gloss": "como es costumbre"
             },
             {
               "term": "stinking breaths",
               "type": "Metonimia",
               "title": "Aliento y voto",
-              "body": "El aliento representa la aprobación popular expresada de viva voz; el adjetivo manifiesta desprecio."
+              "body": "Alientos apestosos, metonimia despectiva de las voces o votos de los plebeyos. Bruto refiere lo que Coriolano dijo o juró, por lo que el insulto se atribuye al personaje citado. Folger, II.1, 1140–1141.",
+              "gloss": "votos del pueblo, despectivamente"
             }
           ]
         },
@@ -9202,19 +9227,22 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "miss it",
               "type": "Léxico",
               "title": "miss it",
-              "body": "Aquí significa quedarse sin el consulado."
+              "body": "Quedarse sin el consulado, perder la oportunidad de obtenerlo; no «echarlo de menos». Folger, II.1, 1143–1145.",
+              "gloss": "renunciar al cargo"
             },
             {
               "term": "suit of the gentry",
               "type": "Léxico político",
               "title": "suit of the gentry",
-              "body": "«Suit» es una petición insistente; «gentry» alude a sectores socialmente distinguidos."
+              "body": "Petición o súplica de los caballeros y notables; «suit» aquí no es traje ni pleito judicial. Folger, II.1, 1143–1145.",
+              "gloss": "súplica de los notables"
             },
             {
               "term": "carry it",
               "type": "Léxico",
               "title": "carry it",
-              "body": "Significa conseguir el cargo."
+              "body": "Conseguir o ganar el consulado; el verbo no significa llevarlo físicamente. Folger, II.1, 1143–1145.",
+              "gloss": "obtener el cargo"
             }
           ]
         },
@@ -9228,7 +9256,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "hold that purpose",
               "type": "Sintaxis",
               "title": "hold that purpose",
-              "body": "Mantener el propósito de no solicitar el voto popular."
+              "body": "Mantener la decisión de no solicitar públicamente los votos, cuya puesta en práctica esperan los tribunos. Folger, II.1, 1146–1148.",
+              "gloss": "mantener esa resolución"
             }
           ]
         },
@@ -9242,7 +9271,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "most like",
               "type": "Léxico histórico",
               "title": "most like",
-              "body": "Equivale a «most likely»: muy probable."
+              "body": "Muy probable; «like» tiene aquí el valor adjetival de «likely». Folger, II.1, 1149.",
+              "gloss": "muy probablemente"
             }
           ]
         },
@@ -9256,7 +9286,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "as our good wills",
               "type": "Sintaxis",
               "title": "as our good wills",
-              "body": "Construcción elíptica: conforme a lo que desean los tribunos."
+              "body": "Conforme a nuestros deseos; la sintaxis es condensada y el plural «wills» remite a la voluntad de los tribunos. Folger, II.1, 1150–1151.",
+              "gloss": "como deseamos"
             },
             {
               "term": "A sure destruction",
