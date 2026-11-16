@@ -14889,8 +14889,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "Sometime in Greece",
               "title": "Sometime in Greece",
               "type": "Nota filológica",
-              "gloss": "antaño en Grecia",
-              "body": "Sometime tiene aquí valor temporal de «en otro tiempo», no el moderno «alguna vez» indeterminado. La referencia a prácticas democráticas griegas forma parte de la argumentación del personaje, que Shakespeare reelabora a partir de Plutarco, Vida de Coriolano 16. Fuentes: Folger Shakespeare Library, Coriolanus III.1 (líneas 1814–1822), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; Plutarco, Vida de Coriolano 16, https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Coriolanus%2A.html; Thomas North, traducción de Plutarco (1579), reproducida en The Temple Plutarch, https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/1805/0988-03_Bk.pdf.",
+              "gloss": "en otro tiempo, en Grecia",
+              "body": "Sometime es adverbio temporal histórico ('antaño'). Coriolano invoca un precedente griego sin precisar ciudad, ley ni fecha; no conviene convertir esa generalización retórica en una práctica histórica universal. Fuentes: Folger Shakespeare Library, Coriolanus, III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale, 1924), III.1, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III.",
               "lemma": "sometime",
               "lemmaUrl": "https://en.wiktionary.org/wiki/sometime"
             }
@@ -14929,7 +14929,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "nourished disobedience",
               "type": "Nota filológica",
               "gloss": "alimentaban la desobediencia",
-              "body": "La duplicación «nourished / fed» convierte el reparto de alimento en una metáfora de la nutrición de la sedición. Plutarco 16 presenta la misma acusación como discurso de Marcio, no como valoración histórica independiente. Fuentes: Folger Shakespeare Library, Coriolanus III.1 (líneas 1814–1822), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; Plutarco, Vida de Coriolano 16, https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Coriolanus%2A.html; Thomas North, traducción de Plutarco (1579), reproducida en The Temple Plutarch, https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/1805/0988-03_Bk.pdf.",
+              "body": "Nourished y fed reiteran el campo semántico de la alimentación: la distribución de grano se convierte en metáfora de nutrición de la ruina política. Es la tesis polémica de Coriolano, no un juicio del editor. Fuentes: Folger Shakespeare Library, Coriolanus, III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale, 1924), III.1, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III.",
               "lemma": "nourish",
               "lemmaUrl": "https://en.wiktionary.org/wiki/nourish"
             }
@@ -14971,8 +14971,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "More worthier",
               "title": "More worthier",
               "type": "Nota filológica",
-              "gloss": "más valiosas; de mayor peso",
-              "body": "Doble comparativo característico de usos del inglés temprano moderno. Coriolano opone sus razones al voto popular, no a la voz física. Fuentes: Folger Shakespeare Library, Coriolanus III.1, líneas 1823–1845, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; Henry Norman Hudson (ed.), Shakespeare’s Tragedy of Coriolanus, notas a III.1, https://upload.wikimedia.org/wikipedia/commons/2/28/Shakespeare%27s_tragedy_of_Coriolanus_%28IA_shakespearestrag03shakesp%29.pdf.",
+              "gloss": "de mayor valor; más dignas",
+              "body": "Comparativo doble (more + worthier), admisible en la variación histórica del inglés de Shakespeare; el sintagma contrapone la argumentación de Coriolano al voto colectivo. No debe corregirse como si fuera un error moderno. Fuentes: Folger Shakespeare Library, Coriolanus, III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale, 1924), III.1, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III.",
               "lemma": "worthy",
               "lemmaUrl": "https://en.wiktionary.org/wiki/worthy"
             },
@@ -15004,21 +15004,21 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "the native",
               "type": "Nota filológica",
               "gloss": "el origen; la causa",
-              "body": "Native funciona como sustantivo de origen o fuente; la acusación popular no habría motivado la distribución. La edición Folger lee native, frente a motive en algunas transcripciones posteriores. Fuentes: Folger Shakespeare Library, Coriolanus III.1, líneas 1823–1845, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; Henry Norman Hudson (ed.), Shakespeare’s Tragedy of Coriolanus, notas a III.1, https://upload.wikimedia.org/wikipedia/commons/2/28/Shakespeare%27s_tragedy_of_Coriolanus_%28IA_shakespearestrag03shakesp%29.pdf."
+              "body": "La lectura native de Folger conserva una formulación poco habitual: 'ser el origen' de la concesión. Brooke imprime motive en su texto de III.1, una lectura editorial distinta; no deben confundirse ambas lecciones ni presentar motive como palabra del texto Folger. Fuentes: Folger Shakespeare Library, Coriolanus, III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale, 1924), III.1, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III."
             },
             {
               "term": "bosom multiplied",
               "title": "bosom multiplied",
               "type": "Nota filológica",
-              "gloss": "multitud de innumerables pechos o bocas",
-              "body": "Imagen colectiva de una multitud multiplicada; Folger lee bosom multiplied. Otras ediciones transmiten bisson multitude: no son expresiones intercambiables y la traducción sigue Folger. Fuentes: Folger Shakespeare Library, Coriolanus III.1, líneas 1823–1845, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; Henry Norman Hudson (ed.), Shakespeare’s Tragedy of Coriolanus, notas a III.1, https://upload.wikimedia.org/wikipedia/commons/2/28/Shakespeare%27s_tragedy_of_Coriolanus_%28IA_shakespearestrag03shakesp%29.pdf."
+              "gloss": "pecho colectivo multiplicado; multitud",
+              "body": "Folger conserva bosom multiplied, metáfora corporal que enlaza con digest; la edición Yale de Brooke imprime bisson multitude. La variante cambia el léxico y el grado de concreción de la imagen, no solo su ortografía. Fuentes: Folger Shakespeare Library, Coriolanus, III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale, 1924), III.1, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III."
             },
             {
               "term": "greater poll",
               "title": "greater poll",
               "type": "Nota filológica",
-              "gloss": "la mayoría numérica",
-              "body": "Poll alude al recuento por cabezas, no a una encuesta moderna. Hudson explica el valor cuantitativo del término. Fuentes: Folger Shakespeare Library, Coriolanus III.1, líneas 1823–1845, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; Henry Norman Hudson (ed.), Shakespeare’s Tragedy of Coriolanus, notas a III.1, https://upload.wikimedia.org/wikipedia/commons/2/28/Shakespeare%27s_tragedy_of_Coriolanus_%28IA_shakespearestrag03shakesp%29.pdf.",
+              "gloss": "mayoría por número de personas",
+              "body": "Poll remite al recuento por cabezas: Coriolano imagina al pueblo justificando sus exigencias por superioridad numérica. El discurso atribuido a la multitud es una anticipación hostil del protagonista, no una cita documental. Fuentes: Folger Shakespeare Library, Coriolanus, III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale, 1924), III.1, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III.",
               "lemma": "poll",
               "lemmaUrl": "https://en.wiktionary.org/wiki/poll"
             },
@@ -15034,7 +15034,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "crows to peck the eagles",
               "type": "Nota filológica",
               "gloss": "cuervos que picotean a las águilas",
-              "body": "El cierre transforma la amenaza institucional en una inversión de jerarquías animales: las aves menores atacan al emblema de superioridad romana. Fuentes: Folger Shakespeare Library, Coriolanus III.1, líneas 1823–1845, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; Henry Norman Hudson (ed.), Shakespeare’s Tragedy of Coriolanus, notas a III.1, https://upload.wikimedia.org/wikipedia/commons/2/28/Shakespeare%27s_tragedy_of_Coriolanus_%28IA_shakespearestrag03shakesp%29.pdf."
+              "body": "La oposición de aves representa, en la retórica jerárquica del personaje, la irrupción de la plebe en el espacio senatorial. La inversión animaliza a ambos grupos y dramatiza una amenaza futura; no describe un acontecimiento consumado. Fuentes: Folger Shakespeare Library, Coriolanus, III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale, 1924), III.1, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III."
             }
           ]
         },
@@ -15070,8 +15070,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "double worship",
               "title": "double worship",
               "type": "Nota filológica",
-              "gloss": "doble autoridad",
-              "body": "Worship significa dignidad o autoridad reconocida; «doble autoridad» es una interpretación contextual. Fuente: Folger Shakespeare Library, Coriolanus III.1, líneas 1846–1871, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/",
+              "gloss": "doble autoridad; dos dignidades enfrentadas",
+              "body": "Worship aquí se relaciona con honor y rango institucional, no con adoración religiosa. Coriolano condena la coexistencia de autoridades aristocráticas y populares: la glosa es una interpretación del contexto político, no un significado exclusivo del sustantivo. Fuentes: Folger Shakespeare Library, Coriolanus, III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale, 1924), III.1, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III.",
               "lemma": "worship",
               "lemmaUrl": "https://en.wiktionary.org/wiki/worship"
             },
@@ -15086,8 +15086,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "yea and no",
               "title": "yea and no",
               "type": "Nota filológica",
-              "gloss": "sí y no; voto",
-              "body": "La fórmula binaria representa la aprobación o rechazo popular. Fuente: Folger Shakespeare Library, Coriolanus III.1, líneas 1846–1871, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/",
+              "gloss": "sí o no; aprobación o rechazo",
+              "body": "El binomio presenta las decisiones de la autoridad como sometidas al asentimiento popular. El desprecio por general ignorance pertenece a la perspectiva de Coriolano, no a una caracterización neutral del electorado. Fuentes: Folger Shakespeare Library, Coriolanus, III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale, 1924), III.1, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III.",
               "lemma": "yea",
               "lemmaUrl": "https://en.wiktionary.org/wiki/yea"
             },
@@ -15111,8 +15111,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "jump a body",
               "title": "jump a body",
               "type": "Nota filológica",
-              "gloss": "arriesgar el cuerpo",
-              "body": "Jump significa aquí arriesgar, no saltar físicamente. Fuente: Folger Shakespeare Library, Coriolanus III.1, líneas 1846–1871, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/",
+              "gloss": "arriesgar el cuerpo; jugarse la vida",
+              "body": "Jump funciona con valor de 'arriesgar' en esta construcción. La metáfora médica justifica una intervención política peligrosa como remedio extremo ante una muerte supuestamente segura; la necesidad de esa cura es una afirmación del personaje. Fuentes: Folger Shakespeare Library, Coriolanus, III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale, 1924), III.1, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III.",
               "lemma": "jump",
               "lemmaUrl": "https://en.wiktionary.org/wiki/jump"
             },
@@ -15120,8 +15120,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "dangerous physic",
               "title": "dangerous physic",
               "type": "Nota filológica",
-              "gloss": "tratamiento peligroso",
-              "body": "Physic designa una medicina o tratamiento; metáfora de reforma política de alto riesgo. Fuente: Folger Shakespeare Library, Coriolanus III.1, líneas 1846–1871, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/",
+              "gloss": "medicina arriesgada; tratamiento peligroso",
+              "body": "Physic es remedio o tratamiento medicinal. Coriolano propone una cura política que él considera imprescindible pese al riesgo; la metáfora médica enlaza enfermedad, diagnóstico y violencia correctiva. Fuentes: Folger Shakespeare Library, Coriolanus, III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale, 1924), III.1, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III.",
               "lemma": "physic",
               "lemmaUrl": "https://en.wiktionary.org/wiki/physic"
             },
@@ -15129,8 +15129,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "multitudinous tongue",
               "title": "multitudinous tongue",
               "type": "Nota filológica",
-              "gloss": "voz de la multitud",
-              "body": "La lengua representa el voto popular; arrancarla implica suprimirlo. Sobre la violencia como estrategia retórica, véase Apostolos N. Stavelas, «The Aesthetics of Violence in the Case of Gaius Martius Coriolanus», Peitho 7.1 (2016), 265–272, https://doi.org/10.14746/pea.2016.1.14. Fuente: Folger Shakespeare Library, Coriolanus III.1, líneas 1846–1871, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/"
+              "gloss": "lengua colectiva; voz política del pueblo",
+              "body": "La orden de arrancar la lengua de la multitud expresa la voluntad de privarla de voz política. Es una imagen violenta de supresión de participación, no una instrucción literal de mutilación. Fuentes: Folger Shakespeare Library, Coriolanus, III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale, 1924), III.1, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III."
             },
             {
               "term": "integrity",
