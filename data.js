@@ -12665,7 +12665,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "As you were lessoned",
               "type": "Nota filológica",
               "gloss": "como se les había enseñado",
-              "body": "La pasiva remite a instrucciones previas de los tribunos: Bruto propone una respuesta preparada. Fuentes: Folger II.3 https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; cotejo Shakespeare Online https://www.shakespeare-online.com/plays/corio_2_3.html.",
+              "body": "Bruto alude a instrucciones electorales impartidas antes de la reunión: «lessoned» equivale a «instructed» (Brooke, Yale 1924, II.3, verso local 185). La acusación revela un guion político previo, no una respuesta improvisada. Fuentes: Folger Shakespeare Library, Coriolanus II.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; C. F. Tucker Brooke (ed.), Coriolanus (Yale, 1924), https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_II.",
               "lemma": "lesson",
               "lemmaUrl": "https://en.wiktionary.org/wiki/lesson"
             },
@@ -12690,14 +12690,14 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "charters",
               "type": "Nota filológica",
               "gloss": "derechos reconocidos",
-              "body": "Vocabulario jurídico-político inglés trasladado a la Roma dramática, sin implicar documentos romanos idénticos. Fuentes: Folger II.3 https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; cotejo Shakespeare Online https://www.shakespeare-online.com/plays/corio_2_3.html."
+              "body": "Derechos o privilegios cívicos (Brooke, Yale 1924, II.3, verso local 188: «privileges»). La palabra evoca las cartas de derechos inglesas, pero no demuestra que los plebeyos de la Roma histórica tuvieran documentos equivalentes. Fuentes: Folger Shakespeare Library, Coriolanus II.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; C. F. Tucker Brooke (ed.), Coriolanus (Yale, 1924), https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_II."
             },
             {
               "term": "body of the weal",
               "title": "body of the weal",
               "type": "Nota filológica",
               "gloss": "cuerpo de la comunidad política",
-              "body": "«Weal» remite al bienestar colectivo; la imagen corporal recuerda la fábula del vientre de I.1. Fuentes: Folger II.3 https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; cotejo Shakespeare Online https://www.shakespeare-online.com/plays/corio_2_3.html.",
+              "body": "«Weal» designa la comunidad política («commonwealth», Brooke, Yale 1924, II.3, verso local 189). El cuerpo político remite, como lectura interna posible, a la fábula del vientre de I.1. Fuentes: Folger Shakespeare Library, Coriolanus II.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; C. F. Tucker Brooke (ed.), Coriolanus (Yale, 1924), https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_II.",
               "lemma": "weal",
               "lemmaUrl": "https://en.wiktionary.org/wiki/weal"
             },
@@ -12783,7 +12783,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "As cause had called you up",
               "type": "Nota filológica",
               "gloss": "cuando hubiera motivo para reclamarla",
-              "body": "Prevé una ocasión futura para exigir responsabilidades. Fuentes: Folger II.3 https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; Shakespeare Online II.3 https://www.shakespeare-online.com/plays/corio_2_3.html."
+              "body": "La construcción prevé que los ciudadanos podrían exigir la promesa en una ocasión futura. «Called you up» significa «los hubiera convocado» (Brooke, Yale 1924, II.3, verso local 202), no ascenderlos. Fuentes: Folger Shakespeare Library, Coriolanus II.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; C. F. Tucker Brooke (ed.), Coriolanus (Yale, 1924), https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_II."
             },
             {
               "term": "galled",
@@ -12799,7 +12799,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "article",
               "type": "Nota filológica",
               "gloss": "cláusula o condición",
-              "body": "Estipulación que limitaría su conducta. Fuentes: Folger II.3 https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; Shakespeare Online II.3 https://www.shakespeare-online.com/plays/corio_2_3.html.",
+              "body": "Condición o cláusula que obligaría al candidato (Brooke, Yale 1924, II.3, verso local 204: «condition»). Sicinio calcula dos salidas: promesa exigible o cólera que permita bloquear la elección. Fuentes: Folger Shakespeare Library, Coriolanus II.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; C. F. Tucker Brooke (ed.), Coriolanus (Yale, 1924), https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_II.",
               "lemma": "article",
               "lemmaUrl": "https://en.wiktionary.org/wiki/article"
             },
@@ -12880,7 +12880,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "rectorship of judgment",
               "type": "Nota filológica",
               "gloss": "gobierno del buen juicio",
-              "body": "«Rectorship» indica dirección o autoridad. Fuentes: Folger II.3 https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; Shakespeare Online II.3 https://www.shakespeare-online.com/plays/corio_2_3.html.",
+              "body": "«Rectorship» es el poder rector del juicio (Brooke, Yale 1924, II.3, verso local 213: «guiding power»). Bruto acusa retóricamente a los votantes de haber usado sus voces contra la razón. Fuentes: Folger Shakespeare Library, Coriolanus II.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; C. F. Tucker Brooke (ed.), Coriolanus (Yale, 1924), https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_II.",
               "lemma": "rectorship",
               "lemmaUrl": "https://en.wiktionary.org/wiki/rectorship"
             }
@@ -12973,7 +12973,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "to piece ’em",
               "type": "Nota filológica",
               "gloss": "para sumarlos",
-              "body": "«Piece» es verbo: añadir personas a los grupos mencionados. Fuente primaria: Folger II.3 https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/.",
+              "body": "«Piece» significa reforzar o completar el grupo (Brooke, Yale 1924, II.3, verso local 220: «reinforce»). Los amigos aumentarían el número de voces, no repararían algo roto. Fuentes: Folger Shakespeare Library, Coriolanus II.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; C. F. Tucker Brooke (ed.), Coriolanus (Yale, 1924), https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_II.",
               "lemma": "piece",
               "lemmaUrl": "https://en.wiktionary.org/wiki/piece"
             }
@@ -12990,7 +12990,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "have chose",
               "type": "Nota filológica",
               "gloss": "han elegido",
-              "body": "Participio «chose» en lugar del actual «chosen». Fuente primaria: Folger II.3 https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/.",
+              "body": "«Chose» se usa como participio tras «have», donde hoy predominaría «chosen»; no es un presente. Cotejo: Folger II.3, línea 1611; Brooke, Yale 1924, verso local 221. Fuentes: Folger Shakespeare Library, Coriolanus II.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; C. F. Tucker Brooke (ed.), Coriolanus (Yale, 1924), https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_II.",
               "lemma": "choose",
               "lemmaUrl": "https://en.wiktionary.org/wiki/choose"
             },
@@ -12999,7 +12999,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "no more voice",
               "type": "Nota filológica",
               "gloss": "sin más voz política",
-              "body": "El tribuno pasa del voto a la capacidad de expresarse: «voice» conserva ambos sentidos. Véase SparkNotes, «The Ambiguous Power of Speech», https://www.sparknotes.com/shakespeare/coriolanus/quotes/theme/speech/. Fuente primaria: Folger II.3 https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/."
+              "body": "«Voice» es voto y capacidad de expresión política. La comparación con perros castigados por ladrar presenta la pérdida de voz como amenaza futura de Bruto, no como un hecho ya realizado. Fuentes: Folger Shakespeare Library, Coriolanus II.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; C. F. Tucker Brooke (ed.), Coriolanus (Yale, 1924), https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_II."
             },
             {
               "term": "therefor",
