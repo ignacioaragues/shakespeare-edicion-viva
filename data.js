@@ -7017,7 +7017,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "the devil",
               "type": "Comparación",
               "title": "El diablo",
-              "body": "El soldado atribuye a Marcio una fuerza casi sobrenatural; Aufidio matiza la comparación."
+              "body": "El soldado caracteriza a Marcio como adversario casi sobrehumano; Aufidio replica que su arrojo supera al diablo, pero no su astucia. Fuente textual: Folger Shakespeare Library, Coriolanus 1.10, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/10/.",
+              "gloss": "el diablo"
             }
           ]
         },
@@ -7030,68 +7031,81 @@ window.SHAKESPEARE_READER_DATA = {
             {
               "term": "Bolder, though not so subtle",
               "title": "Audacia y astucia",
-              "body": "Aufidio distingue la osadía de Marcio de la sutileza diabólica.",
-              "type": "Nota filológica"
+              "body": "El comparativo elide «than the devil»; Aufidio distingue valentía física de sutileza estratégica. Fuente textual: Folger Shakespeare Library, Coriolanus 1.10, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/10/.",
+              "type": "Nota filológica",
+              "gloss": "más audaz, aunque menos astuto"
             },
             {
               "term": "suff’ring stain",
               "title": "Deshonra soportada",
-              "body": "Suff’ring significa soportar; stain es una mancha en el honor.",
-              "type": "Nota filológica"
+              "body": "Suff’ring es participio de suffer, aquí «padecer»; stain designa la mancha de las derrotas ante Marcio. Fuente textual: Folger Shakespeare Library, Coriolanus 1.10, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/10/.",
+              "type": "Nota filológica",
+              "gloss": "soportar la deshonra",
+              "lemma": "suffer",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/suffer"
             },
             {
               "term": "Shall fly out of itself",
               "title": "Valor sin límites",
-              "body": "El sujeto es valor: Aufidio promete abandonar sus restricciones anteriores.",
-              "type": "Nota filológica"
+              "body": "El sujeto elíptico es «my valor»; la humillación amenaza con convertir la valentía en violencia sin regla. Fuente textual: Folger Shakespeare Library, Coriolanus 1.10, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/10/.",
+              "type": "Nota filológica",
+              "gloss": "se desbordará de sus límites"
             },
             {
               "term": "sanctuary",
               "title": "Derecho de asilo",
-              "body": "Protección sagrada que Aufidio declara dispuesto a violar.",
-              "type": "Nota filológica"
+              "body": "La protección religiosa que Aufidio promete no respetar; integra una enumeración de inmunidades tradicionales. Fuente textual: Folger Shakespeare Library, Coriolanus 1.10, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/10/.",
+              "type": "Nota filológica",
+              "gloss": "asilo sagrado"
             },
             {
               "term": "fane",
               "title": "Templo",
-              "body": "Voz poética para templo o santuario.",
-              "type": "Nota filológica"
+              "body": "Forma poética de santuario o templo; el paralelismo con Capitol amplía los espacios inviolables. Fuente textual: Folger Shakespeare Library, Coriolanus 1.10, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/10/.",
+              "type": "Nota filológica",
+              "gloss": "templo"
             },
             {
               "term": "Embarquements all of fury",
               "title": "Barreras a la furia",
-              "body": "Embarquements designa aquí impedimentos o contenciones, no embarcaciones.",
-              "type": "Nota filológica"
+              "body": "Embarquements es una forma difícil: obstáculos o barreras que contienen la violencia; no significa aquí embarcaciones. La sintaxis de la enumeración admite discusión. Fuente textual: Folger Shakespeare Library, Coriolanus 1.10, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/10/.",
+              "type": "Nota filológica",
+              "gloss": "barreras contra la furia"
             },
             {
               "term": "rotten privilege and custom",
               "title": "Salvaguardias despreciadas",
-              "body": "El calificativo expresa el juicio de Aufidio, no el del editor.",
-              "type": "Nota filológica"
+              "body": "Aufidio descalifica como «podridas» las protecciones legales, religiosas y sociales que impedirían su venganza. Fuente textual: Folger Shakespeare Library, Coriolanus 1.10, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/10/.",
+              "type": "Nota filológica",
+              "gloss": "privilegios y costumbres caducos"
             },
             {
               "term": "upon my brother’s guard",
               "title": "Protección familiar",
-              "body": "Ni siquiera el amparo de su propio hermano detendría a Aufidio.",
-              "type": "Nota filológica"
+              "body": "Guard indica custodia o amparo; la hipótesis extrema intensifica la ruptura de los deberes familiares. Fuente textual: Folger Shakespeare Library, Coriolanus 1.10, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/10/.",
+              "type": "Nota filológica",
+              "gloss": "bajo la protección de mi hermano"
             },
             {
               "term": "hospitable canon",
               "title": "Norma de hospitalidad",
-              "body": "Canon es una regla; aquí, el deber de respetar al huésped.",
-              "type": "Nota filológica"
+              "body": "Canon significa norma o precepto; la hospitalidad obliga a proteger al huésped, precisamente lo que Aufidio dice que quebrantaría. Fuente textual: Folger Shakespeare Library, Coriolanus 1.10, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/10/.",
+              "type": "Nota filológica",
+              "gloss": "ley de hospitalidad"
             },
             {
               "term": "in ’s heart",
               "title": "Contracción posesiva",
-              "body": "In ’s equivale a in his, «en su corazón».",
-              "type": "Nota filológica"
+              "body": "’s sustituye a his; la imagen del lavado de la mano en el corazón expresa una violencia vengativa extrema. Fuente textual: Folger Shakespeare Library, Coriolanus 1.10, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/10/.",
+              "type": "Nota filológica",
+              "gloss": "en su corazón"
             },
             {
               "term": "hostages for Rome",
               "title": "Rehenes",
-              "body": "Personas retenidas como garantía de los acuerdos con Roma.",
-              "type": "Nota filológica"
+              "body": "Los rehenes serían garantía del acuerdo tras la rendición; no se trata de cautivos capturados al azar. Fuente textual: Folger Shakespeare Library, Coriolanus 1.10, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/10/.",
+              "type": "Nota filológica",
+              "gloss": "rehenes entregados a Roma"
             }
           ]
         },
@@ -7105,7 +7119,10 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "Will not you",
               "type": "Sintaxis histórica",
               "title": "Interrogación negativa",
-              "body": "El orden will not you, menos habitual en inglés actual que won't you, formula una pregunta directa sobre la partida de Aufidio; no expresa necesariamente una invitación."
+              "body": "Interrogativa negativa con orden modal–negación–sujeto frecuente en inglés moderno temprano. Fuente textual: Folger Shakespeare Library, Coriolanus 1.10, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/10/.",
+              "gloss": "¿no vas a ir?",
+              "lemma": "will",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/will"
             }
           ]
         },
@@ -7119,31 +7136,38 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "I am attended",
               "type": "Sintaxis y léxico",
               "title": "Me esperan",
-              "body": "La pasiva attended expresa aquí que hay personas aguardando a Aufidio en un lugar convenido; no que lo estén acompañando en este momento."
+              "body": "Construcción pasiva: alguien aguarda a Aufidio en el lugar indicado; no significa que él esté siendo acompañado en ese momento. Fuente textual: Folger Shakespeare Library, Coriolanus 1.10, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/10/.",
+              "gloss": "me esperan",
+              "lemma": "attend",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/attend"
             },
             {
               "term": "cypress grove",
               "type": "Espacio escénico",
               "title": "Bosquecillo de cipreses",
-              "body": "El ciprés puede evocar asociaciones funerarias, pero aquí funciona explícitamente como referencia geográfica. Cualquier resonancia simbólica es interpretativa."
+              "body": "Los cipreses pueden evocar luto, pero aquí designan ante todo un punto de encuentro reconocible; cualquier simbolismo adicional es interpretativo. Fuente textual: Folger Shakespeare Library, Coriolanus 1.10, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/10/.",
+              "gloss": "bosquecillo de cipreses"
             },
             {
               "term": "south the city mills",
               "type": "Sintaxis histórica",
               "title": "Al sur de los molinos",
-              "body": "South funciona como indicación de posición relativa, sin la preposición of que se esperaría en el inglés contemporáneo."
+              "body": "Se sobreentiende of después de south; referencia topográfica para localizar el encuentro. Fuente textual: Folger Shakespeare Library, Coriolanus 1.10, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/10/.",
+              "gloss": "al sur de los molinos de la ciudad"
             },
             {
               "term": "How the world goes",
               "type": "Modismo",
               "title": "Cómo marchan las cosas",
-              "body": "World designa aquí la situación o el curso de los acontecimientos, especialmente los resultados de la ocupación y las negociaciones."
+              "body": "Expresión idiomática: Aufidio pide noticias de la situación militar y política. Fuente textual: Folger Shakespeare Library, Coriolanus 1.10, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/10/.",
+              "gloss": "cómo marchan las cosas"
             },
             {
               "term": "to the pace of it",
               "type": "Imagen ecuestre",
               "title": "Al ritmo de los acontecimientos",
-              "body": "La imagen de spur on («espolear») prolonga pace: Aufidio adaptará la velocidad de su desplazamiento a las noticias recibidas."
+              "body": "La metáfora ecuestre continúa en spur: ajustar el viaje a la velocidad de las noticias. Fuente textual: Folger Shakespeare Library, Coriolanus 1.10, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/10/.",
+              "gloss": "al ritmo de los acontecimientos"
             }
           ]
         },
@@ -7157,7 +7181,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "I shall",
               "type": "Elipsis",
               "title": "Respuesta con auxiliar",
-              "body": "Shall recupera la acción solicitada en el parlamento anterior: llevar noticias al lugar indicado."
+              "body": "Shall expresa compromiso de cumplir la orden, no solo predicción futura. Fuente textual: Folger Shakespeare Library, Coriolanus 1.10, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/10/.",
+              "gloss": "lo haré"
             }
           ],
           "stageAfter": "Salen por puertas distintas: Aufidio por una y los soldados por otra."
@@ -7279,7 +7304,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "augurer",
               "type": "Contexto romano",
               "title": "El augur",
-              "body": "En Roma, los augures interpretaban signos para orientar decisiones públicas. La intervención introduce un pronóstico, no una noticia confirmada."
+              "body": "Sacerdote o adivino que interpreta señales; Menenio invoca un pronóstico antes de recibir noticias de la campaña. Fuente textual: Folger Shakespeare Library, Coriolanus 2.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/1/.",
+              "gloss": "augur"
             }
           ]
         },
@@ -7300,7 +7326,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "Not according to the prayer",
               "type": "Sintaxis e ironía",
               "title": "Deseos contrariados",
-              "body": "La negación responde a la pregunta anterior: las noticias no coincidirán con lo que el pueblo pide o espera. Menenio anticipa un resultado favorable a Marcio."
+              "body": "Menenio anticipa que las noticias serán favorables a Marcio, contrario a los deseos que atribuye a sus adversarios. Fuente textual: Folger Shakespeare Library, Coriolanus 2.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/1/.",
+              "gloss": "no como desea el pueblo"
             }
           ]
         },
@@ -7314,7 +7341,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "beasts",
               "type": "Retórica",
               "title": "Animalización polémica",
-              "body": "Sicinio presenta el rechazo popular de Marcio como una reacción natural de autoprotección; «bestias» permite la réplica irónica de Menenio."
+              "body": "Sicinio apela a una máxima sobre instinto y amistad, que Menenio subvierte con el lobo y el cordero. Fuente textual: Folger Shakespeare Library, Coriolanus 2.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/1/.",
+              "gloss": "animales"
             }
           ]
         },
@@ -7328,7 +7356,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "Pray you",
               "type": "Pragmática histórica",
               "title": "Fórmula de interlocución",
-              "body": "Pray you equivale a «te ruego» o «dime» y puede introducir una pregunta incisiva sin implicar una súplica literal."
+              "body": "Fórmula conversacional de insistencia, no una invitación a rezar. Fuente textual: Folger Shakespeare Library, Coriolanus 2.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/1/.",
+              "gloss": "dime, por favor"
             }
           ]
         },
@@ -7349,13 +7378,15 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "to devour him",
               "type": "Retórica",
               "title": "El doble sentido de «amar»",
-              "body": "Menenio subvierte el verbo love: el lobo «ama» al cordero como presa. La analogía representa a los plebeyos como depredadores de Marcio."
+              "body": "El aparente amor del lobo al cordero es apetito depredador; Menenio lo aplica polémicamente a los plebeyos. Fuente textual: Folger Shakespeare Library, Coriolanus 2.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/1/.",
+              "gloss": "para devorarlo"
             },
             {
               "term": "would the noble Martius",
               "type": "Sintaxis histórica",
               "title": "Elipsis del verbo",
-              "body": "Tras would se sobreentiende devour; la construcción evita repetir el verbo en el segundo término de la comparación."
+              "body": "Elipsis del verbo devour tras would: la comparación con el lobo implica violencia figurada de los ciudadanos. Fuente textual: Folger Shakespeare Library, Coriolanus 2.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/1/.",
+              "gloss": "querrían devorar al noble Marcio"
             }
           ]
         },
@@ -7369,7 +7400,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "baas like a bear",
               "type": "Ironía y sonido",
               "title": "Una imagen deliberadamente incongruente",
-              "body": "Bruto mezcla el balido del cordero con el oso para ridiculizar la supuesta mansedumbre de Marcio."
+              "body": "Mezcla deliberadamente sonidos de animales incompatibles para ridiculizar la mansedumbre atribuida a Marcio. Fuente textual: Folger Shakespeare Library, Coriolanus 2.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/1/.",
+              "gloss": "bala como un oso"
             }
           ]
         },
@@ -7383,7 +7415,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "lives like a lamb",
               "type": "Antítesis",
               "title": "Conducta frente a apariencia",
-              "body": "Menenio devuelve la imagen animal: aunque Marcio parezca feroz, su vida sería, según Menenio, inocente. Es una valoración del personaje, no una constatación editorial."
+              "body": "Menenio invierte el símil anterior: la ferocidad aparente de Marcio no excluye, según él, una conducta inocente. Fuente textual: Folger Shakespeare Library, Coriolanus 2.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/1/.",
+              "gloss": "vive como un cordero"
             }
           ]
         },
@@ -7404,13 +7437,15 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "enormity",
               "type": "Léxico histórico",
               "title": "Falta grave",
-              "body": "Enormity puede designar una falta o desviación moral, no necesariamente un acto de magnitud extraordinaria."
+              "body": "Enormity significa desviación grave o vicio, no simplemente tamaño extraordinario. Fuente textual: Folger Shakespeare Library, Coriolanus 2.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/1/.",
+              "gloss": "falta monstruosa"
             },
             {
               "term": "poor in",
               "type": "Sintaxis",
               "title": "Pobreza figurada",
-              "body": "La construcción enfrenta «ser pobre en» defectos con «tenerlos en abundancia», invirtiendo la acusación de los tribunos."
+              "body": "La pregunta irónica presenta los defectos como bienes contables; la réplica enumera todos los vicios. Fuente textual: Folger Shakespeare Library, Coriolanus 2.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/1/.",
+              "gloss": "escaso de"
             }
           ]
         },
@@ -7424,7 +7459,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "stored with all",
               "type": "Léxico",
               "title": "Provisto de todos",
-              "body": "Stored with significa «abastecido de»; Bruto rechaza la premisa irónica de Menenio y exagera la acumulación de vicios."
+              "body": "Metáfora de acumulación: Bruto sostiene que Marcio posee todos los defectos. Fuente textual: Folger Shakespeare Library, Coriolanus 2.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/1/.",
+              "gloss": "colmado de todos"
             }
           ]
         },
@@ -7438,7 +7474,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "pride",
               "type": "Léxico moral",
               "title": "Soberbia",
-              "body": "Pride en esta disputa es un vicio político y personal atribuido a Marcio; la traducción «soberbia» conserva el sentido acusatorio."
+              "body": "Acusación política central de los tribunos contra Marcio. Fuente textual: Folger Shakespeare Library, Coriolanus 2.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/1/.",
+              "gloss": "soberbia"
             }
           ]
         },
@@ -7452,7 +7489,10 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "topping all others",
               "type": "Léxico y retórica",
               "title": "Superar a todos",
-              "body": "To top significa «sobrepasar»; Bruto completa el catálogo de vicios con una acusación de jactancia."
+              "body": "Topping es participio de top: destacar por encima, aquí en fanfarronería. Fuente textual: Folger Shakespeare Library, Coriolanus 2.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/1/.",
+              "gloss": "superando a todos los demás",
+              "lemma": "top",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/top"
             }
           ]
         },
@@ -7466,13 +7506,15 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "censured",
               "type": "Léxico histórico",
               "title": "Juicio público",
-              "body": "Aquí «censured» significa «juzgados» o «evaluados», sin implicar necesariamente una sanción."
+              "body": "Censure conserva el sentido de evaluar y reprobar; Menenio alude a la reputación de los tribunos. Fuente textual: Folger Shakespeare Library, Coriolanus 2.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/1/.",
+              "gloss": "juzgados / criticados"
             },
             {
               "term": "right-hand file",
               "type": "Metáfora social y militar",
               "title": "Las filas de la derecha",
-              "body": "«File» puede designar una hilera de soldados. Menenio se identifica figuradamente con un sector distinguido o favorable a los patricios; la expresión no nombra un partido político moderno."
+              "body": "Imagen militar de una fila privilegiada; Menenio se incluye irónicamente entre quienes juzgan a los tribunos. Fuente textual: Folger Shakespeare Library, Coriolanus 2.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/1/.",
+              "gloss": "fila de los de mayor rango"
             }
           ]
         },
@@ -7493,7 +7535,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "Because",
               "type": "Sintaxis discursiva",
               "title": "Porque / ya que",
-              "body": "Introduce la razón por la que Menenio se dispone a hablar de la reputación de los tribunos, no una respuesta directa a «cómo»."
+              "body": "Conector que introduce el tema de la soberbia antes de la pregunta sobre si se enojarán. Fuente textual: Folger Shakespeare Library, Coriolanus 2.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/1/.",
+              "gloss": "puesto que"
             }
           ]
         },
@@ -7514,19 +7557,22 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "thief of occasion",
               "type": "Metáfora",
               "title": "La ocasión como ladrón",
-              "body": "Personificación de un pretexto mínimo que arrebata a los tribunos su paciencia."
+              "body": "Personificación de una provocación mínima que puede robarles mucha paciencia. Fuente textual: Folger Shakespeare Library, Coriolanus 2.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/1/.",
+              "gloss": "pequeña ocasión ladrona"
             },
             {
               "term": "Give your dispositions the reins",
               "type": "Metáfora ecuestre",
               "title": "Soltar las riendas",
-              "body": "Imagen de dejar libre el temperamento, en vez de contenerlo."
+              "body": "Metáfora ecuestre: permitir que la irritación gobierne, en tono irónico. Fuente textual: Folger Shakespeare Library, Coriolanus 2.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/1/.",
+              "gloss": "den rienda suelta a su temperamento"
             },
             {
               "term": "at your pleasures",
               "type": "Léxico y sintaxis",
               "title": "A voluntad",
-              "body": "Equivale a «como gusten»; Menenio ironiza sobre la facilidad con que se irritan."
+              "body": "Fórmula plural de cortesía o ironía: pueden enojarse cuando quieran. Fuente textual: Folger Shakespeare Library, Coriolanus 2.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/1/.",
+              "gloss": "a su gusto"
             }
           ]
         },
