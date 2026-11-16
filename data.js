@@ -11438,7 +11438,7 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "bring\nMy tongue to such a pace",
               "type": "Imagen verbal",
               "title": "Forzar la lengua",
-              "body": "«Pace» presenta el discurso como una marcha o cadencia impuesta a la lengua; no se refiere a una velocidad concreta. Fuentes: Folger Shakespeare Library, Coriolanus II.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/); cotejo: Shakespeare Online (https://www.shakespeare-online.com/plays/corio_2_3.html).",
+              "body": "La imagen convierte la cortesía en un paso impuesto a la lengua, como si el soldado debiera marchar al ritmo de una fórmula ajena. El parlamento que imagina a continuación invierte la captatio benevolentiae: ofrece heridas, pero insulta a los votantes. Interpretación del contraste escénico; texto base: Folger, Coriolanus II.3, 1426–1431: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/",
               "gloss": "obligar a mi lengua a ese ritmo"
             },
             {
@@ -11500,7 +11500,7 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "divines",
               "type": "Contexto religioso",
               "title": "Sacerdotes y maestros religiosos",
-              "body": "«Divines» alude a autoridades religiosas. «Virtues … lose by ’em» admite una lectura irónica: sus enseñanzas morales se desperdician entre los oyentes; no se afirma que los sacerdotes pierdan su propia virtud. Fuentes: Folger Shakespeare Library, Coriolanus II.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/); cotejo: Shakespeare Online (https://www.shakespeare-online.com/plays/corio_2_3.html).",
+              "body": "«Divines» designa aquí predicadores o doctores religiosos; el relativo «which» retoma «virtues». Según la glosa de C. F. Tucker Brooke, Coriolanus (Yale, 1924), II.3, nota a v. 63, «lose by 'em» equivale a intentar inculcar en vano esas virtudes mediante la predicación. La lectura no implica que los religiosos pierdan sus propias virtudes. https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_II",
               "gloss": "sacerdotes; maestros religiosos"
             }
           ]
@@ -11524,7 +11524,7 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "wholesome manner",
               "type": "Pragmática",
               "title": "Un tono adecuado",
-              "body": "«Wholesome» tiene aquí valor social y pragmático: hablar de manera apropiada y sin ofender a los ciudadanos. Fuentes: Folger Shakespeare Library, Coriolanus II.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/); cotejo: Shakespeare Online (https://www.shakespeare-online.com/plays/corio_2_3.html).",
+              "body": "«Wholesome» califica aquí un modo de hablar sensato, razonable y socialmente aceptable, no una cualidad sanitaria. C. F. Tucker Brooke, Coriolanus (Yale, 1924), II.3, nota a v. 65: «sane, reasonable». Menenio intenta evitar que el desprecio del candidato arruine su solicitud. https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_II",
               "gloss": "de manera respetuosa"
             }
           ]
@@ -11563,7 +11563,7 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "brace",
               "type": "Léxico",
               "title": "Un par",
-              "body": "«Brace» designa un par; la acotación menciona tres ciudadanos, pero Coriolano primero se fija en dos. La discordancia puede representarse mediante entradas escalonadas; no conviene corregir silenciosamente la acotación. Folger, Coriolanus II.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; cotejo de la atribución de parlamentos: https://www.shakespeare-online.com/plays/corio_2_3.html.",
+              "body": "«Brace» es un par. La acotación Folger dice «three of the Citizens», pero el personaje ve «a brace»; la edición Yale de C. F. Tucker Brooke (1924), II.3, tras v. 65, presenta «two of the Citizens» y anota la cuestión. Hay una diferencia editorial de acotaciones, no una razón suficiente para alterar silenciosamente el texto Folger ni el reparto. https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_II",
               "gloss": "un par"
             },
             {
@@ -11626,7 +11626,7 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "⌜not⌝",
               "type": "Crítica textual",
               "title": "Adición editorial señalada",
-              "body": "Los corchetes angulares de Folger señalan una intervención editorial: «not» se presenta como palabra añadida en el texto de lectura. La oposición «desert / desire» depende de esta negación en la formulación editada. Folger, Coriolanus II.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; cotejo de la atribución de parlamentos: https://www.shakespeare-online.com/plays/corio_2_3.html.",
+              "body": "Folger imprime «not» entre corchetes editoriales, señal de intervención textual que hace explícita la negación. La edición Yale de C. F. Tucker Brooke (1924), II.3, v. 72, presenta «Ay, not mine own desire» sin esos corchetes. La oposición «desert / desire» distingue mérito y voluntad personal; no se deben suprimir las marcas de Folger sin cotejar su aparato. https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_II",
               "gloss": "no"
             }
           ]
@@ -11687,7 +11687,7 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "price",
               "type": "Retórica",
               "title": "El voto como transacción",
-              "body": "Coriolano interpreta la expectativa del elector como precio de compra del consulado; la metáfora comercial intensifica su hostilidad ante la petición. Folger, Coriolanus II.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; cotejo de la atribución de parlamentos: https://www.shakespeare-online.com/plays/corio_2_3.html.",
+              "body": "Coriolano llama «price» al requisito para obtener el consulado; el ciudadano replica que solo exige pedirlo «kindly». El intercambio transforma el lenguaje de transacción en una prueba de urbanidad. Es una lectura retórica del diálogo, no una descripción de compra legal de votos. Folger, II.3, 1452–1456: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/",
               "gloss": "precio"
             },
             {
@@ -11733,7 +11733,7 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "in\nprivate",
               "type": "Dramaturgia",
               "title": "Las heridas en privado",
-              "body": "La oferta de exhibir las heridas en privado contrasta con la exhibición pública esperada de los candidatos; puede oírse como burla, no como promesa sincera. Folger, Coriolanus II.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; cotejo de la atribución de parlamentos: https://www.shakespeare-online.com/plays/corio_2_3.html.",
+              "body": "La promesa de enseñar las heridas «in private» rehúye el espectáculo público que debía legitimar al candidato; puede sonar deliberadamente irónica, dado que Coriolano no quiere exhibirse ante los ciudadanos. El texto no obliga a interpretar que efectivamente las mostrará después. Folger, II.3, 1457–1459: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/",
               "gloss": "en privado"
             },
             {
@@ -11777,7 +11777,7 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "alms",
               "type": "Ironía social",
               "title": "Limosna electoral",
-              "body": "Llamar «alms» a los votos rebaja la ceremonia a una escena de caridad y refuerza la imagen del candidato obligado a mendigar. Folger, Coriolanus II.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; cotejo de la atribución de parlamentos: https://www.shakespeare-online.com/plays/corio_2_3.html.",
+              "body": "«Alms» son limosnas; Coriolano degrada así los votos recibidos a dádivas caritativas, aunque los ciudadanos los presentan como reconocimiento de mérito. La contradicción sostiene el sarcasmo electoral. Folger, II.3, 1461–1462: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/",
               "gloss": "limosna"
             },
             {
@@ -11814,7 +11814,7 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "An ’twere",
               "type": "Nota filológica",
               "title": "Condicional arcaica",
-              "body": "«An» equivale aquí a «if» y «’twere» a «it were»; la idea de votar de nuevo queda interrumpida. Fuentes: Folger, Coriolanus II.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/); cotejo: Shakespeare Online (https://www.shakespeare-online.com/plays/corio_2_3.html).",
+              "body": "«An» equivale a «if» y «’twere» a «it were»: construcción condicional elíptica, «si hubiera que volver a darlo». El ciudadano insinúa que podría reconsiderar su voto, pero se contiene. Folger, II.3, 1465–1466: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/",
               "gloss": "si hubiera que…"
             },
             {
@@ -11836,7 +11836,7 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "tune of your voices",
               "type": "Nota filológica",
               "title": "Metáfora musical",
-              "body": "«Tune» sugiere la concordancia musical que el candidato reclama irónicamente. Fuentes: Folger, Coriolanus II.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/); cotejo: Shakespeare Online (https://www.shakespeare-online.com/plays/corio_2_3.html).",
+              "body": "«Tune» explota la imagen de la armonía vocal para pedir conformidad; en el mismo pasaje «voices» son sufragios. El candidato conserva la fórmula ceremoniosa, pero su tono sugiere distancia irónica. Folger, II.3, 1467–1469: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/",
               "gloss": "armonía de sus votos"
             },
             {
@@ -11895,7 +11895,7 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "rod",
               "type": "Nota filológica",
               "title": "Vara contra los amigos",
-              "body": "La imagen contrapone el daño infligido a enemigos y el infligido a los propios conciudadanos. Fuentes: Folger, Coriolanus II.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/); cotejo: Shakespeare Online (https://www.shakespeare-online.com/plays/corio_2_3.html).",
+              "body": "«Scourge» y «rod» son instrumentos de castigo: el ciudadano construye una antítesis entre enemigos externos y amigos de la patria. El juicio no niega las victorias militares, sino que distingue servicio bélico y trato a los plebeyos. Folger, II.3, 1473–1475: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/",
               "gloss": "vara de castigo"
             },
             {
