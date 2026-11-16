@@ -13039,7 +13039,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "Enforce his pride",
               "type": "Nota filológica",
               "gloss": "insistan en su orgullo",
-              "body": "«Enforce» equivale aquí a recalcar; edición histórica https://upload.wikimedia.org/wikipedia/commons/2/28/Shakespeare%27s_tragedy_of_Coriolanus_%28IA_shakespearestrag03shakesp%29.pdf, nota 17. Fuente primaria: Folger II.3 https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/.",
+              "body": "Aquí «enforce» significa hacer hincapié en el orgullo de Coriolano al hablar con los demás votantes, no incrementar realmente su soberbia. Sicinio dicta el argumento que deben repetir. Cotejo: Folger, Coriolanus II.3, FTLN 1617, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/",
               "lemma": "enforce",
               "lemmaUrl": "https://en.wiktionary.org/wiki/enforce"
             },
@@ -13066,7 +13066,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "present portance",
               "type": "Nota filológica",
               "gloss": "conducta actual",
-              "body": "«Portance» es porte o comportamiento; edición histórica https://upload.wikimedia.org/wikipedia/commons/2/28/Shakespeare%27s_tragedy_of_Coriolanus_%28IA_shakespearestrag03shakesp%29.pdf, nota 18. Fuente primaria: Folger II.3 https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/.",
+              "body": "«Portance» designa porte, conducta o manera de presentarse; «present» contrasta su actitud reciente con sus servicios militares anteriores. Sicinio atribuye la ceguera de los votantes a su admiración por esos servicios. Folger, II.3, FTLN 1621–1624, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/",
               "lemma": "portance",
               "lemmaUrl": "https://en.wiktionary.org/wiki/portance"
             },
@@ -13101,7 +13101,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "Lay a fault on us",
               "type": "Nota retórica",
               "gloss": "échenos la culpa",
-              "body": "Bruto propone atribuir a los tribunos la responsabilidad de la elección; es una estrategia deliberada. Folger II.3, 1625–1628: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/.",
+              "body": "Bruto ordena a los ciudadanos que atribuyan públicamente a los tribunos la presión para elegir a Coriolano. No es una confesión espontánea de responsabilidad, sino la construcción deliberada de una versión política. Folger, II.3, FTLN 1625–1628, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/",
               "lemma": "lay",
               "lemmaUrl": "https://en.wiktionary.org/wiki/lay"
             },
@@ -13154,7 +13154,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "rather must do",
               "type": "Nota sintáctica",
               "gloss": "lo que se creían obligados a hacer",
-              "body": "La oposición «must» / «should» contrapone obligación y conveniencia. Folger II.3, 1632–1633: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/.",
+              "body": "La contraposición «must» / «should» distingue una supuesta obligación impuesta por los tribunos del juicio propio sobre lo conveniente o debido. Es parte del relato que Sicinio ordena difundir, no una explicación neutral del voto. Folger, II.3, FTLN 1632–1634, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/",
               "lemma": "must",
               "lemmaUrl": "https://en.wiktionary.org/wiki/must"
             },
@@ -13225,7 +13225,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "house o’ th’ Martians",
               "type": "Nota filológica",
               "gloss": "casa de los Marcios",
-              "body": "Designa la gens Marcia, cuyo linaje enumera Plutarco. Referencias: Folger, II.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; Plutarco, Coriolano 1.1, https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Coriolanus*.html."
+              "body": "La genealogía de los Marcios reproduce muy de cerca la apertura de Plutarco, Vida de Coriolano 1.1, también transmitida por la traducción inglesa de Thomas North. El discurso usa ese linaje como argumento de autoridad política; no prueba cada filiación histórica. Folger, II.3, FTLN 1638–1645, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; Plutarco, Coriolano 1.1, https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Coriolanus*.html; North, Shakespeare’s Plutarch, vol. 2, Life of Caius Martius Coriolanus, https://rosenfels.org/pll-v5/pdf/Plutarch_0992-02_EBk_v5.pdf"
             },
             {
               "term": "Ancus Martius",
@@ -13255,14 +13255,14 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "Censorinus",
               "type": "Nota filológica",
               "gloss": "Censorino",
-              "body": "Plutarco explica su sobrenombre por la doble censura. Folger marca «And Censorinus, that was so surnamed» como intervención editorial; MIT presenta una redacción diferente: la variante no debe confundirse con un hecho histórico. Referencias: Folger, II.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; Plutarco, Coriolano 1.1, https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Coriolanus*.html."
+              "body": "El nombre y la doble censura proceden de Plutarco, Coriolano 1.1, y de la versión inglesa de Thomas North. Importante variante: Folger imprime «And Censorinus, that was so surnamed» entre corchetes editoriales; su aparato, II.3, línea local 270, precisa que esas palabras NO figuran en el primer Folio (F). No debe confundirse una restitución editorial con lectura original del Folio. https://www.folger.edu/explore/shakespeares-works/coriolanus/textual-notes/; https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Coriolanus*.html; https://rosenfels.org/pll-v5/pdf/Plutarch_0992-02_EBk_v5.pdf"
             },
             {
               "term": "twice being censor",
               "title": "twice being censor",
               "type": "Nota filológica",
               "gloss": "haber sido censor dos veces",
-              "body": "La censura era una magistratura romana; la relación entre cargo y sobrenombre sostiene la glosa. Referencias: Folger, II.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; Plutarco, Coriolano 1.1, https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Coriolanus*.html.",
+              "body": "Plutarco, Coriolano 1.1, añade un detalle que el discurso de Bruto omite: Censorino habría impulsado después una prohibición de ocupar dos veces la censura. El pasaje de Shakespeare selecciona la doble magistratura para prestigiar al linaje, no para explicar esa reforma. https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Coriolanus*.html; Folger, II.3, FTLN 1643–1645, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/",
               "lemma": "censor",
               "lemmaUrl": "https://en.wiktionary.org/wiki/censor"
             }
@@ -13304,7 +13304,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "Scaling his present bearing with his past",
               "type": "Nota filológica",
               "gloss": "comparar su conducta actual con la anterior",
-              "body": "«Scaling» evoca pesar en una balanza; «bearing» significa comportamiento. Referencias: Folger, II.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; Plutarco, Coriolano 1.1, https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Coriolanus*.html.",
+              "body": "«Scaling» introduce la imagen de pesar o comparar su conducta presente con sus méritos pasados. Sicinio propone que los ciudadanos interpreten ese contraste como prueba de enemistad permanente: es una conclusión política interesada. Folger, II.3, FTLN 1649–1652, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/",
               "lemma": "scale",
               "lemmaUrl": "https://en.wiktionary.org/wiki/scale"
             },
@@ -13339,7 +13339,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "Harp on that still",
               "type": "Nota filológica",
               "gloss": "insistan sin cesar en eso",
-              "body": "La metáfora musical de «harp on» describe una repetición deliberada: Bruto dicta una versión de los hechos que los ciudadanos deberán sostener. Fuentes: Folger, Coriolanus II.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; MIT Shakespeare, II.3, https://shakespeare.mit.edu/coriolanus/coriolanus.2.3.html.",
+              "body": "La metáfora de tocar repetidamente la misma cuerda o motivo significa insistir sin cesar en que la elección fue consecuencia de la presión de los tribunos. La reiteración es una instrucción estratégica explícita de Bruto. Folger, II.3, FTLN 1653–1656, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/",
               "lemma": "harp",
               "lemmaUrl": "https://en.wiktionary.org/wiki/harp"
             },
@@ -13405,7 +13405,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "mutiny",
               "type": "Nota filológica",
               "gloss": "tumulto; levantamiento",
-              "body": "La palabra militar y política intensifica la gravedad de la movilización que Bruto prefiere provocar ahora. Fuentes: Folger, Coriolanus II.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; MIT Shakespeare, II.3, https://shakespeare.mit.edu/coriolanus/coriolanus.2.3.html.",
+              "body": "«Mutiny» anticipa la agitación que provocará la revocación; Bruto prefiere correr ese riesgo ahora antes que exponerse a un conflicto mayor después. Es un cálculo preventivo formulado por el personaje, no un hecho consumado. Folger, II.3, FTLN 1659–1664, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/",
               "lemma": "mutiny",
               "lemmaUrl": "https://en.wiktionary.org/wiki/mutiny"
             },
@@ -13458,7 +13458,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "as partly ’tis",
               "type": "Nota filológica",
               "gloss": "como en parte lo es",
-              "body": "Sicinio reconoce que la iniciativa tiene un componente popular real, aunque los tribunos la han dirigido; matiza la oposición entre espontaneidad y manipulación. Fuentes: Folger, Coriolanus II.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; MIT Shakespeare, II.3, https://shakespeare.mit.edu/coriolanus/coriolanus.2.3.html."
+              "body": "Sicinio admite que el movimiento parecerá espontáneo y que solo en parte lo es: «we have goaded onward» reconoce la incitación de los tribunos. La concesión revela la manipulación sin borrar la participación real de los ciudadanos. Folger, II.3, FTLN 1665–1668, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/"
             },
             {
               "term": "goaded onward",
