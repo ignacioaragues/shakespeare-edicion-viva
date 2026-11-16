@@ -14053,7 +14053,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "purposed thing",
               "type": "Nota filológica",
               "gloss": "acción deliberada",
-              "body": "«Purposed» indica la supuesta intencionalidad de la agitación; es una acusación de Coriolano. Fuentes: Folger, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "body": "Coriolano presenta la revocación de los votos como un plan deliberado contra la nobleza. Brooke glosa «purpos'd» como «premeditated» (ed. Yale, 1924, III.1, v. 37). La premeditación es una acusación del personaje, no un hecho demostrado por el texto. Fuentes: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale, 1924), notas a III.1, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III.",
               "lemma": "purpose",
               "lemmaUrl": "https://en.wiktionary.org/wiki/purpose"
             },
@@ -14106,7 +14106,14 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "Timepleasers",
               "type": "Nota filológica",
               "gloss": "oportunistas",
-              "body": "Compuesto despectivo para quienes acomodan sus opiniones al momento; «oportunistas» recoge el reproche contextual. Fuentes: Folger, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html."
+              "body": "El compuesto acusa a los tribunos de acomodarse a la coyuntura para ganar favor. El texto de Brooke (1924, III.1, v. 44) imprime «Time-pleasers» con guion; Folger adopta «Timepleasers». Diferencia gráfica, no prueba de sentidos distintos. Fuentes: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale, 1924), notas a III.1, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III."
+            },
+            {
+              "term": "Scandaled",
+              "title": "Scandaled",
+              "type": "Nota filológica",
+              "gloss": "difamaste; calumniaste",
+              "body": "El verbo significa atribuir públicamente conductas deshonrosas; Brooke (III.1, v. 43) glosa «slandered». La acusación forma parte del discurso de Bruto. Fuentes: Folger III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; Brooke, ed. Yale 1924, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III."
             }
           ]
         },
@@ -14135,7 +14142,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "sithence",
               "type": "Nota filológica",
               "gloss": "desde entonces",
-              "body": "Adverbio temporal arcaico equivalente a «since then». Fuentes: Folger, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "body": "Adverbio temporal hoy arcaico: «desde entonces». Brooke (1924, III.1, v. 46) lo glosa «since»; aquí Coriolano insinúa que los tribunos divulgaron sus palabras, sin que la pregunta pruebe quién informó a los ciudadanos. Fuentes: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale, 1924), notas a III.1, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III.",
               "lemma": "sithence",
               "lemmaUrl": "https://en.wiktionary.org/wiki/sithence"
             }
@@ -14186,7 +14193,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "Not unlike, each way, to better yours",
               "type": "Nota filológica",
               "gloss": "no menos capaz de superar tu actuación",
-              "body": "Réplica equívoca: Bruto devuelve el ataque a Cominio. «Each way» admite distintos matices; se mantiene la amplitud de «en cualquier caso». Fuentes: Folger, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html."
+              "body": "Réplica sarcástica de Bruto a Cominio: «no menos capaz, en todos los aspectos, de superar lo que haces». Brooke (1924, III.1, v. 48) explica «to surpass your doings in every way». El referente de «yours» es la conducta de Cominio, no los votos del pueblo. Fuentes: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale, 1924), notas a III.1, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III."
             }
           ]
         },
@@ -14263,7 +14270,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "yoke with him",
               "type": "Nota filológica",
               "gloss": "compartir autoridad con él",
-              "body": "El yugo evoca una pareja de animales unidos; «him» remite al cónsul. Referencias: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "body": "«Unirse en el ejercicio de un cargo»: Brooke (1924, III.1, v. 56) explica «join in service». La metáfora del yugo sugiere colaboración o subordinación institucional; «him» alude al cónsul, no a una persona nombrada en la frase. Fuentes: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale, 1924), notas a III.1, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III.",
               "lemma": "yoke",
               "lemmaUrl": "https://en.wiktionary.org/wiki/yoke"
             }
@@ -14287,7 +14294,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "abused, set on",
               "type": "Nota filológica",
               "gloss": "engañado e instigado",
-              "body": "Cominio acusa a terceros de manipular al pueblo; no es un hecho probado por el editor. Referencias: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "body": "Cominio sostiene que los ciudadanos han sido engañados e incitados. Brooke (1924, III.1, v. 57) distingue «abus'd» = «deceived» y «set on» = «incited». Se trata de su diagnóstico político, no de una conclusión editorial independiente. Fuentes: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale, 1924), notas a III.1, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III.",
               "lemma": "abuse",
               "lemmaUrl": "https://en.wiktionary.org/wiki/abuse"
             },
@@ -14305,7 +14312,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "rub",
               "type": "Nota filológica",
               "gloss": "obstáculo",
-              "body": "Impedimento figurado en el camino de los méritos. Referencias: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "body": "Obstáculo figurado que se interpone en el camino del mérito: Brooke (1924, III.1, v. 59) glosa «dishonour'd rub» como «shameful obstruction» y «falsely» como «treacherously». La imagen continúa en «plain way». Fuentes: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale, 1924), notas a III.1, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III.",
               "lemma": "rub",
               "lemmaUrl": "https://en.wiktionary.org/wiki/rub"
             },
@@ -14317,6 +14324,13 @@ window.SHAKESPEARE_READER_DATA = {
               "body": "Metáfora del ascenso político considerado merecido. Referencias: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
               "lemma": "plain",
               "lemmaUrl": "https://en.wiktionary.org/wiki/plain"
+            },
+            {
+              "term": "falsely",
+              "title": "falsely",
+              "type": "Nota filológica",
+              "gloss": "con engaño; traicioneramente",
+              "body": "Modifica la manera de colocar el obstáculo «rub», no la autenticidad de los méritos de Coriolano. Brooke (III.1, v. 59) glosa «treacherously». Fuentes: Folger III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; Brooke, ed. Yale 1924, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III."
             }
           ]
         },
@@ -14413,7 +14427,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "meiny",
               "type": "Nota filológica",
               "gloss": "séquito; conjunto de gente; multitud",
-              "body": "Folger lee «meiny», frente a «many» en MIT y otras transcripciones. Aquí designa despectivamente a la muchedumbre; la traducción evita confundir ambas lecturas. Véanse las dos ediciones citadas. Fuentes: Folger Shakespeare Library, Coriolanus III.1 (texto y numeración), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, Coriolanus III.1 (cotejo), https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "body": "Voz histórica para un conjunto de personas o séquito; en este contexto, multitud tratada despectivamente. Brooke (1924, III.1, v. 65) glosa «multitude». La lectura Folger «meiny» evita confundirla con el adjetivo «many». Fuentes: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale, 1924), notas a III.1, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III.",
               "lemma": "meiny",
               "lemmaUrl": "https://en.wiktionary.org/wiki/meiny"
             },
@@ -14422,7 +14436,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "as I do not flatter",
               "type": "Nota filológica",
               "gloss": "puesto que no los adulo",
-              "body": "«As» puede leerse causalmente: la franqueza agresiva permitiría al pueblo reconocerse en el retrato de Coriolano. Fuentes: Folger Shakespeare Library, Coriolanus III.1 (texto y numeración), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, Coriolanus III.1 (cotejo), https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "body": "La secuencia puede entenderse como una invitación a reconocerse en el retrato sin adulación que Coriolano hace de la multitud. Brooke (1924, III.1, v. 66) interpreta «Regard ... flatter» como «heed my unflattering presentation». La glosa causal de «as» es una posibilidad sintáctica, no la única. Fuentes: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale, 1924), notas a III.1, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III.",
               "lemma": "flatter",
               "lemmaUrl": "https://en.wiktionary.org/wiki/flatter"
             },
@@ -14431,7 +14445,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "soothing them",
               "type": "Nota filológica",
               "gloss": "halagarlos; apaciguarlos",
-              "body": "«Soothe» no significa aquí simplemente consolar, sino ganar o calmar mediante concesiones; el matiz político procede del contexto. Fuentes: Folger Shakespeare Library, Coriolanus III.1 (texto y numeración), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, Coriolanus III.1 (cotejo), https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "body": "«Soothe» significa aquí halagar o aplacar con concesiones, según la crítica de Coriolano. La frase une el lenguaje de la adulación a la metáfora agrícola de «nourish» y «cockle»; la conexión retórica es interpretación del pasaje, no una variante textual. Fuentes: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale, 1924), notas a III.1, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III.",
               "lemma": "soothe",
               "lemmaUrl": "https://en.wiktionary.org/wiki/soothe"
             },
@@ -14440,7 +14454,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "cockle of rebellion",
               "type": "Nota filológica",
               "gloss": "cizaña de la rebelión",
-              "body": "«Cockle» es una mala hierba asociada a los sembrados: el discurso prolonga la imagen agrícola mediante «plowed», «sowed» y «scattered». Interpretación retórica basada en el texto, no identificación botánica taxativa. Fuentes: Folger Shakespeare Library, Coriolanus III.1 (texto y numeración), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, Coriolanus III.1 (cotejo), https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "body": "«Cockle» designa una mala hierba de los sembrados (Brooke, 1924, III.1, v. 69: «noxious weed»). La cadena «plowed / sowed / scattered» atribuye a los propios patricios el cultivo de la rebelión mediante concesiones; la metáfora es coherente con el conflicto sobre el grano. Fuentes: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale, 1924), notas a III.1, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III.",
               "lemma": "cockle",
               "lemmaUrl": "https://en.wiktionary.org/wiki/cockle"
             },
@@ -14476,7 +14490,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "given to beggars",
               "type": "Nota filológica",
               "gloss": "entregado a los mendigos",
-              "body": "«Beggars» es un insulto clasista dirigido a los beneficiarios de la concesión de poder, no una descripción neutral de su situación económica. Fuentes: Folger Shakespeare Library, Coriolanus III.1 (texto y numeración), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, Coriolanus III.1 (cotejo), https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "body": "El relativo «which» se refiere al poder cedido, según la acusación de Coriolano; «beggars» es una degradación clasista de los plebeyos. No equivale a una descripción histórica de que todos fueran mendigos. Cotejo: Folger III.1, vv. 96–97; Brooke, Yale (1924), III.1. Fuentes: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale, 1924), notas a III.1, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III.",
               "lemma": "beggar",
               "lemmaUrl": "https://en.wiktionary.org/wiki/beggar"
             }
