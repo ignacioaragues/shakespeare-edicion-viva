@@ -11050,19 +11050,22 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "Once",
               "type": "Léxico histórico",
               "title": "En principio",
-              "body": "Aquí introduce una premisa inicial del debate, no una referencia temporal a «una vez»."
+              "body": "Aquí introduce una premisa inicial del debate, no una referencia temporal a «una vez». Referencias: Folger, Coriolanus II.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/); C. F. Tucker Brooke (ed.), Coriolanus, Yale, 1924, acto II, escena 3 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_II).",
+              "gloss": "en principio; de una vez por todas"
             },
             {
               "term": "voices",
               "type": "Metonimia política",
               "title": "Votos",
-              "body": "La voz pronunciada por cada ciudadano representa su sufragio."
+              "body": "La voz pronunciada por cada ciudadano representa su sufragio.",
+              "gloss": "votos"
             },
             {
               "term": "do require",
               "type": "Gramática histórica",
               "title": "Do enfático",
-              "body": "El auxiliar «do» acompaña a «require» en una construcción afirmativa propia del inglés de la época; no expresa obligación."
+              "body": "El auxiliar «do» acompaña a «require» en una construcción afirmativa propia del inglés de la época; no expresa obligación.",
+              "gloss": "si llega a solicitar"
             }
           ]
         },
@@ -11076,13 +11079,15 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "may",
               "type": "Modalidad",
               "title": "Facultad, no deber",
-              "body": "El segundo ciudadano reivindica la posibilidad de negarse, frente al «ought» del primero."
+              "body": "El segundo ciudadano reivindica la posibilidad de negarse, frente al «ought» del primero.",
+              "gloss": "podemos; tenemos derecho a"
             },
             {
               "term": "if we will",
               "type": "Gramática histórica",
               "title": "Si queremos",
-              "body": "«Will» conserva aquí su sentido volitivo: tener la voluntad de hacerlo."
+              "body": "«Will» conserva aquí su sentido volitivo: tener la voluntad de hacerlo.",
+              "gloss": "si así lo queremos"
             }
           ]
         },
@@ -11096,37 +11101,43 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "power",
               "type": "Paradoja retórica",
               "title": "Poder sin poder",
-              "body": "La repetición contrapone la facultad formal de votar con la presión moral de reconocer el servicio militar."
+              "body": "La repetición contrapone la facultad formal de votar con la presión moral de reconocer el servicio militar. Referencias: Folger, Coriolanus II.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/); C. F. Tucker Brooke (ed.), Coriolanus, Yale, 1924, acto II, escena 3 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_II).",
+              "gloss": "facultad efectiva; poder"
             },
             {
               "term": "if he show",
               "type": "Gramática histórica",
               "title": "Subjuntivo sin -s",
-              "body": "La forma «show» tras «if», con sujeto singular, corresponde a un subjuntivo posible en el inglés moderno temprano."
+              "body": "La forma «show» tras «if», con sujeto singular, corresponde a un subjuntivo posible en el inglés moderno temprano. Referencias: Folger, Coriolanus II.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/); C. F. Tucker Brooke (ed.), Coriolanus, Yale, 1924, acto II, escena 3 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_II).",
+              "gloss": "si muestra"
             },
             {
               "term": "put our tongues into those wounds",
               "type": "Imagen retórica",
               "title": "Las heridas hablan",
-              "body": "Las lenguas de los votantes prestan voz a las heridas del soldado: la evidencia corporal se transforma en argumento electoral."
+              "body": "Las lenguas de los votantes prestan voz a las heridas del soldado: la evidencia corporal se transforma en argumento electoral.",
+              "gloss": "poner nuestra voz en sus heridas"
             },
             {
               "term": "ingrateful",
               "type": "Léxico histórico",
               "title": "Ingrato",
-              "body": "Forma equivalente a «ungrateful», que reaparece en la figura de la monstruosidad colectiva."
+              "body": "Forma equivalente a «ungrateful», que reaparece en la figura de la monstruosidad colectiva. Referencias: Folger, Coriolanus II.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/); C. F. Tucker Brooke (ed.), Coriolanus, Yale, 1924, acto II, escena 3 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_II).",
+              "gloss": "desagradecida"
             },
             {
               "term": "members",
               "type": "Juego semántico",
               "title": "Miembros del cuerpo político",
-              "body": "«Members» significa integrantes de la multitud y evoca simultáneamente las partes corporales de un monstruo."
+              "body": "«Members» significa integrantes de la multitud y evoca simultáneamente las partes corporales de un monstruo.",
+              "gloss": "integrantes; miembros"
             },
             {
               "term": "were to make",
               "type": "Gramática histórica",
               "title": "Hipótesis",
-              "body": "«Were» presenta una consecuencia hipotética: no afirma que la multitud ya sea ingrata."
+              "body": "«Were» presenta una consecuencia hipotética: no afirma que la multitud ya sea ingrata.",
+              "gloss": "convertiría en"
             }
           ]
         },
@@ -11140,25 +11151,29 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "a little help will serve",
               "type": "Ironía",
               "title": "Basta poco",
-              "body": "El ciudadano responde a la amenaza de ser considerados monstruosos: su reputación ya es mala."
+              "body": "El ciudadano responde a la amenaza de ser considerados monstruosos: su reputación ya es mala.",
+              "gloss": "bastará muy poco"
             },
             {
               "term": "stood up about the corn",
               "type": "Contexto dramático",
               "title": "Protesta por el grano",
-              "body": "Remite a la revuelta alimentaria con la que comienza la obra."
+              "body": "Remite a la revuelta alimentaria con la que comienza la obra.",
+              "gloss": "nos alzamos por el trigo"
             },
             {
               "term": "stuck not",
               "type": "Léxico histórico",
               "title": "No vaciló",
-              "body": "«Stick» con negación significa no dudar o no tener reparos en hacer algo."
+              "body": "«Stick» con negación significa no dudar o no tener reparos en hacer algo.",
+              "gloss": "no vaciló en"
             },
             {
               "term": "many-headed",
               "type": "Metáfora política",
               "title": "Multitud de muchas cabezas",
-              "body": "La imagen del cuerpo colectivo multiplica las cabezas y enlaza con el «monstruo» del parlamento anterior."
+              "body": "La imagen del cuerpo colectivo multiplica las cabezas y enlaza con el «monstruo» del parlamento anterior. Referencias: Folger, Coriolanus II.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/); C. F. Tucker Brooke (ed.), Coriolanus, Yale, 1924, acto II, escena 3 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_II).",
+              "gloss": "de muchas cabezas"
             }
           ]
         },
@@ -11172,25 +11187,29 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "called so of many",
               "type": "Gramática histórica",
               "title": "Llamados así por muchos",
-              "body": "«Of» introduce el agente de la pasiva, donde hoy se usaría normalmente «by». Texto: Folger Shakespeare Library, Coriolanus, II.3, líneas 1391–1397, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/."
+              "body": "«Of» introduce el agente de la pasiva, donde hoy se usaría normalmente «by». Texto: Folger Shakespeare Library, Coriolanus, II.3, líneas 1391–1397, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/.",
+              "gloss": "muchos nos han llamado así"
             },
             {
               "term": "abram",
               "type": "Variante textual",
               "title": "Abram / auburn",
-              "body": "Folger imprime «abram» y Shakespeare Online «auburn», ambas referidas aquí a un color rojizo de cabello. Se conserva la lectura Folger; la diferencia entre ediciones no debe borrarse. Folger, II.3, línea 1393, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; Shakespeare Online, II.3, https://www.shakespeare-online.com/plays/corio_2_3.html."
+              "body": "Folger imprime «abram» y Shakespeare Online «auburn», ambas referidas aquí a un color rojizo de cabello. Se conserva la lectura Folger; la diferencia entre ediciones no debe borrarse. Folger, II.3, línea 1393, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; Shakespeare Online, II.3, https://www.shakespeare-online.com/plays/corio_2_3.html. Referencias: Folger, Coriolanus II.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/); C. F. Tucker Brooke (ed.), Coriolanus, Yale, 1924, acto II, escena 3 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_II).",
+              "gloss": "castaño rojizo"
             },
             {
               "term": "wits",
               "type": "Léxico",
               "title": "Ingenios y juicios",
-              "body": "«Wits» se refiere a las facultades de entendimiento y juicio. Los colores del cabello se trasladan figuradamente a la diversidad de opiniones."
+              "body": "«Wits» se refiere a las facultades de entendimiento y juicio. Los colores del cabello se trasladan figuradamente a la diversidad de opiniones.",
+              "gloss": "entendimientos; ingenios"
             },
             {
               "term": "consent of one direct way",
               "type": "Retórica",
               "title": "El acuerdo que se dispersa",
-              "body": "Paradoja: si las opiniones convergieran en una sola cabeza, su presunto acuerdo conduciría simultáneamente a todos los puntos cardinales. Es una lectura retórica del pasaje."
+              "body": "Paradoja: si las opiniones convergieran en una sola cabeza, su presunto acuerdo conduciría simultáneamente a todos los puntos cardinales. Es una lectura retórica del pasaje.",
+              "gloss": "acuerdo sobre una misma dirección"
             }
           ]
         },
@@ -11204,7 +11223,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "Which way",
               "type": "Diálogo",
               "title": "De lo colectivo a lo personal",
-              "body": "La pregunta convierte la metáfora de la brújula colectiva en una evaluación del ingenio particular del segundo ciudadano."
+              "body": "La pregunta convierte la metáfora de la brújula colectiva en una evaluación del ingenio particular del segundo ciudadano.",
+              "gloss": "¿en qué dirección?"
             }
           ]
         },
@@ -11218,13 +11238,15 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "blockhead",
               "type": "Juego de palabras",
               "title": "Cabeza de madera",
-              "body": "El insulto «blockhead» evoca literalmente un bloque de madera, reforzado por «wedged» («encajada a presión»). Folger, II.3, líneas 1400–1403, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/."
+              "body": "El insulto «blockhead» evoca literalmente un bloque de madera, reforzado por «wedged» («encajada a presión»). Folger, II.3, líneas 1400–1403, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/.",
+              "gloss": "cabeza dura; necio"
             },
             {
               "term": "’twould sure",
               "type": "Sintaxis",
               "title": "Con seguridad iría",
-              "body": "«’twould» = «it would»; «sure» tiene valor adverbial. Se sobreentiende el verbo de movimiento."
+              "body": "«’twould» = «it would»; «sure» tiene valor adverbial. Se sobreentiende el verbo de movimiento.",
+              "gloss": "sin duda iría"
             }
           ]
         },
@@ -11245,25 +11267,29 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "three parts",
               "type": "Léxico",
               "title": "Tres cuartas partes",
-              "body": "«Three parts» contrasta con «the fourth»: se imagina que solo una cuarta parte del ingenio sobreviviría."
+              "body": "«Three parts» contrasta con «the fourth»: se imagina que solo una cuarta parte del ingenio sobreviviría.",
+              "gloss": "tres cuartas partes"
             },
             {
               "term": "rotten dews",
               "type": "Imagen",
               "title": "Vapores malsanos",
-              "body": "La niebla y el rocío corrompido sugieren un ambiente nocivo. No se identifica expresamente un lugar geográfico; cualquier localización precisa sería conjetural."
+              "body": "La niebla y el rocío corrompido sugieren un ambiente nocivo. No se identifica expresamente un lugar geográfico; cualquier localización precisa sería conjetural. Referencias: Folger, Coriolanus II.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/); C. F. Tucker Brooke (ed.), Coriolanus, Yale, 1924, acto II, escena 3 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_II).",
+              "gloss": "vapores malsanos"
             },
             {
               "term": "for conscience’ sake",
               "type": "Ironía",
               "title": "Deber de conciencia",
-              "body": "La porción restante de inteligencia regresaría como si tuviera el deber moral de ayudar al interlocutor a conseguir esposa."
+              "body": "La porción restante de inteligencia regresaría como si tuviera el deber moral de ayudar al interlocutor a conseguir esposa.",
+              "gloss": "por un escrúpulo de conciencia"
             },
             {
               "term": "thee",
               "type": "Gramática histórica",
               "title": "Pronombre de objeto singular",
-              "body": "«Thee» es forma de objeto singular de segunda persona, traducida aquí mediante tuteo."
+              "body": "«Thee» es forma de objeto singular de segunda persona, traducida aquí mediante tuteo.",
+              "gloss": "a ti"
             }
           ]
         },
@@ -11277,7 +11303,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "You may, you may",
               "type": "Pragmática",
               "title": "Aceptación resignada",
-              "body": "La repetición puede interpretarse como una concesión ante la burla, no como permiso literal. Folger, II.3, líneas 1409–1410, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/."
+              "body": "La repetición puede interpretarse como una concesión ante la burla, no como permiso literal. Folger, II.3, líneas 1409–1410, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/.",
+              "gloss": "sigue, sigue con tus bromas"
             }
           ]
         },
@@ -11291,19 +11318,22 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "give your voices",
               "type": "Léxico político",
               "title": "Dar el voto",
-              "body": "«Voices» designa los votos individuales de los ciudadanos. Folger Shakespeare Library, Coriolanus, II.3, líneas 1411–1414: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/."
+              "body": "«Voices» designa los votos individuales de los ciudadanos. Folger Shakespeare Library, Coriolanus, II.3, líneas 1411–1414: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/.",
+              "gloss": "dar sus votos"
             },
             {
               "term": "the greater part carries it",
               "type": "Procedimiento electoral",
               "title": "Decide la mayoría",
-              "body": "El tercer ciudadano considera decisivo el parecer mayoritario, aunque acaba de preguntar si todos están de acuerdo. Es la regla que enuncia el personaje, no una descripción exhaustiva de los comicios romanos. Folger, Coriolanus, II.3, 1412: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/."
+              "body": "El tercer ciudadano considera decisivo el parecer mayoritario, aunque acaba de preguntar si todos están de acuerdo. Es la regla que enuncia el personaje, no una descripción exhaustiva de los comicios romanos. Folger, Coriolanus, II.3, 1412: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/. Referencias: Folger, Coriolanus II.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/); C. F. Tucker Brooke (ed.), Coriolanus, Yale, 1924, acto II, escena 3 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_II).",
+              "gloss": "decide la mayoría"
             },
             {
               "term": "incline to the people",
               "type": "Interpretación",
               "title": "Una condición política",
-              "body": "«Incline» expresa una disposición favorable hacia el pueblo, no un movimiento físico. El elogio de su mérito queda condicionado a una actitud que los ciudadanos no le reconocen. Cotejo: Shakespeare Online, II.3: https://www.shakespeare-online.com/plays/corio_2_3.html."
+              "body": "«Incline» expresa una disposición favorable hacia el pueblo, no un movimiento físico. El elogio de su mérito queda condicionado a una actitud que los ciudadanos no le reconocen. Cotejo: Shakespeare Online, II.3: https://www.shakespeare-online.com/plays/corio_2_3.html.",
+              "gloss": "mostrarse favorable al pueblo"
             }
           ]
         },
@@ -11317,25 +11347,29 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "gown of humility",
               "type": "Fuente histórica",
               "title": "La vestimenta del candidato",
-              "body": "Plutarco, Vida de Coriolano 14.1, describe la costumbre de solicitar votos en el foro con toga y sin túnica debajo, bien como señal de humildad, bien para mostrar las heridas. La expresión dramática «gown of humility» es de Shakespeare; no debe identificarse sin matices con una descripción uniforme de toda elección romana. Plutarco, trad. Bernadotte Perrin, Loeb Classical Library, 1916: https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Coriolanus%2A.html."
+              "body": "Plutarco, Vida de Coriolano 14.1, describe la costumbre de solicitar votos en el foro con toga y sin túnica debajo, bien como señal de humildad, bien para mostrar las heridas. La expresión dramática «gown of humility» es de Shakespeare; no debe identificarse sin matices con una descripción uniforme de toda elección romana. Plutarco, trad. Bernadotte Perrin, Loeb Classical Library, 1916: https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Coriolanus%2A.html. Referencias: Folger, Coriolanus II.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/); C. F. Tucker Brooke (ed.), Coriolanus, Yale, 1924, acto II, escena 3 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_II).",
+              "gloss": "toga de humildad"
             },
             {
               "term": "Mark his behavior",
               "type": "Dramaturgia",
               "title": "Observar al candidato",
-              "body": "La invitación a observar el comportamiento de Coriolano anticipa que el modo de pedir los votos será tan importante como sus méritos. Folger, Coriolanus, II.3, 1415–1416: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/."
+              "body": "La invitación a observar el comportamiento de Coriolano anticipa que el modo de pedir los votos será tan importante como sus méritos. Folger, Coriolanus, II.3, 1415–1416: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/.",
+              "gloss": "observen cómo se comporta"
             },
             {
               "term": "by particulars",
               "type": "Sintaxis y léxico",
               "title": "Peticiones individuales",
-              "body": "«By particulars» señala la solicitud a personas concretas, no una petición dirigida a toda la asamblea. La enumeración «by ones, by twos, and by threes» organiza escénicamente la circulación de votantes. Folger, II.3, 1417–1420: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/."
+              "body": "«By particulars» señala la solicitud a personas concretas, no una petición dirigida a toda la asamblea. La enumeración «by ones, by twos, and by threes» organiza escénicamente la circulación de votantes. Folger, II.3, 1417–1420: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/. Referencias: Folger, Coriolanus II.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/); C. F. Tucker Brooke (ed.), Coriolanus, Yale, 1924, acto II, escena 3 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_II).",
+              "gloss": "de manera individual"
             },
             {
               "term": "single honor",
               "type": "Retórica política",
               "title": "La dignidad de cada voz",
-              "body": "«Single» individualiza el honor de votar: el ciudadano insiste en que cada uno ejerce su propia voz, frente a la descalificación de la multitud como un único monstruo de muchas cabezas. Es una lectura de la contraposición dramática, no una afirmación histórica. Folger, II.3, 1419–1420: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/."
+              "body": "«Single» individualiza el honor de votar: el ciudadano insiste en que cada uno ejerce su propia voz, frente a la descalificación de la multitud como un único monstruo de muchas cabezas. Es una lectura de la contraposición dramática, no una afirmación histórica. Folger, II.3, 1419–1420: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/.",
+              "gloss": "honor propio e individual"
             }
           ]
         },
@@ -11349,7 +11383,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "Content",
               "type": "Léxico",
               "title": "Conformes",
-              "body": "«Content» funciona aquí como respuesta colectiva de asentimiento («de acuerdo»), no como sustantivo. Folger, Coriolanus, II.3, 1423: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/."
+              "body": "«Content» funciona aquí como respuesta colectiva de asentimiento («de acuerdo»), no como sustantivo. Folger, Coriolanus, II.3, 1423: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/.",
+              "gloss": "de acuerdo"
             }
           ]
         },
