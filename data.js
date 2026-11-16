@@ -8148,37 +8148,45 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "estate of seven years’ health",
               "type": "Metáfora",
               "title": "La salud como patrimonio",
-              "body": "«Estate» designa una posesión o patrimonio: Menenio imagina que la carta le asegura siete años de salud."
+              "body": "«Estate» designa una posesión o patrimonio: Menenio imagina que la carta le asegura siete años de salud.",
+              "gloss": "siete años de salud asegurada"
             },
             {
               "term": "make a lip",
               "type": "Expresión idiomática",
               "title": "Hacer un gesto de burla",
-              "body": "La expresión evoca torcer o sacar el labio en señal de desprecio hacia el médico."
+              "body": "La expresión evoca torcer o sacar el labio en señal de desprecio hacia el médico.",
+              "gloss": "hacer una mueca de burla"
             },
             {
               "term": "Galen",
               "type": "Historia de la medicina",
               "title": "Galeno",
-              "body": "Médico de la Antigüedad cuya autoridad continuó siendo fundamental en la medicina europea de la época de Shakespeare."
+              "body": "Médico de la Antigüedad cuya autoridad continuó siendo fundamental en la medicina europea de la época de Shakespeare. Fuente textual: Folger Digital Texts, Coriolanus, II.1 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/1/).",
+              "gloss": "Galeno, médico antiguo"
             },
             {
               "term": "empiricutic",
               "type": "Léxico",
               "title": "Un remedio de charlatán",
-              "body": "Vocablo despectivo y de formación llamativa, relacionado con los remedios empíricos; se opone aquí a la pretendida eficacia de la carta."
+              "body": "Vocablo despectivo y de formación llamativa, relacionado con los remedios empíricos; se opone aquí a la pretendida eficacia de la carta. Fuente textual: Folger Digital Texts, Coriolanus, II.1 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/1/).",
+              "gloss": "remedio de charlatán"
             },
             {
               "term": "horse drench",
               "type": "Léxico",
               "title": "Pócima para un caballo",
-              "body": "«Drench» es una bebida medicinal administrada por la fuerza a un animal; la comparación rebaja los remedios de Galeno."
+              "body": "«Drench» es una bebida medicinal administrada por la fuerza a un animal; la comparación rebaja los remedios de Galeno.",
+              "gloss": "brebaje para caballos"
             },
             {
               "term": "was wont",
               "type": "Gramática histórica",
               "title": "Costumbre en el pasado",
-              "body": "«Was wont to» significa «solía»; no expresa obligación."
+              "body": "«Was wont to» significa «solía»; no expresa obligación.",
+              "gloss": "solía",
+              "lemma": "wont",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/wont#English"
             }
           ]
         },
@@ -8199,7 +8207,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "I thank the gods for ’t",
               "type": "Caracterización",
               "title": "El orgullo de Volumnia",
-              "body": "La madre agradece las heridas como pruebas de valor militar; su reacción contrasta con la alarma de Virgilia."
+              "body": "La madre agradece las heridas como pruebas de valor militar; su reacción contrasta con la alarma de Virgilia.",
+              "gloss": "doy gracias por sus heridas"
             }
           ]
         },
@@ -8213,7 +8222,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "become him",
               "type": "Léxico",
               "title": "Le sientan bien",
-              "body": "«Become» significa aquí «favorecer» o «sentar bien», no «convertirse en»."
+              "body": "«Become» significa aquí «favorecer» o «sentar bien», no «convertirse en».",
+              "gloss": "le sientan bien"
             }
           ]
         },
@@ -8227,13 +8237,15 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "On ’s brows",
               "type": "Referencia",
               "title": "La victoria en la frente",
-              "body": "Volumnia corrige la imagen del bolsillo: el triunfo se manifiesta en la corona que lleva en la cabeza."
+              "body": "Volumnia corrige la imagen del bolsillo: el triunfo se manifiesta en la corona que lleva en la cabeza.",
+              "gloss": "en su frente"
             },
             {
               "term": "oaken garland",
               "type": "Contexto romano",
               "title": "Corona de roble",
-              "body": "La corona cívica romana, hecha de hojas de roble, distinguía tradicionalmente a quien salvaba la vida de un ciudadano en combate; Shakespeare la emplea como insignia de honor militar."
+              "body": "La corona cívica romana, hecha de hojas de roble, distinguía tradicionalmente a quien salvaba la vida de un ciudadano en combate; Shakespeare la emplea como insignia de honor militar. Fuente textual: Folger Digital Texts, Coriolanus, II.1 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/1/).",
+              "gloss": "corona de roble"
             }
           ]
         },
@@ -8247,7 +8259,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "disciplined",
               "type": "Léxico",
               "title": "Escarmiento militar",
-              "body": "«Discipline» se usa irónicamente como «castigar» o «dar una lección» al enemigo."
+              "body": "«Discipline» se usa irónicamente como «castigar» o «dar una lección» al enemigo.",
+              "gloss": "escarmentado"
             }
           ]
         },
@@ -8261,7 +8274,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "got off",
               "type": "Léxico",
               "title": "Escapó",
-              "body": "El verbo frasal significa aquí que Aufidio consiguió librarse del enfrentamiento."
+              "body": "El verbo frasal significa aquí que Aufidio consiguió librarse del enfrentamiento.",
+              "gloss": "escapó"
             }
           ]
         },
@@ -8275,19 +8289,24 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "An he had stayed",
               "type": "Gramática histórica",
               "title": "Condicional con «an»",
-              "body": "«An» funciona como conjunción condicional equivalente a «if» («si»). La hipótesis se refiere a una permanencia que no ocurrió."
+              "body": "«An» funciona como conjunción condicional equivalente a «if» («si»). La hipótesis se refiere a una permanencia que no ocurrió.",
+              "gloss": "si se hubiera quedado",
+              "lemma": "an",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/an#English"
             },
             {
               "term": "’fidiused",
               "type": "Juego verbal",
               "title": "El nombre de Aufidio como verbo",
-              "body": "Menenio convierte el nombre del enemigo en un verbo burlesco; «aufidiado» reproduce deliberadamente ese procedimiento, sin pretender que sea una palabra española establecida."
+              "body": "Menenio convierte el nombre del enemigo en un verbo burlesco; «aufidiado» reproduce deliberadamente ese procedimiento, sin pretender que sea una palabra española establecida. Fuente textual: Folger Digital Texts, Coriolanus, II.1 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/1/).",
+              "gloss": "«aufidiado», derrotado por Aufidio"
             },
             {
               "term": "possessed of this",
               "type": "Léxico",
               "title": "Estar al corriente",
-              "body": "«Possessed of» significa aquí «estar informado de», no «poseer» materialmente."
+              "body": "«Possessed of» significa aquí «estar informado de», no «poseer» materialmente.",
+              "gloss": "informado de ello"
             }
           ]
         },
@@ -8301,19 +8320,24 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "whole name of the war",
               "type": "Retórica",
               "title": "El nombre de la guerra",
-              "body": "La hipérbole presenta a Marcio como quien concentra en sí toda la fama de la campaña; «name» se relaciona aquí con renombre y crédito."
+              "body": "La hipérbole presenta a Marcio como quien concentra en sí toda la fama de la campaña; «name» se relaciona aquí con renombre y crédito. Fuente textual: Folger Digital Texts, Coriolanus, II.1 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/1/).",
+              "gloss": "toda la gloria de la guerra"
             },
             {
               "term": "hath",
               "type": "Gramática histórica",
               "title": "Tercera persona singular",
-              "body": "Forma de «have» usada con sujeto singular en el inglés moderno temprano."
+              "body": "Forma de «have» usada con sujeto singular en el inglés moderno temprano.",
+              "gloss": "ha",
+              "lemma": "have",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/hath#English"
             },
             {
               "term": "outdone his former deeds doubly",
               "type": "Intensificación",
               "title": "Superar las propias hazañas",
-              "body": "«Doubly» intensifica la comparación con sus victorias anteriores; no exige entender un cálculo literal de méritos."
+              "body": "«Doubly» intensifica la comparación con sus victorias anteriores; no exige entender un cálculo literal de méritos.",
+              "gloss": "ha superado ampliamente sus hazañas"
             }
           ]
         },
@@ -8327,13 +8351,15 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "In troth",
               "type": "Léxico",
               "title": "En verdad",
-              "body": "Fórmula de aseveración equivalente a «truly»."
+              "body": "Fórmula de aseveración equivalente a «truly».",
+              "gloss": "en verdad"
             },
             {
               "term": "there’s wondrous things spoke",
               "type": "Sintaxis",
               "title": "Concordancia y participio",
-              "body": "«There’s» aparece ante un plural y «spoke» funciona como participio pasivo: «se dicen cosas extraordinarias»."
+              "body": "«There’s» aparece ante un plural y «spoke» funciona como participio pasivo: «se dicen cosas extraordinarias».",
+              "gloss": "se cuentan maravillas"
             }
           ]
         },
@@ -8347,7 +8373,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "true purchasing",
               "type": "Léxico",
               "title": "Mérito adquirido",
-              "body": "«Purchasing» remite a lo conseguido o ganado, no necesariamente a una compra monetaria: las alabanzas tienen fundamento en sus actos."
+              "body": "«Purchasing» remite a lo conseguido o ganado, no necesariamente a una compra monetaria: las alabanzas tienen fundamento en sus actos.",
+              "gloss": "mérito auténtico"
             }
           ]
         },
@@ -8361,7 +8388,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "grant them true",
               "type": "Sintaxis",
               "title": "Deseo con «grant»",
-              "body": "«Grant» introduce una fórmula optativa: Virgilia desea que los informes resulten verdaderos, sin expresar certeza."
+              "body": "«Grant» introduce una fórmula optativa: Virgilia desea que los informes resulten verdaderos, sin expresar certeza.",
+              "gloss": "ojalá sean ciertas"
             }
           ]
         },
@@ -8375,7 +8403,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "Pow waw",
               "type": "Interjección",
               "title": "Desdén de Volumnia",
-              "body": "Exclamación despectiva ante las dudas de Virgilia; su grafía y valor expresivo no deben confundirse con un argumento."
+              "body": "Exclamación despectiva ante las dudas de Virgilia; su grafía y valor expresivo no deben confundirse con un argumento. Fuente textual: Folger Digital Texts, Coriolanus, II.1 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/1/).",
+              "gloss": "¡bah!, exclamación de desdén"
             }
           ]
         },
@@ -8389,19 +8418,22 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "I’ll be sworn",
               "type": "Fórmula",
               "title": "Afirmación jurada",
-              "body": "Equivale a asegurar enfáticamente la veracidad de una noticia."
+              "body": "Equivale a asegurar enfáticamente la veracidad de una noticia.",
+              "gloss": "lo juro"
             },
             {
               "term": "your good Worships",
               "type": "Tratamiento e ironía",
               "title": "Sus señorías",
-              "body": "Menenio se dirige a los tribunos con una fórmula respetuosa cuyo efecto, después de la disputa, puede entenderse como irónico."
+              "body": "Menenio se dirige a los tribunos con una fórmula respetuosa cuyo efecto, después de la disputa, puede entenderse como irónico.",
+              "gloss": "sus señorías"
             },
             {
               "term": "more cause to be proud",
               "type": "Dramaturgia",
               "title": "El orgullo discutido",
-              "body": "Menenio retoma la acusación de soberbia de los tribunos y la convierte en reconocimiento de los méritos militares de Marcio."
+              "body": "Menenio retoma la acusación de soberbia de los tribunos y la convierte en reconocimiento de los méritos militares de Marcio.",
+              "gloss": "más motivos para enorgullecerse"
             }
           ],
           "stageBefore": "Menenio se vuelve hacia los tribunos al saludarlos."
@@ -8416,25 +8448,29 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "cicatrices",
               "type": "Léxico",
               "title": "Cicatrices",
-              "body": "Latinismo usado para las marcas dejadas por heridas ya cerradas; anticipa su exhibición pública."
+              "body": "Latinismo usado para las marcas dejadas por heridas ya cerradas; anticipa su exhibición pública. Fuente textual: Folger Digital Texts, Coriolanus, II.1 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/1/).",
+              "gloss": "cicatrices, marcas de heridas"
             },
             {
               "term": "stand for his place",
               "type": "Contexto político",
               "title": "Presentarse al cargo",
-              "body": "Alude a la candidatura de Marcio a una magistratura, que exigirá presentarse ante el pueblo."
+              "body": "Alude a la candidatura de Marcio a una magistratura, que exigirá presentarse ante el pueblo.",
+              "gloss": "presentarse al cargo"
             },
             {
               "term": "repulse of Tarquin",
               "type": "Referencia histórica",
               "title": "Tarquinio",
-              "body": "Evoca la expulsión de la monarquía romana; la obra integra esta referencia en el historial heroico de Marcio, sin precisar aquí su cronología."
+              "body": "Evoca la expulsión de la monarquía romana; la obra integra esta referencia en el historial heroico de Marcio, sin precisar aquí su cronología. Fuente textual: Folger Digital Texts, Coriolanus, II.1 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/1/).",
+              "gloss": "rechazo de Tarquinio"
             },
             {
               "term": "hurts",
               "type": "Léxico",
               "title": "Heridas",
-              "body": "Sustantivo que designa lesiones físicas, no agravios emocionales."
+              "body": "Sustantivo que designa lesiones físicas, no agravios emocionales.",
+              "gloss": "heridas"
             }
           ]
         },
@@ -8448,13 +8484,15 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "there’s nine",
               "type": "Sintaxis",
               "title": "Concordancia en la lengua hablada",
-              "body": "El singular existencial «there’s» introduce aquí un plural; la construcción se conserva como rasgo de oralidad."
+              "body": "El singular existencial «there’s» introduce aquí un plural; la construcción se conserva como rasgo de oralidad. Fuente textual: Folger Digital Texts, Coriolanus, II.1 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/1/).",
+              "gloss": "hay nueve"
             },
             {
               "term": "One i’ th’ neck",
               "type": "Dramaturgia",
               "title": "Un recuento incierto",
-              "body": "Menenio añade tres heridas al recuerdo de las siete mencionadas por Volumnia, pero concluye que conoce nueve: la discrepancia puede producir un efecto cómico; no debe corregirse silenciosamente."
+              "body": "Menenio añade tres heridas al recuerdo de las siete mencionadas por Volumnia, pero concluye que conoce nueve: la discrepancia puede producir un efecto cómico; no debe corregirse silenciosamente.",
+              "gloss": "una en el cuello"
             }
           ]
         },
@@ -8468,13 +8506,15 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "before this last expedition",
               "type": "Cronología dramática",
               "title": "Heridas anteriores",
-              "body": "Volumnia distingue el historial de heridas previo a la campaña reciente del número que Menenio acaba de calcular."
+              "body": "Volumnia distingue el historial de heridas previo a la campaña reciente del número que Menenio acaba de calcular.",
+              "gloss": "antes de esta campaña"
             },
             {
               "term": "upon him",
               "type": "Léxico",
               "title": "En el cuerpo",
-              "body": "«Upon him» se refiere a las marcas corporales del soldado, no a una carga figurada."
+              "body": "«Upon him» se refiere a las marcas corporales del soldado, no a una carga figurada.",
+              "gloss": "en su cuerpo"
             }
           ]
         },
@@ -8489,19 +8529,22 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "twenty-seven",
               "type": "Dramaturgia",
               "title": "Aritmética de las heridas",
-              "body": "El total de veintisiete presupone dos heridas nuevas, aunque la conversación anterior ha mencionado otras cifras; la tensión numérica es propia del diálogo y no se normaliza."
+              "body": "El total de veintisiete presupone dos heridas nuevas, aunque la conversación anterior ha mencionado otras cifras; la tensión numérica es propia del diálogo y no se normaliza. Fuente textual: Folger Digital Texts, Coriolanus, II.1 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/1/).",
+              "gloss": "veintisiete"
             },
             {
               "term": "Every gash was an enemy’s grave",
               "type": "Retórica",
               "title": "Metáfora de equivalencia",
-              "body": "La herida del vencedor se convierte metafóricamente en sepultura de un enemigo: el dolor propio prueba la destrucción ajena."
+              "body": "La herida del vencedor se convierte metafóricamente en sepultura de un enemigo: el dolor propio prueba la destrucción ajena.",
+              "gloss": "cada herida fue la tumba de un enemigo"
             },
             {
               "term": "Hark",
               "type": "Léxico",
               "title": "Escuchen",
-              "body": "Imperativo de atención que introduce un sonido procedente de fuera de escena."
+              "body": "Imperativo de atención que introduce un sonido procedente de fuera de escena.",
+              "gloss": "escuchen"
             }
           ]
         },
@@ -8516,25 +8559,29 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "ushers",
               "type": "Léxico",
               "title": "Precursores ceremoniales",
-              "body": "Los sonidos anuncian la llegada de Marcio como si fueran ujieres que preceden a un personaje importante."
+              "body": "Los sonidos anuncian la llegada de Marcio como si fueran ujieres que preceden a un personaje importante.",
+              "gloss": "ujieres, anunciadores"
             },
             {
               "term": "before him he carries noise, and behind him he leaves tears",
               "type": "Retórica",
               "title": "Paralelismo y contraste",
-              "body": "La oposición espacial entre «before» y «behind» vincula la fama que precede al guerrero con el duelo que deja a su paso."
+              "body": "La oposición espacial entre «before» y «behind» vincula la fama que precede al guerrero con el duelo que deja a su paso.",
+              "gloss": "lo precede el clamor y lo sigue el llanto"
             },
             {
               "term": "nervy arm",
               "type": "Léxico",
               "title": "Brazo vigoroso",
-              "body": "«Nervy» remite a tendones y fuerza muscular, no al sentido moderno de nerviosismo."
+              "body": "«Nervy» remite a tendones y fuerza muscular, no al sentido moderno de nerviosismo. Fuente textual: Folger Digital Texts, Coriolanus, II.1 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/1/).",
+              "gloss": "brazo musculoso"
             },
             {
               "term": "being advanced, declines",
               "type": "Sintaxis e imagen",
               "title": "Ascenso y descenso del brazo",
-              "body": "El sujeto implícito es el brazo armado: el movimiento de levantarlo y abatirlo se convierte en una acción letal; «declines» no significa aquí decadencia moral."
+              "body": "El sujeto implícito es el brazo armado: el movimiento de levantarlo y abatirlo se convierte en una acción letal; «declines» no significa aquí decadencia moral. Fuente textual: Folger Digital Texts, Coriolanus, II.1 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/1/).",
+              "gloss": "se levanta y desciende"
             }
           ]
         },
