@@ -2334,6 +2334,22 @@
         "https://www.shakespeare-online.com/plays/corio_1_10.html"
       ],
       "status": "reviewed_with_open_sources_private_books_pending"
+    },
+    {
+      "id": "coriolanus-1-10-860-to-2-1-912",
+      "act": 1,
+      "scene": 10,
+      "first_line": 860,
+      "last_line": 912,
+      "reviewed_on": "2026-11-16",
+      "scope": "Segunda revisión de I.10 860–879 y II.1 880–912, 53 líneas y 38 fichas glosadas: violación del asilo y hospitalidad, imágenes de venganza, adivinación, animales y sátira de los tribunos. Referencias a Folger, contraste con EMOTHE y Shakespeare Online; EN/ES e IDs preservados. Cotejo privado y QA visual pendientes.",
+      "sources": [
+        "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/10/",
+        "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/1/",
+        "https://emothe.uv.es/biblioteca/textosEMOTHE/EMOTHE0676_Coriolanus.php",
+        "https://www.shakespeare-online.com/plays/corio_1_10.html"
+      ],
+      "status": "reviewed_with_open_sources_private_books_pending"
     }
   ],
   "verse_format_reviews": [
