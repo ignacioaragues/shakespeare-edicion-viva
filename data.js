@@ -7586,7 +7586,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "not alone",
               "type": "Sintaxis",
               "title": "No solo nosotros",
-              "body": "Bruto afirma que la censura de Marcio es compartida por otros, no que la pronuncien juntos ambos tribunos."
+              "body": "Bruto afirma que la censura de Marcio es compartida por otros, no que la pronuncien juntos ambos tribunos.",
+              "gloss": "no somos los únicos"
             }
           ]
         },
@@ -7600,31 +7601,36 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "helps",
               "type": "Léxico",
               "title": "Ayudas y apoyos",
-              "body": "El plural designa los auxilios de los que dependen; Menenio convierte «no estamos solos» en un ataque a su incompetencia."
+              "body": "El plural designa los auxilios de los que dependen; Menenio convierte «no estamos solos» en un ataque a su incompetencia.",
+              "gloss": "apoyos; auxiliares"
             },
             {
               "term": "wondrous single",
               "type": "Ironía",
               "title": "Extraordinariamente solos",
-              "body": "«Single» prolonga la burla de «alone» y puede sugerir aislamiento o falta de respaldo."
+              "body": "«Single» prolonga la burla de «alone» y puede sugerir aislamiento o falta de respaldo.",
+              "gloss": "extraordinariamente aislados"
             },
             {
               "term": "infantlike",
               "type": "Léxico",
               "title": "Infantiles",
-              "body": "El adjetivo degrada las capacidades políticas de los tribunos comparándolas con las de niños."
+              "body": "El adjetivo degrada las capacidades políticas de los tribunos comparándolas con las de niños.",
+              "gloss": "propias de niños"
             },
             {
               "term": "napes of your necks",
               "type": "Imagen corporal",
               "title": "Mirarse la nuca",
-              "body": "La imposibilidad física de mirarse la propia nuca dramatiza su falta de autoconocimiento."
+              "body": "La imposibilidad física de mirarse la propia nuca dramatiza su falta de autoconocimiento.",
+              "gloss": "nucas"
             },
             {
               "term": "interior survey",
               "type": "Retórica",
               "title": "Examen interior",
-              "body": "Menenio contrapone el escrutinio de Marcio al autoexamen que los tribunos rehúyen."
+              "body": "Menenio contrapone el escrutinio de Marcio al autoexamen que los tribunos rehúyen. Referencia textual: Folger Shakespeare Library, Coriolanus, II.1, líneas 914–920, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/1/.",
+              "gloss": "examen de sí mismos"
             }
           ]
         },
@@ -7645,19 +7651,22 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "a brace",
               "type": "Léxico",
               "title": "Un par",
-              "body": "«Brace» designa una pareja; aquí reduce a los dos tribunos a una unidad de burla."
+              "body": "«Brace» designa una pareja; aquí reduce a los dos tribunos a una unidad de burla.",
+              "gloss": "un par"
             },
             {
               "term": "unmeriting",
               "type": "Léxico moral",
               "title": "Sin mérito",
-              "body": "Adjetivo que niega que los magistrados merezcan el cargo o el reconocimiento que ostentan."
+              "body": "Adjetivo que niega que los magistrados merezcan el cargo o el reconocimiento que ostentan.",
+              "gloss": "sin merecimientos"
             },
             {
               "term": "alias fools",
               "type": "Retórica",
               "title": "O, dicho de otro modo, necios",
-              "body": "«Alias» introduce una denominación alternativa y remata el inventario de defectos con un insulto directo."
+              "body": "«Alias» introduce una denominación alternativa y remata el inventario de defectos con un insulto directo.",
+              "gloss": "o sea, necios"
             }
           ]
         },
@@ -7671,7 +7680,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "known well enough",
               "type": "Pragmática",
               "title": "Una réplica ambigua",
-              "body": "Sicinio devuelve a Menenio el juicio sobre la reputación: «bien conocido» puede insinuar que sus defectos son públicos. La amenaza queda implícita."
+              "body": "Sicinio devuelve a Menenio el juicio sobre la reputación: «bien conocido» puede insinuar que sus defectos son públicos. La amenaza queda implícita.",
+              "gloss": "también te conocemos de sobra"
             }
           ]
         },
@@ -7685,73 +7695,85 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "humorous patrician",
               "type": "Léxico histórico",
               "title": "Humorous",
-              "body": "No significa simplemente «gracioso»: remite al temperamento variable, según la antigua noción de los humores corporales. Menenio se presenta como alguien de carácter peculiar."
+              "body": "No significa simplemente «gracioso»: remite al temperamento variable, según la antigua noción de los humores corporales. Menenio se presenta como alguien de carácter peculiar.",
+              "gloss": "patricio de temperamento peculiar"
             },
             {
               "term": "allaying Tiber",
               "type": "Léxico e imagen",
               "title": "Agua que rebaja el vino",
-              "body": "Allay es «diluir, atemperar»; Tiber designa metonímicamente el agua del río romano. La copa de vino sin agua subraya su gusto por beber fuerte."
+              "body": "Allay es «diluir, atemperar»; Tiber designa metonímicamente el agua del río romano. La copa de vino sin agua subraya su gusto por beber fuerte.",
+              "gloss": "agua del Tíber para rebajar el vino"
             },
             {
               "term": "favoring the first complaint",
               "type": "Sintaxis e interpretación",
               "title": "La primera queja",
-              "body": "La construcción puede referirse a dar crédito demasiado pronto a quien se queja primero. «Something imperfect» atenúa irónicamente un defecto que Menenio reconoce."
+              "body": "La construcción puede referirse a dar crédito demasiado pronto a quien se queja primero. «Something imperfect» atenúa irónicamente un defecto que Menenio reconoce.",
+              "gloss": "dar la razón al primer reclamante"
             },
             {
               "term": "tinder-like",
               "type": "Imagen",
               "title": "Como yesca",
-              "body": "La yesca prende con facilidad: el símil describe una irritabilidad que se inflama por estímulos insignificantes."
+              "body": "La yesca prende con facilidad: el símil describe una irritabilidad que se inflama por estímulos insignificantes.",
+              "gloss": "inflamable como la yesca"
             },
             {
               "term": "buttock of the night",
               "type": "Metáfora",
               "title": "Las posaderas de la noche",
-              "body": "Contrasta burlescamente el final de la noche con la «frente» de la mañana: Menenio admite sus hábitos nocturnos y su inclinación a trasnochar."
+              "body": "Contrasta burlescamente el final de la noche con la «frente» de la mañana: Menenio admite sus hábitos nocturnos y su inclinación a trasnochar.",
+              "gloss": "trasero de la noche; altas horas"
             },
             {
               "term": "spend my malice in my breath",
               "type": "Retórica",
               "title": "Malicia verbal",
-              "body": "La expresión presenta la agresividad de Menenio como algo que se consume en palabras, no necesariamente en actos."
+              "body": "La expresión presenta la agresividad de Menenio como algo que se consume en palabras, no necesariamente en actos.",
+              "gloss": "descargo mi malicia hablando"
             },
             {
               "term": "wealsmen",
               "type": "Léxico político",
               "title": "Hombres de Estado",
-              "body": "Weal significa «bienestar público» o «comunidad política»; wealsmen designa a quienes intervienen en sus asuntos. Aquí hay ironía dirigida a los tribunos."
+              "body": "Weal significa «bienestar público» o «comunidad política»; wealsmen designa a quienes intervienen en sus asuntos. Aquí hay ironía dirigida a los tribunos. Referencia textual: Folger Shakespeare Library, Coriolanus, II.1, líneas 926–946, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/1/.",
+              "gloss": "hombres de Estado"
             },
             {
               "term": "Lycurguses",
               "type": "Alusión clásica",
               "title": "Licurgo",
-              "body": "Licurgo es el legislador tradicional de Esparta, paradigma antiguo de autoridad normativa. El plural irónico niega a los tribunos semejante talla."
+              "body": "Licurgo es el legislador tradicional de Esparta, paradigma antiguo de autoridad normativa. El plural irónico niega a los tribunos semejante talla. Referencia textual: Folger Shakespeare Library, Coriolanus, II.1, líneas 926–946, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/1/.",
+              "gloss": "Licurgos; legisladores ejemplares"
             },
             {
               "term": "the ass in compound",
               "type": "Juego verbal",
               "title": "El asno en la mezcla",
-              "body": "Ass («asno», «necio») figura como ingrediente de la mayoría de las sílabas de los tribunos: Menenio ridiculiza su discurso como una mezcla de necedades."
+              "body": "Ass («asno», «necio») figura como ingrediente de la mayoría de las sílabas de los tribunos: Menenio ridiculiza su discurso como una mezcla de necedades. Referencia textual: Folger Shakespeare Library, Coriolanus, II.1, líneas 926–946, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/1/.",
+              "gloss": "el asno mezclado en sus palabras"
             },
             {
               "term": "reverend grave men",
               "type": "Léxico y tono",
               "title": "Venerables y graves",
-              "body": "Reverend y grave son fórmulas de respeto y seriedad; Menenio finge concederles dignidad mientras la deshace con el ataque a sus rostros."
+              "body": "Reverend y grave son fórmulas de respeto y seriedad; Menenio finge concederles dignidad mientras la deshace con el ataque a sus rostros.",
+              "gloss": "hombres venerables y serios"
             },
             {
               "term": "map of my microcosm",
               "type": "Imagen filosófica",
               "title": "El mapa del microcosmos",
-              "body": "Microcosm llama al individuo un «pequeño mundo». El mapa es aquí un autorretrato de hábitos y defectos, no una descripción literal."
+              "body": "Microcosm llama al individuo un «pequeño mundo». El mapa es aquí un autorretrato de hábitos y defectos, no una descripción literal.",
+              "gloss": "mapa de mi pequeño mundo"
             },
             {
               "term": "bisson conspectuities",
               "type": "Léxico infrecuente",
               "title": "Miradas casi ciegas",
-              "body": "Bisson significa «ciego» o «de vista defectuosa»; conspectuities es una formación llamativa para la capacidad de ver. El efecto es un insulto deliberadamente ampuloso."
+              "body": "Bisson significa «ciego» o «de vista defectuosa»; conspectuities es una formación llamativa para la capacidad de ver. El efecto es un insulto deliberadamente ampuloso. Referencia textual: Folger Shakespeare Library, Coriolanus, II.1, líneas 926–946, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/1/.",
+              "gloss": "ojos cegatos; facultades de visión"
             }
           ]
         },
@@ -7765,7 +7787,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "Come, sir, come",
               "type": "Pragmática",
               "title": "Interrupción impaciente",
-              "body": "La repetición de «come» funciona como exhortación para que Menenio deje de hablar; no describe un desplazamiento físico."
+              "body": "La repetición de «come» funciona como exhortación para que Menenio deje de hablar; no describe un desplazamiento físico.",
+              "gloss": "vamos, basta ya"
             }
           ]
         },
@@ -7779,61 +7802,71 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "caps and legs",
               "type": "Costumbre social",
               "title": "Sombreros y reverencias",
-              "body": "La expresión reúne dos gestos de deferencia: quitarse el sombrero y doblar la pierna en señal de respeto. Menenio acusa a los tribunos de codiciar esas muestras de sumisión."
+              "body": "La expresión reúne dos gestos de deferencia: quitarse el sombrero y doblar la pierna en señal de respeto. Menenio acusa a los tribunos de codiciar esas muestras de sumisión.",
+              "gloss": "sombrerazos y reverencias"
             },
             {
               "term": "orange-wife",
               "type": "Léxico social",
               "title": "Vendedora de naranjas",
-              "body": "«Wife» puede designar aquí a una mujer de oficio o condición popular, no a la esposa de alguien mencionado en la escena."
+              "body": "«Wife» puede designar aquí a una mujer de oficio o condición popular, no a la esposa de alguien mencionado en la escena.",
+              "gloss": "vendedora de naranjas"
             },
             {
               "term": "faucet-seller",
               "type": "Léxico",
               "title": "Vendedor de grifos",
-              "body": "«Faucet» designa una espita o llave para extraer líquido de un recipiente. La pareja de comerciantes sitúa el litigio en un ámbito cotidiano y de escasa cuantía."
+              "body": "«Faucet» designa una espita o llave para extraer líquido de un recipiente. La pareja de comerciantes sitúa el litigio en un ámbito cotidiano y de escasa cuantía.",
+              "gloss": "vendedor de espitas"
             },
             {
               "term": "rejourn",
               "type": "Léxico jurídico",
               "title": "Aplazar una audiencia",
-              "body": "Variante de «adjourn»: suspender o trasladar el examen de un asunto a otra sesión. La burla se dirige a la dilación desproporcionada."
+              "body": "Variante de «adjourn»: suspender o trasladar el examen de un asunto a otra sesión. La burla se dirige a la dilación desproporcionada. Referencia textual: Folger Shakespeare Library, Coriolanus, II.1, líneas 948–961, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/1/.",
+              "gloss": "aplazar; volver a citar"
             },
             {
               "term": "threepence",
               "type": "Moneda",
               "title": "Tres peniques",
-              "body": "Una suma pequeña, que acentúa el contraste cómico entre la insignificancia económica del litigio y el tiempo que los magistrados le dedican."
+              "body": "Una suma pequeña, que acentúa el contraste cómico entre la insignificancia económica del litigio y el tiempo que los magistrados le dedican.",
+              "gloss": "tres peniques"
             },
             {
               "term": "mummers",
               "type": "Teatro y cultura",
               "title": "Actores enmascarados",
-              "body": "Los «mummers» participaban en representaciones populares, a menudo disfrazados. La comparación ridiculiza las contorsiones del rostro de los tribunos."
+              "body": "Los «mummers» participaban en representaciones populares, a menudo disfrazados. La comparación ridiculiza las contorsiones del rostro de los tribunos.",
+              "gloss": "actores disfrazados"
             },
             {
               "term": "bloody flag",
               "type": "Imagen retórica",
               "title": "La bandera sangrienta",
-              "body": "Imagen de hostilidad o combate aplicada hiperbólicamente al ataque de cólico. «Against all patience» hace de la paciencia el enemigo al que se declara la guerra."
+              "body": "Imagen de hostilidad o combate aplicada hiperbólicamente al ataque de cólico. «Against all patience» hace de la paciencia el enemigo al que se declara la guerra.",
+              "gloss": "bandera de guerra sangrienta"
             },
             {
               "term": "chamber pot",
               "type": "Cultura material",
               "title": "Orinal",
-              "body": "Recipiente de uso doméstico para las necesidades corporales. El detalle escatológico rebaja la solemnidad del procedimiento judicial."
+              "body": "Recipiente de uso doméstico para las necesidades corporales. El detalle escatológico rebaja la solemnidad del procedimiento judicial.",
+              "gloss": "orinal"
             },
             {
               "term": "dismiss the controversy bleeding",
               "type": "Personificación",
               "title": "Un litigio herido",
-              "body": "La disputa es figurada como un cuerpo que sale sangrando de la audiencia: lejos de resolverla, los jueces la dejan en peor estado."
+              "body": "La disputa es figurada como un cuerpo que sale sangrando de la audiencia: lejos de resolverla, los jueces la dejan en peor estado.",
+              "gloss": "dejar el pleito malherido"
             },
             {
               "term": "knaves",
               "type": "Léxico y sátira",
               "title": "Bribones",
-              "body": "«Knave» puede significar pícaro, sinvergüenza o persona despreciable. El fallo que Menenio atribuye a los tribunos se reduce a insultar a las dos partes."
+              "body": "«Knave» puede significar pícaro, sinvergüenza o persona despreciable. El fallo que Menenio atribuye a los tribunos se reduce a insultar a las dos partes.",
+              "gloss": "bribones"
             }
           ]
         },
