@@ -10467,7 +10467,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "Worthy man",
               "type": "Léxico",
               "title": "Mérito",
-              "body": "«Worthy» elogia el mérito de Coriolano; no designa su riqueza."
+              "body": "«Worthy» elogia el mérito de Coriolano; no designa su riqueza.",
+              "gloss": "hombre admirable"
             }
           ]
         },
@@ -10481,13 +10482,15 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "with measure fit",
               "type": "Sintaxis",
               "title": "Proporción entre mérito y honores",
-              "body": "«Fit» indica correspondencia; «with measure» introduce la idea de una medida apropiada."
+              "body": "«Fit» indica correspondencia; «with measure» introduce la idea de una medida apropiada.",
+              "gloss": "estar a la altura, en justa medida"
             },
             {
               "term": "devise him",
               "type": "Léxico",
               "title": "Honores proyectados",
-              "body": "«Devise» significa aquí disponer o proyectar; «him» señala al destinatario."
+              "body": "«Devise» significa aquí disponer o proyectar; «him» señala al destinatario.",
+              "gloss": "le destinamos"
             }
           ]
         },
@@ -10501,37 +10504,43 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "spoils",
               "type": "Léxico militar",
               "title": "Botín",
-              "body": "«Spoils» son los despojos obtenidos en la guerra."
+              "body": "«Spoils» son los despojos obtenidos en la guerra.",
+              "gloss": "botín de guerra"
             },
             {
               "term": "kicked at",
               "type": "Imagen",
               "title": "Rechazo activo",
-              "body": "La expresión evoca un puntapié de desprecio, sin exigir una acción literal en escena."
+              "body": "La expresión evoca un puntapié de desprecio, sin exigir una acción literal en escena.",
+              "gloss": "despreció"
             },
             {
               "term": "common muck",
               "type": "Imagen",
               "title": "Estiércol",
-              "body": "«Muck» designa suciedad o estiércol: los objetos preciosos se rebajan a materia vil."
+              "body": "«Muck» designa suciedad o estiércol: los objetos preciosos se rebajan a materia vil.",
+              "gloss": "estiércol corriente"
             },
             {
               "term": "misery itself",
               "type": "Hipérbole",
               "title": "La miseria personificada",
-              "body": "Cominio exagera el desinterés material del héroe al compararlo con la indigencia extrema."
+              "body": "Cominio exagera el desinterés material del héroe al compararlo con la indigencia extrema.",
+              "gloss": "la indigencia misma"
             },
             {
               "term": "rewards",
               "type": "Retórica",
               "title": "La acción como recompensa",
-              "body": "El juego «deeds / doing» presenta la realización de la hazaña como premio suficiente."
+              "body": "El juego «deeds / doing» presenta la realización de la hazaña como premio suficiente.",
+              "gloss": "se recompensa"
             },
             {
               "term": "spend the time to end it",
               "type": "Interpretación",
               "title": "Tiempo y conclusión",
-              "body": "El cierre comprimido puede entenderse como dedicar el tiempo a concluir la tarea; no exige leer un deseo de morir."
+              "body": "El cierre comprimido puede entenderse como dedicar el tiempo a concluir la tarea; no exige leer un deseo de morir.",
+              "gloss": "dedicar el tiempo a concluir la tarea"
             }
           ]
         },
@@ -10545,7 +10554,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "right noble",
               "type": "Gramática histórica",
               "title": "Intensificador",
-              "body": "«Right» significa aquí «muy» o «verdaderamente»."
+              "body": "«Right» significa aquí «muy» o «verdaderamente».",
+              "gloss": "verdaderamente noble"
             }
           ]
         },
@@ -10567,7 +10577,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "doth appear",
               "type": "Gramática histórica",
               "title": "Comparecencia",
-              "body": "«Doth» es el auxiliar de tercera persona singular; «appear» indica que Coriolano se presenta."
+              "body": "«Doth» es el auxiliar de tercera persona singular; «appear» indica que Coriolano se presenta. Para el lema y la flexión histórica, véase https://en.wiktionary.org/wiki/do.",
+              "gloss": "se presenta"
             }
           ]
         },
@@ -10581,13 +10592,15 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "well pleased",
               "type": "Léxico",
               "title": "Aprobación senatorial",
-              "body": "El Senado respalda la candidatura; todavía falta el voto popular."
+              "body": "El Senado respalda la candidatura; todavía falta el voto popular.",
+              "gloss": "se complace"
             },
             {
               "term": "thee",
               "type": "Gramática histórica",
               "title": "Segunda persona singular",
-              "body": "«Thee» es la forma objetiva singular del pronombre; aquí complementa «make»."
+              "body": "«Thee» es la forma objetiva singular del pronombre; aquí complementa «make». Para el lema y la flexión histórica, véase https://en.wiktionary.org/wiki/thee.",
+              "gloss": "a ti"
             }
           ]
         },
@@ -10601,13 +10614,15 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "do owe",
               "type": "Gramática histórica",
               "title": "Auxiliar enfático",
-              "body": "«Do» refuerza la afirmación de la deuda."
+              "body": "«Do» refuerza la afirmación de la deuda.",
+              "gloss": "ciertamente debo"
             },
             {
               "term": "still",
               "type": "Léxico",
               "title": "Continuidad",
-              "body": "«Still» señala que la obligación persiste."
+              "body": "«Still» señala que la obligación persiste.",
+              "gloss": "todavía; siempre"
             }
           ]
         },
@@ -10621,13 +10636,15 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "It then remains",
               "type": "Sintaxis",
               "title": "Paso pendiente",
-              "body": "La construcción impersonal introduce un requisito todavía no cumplido."
+              "body": "La construcción impersonal introduce un requisito todavía no cumplido.",
+              "gloss": "solo resta"
             },
             {
               "term": "do speak",
               "type": "Gramática histórica",
               "title": "Auxiliar",
-              "body": "«Do» acompaña al verbo en una subordinada; no añade otra acción."
+              "body": "«Do» acompaña al verbo en una subordinada; no añade otra acción.",
+              "gloss": "hables"
             }
           ]
         },
@@ -10641,31 +10658,36 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "o’erleap",
               "type": "Metáfora",
               "title": "Saltarse el rito",
-              "body": "El verbo «saltar por encima» significa aquí eludir una obligación ceremonial."
+              "body": "El verbo «saltar por encima» significa aquí eludir una obligación ceremonial. Para el lema y la flexión histórica, véase https://en.wiktionary.org/wiki/overleap.",
+              "gloss": "saltarme; eludir"
             },
             {
               "term": "gown",
               "type": "Contexto escénico",
               "title": "Toga del candidato",
-              "body": "La vestimenta ceremonial permite mostrar las heridas; «stand naked» no exige desnudez completa."
+              "body": "La vestimenta ceremonial permite mostrar las heridas; «stand naked» no exige desnudez completa. Lectura contextual: la ceremonia convierte las heridas militares en credenciales políticas; véase el estudio «The Armored Body as Trophy», Stanford Humanities Center, sección sobre Coriolanus y la vestimenta cívica, https://shc.stanford.edu/arcade/interventions/armored-body-trophy-problem-roman-subject-shakespeares-julius-caesar-antony.",
+              "gloss": "toga de candidato"
             },
             {
               "term": "suffrage",
               "type": "Léxico político",
               "title": "Voto",
-              "body": "«Suffrage» designa el voto que debe solicitar a los ciudadanos."
+              "body": "«Suffrage» designa el voto que debe solicitar a los ciudadanos. Lectura contextual: la ceremonia convierte las heridas militares en credenciales políticas; véase el estudio «The Armored Body as Trophy», Stanford Humanities Center, sección sobre Coriolanus y la vestimenta cívica, https://shc.stanford.edu/arcade/interventions/armored-body-trophy-problem-roman-subject-shakespeares-julius-caesar-antony.",
+              "gloss": "voto"
             },
             {
               "term": "Please you",
               "type": "Sintaxis histórica",
               "title": "Petición cortés",
-              "body": "Fórmula equivalente a «si les parece bien»."
+              "body": "Fórmula equivalente a «si les parece bien».",
+              "gloss": "si les parece bien"
             },
             {
               "term": "pass this doing",
               "type": "Léxico",
               "title": "Omitir el trámite",
-              "body": "«Pass» expresa evitar o dejar de realizar el acto exigido."
+              "body": "«Pass» expresa evitar o dejar de realizar el acto exigido.",
+              "gloss": "evitar este trámite"
             }
           ]
         },
@@ -10679,19 +10701,22 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "voices",
               "type": "Léxico político",
               "title": "Votos",
-              "body": "«Voices» significa aquí votos, no meras voces pronunciadas."
+              "body": "«Voices» significa aquí votos, no meras voces pronunciadas.",
+              "gloss": "votos"
             },
             {
               "term": "bate",
               "type": "Léxico histórico",
               "title": "Ceder",
-              "body": "«Bate» significa reducir o dispensar una parte."
+              "body": "«Bate» significa reducir o dispensar una parte.",
+              "gloss": "reducir; dispensar"
             },
             {
               "term": "One jot",
               "type": "Modismo",
               "title": "Ni un ápice",
-              "body": "«Jot» designa una cantidad mínima; Sicinio exige el rito completo."
+              "body": "«Jot» designa una cantidad mínima; Sicinio exige el rito completo.",
+              "gloss": "ni una pizca"
             }
           ]
         },
@@ -10705,19 +10730,22 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "Put them not to ’t",
               "type": "Sintaxis histórica",
               "title": "No los fuerces a ello",
-              "body": "El pronombre «them» remite a quienes exigen el cumplimiento de la ceremonia; «to ’t» equivale a «to it»."
+              "body": "El pronombre «them» remite a quienes exigen el cumplimiento de la ceremonia; «to ’t» equivale a «to it».",
+              "gloss": "no los obligues a ello"
             },
             {
               "term": "fit you to the custom",
               "type": "Léxico",
               "title": "Acomodarse a la costumbre",
-              "body": "«Fit» funciona aquí como verbo transitivo reflexivo: adaptar la propia conducta a un uso establecido."
+              "body": "«Fit» funciona aquí como verbo transitivo reflexivo: adaptar la propia conducta a un uso establecido.",
+              "gloss": "adáptate a la costumbre"
             },
             {
               "term": "Your honor with your form",
               "type": "Retórica política",
               "title": "Honor y ceremonia",
-              "body": "Menenio presenta el rito público como inseparable del reconocimiento del cargo. «Form» alude al procedimiento, no a la apariencia física."
+              "body": "Menenio presenta el rito público como inseparable del reconocimiento del cargo. «Form» alude al procedimiento, no a la apariencia física. Comparación editorial: C. F. Tucker Brooke (ed.), Coriolanus, Yale, 1924, II.2, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_II; cotejar asimismo la nota de Steevens sobre «your form» en la edición histórica disponible en Wikimedia Commons.",
+              "gloss": "el honor con su ceremonia"
             }
           ]
         },
@@ -10731,19 +10759,22 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "a part",
               "type": "Metáfora teatral",
               "title": "Un papel que representar",
-              "body": "Coriolano compara el trámite político con una actuación; la continuación «acting» vuelve explícita la imagen."
+              "body": "Coriolano compara el trámite político con una actuación; la continuación «acting» vuelve explícita la imagen. Lectura contextual: la ceremonia convierte las heridas militares en credenciales políticas; véase el estudio «The Armored Body as Trophy», Stanford Humanities Center, sección sobre Coriolanus y la vestimenta cívica, https://shc.stanford.edu/arcade/interventions/armored-body-trophy-problem-roman-subject-shakespeares-julius-caesar-antony.",
+              "gloss": "un papel teatral"
             },
             {
               "term": "blush",
               "type": "Léxico y caracterización",
               "title": "Sonrojarse",
-              "body": "La vergüenza se refiere a representar una conducta que considera indigna de sí, no a temor ante los ciudadanos."
+              "body": "La vergüenza se refiere a representar una conducta que considera indigna de sí, no a temor ante los ciudadanos.",
+              "gloss": "sonrojarme"
             },
             {
               "term": "taken from the people",
               "type": "Interpretación sintáctica",
               "title": "Dispensar al pueblo",
-              "body": "La frase permite entender que el acto podría suprimirse para el pueblo; la referencia precisa de «it» depende del contexto ceremonial."
+              "body": "La frase permite entender que el acto podría suprimirse para el pueblo; la referencia precisa de «it» depende del contexto ceremonial. Comparación editorial: C. F. Tucker Brooke (ed.), Coriolanus, Yale, 1924, II.2, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_II; cotejar asimismo la nota de Steevens sobre «your form» en la edición histórica disponible en Wikimedia Commons.",
+              "gloss": "ahorrársele al pueblo"
             }
           ]
         },
@@ -10757,7 +10788,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "Mark you that",
               "type": "Gramática histórica",
               "title": "Fíjate en eso",
-              "body": "«Mark» es imperativo; Bruto habla aparte a Sicinio y señala la actitud de Coriolano."
+              "body": "«Mark» es imperativo; Bruto habla aparte a Sicinio y señala la actitud de Coriolano.",
+              "gloss": "¿te fijaste en eso?"
             }
           ]
         },
@@ -10771,25 +10803,29 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "brag",
               "type": "Léxico",
               "title": "Jactarse",
-              "body": "El verbo expresa ostentación verbal; Coriolano rechaza convertir sus acciones militares en propaganda electoral."
+              "body": "El verbo expresa ostentación verbal; Coriolano rechaza convertir sus acciones militares en propaganda electoral.",
+              "gloss": "jactarme"
             },
             {
               "term": "unaching scars",
               "type": "Léxico",
               "title": "Cicatrices que ya no duelen",
-              "body": "«Unaching» indica que el dolor ha cesado, no que las heridas sean insignificantes."
+              "body": "«Unaching» indica que el dolor ha cesado, no que las heridas sean insignificantes. Lectura contextual: la ceremonia convierte las heridas militares en credenciales políticas; véase el estudio «The Armored Body as Trophy», Stanford Humanities Center, sección sobre Coriolanus y la vestimenta cívica, https://shc.stanford.edu/arcade/interventions/armored-body-trophy-problem-roman-subject-shakespeares-julius-caesar-antony.",
+              "gloss": "cicatrices que ya no duelen"
             },
             {
               "term": "hire",
               "type": "Metáfora económica",
               "title": "Pago o salario",
-              "body": "Coriolano rechaza que sus heridas parezcan obtenidas como contraprestación por la aprobación popular."
+              "body": "Coriolano rechaza que sus heridas parezcan obtenidas como contraprestación por la aprobación popular.",
+              "gloss": "paga; recompensa"
             },
             {
               "term": "their breath",
               "type": "Metonimia política",
               "title": "El aliento de los votantes",
-              "body": "«Breath» es literalmente aliento, pero aquí representa la voz o el voto emitido por los ciudadanos."
+              "body": "«Breath» es literalmente aliento, pero aquí representa la voz o el voto emitido por los ciudadanos. Lectura contextual: la ceremonia convierte las heridas militares en credenciales políticas; véase el estudio «The Armored Body as Trophy», Stanford Humanities Center, sección sobre Coriolanus y la vestimenta cívica, https://shc.stanford.edu/arcade/interventions/armored-body-trophy-problem-roman-subject-shakespeares-julius-caesar-antony.",
+              "gloss": "sus voces; sus votos"
             }
           ]
         },
@@ -10803,25 +10839,29 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "stand upon ’t",
               "type": "Modismo",
               "title": "No insistir",
-              "body": "«Stand upon» significa aquí empeñarse en un punto; «’t» abrevia «it», referido al trámite discutido."
+              "body": "«Stand upon» significa aquí empeñarse en un punto; «’t» abrevia «it», referido al trámite discutido.",
+              "gloss": "insistir en ello"
             },
             {
               "term": "recommend to you",
               "type": "Léxico histórico",
               "title": "Encomendar",
-              "body": "«Recommend» significa confiar una gestión a los tribunos, no simplemente elogiar."
+              "body": "«Recommend» significa confiar una gestión a los tribunos, no simplemente elogiar.",
+              "gloss": "les encomendamos"
             },
             {
               "term": "Our purpose",
               "type": "Contexto político",
               "title": "Decisión del Senado",
-              "body": "La propuesta senatorial debe comunicarse al pueblo; la elección popular todavía no se ha consumado."
+              "body": "La propuesta senatorial debe comunicarse al pueblo; la elección popular todavía no se ha consumado.",
+              "gloss": "nuestra decisión"
             },
             {
               "term": "noble consul",
               "type": "Tratamiento político",
               "title": "Cónsul anticipado",
-              "body": "Menenio llama «consul» a Coriolano en el contexto de la nominación; no significa que ya haya obtenido los votos ciudadanos."
+              "body": "Menenio llama «consul» a Coriolano en el contexto de la nominación; no significa que ya haya obtenido los votos ciudadanos.",
+              "gloss": "noble cónsul designado"
             }
           ]
         },
@@ -10836,7 +10876,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "all joy and honor",
               "type": "Retórica",
               "title": "Aclamación colectiva",
-              "body": "El deseo colectivo cierra solemnemente la reunión; contrasta con el diálogo crítico que sigue entre los tribunos."
+              "body": "El deseo colectivo cierra solemnemente la reunión; contrasta con el diálogo crítico que sigue entre los tribunos.",
+              "gloss": "toda alegría y honor"
             }
           ]
         },
@@ -10850,7 +10891,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "use the people",
               "type": "Léxico y política",
               "title": "Tratar al pueblo",
-              "body": "«Use» designa aquí el modo de conducirse con los ciudadanos; Bruto interpreta la actitud de Coriolano como desprecio."
+              "body": "«Use» designa aquí el modo de conducirse con los ciudadanos; Bruto interpreta la actitud de Coriolano como desprecio.",
+              "gloss": "tratar al pueblo"
             }
           ]
         },
@@ -10864,25 +10906,29 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "perceive ’s intent",
               "type": "Gramática histórica",
               "title": "Percibir su intención",
-              "body": "«’s» es aquí la contracción de «his», no una marca de posesivo añadida al verbo."
+              "body": "«’s» es aquí la contracción de «his», no una marca de posesivo añadida al verbo.",
+              "gloss": "percibir su intención"
             },
             {
               "term": "require them",
               "type": "Léxico histórico",
               "title": "Solicitarles algo",
-              "body": "«Require» tiene aquí el sentido de pedir o reclamar a los ciudadanos su voto."
+              "body": "«Require» tiene aquí el sentido de pedir o reclamar a los ciudadanos su voto.",
+              "gloss": "pedirles el voto"
             },
             {
               "term": "contemn",
               "type": "Léxico",
               "title": "Despreciar",
-              "body": "Verbo de registro elevado que significa mirar con desprecio; refuerza la paradoja entre pedir y desdeñar."
+              "body": "Verbo de registro elevado que significa mirar con desprecio; refuerza la paradoja entre pedir y desdeñar.",
+              "gloss": "despreciar"
             },
             {
               "term": "in them to give",
               "type": "Sintaxis",
               "title": "En su potestad concederlo",
-              "body": "La construcción expresa que corresponde a los ciudadanos otorgar aquello que Coriolano solicita."
+              "body": "La construcción expresa que corresponde a los ciudadanos otorgar aquello que Coriolano solicita.",
+              "gloss": "que les corresponde conceder"
             }
           ]
         },
@@ -10897,19 +10943,22 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "proceedings",
               "type": "Léxico político",
               "title": "Lo tratado en la sesión",
-              "body": "«Proceedings» alude a las actuaciones o decisiones de la reunión senatorial."
+              "body": "«Proceedings» alude a las actuaciones o decisiones de la reunión senatorial.",
+              "gloss": "lo tratado en la sesión"
             },
             {
               "term": "marketplace",
               "type": "Espacio escénico",
               "title": "Plaza del mercado",
-              "body": "Es el espacio público donde los tribunos esperan encontrar a los ciudadanos; prepara la escena siguiente."
+              "body": "Es el espacio público donde los tribunos esperan encontrar a los ciudadanos; prepara la escena siguiente.",
+              "gloss": "plaza del mercado"
             },
             {
               "term": "attend us",
               "type": "Léxico histórico",
               "title": "Nos esperan",
-              "body": "«Attend» aquí significa esperar la llegada de alguien, no asistir a una reunión."
+              "body": "«Attend» aquí significa esperar la llegada de alguien, no asistir a una reunión.",
+              "gloss": "nos esperan"
             }
           ]
         }
