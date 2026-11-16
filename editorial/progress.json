@@ -2539,6 +2539,20 @@
         "https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Notes"
       ],
       "status": "reviewed_with_open_sources_private_books_pending"
+    },
+    {
+      "id": "coriolanus-2-3-1523-1568",
+      "act": 2,
+      "scene": 3,
+      "first_line": 1523,
+      "last_line": 1568,
+      "reviewed_on": "2026-11-17",
+      "scope": "Segunda revisión filológica de 46 líneas Folger: 11 fichas afinadas sobre investidura consular, indumentaria ritual, juicio de los ciudadanos y presión retórica de los tribunos. Textos EN/ES, identificadores y marcadores intactos. Cotejo privado y QA visual pendientes.",
+      "sources": [
+        "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/",
+        "https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_II"
+      ],
+      "status": "reviewed_with_open_sources_private_books_pending"
     }
   ],
   "verse_format_reviews": [

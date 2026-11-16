@@ -12237,25 +12237,25 @@ window.SHAKESPEARE_READER_DATA = {
             {
               "term": "stood your limitation",
               "type": "Nota filológica",
-              "title": "Plazo cumplido",
-              "gloss": "has cumplido el plazo",
-              "body": "«Limitation» se refiere al período o requisito formal de la solicitud, no a una incapacidad. Folger, Coriolanus II.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; cotejo Shakespeare Online: https://www.shakespeare-online.com/plays/corio_2_3.html."
+              "title": "Rito cumplido",
+              "gloss": "haber cumplido la obligación establecida",
+              "body": "«Limitation» designa aquí el requisito impuesto a la candidatura, no una incapacidad personal. Menenio da por satisfecho el trámite del sufragio. Fuentes: Folger Shakespeare Library, Coriolanus, II.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; C. F. Tucker Brooke (ed.), Coriolanus (Yale, 1924), acto II, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_II."
             },
             {
               "term": "Endue",
               "type": "Nota filológica",
-              "title": "Investidura",
-              "gloss": "confieren; revisten",
+              "title": "Conferir",
+              "gloss": "conferir; investir de",
               "lemma": "endue",
               "lemmaUrl": "https://en.wiktionary.org/wiki/endue",
-              "body": "El verbo significa conferir o revestir de una cualidad o dignidad. Folger, Coriolanus II.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; cotejo Shakespeare Online: https://www.shakespeare-online.com/plays/corio_2_3.html."
+              "body": "Verbo de investidura: los tribunos atribuyen formalmente al candidato la voz colectiva. La lectura no implica que los tribunos sean propietarios de los votos. Fuentes: Folger Shakespeare Library, Coriolanus, II.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; C. F. Tucker Brooke (ed.), Coriolanus (Yale, 1924), acto II, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_II."
             },
             {
               "term": "official marks",
               "type": "Nota filológica",
-              "title": "Insignias oficiales",
-              "gloss": "insignias del cargo",
-              "body": "Las señales externas de dignidad pública no se describen con precisión en el texto. Folger, Coriolanus II.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; cotejo Shakespeare Online: https://www.shakespeare-online.com/plays/corio_2_3.html."
+              "title": "Insignias del cargo",
+              "gloss": "insignias oficiales",
+              "body": "El cambio de indumentaria indica el paso del vestido humilde del solicitante a los signos de la magistratura; la escena subraya la dimensión performativa de la autoridad. Fuentes: Folger Shakespeare Library, Coriolanus, II.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; C. F. Tucker Brooke (ed.), Coriolanus (Yale, 1924), acto II, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_II."
             },
             {
               "term": "Anon",
@@ -12293,9 +12293,9 @@ window.SHAKESPEARE_READER_DATA = {
             {
               "term": "approbation",
               "type": "Nota filológica",
-              "title": "Aprobación política",
+              "title": "Ratificación",
               "gloss": "aprobación; ratificación",
-              "body": "La reunión posterior distingue el consentimiento inicial de la conclusión del procedimiento. Folger, Coriolanus II.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; cotejo Shakespeare Online: https://www.shakespeare-online.com/plays/corio_2_3.html."
+              "body": "El término nombra la aprobación de la candidatura en el procedimiento descrito, sin identificar por sí solo una votación moderna idéntica a la actual. Fuentes: Folger Shakespeare Library, Coriolanus, II.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; C. F. Tucker Brooke (ed.), Coriolanus (Yale, 1924), acto II, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_II."
             }
           ]
         },
@@ -12344,9 +12344,9 @@ window.SHAKESPEARE_READER_DATA = {
             {
               "term": "knowing myself again",
               "type": "Nota filológica",
-              "title": "Identidad y vestido",
-              "gloss": "volver a ser yo mismo",
-              "body": "La ropa de solicitante aparece como una identidad que el personaje siente ajena; es una lectura dramática. Folger, Coriolanus II.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; cotejo Shakespeare Online: https://www.shakespeare-online.com/plays/corio_2_3.html."
+              "title": "Recobrar su identidad",
+              "gloss": "volver a reconocerme",
+              "body": "Coriolano asocia quitarse la ropa de solicitante con recuperar su identidad social. Es una lectura dramática de la expresión, no una definición literal de «know». Fuentes: Folger Shakespeare Library, Coriolanus, II.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; C. F. Tucker Brooke (ed.), Coriolanus (Yale, 1924), acto II, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_II."
             },
             {
               "term": "Repair",
@@ -12399,9 +12399,9 @@ window.SHAKESPEARE_READER_DATA = {
             {
               "term": "warm at ’s heart",
               "type": "Nota filológica",
-              "title": "Metáfora afectiva",
-              "gloss": "le calienta el corazón",
-              "body": "Sicinio infiere satisfacción a partir del rostro de Coriolano; la frase no certifica su estado interior. Folger, Coriolanus II.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; cotejo Shakespeare Online: https://www.shakespeare-online.com/plays/corio_2_3.html."
+              "title": "Satisfacción íntima",
+              "gloss": "le alegra el corazón",
+              "body": "«Warm» sugiere que el éxito le resulta grato; Sicinio interpreta su semblante, de modo que la frase expresa una inferencia del tribuno. Fuentes: Folger Shakespeare Library, Coriolanus, II.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; C. F. Tucker Brooke (ed.), Coriolanus (Yale, 1924), acto II, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_II."
             }
           ]
         },
@@ -12414,11 +12414,11 @@ window.SHAKESPEARE_READER_DATA = {
             {
               "term": "humble weeds",
               "type": "Nota filológica",
-              "title": "Vestido y antítesis",
-              "gloss": "ropa humilde",
+              "title": "Ropas humildes",
+              "gloss": "atuendo humilde",
               "lemma": "weed",
               "lemmaUrl": "https://en.wiktionary.org/wiki/weed",
-              "body": "«Weeds» significa prendas; «proud / humble» contrapone orgullo interior y apariencia exterior. Folger, Coriolanus II.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; cotejo Shakespeare Online: https://www.shakespeare-online.com/plays/corio_2_3.html."
+              "body": "«Weeds» significa prendas de vestir, no plantas; el contraste «proud / humble» articula la ironía política de Bruto. Fuentes: Folger Shakespeare Library, Coriolanus, II.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; C. F. Tucker Brooke (ed.), Coriolanus (Yale, 1924), acto II, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_II."
             },
             {
               "term": "dismiss the people",
@@ -12475,9 +12475,9 @@ window.SHAKESPEARE_READER_DATA = {
             {
               "term": "To my poor unworthy notice",
               "type": "Nota filológica",
-              "title": "To my poor unworthy notice",
-              "gloss": "según mi humilde parecer",
-              "body": "Fórmula de modestia que atenúa formalmente una acusación directa. Folger: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; cotejo: https://www.shakespeare-online.com/plays/corio_2_3.html."
+              "title": "A mi parecer",
+              "gloss": "según mi modesta apreciación",
+              "body": "Fórmula de modestia del ciudadano que introduce un juicio desfavorable. No equivale a una confesión de ignorancia real. Fuentes: Folger Shakespeare Library, Coriolanus, II.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; C. F. Tucker Brooke (ed.), Coriolanus (Yale, 1924), acto II, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_II."
             }
           ]
         },
@@ -12533,9 +12533,9 @@ window.SHAKESPEARE_READER_DATA = {
             {
               "term": "marks of merit",
               "type": "Nota filológica",
-              "title": "marks of merit",
-              "gloss": "pruebas de su mérito",
-              "body": "Las heridas son signos visibles de servicio militar; se reprocha que no las haya mostrado. Folger: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; cotejo: https://www.shakespeare-online.com/plays/corio_2_3.html."
+              "title": "Cicatrices como pruebas",
+              "gloss": "señales de mérito; heridas",
+              "body": "Las heridas funcionan como pruebas visibles de servicio militar, según la costumbre escenificada; el ciudadano denuncia que no fueron exhibidas. Fuentes: Folger Shakespeare Library, Coriolanus, II.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; C. F. Tucker Brooke (ed.), Coriolanus (Yale, 1924), acto II, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_II."
             }
           ]
         },
@@ -12594,11 +12594,11 @@ window.SHAKESPEARE_READER_DATA = {
             {
               "term": "Agèd custom",
               "type": "Nota filológica",
-              "title": "Agèd custom",
+              "title": "Costumbre antigua",
               "gloss": "antigua costumbre",
               "lemma": "aged",
               "lemmaUrl": "https://en.wiktionary.org/wiki/aged",
-              "body": "«Agèd» modifica «custom»: no alude a un elector anciano. Fuentes: Folger, Coriolanus II.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; cotejo Shakespeare Online, https://www.shakespeare-online.com/plays/corio_2_3.html."
+              "body": "«Agèd» modifica «custom» y alude a la antigüedad del rito; el ciudadano reproduce irónicamente el discurso de Coriolano. Fuentes: Folger Shakespeare Library, Coriolanus, II.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; C. F. Tucker Brooke (ed.), Coriolanus (Yale, 1924), acto II, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_II."
             },
             {
               "term": "Your voices therefore",
@@ -12639,9 +12639,9 @@ window.SHAKESPEARE_READER_DATA = {
             {
               "term": "childish friendliness",
               "type": "Nota filológica",
-              "title": "childish friendliness",
+              "title": "Docilidad ingenua",
               "gloss": "ingenua complacencia",
-              "body": "La aparente amistad se califica de infantil: Sicinio reinterpreta el voto como una falta de juicio. Fuentes: Folger, Coriolanus II.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; cotejo Shakespeare Online, https://www.shakespeare-online.com/plays/corio_2_3.html."
+              "body": "Sicinio convierte la aceptación del voto en una falta de discernimiento: la alternativa «ignorant / childish» es una pregunta acusatoria. Fuentes: Folger Shakespeare Library, Coriolanus, II.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; C. F. Tucker Brooke (ed.), Coriolanus (Yale, 1924), acto II, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_II."
             },
             {
               "term": "yield your voices",
