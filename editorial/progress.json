@@ -2424,6 +2424,21 @@
         "https://upload.wikimedia.org/wikipedia/commons/2/28/Shakespeare%27s_tragedy_of_Coriolanus_%28IA_shakespearestrag03shakesp%29.pdf"
       ],
       "status": "reviewed_with_open_sources_private_books_pending"
+    },
+    {
+      "id": "coriolanus-2-1-1152-to-2-2-1198",
+      "act": 2,
+      "scene": 1,
+      "first_line": 1152,
+      "last_line": 1198,
+      "reviewed_on": "2026-11-16",
+      "scope": "Segunda revisión filológica de 47 líneas Folger, II.1 1152–1183 y II.2 1184–1198: 28 glosas contextualizadas, notas sobre manipulación política, metáfora animal, recepción pública y juicio de los oficiales; fuentes abiertas cotejadas. Sin modificar texto EN/ES, IDs, offsets ni marcadores. Cotejo privado y QA visual pendientes.",
+      "sources": [
+        "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/1/",
+        "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/2/",
+        "https://www.shakespeare-online.com/plays/corio_2_1.html"
+      ],
+      "status": "reviewed_with_open_sources_private_books_pending"
     }
   ],
   "verse_format_reviews": [
