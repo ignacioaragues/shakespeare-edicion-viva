@@ -2350,6 +2350,20 @@
         "https://www.shakespeare-online.com/plays/corio_1_10.html"
       ],
       "status": "reviewed_with_open_sources_private_books_pending"
+    },
+    {
+      "id": "coriolanus-2-1-913-to-947",
+      "act": 2,
+      "scene": 1,
+      "first_line": 913,
+      "last_line": 947,
+      "reviewed_on": "2026-11-16",
+      "scope": "Segunda pasada II.1 913–947, 35 líneas Folger: 33 fichas con glosa española y referencias Folger en seis notas; revisión del autoexamen político, los humores, Licurgo, el microcosmos y la visión defectuosa. EN/ES, IDs y marcadores intactos. Cotejo privado y QA visual pendientes.",
+      "sources": [
+        "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/1/",
+        "https://www.sparknotes.com/shakespeare/coriolanus/section3/"
+      ],
+      "status": "reviewed_with_open_sources_private_books_pending"
     }
   ],
   "verse_format_reviews": [
