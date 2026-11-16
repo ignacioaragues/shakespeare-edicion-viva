@@ -2468,6 +2468,20 @@
         "https://www.shakespeareswords.com/Public/Play.aspx?Act=2&Scene=2&WorkId=3"
       ],
       "status": "reviewed_with_open_sources_private_books_pending"
+    },
+    {
+      "id": "coriolanus-2-2-1281-1321",
+      "act": 2,
+      "scene": 2,
+      "first_line": 1281,
+      "last_line": 1321,
+      "reviewed_on": "2026-11-16",
+      "scope": "Segunda revisión filológica del discurso íntegro de Cominio, II.2 1281–1321 (41 líneas Folger): 21 fichas con glosa española y cotejo externo; retórica encomiástica, alusión a Tarquino, corona cívica, metáforas náuticas y cósmicas, léxico histórico. Texto EN/ES, IDs, offsets y marcadores intactos. Cotejo privado y QA visual pendientes.",
+      "sources": [
+        "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/2/",
+        "https://www.shakespeare-online.com/plays/corio_2_2.html"
+      ],
+      "status": "reviewed_with_open_sources_private_books_pending"
     }
   ],
   "verse_format_reviews": [

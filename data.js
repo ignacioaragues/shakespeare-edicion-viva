@@ -10330,127 +10330,130 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "lack voice",
               "type": "Retórica",
               "title": "La voz insuficiente",
-              "body": "Cominio abre con una declaración de insuficiencia expresiva: el elogio será necesariamente menor que las hazañas."
+              "body": "Cominio comienza declarando insuficiente su voz para celebrar las hazañas. Es una estrategia de modestia oratoria, no prueba de una incapacidad real del personaje. Fuentes de cotejo: Folger Digital Texts, Coriolanus II.2, 1281–1321 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/2/); Shakespeare Online, II.2 (https://www.shakespeare-online.com/plays/corio_2_2.html).",
+              "gloss": "me faltarán palabras"
             },
             {
               "term": "chiefest virtue",
-              "type": "Ética y retórica",
+              "type": "Ética y valoración",
               "title": "La virtud principal",
-              "body": "El orador presenta la primacía del valor como una opinión recibida («It is held»), no como una afirmación neutral del editor."
+              "body": "virtud suprema Fuentes de cotejo: Folger Digital Texts, Coriolanus II.2, 1281–1321 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/2/); Shakespeare Online, II.2 (https://www.shakespeare-online.com/plays/corio_2_2.html)."
             },
             {
               "term": "singly counterpoised",
-              "type": "Léxico",
+              "type": "Imagen de balanza",
               "title": "Sin contrapeso individual",
-              "body": "«Counterpoised» pertenece a la imagen de la balanza; «singly» limita la comparación a un solo rival."
+              "body": "equiparado individualmente Fuentes de cotejo: Folger Digital Texts, Coriolanus II.2, 1281–1321 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/2/); Shakespeare Online, II.2 (https://www.shakespeare-online.com/plays/corio_2_2.html)."
             },
             {
               "term": "made a head",
               "type": "Locución histórica",
               "title": "Reunir fuerzas",
-              "body": "«Make a head» significa reunir una fuerza armada para resistir o atacar; no se refiere literalmente a una cabeza."
+              "body": "reunió un ejército Fuentes de cotejo: Folger Digital Texts, Coriolanus II.2, 1281–1321 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/2/); Shakespeare Online, II.2 (https://www.shakespeare-online.com/plays/corio_2_2.html)."
             },
             {
               "term": "Amazonian chin",
-              "type": "Alusión cultural",
+              "type": "Alusión mitológica",
               "title": "Barbilla de amazona",
-              "body": "La comparación con las amazonas alude a un mentón juvenil sin barba, en contraste con los guerreros de «bristled lips»."
+              "body": "barbilla imberbe Fuentes de cotejo: Folger Digital Texts, Coriolanus II.2, 1281–1321 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/2/); Shakespeare Online, II.2 (https://www.shakespeare-online.com/plays/corio_2_2.html)."
             },
             {
               "term": "He bestrid",
-              "type": "Gesto de combate",
+              "type": "Acción corporal",
               "title": "Cubrir a un compañero",
-              "body": "«Bestride» es colocarse a horcajadas o sobre alguien; aquí implica defender al romano caído o acosado."
+              "body": "se puso sobre él para protegerlo Fuentes de cotejo: Folger Digital Texts, Coriolanus II.2, 1281–1321 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/2/); Shakespeare Online, II.2 (https://www.shakespeare-online.com/plays/corio_2_2.html)."
             },
             {
               "term": "struck him on his knee",
-              "type": "Sintaxis",
+              "type": "Sintaxis y acción",
               "title": "Hacerlo arrodillarse",
-              "body": "La formulación permite entender que el golpe obligó a Tarquino a caer sobre una rodilla; no precisa la parte del cuerpo golpeada."
+              "body": "lo hirió en la rodilla Fuentes de cotejo: Folger Digital Texts, Coriolanus II.2, 1281–1321 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/2/); Shakespeare Online, II.2 (https://www.shakespeare-online.com/plays/corio_2_2.html)."
             },
             {
               "term": "act the woman in the scene",
-              "type": "Historia teatral",
+              "type": "Retórica de género",
               "title": "Papel femenino",
-              "body": "Alude a la convención del teatro inglés de que muchachos representaran papeles femeninos; Cominio contrapone juventud y valentía."
+              "body": "hacer el papel de mujer Fuentes de cotejo: Folger Digital Texts, Coriolanus II.2, 1281–1321 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/2/); Shakespeare Online, II.2 (https://www.shakespeare-online.com/plays/corio_2_2.html)."
             },
             {
               "term": "brow-bound with the oak",
-              "type": "Costumbre romana",
+              "type": "Instituciones romanas",
               "title": "Corona de roble",
-              "body": "La corona cívica romana de roble se asociaba con salvar a un ciudadano en combate; el discurso la presenta como recompensa."
+              "body": "coronado con hojas de roble Fuentes de cotejo: Folger Digital Texts, Coriolanus II.2, 1281–1321 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/2/); Shakespeare Online, II.2 (https://www.shakespeare-online.com/plays/corio_2_2.html)."
             },
             {
               "term": "His pupil age",
-              "type": "Metáfora",
+              "type": "Metáfora de aprendizaje",
               "title": "Edad de aprendiz",
-              "body": "«Pupil» subraya que el joven estaba aún aprendiendo, aunque ya había demostrado su capacidad militar."
+              "body": "su edad de aprendiz Fuentes de cotejo: Folger Digital Texts, Coriolanus II.2, 1281–1321 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/2/); Shakespeare Online, II.2 (https://www.shakespeare-online.com/plays/corio_2_2.html)."
             },
             {
               "term": "waxèd like a sea",
-              "type": "Imagen",
+              "type": "Símil",
               "title": "Crecer como el mar",
-              "body": "«Wax» significa crecer o aumentar; el mar sugiere una fuerza que se expande y se intensifica."
+              "body": "creció como el mar Fuentes de cotejo: Folger Digital Texts, Coriolanus II.2, 1281–1321 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/2/); Shakespeare Online, II.2 (https://www.shakespeare-online.com/plays/corio_2_2.html)."
             },
             {
               "term": "lurched all swords of the garland",
-              "type": "Léxico y figura",
+              "type": "Léxico competitivo",
               "title": "Arrebatar la corona",
-              "body": "«Lurch» puede expresar despojar o superar; «garland» representa el premio o la victoria, no una guirnalda material arrebatada a cada espada."
+              "body": "aventajó a todos en la disputa por la corona Fuentes de cotejo: Folger Digital Texts, Coriolanus II.2, 1281–1321 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/2/); Shakespeare Online, II.2 (https://www.shakespeare-online.com/plays/corio_2_2.html)."
             },
             {
               "term": "speak him home",
-              "type": "Idioma histórico",
+              "type": "Modismo",
               "title": "Hacer justicia con palabras",
-              "body": "«Home» intensifica la idea de expresar plenamente: Cominio confiesa que no puede describirlo de manera adecuada."
+              "body": "describirlo como merece Fuentes de cotejo: Folger Digital Texts, Coriolanus II.2, 1281–1321 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/2/); Shakespeare Online, II.2 (https://www.shakespeare-online.com/plays/corio_2_2.html)."
             },
             {
               "term": "flyers",
               "type": "Léxico militar",
               "title": "Los fugitivos",
-              "body": "«Flyers» designa a quienes huyen del combate, no a personas que vuelan."
+              "body": "fugitivos Fuentes de cotejo: Folger Digital Texts, Coriolanus II.2, 1281–1321 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/2/); Shakespeare Online, II.2 (https://www.shakespeare-online.com/plays/corio_2_2.html)."
             },
             {
               "term": "weeds before",
-              "type": "Símil naval",
+              "type": "Símil náutico",
               "title": "Algas y proa",
-              "body": "La imagen compara a los enemigos con vegetación marina desplazada por un barco en movimiento; «stem» es la proa."
+              "body": "algas ante una embarcación Fuentes de cotejo: Folger Digital Texts, Coriolanus II.2, 1281–1321 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/2/); Shakespeare Online, II.2 (https://www.shakespeare-online.com/plays/corio_2_2.html)."
             },
             {
               "term": "Death’s stamp",
-              "type": "Personificación",
+              "type": "Metáfora de sello",
               "title": "Sello de la Muerte",
-              "body": "La espada aparece como instrumento que imprime una marca mortal; la personificación intensifica la violencia del relato."
+              "body": "sello de la Muerte Fuentes de cotejo: Folger Digital Texts, Coriolanus II.2, 1281–1321 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/2/); Shakespeare Online, II.2 (https://www.shakespeare-online.com/plays/corio_2_2.html)."
             },
             {
               "term": "shunless destiny",
               "type": "Formación léxica",
               "title": "Destino inevitable",
-              "body": "«Shunless» significa imposible de esquivar; «destiny» se asocia aquí con la muerte en la puerta de la ciudad."
+              "body": "destino inevitable Fuentes de cotejo: Folger Digital Texts, Coriolanus II.2, 1281–1321 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/2/); Shakespeare Online, II.2 (https://www.shakespeare-online.com/plays/corio_2_2.html)."
             },
             {
               "term": "like a planet",
-              "type": "Imagen astral",
+              "type": "Símil cósmico",
               "title": "Como un astro",
-              "body": "El símil atribuye a la acometida una fuerza de alcance cósmico; no exige identificar un planeta determinado."
+              "body": "como un planeta Fuentes de cotejo: Folger Digital Texts, Coriolanus II.2, 1281–1321 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/2/); Shakespeare Online, II.2 (https://www.shakespeare-online.com/plays/corio_2_2.html)."
             },
             {
               "term": "gan pierce",
-              "type": "Gramática histórica",
+              "type": "Morfología histórica",
               "title": "Comenzó a penetrar",
-              "body": "«Gan» es una forma abreviada de «began», frecuente en el verso."
+              "body": "comenzó a penetrar Fuentes de cotejo: Folger Digital Texts, Coriolanus II.2, 1281–1321 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/2/); Shakespeare Online, II.2 (https://www.shakespeare-online.com/plays/corio_2_2.html).",
+              "lemma": "gin",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/gin#English"
             },
             {
               "term": "fatigate",
               "type": "Léxico histórico",
               "title": "Exhausto",
-              "body": "«Fatigate» es una forma de «fatigued»: cansado o agotado; «requickened» indica que el espíritu reanima el cuerpo."
+              "body": "agotado Fuentes de cotejo: Folger Digital Texts, Coriolanus II.2, 1281–1321 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/2/); Shakespeare Online, II.2 (https://www.shakespeare-online.com/plays/corio_2_2.html)."
             },
             {
               "term": "perpetual spoil",
-              "type": "Léxico bélico",
+              "type": "Imagen de saqueo",
               "title": "Botín inagotable",
-              "body": "«Spoil» alude al despojo o botín de guerra; la hipérbole sugiere una matanza que parece no terminar."
+              "body": "saqueo interminable Fuentes de cotejo: Folger Digital Texts, Coriolanus II.2, 1281–1321 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/2/); Shakespeare Online, II.2 (https://www.shakespeare-online.com/plays/corio_2_2.html)."
             }
           ]
         },
