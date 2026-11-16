@@ -2439,6 +2439,21 @@
         "https://www.shakespeare-online.com/plays/corio_2_1.html"
       ],
       "status": "reviewed_with_open_sources_private_books_pending"
+    },
+    {
+      "id": "coriolanus-2-2-1199-to-1248",
+      "act": 2,
+      "scene": 2,
+      "first_line": 1199,
+      "last_line": 1248,
+      "reviewed_on": "2026-11-16",
+      "scope": "Segunda revisión filológica II.2 1199–1248 (50 líneas Folger): 43 fichas con glosas españolas contextuales; revisión del debate de los oficiales, léxico político de Menenio y los tribunos, formas históricas y sintaxis. Cotejo con Folger y edición pública de Shakespeare; texto EN/ES, IDs y marcadores de verso intactos. Libros privados y QA visual pendientes.",
+      "sources": [
+        "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/2/",
+        "https://www.folgerdigitaltexts.org/Cor/",
+        "https://www.owleyes.org/text/coriolanus/read/act-ii-scene-2"
+      ],
+      "status": "reviewed_with_open_sources_private_books_pending"
     }
   ],
   "verse_format_reviews": [

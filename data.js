@@ -9692,43 +9692,50 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "waved indifferently",
               "type": "Léxico y sintaxis",
               "title": "waved indifferently",
-              "body": "«Waved» expresa vacilación u oscilación; el oficial contrapone la neutralidad hipotética a la hostilidad activa."
+              "body": "«Waved» expresa vacilación u oscilación; el oficial contrapone la neutralidad hipotética a la hostilidad activa. Cotejo: Folger Digital Texts, Coriolanus, II.2, líneas 1199–1206 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/2/).",
+              "gloss": "oscilaría sin tomar partido"
             },
             {
               "term": "’twixt",
               "type": "Forma abreviada",
               "title": "’twixt",
-              "body": "Contracción de «betwixt», «entre»."
+              "body": "Contracción de «betwixt», «entre».",
+              "gloss": "entre"
             },
             {
               "term": "with greater devotion",
               "type": "Ironía",
               "title": "with greater devotion",
-              "body": "«Devotion» intensifica paradójicamente el esfuerzo con que Coriolano procura hacerse odiar."
+              "body": "«Devotion» intensifica paradójicamente el esfuerzo con que Coriolano procura hacerse odiar.",
+              "gloss": "con mayor empeño"
             },
             {
               "term": "render it him",
               "type": "Sintaxis",
               "title": "render it him",
-              "body": "El orden equivale a «render it to him»: devolverle ese odio."
+              "body": "El orden equivale a «render it to him»: devolverle ese odio.",
+              "gloss": "devolvérselo a él"
             },
             {
               "term": "discover him their opposite",
               "type": "Semántica histórica",
               "title": "discover him their opposite",
-              "body": "«Discover» significa revelar o poner de manifiesto; «opposite» es adversario."
+              "body": "«Discover» significa revelar o poner de manifiesto; «opposite» es adversario.",
+              "gloss": "revelarse como adversario suyo"
             },
             {
               "term": "affect the malice",
               "type": "Léxico",
               "title": "affect the malice",
-              "body": "«Affect» aquí significa procurar o mostrar inclinación hacia algo, no «afectar» en el sentido moderno de perjudicar."
+              "body": "«Affect» aquí significa procurar o mostrar inclinación hacia algo, no «afectar» en el sentido moderno de perjudicar.",
+              "gloss": "buscar deliberadamente la hostilidad"
             },
             {
               "term": "as bad as",
               "type": "Argumentación",
               "title": "as bad as",
-              "body": "El primer oficial equipara buscar el odio del pueblo con adularlo para obtener su amor; es su juicio político, no una conclusión del narrador."
+              "body": "El primer oficial equipara buscar el odio del pueblo con adularlo para obtener su amor; es su juicio político, no una conclusión del narrador.",
+              "gloss": "tan censurable como"
             }
           ]
         },
@@ -9742,61 +9749,71 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "deserved worthily",
               "type": "Léxico",
               "title": "deserved worthily",
-              "body": "La expresión valora los servicios prestados a la patria, no simplemente el rango social del personaje."
+              "body": "La expresión valora los servicios prestados a la patria, no simplemente el rango social del personaje.",
+              "gloss": "ha servido meritoriamente"
             },
             {
               "term": "ascent",
               "type": "Metáfora",
               "title": "ascent",
-              "body": "La carrera pública se presenta como ascenso; el oficial la atribuye a hechos militares."
+              "body": "La carrera pública se presenta como ascenso; el oficial la atribuye a hechos militares.",
+              "gloss": "ascenso político"
             },
             {
               "term": "supple and courteous",
               "type": "Matiz valorativo",
               "title": "supple and courteous",
-              "body": "«Supple» sugiere flexibilidad y también servilismo en este contraste."
+              "body": "«Supple» sugiere flexibilidad y también servilismo en este contraste.",
+              "gloss": "dóciles y corteses"
             },
             {
               "term": "bonneted",
               "type": "Uso verbal",
               "title": "bonneted",
-              "body": "«Bonneted» describe quitarse o descubrirse la cabeza ante el pueblo como gesto de deferencia; aquí se usa con sentido crítico."
+              "body": "«Bonneted» describe quitarse o descubrirse la cabeza ante el pueblo como gesto de deferencia; aquí se usa con sentido crítico. Cotejo: Folger Digital Texts, Coriolanus, II.2, líneas 1207–1217 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/2/).",
+              "gloss": "se quitaron el sombrero"
             },
             {
               "term": "estimation and report",
               "type": "Léxico social",
               "title": "estimation and report",
-              "body": "«Estimation» es aprecio o consideración; «report», reputación difundida."
+              "body": "«Estimation» es aprecio o consideración; «report», reputación difundida.",
+              "gloss": "estima y reputación"
             },
             {
               "term": "planted his honors",
               "type": "Metáfora",
               "title": "planted his honors",
-              "body": "La imagen de plantar o arraigar enlaza ojos, corazones y lenguas: reconocimiento visible, memoria afectiva y testimonio público."
+              "body": "La imagen de plantar o arraigar enlaza ojos, corazones y lenguas: reconocimiento visible, memoria afectiva y testimonio público.",
+              "gloss": "ha arraigado sus honores"
             },
             {
               "term": "were a kind of",
               "type": "Gramática",
               "title": "were a kind of",
-              "body": "«Were» expresa una consecuencia hipotética, equivalente a «sería»."
+              "body": "«Were» expresa una consecuencia hipotética, equivalente a «sería».",
+              "gloss": "sería una especie de"
             },
             {
               "term": "ingrateful injury",
               "type": "Léxico",
               "title": "ingrateful injury",
-              "body": "«Ingrateful» equivale a «ungrateful»: el silencio se considera una injusticia nacida de la ingratitud."
+              "body": "«Ingrateful» equivale a «ungrateful»: el silencio se considera una injusticia nacida de la ingratitud.",
+              "gloss": "ofensa ingrata"
             },
             {
               "term": "giving itself the lie",
               "type": "Personificación",
               "title": "giving itself the lie",
-              "body": "La acusación falsa se contradice a sí misma por la notoriedad de los hechos."
+              "body": "La acusación falsa se contradice a sí misma por la notoriedad de los hechos.",
+              "gloss": "desmentirse a sí misma"
             },
             {
               "term": "pluck reproof",
               "type": "Metáfora",
               "title": "pluck reproof",
-              "body": "«Pluck» representa el reproche como algo arrancado de los oídos de quienes escuchan."
+              "body": "«Pluck» representa el reproche como algo arrancado de los oídos de quienes escuchan.",
+              "gloss": "provocar reproches"
             }
           ]
         },
@@ -9810,13 +9827,15 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "worthy man",
               "type": "Caracterización",
               "title": "worthy man",
-              "body": "El primer oficial concede el mérito de Coriolano sin retirar explícitamente su crítica a la hostilidad política."
+              "body": "El primer oficial concede el mérito de Coriolano sin retirar explícitamente su crítica a la hostilidad política.",
+              "gloss": "hombre digno"
             },
             {
               "term": "Make way",
               "type": "Acotación implícita",
               "title": "Make way",
-              "body": "La orden señala el cambio de la conversación privada a la entrada ceremonial de las autoridades."
+              "body": "La orden señala el cambio de la conversación privada a la entrada ceremonial de las autoridades.",
+              "gloss": "abran paso"
             }
           ],
           "stageAfter": "Suena una fanfarria. Entran los patricios y los tribunos del pueblo, precedidos por lictores; con ellos, Coriolano, Menenio y Cominio, el cónsul. Los patricios se sientan; Sicinio y Bruto ocupan lugares aparte. Coriolano permanece de pie."
@@ -9831,55 +9850,64 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "determined of the Volsces",
               "type": "Sintaxis",
               "title": "determined of",
-              "body": "«Determine of» significa decidir o resolver acerca de un asunto. Menenio da por concluida la deliberación sobre los volscos."
+              "body": "«Determine of» significa decidir o resolver acerca de un asunto. Menenio da por concluida la deliberación sobre los volscos.",
+              "gloss": "resuelto lo relativo a los volscos"
             },
             {
               "term": "after-meeting",
               "type": "Léxico",
               "title": "after-meeting",
-              "body": "La expresión designa una reunión posterior o una segunda parte de la sesión; no necesariamente una asamblea de distinta naturaleza."
+              "body": "La expresión designa una reunión posterior o una segunda parte de la sesión; no necesariamente una asamblea de distinta naturaleza.",
+              "gloss": "segunda reunión"
             },
             {
               "term": "gratify",
               "type": "Semántica histórica",
               "title": "gratify",
-              "body": "Aquí significa recompensar o reconocer servicios, no simplemente complacer."
+              "body": "Aquí significa recompensar o reconocer servicios, no simplemente complacer. Cotejo: Folger Digital Texts, Coriolanus, II.2, líneas 1220–1232 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/2/).",
+              "gloss": "recompensar"
             },
             {
               "term": "stood for his country",
               "type": "Expresión",
               "title": "stood for his country",
-              "body": "«Stand for» indica haber defendido o sostenido a la patria, con resonancia militar."
+              "body": "«Stand for» indica haber defendido o sostenido a la patria, con resonancia militar.",
+              "gloss": "defendió a su patria"
             },
             {
               "term": "grave elders",
               "type": "Tratamiento",
               "title": "grave elders",
-              "body": "«Grave» denota seriedad y dignidad; «elders» se dirige a los senadores, sin reducirse a una referencia a su edad."
+              "body": "«Grave» denota seriedad y dignidad; «elders» se dirige a los senadores, sin reducirse a una referencia a su edad.",
+              "gloss": "venerables senadores"
             },
             {
               "term": "last general",
               "type": "Sintaxis",
               "title": "last general",
-              "body": "«Last» se refiere al mando de la campaña más reciente; Cominio es también el cónsul en ejercicio."
+              "body": "«Last» se refiere al mando de la campaña más reciente; Cominio es también el cónsul en ejercicio.",
+              "gloss": "general de la última campaña"
             },
             {
               "term": "well-found successes",
               "type": "Léxico",
               "title": "well-found successes",
-              "body": "Alude a éxitos militares bien logrados o fundados, no a descubrimientos fortuitos."
+              "body": "Alude a éxitos militares bien logrados o fundados, no a descubrimientos fortuitos.",
+              "gloss": "éxitos militares bien logrados"
             },
             {
               "term": "Martius Caius Coriolanus",
               "type": "Onomástica",
               "title": "Martius Caius Coriolanus",
-              "body": "La secuencia solemne de nombres destaca el honorífico Coriolano, obtenido por la toma de Corioles."
+              "body": "La secuencia solemne de nombres destaca el honorífico Coriolano, obtenido por la toma de Corioles.",
+              "gloss": "Cayo Marcio Coriolano"
             },
             {
               "term": "honors like himself",
               "type": "Retórica",
               "title": "honors like himself",
-              "body": "La recompensa debe guardar proporción con la valía del homenajeado."
+              "body": "La recompensa debe guardar proporción con la valía del homenajeado.",
+              "gloss": "honores acordes con su mérito"
             }
           ],
           "stageAfter": "Coriolano se sienta."
@@ -9894,43 +9922,50 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "for length",
               "type": "Sintaxis",
               "title": "for length",
-              "body": "La preposición introduce el motivo de una posible omisión: por la extensión del relato."
+              "body": "La preposición introduce el motivo de una posible omisión: por la extensión del relato.",
+              "gloss": "por temor a extenderse"
             },
             {
               "term": "defective for requital",
               "type": "Léxico",
               "title": "defective for requital",
-              "body": "El Estado podría resultar insuficiente para retribuir los méritos de Coriolano."
+              "body": "El Estado podría resultar insuficiente para retribuir los méritos de Coriolano.",
+              "gloss": "insuficiente para recompensar"
             },
             {
               "term": "stretch it out",
               "type": "Interpretación",
               "title": "stretch it out",
-              "body": "La oposición retórica contrasta la insuficiencia de la recompensa pública con la posibilidad de exagerar o extender los honores."
+              "body": "La oposición retórica contrasta la insuficiencia de la recompensa pública con la posibilidad de exagerar o extender los honores.",
+              "gloss": "extender el reconocimiento"
             },
             {
               "term": "Masters o’ th’ people",
               "type": "Tratamiento",
               "title": "Masters o’ th’ people",
-              "body": "El senador se dirige a los tribunos como representantes del pueblo; «masters» es una fórmula de tratamiento."
+              "body": "El senador se dirige a los tribunos como representantes del pueblo; «masters» es una fórmula de tratamiento.",
+              "gloss": "señores representantes del pueblo"
             },
             {
               "term": "loving motion",
               "type": "Léxico político",
               "title": "loving motion",
-              "body": "«Motion» puede designar una propuesta o iniciativa favorable; se pide a los tribunos que favorezcan la aceptación popular."
+              "body": "«Motion» puede designar una propuesta o iniciativa favorable; se pide a los tribunos que favorezcan la aceptación popular.",
+              "gloss": "iniciativa favorable"
             },
             {
               "term": "common body",
               "type": "Metáfora política",
               "title": "common body",
-              "body": "La comunidad de ciudadanos se concibe como un cuerpo colectivo."
+              "body": "La comunidad de ciudadanos se concibe como un cuerpo colectivo.",
+              "gloss": "conjunto de los ciudadanos"
             },
             {
               "term": "yield what passes here",
               "type": "Sintaxis",
               "title": "yield what passes here",
-              "body": "Se espera que el pueblo acepte o ratifique lo acordado en el Senado; «yield» implica conceder o dar curso."
+              "body": "Se espera que el pueblo acepte o ratifique lo acordado en el Senado; «yield» implica conceder o dar curso. Cotejo: Folger Digital Texts, Coriolanus, II.2, líneas 1233–1240 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/2/).",
+              "gloss": "aceptar lo acordado aquí"
             }
           ]
         },
@@ -9944,25 +9979,29 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "convented",
               "type": "Léxico histórico",
               "title": "convented",
-              "body": "Significa reunidos o convocados; no tiene el sentido moderno de «convento»."
+              "body": "Significa reunidos o convocados; no tiene el sentido moderno de «convento». Cotejo: Folger Digital Texts, Coriolanus, II.2, líneas 1241–1244 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/2/).",
+              "gloss": "convocados"
             },
             {
               "term": "pleasing treaty",
               "type": "Léxico",
               "title": "pleasing treaty",
-              "body": "«Treaty» es aquí una deliberación o asunto que se trata, no un tratado diplomático."
+              "body": "«Treaty» es aquí una deliberación o asunto que se trata, no un tratado diplomático.",
+              "gloss": "deliberación grata"
             },
             {
               "term": "Inclinable",
               "type": "Forma histórica",
               "title": "Inclinable",
-              "body": "Equivale a «inclined» o «disposed»: favorablemente dispuestos."
+              "body": "Equivale a «inclined» o «disposed»: favorablemente dispuestos.",
+              "gloss": "dispuestos favorablemente"
             },
             {
               "term": "theme of our assembly",
               "type": "Retórica",
               "title": "theme of our assembly",
-              "body": "«Theme» designa el asunto central de la reunión: el reconocimiento de Coriolano."
+              "body": "«Theme» designa el asunto central de la reunión: el reconocimiento de Coriolano.",
+              "gloss": "asunto de la asamblea"
             }
           ]
         },
@@ -9976,25 +10015,29 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "Which the rather",
               "type": "Sintaxis",
               "title": "Which the rather",
-              "body": "«Which» retoma el propósito de honrar a Coriolano; «the rather» introduce una condición que haría más deseable apoyarlo."
+              "body": "«Which» retoma el propósito de honrar a Coriolano; «the rather» introduce una condición que haría más deseable apoyarlo.",
+              "gloss": "lo que con mayor razón"
             },
             {
               "term": "blest",
               "type": "Matiz retórico",
               "title": "blest",
-              "body": "«Blest» presenta la colaboración de los tribunos como algo venturoso o digno de aprobación."
+              "body": "«Blest» presenta la colaboración de los tribunos como algo venturoso o digno de aprobación.",
+              "gloss": "afortunados"
             },
             {
               "term": "kinder value",
               "type": "Léxico",
               "title": "kinder value",
-              "body": "«Value» designa la estimación concedida al pueblo; «kinder» pide una valoración más benévola."
+              "body": "«Value» designa la estimación concedida al pueblo; «kinder» pide una valoración más benévola.",
+              "gloss": "consideración más benévola"
             },
             {
               "term": "hereto prized",
               "type": "Semántica histórica",
               "title": "hereto prized",
-              "body": "«Hereto» significa hasta este momento; «prized» equivale a tasado o estimado, no a premiado."
+              "body": "«Hereto» significa hasta este momento; «prized» equivale a tasado o estimado, no a premiado. Cotejo: Folger Digital Texts, Coriolanus, II.2, líneas 1245–1248 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/2/).",
+              "gloss": "valorado hasta ahora"
             }
           ]
         },
