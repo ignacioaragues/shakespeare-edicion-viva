@@ -14547,7 +14547,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "measles",
               "type": "Nota filológica",
               "gloss": "leprosos; apestados (insulto)",
-              "body": "No debe reducirse al sentido moderno de «sarampión». El aparato de Cambridge observa la confluencia histórica de «measle» (mancha) y «mesel» (leproso); aquí Coriolano convierte a los plebeyos en agentes de contagio. «Apestados» conserva el insulto sin fijar un diagnóstico. Fuentes: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; Cambridge Shakespeare, edición histórica digitalizada (aparato en III.1, comentario sobre «measles»), https://resources.warburg.sas.ac.uk/pdf/emh81b2456895.pdf.",
+              "body": "Brooke (1924, III.1, v. 77) glosa «disease spots»: el sustantivo funciona como insulto de afección cutánea, no como diagnóstico del sarampión moderno. En el parlamento, Coriolano presenta a los plebeyos como una infección política; esa asociación es una imagen hostil del personaje, no una afirmación médica. C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale, 1924), glosas a III.1, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III; Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/.",
               "lemma": "measle",
               "lemmaUrl": "https://en.wiktionary.org/wiki/measle"
             },
@@ -14556,7 +14556,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "tetter",
               "type": "Nota filológica",
               "gloss": "infectar con una afección cutánea",
-              "body": "Verbo relacionado con «tetter», erupción o enfermedad de la piel. Folger lee «tetter», frente a «tatter» en MIT: esta última lectura desdibuja el campo semántico del contagio. Fuentes: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; Cambridge Shakespeare, edición histórica digitalizada (aparato en III.1, comentario sobre «measles»), https://resources.warburg.sas.ac.uk/pdf/emh81b2456895.pdf.",
+              "body": "Brooke (1924, III.1, v. 78) explica el verbo como producir una erupción cutánea. La secuencia «measles / tetter / catch» mantiene una misma red figurativa de contagio; la traducción debe expresar infección o erupción y no confundir «tetter» con el verbo «tatter» (hacer jirones). C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale, 1924), glosas a III.1, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III; Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/.",
               "lemma": "tetter",
               "lemmaUrl": "https://en.wiktionary.org/wiki/tetter"
             },
@@ -14654,7 +14654,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "’twould be my mind",
               "type": "Nota filológica",
               "gloss": "seguiría siendo mi opinión",
-              "body": "Coriolano rechaza la explicación de Menenio: aun sereno mantendría su juicio. Fuentes: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; Cambridge Shakespeare, edición histórica digitalizada (aparato en III.1, comentario sobre «measles»), https://resources.warburg.sas.ac.uk/pdf/emh81b2456895.pdf.",
+              "body": "Brooke (1924, III.1, v. 85) interpreta «mind» como opinión firmemente resuelta. El condicional hipotético («Were I ...») niega que la hostilidad de Coriolano sea una mera reacción de cólera: afirma que sostendría el mismo juicio aun en calma. C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale, 1924), glosas a III.1, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III; Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/.",
               "lemma": "would",
               "lemmaUrl": "https://en.wiktionary.org/wiki/would"
             },
@@ -14737,7 +14737,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "from the canon",
               "type": "Nota filológica",
               "gloss": "fuera de la regla; según la regla (lectura alternativa)",
-              "body": "Pasaje discutido: Samuel Johnson entiende que la orden del tribuno contraviene la regla establecida; M. Mason sostiene lo contrario, que se ajusta al poder de veto tribunicio. La traducción adopta provisionalmente la primera lectura, sin presentar la controversia como resuelta. Johnson y Mason citados en el aparato de Malone (1821). Fuentes: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; Malone (ed.), The Plays and Poems of William Shakespeare, vol. XIV (1821), comentario a III.1, https://upload.wikimedia.org/wikipedia/commons/3/3f/The_Plays_and_Poems_of_William_Shakspeare_%281821%29_-_Vol._14.pdf."
+              "body": "Brooke (1924, III.1, v. 89) glosa «not authorized by law». La intervención de Cominio cuestiona la legitimidad de la pretensión imperativa de Sicinio; otras interpretaciones editoriales históricas han discutido el alcance del poder tribunicio. No debe confundirse «canon» con un arma de fuego. C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale, 1924), glosas a III.1, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III; Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/."
             }
           ]
         },
@@ -14782,7 +14782,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "horn and noise",
               "type": "Nota filológica",
               "gloss": "cuerno y estrépito",
-              "body": "El tribuno aparece como instrumento sonoro del monstruo colectivo: una voz que amplifica la voluntad de la multitud, sin ser su fuente independiente. Fuentes: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, Coriolanus III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html."
+              "body": "Brooke (1924, III.1, v. 94) condensa la frase como «noisy horn»: Sicinio queda figurado como la bocina de la Hidra popular, no como una segunda criatura independiente. El insulto pertenece a la retórica antiplebeya de Coriolano. C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale, 1924), glosas a III.1, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III; Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/."
             },
             {
               "term": "turn your current in a ditch",
@@ -14796,7 +14796,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "vail",
               "type": "Nota filológica",
               "gloss": "inclinar; bajar; someterse",
-              "body": "Forma antigua de «veil/vail» en el sentido de bajar o ceder; la lectura concreta es irónica: si los tribunos poseen realmente autoridad, los senadores deberían reconocer su propia falta de juicio. Fuentes: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, Coriolanus III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "body": "Brooke (1924, III.1, v. 97) glosa «vail ... ignorance» como hacer que la propia necedad se someta. El imperativo condicional es irónico: si el tribuno tiene realmente poder, los senadores deben admitir que su permisividad ha cedido la autoridad. No equivale aquí al sustantivo «veil» (velo). C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale, 1924), glosas a III.1, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III; Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/.",
               "lemma": "vail",
               "lemmaUrl": "https://en.wiktionary.org/wiki/vail"
             },
@@ -14821,7 +14821,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "the great’st taste / Most palates theirs",
               "type": "Nota filológica",
               "gloss": "predomina el gusto de ellos",
-              "body": "Imagen gustativa de la decisión conjunta: al mezclar las voces de los dos órdenes, prevalece —según Coriolano— el parecer popular. La explicación de «palate» como sabor predominante se encuentra en el comentario histórico reproducido en ediciones del siglo XIX. Fuentes: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, Coriolanus III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html."
+              "body": "Brooke (1924, III.1, vv. 102–103) explica «great'st taste» como sabor predominante y «palates» como saber a algo. La metáfora gustativa representa, desde la perspectiva de Coriolano, la supremacía del voto popular en una deliberación mixta; no es una descripción constitucional objetiva. C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale, 1924), glosas a III.1, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III; Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/."
             },
             {
               "term": "voices blended",
@@ -14842,7 +14842,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "two authorities",
               "type": "Nota filológica",
               "gloss": "dos poderes",
-              "body": "La conclusión articula el temor de Coriolano a una autoridad dividida entre Senado y tribunos: es un argumento del personaje, no una tesis histórica incontrovertible. Fuentes: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, Coriolanus III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html."
+              "body": "Brooke (1924, III.1, vv. 108–111) glosa «up» como establecidas y la «gap» como separación entre ambas potestades; una puede servirse de la otra para derribarla. Coriolano argumenta que la autoridad dividida conduce a la desintegración política, una predicción dramática, no un hecho demostrado. C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale, 1924), glosas a III.1, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III; Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/."
             }
           ]
         },
