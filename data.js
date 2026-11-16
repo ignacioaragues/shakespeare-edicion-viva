@@ -9307,43 +9307,50 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "our authority’s for an end",
               "type": "Sintaxis",
               "title": "our authority’s for an end",
-              "body": "Expresa la pérdida o desaparición de la autoridad de los tribunos."
+              "body": "Expresa la pérdida o desaparición de la autoridad de los tribunos.",
+              "gloss": "nuestra autoridad está acabada"
             },
             {
               "term": "suggest the people",
               "type": "Semántica histórica",
               "title": "suggest the people",
-              "body": "«Suggest» puede significar instigar o inculcar una idea; Bruto propone influir deliberadamente en la opinión pública."
+              "body": "En inglés de la época, «suggest» puede expresar instigación o persuasión interesada: Bruto planea predisponer a la plebe contra Coriolano. No equivale a una sugerencia neutral. Folger, II.1, líneas 1152–1157; contraste: Shakespeare Online, II.1.",
+              "gloss": "inculcar al pueblo una idea"
             },
             {
               "term": "to ’s power",
               "type": "Gramática",
               "title": "to ’s power",
-              "body": "«’s» abrevia «his»: en la medida de su poder."
+              "body": "«’s» abrevia «his»: en la medida de su poder.",
+              "gloss": "hasta donde alcanzara su poder"
             },
             {
               "term": "Dispropertied their freedoms",
               "type": "Léxico político",
               "title": "Dispropertied their freedoms",
-              "body": "Verbo infrecuente que presenta las libertades como algo de lo que se puede despojar a una persona."
+              "body": "«Dispropertied» presenta la libertad como una posesión que puede ser arrebatada. La acusación forma parte del plan retórico de Bruto, no de una cita literal de Coriolano. Folger, II.1, 1156–1159.",
+              "gloss": "despojarlos de sus libertades"
             },
             {
               "term": "pleaders",
               "type": "Instituciones",
               "title": "pleaders",
-              "body": "Quienes defienden o abogan por los plebeyos; no implica necesariamente una profesión jurídica moderna."
+              "body": "Quienes defienden o abogan por los plebeyos; no implica necesariamente una profesión jurídica moderna.",
+              "gloss": "defensores o portavoces"
             },
             {
               "term": "provand",
               "type": "Léxico militar",
               "title": "provand",
-              "body": "Pienso o ración de provisiones para animales de carga."
+              "body": "«Provand» designa una ración de alimento o forraje; aquí el sustento de animales de carga condicionados a trabajar. Folger, II.1, 1159–1162.",
+              "gloss": "ración de alimento"
             },
             {
               "term": "camels in their war",
               "type": "Imagen",
               "title": "camels in their war",
-              "body": "El símil militar compara a la plebe con bestias de carga; Bruto atribuye esa actitud a Coriolano, sin citarlo literalmente."
+              "body": "El símil militar compara a la plebe con bestias de carga; Bruto atribuye esa actitud a Coriolano, sin citarlo literalmente.",
+              "gloss": "camellos empleados en la guerra"
             }
           ]
         },
@@ -9357,37 +9364,43 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "suggested",
               "type": "Semántica histórica",
               "title": "suggested",
-              "body": "Retoma el «suggest» de Bruto: se trata de inculcar una interpretación política, no de sugerir inocentemente."
+              "body": "Retoma el «suggest» de Bruto: se trata de inculcar una interpretación política, no de sugerir inocentemente.",
+              "gloss": "inculcado deliberadamente"
             },
             {
               "term": "soaring insolence",
               "type": "Retórica",
               "title": "soaring insolence",
-              "body": "La insolencia se representa como algo que se eleva sin medida."
+              "body": "La insolencia se representa como algo que se eleva sin medida.",
+              "gloss": "arrogancia desmesurada"
             },
             {
               "term": "put upon ’t",
               "type": "Sintaxis e interpretación",
               "title": "put upon ’t",
-              "body": "Alude a provocar a Coriolano para que manifieste su arrogancia; el referente del pronombre es contextual."
+              "body": "«Put upon ’t» significa inducirlo o empujarlo a manifestar su insolencia; Sicinio propone provocarlo deliberadamente. Folger, II.1, 1163–1169.",
+              "gloss": "provocado a hacerlo"
             },
             {
               "term": "dogs on sheep",
               "type": "Símil",
               "title": "dogs on sheep",
-              "body": "La facilidad de provocar una reacción se representa mediante perros azuzados contra ovejas."
+              "body": "La facilidad de provocar una reacción se representa mediante perros azuzados contra ovejas.",
+              "gloss": "perros azuzados contra ovejas"
             },
             {
               "term": "dry stubble",
               "type": "Imagen",
               "title": "dry stubble",
-              "body": "El rastrojo seco representa un resentimiento popular dispuesto a inflamarse."
+              "body": "El rastrojo seco representa un resentimiento popular dispuesto a inflamarse.",
+              "gloss": "rastrojo seco"
             },
             {
               "term": "darken him forever",
               "type": "Paradoja",
               "title": "darken him forever",
-              "body": "El incendio popular oscurecerá políticamente al héroe: el fuego destruye su prestigio."
+              "body": "El incendio popular oscurecerá políticamente al héroe: el fuego destruye su prestigio.",
+              "gloss": "eclipsarlo para siempre"
             }
           ]
         },
@@ -9408,37 +9421,43 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "sent for",
               "type": "Sintaxis",
               "title": "sent for",
-              "body": "La pasiva significa «han mandado llamarlos»."
+              "body": "La pasiva significa «han mandado llamarlos».",
+              "gloss": "mandados llamar"
             },
             {
               "term": "dumb men",
               "type": "Hipérbole",
               "title": "dumb men",
-              "body": "Los mudos acuden a mirar y los ciegos a escuchar: la exageración subraya el entusiasmo público."
+              "body": "Los mudos acuden a mirar y los ciegos a escuchar: la exageración subraya el entusiasmo público.",
+              "gloss": "personas mudas"
             },
             {
               "term": "matrons",
               "type": "Léxico social",
               "title": "matrons",
-              "body": "Mujeres casadas de posición respetable, distinguidas de las damas y muchachas mencionadas a continuación."
+              "body": "Mujeres casadas de posición respetable, distinguidas de las damas y muchachas mencionadas a continuación.",
+              "gloss": "matronas"
             },
             {
               "term": "Jove’s statue",
               "type": "Mitología",
               "title": "Jove’s statue",
-              "body": "Jove es Júpiter; el homenaje al vencedor se compara con la reverencia ante una estatua divina."
+              "body": "«Jove» es Júpiter. El mensajero compara la reverencia de los nobles ante Coriolano con la adoración de una imagen divina; es una hipérbole dramática. Folger, II.1, 1176–1178.",
+              "gloss": "estatua de Júpiter"
             },
             {
               "term": "Commons",
               "type": "Léxico político",
               "title": "Commons",
-              "body": "El pueblo común, cuya aclamación contrasta con los temores de los tribunos."
+              "body": "El pueblo común, cuya aclamación contrasta con los temores de los tribunos.",
+              "gloss": "pueblo llano"
             },
             {
               "term": "shower and thunder",
               "type": "Metáfora",
               "title": "shower and thunder",
-              "body": "Los gorros y gritos de la multitud se describen como lluvia y trueno."
+              "body": "Los gorros y gritos de la multitud se describen como lluvia y trueno.",
+              "gloss": "lluvia y trueno"
             }
           ]
         },
@@ -9452,19 +9471,22 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "Let’s to the Capitol",
               "type": "Elipsis",
               "title": "Let’s to the Capitol",
-              "body": "El verbo de movimiento queda sobreentendido tras «let’s»."
+              "body": "El verbo de movimiento queda sobreentendido tras «let’s».",
+              "gloss": "vamos al Capitolio"
             },
             {
               "term": "ears and eyes",
               "type": "Retórica",
               "title": "ears and eyes",
-              "body": "Bruto propone observar y escuchar por ahora, sin revelar sus propósitos."
+              "body": "Bruto propone observar y escuchar por ahora, sin revelar sus propósitos.",
+              "gloss": "ojos y oídos"
             },
             {
               "term": "hearts for the event",
               "type": "Interpretación",
               "title": "hearts for the event",
-              "body": "«Event» es el desenlace; «hearts» puede indicar voluntad o resolución, además de sentimiento."
+              "body": "Bruto distingue la observación inmediata («ears and eyes») de la disposición interior reservada para el resultado («event» = desenlace). Folger, II.1, 1180–1182.",
+              "gloss": "reservar la decisión para el desenlace"
             }
           ]
         },
@@ -9478,7 +9500,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "Have with you",
               "type": "Locución",
               "title": "Have with you",
-              "body": "Fórmula de asentimiento para acompañar al interlocutor, no una posesión literal."
+              "body": "Fórmula de asentimiento para acompañar al interlocutor, no una posesión literal.",
+              "gloss": "voy con ustedes"
             }
           ]
         }
@@ -9564,7 +9587,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "stand for consulships",
               "type": "Instituciones",
               "title": "stand for consulships",
-              "body": "«Stand for» significa presentarse como candidato; el plural se refiere a las magistraturas consulares."
+              "body": "«Stand for» significa presentarse como candidato; el plural se refiere a las magistraturas consulares.",
+              "gloss": "presentarse al consulado"
             }
           ]
         },
@@ -9584,7 +9608,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "carry it",
               "type": "Locución",
               "title": "carry it",
-              "body": "Obtener el triunfo en la elección o llevarse el cargo."
+              "body": "Obtener el triunfo en la elección o llevarse el cargo.",
+              "gloss": "obtener el cargo"
             }
           ]
         },
@@ -9604,7 +9629,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "vengeance proud",
               "type": "Intensificación",
               "title": "vengeance proud",
-              "body": "«Vengeance» funciona como intensificador coloquial: extremadamente orgulloso."
+              "body": "«Vengeance» intensifica «proud»: extraordinariamente orgulloso. No expresa aquí un deseo de venganza. Folger, II.2, 1188–1189.",
+              "gloss": "extraordinariamente orgulloso"
             },
             {
               "term": "loves not",
@@ -9624,7 +9650,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "’Faith",
               "type": "Interjección",
               "title": "’Faith",
-              "body": "Contracción de «in faith», fórmula enfática equivalente a «a fe mía»."
+              "body": "Contracción de «in faith», fórmula enfática equivalente a «a fe mía».",
+              "gloss": "a fe mía"
             },
             {
               "term": "there hath been",
@@ -9636,7 +9663,10 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "wherefore",
               "type": "Léxico",
               "title": "wherefore",
-              "body": "Aquí significa «por qué», no «dónde»."
+              "body": "Adverbio interrogativo causal del inglés temprano: «por qué», no «dónde». Folger, II.2, 1190–1198.",
+              "gloss": "por qué",
+              "lemma": "wherefore",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/wherefore"
             },
             {
               "term": "upon no better a ground",
