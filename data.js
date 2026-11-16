@@ -7880,13 +7880,15 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "perfecter giber",
               "type": "Gramática y léxico",
               "title": "Más consumado en las burlas",
-              "body": "«Perfecter» es un comparativo de «perfect»; «giber» designa a quien se mofa o lanza pullas. Bruto contrapone el ingenio social de Menenio a su utilidad pública."
+              "body": "«Perfecter» es un comparativo de «perfect»; «giber» designa a quien se mofa o lanza pullas. Bruto contrapone el ingenio social de Menenio a su utilidad pública. Fuente de cotejo: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/1/",
+              "gloss": "burlón más consumado"
             },
             {
               "term": "bencher",
               "type": "Léxico institucional",
               "title": "Quien ocupa un escaño",
-              "body": "«Bencher» es quien se sienta en un banco o asiento de autoridad; la referencia al Capitolio sitúa el contraste en la esfera política romana."
+              "body": "«Bencher» es quien se sienta en un banco o asiento de autoridad; la referencia al Capitolio sitúa el contraste en la esfera política romana.",
+              "gloss": "miembro del consejo; magistrado sentado en el Capitolio"
             }
           ]
         },
@@ -7901,67 +7903,78 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "Our very priests must become mockers",
               "type": "Retórica",
               "title": "La burla alcanza a los sacerdotes",
-              "body": "Very intensifica «hasta nuestros propios sacerdotes». Menenio imagina que incluso quienes deben guardar gravedad religiosa se verían obligados a burlarse de los tribunos."
+              "body": "Very intensifica «hasta nuestros propios sacerdotes». Menenio imagina que incluso quienes deben guardar gravedad religiosa se verían obligados a burlarse de los tribunos.",
+              "gloss": "hasta nuestros sacerdotes tendrían que burlarse"
             },
             {
               "term": "unto the purpose",
               "type": "Léxico y sintaxis",
               "title": "Hablar con pertinencia",
-              "body": "La locución significa «al caso», «con relación al asunto». El superlativo best no elogia a los tribunos: introduce una concesión irónica."
+              "body": "La locución significa «al caso», «con relación al asunto». El superlativo best no elogia a los tribunos: introduce una concesión irónica.",
+              "gloss": "con pertinencia; al grano"
             },
             {
               "term": "wagging of your beards",
               "type": "Imagen satírica",
               "title": "El movimiento de las barbas",
-              "body": "Wagging designa el movimiento físico de las barbas al hablar. Menenio considera que ni ese mínimo esfuerzo merece la pena."
+              "body": "Wagging designa el movimiento físico de las barbas al hablar. Menenio considera que ni ese mínimo esfuerzo merece la pena.",
+              "gloss": "movimiento de sus barbas al hablar"
             },
             {
               "term": "botcher’s cushion",
               "type": "Cultura material",
               "title": "El cojín del remendón",
-              "body": "Botcher es quien remienda ropa; su cojín podía rellenarse con desperdicios o materiales baratos. La barba ni siquiera merecería ese uso degradante."
+              "body": "Botcher es quien remienda ropa; su cojín podía rellenarse con desperdicios o materiales baratos. La barba ni siquiera merecería ese uso degradante. Fuente de cotejo: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/1/",
+              "gloss": "almohadilla de un remendón"
             },
             {
               "term": "ass’s packsaddle",
               "type": "Cultura material",
               "title": "La albarda del asno",
-              "body": "Packsaddle es la albarda empleada para cargar bultos. La imagen prolonga la degradación cómica de las barbas hasta un objeto de uso animal."
+              "body": "Packsaddle es la albarda empleada para cargar bultos. La imagen prolonga la degradación cómica de las barbas hasta un objeto de uso animal.",
+              "gloss": "albarda de un asno"
             },
             {
               "term": "in a cheap estimation",
               "type": "Léxico",
               "title": "Valorado por lo bajo",
-              "body": "Cheap no califica aquí a Marcio de barato o vulgar: modifica estimation, una valoración deliberadamente modesta que, aun así, lo sitúa por encima de los tribunos."
+              "body": "Cheap no califica aquí a Marcio de barato o vulgar: modifica estimation, una valoración deliberadamente modesta que, aun así, lo sitúa por encima de los tribunos.",
+              "gloss": "aun calculándolo por lo bajo"
             },
             {
               "term": "Deucalion",
               "type": "Alusión mitológica",
               "title": "Deucalión y la humanidad renovada",
-              "body": "Deucalión sobrevivió al diluvio en la mitología griega y participó en la repoblación del mundo. La referencia exagera la antigüedad del linaje de los tribunos; no establece una genealogía histórica."
+              "body": "Deucalión sobrevivió al diluvio en la mitología griega y participó en la repoblación del mundo. La referencia exagera la antigüedad del linaje de los tribunos; no establece una genealogía histórica. Fuente de cotejo: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_II",
+              "gloss": "Deucalión, superviviente del diluvio mítico griego"
             },
             {
               "term": "peradventure",
               "type": "Léxico histórico",
               "title": "Quizá",
-              "body": "Adverbio equivalente a «perhaps». Introduce una nueva pulla dentro de la aparente concesión de Menenio."
+              "body": "Adverbio equivalente a «perhaps». Introduce una nueva pulla dentro de la aparente concesión de Menenio.",
+              "gloss": "quizá; acaso"
             },
             {
               "term": "hereditary hangmen",
               "type": "Sátira social",
               "title": "Verdugos hereditarios",
-              "body": "Hangmen son ejecutores de condenas a muerte. La expresión convierte el supuesto linaje distinguido de los tribunos en una sucesión infamante de verdugos."
+              "body": "Hangmen son ejecutores de condenas a muerte. La expresión convierte el supuesto linaje distinguido de los tribunos en una sucesión infamante de verdugos. Fuente de cotejo: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/1/",
+              "gloss": "verdugos por herencia"
             },
             {
               "term": "Good e’en",
               "type": "Fórmula de despedida",
               "title": "Buenas tardes",
-              "body": "Contracción de good even, fórmula de despedida que en este contexto interrumpe bruscamente la disputa. La cortesía es irónica."
+              "body": "Contracción de good even, fórmula de despedida que en este contexto interrumpe bruscamente la disputa. La cortesía es irónica. Fuente de cotejo: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/1/",
+              "gloss": "buenas tardes; despedida abreviada"
             },
             {
               "term": "herdsmen of the beastly plebeians",
               "type": "Metáfora política",
               "title": "Los tribunos como pastores",
-              "body": "Herdsmen equipara a los tribunos con pastores y a los plebeyos con ganado; beastly refuerza el desprecio de clase expresado por Menenio, no una caracterización neutral del pueblo."
+              "body": "Herdsmen equipara a los tribunos con pastores y a los plebeyos con ganado; beastly refuerza el desprecio de clase expresado por Menenio, no una caracterización neutral del pueblo.",
+              "gloss": "pastores de los plebeyos tratados como bestias"
             }
           ]
         },
@@ -7976,13 +7989,15 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "were she earthly",
               "type": "Sintaxis",
               "title": "Condicional sin «if»",
-              "body": "Inversión de «if she were earthly», construcción condicional propia del inglés literario."
+              "body": "Inversión de «if she were earthly», construcción condicional propia del inglés literario.",
+              "gloss": "si la luna fuera terrenal"
             },
             {
               "term": "follow your eyes",
               "type": "Imagen",
               "title": "Seguir los ojos",
-              "body": "La mirada precede al movimiento del cuerpo: Menenio percibe la urgencia de las mujeres."
+              "body": "La mirada precede al movimiento del cuerpo: Menenio percibe la urgencia de las mujeres.",
+              "gloss": "seguir con tanta prisa aquello que miran"
             }
           ]
         },
@@ -7996,13 +8011,15 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "my boy Martius",
               "type": "Caracterización",
               "title": "El hijo adulto",
-              "body": "«Boy» marca la relación materna, no la edad de Marcio."
+              "body": "«Boy» marca la relación materna, no la edad de Marcio.",
+              "gloss": "mi hijo Marcio"
             },
             {
               "term": "Juno",
               "type": "Mitología",
               "title": "Juno",
-              "body": "Diosa romana invocada aquí en una exclamación de urgencia."
+              "body": "Diosa romana invocada aquí en una exclamación de urgencia.",
+              "gloss": "Juno, diosa romana asociada al matrimonio y la maternidad"
             }
           ]
         },
@@ -8023,7 +8040,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "prosperous approbation",
               "type": "Léxico",
               "title": "Reconocimiento del éxito",
-              "body": "«Approbation» designa aprobación o reconocimiento; el regreso es también un triunfo público."
+              "body": "«Approbation» designa aprobación o reconocimiento; el regreso es también un triunfo público.",
+              "gloss": "aprobación favorable; reconocimiento por sus éxitos"
             }
           ]
         },
@@ -8038,13 +8056,15 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "Take my cap, Jupiter",
               "type": "Gesto teatral",
               "title": "El sombrero al aire",
-              "body": "La acotación Folger indica que Menenio arroja su sombrero: el gesto expresa júbilo."
+              "body": "La acotación Folger indica que Menenio arroja su sombrero: el gesto expresa júbilo.",
+              "gloss": "¡Júpiter, recibe mi gorro!; gesto jubiloso"
             },
             {
               "term": "thee",
               "type": "Gramática",
               "title": "Segunda persona singular",
-              "body": "Forma de objeto del pronombre singular; Menenio se dirige a Júpiter."
+              "body": "Forma de objeto del pronombre singular; Menenio se dirige a Júpiter.",
+              "gloss": "a ti (pronombre singular antiguo)"
             }
           ]
         },
@@ -8058,7 +8078,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "Nay",
               "type": "Pragmática",
               "title": "Respuesta a la incredulidad",
-              "body": "La negación rechaza la duda de Menenio, no la noticia del regreso."
+              "body": "La negación rechaza la duda de Menenio, no la noticia del regreso.",
+              "gloss": "sí, ciertamente (réplica enfática en este contexto)"
             }
           ]
         },
@@ -8073,13 +8094,17 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "hath",
               "type": "Gramática histórica",
               "title": "Forma de «have»",
-              "body": "Tercera persona singular en inglés moderno temprano."
+              "body": "Tercera persona singular en inglés moderno temprano. Fuente de cotejo: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/1/",
+              "gloss": "tiene (tercera persona singular antigua de have)",
+              "lemma": "have",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/hath#English"
             },
             {
               "term": "his wife another",
               "type": "Elipsis",
               "title": "Otra para su esposa",
-              "body": "Se sobreentiende el verbo de la proposición anterior: «hath»."
+              "body": "Se sobreentiende el verbo de la proposición anterior: «hath».",
+              "gloss": "su esposa, otra carta"
             }
           ]
         },
@@ -8093,7 +8118,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "house reel",
               "type": "Hipérbole",
               "title": "Casa tambaleante",
-              "body": "«Reel» significa tambalearse; imagen de una celebración exuberante."
+              "body": "«Reel» significa tambalearse; imagen de una celebración exuberante.",
+              "gloss": "hacer temblar mi casa de alegría"
             }
           ]
         },
@@ -8107,7 +8133,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "certain",
               "type": "Uso adverbial",
               "title": "Por supuesto",
-              "body": "Afirmación enfática, equivalente aquí a «certainly»."
+              "body": "Afirmación enfática, equivalente aquí a «certainly».",
+              "gloss": "ciertamente; seguro"
             }
           ]
         },
