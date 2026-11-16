@@ -13588,7 +13588,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "made new head",
               "type": "Nota filológica",
               "gloss": "reunido nuevas fuerzas",
-              "body": "«Head» designa aquí una fuerza organizada capaz de reanudar la resistencia, no la cabeza corporal. Referencias: Folger, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "body": "La expresión militar significa levantar o reagrupar fuerzas tras una derrota, no nombrar un nuevo jefe. Brooke la glosa «raised a new army» (C. F. Tucker Brooke, ed., The Tragedy of Coriolanus, Yale, 1924, notas a III.1, v. 1). Fuentes cotejadas: Folger Shakespeare Library, Coriolanus, III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale, 1924), notas a III.1, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III; Shakespeare, Plays and Poems, ed. Malone/Boswell (1821), vol. XIV, p. 106, https://upload.wikimedia.org/wikipedia/commons/3/3f/The_Plays_and_Poems_of_William_Shakspeare_%281821%29_-_Vol._14.pdf.",
               "lemma": "head",
               "lemmaUrl": "https://en.wiktionary.org/wiki/head"
             }
@@ -13605,7 +13605,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "composition",
               "type": "Nota filológica",
               "gloss": "acuerdo; arreglo negociado",
-              "body": "No se trata de una composición escrita: el sustantivo significa arreglo o pacto entre partes enfrentadas. Referencias: Folger, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "body": "Es un acuerdo negociado tras el combate. El comparativo «swifter» hace de la recuperación militar de Aufidio la causa de la premura romana, no de una rendición incondicional. Brooke (1924, III.1, v. 3) registra «coming to terms». Fuentes cotejadas: Folger Shakespeare Library, Coriolanus, III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale, 1924), notas a III.1, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III; Shakespeare, Plays and Poems, ed. Malone/Boswell (1821), vol. XIV, p. 106, https://upload.wikimedia.org/wikipedia/commons/3/3f/The_Plays_and_Poems_of_William_Shakspeare_%281821%29_-_Vol._14.pdf.",
               "lemma": "composition",
               "lemmaUrl": "https://en.wiktionary.org/wiki/composition"
             },
@@ -13631,7 +13631,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "make road",
               "type": "Nota filológica",
               "gloss": "hacer una incursión; atacar",
-              "body": "«Road» tiene aquí el sentido histórico de incursión militar, no el de camino construido. Referencias: Folger, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "body": "«Road» conserva aquí el sentido histórico de incursión o ataque, no el de vía de comunicación. La conjetura de Coriolano contradice el pronóstico tranquilizador de Cominio; Brooke (1924, III.1, v. 5) lo glosa «an inroad, raid». Fuentes cotejadas: Folger Shakespeare Library, Coriolanus, III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale, 1924), notas a III.1, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III; Shakespeare, Plays and Poems, ed. Malone/Boswell (1821), vol. XIV, p. 106, https://upload.wikimedia.org/wikipedia/commons/3/3f/The_Plays_and_Poems_of_William_Shakspeare_%281821%29_-_Vol._14.pdf.",
               "lemma": "road",
               "lemmaUrl": "https://en.wiktionary.org/wiki/road"
             },
@@ -13700,7 +13700,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "On safeguard",
               "type": "Nota filológica",
               "gloss": "bajo salvoconducto",
-              "body": "Expresión de protección o garantía para acudir al encuentro; no implica que Aufidio fuera prisionero. Referencias: Folger, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "body": "«On safeguard» indica que Aufidio acudió amparado por una garantía de seguridad o salvoconducto. No debe confundirse con su captura ni con una rendición personal; el contexto describe una visita al comandante romano. Fuentes cotejadas: Folger Shakespeare Library, Coriolanus, III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale, 1924), notas a III.1, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III; Shakespeare, Plays and Poems, ed. Malone/Boswell (1821), vol. XIV, p. 106, https://upload.wikimedia.org/wikipedia/commons/3/3f/The_Plays_and_Poems_of_William_Shakspeare_%281821%29_-_Vol._14.pdf.",
               "lemma": "safeguard",
               "lemmaUrl": "https://en.wiktionary.org/wiki/safeguard"
             },
@@ -13782,7 +13782,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "hopeless restitution",
               "type": "Nota filológica",
               "gloss": "sin esperanza de recuperar lo perdido",
-              "body": "«Restitution» es recuperación o restitución de bienes; la fórmula extrema el precio que pagaría por vencer. Referencias: Folger, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "body": "La preposición «to» depende de «pawn»: empeñaría su fortuna aun a costa de perderla sin posibilidad de recuperación. Brooke (1924, III.1, v. 16) interpreta «To ... restitution» como «beyond hope of redemption». La hipérbole mide la obsesión de Aufidio por vencer. Fuentes cotejadas: Folger Shakespeare Library, Coriolanus, III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale, 1924), notas a III.1, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III; Shakespeare, Plays and Poems, ed. Malone/Boswell (1821), vol. XIV, p. 106, https://upload.wikimedia.org/wikipedia/commons/3/3f/The_Plays_and_Poems_of_William_Shakspeare_%281821%29_-_Vol._14.pdf.",
               "lemma": "restitution",
               "lemmaUrl": "https://en.wiktionary.org/wiki/restitution"
             },
@@ -13831,7 +13831,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "prank them",
               "type": "Nota filológica",
               "gloss": "se engalanan; se adornan",
-              "body": "«Prank» es aquí verbo de adornarse ostentosamente; «them» funciona reflexivamente («themselves»). La crítica a la autoridad es la perspectiva de Coriolano. Fuentes: Folger, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "body": "«Them» es reflexivo («themselves») y «prank» significa adornarse o engalanarse ostentosamente. La edición de 1821 de Malone/Boswell, vol. XIV, p. 106, nota 6, recoge la glosa de Samuel Johnson: «Plume, deck, dignify themselves». Es una acusación del personaje, no una descripción neutral de los tribunos. Fuentes cotejadas: Folger Shakespeare Library, Coriolanus, III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale, 1924), notas a III.1, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III; Shakespeare, Plays and Poems, ed. Malone/Boswell (1821), vol. XIV, p. 106, https://upload.wikimedia.org/wikipedia/commons/3/3f/The_Plays_and_Poems_of_William_Shakspeare_%281821%29_-_Vol._14.pdf.",
               "lemma": "prank",
               "lemmaUrl": "https://en.wiktionary.org/wiki/prank"
             },
@@ -13840,7 +13840,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "noble sufferance",
               "type": "Nota filológica",
               "gloss": "paciencia de los nobles; tolerancia aristocrática",
-              "body": "«Sufferance» designa aguante o tolerancia. La expresión admite una lectura social (la paciencia de los nobles) y una valorativa (la paciencia noble); se privilegia la primera por el conflicto político. Fuentes: Folger, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "body": "La construcción puede significar la tolerancia que cabe esperar de los nobles o la tolerancia digna de un noble; la hostilidad de Coriolano hacia el tribunado favorece aquí la primera lectura. «Against» expresa exceso o agravio a esa paciencia, no una agresión militar literal. Fuentes cotejadas: Folger Shakespeare Library, Coriolanus, III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale, 1924), notas a III.1, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III; Shakespeare, Plays and Poems, ed. Malone/Boswell (1821), vol. XIV, p. 106, https://upload.wikimedia.org/wikipedia/commons/3/3f/The_Plays_and_Poems_of_William_Shakspeare_%281821%29_-_Vol._14.pdf.",
               "lemma": "sufferance",
               "lemmaUrl": "https://en.wiktionary.org/wiki/sufferance"
             }
@@ -13901,7 +13901,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "the noble and the common",
               "type": "Nota filológica",
               "gloss": "los nobles y el pueblo",
-              "body": "Alude a los dos sectores cuyo asentimiento es relevante para el consulado; «passed» se interpreta como haber superado la instancia de aprobación, no como caminar físicamente entre ellos. Fuentes: Folger, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "body": "Folger conserva «the noble and the common», lectura del primer Folio. La edición Malone/Boswell de 1821 (vol. XIV, p. 106, nota 7, Steevens) propone «the nobles, and the commons» por paralelismo con otras alusiones de la obra. La traducción «los nobles y el pueblo» mantiene el sentido sin ocultar la variante editorial. Fuentes cotejadas: Folger Shakespeare Library, Coriolanus, III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale, 1924), notas a III.1, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III; Shakespeare, Plays and Poems, ed. Malone/Boswell (1821), vol. XIV, p. 106, https://upload.wikimedia.org/wikipedia/commons/3/3f/The_Plays_and_Poems_of_William_Shakspeare_%281821%29_-_Vol._14.pdf.",
               "lemma": "common",
               "lemmaUrl": "https://en.wiktionary.org/wiki/common"
             }
@@ -13925,7 +13925,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "children’s voices",
               "type": "Nota filológica",
               "gloss": "votos de niños",
-              "body": "«Voices» mantiene su sentido electoral de votos. La comparación infantil desacredita su supuesta firmeza: Coriolano protesta porque el apoyo puede revocarse. Fuentes: Folger, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "body": "«Voices» equivale a votos; la pregunta compara la revocación del sufragio con la inconstancia infantil. Es una descalificación de Coriolano, no una afirmación literal sobre la edad de los votantes. Folger, III.1, 1706. Fuentes cotejadas: Folger Shakespeare Library, Coriolanus, III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale, 1924), notas a III.1, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III; Shakespeare, Plays and Poems, ed. Malone/Boswell (1821), vol. XIV, p. 106, https://upload.wikimedia.org/wikipedia/commons/3/3f/The_Plays_and_Poems_of_William_Shakspeare_%281821%29_-_Vol._14.pdf.",
               "lemma": "voice",
               "lemmaUrl": "https://en.wiktionary.org/wiki/voice"
             }
@@ -13942,7 +13942,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "He shall to th’ marketplace",
               "type": "Nota filológica",
               "gloss": "él irá a la plaza pública",
-              "body": "El verbo de movimiento se sobreentiende después de «shall»; «marketplace» es el lugar público del procedimiento político. Fuentes: Folger, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "body": "Después de «shall» se elide el verbo de desplazamiento («go»). La plaza del mercado es el lugar al que se dirige el procedimiento político; no equivale aquí a una compra o venta. Folger, III.1, 1707. Fuentes cotejadas: Folger Shakespeare Library, Coriolanus, III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale, 1924), notas a III.1, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III; Shakespeare, Plays and Poems, ed. Malone/Boswell (1821), vol. XIV, p. 106, https://upload.wikimedia.org/wikipedia/commons/3/3f/The_Plays_and_Poems_of_William_Shakspeare_%281821%29_-_Vol._14.pdf.",
               "lemma": "shall",
               "lemmaUrl": "https://en.wiktionary.org/wiki/shall"
             }
@@ -13976,7 +13976,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "broil",
               "type": "Nota filológica",
               "gloss": "tumulto; enfrentamiento",
-              "body": "Aquí es sustantivo que significa riña o altercado, no el verbo moderno relativo a cocinar. Fuentes: Folger, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "body": "Sustantivo: tumulto, riña, enfrentamiento. Sicinio presenta el riesgo de violencia colectiva como motivo para impedir el paso, no describe un altercado ya ocurrido. Folger, III.1, 1709–1710. Fuentes cotejadas: Folger Shakespeare Library, Coriolanus, III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale, 1924), notas a III.1, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III; Shakespeare, Plays and Poems, ed. Malone/Boswell (1821), vol. XIV, p. 106, https://upload.wikimedia.org/wikipedia/commons/3/3f/The_Plays_and_Poems_of_William_Shakspeare_%281821%29_-_Vol._14.pdf.",
               "lemma": "broil",
               "lemmaUrl": "https://en.wiktionary.org/wiki/broil"
             }
@@ -14020,7 +14020,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "mouths",
               "type": "Nota filológica",
               "gloss": "bocas; portavoces",
-              "body": "Los tribunos representan la voz popular, pero Coriolano les exige controlar también sus dientes, figuración de su agresividad. Fuentes: Folger, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "body": "La secuencia «voices / tongues / mouths / teeth» encadena sufragio, habla y agresividad física. Coriolano exige que los tribunos, portavoces de la multitud, controlen sus «dientes»: una metáfora polémica de autoridad y amenaza, no una atribución legal explícita. Fuentes cotejadas: Folger Shakespeare Library, Coriolanus, III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale, 1924), notas a III.1, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III; Shakespeare, Plays and Poems, ed. Malone/Boswell (1821), vol. XIV, p. 106, https://upload.wikimedia.org/wikipedia/commons/3/3f/The_Plays_and_Poems_of_William_Shakspeare_%281821%29_-_Vol._14.pdf.",
               "lemma": "mouth",
               "lemmaUrl": "https://en.wiktionary.org/wiki/mouth"
             },
@@ -14029,7 +14029,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "set them on",
               "type": "Nota filológica",
               "gloss": "los han instigado",
-              "body": "La pregunta atribuye a los tribunos una incitación que el personaje no demuestra. Fuentes: Folger, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "body": "«Set on» significa instigar o azuzar. La pregunta acusa a los tribunos de haber provocado el conflicto, pero no demuestra por sí sola que la acusación sea cierta; distíngase la retórica de Coriolano de los hechos dramáticos. Fuentes cotejadas: Folger Shakespeare Library, Coriolanus, III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale, 1924), notas a III.1, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III; Shakespeare, Plays and Poems, ed. Malone/Boswell (1821), vol. XIV, p. 106, https://upload.wikimedia.org/wikipedia/commons/3/3f/The_Plays_and_Poems_of_William_Shakspeare_%281821%29_-_Vol._14.pdf.",
               "lemma": "set",
               "lemmaUrl": "https://en.wiktionary.org/wiki/set"
             }
