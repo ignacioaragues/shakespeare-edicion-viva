@@ -23373,8 +23373,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "goes this forward",
               "title": "goes this forward",
               "type": "Nota filológica",
-              "gloss": "se pondrá en marcha",
-              "body": "La pregunta se refiere al inicio de la expedición militar, no al movimiento físico de los interlocutores. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.5, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; Shakespeare Online, Coriolanus IV.5, https://www.shakespeare-online.com/plays/corio_4_5.html.",
+              "gloss": "¿cuándo se llevará a cabo?",
+              "body": "«Go forward» significa ponerse en marcha o ejecutarse; el criado pregunta por la campaña militar que acaba de pactarse durante el banquete. Fuentes: Folger Shakespeare Library, Coriolanus IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); C. F. Tucker Brooke, ed. Yale (1924), IV.5 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV).",
               "lemma": "forward",
               "lemmaUrl": "https://en.wiktionary.org/wiki/forward"
             }
@@ -23390,8 +23390,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "presently",
               "title": "presently",
               "type": "Nota filológica",
-              "gloss": "enseguida, en cualquier momento",
-              "body": "En este contexto presently indica inmediatez; la secuencia mañana/hoy/enseguida exagera la urgencia. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.5, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; Shakespeare Online, Coriolanus IV.5, https://www.shakespeare-online.com/plays/corio_4_5.html.",
+              "gloss": "de inmediato, en seguida",
+              "body": "En el inglés moderno temprano, «presently» expresa inmediatez, no simplemente «en algún momento»: la enumeración «Tomorrow, today, presently» acelera cómicamente la premura. Brooke lo glosa «at once». Fuentes: Folger Shakespeare Library, Coriolanus IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); C. F. Tucker Brooke, ed. Yale (1924), IV.5 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV).",
               "lemma": "presently",
               "lemmaUrl": "https://en.wiktionary.org/wiki/presently"
             },
@@ -23399,8 +23399,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "a parcel of their feast",
               "title": "a parcel of their feast",
               "type": "Nota filológica",
-              "gloss": "una parte más del banquete",
-              "body": "Parcel significa parte o porción; la expedición bélica queda grotescamente asimilada a un plato del convite. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.5, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; Shakespeare Online, Coriolanus IV.5, https://www.shakespeare-online.com/plays/corio_4_5.html.",
+              "gloss": "una parte del propio banquete",
+              "body": "«Parcel» significa parte o porción. El anuncio de una nueva guerra se presenta como una prolongación de la comida, yuxtaponiendo fiesta y destrucción. Fuentes: Folger Shakespeare Library, Coriolanus IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); C. F. Tucker Brooke, ed. Yale (1924), IV.5 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV).",
               "lemma": "parcel",
               "lemmaUrl": "https://en.wiktionary.org/wiki/parcel"
             },
@@ -23408,8 +23408,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "ere they wipe their lips",
               "title": "ere they wipe their lips",
               "type": "Nota filológica",
-              "gloss": "antes de que se limpien los labios",
-              "body": "Ere equivale a before; la hipérbole une el final de la comida con la movilización instantánea. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.5, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; Shakespeare Online, Coriolanus IV.5, https://www.shakespeare-online.com/plays/corio_4_5.html.",
+              "gloss": "antes de que terminen de limpiarse los labios",
+              "body": "«Ere» equivale a «before». La afirmación es hiperbólica: se espera que la movilización se ordene antes incluso de que concluya la comida. Fuentes: Folger Shakespeare Library, Coriolanus IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); C. F. Tucker Brooke, ed. Yale (1924), IV.5 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV).",
               "lemma": "ere",
               "lemmaUrl": "https://en.wiktionary.org/wiki/ere"
             }
@@ -23422,11 +23422,11 @@ window.SHAKESPEARE_READER_DATA = {
           "es": "Entonces volveremos a tener un mundo agitado. Esta paz no sirve más que para oxidar el hierro, multiplicar los sastres y criar compositores de baladas.",
           "notes": [
             {
-              "term": "stirring world",
-              "title": "stirring world",
+              "term": "stirring",
+              "title": "stirring",
               "type": "Nota filológica",
-              "gloss": "mundo agitado, lleno de movimiento",
-              "body": "Stirring opone la agitación bélica a la quietud civil; el elogio procede de un criado, de modo que no debe confundirse sin más con la voz del dramaturgo. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.5, FTLN 2917–2935, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; Shakespeare Online, Coriolanus IV.5, https://www.shakespeare-online.com/plays/corio_4_5.html.",
+              "gloss": "agitado, lleno de actividad",
+              "body": "«Stirring» describe un mundo dinámico y belicoso frente a la quietud de la paz. El entusiasmo del criado es irónico: identifica prosperidad o vitalidad con la guerra. Fuentes: Folger Shakespeare Library, Coriolanus IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); C. F. Tucker Brooke, ed. Yale (1924), IV.5 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV).",
               "lemma": "stirring",
               "lemmaUrl": "https://en.wiktionary.org/wiki/stirring"
             },
@@ -23434,8 +23434,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "rust iron",
               "title": "rust iron",
               "type": "Nota filológica",
-              "gloss": "oxidar las armas",
-              "body": "Iron puede representar por metonimia las armas desatendidas durante la paz; la imagen forma parte de una enumeración satírica. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.5, FTLN 2917–2935, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; Shakespeare Online, Coriolanus IV.5, https://www.shakespeare-online.com/plays/corio_4_5.html.",
+              "gloss": "hacer que las armas se oxiden",
+              "body": "El «iron» puede evocar el hierro de las armas. La guerra las mantiene en uso; la paz las abandona a la herrumbre, según la lógica exagerada del sirviente. Fuentes: Folger Shakespeare Library, Coriolanus IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); C. F. Tucker Brooke, ed. Yale (1924), IV.5 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV).",
               "lemma": "iron",
               "lemmaUrl": "https://en.wiktionary.org/wiki/iron"
             },
@@ -23443,10 +23443,17 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "breed ballad-makers",
               "title": "breed ballad-makers",
               "type": "Nota filológica",
-              "gloss": "producir compositores de baladas",
-              "body": "Las baladas se asocian aquí con una actividad de ocio o relato popular; el criado caricaturiza las ocupaciones pacíficas. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.5, FTLN 2917–2935, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; Shakespeare Online, Coriolanus IV.5, https://www.shakespeare-online.com/plays/corio_4_5.html.",
+              "gloss": "multiplicar compositores de baladas",
+              "body": "La paz se ridiculiza como época de entretenimiento y ocupaciones civiles; los criados no elaboran un argumento político serio, sino una defensa carnavalesca de la guerra. Fuentes: Folger Shakespeare Library, Coriolanus IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); C. F. Tucker Brooke, ed. Yale (1924), IV.5 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV).",
               "lemma": "ballad",
               "lemmaUrl": "https://en.wiktionary.org/wiki/ballad"
+            },
+            {
+              "term": "increase tailors",
+              "title": "increase tailors",
+              "type": "Nota filológica",
+              "gloss": "dar más trabajo a los sastres",
+              "body": "El incremento de sastres representa el consumo de ropa civil en tiempos de paz, contrapuesto a las armas y el equipo bélico que añoran los criados. Fuentes: Folger Shakespeare Library, Coriolanus IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); C. F. Tucker Brooke, ed. Yale (1924), IV.5 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV)."
             }
           ]
         },
@@ -23460,8 +23467,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "sprightly walking",
               "title": "sprightly walking",
               "type": "Nota filológica",
-              "gloss": "de andar vivaz",
-              "body": "Folger lee walking, que aquí se entiende como movimiento enérgico; Shakespeare Online y otras transcripciones ofrecen waking («despierta»). Se registra la divergencia sin atribuirle una procedencia textual no comprobada. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.5, FTLN 2917–2935, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; Shakespeare Online, Coriolanus IV.5, https://www.shakespeare-online.com/plays/corio_4_5.html.",
+              "gloss": "viva y activa; Folger: «walking», Brooke: «waking»",
+              "body": "Diferencia textual entre ediciones: Folger imprime «sprightly walking», mientras Brooke (Yale 1924) imprime «spritely, waking». «Walking» permite personificar la guerra por su marcha enérgica; «waking» destaca su estado alerta. Se conserva Folger como texto base y se registra la variante sin sustituirla. Fuentes: Folger Shakespeare Library, Coriolanus IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); C. F. Tucker Brooke, ed. Yale (1924), IV.5 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV).",
               "lemma": "walk",
               "lemmaUrl": "https://en.wiktionary.org/wiki/walk"
             },
@@ -23469,17 +23476,17 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "full of vent",
               "title": "full of vent",
               "type": "Nota filológica",
-              "gloss": "rebosante de ímpetu; con salida para su energía",
-              "body": "Vent admite la idea de desahogo o exteriorización; el sentido exacto de la imagen es interpretativo, en contraste con la paz paralizada. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.5, FTLN 2917–2935, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; Shakespeare Online, Coriolanus IV.5, https://www.shakespeare-online.com/plays/corio_4_5.html.",
+              "gloss": "con ocasión de actuar; con salida para su energía",
+              "body": "Brooke glosa «vent» como «opportunity for action»: el sentido no es simplemente ventilación ni respiración, sino posibilidad de desahogar la energía por medio de la acción. Fuentes: Folger Shakespeare Library, Coriolanus IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); C. F. Tucker Brooke, ed. Yale (1924), IV.5 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV).",
               "lemma": "vent",
               "lemmaUrl": "https://en.wiktionary.org/wiki/vent"
             },
             {
-              "term": "apoplexy, lethargy",
-              "title": "apoplexy, lethargy",
+              "term": "apoplexy",
+              "title": "apoplexy",
               "type": "Nota filológica",
-              "gloss": "apoplejía, letargo",
-              "body": "Vocabulario médico aplicado metafóricamente a la paz como inmovilidad o pérdida de sensibilidad; no constituye un diagnóstico. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.5, FTLN 2917–2935, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; Shakespeare Online, Coriolanus IV.5, https://www.shakespeare-online.com/plays/corio_4_5.html.",
+              "gloss": "apoplejía, parálisis o estupor",
+              "body": "La paz se presenta como un cuerpo enfermo e inactivo: «apoplexy» remite a un estado de pérdida súbita de funciones y forma pareja con «lethargy», letargo. La caracterización pertenece a la sátira belicista de los criados. Fuentes: Folger Shakespeare Library, Coriolanus IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); C. F. Tucker Brooke, ed. Yale (1924), IV.5 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV).",
               "lemma": "apoplexy",
               "lemmaUrl": "https://en.wiktionary.org/wiki/apoplexy"
             },
@@ -23487,19 +23494,26 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "mulled",
               "title": "mulled",
               "type": "Nota filológica",
-              "gloss": "embotada, aturdida",
-              "body": "Adjetivo de valor histórico discutible; se interpreta por su coordinación con deaf, sleepy e insensible, evitando atribuirle automáticamente el sentido culinario moderno de mulled wine. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.5, FTLN 2917–2935, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; Shakespeare Online, Coriolanus IV.5, https://www.shakespeare-online.com/plays/corio_4_5.html.",
+              "gloss": "embotada, insípida; como bebida recalentada",
+              "body": "Brooke compara «mulled» con un vino calentado y endulzado que se vuelve insípido. En la serie de adjetivos, la paz aparece torpe, aturdida y carente de nervio. Fuentes: Folger Shakespeare Library, Coriolanus IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); C. F. Tucker Brooke, ed. Yale (1924), IV.5 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV).",
               "lemma": "mull",
               "lemmaUrl": "https://en.wiktionary.org/wiki/mull"
             },
             {
-              "term": "a getter of more bastard children",
-              "title": "a getter of more bastard children",
+              "term": "more bastard children",
+              "title": "more bastard children",
               "type": "Nota filológica",
-              "gloss": "engendra más hijos ilegítimos",
-              "body": "La comparación grotesca contrapone los nacimientos extramatrimoniales en la paz con las muertes en la guerra; es una racionalización cómica, no una afirmación estadística. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.5, FTLN 2917–2935, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; Shakespeare Online, Coriolanus IV.5, https://www.shakespeare-online.com/plays/corio_4_5.html.",
+              "gloss": "más hijos nacidos fuera del matrimonio",
+              "body": "El criado construye un balance obsceno: acusa a la paz de engendrar más hijos extramatrimoniales que muertos produce la guerra. Es una burla grotesca, no una afirmación demográfica. Fuentes: Folger Shakespeare Library, Coriolanus IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); C. F. Tucker Brooke, ed. Yale (1924), IV.5 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV).",
               "lemma": "get",
               "lemmaUrl": "https://en.wiktionary.org/wiki/get"
+            },
+            {
+              "term": "audible",
+              "title": "audible",
+              "type": "Nota filológica",
+              "gloss": "ruidosa; sentido discutido",
+              "body": "Brooke propone cautelosamente «noisy» o «quick of hearing». La personificación puede sugerir ruido y viveza, pero el matiz preciso de «audible» es discutido. Fuentes: Folger Shakespeare Library, Coriolanus IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); C. F. Tucker Brooke, ed. Yale (1924), IV.5 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV)."
             }
           ]
         },
@@ -23513,8 +23527,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "ravisher",
               "title": "ravisher",
               "type": "Nota filológica",
-              "gloss": "violador, agresor sexual",
-              "body": "Ravisher remite aquí a la violencia sexual asociada a la guerra. El paralelismo no disculpa esa violencia: el criado la contrapone burlescamente a la infidelidad conyugal. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.5, FTLN 2917–2935, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; Shakespeare Online, Coriolanus IV.5, https://www.shakespeare-online.com/plays/corio_4_5.html.",
+              "gloss": "violador; quien ejerce violencia sexual",
+              "body": "La analogía concede que la guerra ejerce violencia sexual, pero introduce la respuesta grotesca de que la paz también provoca desorden matrimonial. El argumento pertenece al humor brutal de los criados. Fuentes: Folger Shakespeare Library, Coriolanus IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); C. F. Tucker Brooke, ed. Yale (1924), IV.5 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV).",
               "lemma": "ravisher",
               "lemmaUrl": "https://en.wiktionary.org/wiki/ravisher"
             },
@@ -23522,8 +23536,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "maker of cuckolds",
               "title": "maker of cuckolds",
               "type": "Nota filológica",
-              "gloss": "hace maridos engañados, cornudos",
-              "body": "Cuckold designa al marido cuya esposa le es infiel; la frase continúa la burla sexual iniciada en el parlamento anterior. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.5, FTLN 2917–2935, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; Shakespeare Online, Coriolanus IV.5, https://www.shakespeare-online.com/plays/corio_4_5.html.",
+              "gloss": "hace maridos engañados",
+              "body": "«Cuckold» designa al hombre cuya esposa ha cometido adulterio. La oposición con «ravisher» explota dos formas distintas de violencia o desorden sexual. Fuentes: Folger Shakespeare Library, Coriolanus IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); C. F. Tucker Brooke, ed. Yale (1924), IV.5 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV).",
               "lemma": "cuckold",
               "lemmaUrl": "https://en.wiktionary.org/wiki/cuckold"
             }
@@ -23534,7 +23548,15 @@ window.SHAKESPEARE_READER_DATA = {
           "speaker": "first-servingman",
           "en": "Ay, and it makes men hate one\nanother.",
           "es": "Sí, y además hace que los hombres se odien unos a otros.",
-          "notes": []
+          "notes": [
+            {
+              "term": "makes men hate",
+              "title": "makes men hate",
+              "type": "Nota filológica",
+              "gloss": "hace que los hombres se odien",
+              "body": "El primer criado invierte el lugar común de que la guerra genera odio: sostiene absurdamente que la paz hace que los hombres se enemisten. Fuentes: Folger Shakespeare Library, Coriolanus IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); C. F. Tucker Brooke, ed. Yale (1924), IV.5 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV)."
+            }
+          ]
         },
         {
           "line": "2931–2934",
@@ -23543,11 +23565,11 @@ window.SHAKESPEARE_READER_DATA = {
           "es": "La razón es que entonces se necesitan menos unos a otros. ¡Yo apuesto por la guerra! Espero ver a los romanos tan baratos como los volscos. [Se oye ruido dentro.] Se están levantando; se están levantando.",
           "notes": [
             {
-              "term": "less need one another",
-              "title": "less need one another",
+              "term": "less",
+              "title": "less",
               "type": "Nota filológica",
-              "gloss": "se necesitan menos entre sí",
-              "body": "La explicación invierte la expectativa moral: el criado considera que la dependencia mutua durante la guerra une a las personas más que la paz. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.5, FTLN 2917–2935, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; Shakespeare Online, Coriolanus IV.5, https://www.shakespeare-online.com/plays/corio_4_5.html.",
+              "gloss": "menos",
+              "body": "La explicación paradójica es que, en paz, las personas dependen menos de sus camaradas. El criado interpreta esta menor necesidad mutua como causa de enemistad. Fuentes: Folger Shakespeare Library, Coriolanus IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); C. F. Tucker Brooke, ed. Yale (1924), IV.5 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV).",
               "lemma": "need",
               "lemmaUrl": "https://en.wiktionary.org/wiki/need"
             },
@@ -23555,8 +23577,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "The wars for my money",
               "title": "The wars for my money",
               "type": "Nota filológica",
-              "gloss": "yo apuesto por la guerra",
-              "body": "Fórmula de preferencia o apuesta, no necesariamente una transacción monetaria literal. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.5, FTLN 2917–2935, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; Shakespeare Online, Coriolanus IV.5, https://www.shakespeare-online.com/plays/corio_4_5.html.",
+              "gloss": "yo me quedo con la guerra",
+              "body": "«For my money» expresa preferencia personal: el criado apuesta por la guerra como quien defiende la mejor elección. Fuentes: Folger Shakespeare Library, Coriolanus IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); C. F. Tucker Brooke, ed. Yale (1924), IV.5 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV).",
               "lemma": "money",
               "lemmaUrl": "https://en.wiktionary.org/wiki/money"
             },
@@ -23564,10 +23586,17 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "Romans as cheap as Volscians",
               "title": "Romans as cheap as Volscians",
               "type": "Nota filológica",
-              "gloss": "romanos tan baratos como volscos",
-              "body": "Cheap puede referirse al bajo precio o escaso valor atribuido a las vidas en guerra; la equiparación es una lectura irónica, no una cotización literal. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.5, FTLN 2917–2935, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; Shakespeare Online, Coriolanus IV.5, https://www.shakespeare-online.com/plays/corio_4_5.html.",
+              "gloss": "que la vida de un romano valga tan poco como la de un volsco",
+              "body": "«Cheap» reduce el valor de los combatientes a su facilidad de muerte. La frase deja ver el desprecio de los criados por ambos bandos y el carácter deshumanizador del entusiasmo bélico. Fuentes: Folger Shakespeare Library, Coriolanus IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); C. F. Tucker Brooke, ed. Yale (1924), IV.5 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV).",
               "lemma": "cheap",
               "lemmaUrl": "https://en.wiktionary.org/wiki/cheap"
+            },
+            {
+              "term": "They are rising",
+              "title": "They are rising",
+              "type": "Nota filológica",
+              "gloss": "se levantan de la mesa",
+              "body": "Brooke señala que «rising» significa levantarse del banquete, no que estalle ya una rebelión. La escena culmina cuando los comensales se disponen a salir. Fuentes: Folger Shakespeare Library, Coriolanus IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); C. F. Tucker Brooke, ed. Yale (1924), IV.5 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV)."
             }
           ]
         },
@@ -23687,8 +23716,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "His remedies are tame",
               "title": "His remedies are tame",
               "type": "Nota filológica",
-              "gloss": "sus remedios han perdido fuerza",
-              "body": "Remedies alude a las medidas que Coriolano podría intentar; tame indica su supuesta ineficacia ante la paz. Es la valoración de Sicinio, no un hecho comprobado. Referencia: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6, FTLN 2936–2957, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/.",
+              "gloss": "los medios de restaurar a Coriolano parecen ineficaces",
+              "body": "Brooke entiende «remedies» como vías para restituir a Coriolano y «tame» como débiles o ineficaces. Hay diferencia textual: Folger presenta «His remedies are tame—the present peace», mientras Brooke imprime «His remedies are tame i’ the present peace». La segunda redacción relaciona explícitamente la falta de eficacia con la paz vigente; se mantiene Folger como base. Fuentes: Folger Shakespeare Library, Coriolanus IV.6 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/); C. F. Tucker Brooke, ed. Yale (1924), IV.6 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV).",
               "lemma": "remedy",
               "lemmaUrl": "https://en.wiktionary.org/wiki/remedy"
             },
@@ -23696,8 +23725,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "wild hurry",
               "title": "wild hurry",
               "type": "Nota filológica",
-              "gloss": "agitación desenfrenada",
-              "body": "Contrasta el tumulto popular anterior con la quietud presente. Referencia: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6, FTLN 2936–2957, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/.",
+              "gloss": "agitación tumultuosa",
+              "body": "«Hurry» equivale aquí a perturbación o tumulto. Sicinio contrapone el orden comercial presente al conflicto popular previo para justificar el destierro. Fuentes: Folger Shakespeare Library, Coriolanus IV.6 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/); C. F. Tucker Brooke, ed. Yale (1924), IV.6 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV).",
               "lemma": "hurry",
               "lemmaUrl": "https://en.wiktionary.org/wiki/hurry"
             },
@@ -23705,8 +23734,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "Dissentious numbers",
               "title": "Dissentious numbers",
               "type": "Nota filológica",
-              "gloss": "multitudes enfrentadas",
-              "body": "Numbers significa grupos numerosos; dissentious marca discordia política. Referencia: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6, FTLN 2936–2957, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/.",
+              "gloss": "multitudes divididas por facciones",
+              "body": "«Dissentious» describe la discordia y «numbers» a numerosos grupos humanos. Los tribunos recuerdan la aglomeración conflictiva anterior. Fuentes: Folger Shakespeare Library, Coriolanus IV.6 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/); C. F. Tucker Brooke, ed. Yale (1924), IV.6 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV).",
               "lemma": "dissentious",
               "lemmaUrl": "https://en.wiktionary.org/wiki/dissentious"
             },
@@ -23714,8 +23743,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "pest’ring streets",
               "title": "pest’ring streets",
               "type": "Nota filológica",
-              "gloss": "abarrotando o importunando las calles",
-              "body": "Contracción de pestering; la multitud se representa como una presencia molesta. Referencia: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6, FTLN 2936–2957, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/.",
+              "gloss": "atascando las calles",
+              "body": "«Pestering» significa aquí abarrotar u obstruir, como precisa Brooke («blocking up»), no necesariamente causar peste ni molestar verbalmente. Fuentes: Folger Shakespeare Library, Coriolanus IV.6 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/); C. F. Tucker Brooke, ed. Yale (1924), IV.6 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV).",
               "lemma": "pester",
               "lemmaUrl": "https://en.wiktionary.org/wiki/pester"
             },
@@ -23723,8 +23752,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "functions friendly",
               "title": "functions friendly",
               "type": "Nota filológica",
-              "gloss": "sus tareas en armonía",
-              "body": "Functions son las ocupaciones de los artesanos; friendly tiene aquí función adverbial. Referencia: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6, FTLN 2936–2957, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/.",
+              "gloss": "sus oficios en armonía",
+              "body": "«Functions» significa ocupaciones u oficios; el adverbio «friendly» caracteriza la coexistencia pacífica de los artesanos, según Brooke «like good friends». Fuentes: Folger Shakespeare Library, Coriolanus IV.6 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/); C. F. Tucker Brooke, ed. Yale (1924), IV.6 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV).",
               "lemma": "friendly",
               "lemmaUrl": "https://en.wiktionary.org/wiki/friendly"
             }
@@ -23741,7 +23770,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "stood to ’t",
               "type": "Nota filológica",
               "gloss": "sostuvimos nuestra decisión",
-              "body": "Bruto reivindica la firmeza y oportunidad de la expulsión. Referencia: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6, FTLN 2936–2957, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/.",
+              "body": "Bruto afirma que los tribunos mantuvieron a tiempo su postura. «Stand to» significa mantenerse firme ante una resolución o un conflicto. Fuentes: Folger Shakespeare Library, Coriolanus IV.6 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/); C. F. Tucker Brooke, ed. Yale (1924), IV.6 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV).",
               "lemma": "stand",
               "lemmaUrl": "https://en.wiktionary.org/wiki/stand"
             }
@@ -23757,8 +23786,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "is grown most kind",
               "title": "is grown most kind",
               "type": "Nota filológica",
-              "gloss": "se ha vuelto muy amable",
-              "body": "Grown expresa un cambio de estado; el comentario puede insinuar una moderación reciente de Menenio, sin demostrar reconciliación. Referencia: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6, FTLN 2936–2957, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/.",
+              "gloss": "se ha vuelto extremadamente amable",
+              "body": "Sicinio comenta con ironía el cambio de trato de Menenio, un defensor de Coriolano, tras la victoria política de los tribunos. Fuentes: Folger Shakespeare Library, Coriolanus IV.6 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/); C. F. Tucker Brooke, ed. Yale (1924), IV.6 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV).",
               "lemma": "grow",
               "lemmaUrl": "https://en.wiktionary.org/wiki/grow"
             }
@@ -23781,8 +23810,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "But with his friends",
               "title": "But with his friends",
               "type": "Nota filológica",
-              "gloss": "excepto entre sus amigos",
-              "body": "But expresa excepción y with tiene el sentido de «entre». Referencia: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6, FTLN 2936–2957, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/.",
+              "gloss": "salvo entre sus amigos",
+              "body": "«But with» se entiende como «except among», señala Brooke. La pérdida de Coriolano, según Sicinio, solo afecta a su círculo político. Fuentes: Folger Shakespeare Library, Coriolanus IV.6 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/); C. F. Tucker Brooke, ed. Yale (1924), IV.6 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV).",
               "lemma": "but",
               "lemmaUrl": "https://en.wiktionary.org/wiki/but"
             },
@@ -23790,8 +23819,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "commonwealth doth stand",
               "title": "commonwealth doth stand",
               "type": "Nota filológica",
-              "gloss": "la república sigue en pie",
-              "body": "Commonwealth designa el cuerpo político; doth es auxiliar de tercera persona singular. Referencia: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6, FTLN 2936–2957, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/.",
+              "gloss": "la república se mantiene en pie",
+              "body": "«Commonwealth» es el cuerpo político de la república; el verbo «doth» marca tercera persona singular histórica. El tribuno presume de estabilidad tras el destierro. Fuentes: Folger Shakespeare Library, Coriolanus IV.6 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/); C. F. Tucker Brooke, ed. Yale (1924), IV.6 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV).",
               "lemma": "do",
               "lemmaUrl": "https://en.wiktionary.org/wiki/do"
             },
@@ -23799,8 +23828,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "were he more angry at it",
               "title": "were he more angry at it",
               "type": "Nota filológica",
-              "gloss": "aunque estuviera más furioso contra ella",
-              "body": "Condicional invertida sin if: were he equivale a if he were. Referencia: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6, FTLN 2936–2957, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/.",
+              "gloss": "aunque estuviera todavía más enfurecido con ella",
+              "body": "Inversión condicional sin «if»: equivale a «if he were more angry at it». Sicinio se equivoca al suponer que la hostilidad de Coriolano ya no es peligrosa. Fuentes: Folger Shakespeare Library, Coriolanus IV.6 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/); C. F. Tucker Brooke, ed. Yale (1924), IV.6 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV).",
               "lemma": "be",
               "lemmaUrl": "https://en.wiktionary.org/wiki/be"
             }
@@ -23816,8 +23845,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "temporized",
               "title": "temporized",
               "type": "Nota filológica",
-              "gloss": "contemporizado; cedido oportunamente",
-              "body": "Temporize expresa la adaptación estratégica al momento; Menenio reconoce la inflexibilidad política de Coriolano. Referencia: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6, FTLN 2936–2957, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/.",
+              "gloss": "haber cedido o contemporizado oportunamente",
+              "body": "Menenio lamenta que Coriolano no supiera adaptarse a las exigencias políticas. «Temporize» sugiere concesión prudencial o compromiso, más que mera demora. Fuentes: Folger Shakespeare Library, Coriolanus IV.6 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/); C. F. Tucker Brooke, ed. Yale (1924), IV.6 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV).",
               "lemma": "temporize",
               "lemmaUrl": "https://en.wiktionary.org/wiki/temporize"
             }
@@ -23833,8 +23862,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "hear you?",
               "title": "hear you?",
               "type": "Nota filológica",
-              "gloss": "¿has oído algo?",
-              "body": "Interrogación elíptica: do you hear (of him). Referencia: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6, FTLN 2936–2957, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/.",
+              "gloss": "¿has oído algo de él?",
+              "body": "Interrogativa elíptica: el verbo «hear» presupone noticias de Coriolano; no pregunta literalmente si el interlocutor puede oír. Fuentes: Folger Shakespeare Library, Coriolanus IV.6 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/); C. F. Tucker Brooke, ed. Yale (1924), IV.6 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV).",
               "lemma": "hear",
               "lemmaUrl": "https://en.wiktionary.org/wiki/hear"
             }
@@ -23864,8 +23893,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "Good e’en",
               "title": "Good e’en",
               "type": "Nota filológica",
-              "gloss": "buenas tardes",
-              "body": "Saludo abreviado de good even; Folger lo moderniza así, frente a Goden en el Folio. La fórmula tiene origen en una bendición, pero aquí funciona como saludo convencional. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6, FTLN 2958–2981, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; cotejo: First Folio (1623), transcripción en Wikisource, https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_%281910%29/The_Tragedy_of_Coriolanus/Act_4_Scene_6."
+              "gloss": "buenas tardes, buenas noches",
+              "body": "«E’en» es contracción de «evening». Es una fórmula cordial de saludo, no una referencia a una fecha. Fuentes: Folger Shakespeare Library, Coriolanus IV.6 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/); C. F. Tucker Brooke, ed. Yale (1924), IV.6 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV)."
             }
           ]
         },
@@ -23883,11 +23912,11 @@ window.SHAKESPEARE_READER_DATA = {
           "es": "Nosotros, nuestras esposas y nuestros hijos estamos obligados\na rezar de rodillas por ustedes dos.",
           "notes": [
             {
-              "term": "are bound to pray",
-              "title": "are bound to pray",
+              "term": "Are bound to pray",
+              "title": "Are bound to pray",
               "type": "Nota filológica",
-              "gloss": "tenemos el deber de rezar",
-              "body": "Bound to expresa obligación moral, no una atadura física; la fórmula de agradecimiento enfatiza la deuda de los ciudadanos. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6, FTLN 2958–2981, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; cotejo: First Folio (1623), transcripción en Wikisource, https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_%281910%29/The_Tragedy_of_Coriolanus/Act_4_Scene_6.",
+              "gloss": "estamos obligados a rezar",
+              "body": "«Bound» expresa obligación moral; las familias de los ciudadanos manifiestan gratitud colectiva hacia los tribunos. Fuentes: Folger Shakespeare Library, Coriolanus IV.6 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/); C. F. Tucker Brooke, ed. Yale (1924), IV.6 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV).",
               "lemma": "bind",
               "lemmaUrl": "https://en.wiktionary.org/wiki/bind"
             }
@@ -23903,8 +23932,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "thrive",
               "title": "thrive",
               "type": "Nota filológica",
-              "gloss": "prosperar",
-              "body": "El deseo complementa live con una idea de bienestar y prosperidad; no es una orden literal. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6, FTLN 2958–2981, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; cotejo: First Folio (1623), transcripción en Wikisource, https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_%281910%29/The_Tragedy_of_Coriolanus/Act_4_Scene_6.",
+              "gloss": "prosperar, florecer",
+              "body": "El imperativo formula un deseo de prosperidad, asociado con la paz civil que los tribunos creen haber asegurado. Fuentes: Folger Shakespeare Library, Coriolanus IV.6 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/); C. F. Tucker Brooke, ed. Yale (1924), IV.6 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV).",
               "lemma": "thrive",
               "lemmaUrl": "https://en.wiktionary.org/wiki/thrive"
             }
@@ -23917,11 +23946,11 @@ window.SHAKESPEARE_READER_DATA = {
           "es": "Adiós, amables vecinos. Ojalá Coriolano\nlos hubiera querido como nosotros.",
           "notes": [
             {
-              "term": "We wished ... Had loved",
-              "title": "We wished ... Had loved",
+              "term": "We wished Coriolanus",
+              "title": "We wished Coriolanus",
               "type": "Nota filológica",
-              "gloss": "ojalá hubiera querido",
-              "body": "Wish seguido de pasado perfecto expresa un deseo contrario a los hechos; Bruto contrapone su supuesta solicitud por la plebe al desprecio de Coriolano. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6, FTLN 2958–2981, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; cotejo: First Folio (1623), transcripción en Wikisource, https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_%281910%29/The_Tragedy_of_Coriolanus/Act_4_Scene_6.",
+              "gloss": "ojalá Coriolano los hubiera querido",
+              "body": "La construcción «We wished ... Had loved» expresa una contrafactualidad retrospectiva. Bruto se presenta como defensor del pueblo y opone su supuesto afecto al desprecio de Coriolano; es una formulación políticamente interesada. Fuentes: Folger Shakespeare Library, Coriolanus IV.6 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/); C. F. Tucker Brooke, ed. Yale (1924), IV.6 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV).",
               "lemma": "wish",
               "lemmaUrl": "https://en.wiktionary.org/wiki/wish"
             }
@@ -23939,7 +23968,15 @@ window.SHAKESPEARE_READER_DATA = {
           "speaker": "tribunes",
           "en": "Farewell, farewell. ⌜Citizens exit.⌝",
           "es": "Adiós, adiós. [Salen los ciudadanos.]",
-          "notes": []
+          "notes": [
+            {
+              "term": "Farewell",
+              "title": "Farewell",
+              "type": "Nota filológica",
+              "gloss": "adiós; despedida pública",
+              "body": "La salida de los ciudadanos cierra la pequeña escena de gratitud popular y prepara el contraste irónico con las noticias de la invasión que llegarán enseguida. Fuentes: Folger Shakespeare Library, Coriolanus IV.6 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/); C. F. Tucker Brooke, ed. Yale (1924), IV.6 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV)."
+            }
+          ]
         },
         {
           "line": "2969–2971",
