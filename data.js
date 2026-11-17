@@ -20184,7 +20184,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "repeal",
               "type": "Nota filológica",
               "gloss": "revocación del destierro; regreso autorizado",
-              "body": "En este contexto «repeal» nombra la llamada de vuelta del exiliado, no la derogación de una ley en el sentido moderno. Fuentes: Folger Shakespeare Library, Coriolanus IV.1 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/1/); MIT Shakespeare, IV.1 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.1.html).",
+              "body": "«Repeal» designa aquí la posibilidad de levantar el destierro y llamar de vuelta a Coriolano; no se trata de derogar una ley general. Cotejo: Folger Shakespeare Library, Coriolanus IV.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/1/; C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale, 1924), acto IV, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV.",
               "lemma": "repeal",
               "lemmaUrl": "https://en.wiktionary.org/wiki/repeal"
             },
@@ -20201,8 +20201,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "the needer",
               "title": "the needer",
               "type": "Nota filológica",
-              "gloss": "quien lo necesita",
-              "body": "Comparativo sustantivado inusual; la oportunidad política pierde fuerza si el interesado no está presente. Fuentes: Folger Shakespeare Library, Coriolanus IV.1 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/1/); MIT Shakespeare, IV.1 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.1.html).",
+              "gloss": "quien necesita aprovechar la ocasión",
+              "body": "«Needer» sustantiva al que tiene necesidad de actuar: Cominio teme que la oportunidad de reclamar el regreso de Coriolano se enfríe si este está lejos. Cotejo: Folger Shakespeare Library, Coriolanus IV.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/1/; C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale, 1924), acto IV, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV.",
               "lemma": "need",
               "lemmaUrl": "https://en.wiktionary.org/wiki/need"
             }
@@ -20218,8 +20218,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "wars’ surfeits",
               "title": "wars’ surfeits",
               "type": "Nota filológica",
-              "gloss": "excesos y penalidades de la guerra",
-              "body": "«Surfeits» evoca saturación o exceso; Coriolano considera que Cominio ya ha soportado demasiado. Fuentes: Folger Shakespeare Library, Coriolanus IV.1 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/1/); MIT Shakespeare, IV.1 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.1.html).",
+              "gloss": "excesos y fatigas acumuladas de la guerra",
+              "body": "«Surfeit» es exceso o hartazgo; aplicado a las guerras indica los estragos acumulados en el cuerpo envejecido de Cominio. No se refiere a un banquete literal. Cotejo: Folger Shakespeare Library, Coriolanus IV.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/1/; C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale, 1924), acto IV, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV.",
               "lemma": "surfeit",
               "lemmaUrl": "https://en.wiktionary.org/wiki/surfeit"
             },
@@ -20245,8 +20245,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "noble touch",
               "title": "noble touch",
               "type": "Nota filológica",
-              "gloss": "noble temple; calidad probada",
-              "body": "«Touch» puede sugerir calidad o autenticidad, por analogía con la prueba de metales; aquí es una caracterización elogiosa de sus amigos. Fuentes: Folger Shakespeare Library, Coriolanus IV.1 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/1/); MIT Shakespeare, IV.1 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.1.html).",
+              "gloss": "noble calidad; temple probado",
+              "body": "«Touch» puede evocar la prueba de la calidad de un metal; aplicado a los amigos, sugiere autenticidad y nobleza. La resonancia metalúrgica es interpretativa. Cotejo: Folger Shakespeare Library, Coriolanus IV.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/1/; C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale, 1924), acto IV, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV.",
               "lemma": "touch",
               "lemmaUrl": "https://en.wiktionary.org/wiki/touch"
             },
@@ -20288,7 +20288,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "one seven years",
               "type": "Nota filológica",
               "gloss": "tan solo siete años",
-              "body": "Giro distributivo: «one seven years» equivale aquí a un período de siete años. Menenio imagina recuperar una pequeña parte de su juventud; no se trata de siete períodos. Fuentes: Folger Shakespeare Library, Coriolanus IV.1 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/1/); MIT Shakespeare, IV.1 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.1.html).",
+              "body": "La construcción cuantifica un período de siete años que Menenio querría quitarse de encima para acompañarlo; «one» intensifica la modestia aparente de la petición. Cotejo: Folger Shakespeare Library, Coriolanus IV.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/1/; C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale, 1924), acto IV, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV.",
               "lemma": "seven",
               "lemmaUrl": "https://en.wiktionary.org/wiki/seven"
             },
@@ -20407,8 +20407,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "we’ll no further",
               "title": "we’ll no further",
               "type": "Nota filológica",
-              "gloss": "no iremos más lejos",
-              "body": "Elipsis del verbo de movimiento: Sicinio propone detener la movilización tras obtener el destierro. Fuentes: Folger Shakespeare Library, Coriolanus IV.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/2/); MIT Shakespeare, IV.2 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.2.html)."
+              "gloss": "no iremos más lejos; no insistiremos",
+              "body": "Sicinio propone detener la movilización una vez expulsado Coriolano. La frase se refiere a la acción política inmediata, no a un desplazamiento geográfico concreto. Cotejo: Folger Shakespeare Library, Coriolanus IV.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/2/; C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale, 1924), acto IV, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV."
             },
             {
               "term": "vexed",
@@ -20438,8 +20438,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "seem humbler",
               "title": "seem humbler",
               "type": "Nota filológica",
-              "gloss": "mostrarnos más humildes",
-              "body": "Bruto propone una estrategia de apariencia pública, no una confesión de arrepentimiento. Fuentes: Folger Shakespeare Library, Coriolanus IV.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/2/); MIT Shakespeare, IV.2 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.2.html)."
+              "gloss": "parecer más humildes",
+              "body": "Bruto aconseja aparentar humildad después de haber demostrado el poder de los tribunos: «seem» subraya la gestión de la imagen pública, no necesariamente un arrepentimiento real. Cotejo: Folger Shakespeare Library, Coriolanus IV.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/2/; C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale, 1924), acto IV, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV."
             },
             {
               "term": "a-doing",
@@ -20525,8 +20525,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "ta’en",
               "title": "ta’en",
               "type": "Nota filológica",
-              "gloss": "han tomado; han advertido",
-              "body": "Forma contraída de taken en el perfecto «have ta’en»; aquí significa que los recién llegados han reparado en los tribunos. Fuentes: Folger Shakespeare Library, Coriolanus IV.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/2/); MIT Shakespeare, IV.2 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.2.html).",
+              "gloss": "han reparado en nosotros",
+              "body": "«Ta’en» es contracción del participio «taken» en «taken note of»: «se han fijado en». No significa aquí que los hayan detenido físicamente. Cotejo: Folger Shakespeare Library, Coriolanus IV.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/2/; C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale, 1924), acto IV, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV.",
               "lemma": "take",
               "lemmaUrl": "https://en.wiktionary.org/wiki/take"
             },
@@ -20549,8 +20549,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "hoarded plague",
               "title": "hoarded plague",
               "type": "Nota filológica",
-              "gloss": "plagas acumuladas",
-              "body": "La maldición presenta los castigos divinos como una reserva amontonada. Cotejo: Folger, Coriolanus IV.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/2/); First Folio, IV.2 (https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_4_Scene_2)."
+              "gloss": "plagas acumuladas; castigo reservado",
+              "body": "«Hoarded» presenta los males divinos como almacenados para ser descargados sobre los tribunos. La fórmula es una maldición de Volumnia, no una descripción epidemiológica. Cotejo: Folger Shakespeare Library, Coriolanus IV.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/2/; C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale, 1924), acto IV, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV."
             },
             {
               "term": "Requite your love",
@@ -20631,8 +20631,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "mankind",
               "title": "mankind",
               "type": "Nota filológica",
-              "gloss": "masculina; como un hombre",
-              "body": "Aquí se usa como reproche dirigido a una mujer que se comporta de manera considerada viril; no significa «humanidad». Cotejo: Folger, Coriolanus IV.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/2/); First Folio, IV.2 (https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_4_Scene_2).",
+              "gloss": "¿sos una mujer hombruna?",
+              "body": "En la pregunta de Sicinio, «mankind» tiene un uso adjetival histórico aplicado despectivamente a una mujer de conducta considerada masculina o feroz; no significa «humanidad» aquí. La glosa reproduce el matiz ofensivo, no lo avala. Cotejo: Folger Shakespeare Library, Coriolanus IV.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/2/; C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale, 1924), acto IV, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV.",
               "lemma": "mankind",
               "lemmaUrl": "https://en.wiktionary.org/wiki/mankind"
             }
@@ -20664,8 +20664,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "foxship",
               "title": "foxship",
               "type": "Nota filológica",
-              "gloss": "astucia de zorro",
-              "body": "Formación expresiva sobre «fox» y «-ship», con matiz de astucia taimada; consta en el First Folio. Cotejo: Folger, Coriolanus IV.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/2/); First Folio, IV.2 (https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_4_Scene_2)."
+              "gloss": "astucia de zorro; taimada habilidad",
+              "body": "Formación expresiva con «fox» y el sufijo «-ship», usada irónicamente para atribuir a Sicinio astucia engañosa; contrasta con la valentía militar del desterrado. Cotejo: Folger Shakespeare Library, Coriolanus IV.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/2/; C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale, 1924), acto IV, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV."
             }
           ]
         },
