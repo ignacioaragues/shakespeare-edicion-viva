@@ -9,14 +9,14 @@
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet" />
-  <link rel="stylesheet" href="./styles.css?v=20261112-header-and-nav" />
+  <link rel="stylesheet" href="./styles.css?v=20261117-library-back" />
   <link rel="stylesheet" href="../edicion-viva/highlights.css?v=1" />
 </head>
 <body data-reading-id="shakespeare-coriolanus" data-reading-title="Shakespeare · Coriolanus" data-reading-active-selector="#app-shell">
   <section class="home-screen" id="home-screen" aria-labelledby="home-title">
     <header class="home-topbar">
       <div class="home-identity"><span class="home-monogram" aria-hidden="true">S<span>·</span></span><span class="home-wordmark">SHAKESPEARE<small>EDICIÓN VIVA</small></span></div>
-      <span class="home-nav-label">BIBLIOTECA DE LECTURA · <a href="../edicion-viva/cuenta.html" data-account-link>Iniciar sesión</a></span>
+      <span class="home-nav-label"><a href="../edicion-viva/" class="home-library-link">← Edición Viva</a> · <a href="../edicion-viva/cuenta.html" data-account-link>Iniciar sesión</a></span>
     </header>
     <main class="home-main">
       <div class="home-intro">
@@ -47,6 +47,7 @@
       </button>
       <div class="topbar-center" aria-hidden="true"></div>
       <div class="topbar-actions">
+        <a class="source-button library-home-link" href="../edicion-viva/">← Edición Viva</a>
         <a class="source-button readings-link" href="../edicion-viva/mis-lecturas.html">Mis lecturas</a>
         <a class="source-button" href="../edicion-viva/cuenta.html" data-account-link>Iniciar sesión</a>
         <button class="source-button" id="source-button" type="button">Fuentes</button>
@@ -60,6 +61,7 @@
         <button class="panel-toggle" id="nav-panel-toggle" type="button" aria-expanded="true" aria-controls="sidebar-content" title="Replegar navegación y posición de lectura"><span class="panel-toggle-icon" id="nav-toggle-icon" aria-hidden="true">←</span><span>Posición</span></button>
         <div class="sidebar-content" id="sidebar-content">
         <div class="side-overline">MI BIBLIOTECA</div>
+        <a class="sidebar-library-back" href="../edicion-viva/">← Volver a Edición Viva</a>
         <button class="work-picker" id="work-picker" aria-current="page">
           <span class="work-monogram">C</span>
           <span class="work-picker-copy"><strong>Coriolanus</strong><small>William Shakespeare</small></span>
