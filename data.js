@@ -16460,7 +16460,15 @@ window.SHAKESPEARE_READER_DATA = {
           "speaker": "sicinius",
           "en": "Consul? What consul?",
           "es": "¿Cónsul? ¿Qué cónsul?",
-          "notes": []
+          "notes": [
+            {
+              "term": "What consul?",
+              "title": "What consul?",
+              "type": "Nota filológica",
+              "gloss": "¿Qué cónsul?",
+              "body": "La pregunta de Sicinio impugna el título que Menenio acaba de conceder a Coriolano. No es una solicitud de identificación: niega la validez política de su nombramiento tras la retirada del apoyo popular. Cotejo: Folger, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; C. F. Tucker Brooke (ed.), Coriolanus (Yale, 1924), acto III, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III."
+            }
+          ]
         },
         {
           "line": "2028",
@@ -16474,14 +16482,30 @@ window.SHAKESPEARE_READER_DATA = {
           "speaker": "brutus",
           "en": "He consul?",
           "es": "¿Él, cónsul?",
-          "notes": []
+          "notes": [
+            {
+              "term": "He consul?",
+              "title": "He consul?",
+              "type": "Nota filológica",
+              "gloss": "¿Él, cónsul?",
+              "body": "La interrogación elíptica de Bruto prolonga la impugnación de Sicinio y prepara la negativa coral. El énfasis recae en «He» (él), no en la identidad de la magistratura. Fuente: Folger, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/."
+            }
+          ]
         },
         {
           "line": "2030",
           "speaker": "all",
           "en": "No, no, no, no, no!",
           "es": "¡No, no, no, no, no!",
-          "notes": []
+          "notes": [
+            {
+              "term": "No, no, no, no, no!",
+              "title": "No, no, no, no, no!",
+              "type": "Nota retórica",
+              "gloss": "¡No! (rechazo colectivo reiterado)",
+              "body": "La repetición coral convierte el rechazo individual de los tribunos en una voz colectiva escénica. No equivale por sí sola a una votación formal. Cotejo: Folger, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; Brooke (1924), acto III, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III."
+            }
+          ]
         },
         {
           "line": "2031–2034",
@@ -16545,7 +16569,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "To eject him hence",
               "type": "Nota filológica",
               "gloss": "expulsarlo de aquí",
-              "body": "La alternativa de destierro se presenta como peligrosa, pero menos segura que la muerte que los tribunos temen si permanece en Roma. Referencias: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; Shakespeare Online, Coriolanus III.1, https://www.shakespeare-online.com/plays/corio_3_1.html.",
+              "body": "La frase distingue la expulsión, que Sicinio califica de «one danger», de la permanencia, que presenta como «our certain death»: son pronósticos políticos de un personaje, no hechos constatados. Fuente: Folger, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; Brooke (1924), acto III, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III.",
               "lemma": "eject",
               "lemmaUrl": "https://en.wiktionary.org/wiki/eject"
             }
@@ -16623,7 +16647,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "Mortal to cut it off; to cure it easy",
               "type": "Nota filológica",
               "gloss": "amputarlo sería mortal; curarlo, fácil",
-              "body": "Elipsis paralela del verbo «to be»; «mortal» indica consecuencias mortales, mientras «easy» caracteriza la cura. El paralelismo contrapone la violencia irreversible y la corrección posible. Referencias: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; Shakespeare Online, Coriolanus III.1, https://www.shakespeare-online.com/plays/corio_3_1.html.",
+              "body": "El paralelismo elíptico opone amputar el miembro político a curarlo. «Mortal» puede referirse al resultado fatal de amputar, pero el texto no precisa para quién sería mortal; Menenio explota esa ambigüedad para defender a Coriolano. Fuente: Folger, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; Brooke (1924), acto III, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III.",
               "lemma": "mortal",
               "lemmaUrl": "https://en.wiktionary.org/wiki/mortal"
             },
