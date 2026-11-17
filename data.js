@@ -28107,8 +28107,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "raiment",
               "title": "raiment",
               "type": "Nota filológica",
-              "gloss": "vestimenta; ropa",
-              "body": "El atuendo de duelo y el deterioro físico son pruebas visibles del sufrimiento, aun sin palabras. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library, edición digital (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; MIT Shakespeare, Coriolanus, V.3, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "gloss": "ropa, vestimenta",
+              "body": "La indumentaria y la apariencia física delatan los sufrimientos de la familia durante el destierro; Volumnia afirma que ni siquiera necesitarían hablar. Fuentes: Folger Shakespeare Library, Coriolanus V.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/); C. F. Tucker Brooke, ed. Yale 1924, acto V (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V).",
               "lemma": "raiment",
               "lemmaUrl": "https://en.wiktionary.org/wiki/raiment"
             },
@@ -28116,8 +28116,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "bewray",
               "title": "bewray",
               "type": "Nota filológica",
-              "gloss": "revelar; delatar",
-              "body": "Forma antigua de bewray, «poner al descubierto», no confundir con betray («traicionar»); Folger conserva bewray. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library, edición digital (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; MIT Shakespeare, Coriolanus, V.3, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "gloss": "delatar, revelar involuntariamente",
+              "body": "Verbo antiguo equivalente a «betray» en el sentido de revelar algo sin proponérselo; el sujeto son el vestido y el estado del cuerpo. Fuentes: Folger Shakespeare Library, Coriolanus V.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/); C. F. Tucker Brooke, ed. Yale 1924, acto V (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V).",
               "lemma": "bewray",
               "lemmaUrl": "https://en.wiktionary.org/wiki/bewray"
             },
@@ -28125,29 +28125,29 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "thy sight",
               "title": "thy sight",
               "type": "Nota filológica",
-              "gloss": "verte; tu presencia",
-              "body": "El contraste entre la alegría esperada y el miedo real constituye la antítesis que organiza el comienzo del parlamento. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library, edición digital (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; MIT Shakespeare, Coriolanus, V.3, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html."
+              "gloss": "la visión de ti, verte",
+              "body": "La presencia del hijo debería causar alegría, pero se invierte en miedo porque lo encuentran dispuesto a destruir su patria. Fuentes: Folger Shakespeare Library, Coriolanus V.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/); C. F. Tucker Brooke, ed. Yale 1924, acto V (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V)."
             },
             {
               "term": "country’s bowels",
               "title": "country’s bowels",
               "type": "Nota filológica",
-              "gloss": "las entrañas de su patria",
-              "body": "La patria se representa como cuerpo herido: la violencia de Coriolano contra Roma es figurada como una evisceración. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library, edición digital (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; MIT Shakespeare, Coriolanus, V.3, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html."
+              "gloss": "las entrañas de la patria",
+              "body": "Metáfora de violencia corporal: el hijo desgarra las entrañas de su país, mientras su madre recuerda el vientre que lo engendró. Ambas imágenes vinculan cuerpo familiar y cuerpo político. Fuentes: Folger Shakespeare Library, Coriolanus V.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/); C. F. Tucker Brooke, ed. Yale 1924, acto V (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V)."
             },
             {
               "term": "to poor we",
               "title": "to poor we",
               "type": "Nota filológica",
               "gloss": "para nosotras, desdichadas",
-              "body": "Construcción pronominal que puede sonar irregular en inglés actual: poor we aparece como término de la preposición to; se conserva la forma de Folger. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library, edición digital (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; MIT Shakespeare, Coriolanus, V.3, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html."
+              "body": "Construcción gramatical marcada en que «we» aparece donde hoy se esperaría «us». Refuerza el énfasis de Volumnia sobre la desgracia singular de las mujeres. Fuentes: Folger Shakespeare Library, Coriolanus V.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/); C. F. Tucker Brooke, ed. Yale 1924, acto V (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V)."
             },
             {
               "term": "most capital",
               "title": "most capital",
               "type": "Nota filológica",
-              "gloss": "especialmente grave; mortal",
-              "body": "Capital intensifica la gravedad de la enemistad; no alude aquí a una ciudad capital. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library, edición digital (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; MIT Shakespeare, Coriolanus, V.3, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "gloss": "la más grave, de consecuencias mortales",
+              "body": "«Capital» intensifica la gravedad de la enemistad de Coriolano, que les priva incluso de la posibilidad de rezar por su patria y por él simultáneamente. Fuentes: Folger Shakespeare Library, Coriolanus V.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/); C. F. Tucker Brooke, ed. Yale 1924, acto V (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V).",
               "lemma": "capital",
               "lemmaUrl": "https://en.wiktionary.org/wiki/capital"
             },
@@ -28155,8 +28155,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "Thou barr’st us",
               "title": "Thou barr’st us",
               "type": "Nota filológica",
-              "gloss": "nos impides",
-              "body": "Barr’st: segunda persona singular de bar con terminación -st, propia del tratamiento thou; el objeto de la prohibición son las plegarias. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library, edición digital (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; MIT Shakespeare, Coriolanus, V.3, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "gloss": "nos privas de ello, nos impides",
+              "body": "«Bar» indica impedir el acceso o ejercicio de algo. La enemistad de Coriolano cierra para ellas la consolación de la plegaria. Fuentes: Folger Shakespeare Library, Coriolanus V.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/); C. F. Tucker Brooke, ed. Yale 1924, acto V (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V).",
               "lemma": "bar",
               "lemmaUrl": "https://en.wiktionary.org/wiki/bar"
             },
@@ -28164,15 +28164,15 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "our dear nurse",
               "title": "our dear nurse",
               "type": "Nota filológica",
-              "gloss": "nuestra querida nodriza",
-              "body": "La patria se personifica como quien alimenta y cría, reforzando la imagen materna que culmina el parlamento. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library, edición digital (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; MIT Shakespeare, Coriolanus, V.3, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html."
+              "gloss": "nuestra querida nodriza, Roma",
+              "body": "La patria se presenta como figura materna que ha criado a sus habitantes. El doble parentesco, con Roma y con Coriolano, hace imposible elegir un bando sin pérdida. Fuentes: Folger Shakespeare Library, Coriolanus V.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/); C. F. Tucker Brooke, ed. Yale 1924, acto V (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V)."
             },
             {
               "term": "foreign recreant",
               "title": "foreign recreant",
               "type": "Nota filológica",
-              "gloss": "traidor al servicio del extranjero",
-              "body": "Recreant puede significar cobarde o renegado; aquí describe al romano que combate por una potencia enemiga. Es una lectura contextual, no una equivalencia única. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library, edición digital (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; MIT Shakespeare, Coriolanus, V.3, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "gloss": "traidor que ha desertado al enemigo",
+              "body": "«Recreant» designa a quien abandona su deber o lealtad. Volumnia imagina a su hijo llevado cautivo por Roma, acusado de traición a su patria. Fuentes: Folger Shakespeare Library, Coriolanus V.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/); C. F. Tucker Brooke, ed. Yale 1924, acto V (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V).",
               "lemma": "recreant",
               "lemmaUrl": "https://en.wiktionary.org/wiki/recreant"
             },
@@ -28180,8 +28180,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "manacles",
               "title": "manacles",
               "type": "Nota filológica",
-              "gloss": "grilletes; esposas",
-              "body": "La imagen evoca una entrada humillante en Roma, contrapuesta al triunfo militar del verso siguiente. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library, edición digital (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; MIT Shakespeare, Coriolanus, V.3, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "gloss": "grilletes, esposas",
+              "body": "El término designa ataduras de las manos. La escena imaginada invierte el triunfo militar: Coriolano desfilaría por Roma como prisionero. Fuentes: Folger Shakespeare Library, Coriolanus V.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/); C. F. Tucker Brooke, ed. Yale 1924, acto V (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V).",
               "lemma": "manacle",
               "lemmaUrl": "https://en.wiktionary.org/wiki/manacle"
             },
@@ -28189,15 +28189,15 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "bear the palm",
               "title": "bear the palm",
               "type": "Nota filológica",
-              "gloss": "recibir la palma de la victoria",
-              "body": "La palma simboliza el triunfo; la ironía consiste en que la victoria militar se pagaría con sangre familiar. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library, edición digital (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; MIT Shakespeare, Coriolanus, V.3, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html."
+              "gloss": "llevar la palma de la victoria",
+              "body": "La palma es símbolo clásico de victoria. Volumnia vuelve amarga la gloria del vencedor al describirla como recompensa por derramar la sangre de su propia familia. Fuentes: Folger Shakespeare Library, Coriolanus V.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/); C. F. Tucker Brooke, ed. Yale 1924, acto V (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V)."
             },
             {
               "term": "These wars determine",
               "title": "These wars determine",
               "type": "Nota filológica",
-              "gloss": "se resuelva esta guerra",
-              "body": "Determine tiene aquí el sentido de «llegar a una resolución», no de «determinar» algo por anticipado. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library, edición digital (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; MIT Shakespeare, Coriolanus, V.3, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "gloss": "esta guerra llegue a resolverse",
+              "body": "«Determine» funciona intransitivamente con el sentido de terminar o decidirse; Volumnia no piensa esperar el desenlace para actuar. Fuentes: Folger Shakespeare Library, Coriolanus V.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/); C. F. Tucker Brooke, ed. Yale 1924, acto V (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V).",
               "lemma": "determine",
               "lemmaUrl": "https://en.wiktionary.org/wiki/determine"
             },
@@ -28205,15 +28205,43 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "both parts",
               "title": "both parts",
               "type": "Nota filológica",
-              "gloss": "ambos bandos",
-              "body": "Volumnia propone una salida que beneficie a romanos y volscos, no una simple derrota del ejército aliado de Coriolano. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library, edición digital (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; MIT Shakespeare, Coriolanus, V.3, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html."
+              "gloss": "ambos bandos, romanos y volscos",
+              "body": "Volumnia propone una salida honorable para las dos partes en vez de la aniquilación de una. La petición de reconciliación se desarrollará en su discurso siguiente. Fuentes: Folger Shakespeare Library, Coriolanus V.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/); C. F. Tucker Brooke, ed. Yale 1924, acto V (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V)."
             },
             {
               "term": "thy mother’s womb",
               "title": "thy mother’s womb",
               "type": "Nota filológica",
               "gloss": "el vientre de tu madre",
-              "body": "El cierre vuelve corporal y literal la obligación filial: para atacar Roma, Coriolano tendría que pasar sobre el cuerpo de quien lo dio a luz. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library, edición digital (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; MIT Shakespeare, Coriolanus, V.3, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html."
+              "body": "Volumnia amenaza con interponer su propio cuerpo entre Coriolano y Roma. La imagen del vientre recuerda su nacimiento y confronta la violencia contra la patria con la violencia contra la madre. Fuentes: Folger Shakespeare Library, Coriolanus V.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/); C. F. Tucker Brooke, ed. Yale 1924, acto V (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V)."
+            },
+            {
+              "term": "state of bodies",
+              "title": "state of bodies",
+              "type": "Nota filológica",
+              "gloss": "estado físico de nuestros cuerpos",
+              "body": "La apariencia corporal revela el deterioro sufrido en la ausencia de Coriolano; la formulación une evidencia visible y sufrimiento emocional. Fuentes: Folger Shakespeare Library, Coriolanus V.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/); C. F. Tucker Brooke, ed. Yale 1924, acto V (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V)."
+            },
+            {
+              "term": "our prayers to the gods",
+              "title": "our prayers to the gods",
+              "type": "Nota filológica",
+              "gloss": "nuestras plegarias a los dioses",
+              "body": "La paradoja central: rezar por Roma implica desear la derrota del hijo, y rezar por el hijo implica desear la ruina de Roma. Fuentes: Folger Shakespeare Library, Coriolanus V.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/); C. F. Tucker Brooke, ed. Yale 1924, acto V (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V)."
+            },
+            {
+              "term": "an evident calamity",
+              "title": "an evident calamity",
+              "type": "Nota filológica",
+              "gloss": "una desgracia inevitable y manifiesta",
+              "body": "«Evident» no es aquí meramente algo fácil de ver: la tragedia se presenta como segura, sea cual sea el resultado de la guerra. Fuentes: Folger Shakespeare Library, Coriolanus V.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/); C. F. Tucker Brooke, ed. Yale 1924, acto V (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V)."
+            },
+            {
+              "term": "Thy wife and children’s blood",
+              "title": "Thy wife and children’s blood",
+              "type": "Nota filológica",
+              "gloss": "la sangre de tu esposa y de tus hijos",
+              "body": "Volumnia imagina que la victoria sobre Roma equivaldría moralmente a matar a su propia familia, aun sin violencia física directa contra ella. Fuentes: Folger Shakespeare Library, Coriolanus V.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/); C. F. Tucker Brooke, ed. Yale 1924, acto V (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V)."
             }
           ]
         },
@@ -28227,8 +28255,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "Living to time",
               "title": "Living to time",
               "type": "Nota filológica",
-              "gloss": "perdurando a través del tiempo",
-              "body": "La expresión proyecta la continuidad del nombre familiar hacia el futuro; Virgilia se suma a la amenaza de Volumnia de interponerse físicamente ante el ejército. Fuente textual: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library, 2015, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html."
+              "gloss": "perdurando en el tiempo",
+              "body": "Virgilia recuerda que su hijo perpetúa el nombre de Coriolano: la continuidad familiar es otra razón para evitar la destrucción de Roma. Fuentes: Folger Shakespeare Library, Coriolanus V.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/); C. F. Tucker Brooke, ed. Yale 1924, acto V (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V)."
             }
           ]
         },
@@ -28242,8 +28270,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "He shall not tread on me",
               "title": "He shall not tread on me",
               "type": "Nota filológica",
-              "gloss": "no va a pisotearme",
-              "body": "El niño retoma literalmente la imagen de pisar el vientre materno, pero responde con una promesa infantil de resistencia futura. Folger imprime «He», mientras que MIT presenta la forma contraída «A’». Fuente textual: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library, 2015, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "gloss": "no me pisoteará",
+              "body": "El niño replica literalmente a la amenaza de pasar sobre los cuerpos de su madre y esposa. Su reacción infantil combina huida inmediata y futuro valor militar. Fuentes: Folger Shakespeare Library, Coriolanus V.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/); C. F. Tucker Brooke, ed. Yale 1924, acto V (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V).",
               "lemma": "tread",
               "lemmaUrl": "https://en.wiktionary.org/wiki/tread"
             }
@@ -28259,15 +28287,15 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "Not of a woman’s tenderness to be",
               "title": "Not of a woman’s tenderness to be",
               "type": "Nota filológica",
-              "gloss": "no ceder a la ternura propia de una mujer",
-              "body": "La construcción negativa, condensada e invertida, formula una máxima de dureza: para evitar conmoverse hay que apartar la vista de mujeres y niños. Es una interpretación sintáctica, no una afirmación general del editor sobre las mujeres. Fuente textual: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library, 2015, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html."
+              "gloss": "no dejarse conmover por la ternura femenina",
+              "body": "Coriolano se exhorta a no mirar los rostros de la mujer y el niño si quiere mantener su resolución; el giro elíptico articula su lucha interna. Fuentes: Folger Shakespeare Library, Coriolanus V.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/); C. F. Tucker Brooke, ed. Yale 1924, acto V (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V)."
             },
             {
               "term": "I have sat too long",
               "title": "I have sat too long",
               "type": "Nota filológica",
               "gloss": "llevo demasiado tiempo sentado",
-              "body": "La acotación de Folger indica que Coriolano se levanta. El movimiento intenta cerrar la audiencia antes de la siguiente intervención de Volumnia. Fuente textual: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library, 2015, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html."
+              "body": "La frase anuncia su intención de cortar la audiencia y marcharse; el intento de levantarse da pie a una nueva súplica de Volumnia. Fuentes: Folger Shakespeare Library, Coriolanus V.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/); C. F. Tucker Brooke, ed. Yale 1924, acto V (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V)."
             }
           ]
         },
