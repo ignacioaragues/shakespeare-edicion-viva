@@ -19300,8 +19300,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "that that know it",
               "title": "that that know it",
               "type": "Nota filológica",
-              "gloss": "aquello que conozco",
-              "body": "El primer «that» remite a los servicios y el segundo introduce una relativa con sujeto implícito de primera persona; el sentido es «hablo de lo que conozco». Fuentes: Folger, Coriolanus III.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/; MIT Shakespeare, III.3, https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html.",
+              "gloss": "de aquello que conozco",
+              "body": "La repetición «that that» no es una errata: el primer «that» remite al servicio y el segundo introduce la subordinada relativa. Bruto reivindica conocer el servicio militar de Coriolano. Cotejo: Folger, Coriolanus III.3, línea 2385, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/; Brooke (ed.), Coriolanus (Yale, 1924), III.3, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III.",
               "lemma": "that",
               "lemmaUrl": "https://en.wiktionary.org/wiki/that"
             }
@@ -19374,7 +19374,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "Vagabond exile",
               "type": "Nota filológica",
               "gloss": "destierro errante",
-              "body": "«Vagabond» califica el exilio como una vida sin patria ni residencia estable; no designa aquí una categoría jurídica inequívoca. Fuentes: Folger, Coriolanus III.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/; MIT Shakespeare, III.3, https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html.",
+              "body": "«Vagabond» califica un exilio sin arraigo, entre los castigos que Coriolano enumera hiperbólicamente. No debe confundirse con la sentencia efectiva, que será destierro bajo amenaza de muerte si regresa. Folger, Coriolanus III.3, 2389–2408, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/; Brooke, III.3, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III.",
               "lemma": "vagabond",
               "lemmaUrl": "https://en.wiktionary.org/wiki/vagabond"
             },
@@ -19391,8 +19391,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "pent to linger",
               "title": "pent to linger",
               "type": "Nota filológica",
-              "gloss": "encerrado para prolongar la agonía",
-              "body": "«Pent» es participio de «pen» ('encerrar'); «linger» indica una muerte lenta, aquí agravada por una ración ínfima. Fuentes: Folger, Coriolanus III.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/; MIT Shakespeare, III.3, https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html.",
+              "gloss": "encerrado para agonizar lentamente",
+              "body": "«Pent» es participio de «pen» (encerrar), no sustantivo ni referencia a escritura. La privación de alimento («a grain a day») extrema la imagen de castigo. Folger, Coriolanus III.3, 2391–2392, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/; Brooke, III.3, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III.",
               "lemma": "pen",
               "lemmaUrl": "https://en.wiktionary.org/wiki/pen"
             },
@@ -19431,8 +19431,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "Envied against the people",
               "title": "Envied against the people",
               "type": "Nota filológica",
-              "gloss": "ha mostrado hostilidad al pueblo",
-              "body": "El verbo «envy» puede expresar odio o animadversión en este contexto, no únicamente celos en el sentido actual. Fuentes: Folger Shakespeare Library, Coriolanus III.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/); Owl Eyes, Coriolanus III.3 (https://www.owleyes.org/text/coriolanus/read/act-iii-scene-3).",
+              "gloss": "ha manifestado hostilidad hacia el pueblo",
+              "body": "«Envied against» expresa animadversión activa: Sicinio reinterpreta la hostilidad verbal y física de Coriolano como delito político. No significa aquí «sentir envidia de». Folger, Coriolanus III.3, 2396–2402, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/; Brooke, III.3, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III.",
               "lemma": "envy",
               "lemmaUrl": "https://en.wiktionary.org/wiki/envy"
             },
@@ -19449,8 +19449,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "ministers / That doth distribute it",
               "title": "ministers / That doth distribute it",
               "type": "Nota filológica",
-              "gloss": "funcionarios que la administran",
-              "body": "«Ministers» designa a quienes ejecutan o administran justicia; «doth» es forma verbal singular arcaica pese al antecedente plural, concordancia que no conviene normalizar silenciosamente. Fuentes: Folger Shakespeare Library, Coriolanus III.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/); Owl Eyes, Coriolanus III.3 (https://www.owleyes.org/text/coriolanus/read/act-iii-scene-3).",
+              "gloss": "los funcionarios que administran justicia",
+              "body": "«Ministers» designa a los agentes que ejecutan o administran la justicia; «doth» presenta discordancia con el plural, fenómeno documentado en el inglés de Shakespeare. No es una referencia a ministros de gobierno modernos. Folger, Coriolanus III.3, 2400–2403, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/; Brooke, III.3, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III.",
               "lemma": "do",
               "lemmaUrl": "https://en.wiktionary.org/wiki/do"
             },
@@ -19465,8 +19465,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "In peril of precipitation",
               "title": "In peril of precipitation",
               "type": "Nota filológica",
-              "gloss": "bajo amenaza de ser despeñado",
-              "body": "«Precipitation» conserva el valor concreto de arrojar desde una altura, aquí la roca Tarpeya; el castigo queda condicionado al regreso. Fuentes: Folger Shakespeare Library, Coriolanus III.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/); Owl Eyes, Coriolanus III.3 (https://www.owleyes.org/text/coriolanus/read/act-iii-scene-3).",
+              "gloss": "bajo amenaza de ser arrojado al vacío",
+              "body": "«Precipitation» conserva el sentido de arrojarse o ser arrojado desde una altura; la roca Tarpeya especifica el modo de ejecución en caso de retorno. La pena inmediata es el destierro. Folger, Coriolanus III.3, 2404–2408, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/; Brooke, III.3, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III.",
               "lemma": "precipitation",
               "lemmaUrl": "https://en.wiktionary.org/wiki/precipitation"
             },
@@ -19561,8 +19561,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "my dear wife’s estimate",
               "title": "my dear wife’s estimate",
               "type": "Nota filológica",
-              "gloss": "el valor que tiene para mí mi querida esposa",
-              "body": "«Estimate» expresa aprecio o valoración; la sintaxis enumera bienes privados que Cominio subordina al bien público. Fuentes: Folger Shakespeare Library, Coriolanus III.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/); MIT Shakespeare, III.3 (https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html).",
+              "gloss": "el valor que atribuyo a mi querida esposa",
+              "body": "«Estimate» es el aprecio o valoración de Cominio por su esposa, no una estimación económica literal. El paralelismo gradúa el amor a la patria por encima de la vida y los vínculos familiares. Folger, Coriolanus III.3, 2413–2420, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/; Brooke, III.3, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III.",
               "lemma": "estimate",
               "lemmaUrl": "https://en.wiktionary.org/wiki/estimate"
             },
@@ -19670,7 +19670,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "I banish you",
               "type": "Nota filológica",
               "gloss": "yo los destierro a ustedes",
-              "body": "Inversión retórica de la sentencia: el condenado reivindica la autoridad simbólica de expulsar a quienes lo expulsan. Es una lectura de la construcción dramática, no una anulación jurídica del destierro. Fuentes: Folger Shakespeare Library, Coriolanus III.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/); MIT Shakespeare, III.3 (https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html)."
+              "body": "Inversión retórica de la sentencia de Sicinio: Coriolano proclama desterrar al pueblo, aunque carece de poder jurídico para hacerlo. La afirmación es desafío verbal, no segundo decreto. Folger, Coriolanus III.3, 2426–2441, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/; Brooke, III.3, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III."
             },
             {
               "term": "with nodding of their plumes",
@@ -19694,8 +19694,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "Making but reservation of yourselves",
               "title": "Making but reservation of yourselves",
               "type": "Nota filológica",
-              "gloss": "con tal de salvarse ustedes mismos",
-              "body": "Folger imprime «but reservation»; MIT ofrece «not reservation». Son lecturas divergentes en estas transcripciones, no se atribuye aquí la variante a un testimonio antiguo sin cotejo. En el contexto, «reservation» puede entenderse como reserva o preservación de sí; la sintaxis admite discusión. Fuentes: Folger Shakespeare Library, Coriolanus III.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/); MIT Shakespeare, III.3 (https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html).",
+              "gloss": "preocupados solo por preservarse a sí mismos",
+              "body": "«Reservation» equivale aquí a reserva o preservación de uno mismo. El sintagma participa de la acusación de cobardía política: los ciudadanos se protegen mientras expulsan a quienes los defienden. Folger, Coriolanus III.3, 2434–2438, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/; Brooke, III.3, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III.",
               "lemma": "reservation",
               "lemmaUrl": "https://en.wiktionary.org/wiki/reservation"
             },
@@ -19713,7 +19713,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "There is a world elsewhere",
               "type": "Nota filológica",
               "gloss": "hay un mundo en otra parte",
-              "body": "La frase final opone Roma a la posibilidad de una vida fuera de ella; su concisión marca el giro de la acción hacia el exilio. No se interpreta aquí como una promesa de libertad sin consecuencias. Fuentes: Folger Shakespeare Library, Coriolanus III.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/); MIT Shakespeare, III.3 (https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html)."
+              "body": "Clausura sentenciosa del monólogo: el mundo fuera de Roma se presenta como posibilidad de vida y acción, aunque el acto siguiente mostrará el costo de esa ruptura. Es una lectura dramática, no una promesa explícita de libertad. Folger, Coriolanus III.3, 2440–2441, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/; Brooke, III.3, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III."
             }
           ]
         },
