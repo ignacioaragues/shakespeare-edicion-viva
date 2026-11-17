@@ -21596,7 +21596,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "Save you",
               "type": "Nota filológica",
               "gloss": "Dios lo guarde",
-              "body": "Saludo elíptico con sentido de bendición, no una petición literal de rescate. Fuentes: Folger Shakespeare Library, Coriolanus IV.4 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/4/); MIT Shakespeare, IV.4 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.4.html)."
+              "body": "Saludo elíptico de «God save you». Brooke (1924), nota a IV.4, verso 6, explicita «God preserve». Fuente: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV; texto Folger: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/4/."
             }
           ]
         },
@@ -21617,8 +21617,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "lies",
               "title": "lies",
               "type": "Nota filológica",
-              "gloss": "se aloja",
-              "body": "«Lie» indica aquí dónde se encuentra o reside Aufidio, no que esté acostado ni que mienta. Fuentes: Folger Shakespeare Library, Coriolanus IV.4 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/4/); MIT Shakespeare, IV.4 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.4.html).",
+              "gloss": "se aloja; reside temporalmente",
+              "body": "Aquí «lie» significa alojarse, no mentir. Brooke (1924), IV.4, verso 8: «lodges». Fuente: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV; Folger: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/4/.",
               "lemma": "lie",
               "lemmaUrl": "https://en.wiktionary.org/wiki/lie"
             },
@@ -21691,8 +21691,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "slippery turns",
               "title": "slippery turns",
               "type": "Nota filológica",
-              "gloss": "cambios traicioneros",
-              "body": "«Slippery» atribuye inestabilidad e inseguridad a las mudanzas del mundo; la exclamación anticipa el cambio de lealtades. Fuentes: Folger Shakespeare Library, Coriolanus IV.4 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/4/); MIT Shakespeare, IV.4 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.4.html)."
+              "gloss": "cambios imprevisibles de la fortuna",
+              "body": "El apóstrofe al mundo presenta la inconstancia de las relaciones humanas: amigos íntimos se vuelven enemigos y viceversa. Brooke (1924), IV.4, verso 12: «how inconstant you are». Fuente: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV; Folger: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/4/."
             },
             {
               "term": "fast sworn",
@@ -21708,7 +21708,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "seems",
               "type": "Nota filológica",
               "gloss": "parecen",
-              "body": "Folger conserva «seems» con sujeto plural («double bosoms»), mientras MIT imprime «seem». La discordancia se preserva como lectura de la edición base, sin corregirla silenciosamente. Fuentes: Folger Shakespeare Library, Coriolanus IV.4 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/4/); MIT Shakespeare, IV.4 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.4.html); Owl Eyes, IV.4 (https://www.owleyes.org/text/coriolanus/read/act-iv-scene-4).",
+              "body": "Folger y Brooke conservan «Whose double bosoms seems», con discordancia entre sujeto plural y verbo singular. Se registra la forma histórica sin corregir silenciosamente el texto inglés. Folger: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/4/; Brooke, IV.4, nota al verso 13: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV.",
               "lemma": "seem",
               "lemmaUrl": "https://en.wiktionary.org/wiki/seem"
             },
@@ -21723,8 +21723,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "twin, as ’twere",
               "title": "twin, as ’twere",
               "type": "Nota filológica",
-              "gloss": "como gemelos",
-              "body": "«Twin» funciona como verbo de asociación estrecha; «as ’twere» abrevia «as it were», «por así decirlo». Fuentes: Folger Shakespeare Library, Coriolanus IV.4 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/4/); MIT Shakespeare, IV.4 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.4.html).",
+              "gloss": "están unidos como gemelos, por así decirlo",
+              "body": "El verbo «twin» expresa unión estrecha, no el nacimiento de gemelos; Brooke (1924), IV.4, verso 15: «are joined like twins». Fuente: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV; Folger: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/4/.",
               "lemma": "twin",
               "lemmaUrl": "https://en.wiktionary.org/wiki/twin"
             },
@@ -21732,8 +21732,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "dissension of a doit",
               "title": "dissension of a doit",
               "type": "Nota filológica",
-              "gloss": "disputa de ínfimo valor",
-              "body": "«Doit» nombra una moneda de escaso valor y funciona como medida de insignificancia; la imagen se corresponde con «not worth an egg». Fuentes: Folger Shakespeare Library, Coriolanus IV.4 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/4/); MIT Shakespeare, IV.4 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.4.html).",
+              "gloss": "disputa por una moneda de ínfimo valor",
+              "body": "El «doit» es una moneda de valor muy pequeño. Brooke (1924), IV.4, verso 17, glosa el desacuerdo como una disputa por medio cuarto de penique; el valor sirve para subrayar la trivialidad del motivo. Fuente: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV; Folger: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/4/.",
               "lemma": "doit",
               "lemmaUrl": "https://en.wiktionary.org/wiki/doit"
             },
@@ -21759,8 +21759,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "interjoin their issues",
               "title": "interjoin their issues",
               "type": "Nota filológica",
-              "gloss": "unir sus destinos",
-              "body": "«Issues» puede abarcar resultados, intereses y descendencia; aquí se conserva la amplitud de la unión proyectada, sin reducirla necesariamente a hijos. Fuentes: Folger Shakespeare Library, Coriolanus IV.4 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/4/); MIT Shakespeare, IV.4 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.4.html).",
+              "gloss": "unen a sus descendientes mediante matrimonio",
+              "body": "«Issues» significa descendencia, no asuntos o problemas; Brooke (1924), IV.4, verso 22, explica «intermarry their children», como vínculo duradero entre antiguos enemigos. Fuente: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV; Folger: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/4/.",
               "lemma": "issue",
               "lemmaUrl": "https://en.wiktionary.org/wiki/issue"
             },
@@ -21775,8 +21775,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "give me way",
               "title": "give me way",
               "type": "Nota filológica",
-              "gloss": "me da acogida",
-              "body": "La expresión significa permitirle el paso o abrirle una posibilidad de actuar; no implica literalmente entregarle un camino. Fuentes: Folger Shakespeare Library, Coriolanus IV.4 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/4/); MIT Shakespeare, IV.4 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.4.html).",
+              "gloss": "me permite actuar; me da ocasión",
+              "body": "«Way» equivale aquí a margen de acción u oportunidad, no a camino físico. Brooke (1924), IV.4, verso 25: «scope, opportunity». Fuente: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV; Folger: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/4/.",
               "lemma": "give",
               "lemmaUrl": "https://en.wiktionary.org/wiki/give"
             }
@@ -21929,8 +21929,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "entertainment",
               "title": "entertainment",
               "type": "Nota filológica",
-              "gloss": "acogida, trato",
-              "body": "Aquí significa recepción o trato dado a un visitante, no diversión. El héroe interpreta la humillación a la luz de su identidad y de sus actos pasados. Fuentes: Folger Shakespeare Library, Coriolanus IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); Shakespeare Online, IV.5 (https://www.shakespeare-online.com/plays/corio_4_5.html).",
+              "gloss": "acogida; recibimiento",
+              "body": "En «no better entertainment», «entertainment» es trato o acogida dispensados al visitante, no diversión; contrasta con el banquete al que Coriolano no parece invitado. Folger IV.5: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; Brooke (1924), texto IV.5: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV.",
               "lemma": "entertainment",
               "lemmaUrl": "https://en.wiktionary.org/wiki/entertainment"
             }
@@ -21955,8 +21955,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "companions",
               "title": "companions",
               "type": "Nota filológica",
-              "gloss": "individuos como usted",
-              "body": "Aquí posee un matiz despectivo, próximo a «tipos» o «sujetos», no al sentido afectuoso de «compañeros». Fuentes: Folger Shakespeare Library, Coriolanus IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); Shakespeare Online, IV.5 (https://www.shakespeare-online.com/plays/corio_4_5.html).",
+              "gloss": "individuos de mala reputación; granujas",
+              "body": "El criado usa «companions» despectivamente para referirse a intrusos, no a compañeros neutrales. Brooke (1924), IV.5, verso 14: «rascals». Fuente: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV; Folger: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/.",
               "lemma": "companion",
               "lemmaUrl": "https://en.wiktionary.org/wiki/companion"
             }
@@ -22011,8 +22011,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "brave",
               "title": "brave",
               "type": "Nota filológica",
-              "gloss": "atrevido, desafiante",
-              "body": "En esta réplica es una acusación de insolencia, no un elogio inequívoco del valor. Fuentes: Folger Shakespeare Library, Coriolanus IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); Shakespeare Online, IV.5 (https://www.shakespeare-online.com/plays/corio_4_5.html).",
+              "gloss": "atrevido; insolente",
+              "body": "«Brave» en la réplica del criado cuestiona la osadía del desconocido, no elogia su valentía militar. La lectura depende del intercambio de amenazas. Folger IV.5: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; Brooke (1924), IV.5: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV.",
               "lemma": "brave",
               "lemmaUrl": "https://en.wiktionary.org/wiki/brave"
             },
@@ -22078,8 +22078,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "avoid the house",
               "title": "avoid the house",
               "type": "Nota filológica",
-              "gloss": "sal de la casa",
-              "body": "«Avoid» tiene aquí el sentido histórico de retirarse o desocupar un lugar, no el de esquivarlo. Fuentes: Folger Shakespeare Library, Coriolanus IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); MIT Shakespeare, IV.5 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.5.html).",
+              "gloss": "salga de la casa",
+              "body": "El verbo «avoid» es aquí transitivo con sentido de abandonar o desalojar un lugar, no «evitar» en sentido preventivo. Brooke (1924), IV.5, verso 25: «get out of». Fuente: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV; Folger: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/.",
               "lemma": "avoid",
               "lemmaUrl": "https://en.wiktionary.org/wiki/avoid"
             }
