@@ -2830,6 +2830,21 @@
         "https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV"
       ],
       "status": "reviewed_with_open_sources_private_books_pending"
+    },
+    {
+      "id": "coriolanus-4-2-2547-4-3-2598",
+      "act": 4,
+      "scene": 2,
+      "first_line": 2547,
+      "last_line": 2598,
+      "reviewed_on": "2026-11-17",
+      "scope": "Segunda revisión filológica IV.2 2547–2591 y IV.3 2592–2598 (52 líneas Folger). Once notas revisadas: tribe, unknit/knot, Cats, brave deed, wants her wits, unclog, told home, starve with feeding, Juno-like, have forgot y against ’em. Fuentes abiertas Folger IV.2–3 y Brooke (1924), acto IV. Sin modificación de EN/ES, IDs, offsets ni marcadores; cotejo privado y QA visual pendientes.",
+      "sources": [
+        "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/2/",
+        "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/3/",
+        "https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV"
+      ],
+      "status": "reviewed_with_open_sources_private_books_pending"
     }
   ],
   "verse_format_reviews": [
