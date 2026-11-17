@@ -20702,8 +20702,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "thy tribe",
               "title": "thy tribe",
               "type": "Nota filológica",
-              "gloss": "toda tu gente",
-              "body": "«Tribe» puede referirse al grupo o linaje de Sicinio; no exige identificar una tribu étnica. Cotejo: Folger, Coriolanus IV.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/2/); First Folio, IV.2 (https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_4_Scene_2).",
+              "gloss": "tu grupo; tus partidarios",
+              "body": "«Tribe» designa colectivamente a quienes están del lado del tribuno, con matiz despectivo. No hay que identificarlo necesariamente con una tribu romana concreta. Folger, IV.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/2/; cotejo textual: C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale, 1924), acto IV, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV.",
               "lemma": "tribe",
               "lemmaUrl": "https://en.wiktionary.org/wiki/tribe"
             }
@@ -20788,8 +20788,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "unknit himself / The noble knot",
               "title": "unknit himself / The noble knot",
               "type": "Nota filológica",
-              "gloss": "deshacer él mismo el noble vínculo",
-              "body": "Metáfora textil: Sicinio acusa a Coriolano de desatar el lazo político que lo unía a Roma. La construcción reflexiva es condensada. La forma «vnknit» consta en la transcripción del Folio; el lema y la flexión se documentan en Wiktionary (https://en.wiktionary.org/wiki/unknit). Fuentes: Folger Shakespeare Library, Coriolanus IV.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/2/); First Folio, IV.2, transcripción diplomática (https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_4_Scene_2).",
+              "gloss": "desatar el noble vínculo que él mismo había formado",
+              "body": "La imagen de «unknit» desarrolla «knot»: deshacer una unión política o cívica. Sicinio atribuye a Coriolano la responsabilidad de romper su relación con Roma, juicio interesado de un adversario. Folger, IV.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/2/; cotejo textual: C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale, 1924), acto IV, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV.",
               "lemma": "unknit",
               "lemmaUrl": "https://en.wiktionary.org/wiki/unknit"
             }
@@ -20828,8 +20828,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "Cats",
               "title": "Cats",
               "type": "Nota filológica",
-              "gloss": "gatos",
-              "body": "Metáfora despectiva para los ciudadanos movilizados. La comparación niega su capacidad de valorar el mérito militar; no es una identificación literal. Fuentes: Folger Shakespeare Library, Coriolanus IV.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/2/); First Folio, IV.2, transcripción diplomática (https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_4_Scene_2)."
+              "gloss": "gatos; insulto animalizador",
+              "body": "Volumnia degrada a los tribunos comparándolos con gatos incapaces de valorar la virtud de Coriolano. La comparación se prolonga en la imposibilidad de comprender misterios celestes. Folger, IV.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/2/; cotejo textual: C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale, 1924), acto IV, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV."
             },
             {
               "term": "as fitly ... As I can",
@@ -20867,8 +20867,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "brave deed",
               "title": "brave deed",
               "type": "Nota filológica",
-              "gloss": "gran hazaña (irónico)",
-              "body": "Elogio sarcástico: Volumnia condena el destierro. Fuentes: Folger Shakespeare Library, Coriolanus IV.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/2/); First Folio, IV.2 (https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_4_Scene_2); MIT Shakespeare, IV.2 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.2.html)."
+              "gloss": "gran hazaña (con ironía)",
+              "body": "Volumnia llama «brave deed» a la expulsión de su hijo, pero el elogio es sarcástico. El contraste con el Capitolio convierte una diferencia arquitectónica de escala en jerarquía moral. Folger, IV.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/2/; cotejo textual: C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale, 1924), acto IV, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV."
             },
             {
               "term": "Ere",
@@ -20945,8 +20945,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "wants her wits",
               "title": "wants her wits",
               "type": "Nota filológica",
-              "gloss": "carece de juicio",
-              "body": "«Want» significa ‘carecer de’, no ‘desear’; Sicinio descalifica a Volumnia sin establecer diagnóstico alguno. Fuentes: Folger Shakespeare Library, Coriolanus IV.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/2/); First Folio, IV.2 (https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_4_Scene_2); MIT Shakespeare, IV.2 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.2.html).",
+              "gloss": "ha perdido el juicio",
+              "body": "«Want» significa aquí «carecer de» y no «desear». Sicinio desacredita la denuncia de Volumnia atribuyéndola a una supuesta pérdida de juicio. Folger, IV.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/2/; cotejo textual: C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale, 1924), acto IV, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV.",
               "lemma": "want",
               "lemmaUrl": "https://en.wiktionary.org/wiki/want"
             }
@@ -20985,8 +20985,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "unclog my heart",
               "title": "unclog my heart",
               "type": "Nota filológica",
-              "gloss": "aliviar la opresión del corazón",
-              "body": "Metáfora corporal: la cólera acumulada obstruye el corazón y maldecir permitiría desahogarlo. Fuentes: Folger Shakespeare Library, Coriolanus IV.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/2/); MIT Shakespeare, IV.2 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.2.html).",
+              "gloss": "desahogar el corazón; aliviar su opresión",
+              "body": "La ira retenida se representa como una obstrucción que las maldiciones repetidas permitirían liberar. «Clog» sugiere peso u obstáculo; es una metáfora afectiva, no una descripción fisiológica. Folger, IV.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/2/; cotejo textual: C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale, 1924), acto IV, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV.",
               "lemma": "unclog",
               "lemmaUrl": "https://en.wiktionary.org/wiki/unclog"
             },
@@ -21009,8 +21009,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "told them home",
               "title": "told them home",
               "type": "Nota filológica",
-              "gloss": "les has hablado sin rodeos",
-              "body": "Locución idiomática: reprender con contundencia, no «mandarlos a casa»; el contraste con la retirada física de los tribunos puede resonar en escena. Fuentes: Folger Shakespeare Library, Coriolanus IV.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/2/); MIT Shakespeare, IV.2 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.2.html)."
+              "gloss": "les has dicho verdades muy directas",
+              "body": "La expresión «tell home» significa hablar con contundencia y llegar al punto sensible. Menenio reconoce que Volumnia ha reprendido eficazmente a los tribunos. Folger, IV.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/2/; cotejo textual: C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale, 1924), acto IV, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV."
             },
             {
               "term": "by my troth",
@@ -21049,8 +21049,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "starve with feeding",
               "title": "starve with feeding",
               "type": "Nota filológica",
-              "gloss": "morir de hambre mientras se alimenta",
-              "body": "Paradoja de autodestrucción: el acto de nutrirse coincide con el desgaste de sí misma. Fuentes: Folger Shakespeare Library, Coriolanus IV.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/2/); MIT Shakespeare, IV.2 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.2.html)."
+              "gloss": "consumirme de hambre mientras me alimento",
+              "body": "Paradoja de autodevoración: la ira sirve de alimento y simultáneamente consume a Volumnia. Continúa el léxico de hambre y comida que recorre la tragedia; esa conexión es una interpretación temática. Folger, IV.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/2/; cotejo textual: C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale, 1924), acto IV, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV."
             },
             {
               "term": "faint puling",
@@ -21065,8 +21065,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "Juno-like",
               "title": "Juno-like",
               "type": "Nota filológica",
-              "gloss": "como Juno",
-              "body": "Comparación con Juno, diosa romana cuya cólera y vindicta son rasgos literarios recurrentes; no identifica una escena mítica concreta. Fuentes: Folger Shakespeare Library, Coriolanus IV.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/2/); MIT Shakespeare, IV.2 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.2.html)."
+              "gloss": "como Juno, con ira majestuosa",
+              "body": "Juno, reina de los dioses romanos, es célebre por su cólera en la tradición clásica. Volumnia contrapone ese duelo furioso al llanto que juzga débil. Folger, IV.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/2/; cotejo textual: C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale, 1924), acto IV, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV."
             }
           ]
         },
@@ -21133,8 +21133,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "have forgot",
               "title": "have forgot",
               "type": "Nota filológica",
-              "gloss": "no lo recuerdo",
-              "body": "Participio «forgot» donde el inglés actual suele emplear «forgotten»; la forma no implica un tiempo pasado simple. Cotejo: Folger Shakespeare Library, Coriolanus IV.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/3/); MIT Shakespeare, IV.3 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.3.html).",
+              "gloss": "he olvidado; no lo recuerdo",
+              "body": "«Forgot» funciona como participio donde el inglés contemporáneo estándar suele usar «forgotten». La construcción no requiere corregir el texto original. Folger, IV.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/3/; cotejo textual: C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale, 1924), acto IV, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV.",
               "lemma": "forget",
               "lemmaUrl": "https://en.wiktionary.org/wiki/forget"
             }
@@ -21150,8 +21150,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "against ’em",
               "title": "against ’em",
               "type": "Nota filológica",
-              "gloss": "contra ellos (los romanos)",
-              "body": "La elipsis pronominal remite a Roma: Nicanor es romano de origen pero sirve a sus enemigos. Cotejo: Folger Shakespeare Library, Coriolanus IV.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/3/); MIT Shakespeare, IV.3 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.3.html)."
+              "gloss": "contra ellos, los romanos",
+              "body": "El hablante es romano, pero afirma prestar servicios contra Roma, igual que su interlocutor volsco. La aparente contradicción es clave para reconocerlo como informante o colaborador enemigo. Folger, IV.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/3/; cotejo textual: C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale, 1924), acto IV, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV."
             },
             {
               "term": "Know you me yet?",
