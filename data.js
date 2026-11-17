@@ -22119,8 +22119,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "gentleman",
               "title": "gentleman",
               "type": "Nota filológica",
-              "gloss": "caballero, hombre de condición noble",
-              "body": "La respuesta afirma rango social, que el disfraz y la pobreza aparente vuelven inverosímil para el criado. Fuentes: Folger Shakespeare Library, Coriolanus IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); MIT Shakespeare, IV.5 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.5.html).",
+              "gloss": "caballero; persona de rango social elevado",
+              "body": "Coriolano reivindica su condición social pese al disfraz y a la pobreza visible. La respuesta del criado, «A marv’llous poor one», opone el rango declarado a las apariencias. Fuentes: Folger Shakespeare Library, IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); C. F. Tucker Brooke, ed. Yale (1924), IV.5 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV).",
               "lemma": "gentleman",
               "lemmaUrl": "https://en.wiktionary.org/wiki/gentleman"
             }
@@ -22160,8 +22160,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "station",
               "title": "station",
               "type": "Nota filológica",
-              "gloss": "lugar, puesto",
-              "body": "Aquí alude al sitio donde permanecer o establecerse, con posible resonancia de posición social; la segunda lectura es interpretativa. Fuentes: Folger Shakespeare Library, Coriolanus IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); MIT Shakespeare, IV.5 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.5.html).",
+              "gloss": "otro lugar donde permanecer",
+              "body": "«Take up some other station» pide al visitante que se instale en otra parte; no designa necesariamente una profesión ni un rango social. La resonancia social es posible, pero secundaria en el mandato práctico. Fuentes: Folger Shakespeare Library, IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); C. F. Tucker Brooke, ed. Yale (1924), IV.5 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV).",
               "lemma": "station",
               "lemmaUrl": "https://en.wiktionary.org/wiki/station"
             },
@@ -22183,11 +22183,11 @@ window.SHAKESPEARE_READER_DATA = {
           "es": "Ocúpate de tus funciones, vete y engorda\ncon las sobras frías.",
           "notes": [
             {
-              "term": "batten on cold bits",
-              "title": "batten on cold bits",
+              "term": "batten on",
+              "title": "batten on",
               "type": "Nota filológica",
-              "gloss": "engorda con las sobras frías",
-              "body": "«Batten» es alimentarse abundantemente o cebarse; «bits» son bocados o restos. El insulto reduce al criado a su dependencia de la mesa ajena. Fuentes: Folger Shakespeare Library, Coriolanus IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); MIT Shakespeare, IV.5 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.5.html).",
+              "gloss": "cebarse con las sobras frías",
+              "body": "«Batten» significa engordar o cebarse; Brooke confirma esta acepción. El insulto insiste en que el sirviente vive de restos de la mesa, en contraste con la independencia que reivindica Coriolano. Fuentes: Folger Shakespeare Library, IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); C. F. Tucker Brooke, ed. Yale (1924), IV.5 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV).",
               "lemma": "batten",
               "lemmaUrl": "https://en.wiktionary.org/wiki/batten"
             },
@@ -22195,8 +22195,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "function",
               "title": "function",
               "type": "Nota filológica",
-              "gloss": "oficio, función",
-              "body": "El imperativo devuelve al criado a su trabajo subordinado; contraste con la identidad noble afirmada por Coriolano. Fuentes: Folger Shakespeare Library, Coriolanus IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); MIT Shakespeare, IV.5 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.5.html).",
+              "gloss": "oficio, ocupación propia",
+              "body": "«Follow your function» significa «ocúpate de lo que te corresponde». Brooke glosa el imperativo como volver al propio trabajo: Coriolano invierte la jerarquía y da órdenes al criado. Fuentes: Folger Shakespeare Library, IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); C. F. Tucker Brooke, ed. Yale (1924), IV.5 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV).",
               "lemma": "function",
               "lemmaUrl": "https://en.wiktionary.org/wiki/function"
             }
@@ -22251,8 +22251,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "under the canopy",
               "title": "under the canopy",
               "type": "Nota filológica",
-              "gloss": "bajo el cielo",
-              "body": "La expresión elude una dirección concreta: el «dosel» puede entenderse como la bóveda celeste; lectura contextual de la evasiva. Fuentes: Folger Shakespeare Library, Coriolanus IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); Shakespeare Online, IV.5 (https://www.shakespeare-online.com/plays/corio_4_5.html)."
+              "gloss": "bajo el cielo abierto",
+              "body": "«Canopy» alude figuradamente a la bóveda celeste, como señala Brooke («sky»). Coriolano responde dónde vive sin ofrecer ninguna dirección: es un desterrado a la intemperie. Fuentes: Folger Shakespeare Library, IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); C. F. Tucker Brooke, ed. Yale (1924), IV.5 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV)."
             }
           ]
         },
@@ -22304,8 +22304,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "daws",
               "title": "daws",
               "type": "Nota filológica",
-              "gloss": "grajillas",
-              "body": "Nombre abreviado de jackdaws, aves de la familia de los córvidos; prepara el equívoco de la respuesta sobre el amo. Fuentes: Folger Shakespeare Library, Coriolanus IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); Shakespeare Online, IV.5 (https://www.shakespeare-online.com/plays/corio_4_5.html).",
+              "gloss": "grajillas; también necios",
+              "body": "«Daws» abrevia «jackdaws», pero también sirve para llamar necios a otros, según Brooke. El intercambio juega con la ambivalencia entre aves carroñeras y los hombres de la casa. Fuentes: Folger Shakespeare Library, IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); C. F. Tucker Brooke, ed. Yale (1924), IV.5 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV).",
               "lemma": "daw",
               "lemmaUrl": "https://en.wiktionary.org/wiki/daw"
             }
@@ -22321,8 +22321,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "I serve not thy master",
               "title": "I serve not thy master",
               "type": "Nota filológica",
-              "gloss": "yo no sirvo a tu amo",
-              "body": "Coriolano convierte la pregunta por las grajillas en un insulto velado: identifica al amo con esas aves o a sus criados con ellas; el blanco exacto es interpretativo. Fuentes: Folger Shakespeare Library, Coriolanus IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); Shakespeare Online, IV.5 (https://www.shakespeare-online.com/plays/corio_4_5.html)."
+              "gloss": "no estoy al servicio de tu amo",
+              "body": "En respuesta a la pregunta sobre las «daws», Coriolano insinúa que el amo pertenece al grupo de los necios o grajillas: el chiste es un insulto indirecto, no una declaración de empleo. Fuentes: Folger Shakespeare Library, IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); C. F. Tucker Brooke, ed. Yale (1924), IV.5 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV)."
             }
           ]
         },
@@ -22350,11 +22350,11 @@ window.SHAKESPEARE_READER_DATA = {
           "es": "Sí, es un servicio más honrado que meterse\ncon tu señora. No haces más que parlotear. Ocúpate\nde servir los platos. ¡Fuera!",
           "notes": [
             {
-              "term": "meddle with thy mistress",
-              "title": "meddle with thy mistress",
+              "term": "thy mistress",
+              "title": "thy mistress",
               "type": "Nota filológica",
-              "gloss": "meterse con tu señora",
-              "body": "Coriolano desplaza «meddle» hacia una posible alusión sexual a la señora de la casa; la insinuación es deliberadamente insultante. Fuentes: Folger Shakespeare Library, Coriolanus IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); Shakespeare Online, IV.5 (https://www.shakespeare-online.com/plays/corio_4_5.html)."
+              "gloss": "tener trato indebido con tu señora",
+              "body": "Coriolano retoma «meddle with» y lo orienta hacia una insinuación sexual sobre la señora del amo; la ambigüedad depende del sentido previo de «meterse con». No debe tratarse como un hecho dramático. Fuentes: Folger Shakespeare Library, IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); C. F. Tucker Brooke, ed. Yale (1924), IV.5 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV)."
             },
             {
               "term": "prat’st",
@@ -22369,8 +22369,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "trencher",
               "title": "trencher",
               "type": "Nota filológica",
-              "gloss": "plato de servir; tabla para alimentos",
-              "body": "El trencher era una pieza de mesa, originalmente de madera o pan endurecido; aquí representa el oficio servil. Fuentes: Folger Shakespeare Library, Coriolanus IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); Shakespeare Online, IV.5 (https://www.shakespeare-online.com/plays/corio_4_5.html).",
+              "gloss": "plato o bandeja de madera",
+              "body": "Brooke precisa «wooden platter»: la pieza de servicio doméstico simboliza el trabajo del criado. «Serve with thy trencher» lo devuelve despectivamente a su oficio. Fuentes: Folger Shakespeare Library, IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); C. F. Tucker Brooke, ed. Yale (1924), IV.5 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV).",
               "lemma": "trencher",
               "lemmaUrl": "https://en.wiktionary.org/wiki/trencher"
             }
@@ -22394,7 +22394,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "but for",
               "type": "Nota filológica",
               "gloss": "de no ser por",
-              "body": "Construcción exceptiva que introduce el impedimento alegado por el criado; su bravuconería contrasta con la violencia que acaba de sufrir. Fuentes: Folger Shakespeare Library, Coriolanus IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); Shakespeare Online, IV.5 (https://www.shakespeare-online.com/plays/corio_4_5.html)."
+              "body": "«But for disturbing the lords within» establece una excepción hipotética: el criado asegura que habría golpeado al intruso de no temer molestar a los señores del banquete. La frase busca salvar las apariencias tras el forcejeo. Fuentes: Folger Shakespeare Library, IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); C. F. Tucker Brooke, ed. Yale (1924), IV.5 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV)."
             }
           ]
         },
@@ -22405,11 +22405,11 @@ window.SHAKESPEARE_READER_DATA = {
           "es": "¿De dónde vienes? ¿Qué quieres?\n¿Cómo te llamas? ¿Por qué no hablas? Habla, hombre. ¿Cuál es\ntu nombre?",
           "notes": [
             {
-              "term": "com’st / wouldst / speak’st",
-              "title": "com’st / wouldst / speak’st",
+              "term": "wouldst",
+              "title": "wouldst",
               "type": "Nota filológica",
-              "gloss": "vienes / quieres / hablas",
-              "body": "Formas de segunda persona singular con thou; wouldst es modal flexionado, y speak’st presenta elisión gráfica. Fuentes: Folger Shakespeare Library, Coriolanus IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); Shakespeare Online, IV.5 (https://www.shakespeare-online.com/plays/corio_4_5.html).",
+              "gloss": "quieres (wouldst), flexión de segunda persona singular",
+              "body": "Las formas «com’st», «wouldst» y «speak’st» se dirigen a «thou»; el sufijo -st marca segunda persona singular, y «wouldst» conserva la flexión del modal. La nota se ancla a «wouldst», para que sea accesible mediante subrayado. Fuentes: Folger Shakespeare Library, IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); C. F. Tucker Brooke, ed. Yale (1924), IV.5 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV).",
               "lemma": "would",
               "lemmaUrl": "https://en.wiktionary.org/wiki/would"
             },
@@ -22433,7 +22433,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "Think me for the man I am",
               "type": "Nota filológica",
               "gloss": "reconocerme como quien soy",
-              "body": "La construcción think ... for equivale aquí a «tomar por»; Coriolano distingue el reconocimiento visual de la identificación personal. Fuentes: Folger Shakespeare Library, Coriolanus IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); Shakespeare Online, IV.5 (https://www.shakespeare-online.com/plays/corio_4_5.html)."
+              "body": "«Think me for» significa tomar o reconocer a alguien como una persona determinada. Aufidio puede percibir autoridad en el rostro sin identificar todavía al antiguo rival. Fuentes: Folger Shakespeare Library, IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); C. F. Tucker Brooke, ed. Yale (1924), IV.5 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV)."
             },
             {
               "term": "Commands me name myself",
@@ -22461,8 +22461,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "unmusical",
               "title": "unmusical",
               "type": "Nota filológica",
-              "gloss": "desagradable al oído",
-              "body": "Negación figurada de la armonía: el nombre es odioso por la historia de enfrentamientos, no por sus sonidos en sí. Fuentes: Folger Shakespeare Library, Coriolanus IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); Shakespeare Online, IV.5 (https://www.shakespeare-online.com/plays/corio_4_5.html).",
+              "gloss": "desagradable al oído, odioso",
+              "body": "No se juzga la sonoridad del nombre aisladamente: para los volscos y, en particular, para Aufidio, «Coriolanus» evoca una derrota humillante. El adjetivo activa una valoración política y afectiva. Fuentes: Folger Shakespeare Library, IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); C. F. Tucker Brooke, ed. Yale (1924), IV.5 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV).",
               "lemma": "unmusical",
               "lemmaUrl": "https://en.wiktionary.org/wiki/unmusical"
             }
@@ -22475,11 +22475,11 @@ window.SHAKESPEARE_READER_DATA = {
           "es": "Dime, ¿cómo te llamas?\nTienes un aspecto severo y tu rostro\nlleva impresa la autoridad. Aunque tus aparejos estén desgarrados,\npareces una nave noble. ¿Cuál es tu nombre?",
           "notes": [
             {
-              "term": "tackle / vessel",
-              "title": "tackle / vessel",
+              "term": "tackle’s torn",
+              "title": "tackle’s torn",
               "type": "Nota filológica",
-              "gloss": "aparejos / nave",
-              "body": "Metáfora náutica sostenida: el vestido deteriorado equivale al aparejo dañado, mientras el porte revela la calidad de la nave; la identificación de tackle con ropa es contextual. Fuentes: Folger Shakespeare Library, Coriolanus IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); Shakespeare Online, IV.5 (https://www.shakespeare-online.com/plays/corio_4_5.html).",
+              "gloss": "aparejos deteriorados (metáfora naval)",
+              "body": "Brooke identifica «tackle» con los aparejos de un barco. La vestimenta rota se contrapone a la dignidad del portador, desarrollando una metáfora de marinería. Fuentes: Folger Shakespeare Library, IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); C. F. Tucker Brooke, ed. Yale (1924), IV.5 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV).",
               "lemma": "tackle",
               "lemmaUrl": "https://en.wiktionary.org/wiki/tackle"
             },
@@ -22487,8 +22487,15 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "Bears a command in ’t",
               "title": "Bears a command in ’t",
               "type": "Nota filológica",
-              "gloss": "lleva impresa la autoridad",
-              "body": "La autoridad se lee en el rostro antes de conocer el nombre: reconocimiento de rango, no aún de identidad. Fuentes: Folger Shakespeare Library, Coriolanus IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); Shakespeare Online, IV.5 (https://www.shakespeare-online.com/plays/corio_4_5.html)."
+              "gloss": "tiene una expresión de autoridad",
+              "body": "El rostro revela porte de mando («command») antes del reconocimiento del nombre. La imagen prepara el choque entre la autoridad militar de Coriolano y su ropa de mendigo. Fuentes: Folger Shakespeare Library, IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); C. F. Tucker Brooke, ed. Yale (1924), IV.5 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV)."
+            },
+            {
+              "term": "noble vessel",
+              "title": "noble vessel",
+              "type": "Nota filológica",
+              "gloss": "nave noble; persona de gran valía",
+              "body": "El «vessel» completa la comparación: los aparejos pueden estar rasgados, pero la nave sigue siendo digna. Aufidio reconoce nobleza en la presencia del desconocido sin reconocer todavía su identidad. Fuentes: Folger Shakespeare Library, IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); C. F. Tucker Brooke, ed. Yale (1924), IV.5 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV)."
             }
           ]
         },
