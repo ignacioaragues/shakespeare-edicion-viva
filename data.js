@@ -19774,7 +19774,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "despite",
               "type": "Nota filológica",
               "gloss": "desprecio; hostilidad",
-              "body": "Sustantivo con sentido de animadversión, distinto del uso preposicional moderno «a pesar de». Fuentes: Folger Shakespeare Library, Coriolanus III.3, líneas 2442–2449 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/); MIT Shakespeare, III.3 (https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html).",
+              "body": "«Despite» es rencor o trato desdeñoso, no el valor concesivo del inglés actual «despite». Sicinio manda escoltar al desterrado con hostilidad, en correspondencia con la que le atribuye a él. Folger, Coriolanus III.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/.",
               "lemma": "despite",
               "lemmaUrl": "https://en.wiktionary.org/wiki/despite"
             },
@@ -19882,15 +19882,15 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "beast\nWith many heads",
               "title": "beast\nWith many heads",
               "type": "Nota filológica",
-              "gloss": "bestia de muchas cabezas",
-              "body": "Metáfora deshumanizadora del pueblo como cuerpo colectivo; prolonga la hostilidad de Coriolano hacia la plebe. Referencias: Folger Shakespeare Library, Coriolanus IV.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/1/; MIT Shakespeare, IV.1, https://shakespeare.mit.edu/coriolanus/coriolanus.4.1.html."
+              "gloss": "bestia de muchas cabezas; multitud",
+              "body": "La metáfora representa al pueblo como un solo monstruo de muchas cabezas: prolonga la oposición entre la singularidad del héroe y el cuerpo colectivo. Es una imagen dramática, no un nombre técnico de institución. Folger, Coriolanus IV.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/1/; C. F. Tucker Brooke (ed.), Coriolanus (Yale, 1924), IV.1, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV."
             },
             {
               "term": "extremities was",
               "title": "extremities was",
               "type": "Nota filológica",
-              "gloss": "las adversidades extremas ponen a prueba",
-              "body": "Folger conserva «extremities was», con discordancia de número; MIT imprime «extremity was». El primer folio registra «Extreamities was», según el aparato de la edición histórica digitalizada en Wikimedia Commons (The Tragedy of Coriolanus, p. 128, https://upload.wikimedia.org/wikipedia/commons/d/dc/The_tragedy_of_Coriolanus_%28IA_tragedyofcoriola00shak%29.pdf). No se normaliza silenciosamente. Referencias: Folger Shakespeare Library, Coriolanus IV.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/1/; MIT Shakespeare, IV.1, https://shakespeare.mit.edu/coriolanus/coriolanus.4.1.html."
+              "gloss": "las adversidades eran",
+              "body": "La concordancia «extremities was» conserva una construcción de la lengua dramática temprana; Brooke imprime «extremity was», singular, por lo que existe una diferencia editorial relevante. No debe modernizarse silenciosamente la lectura Folger. Folger, Coriolanus IV.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/1/; Brooke (1924), IV.1, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV."
             },
             {
               "term": "trier of spirits",
@@ -19914,8 +19914,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "being gentle wounded craves",
               "title": "being gentle wounded craves",
               "type": "Nota filológica",
-              "gloss": "soportar serenamente la herida exige",
-              "body": "Construcción sintácticamente difícil: «being gentle» funciona como núcleo de la exigencia ante las heridas de la fortuna; la lectura interpretativa se apoya en el comentario de la edición histórica citada (p. 128), que señala el desplazamiento del sujeto de «craves». No se trata de que los golpes mismos sean suaves. Referencias: Folger Shakespeare Library, Coriolanus IV.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/1/; MIT Shakespeare, IV.1, https://shakespeare.mit.edu/coriolanus/coriolanus.4.1.html.",
+              "gloss": "estar sereno cuando se recibe una herida exige",
+              "body": "La sintaxis de «fortune’s blows / When most struck home, being gentle wounded craves / A noble cunning» es difícil: la serenidad bajo los golpes de la fortuna requiere una destreza noble. Brooke puntúa de modo distinto («being gentle, wounded, craves»); la glosa ofrece una interpretación sintáctica, no una certeza incontrovertida. Folger, Coriolanus IV.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/1/; Brooke (1924), IV.1, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV.",
               "lemma": "crave",
               "lemmaUrl": "https://en.wiktionary.org/wiki/crave"
             },
@@ -19932,8 +19932,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "conned",
               "title": "conned",
               "type": "Nota filológica",
-              "gloss": "aprendiera y asimilara",
-              "body": "«Con» puede significar estudiar o aprender cuidadosamente, no «engañar» como el inglés coloquial actual. Referencias: Folger Shakespeare Library, Coriolanus IV.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/1/; MIT Shakespeare, IV.1, https://shakespeare.mit.edu/coriolanus/coriolanus.4.1.html.",
+              "gloss": "aprendía y asimilaba de memoria",
+              "body": "«Con» significa estudiar o aprender cuidadosamente; aquí alude a interiorizar los preceptos de Volumnia, no a engañar («con» moderno). Folger, Coriolanus IV.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/1/; Brooke (1924), IV.1, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV; https://en.wiktionary.org/wiki/con#Verb.",
               "lemma": "con",
               "lemmaUrl": "https://en.wiktionary.org/wiki/con"
             }
@@ -19973,8 +19973,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "red pestilence",
               "title": "red pestilence",
               "type": "Nota filológica",
-              "gloss": "peste roja",
-              "body": "Maldición de Volumnia, probablemente evocadora de una enfermedad mortal; el color no permite identificar con certeza una patología concreta. Referencias: Folger Shakespeare Library, Coriolanus IV.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/1/; MIT Shakespeare, IV.1, https://shakespeare.mit.edu/coriolanus/coriolanus.4.1.html."
+              "gloss": "peste devastadora; peste roja",
+              "body": "Maldición de Volumnia contra los oficios de Roma; el color rojo intensifica la violencia de la imagen, sin que sea seguro identificar una enfermedad histórica concreta. Folger, Coriolanus IV.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/1/; Brooke (1924), IV.1, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV."
             },
             {
               "term": "strike",
@@ -20076,8 +20076,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "wot well",
               "title": "wot well",
               "type": "Nota filológica",
-              "gloss": "sabes bien",
-              "body": "«Wot» es forma histórica del verbo «wit» ('saber'), aquí en presente con sujeto «you». Fuentes: Folger Shakespeare Library, Coriolanus IV.1 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/1/); facsímil/transcripción First Folio (https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_4_Scene_1).",
+              "gloss": "sabes perfectamente",
+              "body": "«Wot» es una forma arcaica de «wit» en el sentido de «saber», no una forma del verbo moderno «to want». Coriolano recuerda que su madre conoce los peligros que él ha afrontado. Folger, Coriolanus IV.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/1/; Brooke (1924), IV.1, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV; https://en.wiktionary.org/wiki/wot.",
               "lemma": "wit",
               "lemmaUrl": "https://en.wiktionary.org/wiki/wit"
             },
@@ -20110,8 +20110,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "cautelous baits and practice",
               "title": "cautelous baits and practice",
               "type": "Nota filológica",
-              "gloss": "cebos engañosos y maquinaciones",
-              "body": "«Cautelous» apunta a engaño o cautela calculada; «practice» puede denotar intriga, no mero ejercicio. La alternativa final contrapone grandeza y captura mediante ardides. Fuentes: Folger Shakespeare Library, Coriolanus IV.1 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/1/); facsímil/transcripción First Folio (https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_4_Scene_1).",
+              "gloss": "cebos cautelosos y estratagemas",
+              "body": "«Cautelous» puede sugerir astucia o engaño y «practice» maquinación, no simple ejercicio. Coriolano contrapone su excepcionalidad a la posibilidad de caer en trampas deliberadas. Folger, Coriolanus IV.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/1/; Brooke (1924), IV.1, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV.",
               "lemma": "cautelous",
               "lemmaUrl": "https://en.wiktionary.org/wiki/cautelous"
             }
@@ -20143,8 +20143,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "wild exposure",
               "title": "wild exposure",
               "type": "Nota filológica",
-              "gloss": "exposición temeraria; abandono al azar",
-              "body": "Folger lee «exposure»; la transcripción MIT ofrece «exposture». Se conserva la lectura Folger sin elevar la divergencia a variante del First Folio. Fuentes: Folger Shakespeare Library, Coriolanus IV.1 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/1/); MIT Shakespeare, IV.1 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.1.html)."
+              "gloss": "exposición imprudente a lo imprevisto",
+              "body": "Folger lee «wild exposure», mientras Brooke imprime «wild exposture»; es una divergencia editorial que no debe ocultarse. La madre pide un plan definido en lugar de quedar a merced de contingencias. Folger, Coriolanus IV.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/1/; Brooke (1924), IV.1, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV."
             },
             {
               "term": "starts i’ th’ way",
