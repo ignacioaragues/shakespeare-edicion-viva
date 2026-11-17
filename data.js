@@ -24455,8 +24455,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "O’erborne their way",
               "title": "O’erborne their way",
               "type": "Nota filológica",
-              "gloss": "se han abierto paso por la fuerza",
-              "body": "O’erborne es una forma contraída de overborne, participio de overbear. La serie verbal acumula avance, incendio y conquista; la concordancia plural de have sigue al colectivo army. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; Shakespeare Online, Coriolanus IV.6, https://www.shakespeare-online.com/plays/corio_4_6.html.",
+              "gloss": "han avanzado arrollándolo todo",
+              "body": "Brooke (1924), glosario IV.6, v. 79, interpreta la imagen como avance semejante a una ola. El verbo «overbear» sugiere superar una resistencia por fuerza. Cotejo: Folger, IV.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; Brooke, IV.6, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV",
               "lemma": "overbear",
               "lemmaUrl": "https://en.wiktionary.org/wiki/overbear"
             }
@@ -24494,8 +24494,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "holp",
               "title": "holp",
               "type": "Nota filológica",
-              "gloss": "han ayudado; han contribuido",
-              "body": "Participio histórico de help, empleado aquí con have; la acusación hace responsables a los tribunos de las atrocidades que Cominio teme. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; Shakespeare Online, Coriolanus IV.6, https://www.shakespeare-online.com/plays/corio_4_6.html.",
+              "gloss": "han ayudado a",
+              "body": "Participio antiguo de «help» (equivalente contextual a «helped»). Cominio acusa a los tribunos de haber contribuido a la catástrofe, no de cometer personalmente esos actos. Brooke, glosario IV.6, v. 82; Folger https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV; lema: https://en.wiktionary.org/wiki/holp",
               "lemma": "help",
               "lemmaUrl": "https://en.wiktionary.org/wiki/help"
             },
@@ -24503,8 +24503,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "city leads",
               "title": "city leads",
               "type": "Nota filológica",
-              "gloss": "plomo de los tejados de la ciudad",
-              "body": "Leads es plural sustantivo: láminas o cubiertas de plomo usadas en edificios, no el verbo lead. La imagen presenta una ciudad sometida al saqueo y al fuego. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; Shakespeare Online, Coriolanus IV.6, https://www.shakespeare-online.com/plays/corio_4_6.html.",
+              "gloss": "cubiertas de plomo de los tejados urbanos",
+              "body": "«Leads» es plural nominal de «lead» (plomo), referido a cubiertas de edificios. La amenaza consiste en fundir ese metal y derramarlo sobre los responsables. Brooke, glosario IV.6, v. 83; Folger https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV",
               "lemma": "lead",
               "lemmaUrl": "https://en.wiktionary.org/wiki/lead"
             },
@@ -24545,8 +24545,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "franchises",
               "title": "franchises",
               "type": "Nota filológica",
-              "gloss": "derechos y privilegios políticos",
-              "body": "Aquí se refiere a las libertades políticas que los tribunos dicen proteger, no a franquicias comerciales modernas. La reducción al agujero de una barrena es una hipérbole sobre la pérdida de esos derechos. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; Shakespeare Online, Coriolanus IV.6, https://www.shakespeare-online.com/plays/corio_4_6.html.",
+              "gloss": "derechos públicos y políticos",
+              "body": "«Franchises» nombra los derechos que los tribunos decían defender. La hipérbole de reducirlos al orificio de una barrena sugiere su anulación, no una limitación jurídica precisa. Brooke, glosario IV.6, vv. 87–88; Folger https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV",
               "lemma": "franchise",
               "lemmaUrl": "https://en.wiktionary.org/wiki/franchise"
             },
@@ -24554,8 +24554,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "auger’s bore",
               "title": "auger’s bore",
               "type": "Nota filológica",
-              "gloss": "agujero hecho por una barrena",
-              "body": "Auger es una herramienta perforadora; bore es el orificio que produce. La imagen contrasta la amplitud de las libertades con un espacio diminuto. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; Shakespeare Online, Coriolanus IV.6, https://www.shakespeare-online.com/plays/corio_4_6.html.",
+              "gloss": "un diminuto agujero de barrena",
+              "body": "La reducción de los derechos públicos al tamaño de un agujero es una imagen de desaparición casi total; Brooke glosa «reduced to absolute nullity» (IV.6, vv. 87–88). Folger https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV",
               "lemma": "auger",
               "lemmaUrl": "https://en.wiktionary.org/wiki/auger"
             }
@@ -24609,8 +24609,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "us brats",
               "title": "us brats",
               "type": "Nota filológica",
-              "gloss": "nosotros, unos críos",
-              "body": "Brats degrada a los romanos a la condición de niños indefensos frente a la fuerza de Coriolano. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; Shakespeare Online, Coriolanus IV.6, https://www.shakespeare-online.com/plays/corio_4_6.html.",
+              "gloss": "nosotros, simples niños",
+              "body": "«Brats» infantiliza a los romanos frente al Coriolano casi divinizado. Brooke, glosario IV.6, v. 94, interpreta «mere children»; la comparación con niños y carniceros prolonga la imagen de superioridad. Folger https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV",
               "lemma": "brat",
               "lemmaUrl": "https://en.wiktionary.org/wiki/brat"
             }
@@ -24626,8 +24626,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "apron-men",
               "title": "apron-men",
               "type": "Nota filológica",
-              "gloss": "hombres de delantal; artesanos",
-              "body": "Alusión despectiva a trabajadores manuales y comerciantes que usan delantal; revela el desprecio social de Menenio por los partidarios de los tribunos. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; Shakespeare Online, Coriolanus IV.6, https://www.shakespeare-online.com/plays/corio_4_6.html.",
+              "gloss": "artesanos que llevan delantal",
+              "body": "El delantal funciona como signo visible del oficio manual; «apron-men» tiene un matiz clasista en el reproche de Menenio a los tribunos. Brooke, glosario IV.6, v. 97; Folger https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV",
               "lemma": "apron",
               "lemmaUrl": "https://en.wiktionary.org/wiki/apron"
             },
@@ -24635,8 +24635,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "voice of occupation",
               "title": "voice of occupation",
               "type": "Nota filológica",
-              "gloss": "votos de los trabajadores",
-              "body": "Voice designa aquí voto o apoyo político; occupation, los oficios. El reproche es político y de clase, no una referencia a una ocupación militar. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; Shakespeare Online, Coriolanus IV.6, https://www.shakespeare-online.com/plays/corio_4_6.html.",
+              "gloss": "opinión y votos de los trabajadores",
+              "body": "«Occupation» alude a oficios manuales y «voice» puede evocar la voz política. Brooke glosa «workmen’s opinion» (IV.6, v. 98); el vínculo con el voto es una resonancia dramática, no un equivalente léxico único. Folger https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV",
               "lemma": "voice",
               "lemmaUrl": "https://en.wiktionary.org/wiki/voice"
             },
@@ -24676,8 +24676,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "As Hercules / Did shake down mellow fruit",
               "title": "As Hercules / Did shake down mellow fruit",
               "type": "Nota filológica",
-              "gloss": "como Hércules hacía caer la fruta madura",
-              "body": "Alusión mitológica a la fuerza de Hércules; la comparación presenta la caída de Roma como si fuera tan fácil como desprender fruta madura. No es necesario identificarla con un trabajo concreto de Hércules. Cotejo: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus, IV.6 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; Shakespeare Online, Coriolanus, IV.6, https://www.shakespeare-online.com/plays/corio_4_6.html.",
+              "gloss": "como Hércules sacudía la fruta madura",
+              "body": "La comparación mitológica intensifica la facilidad con que Coriolano podría derribar Roma. La referencia concreta a una hazaña de Hércules no está explicitada en el parlamento y no debe darse por segura. Folger IV.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; Brooke IV.6, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV",
               "lemma": "Hercules",
               "lemmaUrl": "https://en.wiktionary.org/wiki/Hercules"
             },
@@ -24707,8 +24707,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "smilingly revolt",
               "title": "smilingly revolt",
               "type": "Nota filológica",
-              "gloss": "se pasan alegremente al otro bando",
-              "body": "Revolt indica aquí defección o cambio de lealtad, no necesariamente una sublevación popular contra el poder local; smilingly enfatiza la facilidad y satisfacción con que ocurre. Cotejo: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus, IV.6 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; Shakespeare Online, Coriolanus, IV.6, https://www.shakespeare-online.com/plays/corio_4_6.html.",
+              "gloss": "se rebelan de buena gana",
+              "body": "«Smilingly» expresa adhesión alegre o voluntaria de las regiones a los invasores, no necesariamente que literalmente sonrían. Brooke, glosario IV.6, v. 104: «gladly». Folger https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV",
               "lemma": "revolt",
               "lemmaUrl": "https://en.wiktionary.org/wiki/revolt"
             },
@@ -24716,8 +24716,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "valiant ignorance",
               "title": "valiant ignorance",
               "type": "Nota filológica",
-              "gloss": "ignorancia valerosa",
-              "body": "Oxímoron valorativo: Cominio concede valor a quienes resisten, pero los presenta como incapaces de comprender la desproporción de fuerzas. Cotejo: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus, IV.6 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; Shakespeare Online, Coriolanus, IV.6, https://www.shakespeare-online.com/plays/corio_4_6.html."
+              "gloss": "valentía imprudente y desinformada",
+              "body": "Oxímoron valorativo: quienes resisten son valientes, pero la superioridad militar del invasor convierte su resistencia en ignorancia a ojos del hablante. Es una interpretación retórica, no una categoría militar. Folger IV.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; Brooke IV.6, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV"
             },
             {
               "term": "constant fools",
@@ -24764,8 +24764,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "they charged him",
               "title": "they charged him",
               "type": "Nota filológica",
-              "gloss": "le estarían exigiendo",
-              "body": "Charged es la forma que recoge la edición Folger; la subordinación condicional con should say proyecta una petición hipotética. El verbo tiene aquí el matiz de imponer una obligación, no de formular una súplica inocua. Cotejo: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; texto paralelo, MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.4.6.html.",
+              "gloss": "le estarían imponiendo una exigencia",
+              "body": "«Charged» se integra en una construcción hipotética («if they should say»): aun sus amigos parecerían darle órdenes como enemigos. Brooke, glosario IV.6, v. 113: «would be urging». Folger https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV",
               "lemma": "charge",
               "lemmaUrl": "https://en.wiktionary.org/wiki/charge"
             },
@@ -24774,7 +24774,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "showed like enemies",
               "type": "Nota filológica",
               "gloss": "parecerían enemigos",
-              "body": "Showed like significa «parecer, mostrarse como»; la paradoja es que incluso sus amigos, al pedirle clemencia, actuarían como quienes lo expulsaron. Cotejo: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; texto paralelo, MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.4.6.html.",
+              "body": "El pasado «showed» pertenece a la hipótesis y se entiende como «parecerían»; Brooke, glosario IV.6, v. 115: «would appear». Folger https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV",
               "lemma": "show",
               "lemmaUrl": "https://en.wiktionary.org/wiki/show"
             }
