@@ -29343,8 +29343,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "patroness",
               "title": "patroness",
               "type": "Nota filológica",
-              "gloss": "protectora; salvadora",
-              "body": "El título cívico eleva a Volumnia a protectora de Roma. Es una exaltación retórica, no una prueba de que recibiera oficialmente culto divino. Referencia: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.5, Folger Shakespeare Library, edición digital (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/5/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.5.html.",
+              "gloss": "protectora y salvadora de Roma",
+              "body": "La aclamación presenta a Volumnia como patrona cívica: la mujer que ha evitado la destrucción de Roma recibe honores públicos. Fuentes: Folger Shakespeare Library, Coriolanus V.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/5/); C. F. Tucker Brooke, ed. Yale 1924, acto V (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V).",
               "lemma": "patroness",
               "lemmaUrl": "https://en.wiktionary.org/wiki/patroness"
             },
@@ -29352,8 +29352,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "tribes",
               "title": "tribes",
               "type": "Nota filológica",
-              "gloss": "tribus; divisiones cívicas",
-              "body": "En la Roma republicana, tribus puede designar las agrupaciones cívicas del pueblo. El imperativo convierte el recibimiento en celebración colectiva. Referencia: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.5, Folger Shakespeare Library, edición digital (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/5/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.5.html.",
+              "gloss": "tribus cívicas romanas",
+              "body": "Las tribus son divisiones políticas del pueblo romano, convocadas a una celebración colectiva. Fuentes: Folger Shakespeare Library, Coriolanus V.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/5/); C. F. Tucker Brooke, ed. Yale 1924, acto V (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V).",
               "lemma": "tribe",
               "lemmaUrl": "https://en.wiktionary.org/wiki/tribe"
             },
@@ -29361,15 +29361,15 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "triumphant fires",
               "title": "triumphant fires",
               "type": "Nota filológica",
-              "gloss": "hogueras de triunfo",
-              "body": "La imagen integra la salvación de la ciudad en un lenguaje de celebración pública y victoria; no debe confundirse automáticamente con un triunfo militar formal. Referencia: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.5, Folger Shakespeare Library, edición digital (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/5/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.5.html."
+              "gloss": "hogueras de victoria",
+              "body": "La celebración mediante fuegos anticipa los honores del triunfo, aunque la paz se ha obtenido por persuasión. Fuentes: Folger Shakespeare Library, Coriolanus V.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/5/); C. F. Tucker Brooke, ed. Yale 1924, acto V (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V)."
             },
             {
               "term": "Unshout",
               "title": "Unshout",
               "type": "Nota filológica",
-              "gloss": "desdecir los gritos",
-              "body": "Verbo formado con el prefijo reversivo un-: pide deshacer simbólicamente el clamor que expulsó a Marcio. No se trata de silenciar simplemente a la multitud. Referencia: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.5, Folger Shakespeare Library, edición digital (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/5/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.5.html.",
+              "gloss": "revocar con nuevos gritos",
+              "body": "Verbo expresivo formado con «un-»: la multitud debe deshacer simbólicamente las aclamaciones que acompañaron el destierro de Coriolano. Fuentes: Folger Shakespeare Library, Coriolanus V.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/5/); C. F. Tucker Brooke, ed. Yale 1924, acto V (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V).",
               "lemma": "unshout",
               "lemmaUrl": "https://en.wiktionary.org/wiki/unshout"
             },
@@ -29378,9 +29378,16 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "Repeal him",
               "type": "Nota filológica",
               "gloss": "llamarlo de vuelta del destierro",
-              "body": "Repeal conserva aquí el sentido histórico de revocar un destierro o llamar de vuelta a una persona; no el uso moderno más habitual de derogar una ley. La restitución verbal resulta irónica ante la suerte que le aguarda. Referencia: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.5, Folger Shakespeare Library, edición digital (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/5/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.5.html.",
+              "body": "«Repeal» puede significar revocar un exilio; el paralelo con «Unshout» propone reparar verbalmente el agravio público. Fuentes: Folger Shakespeare Library, Coriolanus V.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/5/); C. F. Tucker Brooke, ed. Yale 1924, acto V (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V).",
               "lemma": "repeal",
               "lemmaUrl": "https://en.wiktionary.org/wiki/repeal"
+            },
+            {
+              "term": "Strew flowers",
+              "title": "Strew flowers",
+              "type": "Nota filológica",
+              "gloss": "esparcir flores",
+              "body": "El gesto festivo honra a las mujeres que han conseguido la paz; la ceremonia romana contrasta con la inminente violencia volsca. Fuentes: Folger Shakespeare Library, Coriolanus V.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/5/); C. F. Tucker Brooke, ed. Yale 1924, acto V (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V)."
             }
           ]
         },
@@ -29487,8 +29494,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "repair",
               "title": "repair",
               "type": "Nota filológica",
-              "gloss": "acudir; dirigirse",
-              "body": "Repair to es un verbo de movimiento, no «reparar». Fuente: Folger Digital Texts, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; contraste: https://shakespeare.mit.edu/coriolanus/coriolanus.5.6.html.",
+              "gloss": "acudir, presentarse",
+              "body": "«Repair» es dirigirse a un lugar. Aufidio convoca a los magistrados a la plaza para hacer pública su acusación. Fuentes: Folger Shakespeare Library, Coriolanus V.6 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/); C. F. Tucker Brooke, ed. Yale 1924, acto V (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V).",
               "lemma": "repair",
               "lemmaUrl": "https://en.wiktionary.org/wiki/repair"
             },
@@ -29497,7 +29504,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "ports",
               "type": "Nota filológica",
               "gloss": "puertas de la ciudad",
-              "body": "Ports se refiere a accesos urbanos, no a puertos marítimos. Fuente: Folger Digital Texts, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; contraste: https://shakespeare.mit.edu/coriolanus/coriolanus.5.6.html.",
+              "body": "«Ports» conserva el sentido de entradas urbanas; no se refiere a puertos marítimos. Fuentes: Folger Shakespeare Library, Coriolanus V.6 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/); C. F. Tucker Brooke, ed. Yale 1924, acto V (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V).",
               "lemma": "port",
               "lemmaUrl": "https://en.wiktionary.org/wiki/port"
             },
@@ -29505,10 +29512,17 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "purge himself",
               "title": "purge himself",
               "type": "Nota filológica",
-              "gloss": "exculparse",
-              "body": "Purge expresa aquí limpiar el propio nombre frente a una acusación. Fuente: Folger Digital Texts, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; contraste: https://shakespeare.mit.edu/coriolanus/coriolanus.5.6.html.",
+              "gloss": "justificarse, defenderse de la acusación",
+              "body": "«Purge» es limpiar la propia reputación de un cargo; Aufidio teme que Coriolano persuada a la asamblea antes de ser atacado. Fuentes: Folger Shakespeare Library, Coriolanus V.6 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/); C. F. Tucker Brooke, ed. Yale 1924, acto V (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V).",
               "lemma": "purge",
               "lemmaUrl": "https://en.wiktionary.org/wiki/purge"
+            },
+            {
+              "term": "vouch the truth",
+              "title": "vouch the truth",
+              "type": "Nota filológica",
+              "gloss": "dar fe públicamente de la verdad",
+              "body": "Aufidio promete corroborar el documento ante magistrados y plebe: su estrategia busca convertir una denuncia en condena política. Fuentes: Folger Shakespeare Library, Coriolanus V.6 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/); C. F. Tucker Brooke, ed. Yale 1924, acto V (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V)."
             }
           ]
         },
@@ -29534,8 +29548,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "alms",
               "title": "alms",
               "type": "Nota filológica",
-              "gloss": "limosnas; dádivas",
-              "body": "La paradoja convierte la generosidad en causa de ruina. El referente preciso de la imagen admite discusión. Fuente: Folger Digital Texts, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; contraste: https://shakespeare.mit.edu/coriolanus/coriolanus.5.6.html.",
+              "gloss": "limosnas o dádivas propias",
+              "body": "La paradoja imagina a un benefactor muerto por sus propios actos de caridad: Aufidio interpreta la clemencia de Coriolano como autodestrucción. Fuentes: Folger Shakespeare Library, Coriolanus V.6 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/); C. F. Tucker Brooke, ed. Yale 1924, acto V (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V).",
               "lemma": "alms",
               "lemmaUrl": "https://en.wiktionary.org/wiki/alms"
             },
@@ -29544,7 +29558,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "empoisoned",
               "type": "Nota filológica",
               "gloss": "envenenado",
-              "body": "Forma histórica de poisoned; prolonga la metáfora de una caridad mortífera. Fuente: Folger Digital Texts, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; contraste: https://shakespeare.mit.edu/coriolanus/coriolanus.5.6.html.",
+              "body": "Forma antigua de «poisoned»; el verbo convierte el favor que uno concede en la causa de su propia ruina. Fuentes: Folger Shakespeare Library, Coriolanus V.6 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/); C. F. Tucker Brooke, ed. Yale 1924, acto V (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V).",
               "lemma": "empoison",
               "lemmaUrl": "https://en.wiktionary.org/wiki/empoison"
             }
@@ -29560,8 +29574,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "parties",
               "title": "parties",
               "type": "Nota filológica",
-              "gloss": "partícipes; cómplices",
-              "body": "Se refiere a quienes participan en un plan, no a una celebración. Fuente: Folger Digital Texts, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; contraste: https://shakespeare.mit.edu/coriolanus/coriolanus.5.6.html.",
+              "gloss": "partícipes o cómplices",
+              "body": "Los conjurados recuerdan a Aufidio que ya les había solicitado participar en una acción contra Coriolano. Fuentes: Folger Shakespeare Library, Coriolanus V.6 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/); C. F. Tucker Brooke, ed. Yale 1924, acto V (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V).",
               "lemma": "party",
               "lemmaUrl": "https://en.wiktionary.org/wiki/party"
             },
@@ -29569,8 +29583,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "deliver you",
               "title": "deliver you",
               "type": "Nota filológica",
-              "gloss": "librarlo",
-              "body": "Deliver significa aquí salvar de un peligro, no entregar. Fuente: Folger Digital Texts, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; contraste: https://shakespeare.mit.edu/coriolanus/coriolanus.5.6.html.",
+              "gloss": "librarte del peligro",
+              "body": "«Deliver» expresa rescatar de una amenaza, no entregar a alguien a un tercero. Fuentes: Folger Shakespeare Library, Coriolanus V.6 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/); C. F. Tucker Brooke, ed. Yale 1924, acto V (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V).",
               "lemma": "deliver",
               "lemmaUrl": "https://en.wiktionary.org/wiki/deliver"
             }
@@ -29586,8 +29600,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "as we do find the people",
               "title": "as we do find the people",
               "type": "Nota filológica",
-              "gloss": "según la disposición del pueblo",
-              "body": "Aufidio supedita la acción a la reacción de la multitud; no implica necesariamente un arrepentimiento. Fuente: Folger Digital Texts, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; contraste: https://shakespeare.mit.edu/coriolanus/coriolanus.5.6.html."
+              "gloss": "según la actitud del pueblo",
+              "body": "Aufidio condiciona su plan a la reacción pública: no sabe todavía si contará con el apoyo necesario. Fuentes: Folger Shakespeare Library, Coriolanus V.6 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/); C. F. Tucker Brooke, ed. Yale 1924, acto V (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V)."
             }
           ]
         },
@@ -29602,7 +29616,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "’Twixt",
               "type": "Nota filológica",
               "gloss": "entre",
-              "body": "Contracción de betwixt. Fuente: Folger Digital Texts, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; contraste: https://shakespeare.mit.edu/coriolanus/coriolanus.5.6.html.",
+              "body": "Contracción poética de «betwixt», «entre». La rivalidad de ambos generales mantiene indecisa a la multitud. Fuentes: Folger Shakespeare Library, Coriolanus V.6 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/); C. F. Tucker Brooke, ed. Yale 1924, acto V (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V).",
               "lemma": "betwixt",
               "lemmaUrl": "https://en.wiktionary.org/wiki/betwixt"
             },
@@ -29610,8 +29624,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "heir of all",
               "title": "heir of all",
               "type": "Nota filológica",
-              "gloss": "heredero de todo",
-              "body": "Metáfora sucesoria: quien sobreviva a la caída del otro monopolizará su autoridad. Fuente: Folger Digital Texts, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; contraste: https://shakespeare.mit.edu/coriolanus/coriolanus.5.6.html."
+              "gloss": "heredero de todo el poder",
+              "body": "La muerte de cualquiera de los rivales concentraría la autoridad militar y política en el superviviente. Fuentes: Folger Shakespeare Library, Coriolanus V.6 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/); C. F. Tucker Brooke, ed. Yale 1924, acto V (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V)."
             }
           ]
         },
@@ -29625,8 +29639,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "pretext",
               "title": "pretext",
               "type": "Nota filológica",
-              "gloss": "pretexto; motivo alegado",
-              "body": "Aufidio reconoce que su justificación pública puede recibir una interpretación favorable; «pretext» no garantiza que la acusación sea justa. Fuentes: Folger, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; contraste textual: https://shakespeare.mit.edu/coriolanus/coriolanus.5.6.html.",
+              "gloss": "motivo alegado para atacar",
+              "body": "«Pretext» es la justificación pública de una acción, no necesariamente su verdadera causa; Aufidio calcula cómo presentar la acusación. Fuentes: Folger Shakespeare Library, Coriolanus V.6 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/); C. F. Tucker Brooke, ed. Yale 1924, acto V (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V).",
               "lemma": "pretext",
               "lemmaUrl": "https://en.wiktionary.org/wiki/pretext"
             },
@@ -29634,8 +29648,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "pawned",
               "title": "pawned",
               "type": "Nota filológica",
-              "gloss": "empeñé; puse en prenda",
-              "body": "Imagen jurídica y económica: Aufidio puso su honor como garantía de la fidelidad de Coriolano. Fuentes: Folger, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; contraste textual: https://shakespeare.mit.edu/coriolanus/coriolanus.5.6.html.",
+              "gloss": "empeñé como garantía",
+              "body": "La honra funciona como prenda de la fidelidad de Coriolano: Aufidio afirma haber arriesgado su propio crédito político. Fuentes: Folger Shakespeare Library, Coriolanus V.6 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/); C. F. Tucker Brooke, ed. Yale 1924, acto V (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V).",
               "lemma": "pawn",
               "lemmaUrl": "https://en.wiktionary.org/wiki/pawn"
             },
@@ -29643,17 +29657,24 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "new plants",
               "title": "new plants",
               "type": "Nota filológica",
-              "gloss": "nuevos protegidos; nuevos partidarios",
-              "body": "Metáfora de cultivo político: las «plantas» pueden entenderse como los seguidores recién atraídos por Coriolano, no como vegetación literal. Fuentes: Folger, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; contraste textual: https://shakespeare.mit.edu/coriolanus/coriolanus.5.6.html."
+              "gloss": "nuevos partidarios o protegidos",
+              "body": "Metáfora hortícola: los aliados recién ganados son plantas regadas con adulación, «dews of flattery». Fuentes: Folger Shakespeare Library, Coriolanus V.6 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/); C. F. Tucker Brooke, ed. Yale 1924, acto V (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V)."
             },
             {
               "term": "He bowed his nature",
               "title": "He bowed his nature",
               "type": "Lectura crítica",
-              "gloss": "dobló su carácter; se acomodó",
-              "body": "Aufidio sostiene que Coriolano aprendió a halagar para captar apoyos. Michael Goldman («Characterizing Coriolanus», 1985) observa que este retrato del protagonista como manipulador político no encaja fácilmente con lo que el público ha visto; es una interpretación crítica, no un hecho dramático establecido. Referencia: https://www.enotes.com/topics/coriolanus/criticism/coriolanus-vol-64/criticism-character-studies/michael-goldman-essay-date-1985; texto: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/",
+              "gloss": "doblegó su carácter",
+              "body": "Aufidio acusa a Coriolano de haber abandonado su habitual aspereza para seducir a los partidarios volscos. Fuentes: Folger Shakespeare Library, Coriolanus V.6 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/); C. F. Tucker Brooke, ed. Yale 1924, acto V (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V).",
               "lemma": "bow",
               "lemmaUrl": "https://en.wiktionary.org/wiki/bow"
+            },
+            {
+              "term": "good construction",
+              "title": "good construction",
+              "type": "Nota filológica",
+              "gloss": "interpretación favorable",
+              "body": "Aufidio no busca solo una causa de ataque: necesita que el público considere legítima su versión de los hechos. Fuentes: Folger Shakespeare Library, Coriolanus V.6 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/); C. F. Tucker Brooke, ed. Yale 1924, acto V (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V)."
             }
           ]
         },
@@ -29667,8 +29688,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "stoutness",
               "title": "stoutness",
               "type": "Nota filológica",
-              "gloss": "firmeza; obstinación",
-              "body": "La cualidad puede leerse como fortaleza o terquedad, según el juicio del hablante; aquí introduce la derrota electoral. Fuentes: Folger, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; contraste textual: https://shakespeare.mit.edu/coriolanus/coriolanus.5.6.html.",
+              "gloss": "orgullo obstinado",
+              "body": "La firmeza de Coriolano al aspirar al consulado se convierte aquí en prueba de su incapacidad para ceder ante los electores. Fuentes: Folger Shakespeare Library, Coriolanus V.6 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/); C. F. Tucker Brooke, ed. Yale 1924, acto V (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V).",
               "lemma": "stoutness",
               "lemmaUrl": "https://en.wiktionary.org/wiki/stoutness"
             },
@@ -29676,8 +29697,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "stooping",
               "title": "stooping",
               "type": "Nota filológica",
-              "gloss": "inclinarse; ceder",
-              "body": "Alude tanto al gesto físico de rebajarse como a la condescendencia política que Coriolano rechazó ante los ciudadanos. Fuentes: Folger, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; contraste textual: https://shakespeare.mit.edu/coriolanus/coriolanus.5.6.html.",
+              "gloss": "inclinarse, humillarse",
+              "body": "El gesto político que se negó a hacer en Roma contrasta con la acusación de haber «bowed his nature» ante los volscos. Fuentes: Folger Shakespeare Library, Coriolanus V.6 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/); C. F. Tucker Brooke, ed. Yale 1924, acto V (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V).",
               "lemma": "stoop",
               "lemmaUrl": "https://en.wiktionary.org/wiki/stoop"
             }
@@ -29693,8 +29714,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "hearth",
               "title": "hearth",
               "type": "Nota filológica",
-              "gloss": "hogar; casa",
-              "body": "Aufidio recuerda la hospitalidad que ofreció al desterrado; el hogar privado se contrapone a la posterior rivalidad pública. Fuentes: Folger, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; contraste textual: https://shakespeare.mit.edu/coriolanus/coriolanus.5.6.html.",
+              "gloss": "hogar, fuego doméstico",
+              "body": "Aufidio recuerda la llegada del desterrado a su casa; la hospitalidad privada es ahora argumento de traición. Fuentes: Folger Shakespeare Library, Coriolanus V.6 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/); C. F. Tucker Brooke, ed. Yale 1924, acto V (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V).",
               "lemma": "hearth",
               "lemmaUrl": "https://en.wiktionary.org/wiki/hearth"
             },
@@ -29702,8 +29723,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "files",
               "title": "files",
               "type": "Nota filológica",
-              "gloss": "filas; efectivos militares",
-              "body": "Designa las filas o contingentes de soldados de los que Coriolano pudo seleccionar hombres. Fuentes: Folger, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; contraste textual: https://shakespeare.mit.edu/coriolanus/coriolanus.5.6.html.",
+              "gloss": "filas de soldados, tropas",
+              "body": "«Files» es una formación militar o los efectivos disponibles; Coriolano pudo elegir los mejores hombres de Aufidio. Fuentes: Folger Shakespeare Library, Coriolanus V.6 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/); C. F. Tucker Brooke, ed. Yale 1924, acto V (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V).",
               "lemma": "file",
               "lemmaUrl": "https://en.wiktionary.org/wiki/file"
             },
@@ -29711,8 +29732,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "designments",
               "title": "designments",
               "type": "Nota filológica",
-              "gloss": "planes; proyectos",
-              "body": "Sustantivo poco frecuente, relacionado con design: propósitos militares. Fuentes: Folger, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; contraste textual: https://shakespeare.mit.edu/coriolanus/coriolanus.5.6.html.",
+              "gloss": "planes y operaciones",
+              "body": "El término señala las empresas militares que Aufidio dice haber servido incluso personalmente. Fuentes: Folger Shakespeare Library, Coriolanus V.6 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/); C. F. Tucker Brooke, ed. Yale 1924, acto V (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V).",
               "lemma": "designment",
               "lemmaUrl": "https://en.wiktionary.org/wiki/designment"
             },
@@ -29721,7 +29742,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "holp",
               "type": "Nota filológica",
               "gloss": "ayudé",
-              "body": "Forma histórica de pasado de help, comparable al moderno helped; no confundir con un infinitivo. Fuentes: Folger, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; contraste textual: https://shakespeare.mit.edu/coriolanus/coriolanus.5.6.html.",
+              "body": "Forma histórica del pasado de «help», frecuente en Shakespeare; no indica un verbo diferente. Fuentes: Folger Shakespeare Library, Coriolanus V.6 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/); C. F. Tucker Brooke, ed. Yale 1924, acto V (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V).",
               "lemma": "help",
               "lemmaUrl": "https://en.wiktionary.org/wiki/help"
             },
@@ -29729,10 +29750,24 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "waged me with his countenance",
               "title": "waged me with his countenance",
               "type": "Nota filológica",
-              "gloss": "me pagaba con sus gestos de aprobación",
-              "body": "Aufidio denuncia que Coriolano lo trataba como asalariado y lo recompensaba solo con muestras de favor. La lectura de «countenance» como semblante o favor personal admite matices. Fuentes: Folger, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; contraste textual: https://shakespeare.mit.edu/coriolanus/coriolanus.5.6.html.",
+              "gloss": "me pagaba solo con su aprobación",
+              "body": "«Waged» compara a Aufidio con un asalariado, pero el supuesto salario consiste apenas en gestos de aprobación de Coriolano. Fuentes: Folger Shakespeare Library, Coriolanus V.6 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/); C. F. Tucker Brooke, ed. Yale 1924, acto V (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V).",
               "lemma": "wage",
               "lemmaUrl": "https://en.wiktionary.org/wiki/wage"
+            },
+            {
+              "term": "joint servant",
+              "title": "joint servant",
+              "type": "Nota filológica",
+              "gloss": "colaborador en pie de igualdad",
+              "body": "Aufidio recuerda que lo hizo compañero de mando, antes de sentir que había quedado reducido a subordinado. Fuentes: Folger Shakespeare Library, Coriolanus V.6 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/); C. F. Tucker Brooke, ed. Yale 1924, acto V (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V)."
+            },
+            {
+              "term": "mercenary",
+              "title": "mercenary",
+              "type": "Nota filológica",
+              "gloss": "soldado a sueldo",
+              "body": "El término remata la queja de Aufidio: el aliado que compartía el mando terminó tratado como dependiente remunerado. Fuentes: Folger Shakespeare Library, Coriolanus V.6 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/); C. F. Tucker Brooke, ed. Yale 1924, acto V (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V)."
             }
           ]
         },
