@@ -21,3 +21,7 @@ The GitHub connector's `fetch_file` can return an empty `content` for the large 
 3. Never substitute an empty `fetch_file` response for the existing data, truncate the file, or advance the checkpoint on a failed read. A failed blob retrieval is a real blocker: leave `main` unchanged and report it.
 4. Before committing, recheck the latest `main` head. Write updated `data.js`, `editorial/progress.json`, and any reader changes into **one Git tree and one commit**, then update `main` with `expected_sha` equal to the head inspected. On a race, re-read and reconcile; never force-overwrite.
 5. For future substantial growth, consider splitting scene data only after a separate migration with verified navigation and stable `data-reading-id` highlight identifiers; splitting is **not** necessary merely because `fetch_file` returns empty content.
+
+## Convención de navegación de Edición Viva
+
+Mantener en todos los índices de escenas exclusivamente el número y el título, **sin puntos decorativos al extremo derecho**. El elemento activo se distingue por su fondo tenue o tipografía; no volver a añadir `scene-dot` en `app.js` ni marcadores equivalentes. La portada y el lector deben conservar enlaces visibles hacia la biblioteca general de Edición Viva (`../edicion-viva/`). Aplicar la misma regla a todas las obras nuevas.
