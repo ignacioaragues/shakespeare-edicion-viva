@@ -2960,6 +2960,20 @@
         "https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV"
       ],
       "status": "reviewed_with_open_sources_private_books_pending"
+    },
+    {
+      "id": "coriolanus-4-6-3029-3079",
+      "act": 4,
+      "scene": 6,
+      "first_line": 3029,
+      "last_line": 3079,
+      "reviewed_on": "2026-11-17",
+      "scope": "Segunda revisión filológica IV.6 3029–3079 (51 líneas Folger). Trece glosas y notas verificadas, incluidas holp, leads, franchises, auger's bore, apron-men, voice of occupation, brats, smilingly y los valores condicionales de charged/showed. Cotejo directo Folger y glosario de Brooke (Yale 1924). EN/ES, IDs, offsets, marcadores y arquitectura intactos. QA navegador y fuentes privadas pendientes.",
+      "sources": [
+        "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/",
+        "https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV"
+      ],
+      "status": "reviewed_with_open_sources_private_books_pending"
     }
   ],
   "verse_format_reviews": [
