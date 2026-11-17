@@ -303,3 +303,11 @@ body.dividers-on .inline-stage,body.dividers-on .stage-direction{border-bottom:1
 
 /* Display-only verse boundaries; markers contribute no text to highlight offsets. */
 .speech-text .verse-break{display:block;height:0;line-height:0;pointer-events:none}
+
+/* Navegación consistente hacia la biblioteca principal de Edición Viva. */
+.home-library-link,.library-home-link,.sidebar-library-back{white-space:nowrap}
+.home-library-link{text-decoration:none;color:var(--accent)}
+.home-library-link:hover{text-decoration:underline;text-underline-offset:3px}
+.sidebar-library-back{display:inline-flex;align-items:center;gap:6px;color:var(--accent);font-size:11px;font-weight:600;text-decoration:none;margin:5px 7px 16px}
+.sidebar-library-back:hover{text-decoration:underline;text-underline-offset:3px}
+@media(max-width:860px){.app-shell .library-home-link{display:none}}
