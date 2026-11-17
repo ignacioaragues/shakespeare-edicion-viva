@@ -22669,8 +22669,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "grainèd ash",
               "title": "grainèd ash",
               "type": "Nota filológica",
-              "gloss": "lanza de fresno endurecido",
-              "body": "Ash designa por metonimia el asta de fresno de una lanza; grainèd puede aludir a la textura o dureza de la madera. La luna «marcada» por las astillas es una hipérbole bélica, no un acontecimiento literal. Referencias: Folger Shakespeare Library, «Coriolanus», IV.5, líneas 2788–2824, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; cotejo: Shakespeare Online, «Coriolanus», IV.5, https://www.shakespeare-online.com/plays/corio_4_5.html.",
+              "gloss": "asta de fresno de veta marcada",
+              "body": "«Ash» es la madera de fresno de la lanza, no ceniza. «Grainèd» señala la textura o veta de la madera. La imagen de las astillas que «marcan la luna» es una hipérbole de los choques previos entre ambos guerreros. Folger, IV.5: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; Brooke, ed. Yale 1924, IV.5: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV",
               "lemma": "ash",
               "lemmaUrl": "https://en.wiktionary.org/wiki/ash"
             },
@@ -22678,8 +22678,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "Here I clip / The anvil of my sword",
               "title": "Here I clip / The anvil of my sword",
               "type": "Nota filológica",
-              "gloss": "ahora abrazo el yunque de mi espada",
-              "body": "Clip es ‘abrazar’ en este uso; anvil caracteriza al adversario como superficie resistente a los golpes. La acotación del abrazo está situada por Folger después de «splinters», antes de «Here I clip»: el gesto materializa la inversión de la enemistad. Referencias: Folger Shakespeare Library, «Coriolanus», IV.5, líneas 2788–2824, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; cotejo: Shakespeare Online, «Coriolanus», IV.5, https://www.shakespeare-online.com/plays/corio_4_5.html.",
+              "gloss": "abrazo ahora el yunque contra el que golpeaba mi espada",
+              "body": "«Clip» significa abrazar; «anvil» metaforiza la resistencia del cuerpo de Coriolano frente a la espada de Aufidio. El abrazo reconvierte la antigua violencia en alianza sin borrar su intensidad. Folger, IV.5: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; Brooke, IV.5: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV",
               "lemma": "clip",
               "lemmaUrl": "https://en.wiktionary.org/wiki/clip"
             },
@@ -22696,8 +22696,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "Bestride my threshold",
               "title": "Bestride my threshold",
               "type": "Nota filológica",
-              "gloss": "cruzar el umbral de mi casa",
-              "body": "Bestride significa literalmente situarse a horcajadas o sobre algo. La evocación del primer encuentro con la esposa y su comparación con la emoción de ver a Marcio admite una lectura de intimidad intensa, sin determinar por sí sola una orientación sexual. Referencias: Folger Shakespeare Library, «Coriolanus», IV.5, líneas 2788–2824, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; cotejo: Shakespeare Online, «Coriolanus», IV.5, https://www.shakespeare-online.com/plays/corio_4_5.html.",
+              "gloss": "cruzar a horcajadas el umbral de mi casa",
+              "body": "«Bestride» es literalmente poner una pierna a cada lado o franquear con una zancada; la escena evoca la primera entrada de la esposa de Aufidio en su hogar. El contraste con la alegría por Coriolano es deliberadamente hiperbólico. Folger, IV.5: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; Brooke, IV.5: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV",
               "lemma": "bestride",
               "lemmaUrl": "https://en.wiktionary.org/wiki/bestride"
             },
@@ -22705,8 +22705,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "power on foot / target / brawn",
               "title": "power on foot / target / brawn",
               "type": "Nota filológica",
-              "gloss": "ejército en marcha / escudo / brazo",
-              "body": "Power puede designar una fuerza militar; target, un escudo; brawn, el músculo o brazo. El antiguo propósito de desarmar al rival contrasta con la nueva alianza. Referencias: Folger Shakespeare Library, «Coriolanus», IV.5, líneas 2788–2824, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; cotejo: Shakespeare Online, «Coriolanus», IV.5, https://www.shakespeare-online.com/plays/corio_4_5.html.",
+              "gloss": "ejército movilizado / escudo / brazo musculoso",
+              "body": "En el registro militar, «power» es fuerza armada, «on foot» significa puesta en marcha y «target» es un escudo pequeño; «brawn» designa músculo o parte carnosa del brazo. Folger, IV.5: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; Brooke, IV.5: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV",
               "lemma": "target",
               "lemmaUrl": "https://en.wiktionary.org/wiki/target"
             },
@@ -22714,8 +22714,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "Thou hast beat me out / Twelve several times",
               "title": "Thou hast beat me out / Twelve several times",
               "type": "Nota filológica",
-              "gloss": "me has derrotado / en doce ocasiones distintas",
-              "body": "La forma «hast beat» conserva el participio beat, variante histórica frente al beaten habitual en inglés actual. El número doce pertenece al recuento que hace Aufidio; no se presenta como dato histórico externo. Referencias: Folger Shakespeare Library, «Coriolanus», IV.5, líneas 2788–2824, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; cotejo: Shakespeare Online, «Coriolanus», IV.5, https://www.shakespeare-online.com/plays/corio_4_5.html.",
+              "gloss": "me has vencido / doce veces distintas",
+              "body": "«Beat me out» señala la superioridad de Coriolano en sus encuentros anteriores; «twelve several times» cuantifica enfáticamente derrotas separadas. El número pertenece a la declaración de Aufidio y no debe tratarse como un registro histórico independiente. Folger, IV.5: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; Brooke, IV.5: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV",
               "lemma": "beat",
               "lemmaUrl": "https://en.wiktionary.org/wiki/beat"
             },
@@ -22723,8 +22723,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "From twelve to seventy",
               "title": "From twelve to seventy",
               "type": "Nota filológica",
-              "gloss": "de doce a setenta años",
-              "body": "El intervalo se refiere a las edades de los hombres que se reclutarían, como expresión de movilización general; no al tamaño del ejército. Referencias: Folger Shakespeare Library, «Coriolanus», IV.5, líneas 2788–2824, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; cotejo: Shakespeare Online, «Coriolanus», IV.5, https://www.shakespeare-online.com/plays/corio_4_5.html."
+              "gloss": "desde los doce hasta los setenta años",
+              "body": "Aufidio promete movilizar a hombres de edades extremas: es una fórmula de amplitud militar y entusiasmo, no una norma documentada de reclutamiento volsco. Folger, IV.5: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; Brooke, IV.5: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV"
             },
             {
               "term": "bowels of ungrateful Rome / bold flood",
@@ -22772,8 +22772,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "one half of my commission",
               "title": "one half of my commission",
               "type": "Nota filológica",
-              "gloss": "la mitad de mi mando",
-              "body": "Commission alude a la autoridad militar delegada a Aufidio; no es una comisión económica. Fuentes: Barbara Mowat y Paul Werstine, Folger Shakespeare Library, Coriolanus IV.5, FTLN 2825–2839: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; Shakespeare Online IV.5: https://www.shakespeare-online.com/plays/corio_4_5.html",
+              "gloss": "la mitad de mi autoridad militar",
+              "body": "«Commission» es el encargo o autoridad de mando conferida a Aufidio; ofrecer la mitad de ella a Coriolano es un gesto político-militar decisivo, no una comisión económica. Folger, IV.5: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; Brooke, IV.5: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV",
               "lemma": "commission",
               "lemmaUrl": "https://en.wiktionary.org/wiki/commission"
             },
@@ -22791,7 +22791,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "ere destroy",
               "type": "Nota filológica",
               "gloss": "antes de destruirlos",
-              "body": "Ere funciona como conjunción temporal «antes de»; el verbo destroy recupera el objeto del contexto. Fuentes: Barbara Mowat y Paul Werstine, Folger Shakespeare Library, Coriolanus IV.5, FTLN 2825–2839: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; Shakespeare Online IV.5: https://www.shakespeare-online.com/plays/corio_4_5.html",
+              "body": "«Ere» es una conjunción temporal arcaica equivalente a «before». El giro contrapone intimidar primero y destruir después; no indica que la destrucción sea ya inevitable. Folger, IV.5: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; Brooke, IV.5: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV",
               "lemma": "ere",
               "lemmaUrl": "https://en.wiktionary.org/wiki/ere"
             },
@@ -22841,8 +22841,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "strucken",
               "title": "strucken",
               "type": "Nota filológica",
-              "gloss": "golpeado",
-              "body": "Participio histórico de strike; la forma hoy corriente es struck. Fuentes: Folger Shakespeare Library, Coriolanus IV.5, FTLN 2840–2865, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; Shakespeare Online, IV.5, https://www.shakespeare-online.com/plays/corio_4_5.html.",
+              "gloss": "golpeado; participio antiguo de strike",
+              "body": "«Strucken» es una forma histórica de participio de «strike», junto a «struck». Aquí el criado confiesa que pensó golpear al desconocido con un garrote. Folger, IV.5: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; Brooke, IV.5: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV; lema y flexión: https://en.wiktionary.org/wiki/strike#English.",
               "lemma": "strike",
               "lemmaUrl": "https://en.wiktionary.org/wiki/strike"
             },
@@ -22882,8 +22882,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "methought",
               "title": "methought",
               "type": "Nota filológica",
-              "gloss": "me parecía",
-              "body": "Forma impersonal histórica de methinks, «me pareció». Fuentes: Folger Shakespeare Library, Coriolanus IV.5, FTLN 2840–2865, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; Shakespeare Online, IV.5, https://www.shakespeare-online.com/plays/corio_4_5.html.",
+              "gloss": "me pareció",
+              "body": "Forma impersonal histórica de «methinks» («me parece»), con pasado «methought»; no es simplemente la unión productiva moderna de «me» y «thought». Folger, IV.5: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; Brooke, IV.5: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV; lema y flexión: https://en.wiktionary.org/wiki/methinks#English.",
               "lemma": "methinks",
               "lemmaUrl": "https://en.wiktionary.org/wiki/methinks"
             }
