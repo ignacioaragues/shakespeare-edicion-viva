@@ -18464,7 +18464,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "envy to the people",
               "type": "Nota filológica",
               "gloss": "hostilidad hacia el pueblo",
-              "body": "«Envy» puede designar animadversión, no solo envidia en el sentido actual. Referencias: Folger Shakespeare Library, Coriolanus III.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/; MIT Shakespeare, III.3, https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html.",
+              "body": "«Envy» tiene aquí valor de odio o animadversión hacia el pueblo, no de deseo de poseer lo ajeno. Es el cargo alternativo a la supuesta aspiración tiránica. Cotejo: Folger, Coriolanus III.3, líneas 2277–2281, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/; C. F. Tucker Brooke (ed.), Coriolanus, Yale, 1924, acto III, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III.",
               "lemma": "envy",
               "lemmaUrl": "https://en.wiktionary.org/wiki/envy"
             },
@@ -18525,7 +18525,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "by th’ poll",
               "type": "Nota filológica",
               "gloss": "uno por uno; por cabeza",
-              "body": "«Poll» alude al recuento individual. No debe confundirse este registro con la posterior agrupación por tribus. Plutarco, Vida de Coriolano 20.2–4, distingue votación por centurias y por tribus. Referencias: Folger Shakespeare Library, Coriolanus III.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/; Plutarco, Vida de Coriolano 20, trad. Bernadotte Perrin, https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Coriolanus%2A.html; MIT Shakespeare, III.3, https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html.",
+              "body": "«Poll» es el recuento por cabeza; la siguiente pregunta («by tribes») introduce otra forma de organizar los sufragios. La escena dramatiza la preparación del resultado, no una descripción neutral de un procedimiento electoral. Cotejo: Folger, Coriolanus III.3, líneas 2287–2292, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/; Plutarco, Vida de Coriolano 20, trad. B. Perrin (1916), https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Coriolanus%2A.html.",
               "lemma": "poll",
               "lemmaUrl": "https://en.wiktionary.org/wiki/poll"
             }
@@ -18600,7 +18600,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "old prerogative",
               "type": "Nota filológica",
               "gloss": "antigua prerrogativa",
-              "body": "El lenguaje de un derecho tradicional legitima retóricamente una respuesta ya organizada. Es una interpretación dramática de la maniobra, no una comprobación histórica de la prerrogativa exacta. Referencias: Folger Shakespeare Library, Coriolanus III.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/; MIT Shakespeare, III.3, https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html.",
+              "body": "La invocación a una «antigua prerrogativa» confiere apariencia de legitimidad al grito colectivo que Sicinio ha ordenado preparar. Es una lectura de la estrategia dramática; no prueba por sí sola la existencia histórica de esa prerrogativa en esos términos. Folger, Coriolanus III.3, líneas 2293–2299, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/; Plutarco, Vida de Coriolano 20, trad. B. Perrin (1916), https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Coriolanus%2A.html.",
               "lemma": "prerogative",
               "lemmaUrl": "https://en.wiktionary.org/wiki/prerogative"
             }
@@ -18633,7 +18633,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "present execution",
               "type": "Nota filológica",
               "gloss": "ejecución inmediata",
-              "body": "«Execution» significa aquí hacer efectiva la sentencia, no necesariamente ejecutar a una persona: las penas posibles incluyen multa y destierro. Referencias: Folger Shakespeare Library, Coriolanus III.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/; MIT Shakespeare, III.3, https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html.",
+              "body": "«Present» modifica temporalmente «execution»: exige la aplicación inmediata de la sentencia que se dicte. No significa necesariamente pena capital, pues Sicinio ha mencionado muerte, multa y destierro. Folger, Coriolanus III.3, líneas 2296–2304, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/.",
               "lemma": "execution",
               "lemmaUrl": "https://en.wiktionary.org/wiki/execution"
             },
@@ -18718,7 +18718,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "have his worth",
               "type": "Nota filológica",
               "gloss": "recibir su cuota de oposición",
-              "body": "Construcción interpretativamente difícil: «worth / Of contradiction» cuantifica la oposición que recibe. No equivale simplemente a elogios. Fuentes: Folger Shakespeare Library, Coriolanus III.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/); MIT Shakespeare, Coriolanus III.3 (https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html).",
+              "body": "La construcción «have his worth / Of contradiction» es difícil: puede sugerir que Coriolano está habituado a imponer su voluntad incluso ante toda la oposición que recibe. La glosa «cuota de oposición» es una solución contextual, no una equivalencia léxica inequívoca. Folger, Coriolanus III.3, líneas 2309–2314, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/; Brooke (ed.), Coriolanus (1924), acto III, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III.",
               "lemma": "worth",
               "lemmaUrl": "https://en.wiktionary.org/wiki/worth"
             },
@@ -18804,7 +18804,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "bear the knave by th’ volume",
               "type": "Nota filológica",
               "gloss": "soportar las insolencias del bribón en abundancia",
-              "body": "Locución difícil; «volume» puede sugerir cantidad o extensión. La traducción es interpretativa, no una lectura textual incontrovertible. Fuentes: Folger Shakespeare Library, Coriolanus III.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/); MIT Shakespeare, Coriolanus III.3 (https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html).",
+              "body": "La expresión es problemática: Coriolano se compara con quien, por una paga miserable, debe tolerar las insolencias de otro en gran cantidad. «Volume» acentúa la abundancia; el alcance preciso de la locución admite discusión. La oración pública que sigue contrasta deliberadamente con este aparte. Folger, Coriolanus III.3, líneas 2318–2324, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/; Brooke (ed.), Coriolanus (1924), acto III, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III.",
               "lemma": "volume",
               "lemmaUrl": "https://en.wiktionary.org/wiki/volume"
             },
@@ -18839,7 +18839,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "Amen",
               "type": "Nota filológica",
               "gloss": "así sea",
-              "body": "Fórmula de asentimiento religioso en la escena de la Roma antigua; su empleo corresponde al lenguaje dramático de Shakespeare. Fuentes: Folger Shakespeare Library, Coriolanus III.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/); MIT Shakespeare, Coriolanus III.3 (https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html).",
+              "body": "«Amen» es una fórmula bíblico-cristiana de ratificación insertada en una escena situada en la Roma republicana. Señala una convención lingüística del teatro isabelino, no una prueba de que los romanos históricos pronunciaran esa fórmula. Folger, Coriolanus III.3, línea 2325, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/.",
               "lemma": "amen",
               "lemmaUrl": "https://en.wiktionary.org/wiki/amen"
             }
