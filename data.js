@@ -25579,11 +25579,11 @@ window.SHAKESPEARE_READER_DATA = {
               "lemmaUrl": "https://en.wiktionary.org/wiki/particular"
             },
             {
-              "term": "knee / The way into his mercy",
-              "title": "knee / The way into his mercy",
+              "term": "knee\nThe way into his mercy",
+              "title": "knee\nThe way into his mercy",
               "type": "Nota filológica",
-              "gloss": "avanzar de rodillas hasta obtener su clemencia",
-              "body": "Knee se emplea como verbo: la imagen prolonga la genuflexión hasta convertirla en un camino de súplica. La formulación española explicita el movimiento metafórico. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus V.1 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/1/; https://www.litcharts.com/lit/coriolanus/act-5-scene-1 (consulta 13-11-2026).",
+              "gloss": "avanzar de rodillas hasta obtener clemencia",
+              "body": "Knee es verbo transitivo metafórico: la humillación de los tribunos se convierte en camino físico hasta la tienda militar. Menenio habla sarcásticamente; no recomienda un procedimiento diplomático literal. Cotejo: Folger Shakespeare Library, Coriolanus V.1 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/1/); C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus, Yale 1924, V.1 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V).",
               "lemma": "knee",
               "lemmaUrl": "https://en.wiktionary.org/wiki/knee"
             },
@@ -25591,8 +25591,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "coyed",
               "title": "coyed",
               "type": "Nota filológica",
-              "gloss": "se mostró reacio; se negó",
-              "body": "Coyed es una forma verbal de coy, aquí relacionada con el rechazo de la audiencia solicitada. No se interpreta en el sentido romántico moderno de hacerse el interesante. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus V.1 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/1/; https://www.litcharts.com/lit/coriolanus/act-5-scene-1 (consulta 13-11-2026).",
+              "gloss": "se mostró reacio",
+              "body": "Coy'd significa mostrarse reticente o rehusar una audiencia. Menenio razona que si Coriolano no escuchó a su antiguo general, tampoco lo recibirá a él. Cotejo: Folger Shakespeare Library, Coriolanus V.1 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/1/); C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus, Yale 1924, V.1 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V).",
               "lemma": "coy",
               "lemmaUrl": "https://en.wiktionary.org/wiki/coy"
             }
@@ -25627,18 +25627,18 @@ window.SHAKESPEARE_READER_DATA = {
           "es": "Aunque en una ocasión sí me llamó por mi nombre.\nLe recordé nuestra antigua amistad y las gotas de sangre\nque derramamos juntos. No quiso responder\nal nombre de «Coriolano»; rechazó todos los nombres.\nEra una especie de nadie, sin título alguno,\nhasta que se forjara un nombre propio en el fuego\nde Roma incendiada.",
           "notes": [
             {
-              "term": "the drops / That we have bled together",
-              "title": "the drops / That we have bled together",
+              "term": "the drops\nThat we have bled together",
+              "title": "the drops\nThat we have bled together",
               "type": "Nota filológica",
-              "gloss": "la sangre que derramamos juntos",
-              "body": "Cominio invoca una experiencia militar compartida como argumento afectivo y político; la sangre funciona como señal de solidaridad entre antiguos compañeros. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus V.1 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/1/; https://www.litcharts.com/lit/coriolanus/act-5-scene-1 (consulta 13-11-2026)."
+              "gloss": "las gotas de sangre derramadas juntos",
+              "body": "Cominio invoca la sangre compartida en batalla como prueba de amistad y obligación. Coriolano rechaza incluso el nombre militar que antes había aceptado como identidad. Cotejo: Folger Shakespeare Library, Coriolanus V.1 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/1/); C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus, Yale 1924, V.1 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V)."
             },
             {
               "term": "a kind of nothing, titleless",
               "title": "a kind of nothing, titleless",
               "type": "Nota filológica",
               "gloss": "una especie de nadie, sin título",
-              "body": "La renuncia al nombre ganado en Corioles anuncia una identidad que pretende reconstruirse destruyendo Roma. La lectura simbólica es una interpretación apoyada por la escena, no una variante textual. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus V.1 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/1/; https://www.litcharts.com/lit/coriolanus/act-5-scene-1 (consulta 13-11-2026).",
+              "body": "La fórmula es autodefinición transmitida por Cominio: al negar sus nombres anteriores, Coriolano se presenta sin identidad política hasta obtener otra mediante la destrucción de Roma. Cotejo: Folger Shakespeare Library, Coriolanus V.1 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/1/); C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus, Yale 1924, V.1 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V).",
               "lemma": "titleless",
               "lemmaUrl": "https://en.wiktionary.org/wiki/titleless"
             },
@@ -25660,11 +25660,11 @@ window.SHAKESPEARE_READER_DATA = {
           "es": "¡Así que eso es lo que han conseguido! ¡Gran obra la suya!\n¡Dos tribunos que han destruido Roma\npara abaratar el carbón! ¡Una hazaña digna de recuerdo!",
           "notes": [
             {
-              "term": "wracked Rome / To make coals cheap",
-              "title": "wracked Rome / To make coals cheap",
+              "term": "wracked Rome\nTo make coals cheap",
+              "title": "wracked Rome\nTo make coals cheap",
               "type": "Nota filológica",
-              "gloss": "destruir Roma para abaratar el carbón",
-              "body": "Sarcasmo: la ciudad reducida a cenizas produciría tanto combustible que el carbón perdería valor. El comentario denuncia las consecuencias del destierro y no describe una política económica. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus V.1 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/1/; https://www.litcharts.com/lit/coriolanus/act-5-scene-1 (consulta 13-11-2026).",
+              "gloss": "arruinar Roma para abaratar el carbón",
+              "body": "Menenio convierte la amenaza de incendio en sátira económica. Atención a la variante: Brooke (Yale 1924) imprime «rack'd for Rome» donde Folger ofrece «wracked Rome»; no deben tratarse como idénticas. Se conserva Folger como base. Cotejo: Folger Shakespeare Library, Coriolanus V.1 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/1/); C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus, Yale 1924, V.1 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V).",
               "lemma": "wrack",
               "lemmaUrl": "https://en.wiktionary.org/wiki/wrack"
             },
@@ -25705,8 +25705,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "bare petition",
               "title": "bare petition",
               "type": "Nota filológica",
-              "gloss": "súplica sin fundamento",
-              "body": "Bare recalca que la petición carece de una justificación convincente para el agraviado. La frase representa la respuesta atribuida a Coriolano. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus V.1 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/1/; https://www.litcharts.com/lit/coriolanus/act-5-scene-1 (consulta 13-11-2026).",
+              "gloss": "mera súplica, sin fuerza propia",
+              "body": "Bare califica la petición como desprovista de poder o garantías. El contraste es entre un Estado que lo castigó y su súplica posterior, no necesariamente una petición «sin fundamento» moral. Cotejo: Folger Shakespeare Library, Coriolanus V.1 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/1/); C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus, Yale 1924, V.1 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V).",
               "lemma": "bare",
               "lemmaUrl": "https://en.wiktionary.org/wiki/bare"
             }
@@ -25722,8 +25722,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "Could he say less?",
               "title": "Could he say less?",
               "type": "Nota filológica",
-              "gloss": "¿acaso podía decir menos?",
-              "body": "La pregunta retórica expresa la frustración de Menenio ante una respuesta escueta e implacable, no aprobación de su contenido. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus V.1 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/1/; https://www.litcharts.com/lit/coriolanus/act-5-scene-1 (consulta 13-11-2026)."
+              "gloss": "¿podía decir menos?",
+              "body": "Menenio reprocha irónicamente la respuesta mínima de Coriolano: un giro retórico, no una pregunta literal sobre el número de palabras. Cotejo: Folger Shakespeare Library, Coriolanus V.1 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/1/); C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus, Yale 1924, V.1 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V)."
             }
           ]
         },
@@ -25746,8 +25746,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "noisome musty chaff",
               "title": "noisome musty chaff",
               "type": "Nota filológica",
-              "gloss": "paja vieja y maloliente",
-              "body": "Noisome expresa olor ofensivo o nocividad; musty añade ranciedad. Chaff es la cascarilla o paja separada del grano: la metáfora presenta a la población romana como desecho. Cotejo: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.1, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/1/; texto paralelo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.1.html.",
+              "gloss": "cascarilla rancia y maloliente",
+              "body": "Chaff designa la cascarilla separada del grano; «noisome» y «musty» subrayan hedor y corrupción. La imagen justifica quemar indiscriminadamente a amigos y enemigos. Cotejo: Folger Shakespeare Library, Coriolanus V.1 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/1/); C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus, Yale 1924, V.1 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V).",
               "lemma": "chaff",
               "lemmaUrl": "https://en.wiktionary.org/wiki/chaff"
             },
@@ -25764,8 +25764,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "to nose th’ offense",
               "title": "to nose th’ offense",
               "type": "Nota filológica",
-              "gloss": "seguir soportando su hedor",
-              "body": "Nose se emplea verbalmente en relación con el olor de la paja; offense conserva la idea de molestia u ofensa. Se mantiene la continuidad de la imagen olfativa. Cotejo: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.1, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/1/; texto paralelo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.1.html.",
+              "gloss": "seguir oliendo el hedor ofensivo",
+              "body": "Nose es verbo de percepción olfativa, y offense puede significar lo que ofende los sentidos. El argumento de Coriolano es que no conservará un montón pestilente por salvar unos pocos granos. Cotejo: Folger Shakespeare Library, Coriolanus V.1 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/1/); C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus, Yale 1924, V.1 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V).",
               "lemma": "nose",
               "lemmaUrl": "https://en.wiktionary.org/wiki/nose"
             }
@@ -25785,11 +25785,11 @@ window.SHAKESPEARE_READER_DATA = {
               "body": "Menenio invierte la clasificación de Coriolano: identifica los granos con sus allegados y la paja con los tribunos. Es una réplica retórica, no una descripción objetiva de los ciudadanos. Cotejo: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.1, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/1/; texto paralelo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.1.html."
             },
             {
-              "term": "smelt / Above the moon",
-              "title": "smelt / Above the moon",
+              "term": "smelt\nAbove the moon",
+              "title": "smelt\nAbove the moon",
               "type": "Nota filológica",
-              "gloss": "su hedor llega más allá de la luna",
-              "body": "Hipérbole cómica que amplifica el motivo del olor y atribuye a los tribunos la culpa del desastre. Cotejo: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.1, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/1/; texto paralelo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.1.html.",
+              "gloss": "olidos más allá de la luna",
+              "body": "Menenio prolonga la imagen de la cascarilla: la hipérbole espacial atribuye a los tribunos una pestilencia imposible de contener. Cotejo: Folger Shakespeare Library, Coriolanus V.1 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/1/); C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus, Yale 1924, V.1 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V).",
               "lemma": "smell",
               "lemmaUrl": "https://en.wiktionary.org/wiki/smell"
             },
@@ -25797,8 +25797,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "We must be burnt for you",
               "title": "We must be burnt for you",
               "type": "Nota filológica",
-              "gloss": "por culpa de ustedes tendremos que arder",
-              "body": "For you indica causa o responsabilidad, no un sacrificio voluntario en beneficio de los tribunos. La metáfora pasa del grano a la destrucción efectiva de Roma. Cotejo: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.1, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/1/; texto paralelo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.1.html."
+              "gloss": "arder por culpa de ustedes",
+              "body": "For indica responsabilidad causal: los allegados inocentes serían destruidos por la decisión de los tribunos, no inmolados voluntariamente para beneficiarlos. Cotejo: Folger Shakespeare Library, Coriolanus V.1 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/1/); C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus, Yale 1924, V.1 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V)."
             }
           ]
         },
@@ -25812,15 +25812,15 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "so-never-needed help",
               "title": "so-never-needed help",
               "type": "Nota filológica",
-              "gloss": "ayuda necesaria como nunca antes",
-              "body": "Compuesto intensificador inusual: la necesidad presente se declara sin precedentes. La traducción evita interpretar never como negación de la necesidad. Cotejo: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.1, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/1/; texto paralelo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.1.html."
+              "gloss": "ayuda jamás tan necesaria",
+              "body": "El compuesto intensifica una necesidad sin precedentes; no niega que antes haya existido necesidad. La urgencia busca neutralizar el enojo de Menenio. Cotejo: Folger Shakespeare Library, Coriolanus V.1 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/1/); C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus, Yale 1924, V.1 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V)."
             },
             {
               "term": "Upbraid ’s",
               "title": "Upbraid ’s",
               "type": "Nota filológica",
               "gloss": "reprocharnos",
-              "body": "’s representa us en forma reducida, objeto de upbraid; no es un posesivo ni un sufijo de tercera persona. Cotejo: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.1, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/1/; texto paralelo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.1.html.",
+              "body": "’s equivale a us, objeto de upbraid; no es posesivo. Sicinio pide ayuda y al mismo tiempo intenta impedir que Menenio les atribuya la catástrofe. Cotejo: Folger Shakespeare Library, Coriolanus V.1 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/1/); C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus, Yale 1924, V.1 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V).",
               "lemma": "upbraid",
               "lemmaUrl": "https://en.wiktionary.org/wiki/upbraid"
             },
@@ -25837,8 +25837,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "instant army",
               "title": "instant army",
               "type": "Nota filológica",
-              "gloss": "ejército que podamos reunir de inmediato",
-              "body": "Instant aquí tiene valor temporal de inmediato o disponible en el momento, no el sentido moderno de ejército instantáneo. Cotejo: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.1, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/1/; texto paralelo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.1.html.",
+              "gloss": "ejército reunido inmediatamente",
+              "body": "Instant se refiere a la fuerza disponible de inmediato. La comparación sostiene que una intervención verbal de Menenio podría ser más eficaz que el ejército. Cotejo: Folger Shakespeare Library, Coriolanus V.1 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/1/); C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus, Yale 1924, V.1 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V).",
               "lemma": "instant",
               "lemmaUrl": "https://en.wiktionary.org/wiki/instant"
             }
@@ -25909,8 +25909,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "Return me",
               "title": "Return me",
               "type": "Nota filológica",
-              "gloss": "me haga volver; me despida",
-              "body": "Return funciona transitivamente: Marcio lo enviaría de regreso sin recibir su petición. No significa aquí que Menenio regrese voluntariamente. Referencias: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.1, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/1/; cotejo textual: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.1.html.",
+              "gloss": "me despida sin escucharme",
+              "body": "Return es causativo/transitivo: Coriolano podría enviar de vuelta a Menenio sin audiencia. El riesgo es la humillación personal, no un regreso decidido por el emisario. Cotejo: Folger Shakespeare Library, Coriolanus V.1 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/1/); C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus, Yale 1924, V.1 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V).",
               "lemma": "return",
               "lemmaUrl": "https://en.wiktionary.org/wiki/return"
             },
@@ -25918,8 +25918,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "Grief-shot",
               "title": "Grief-shot",
               "type": "Nota filológica",
-              "gloss": "herido de pena",
-              "body": "Compuesto metafórico: shot presenta el dolor emocional como una herida de proyectil. La edición Folger conserva la forma con guion. Referencias: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.1, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/1/; cotejo textual: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.1.html.",
+              "gloss": "herido de dolor",
+              "body": "El compuesto metafórico trata el rechazo de Coriolano como una herida de proyectil; la imagen convierte la ofensa amistosa en daño físico. Cotejo: Folger Shakespeare Library, Coriolanus V.1 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/1/); C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus, Yale 1924, V.1 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V).",
               "lemma": "grief",
               "lemmaUrl": "https://en.wiktionary.org/wiki/grief"
             }
@@ -25935,8 +25935,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "after the measure",
               "title": "after the measure",
               "type": "Nota filológica",
-              "gloss": "en la medida de",
-              "body": "After introduce aquí proporción o correspondencia: el agradecimiento dependerá de la intención, no del éxito de la embajada. Referencias: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.1, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/1/; cotejo textual: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.1.html."
+              "gloss": "en proporción a",
+              "body": "After indica proporción: Roma deberá agradecer la buena voluntad aunque el intento fracase. Sicinio promete reconocimiento por la intención, no por el resultado. Cotejo: Folger Shakespeare Library, Coriolanus V.1 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/1/); C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus, Yale 1924, V.1 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V)."
             },
             {
               "term": "good will",
