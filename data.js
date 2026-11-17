@@ -15646,8 +15646,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "stand to our authority",
               "title": "stand to our authority",
               "type": "Nota filológica",
-              "gloss": "hacer valer nuestra autoridad",
-              "body": "«Stand to» implica mantenerse firme en una posición y sostener su validez. Bruto presenta la sentencia como una prueba decisiva de la autoridad tribunicia. Folger, Coriolanus III.1, 1929–1933, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/",
+              "gloss": "mantener nuestra autoridad",
+              "body": "Bruto presenta la ejecución como prueba de autoridad tribunicia. «Stand to» expresa sostener una posición institucional, no permanecer de pie. Fuentes: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale, 1924), III.1, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III; First Folio (1623), https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_3_Scene_1.",
               "lemma": "stand",
               "lemmaUrl": "https://en.wiktionary.org/wiki/stand"
             },
@@ -15663,7 +15663,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "present death",
               "type": "Nota filológica",
               "gloss": "muerte inmediata",
-              "body": "«Present» tiene aquí valor temporal de inmediatez, no el de «presente» como objeto entregado. Folger, Coriolanus III.1, 1932–1933, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/",
+              "body": "«Present» equivale a inmediata, sin demora; no implica un procedimiento judicial históricamente comprobado. Fuentes: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale, 1924), III.1, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III; First Folio (1623), https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_3_Scene_1.",
               "lemma": "present",
               "lemmaUrl": "https://en.wiktionary.org/wiki/present"
             }
@@ -15680,7 +15680,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "rock Tarpeian",
               "type": "Nota filológica",
               "gloss": "roca Tarpeya",
-              "body": "Escarpe del Capitolio romano asociado con la ejecución de condenados, especialmente traidores. Su localización precisa ha sido objeto de debate entre las fuentes antiguas; no debe darse por cierta una ubicación única. Ian A. Richmond y John Patterson, «Tarpeian Rock», Oxford Classical Dictionary (2016), DOI: https://doi.org/10.1093/acrefore/9780199381135.013.6225; Folger, Coriolanus III.1, 1935, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/"
+              "body": "Lugar tradicional de precipitación de condenados en Roma. Brooke (1924, nota a III.1, v. 212) remite a su aparato histórico; aquí se amenaza con ejecución sumaria. Fuentes: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale, 1924), III.1, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III; First Folio (1623), https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_3_Scene_1."
             }
           ]
         },
@@ -15695,7 +15695,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "Aediles",
               "type": "Nota filológica",
               "gloss": "ediles",
-              "body": "Magistrados romanos que aquí actúan como agentes de la orden de los tribunos. El drama adapta las instituciones republicanas a su conflicto escénico; no presupone una reconstrucción institucional exhaustiva. Folger, Coriolanus III.1, 1937, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/"
+              "body": "Magistrados que en esta escena actúan como auxiliares de los tribunos; Brooke (1924, nota a III.1, v. 172) los identifica como asistentes de los tribunos plebeyos. Fuentes: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale, 1924), III.1, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III; First Folio (1623), https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_3_Scene_1."
             }
           ]
         },
@@ -15745,8 +15745,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "temp’rately",
               "title": "temp’rately",
               "type": "Nota filológica",
-              "gloss": "con mesura; moderadamente",
-              "body": "Adverbio de «temperate», aquí opuesto a «violently» en el mismo parlamento; no se refiere a la temperatura. Folger, Coriolanus III.1, 1942–1944, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/",
+              "gloss": "con moderación",
+              "body": "Adverbio «temperately» con elisión gráfica. Menenio opone la moderación procedimental a la violencia. Fuentes: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale, 1924), III.1, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III; First Folio (1623), https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_3_Scene_1.",
               "lemma": "temperately",
               "lemmaUrl": "https://en.wiktionary.org/wiki/temperately"
             },
@@ -15771,8 +15771,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "cold ways",
               "title": "cold ways",
               "type": "Nota filológica",
-              "gloss": "medidas tibias; procedimientos moderados",
-              "body": "Bruto transforma la prudencia de Menenio en una medicina inadecuada. «Cold» contrapone la moderación al carácter agudo de la supuesta enfermedad política. Referencias: Folger, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; LitCharts, Coriolanus III.1, https://www.litcharts.com/lit/coriolanus/act-3-scene-1."
+              "gloss": "medidas pausadas",
+              "body": "Bruto presenta los remedios lentos o «fríos» como peligrosos ante una enfermedad «violenta»: metáfora médica de urgencia coercitiva. Fuentes: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale, 1924), III.1, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III; First Folio (1623), https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_3_Scene_1."
             },
             {
               "term": "very poisonous",
@@ -15807,8 +15807,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "try upon yourselves",
               "title": "try upon yourselves",
               "type": "Nota filológica",
-              "gloss": "experimenten ustedes mismos",
-              "body": "Desafío amenazador: Coriolano invita a sus adversarios a padecer personalmente la destreza que le han visto desplegar en combate. Referencias: Folger, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, Coriolanus III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "gloss": "comprueben en ustedes mismos",
+              "body": "Desafío físico a los adversarios. Brooke (1924, nota a III.1, v. 224) sobreentiende «do» después de «seen me». Fuentes: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale, 1924), III.1, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III; First Folio (1623), https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_3_Scene_1.",
               "lemma": "try",
               "lemmaUrl": "https://en.wiktionary.org/wiki/try"
             }
@@ -15897,8 +15897,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "All will be naught else",
               "title": "All will be naught else",
               "type": "Nota filológica",
-              "gloss": "todo acabará mal; será un desastre",
-              "body": "«Naught» conserva el valor de «nada bueno», «ruina»; Menenio teme que la pelea destruya toda posibilidad de acuerdo. Referencias: Folger, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, Coriolanus III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "gloss": "todo acabará en desastre",
+              "body": "Menenio advierte que todo acabará arruinado. Brooke (1924, III.1, v. 230) glosa «naught» como «ruined». Fuentes: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale, 1924), III.1, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III; First Folio (1623), https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_3_Scene_1.",
               "lemma": "naught",
               "lemmaUrl": "https://en.wiktionary.org/wiki/naught"
             }
@@ -15963,7 +15963,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "cure this cause",
               "type": "Nota filológica",
               "gloss": "remediar este conflicto",
-              "body": "El senador introduce el léxico de la curación, que Menenio prolonga con «sore» y «tent». Referencia: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/"
+              "body": "«Cause» designa el desorden presente; Brooke (1924, III.1, v. 234) glosa «disorder, disease», continuando la imagen médica. Fuentes: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale, 1924), III.1, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III; First Folio (1623), https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_3_Scene_1."
             }
           ]
         },
@@ -15984,8 +15984,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "tent yourself",
               "title": "tent yourself",
               "type": "Nota filológica",
-              "gloss": "explorar o tratar tu propia herida",
-              "body": "«Tent» es verbo técnico de cirugía: explorar una herida con una sonda o introducir una tira de material para mantenerla abierta. Menenio sostiene que Coriolano no puede ser a la vez el herido y quien interviene eficazmente. Referencias: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; Medicine & Kindred Arts in the Plays of Shakespeare, sección «Surgery», p. 85, https://upload.wikimedia.org/wikipedia/commons/a/a4/Medicine_%26_kindred_arts_in_the_plays_of_Shakespeare_%28IA_b24853628%29.pdf",
+              "gloss": "curarte tú mismo la herida",
+              "body": "«Tent» es verbo médico histórico para explorar o tratar una herida con una torunda o sonda; no significa acampar. El conflicto exige intervención de otros. Fuentes: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale, 1924), III.1, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III; First Folio (1623), https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_3_Scene_1.",
               "lemma": "tent",
               "lemmaUrl": "https://en.wiktionary.org/wiki/tent"
             }
@@ -16008,8 +16008,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "littered",
               "title": "littered",
               "type": "Nota filológica",
-              "gloss": "nacidos como crías de animales",
-              "body": "El verbo se aplica al parto de animales en camada. Coriolano niega a los plebeyos la dignidad cívica mediante una degradación zoológica. Referencias: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "gloss": "nacidos como animales",
+              "body": "Verbo referido a camadas animales; Brooke (1924, III.1, v. 238) glosa «whelped». Coriolano deshumaniza a los nacidos en Roma. Fuentes: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale, 1924), III.1, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III; First Folio (1623), https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_3_Scene_1.",
               "lemma": "litter",
               "lemmaUrl": "https://en.wiktionary.org/wiki/litter"
             },
@@ -16018,7 +16018,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "calved",
               "type": "Nota filológica",
               "gloss": "paridos como terneros",
-              "body": "La segunda imagen animal intensifica el insulto; el Capitolio representa el corazón simbólico de Roma, pero ni nacer allí otorgaría, para Coriolano, la condición moral de romano. Referencia: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/",
+              "body": "Segundo verbo animalizador: haber nacido incluso en el Capitolio no confiere, a ojos de Coriolano, auténtica romanidad. Fuentes: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale, 1924), III.1, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III; First Folio (1623), https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_3_Scene_1.",
               "lemma": "calve",
               "lemmaUrl": "https://en.wiktionary.org/wiki/calve"
             }
@@ -16041,8 +16041,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "One time will owe another",
               "title": "One time will owe another",
               "type": "Nota filológica",
-              "gloss": "otro momento compensará este",
-              "body": "Expresión discutida: puede prometer una ocasión más favorable o advertir que los actos presentes tendrán consecuencias futuras. Hudson comenta esta última posibilidad; otros comentaristas, como Malone, favorecen la compensación futura. La traducción adopta esta segunda lectura sin presentarla como única. Referencias: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; The New Hudson Shakespeare, The Tragedy of Coriolanus, comentario a III.1, https://upload.wikimedia.org/wikipedia/commons/d/dc/The_tragedy_of_Coriolanus_%28IA_tragedyofcoriola00shak%29.pdf"
+              "gloss": "un tiempo compensará a otro",
+              "body": "Brooke (1924, III.1, v. 241) interpreta que una ocasión favorable futura compensará el momento presente; no se trata de deuda monetaria. Fuentes: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale, 1924), III.1, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III; First Folio (1623), https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_3_Scene_1."
             }
           ]
         },
