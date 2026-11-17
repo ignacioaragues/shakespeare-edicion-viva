@@ -20631,7 +20631,7 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "mankind",
               "title": "mankind",
               "type": "Nota filológica",
-              "gloss": "¿sos una mujer hombruna?",
+              "gloss": "¿eres una mujer hombruna?",
               "body": "En la pregunta de Sicinio, «mankind» tiene un uso adjetival histórico aplicado despectivamente a una mujer de conducta considerada masculina o feroz; no significa «humanidad» aquí. La glosa reproduce el matiz ofensivo, no lo avala. Cotejo: Folger Shakespeare Library, Coriolanus IV.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/2/; C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale, 1924), acto IV, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV.",
               "lemma": "mankind",
               "lemmaUrl": "https://en.wiktionary.org/wiki/mankind"
