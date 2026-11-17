@@ -17615,7 +17615,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "roted",
               "type": "Nota filológica",
               "gloss": "aprendidas de memoria",
-              "body": "Folger imprime «roted» (memorizadas por repetición); MIT presenta «rooted». Se conserva la lectura de Folger y se registra la discrepancia. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; MIT Shakespeare, III.2, https://shakespeare.mit.edu/coriolanus/coriolanus.3.2.html.",
+              "body": "Folger lee «roted», aprendido de memoria por repetición; el primer Folio escribe «roated». Brooke (1924, nota III.2.55–56) prefiere interpretar «rooted» («arraigadas») por la preposición «in» y señala la dificultad de «roted in». No es una diferencia de testigos manuscritos, sino de lectura editorial de una grafía del Folio. Folger: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; Brooke, notas: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Notes.",
               "lemma": "rote",
               "lemmaUrl": "https://en.wiktionary.org/wiki/rote"
             },
@@ -17704,7 +17704,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "salve",
               "type": "Nota filológica",
               "gloss": "remediar / aliviar",
-              "body": "El verbo prolonga la imaginería médica de Menenio en esta escena. La distinción entre el peligro actual y el daño pasado hace que la promesa de reparación sea limitada. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; Shakespeare Online, Coriolanus III.2, https://www.shakespeare-online.com/plays/corio_3_2.html.",
+              "body": "Brooke (1924, nota III.2.71–72) distingue dos valores de «salve»: aliviar el peligro actual y salvar o recuperar lo perdido; su paráfrasis hace explícita la posibilidad de ambas cosas. La lectura de Menenio puede también oírse como una rectificación del daño pasado más que una cura completa del presente. Folger: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; Brooke, notas: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Notes.",
               "lemma": "salve",
               "lemmaUrl": "https://en.wiktionary.org/wiki/salve"
             },
@@ -17713,7 +17713,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "dangerous present",
               "type": "Nota filológica",
               "gloss": "peligro presente",
-              "body": "«Present» funciona sustantivamente: lo que amenaza ahora. No equivale al adjetivo español «presente» aislado. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; Shakespeare Online, Coriolanus III.2, https://www.shakespeare-online.com/plays/corio_3_2.html."
+              "body": "La oposición «present» / «past» no es solo temporal: Brooke (1924, III.2.71–72) entiende que la mediación puede aliviar el peligro y recuperar lo perdido, y atribuye doble función a «salve». La puntuación de Folger admite una lectura más restrictiva; conviene no fijar como única la traducción de la relación «not ... but». Folger: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; Brooke: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Notes."
             }
           ]
         },
@@ -17746,7 +17746,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "bussing the stones",
               "type": "Nota filológica",
               "gloss": "besando las piedras",
-              "body": "«Buss» significa besar; la rodilla personificada «besa» el suelo en una reverencia extrema. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; Shakespeare Online, Coriolanus III.2, https://www.shakespeare-online.com/plays/corio_3_2.html.",
+              "body": "«Buss» es besar: la rodilla parece besar el pavimento. Brooke (1924, nota III.2.74) interpreta el gesto como el extremo al que Volumnia quiere llevar la demostración de deferencia. Es una indicación de actuación dentro del parlamento, no una acotación escénica autónoma. Folger: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; Brooke: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Notes.",
               "lemma": "buss",
               "lemmaUrl": "https://en.wiktionary.org/wiki/buss"
             },
@@ -17755,7 +17755,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "Action is eloquence",
               "type": "Nota filológica",
               "gloss": "los gestos son elocuencia",
-              "body": "Máxima retórica que da primacía a la actuación visible sobre el discurso. El contexto especifica que los espectadores juzgan por los ojos antes que por los oídos. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; Shakespeare Online, Coriolanus III.2, https://www.shakespeare-online.com/plays/corio_3_2.html."
+              "body": "La sentencia desplaza la persuasión desde las palabras al gesto visible; la oposición entre ojos y oídos aparece en el propio parlamento. Como lectura crítica, puede relacionarse con la «actio» de la retórica clásica, pero el texto no cita explícitamente a Cicerón ni a Quintiliano. Folger, III.2: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; Brooke, texto III: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III."
             },
             {
               "term": "More learnèd than the ears",
@@ -17780,7 +17780,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "ripest mulberry",
               "type": "Nota filológica",
               "gloss": "mora muy madura",
-              "body": "La fruta madura y delicada sirve de comparación para una humildad que cede al contacto. La imagen es teatralmente concreta. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; Shakespeare Online, Coriolanus III.2, https://www.shakespeare-online.com/plays/corio_3_2.html.",
+              "body": "La mora muy madura se deshace al manipularla: Volumnia pide una apariencia de docilidad extrema, no una conversión moral. La comparación prolonga las instrucciones corporales de la madre (sombrero, rodilla y cabeza). Folger, III.2: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; Brooke, texto III: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III.",
               "lemma": "mulberry",
               "lemmaUrl": "https://en.wiktionary.org/wiki/mulberry"
             },
@@ -17972,7 +17972,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "unbarbèd sconce",
               "type": "Nota filológica",
               "gloss": "cabeza sin protección",
-              "body": "«Unbarbèd» remite a la falta de protección o armadura; «sconce» puede designar la cabeza, con matiz familiar o despectivo. La pregunta enfrenta vulnerabilidad física y exposición pública. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; Shakespeare Online, Coriolanus III.2, https://www.shakespeare-online.com/plays/corio_3_2.html.",
+              "body": "«Sconce» es cabeza, en registro jocoso. La glosa de «unbarbèd» es discutida: Hawkins y la tradición que sigue Hudson entienden «descubierta», en relación con el gorro en la mano; Steevens registra además la interpretación «sin afeitar / sin arreglar». La edición New Hudson favorece la cabeza descubierta. No se trata de una certeza etimológica única. Folger: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; New Hudson, *The Tragedy of Coriolanus*, III.2, nota a 99: https://upload.wikimedia.org/wikipedia/commons/d/dc/The_tragedy_of_Coriolanus_%28IA_tragedyofcoriola00shak%29.pdf.",
               "lemma": "sconce",
               "lemmaUrl": "https://en.wiktionary.org/wiki/sconce"
             },
@@ -18006,7 +18006,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "discharge to th’ life",
               "type": "Nota filológica",
               "gloss": "representar con verosimilitud",
-              "body": "«Discharge» es ejecutar o cumplir una función; «to the life» indica fidelidad a lo vivo o natural. La imagen prolonga el «part» teatral. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; Shakespeare Online, Coriolanus III.2, https://www.shakespeare-online.com/plays/corio_3_2.html.",
+              "body": "«Discharge» equivale a desempeñar un cometido y «to th’ life» a hacerlo con naturalidad o semejanza convincente. La metáfora escénica se confirma cuando Cominio promete «prompt» (soplarle el texto) en 2230–2231. La edición New Hudson, III.2, nota a 106, señala expresamente la referencia teatral. Folger: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; https://upload.wikimedia.org/wikipedia/commons/d/dc/The_tragedy_of_Coriolanus_%28IA_tragedyofcoriola00shak%29.pdf.",
               "lemma": "discharge",
               "lemmaUrl": "https://en.wiktionary.org/wiki/discharge"
             }
