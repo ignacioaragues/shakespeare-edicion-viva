@@ -22530,18 +22530,18 @@ window.SHAKESPEARE_READER_DATA = {
           "es": "Me llamo Cayo Marcio. A ti en particular y a todos los volscos\nles he causado grandes daños y desgracias;\nde ello puede dar testimonio mi sobrenombre, Coriolano.\nLos penosos servicios, los peligros extremos y las gotas de sangre\nderramadas por mi patria ingrata no han recibido\nmás recompensa que ese sobrenombre: un recuerdo perdurable\ny una prueba de la enemistad y el resentimiento\nque debes sentir hacia mí. Solo me queda ese nombre.\nLa crueldad y la envidia del pueblo, consentidas\npor nuestros nobles cobardes, que me han abandonado todos,\nhan devorado lo demás y han permitido\nque la voz de unos esclavos me expulsara a gritos de Roma.\nEsta situación desesperada me ha traído hasta tu hogar,\npero no, no me malinterpretes, con la esperanza de salvar la vida.\nSi hubiera temido morir, de todos los hombres del mundo\nhabría sido a ti a quien habría evitado.\nEstoy aquí por puro despecho, para ajustar por completo\nlas cuentas con quienes me desterraron.\nAsí pues, si tienes un corazón sediento de venganza,\nsi quieres reparar tus agravios personales y poner fin\na las heridas vergonzosas que se ven por toda tu patria,\nactúa sin demora y aprovecha mi desgracia.\nEmpléala de modo que mis servicios, impulsados por la venganza,\nse conviertan en beneficios para ti:\ncombatiré contra mi patria corrompida con toda la furia\nde los demonios del infierno.\nPero si no te atreves, si estás cansado de tentar de nuevo\na la fortuna, entonces, en pocas palabras,\nyo también estoy harto de seguir viviendo.\nTe ofrezco mi garganta y la entrego a tu antiguo odio.\nSerías un necio si no la cortaras:\nsiempre te he perseguido con odio,\nhe arrancado torrentes de sangre del pecho de tu patria\ny no puedo seguir vivo sin deshonrarte,\na menos que sea para servirte.",
           "notes": [
             {
-              "term": "Caius Martius / Coriolanus",
-              "title": "Caius Martius / Coriolanus",
+              "term": "Caius Martius",
+              "title": "Caius Martius",
               "type": "Nota filológica",
-              "gloss": "Cayo Marcio / Coriolano",
-              "body": "El nombre personal y el sobrenombre militar funcionan como dos identidades en tensión: el segundo recuerda la conquista de Corioles, pero es lo único que le ha dejado Roma. La lectura simbólica se apoya en el propio desarrollo del parlamento. Fuentes: Folger Shakespeare Library, Coriolanus IV.5, líneas 2749–2787 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); cotejo independiente: MIT Shakespeare, IV.5 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.5.html)."
+              "gloss": "Cayo Marcio; el nombre personal del héroe",
+              "body": "Coriolano se presenta por su nombre personal, pero enseguida reivindica «Coriolanus», su sobrenombre militar por la toma de Corioles. La escena hace visible la tensión entre la identidad romana que le quitaron y la fama ganada combatiendo a los volscos. Fuentes: Folger Shakespeare Library, IV.5, 2749–2787 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); C. F. Tucker Brooke, Yale (1924), IV.5 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV)."
             },
             {
-              "term": "hath done / hath devoured",
-              "title": "hath done / hath devoured",
+              "term": "hath done",
+              "title": "hath done",
               "type": "Nota filológica",
-              "gloss": "ha causado / ha devorado",
-              "body": "Hath es la forma de tercera persona singular de have, auxiliar del perfecto. En «The cruelty and envy ... hath devoured», el sujeto coordinado se trata como una unidad de acción; no conviene imponer una concordancia moderna. Fuentes: Folger Shakespeare Library, Coriolanus IV.5, líneas 2749–2787 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); cotejo independiente: MIT Shakespeare, IV.5 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.5.html).",
+              "gloss": "ha hecho / ha causado",
+              "body": "«Hath» es la forma de tercera persona singular de «have»: aparece también en «hath devoured». En «The cruelty and envy ... hath devoured», la concordancia en singular no debe regularizarse sin cotejar los testimonios; la construcción atribuye conjuntamente la ruina a crueldad y odio. Fuentes: Folger Shakespeare Library, IV.5, 2749–2787 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); C. F. Tucker Brooke, Yale (1924), IV.5 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV).",
               "lemma": "have",
               "lemmaUrl": "https://en.wiktionary.org/wiki/have"
             },
@@ -22549,17 +22549,17 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "good memory",
               "title": "good memory",
               "type": "Nota filológica",
-              "gloss": "recuerdo perdurable",
-              "body": "Aquí memory designa un recuerdo o memorial de las hazañas, no la capacidad psicológica de recordar. La expresión también funciona irónicamente: el título que conmemora la victoria recuerda al enemigo el daño sufrido. Fuentes: Folger Shakespeare Library, Coriolanus IV.5, líneas 2749–2787 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); cotejo independiente: MIT Shakespeare, IV.5 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.5.html).",
+              "gloss": "recuerdo, testimonio que permanece",
+              "body": "No se refiere a la facultad de recordar, sino a un recordatorio o testimonio duradero de sus hazañas y de las pérdidas causadas al enemigo. Brooke glosa «memory» como «reminder»: el único premio del héroe recuerda a Aufidio su derrota. Fuentes: Folger Shakespeare Library, IV.5, 2749–2787 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); C. F. Tucker Brooke, Yale (1924), IV.5 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV).",
               "lemma": "memory",
               "lemmaUrl": "https://en.wiktionary.org/wiki/memory"
             },
             {
-              "term": "envy / dastard nobles",
-              "title": "envy / dastard nobles",
+              "term": "envy",
+              "title": "envy",
               "type": "Nota filológica",
-              "gloss": "hostilidad o rencor / nobles cobardes",
-              "body": "Envy puede expresar malevolencia u odio, más que mera envidia comparativa; dastard califica a los nobles de cobardes. El pasaje atribuye a la élite complicidad con la expulsión, según la perspectiva interesada de Coriolano. Fuentes: Folger Shakespeare Library, Coriolanus IV.5, líneas 2749–2787 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); cotejo independiente: MIT Shakespeare, IV.5 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.5.html).",
+              "gloss": "odio, malevolencia",
+              "body": "«Envy» tiene aquí el sentido temprano de odio o animadversión, no solamente el moderno de envidia. La acusación contra el pueblo y los «dastard nobles» (nobles cobardes) es la versión interesada que Coriolano ofrece de su destierro. Fuentes: Folger Shakespeare Library, IV.5, 2749–2787 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); C. F. Tucker Brooke, Yale (1924), IV.5 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV).",
               "lemma": "envy",
               "lemmaUrl": "https://en.wiktionary.org/wiki/envy"
             },
@@ -22567,8 +22567,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "Whooped out of Rome",
               "title": "Whooped out of Rome",
               "type": "Nota filológica",
-              "gloss": "expulsado a gritos de Roma",
-              "body": "La voz pública se representa como griterío degradante. La grafía de Folger incluye una intervención editorial señalada con corchetes angulares en su presentación digital; no se afirma aquí que sea una variante textual autónoma. Fuentes: Folger Shakespeare Library, Coriolanus IV.5, líneas 2749–2787 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); cotejo independiente: MIT Shakespeare, IV.5 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.5.html).",
+              "gloss": "echado de Roma entre gritos y abucheos",
+              "body": "«Whooped» expresa la expulsión a voces; Brooke lo glosa como «hooted» (abucheado). Coriolano reduce la decisión política a un griterío de «slaves», término desdeñoso dirigido a quienes han votado su exilio. Fuentes: Folger Shakespeare Library, IV.5, 2749–2787 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); C. F. Tucker Brooke, Yale (1924), IV.5 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV).",
               "lemma": "whoop",
               "lemmaUrl": "https://en.wiktionary.org/wiki/whoop"
             },
@@ -22576,17 +22576,17 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "heart of wreak",
               "title": "heart of wreak",
               "type": "Nota filológica",
-              "gloss": "corazón sediento de venganza",
-              "body": "Wreak es aquí sustantivo relacionado con venganza o represalia, no el verbo moderno habitual en «wreak havoc». La frase interpela directamente al antiguo enemigo y lo convierte en posible aliado. Fuentes: Folger Shakespeare Library, Coriolanus IV.5, líneas 2749–2787 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); cotejo independiente: MIT Shakespeare, IV.5 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.5.html).",
+              "gloss": "corazón vengativo",
+              "body": "«Wreak» funciona como sustantivo histórico de venganza o represalia. Brooke precisa «vengeful heart». Coriolano apela al rencor personal de Aufidio para transformar su condición de desterrado en una alianza militar. Fuentes: Folger Shakespeare Library, IV.5, 2749–2787 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); C. F. Tucker Brooke, Yale (1924), IV.5 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV).",
               "lemma": "wreak",
               "lemmaUrl": "https://en.wiktionary.org/wiki/wreak"
             },
             {
-              "term": "cankered country / spleen",
-              "title": "cankered country / spleen",
+              "term": "cankered country",
+              "title": "cankered country",
               "type": "Nota filológica",
-              "gloss": "patria corrompida / furia",
-              "body": "Cankered evoca una enfermedad que corroe; spleen puede expresar ira o resentimiento intenso. La imagen invierte la retórica patriótica del héroe: ahora su propia patria es el blanco de su violencia. Fuentes: Folger Shakespeare Library, Coriolanus IV.5, líneas 2749–2787 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); cotejo independiente: MIT Shakespeare, IV.5 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.5.html).",
+              "gloss": "patria envenenada por la hostilidad",
+              "body": "«Cankered» evoca corrupción o malevolencia; Brooke lo glosa «malevolent». El desterrado invierte el objeto de su antiguo servicio patriótico: promete atacar con furia la ciudad que antes defendía. Fuentes: Folger Shakespeare Library, IV.5, 2749–2787 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); C. F. Tucker Brooke, Yale (1924), IV.5 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV).",
               "lemma": "spleen",
               "lemmaUrl": "https://en.wiktionary.org/wiki/spleen"
             },
@@ -22594,17 +22594,59 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "tuns of blood",
               "title": "tuns of blood",
               "type": "Nota filológica",
-              "gloss": "enormes cantidades de sangre",
-              "body": "Tun es una gran cuba o medida de capacidad: la imagen cuantifica hiperbólicamente la sangre extraída del «pecho» de la patria volsca. La traducción evita confundirlo con una cifra exacta de litros. Fuentes: Folger Shakespeare Library, Coriolanus IV.5, líneas 2749–2787 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); cotejo independiente: MIT Shakespeare, IV.5 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.5.html).",
+              "gloss": "enormes cubas de sangre",
+              "body": "«Tun» es una cuba grande; Brooke glosa «tuns» como «huge barrels». La hipérbole imagina el territorio volscio como un cuerpo al que Coriolano ha extraído sangre. Fuentes: Folger Shakespeare Library, IV.5, 2749–2787 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); C. F. Tucker Brooke, Yale (1924), IV.5 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV).",
               "lemma": "tun",
               "lemmaUrl": "https://en.wiktionary.org/wiki/tun"
             },
             {
-              "term": "unless / to do thee service",
-              "title": "unless / to do thee service",
+              "term": "unless",
+              "title": "unless",
               "type": "Nota filológica",
-              "gloss": "a menos que sea para servirte",
-              "body": "La cláusula final reformula la alternativa: vivir sin afrentar a Aufidio solo es posible si el antiguo enemigo acepta sus servicios. No es una retractación de las amenazas anteriores. Fuentes: Folger Shakespeare Library, Coriolanus IV.5, líneas 2749–2787 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); cotejo independiente: MIT Shakespeare, IV.5 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.5.html)."
+              "gloss": "a menos que",
+              "body": "La última condición redefine el dilema: seguir con vida afrenta a Aufidio, salvo que la supervivencia consista en servirlo. Es una oferta de alianza formulada a la vez como desafío y sumisión. Fuentes: Folger Shakespeare Library, IV.5, 2749–2787 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); C. F. Tucker Brooke, Yale (1924), IV.5 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV)."
+            },
+            {
+              "term": "Only that name",
+              "title": "Only that name",
+              "type": "Nota filológica",
+              "gloss": "solo queda ese nombre",
+              "body": "El sobrenombre se convierte en lo último que conserva después de la expulsión. «Only that name remains» condensa la pérdida de patria, posición pública y recompensa que el propio héroe atribuye al destierro. Fuentes: Folger Shakespeare Library, IV.5, 2749–2787 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); C. F. Tucker Brooke, Yale (1924), IV.5 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV)."
+            },
+            {
+              "term": "full quit",
+              "title": "full quit",
+              "type": "Nota filológica",
+              "gloss": "vengado por completo, con las cuentas saldadas",
+              "body": "Brooke glosa «full quit of» como «fully avenged on»: la meta no es quedar libre de los desterradores, sino vengarse enteramente de ellos. Fuentes: Folger Shakespeare Library, IV.5, 2749–2787 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); C. F. Tucker Brooke, Yale (1924), IV.5 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV)."
+            },
+            {
+              "term": "maims",
+              "title": "maims",
+              "type": "Nota filológica",
+              "gloss": "mutilaciones, pérdidas",
+              "body": "En «maims / Of shame» se alude a daños vergonzosos sufridos por los volscos, en especial bajas o territorio perdido. Brooke señala expresamente «disgraceful losses of men or territory». Fuentes: Folger Shakespeare Library, IV.5, 2749–2787 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); C. F. Tucker Brooke, Yale (1924), IV.5 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV)."
+            },
+            {
+              "term": "spleen",
+              "title": "spleen",
+              "type": "Nota filológica",
+              "gloss": "ira, cólera",
+              "body": "Además de designar el bazo, «spleen» puede expresar ira violenta. La furia de los demonios del mundo inferior extrema la promesa de venganza. Fuentes: Folger Shakespeare Library, IV.5, 2749–2787 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); C. F. Tucker Brooke, Yale (1924), IV.5 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV)."
+            },
+            {
+              "term": "prove more fortunes",
+              "title": "prove more fortunes",
+              "type": "Nota filológica",
+              "gloss": "seguir probando fortuna",
+              "body": "«Prove» significa poner a prueba, y «fortunes» alude a futuras campañas o resultados inciertos. El héroe admite la posibilidad de que Aufidio esté cansado de afrontar nuevas empresas bélicas. Fuentes: Folger Shakespeare Library, IV.5, 2749–2787 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); C. F. Tucker Brooke, Yale (1924), IV.5 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV)."
+            },
+            {
+              "term": "My throat",
+              "title": "My throat",
+              "type": "Nota filológica",
+              "gloss": "mi garganta, ofrecida al enemigo",
+              "body": "Coriolano ofrece literalmente su cuello a la espada de Aufidio si este no acepta la alianza. El gesto presenta como alternativas la venganza contra Roma o la propia muerte; no presupone una reconciliación. Fuentes: Folger Shakespeare Library, IV.5, 2749–2787 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); C. F. Tucker Brooke, Yale (1924), IV.5 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV)."
             }
           ]
         },
