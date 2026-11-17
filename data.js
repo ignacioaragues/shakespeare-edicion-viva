@@ -27665,7 +27665,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "stand up blest",
               "type": "Nota filológica",
               "gloss": "levántate y recibe mi bendición",
-              "body": "La madre bendice al hijo y acto seguido invierte la postura habitual de autoridad filial; Folger indica que él se levanta y ella se arrodilla. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library, 2015, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo textual: MIT Shakespeare, Coriolanus, V.3, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "body": "La madre invierte el orden filial al arrodillarse ante el hijo. Folger: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/. Brooke (1924): https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V.",
               "lemma": "bless",
               "lemmaUrl": "https://en.wiktionary.org/wiki/bless"
             },
@@ -27679,20 +27679,20 @@ window.SHAKESPEARE_READER_DATA = {
               "lemmaUrl": "https://en.wiktionary.org/wiki/flint"
             },
             {
-              "term": "unproperly / Show duty",
-              "title": "unproperly / Show duty",
+              "term": "Show duty",
+              "title": "Show duty",
               "type": "Nota filológica",
-              "gloss": "rendir obediencia de manera impropia",
-              "body": "Unproperly significa aquí contra el orden o decoro esperado. Volumnia representa una inversión deliberada de los deberes entre madre e hijo, no una falta accidental de educación. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library, 2015, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo textual: MIT Shakespeare, Coriolanus, V.3, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "gloss": "rendir reverencia contra el orden debido",
+              "body": "La impropiedad radica en que la madre adopta el papel subordinado del hijo. Folger: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/. Brooke (1924): https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V.",
               "lemma": "proper",
               "lemmaUrl": "https://en.wiktionary.org/wiki/proper"
             },
             {
-              "term": "mistaken all this while / Between the child and parent",
-              "title": "mistaken all this while / Between the child and parent",
+              "term": "Between the child and parent",
+              "title": "Between the child and parent",
               "type": "Nota filológica",
-              "gloss": "como si hubiera confundido quién es el hijo y quién la madre",
-              "body": "La construcción hace depender mistaken de la distinción entre los papeles familiares: el gesto de la madre convierte al hijo en autoridad ante la que se arrodilla. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library, 2015, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo textual: MIT Shakespeare, Coriolanus, V.3, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "gloss": "confundir los papeles de madre e hijo",
+              "body": "La escena hace explícita la inversión de autoridad entre generaciones. Folger: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/. Brooke (1924): https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V.",
               "lemma": "mistake",
               "lemmaUrl": "https://en.wiktionary.org/wiki/mistake"
             }
@@ -27708,8 +27708,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "corrected son",
               "title": "corrected son",
               "type": "Nota filológica",
-              "gloss": "hijo corregido; hijo al que has educado",
-              "body": "Corrected puede evocar la disciplina y formación impartidas por la madre; la paradoja es que la educadora se arrodilla ante el educado. La acotación de Folger indica que Coriolano la levanta; MIT no explicita aquí ese gesto. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo: MIT Shakespeare, Coriolanus, V.3, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "gloss": "hijo educado y disciplinado por ti",
+              "body": "«Corrected» recuerda la educación recibida de Volumnia. Folger: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/. Brooke (1924): https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V.",
               "lemma": "correct",
               "lemmaUrl": "https://en.wiktionary.org/wiki/correct"
             },
@@ -27725,7 +27725,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "Fillip the stars",
               "type": "Nota filológica",
               "gloss": "lanzar de un papirotazo hasta las estrellas",
-              "body": "Fillip designa un golpe dado con un dedo, capaz aquí, por hipérbole imposible, de propulsar guijarros hasta el firmamento. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo: MIT Shakespeare, Coriolanus, V.3, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "body": "Los guijarros no pueden alcanzar las estrellas: hipérbole de un orden natural invertido. Folger: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/. Brooke (1924): https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V.",
               "lemma": "fillip",
               "lemmaUrl": "https://en.wiktionary.org/wiki/fillip"
             },
@@ -27742,10 +27742,17 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "Murdering impossibility",
               "title": "Murdering impossibility",
               "type": "Nota filológica",
-              "gloss": "aniquilando lo imposible",
-              "body": "Paradoja enfática: si se invierte la jerarquía natural entre madre e hijo, también podrían hacerse fáciles los hechos físicamente imposibles. La interpretación de esa relación es contextual. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo: MIT Shakespeare, Coriolanus, V.3, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "gloss": "aniquilar lo imposible",
+              "body": "Paradoja que presenta como fácil lo que jamás puede ocurrir. Folger: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/. Brooke (1924): https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V.",
               "lemma": "murder",
               "lemmaUrl": "https://en.wiktionary.org/wiki/murder"
+            },
+            {
+              "term": "pebbles",
+              "title": "pebbles",
+              "type": "Nota filológica",
+              "gloss": "guijarros",
+              "body": "Los objetos diminutos que alcanzan las estrellas ilustran la inversión cósmica imposible. Folger: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/. Brooke (1924): https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V."
             }
           ]
         },
@@ -27759,17 +27766,17 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "I holp to frame thee",
               "title": "I holp to frame thee",
               "type": "Nota filológica",
-              "gloss": "yo contribuí a formarte",
-              "body": "Holp es un pretérito histórico de help; frame remite a formar o modelar. Volumnia reivindica su papel en la creación del guerrero, retomando la imagen del molde en 3425–3426. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo: MIT Shakespeare, Coriolanus, V.3, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "gloss": "ayudé a formarte",
+              "body": "«Holp» es forma antigua de «help»; «frame» retoma la imagen del molde materno. Folger: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/. Brooke (1924): https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V.",
               "lemma": "help",
               "lemmaUrl": "https://en.wiktionary.org/wiki/help"
             },
             {
-              "term": "Thou art / Do you know",
-              "title": "Thou art / Do you know",
+              "term": "Do you know",
+              "title": "Do you know",
               "type": "Nota filológica",
               "gloss": "tú eres / ¿reconoces?",
-              "body": "El paso de thou a you en el mismo parlamento muestra la coexistencia de formas de tratamiento en inglés moderno temprano. No se debe proyectar automáticamente una diferencia fija de cortesía sobre cada ocurrencia. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo: MIT Shakespeare, Coriolanus, V.3, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "body": "Se pasa de «thou» a «you», pero el ancla debe ser literal. Folger: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/. Brooke (1924): https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V.",
               "lemma": "thou",
               "lemmaUrl": "https://en.wiktionary.org/wiki/thou"
             }
@@ -27793,14 +27800,14 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "moon of Rome",
               "type": "Nota filológica",
               "gloss": "luna de Roma",
-              "body": "Metáfora laudatoria que asocia a Valeria con la luminosidad y la castidad lunar; la identificación con Diana se hace explícita al final del parlamento. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo: MIT Shakespeare, Coriolanus, V.3, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html."
+              "body": "La luna y el hielo del templo de Diana refuerzan la imagen de castidad de Valeria. Folger: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/. Brooke (1924): https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V."
             },
             {
               "term": "curdied by the frost",
               "title": "curdied by the frost",
               "type": "Nota filológica",
-              "gloss": "formado o cuajado por la escarcha",
-              "body": "Curdied es forma poco corriente vinculada a curdle: cuajarse o espesarse. La comparación describe la formación del hielo a partir de nieve pura; no se trata de leche literal. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo: MIT Shakespeare, Coriolanus, V.3, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "gloss": "cuajado por la escarcha",
+              "body": "«Curdied» es formación figurada a partir de «curd», cuajar. Folger: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/. Brooke (1924): https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V.",
               "lemma": "curdle",
               "lemmaUrl": "https://en.wiktionary.org/wiki/curdle"
             },
@@ -27825,8 +27832,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "poor epitome of yours",
               "title": "poor epitome of yours",
               "type": "Nota filológica",
-              "gloss": "pequeño compendio o imagen abreviada de ti",
-              "body": "Epitome designa un resumen o compendio; Volumnia presenta al niño como versión todavía incompleta de su padre. Poor señala aquí su pequeñez o insuficiencia, no necesariamente pobreza económica. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo: MIT Shakespeare, Coriolanus, V.3, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "gloss": "pequeña imagen abreviada de ti",
+              "body": "Volumnia presenta al niño como miniatura del padre, todavía en desarrollo. Folger: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/. Brooke (1924): https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V.",
               "lemma": "epitome",
               "lemmaUrl": "https://en.wiktionary.org/wiki/epitome"
             },
@@ -27838,6 +27845,13 @@ window.SHAKESPEARE_READER_DATA = {
               "body": "La metáfora convierte el crecimiento en interpretación: solo la madurez permitirá desplegar el significado del hijo como imagen paterna. Es una lectura contextual de la sintaxis, no una variante textual. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo: MIT Shakespeare, Coriolanus, V.3, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
               "lemma": "interpretation",
               "lemmaUrl": "https://en.wiktionary.org/wiki/interpretation"
+            },
+            {
+              "term": "full time",
+              "title": "full time",
+              "type": "Nota filológica",
+              "gloss": "madurez; tiempo cumplido",
+              "body": "La semejanza entre padre e hijo se desplegará con el paso de los años. Folger: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/. Brooke (1924): https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V."
             }
           ]
         },
@@ -27855,11 +27869,11 @@ window.SHAKESPEARE_READER_DATA = {
               "body": "La invocación se dirige probablemente a Marte, dios romano de la guerra; Shakespeare no lo nombra explícitamente en este verso. Se distingue la identificación contextual de la literalidad del texto. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo: MIT Shakespeare, Coriolanus, V.3, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html."
             },
             {
-              "term": "inform / Thy thoughts",
-              "title": "inform / Thy thoughts",
+              "term": "Thy thoughts",
+              "title": "Thy thoughts",
               "type": "Nota filológica",
-              "gloss": "infunda forma y nobleza a tus pensamientos",
-              "body": "Inform conserva el sentido de dar forma o configurar, además de comunicar. El deseo paterno prolonga la insistencia de Volumnia en haber modelado al guerrero. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo: MIT Shakespeare, Coriolanus, V.3, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "gloss": "dar forma noble a tus pensamientos",
+              "body": "«Inform» significa formar interiormente, no comunicar noticias. Folger: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/. Brooke (1924): https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V.",
               "lemma": "inform",
               "lemmaUrl": "https://en.wiktionary.org/wiki/inform"
             },
@@ -27885,8 +27899,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "great seamark standing every flaw",
               "title": "great seamark standing every flaw",
               "type": "Nota filológica",
-              "gloss": "gran señal marítima que resiste cada ráfaga",
-              "body": "Seamark es una referencia visible para la navegación; flaw puede significar ráfaga o temporal repentino. La comparación une resistencia y orientación para otros. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo: MIT Shakespeare, Coriolanus, V.3, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "gloss": "señal marítima que resiste toda ráfaga",
+              "body": "«Seamark» orienta a navegantes; «flaw» es una ráfaga repentina. Folger: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/. Brooke (1924): https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V.",
               "lemma": "seamark",
               "lemmaUrl": "https://en.wiktionary.org/wiki/seamark"
             },
@@ -27894,8 +27908,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "saving those that eye thee",
               "title": "saving those that eye thee",
               "type": "Nota filológica",
-              "gloss": "salvando a quienes te avistan",
-              "body": "Eye funciona como verbo transitivo: mirar o tener a la vista. El hijo debe servir como punto de orientación salvador, no solamente destacar por valentía. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo: MIT Shakespeare, Coriolanus, V.3, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "gloss": "salvar a quienes te avistan",
+              "body": "La señal marítima sirve de guía a otros, como un guerrero ejemplar. Folger: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/. Brooke (1924): https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V.",
               "lemma": "eye",
               "lemmaUrl": "https://en.wiktionary.org/wiki/eye"
             }
@@ -27943,8 +27957,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "suitors",
               "title": "suitors",
               "type": "Nota filológica",
-              "gloss": "suplicantes; personas que presentan una petición",
-              "body": "Suitor tiene aquí sentido jurídico y político de peticionario, no el de pretendiente amoroso. La enumeración convierte a la familia entera en una delegación. Fuentes de cotejo: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; MIT Shakespeare, Coriolanus V.3, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "gloss": "peticionarios",
+              "body": "No designa pretendientes amorosos, sino suplicantes. Folger: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/. Brooke (1924): https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V.",
               "lemma": "suitor",
               "lemmaUrl": "https://en.wiktionary.org/wiki/suitor"
             }
@@ -27970,7 +27984,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "forsworn to grant",
               "type": "Nota filológica",
               "gloss": "jurado no conceder",
-              "body": "Forswear expresa renunciar mediante juramento; aquí el complemento to grant indica aquello que Coriolano se ha comprometido a no otorgar. Fuentes de cotejo: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; MIT Shakespeare, Coriolanus V.3, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "body": "La negativa previa bajo juramento restringe la petición de la familia. Folger: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/. Brooke (1924): https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V.",
               "lemma": "forswear",
               "lemmaUrl": "https://en.wiktionary.org/wiki/forswear"
             },
@@ -27982,11 +27996,11 @@ window.SHAKESPEARE_READER_DATA = {
               "body": "Construcción pasiva: Coriolano pretende excluir de la negociación las peticiones que ya ha jurado rechazar. Su argumento distingue, interesadamente, entre no conceder y denegar. Fuentes de cotejo: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; MIT Shakespeare, Coriolanus V.3, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html."
             },
             {
-              "term": "capitulate / Again with Rome’s mechanics",
-              "title": "capitulate / Again with Rome’s mechanics",
+              "term": "Rome’s mechanics",
+              "title": "Rome’s mechanics",
               "type": "Nota filológica",
-              "gloss": "volver a negociar con los trabajadores manuales de Roma",
-              "body": "Capitulate puede significar concertar condiciones; mechanics designa artesanos o trabajadores de oficios manuales, con desprecio social en boca de Coriolano. No se refiere a ingenieros mecánicos modernos. Fuentes de cotejo: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; MIT Shakespeare, Coriolanus V.3, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "gloss": "negociar con los artesanos romanos",
+              "body": "«Mechanics» designa despectivamente a los trabajadores manuales de Roma. Folger: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/. Brooke (1924): https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V.",
               "lemma": "mechanic",
               "lemmaUrl": "https://en.wiktionary.org/wiki/mechanic"
             },
@@ -27994,8 +28008,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "unnatural",
               "title": "unnatural",
               "type": "Nota filológica",
-              "gloss": "contrario a los vínculos naturales; desnaturalizado",
-              "body": "Coriolano anticipa el reproche de traicionar a su madre y a su patria. La acusación remite a los deberes familiares y cívicos, no a una anomalía física. Fuentes de cotejo: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; MIT Shakespeare, Coriolanus V.3, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "gloss": "contrario a los vínculos naturales",
+              "body": "El término enlaza deberes familiares y deberes cívicos. Folger: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/. Brooke (1924): https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V.",
               "lemma": "unnatural",
               "lemmaUrl": "https://en.wiktionary.org/wiki/unnatural"
             },
@@ -28016,6 +28030,13 @@ window.SHAKESPEARE_READER_DATA = {
               "body": "Contraposición entre el ardor de la venganza y la deliberación serena de Volumnia; colder es comparativo de cold. Fuentes de cotejo: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; MIT Shakespeare, Coriolanus V.3, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
               "lemma": "cold",
               "lemmaUrl": "https://en.wiktionary.org/wiki/cold"
+            },
+            {
+              "term": "Dismiss my soldiers",
+              "title": "Dismiss my soldiers",
+              "type": "Nota filológica",
+              "gloss": "licenciar mis tropas",
+              "body": "Coriolano excluye de antemano la retirada de su ejército. Folger: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/. Brooke (1924): https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V."
             }
           ]
         },
@@ -28033,11 +28054,11 @@ window.SHAKESPEARE_READER_DATA = {
               "body": "Volumnia se niega a aceptar que el juramento previo cierre la audiencia: exige que la negativa sea explícita y moralmente imputable a su hijo. Fuentes de cotejo: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; MIT Shakespeare, Coriolanus V.3, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html."
             },
             {
-              "term": "the blame / May hang upon your hardness",
-              "title": "the blame / May hang upon your hardness",
+              "term": "your hardness",
+              "title": "your hardness",
               "type": "Nota filológica",
-              "gloss": "la culpa recaiga sobre tu dureza",
-              "body": "Hardness significa dureza de corazón u obstinación; hang upon convierte la responsabilidad moral en una carga que queda suspendida sobre Coriolano. Fuentes de cotejo: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; MIT Shakespeare, Coriolanus V.3, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "gloss": "que la culpa recaiga en tu dureza",
+              "body": "Volumnia responsabiliza moralmente a Coriolano por una eventual negativa. Folger: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/. Brooke (1924): https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V.",
               "lemma": "hardness",
               "lemmaUrl": "https://en.wiktionary.org/wiki/hardness"
             }
@@ -28054,7 +28075,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "mark",
               "type": "Nota filológica",
               "gloss": "presten atención; sean testigos",
-              "body": "Imperativo dirigido a Aufidio y a los volscos presentes: Coriolano quiere que la audiencia sea pública para no despertar sospechas de trato privado. Fuentes de cotejo: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; MIT Shakespeare, Coriolanus V.3, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "body": "Coriolano exige audiencia pública ante Aufidio y los volscos. Folger: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/. Brooke (1924): https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V.",
               "lemma": "mark",
               "lemmaUrl": "https://en.wiktionary.org/wiki/mark"
             },

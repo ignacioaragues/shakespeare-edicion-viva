@@ -3075,6 +3075,20 @@
         "https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V"
       ],
       "status": "reviewed_with_open_sources_private_books_pending"
+    },
+    {
+      "id": "coriolanus-5-3-3460-3508",
+      "act": 5,
+      "scene": 3,
+      "first_line": 3460,
+      "last_line": 3508,
+      "reviewed_on": "2026-11-18",
+      "scope": "Segunda revisión filológica V.3 3460–3508: 49 líneas Folger, 12 bloques, 20 notas precisadas, 3 nuevas, 6 anclas reparadas. Revisión de inversión filial, hipérbole cósmica, holp, epítome del hijo, señal marítima, capitulate/mechanics, deberes naturales y petición pública. Conservados inglés, español, offsets, IDs y saltos. QA visual y libros privados pendientes.",
+      "sources": [
+        "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/",
+        "https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V"
+      ],
+      "status": "reviewed_with_open_sources_private_books_pending"
     }
   ],
   "verse_format_reviews": [
