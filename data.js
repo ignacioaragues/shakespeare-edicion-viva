@@ -16871,8 +16871,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "bolted language",
               "title": "bolted language",
               "type": "Nota filológica",
-              "gloss": "lenguaje tamizado, depurado",
-              "body": "«Bolted» remite a cernir harina: el habla seleccionada contrasta con el discurso sin filtrar del soldado. Fuentes: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, Coriolanus III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "gloss": "lenguaje tamizado",
+              "body": "Metáfora del cernido de harina: Menenio explica la mezcla de expresiones refinadas y groseras. Brooke glosa «bolted» como «sifted». Fuentes: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; C. F. Tucker Brooke (ed.), Coriolanus, Yale, 1924, acto III, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III.",
               "lemma": "bolt",
               "lemmaUrl": "https://en.wiktionary.org/wiki/bolt"
             },
@@ -16919,6 +16919,15 @@ window.SHAKESPEARE_READER_DATA = {
               "body": "Advertencia sobre las consecuencias impredecibles de la violencia política. Fuentes: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, Coriolanus III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
               "lemma": "end",
               "lemmaUrl": "https://en.wiktionary.org/wiki/end"
+            },
+            {
+              "term": "the end of it",
+              "title": "the end of it",
+              "type": "Nota filológica",
+              "gloss": "el desenlace",
+              "body": "El senador advierte que el resultado de la represión violenta no puede conocerse al comienzo: el contraste es temporal y político. Fuentes: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; C. F. Tucker Brooke (ed.), Coriolanus, Yale, 1924, acto III, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III.",
+              "lemma": "end",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/end"
             }
           ]
         },
@@ -16932,8 +16941,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "as the people’s officer",
               "title": "as the people’s officer",
               "type": "Nota filológica",
-              "gloss": "como representante del pueblo",
-              "body": "Concesión de una función mediadora, sin que Menenio se convierta formalmente en tribuno. Fuentes: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, Coriolanus III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "gloss": "en calidad de agente del pueblo",
+              "body": "Sicinio delega provisionalmente la mediación en Menenio; no lo convierte formalmente en tribuno. Fuentes: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; C. F. Tucker Brooke (ed.), Coriolanus, Yale, 1924, acto III, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III.",
               "lemma": "officer",
               "lemmaUrl": "https://en.wiktionary.org/wiki/officer"
             }
@@ -17098,8 +17107,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "precipitation",
               "title": "precipitation",
               "type": "Nota filológica",
-              "gloss": "caída precipitada",
-              "body": "Aquí significa el acto de despeñarse o caer, no «precipitación» meteorológica. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; MIT Shakespeare, Coriolanus III.2, https://shakespeare.mit.edu/coriolanus/coriolanus.3.2.html.",
+              "gloss": "caída en picado; pendiente",
+              "body": "Puede referirse al despeñamiento y a la pendiente extrema; Brooke glosa «steepness». La hipérbole prolonga la caída más allá de la vista. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; C. F. Tucker Brooke (ed.), Coriolanus, Yale, 1924, acto III, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III.",
               "lemma": "precipitation",
               "lemmaUrl": "https://en.wiktionary.org/wiki/precipitation"
             }
@@ -17133,7 +17142,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "I muse",
               "type": "Nota filológica",
               "gloss": "me sorprende",
-              "body": "«Muse» funciona aquí como verbo con el sentido de maravillarse o extrañarse; no es el sustantivo «musa». Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; MIT Shakespeare, Coriolanus III.2, https://shakespeare.mit.edu/coriolanus/coriolanus.3.2.html.",
+              "body": "«Muse» expresa extrañeza («wonder» en Brooke), no inspiración poética. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; C. F. Tucker Brooke (ed.), Coriolanus, Yale, 1924, acto III, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III.",
               "lemma": "muse",
               "lemmaUrl": "https://en.wiktionary.org/wiki/muse"
             },
@@ -17150,8 +17159,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "groats",
               "title": "groats",
               "type": "Nota filológica",
-              "gloss": "monedas de escaso valor",
-              "body": "«Groat» designa una moneda; la mención subraya el supuesto horizonte mercantil y limitado que Coriolano atribuye a la plebe. No debe confundirse con «granos» alimenticios. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; MIT Shakespeare, Coriolanus III.2, https://shakespeare.mit.edu/coriolanus/coriolanus.3.2.html.",
+              "gloss": "monedas de cuatro peniques",
+              "body": "El «groat» es una moneda inglesa de cuatro peniques: el vocabulario monetario introduce una referencia inglesa en la Roma dramática, no una denominación romana. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; C. F. Tucker Brooke (ed.), Coriolanus, Yale, 1924, acto III, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III.",
               "lemma": "groat",
               "lemmaUrl": "https://en.wiktionary.org/wiki/groat"
             },
@@ -17161,6 +17170,15 @@ window.SHAKESPEARE_READER_DATA = {
               "type": "Nota filológica",
               "gloss": "mi categoría / autoridad",
               "body": "En contexto apunta al rango o disposición de mando del hablante, no a una «ordenanza» municipal moderna; se mantiene una equivalencia interpretativa. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; MIT Shakespeare, Coriolanus III.2, https://shakespeare.mit.edu/coriolanus/coriolanus.3.2.html.",
+              "lemma": "ordinance",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/ordinance"
+            },
+            {
+              "term": "ordinance",
+              "title": "ordinance",
+              "type": "Nota filológica",
+              "gloss": "rango; categoría social",
+              "body": "«One but of my ordinance» alude a alguien de su orden social, no a una ordenanza jurídica; Brooke lo glosa como «rank». Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; C. F. Tucker Brooke (ed.), Coriolanus, Yale, 1924, acto III, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III.",
               "lemma": "ordinance",
               "lemmaUrl": "https://en.wiktionary.org/wiki/ordinance"
             }
@@ -17180,6 +17198,15 @@ window.SHAKESPEARE_READER_DATA = {
               "body": "Paradoja teatral: Coriolano rechaza fingir moderación, pero formula su autenticidad mediante el verbo «play», que también significa representar un papel. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; MIT Shakespeare, Coriolanus III.2, https://shakespeare.mit.edu/coriolanus/coriolanus.3.2.html.",
               "lemma": "play",
               "lemmaUrl": "https://en.wiktionary.org/wiki/play"
+            },
+            {
+              "term": "play\nThe man I am",
+              "title": "play\nThe man I am",
+              "type": "Nota filológica",
+              "gloss": "representar al hombre que soy",
+              "body": "Paradoja metateatral: Coriolano presenta su conducta como expresión auténtica de sí mismo, pero la formula mediante el verbo «play». Es una lectura retórica, no una variante textual. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; C. F. Tucker Brooke (ed.), Coriolanus, Yale, 1924, acto III, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III.",
+              "lemma": "play",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/play"
             }
           ]
         },
@@ -17194,7 +17221,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "put your power well on",
               "type": "Nota filológica",
               "gloss": "ejercer bien tu poder",
-              "body": "La imagen de «ponerse» o usar el poder se prolonga en «worn it out»: gastarlo por el uso; Volumnia reprocha la falta de cálculo político. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; MIT Shakespeare, Coriolanus III.2, https://shakespeare.mit.edu/coriolanus/coriolanus.3.2.html.",
+              "body": "Metáfora del vestido: «put ... on» enlaza con «worn it out», contraponiendo el ejercicio prudente de la autoridad a su desgaste prematuro. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; C. F. Tucker Brooke (ed.), Coriolanus, Yale, 1924, acto III, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III.",
               "lemma": "wear",
               "lemmaUrl": "https://en.wiktionary.org/wiki/wear"
             }
@@ -17227,8 +17254,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "thwartings",
               "title": "thwartings",
               "type": "Nota filológica",
-              "gloss": "obstáculos / contrariedades",
-              "body": "Sustantivación de «thwart»: las resistencias que suscita su conducta; la edición Folger marca el término como intervención editorial mediante corchetes angulares. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; MIT Shakespeare, Coriolanus III.2, https://shakespeare.mit.edu/coriolanus/coriolanus.3.2.html.",
+              "gloss": "obstáculos; contrariedades",
+              "body": "Volumnia sostiene que Coriolano habría encontrado menos resistencia si no hubiera anunciado sus intenciones antes de neutralizar la oposición. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; C. F. Tucker Brooke (ed.), Coriolanus, Yale, 1924, acto III, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III.",
               "lemma": "thwart",
               "lemmaUrl": "https://en.wiktionary.org/wiki/thwart"
             },
