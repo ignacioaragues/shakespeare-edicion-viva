@@ -15153,8 +15153,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "’Has",
               "title": "’Has",
               "type": "Nota filológica",
-              "gloss": "ha (él)",
-              "body": "Contracción elíptica de he has. Referencias: Folger, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; Nicholas Grene, ensayo sobre Coriolanus, https://www.enotes.com/topics/coriolanus/criticism/coriolanus-vol-30/overviews/nicholas-grene-essay-date.",
+              "gloss": "él ha",
+              "body": "Contracción gráfica de «he has» (no de «has» impersonal). Bruto interrumpe la argumentación de Coriolano con un juicio de suficiencia. Referencias: Folger Shakespeare Library, Coriolanus, III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale University Press, 1924), III.1, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III.",
               "lemma": "have",
               "lemmaUrl": "https://en.wiktionary.org/wiki/have"
             }
@@ -15196,8 +15196,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "bald tribunes",
               "title": "bald tribunes",
               "type": "Nota filológica",
-              "gloss": "tribunos insustanciales",
-              "body": "Bald es un insulto figurado, no una descripción física; la edición anotada de Coriolanus lo glosa como senseless. Referencias: Folger, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; Nicholas Grene, ensayo sobre Coriolanus, https://www.enotes.com/topics/coriolanus/criticism/coriolanus-vol-30/overviews/nicholas-grene-essay-date.",
+              "gloss": "tribunos sin autoridad legítima / despreciables",
+              "body": "«Bald» es insulto descalificador, no una constatación de calvicie. Coriolano presenta la magistratura plebeya como una concesión nacida de la necesidad durante una rebelión; es su interpretación partidista de su origen. Referencias: Folger Shakespeare Library, Coriolanus, III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale University Press, 1924), III.1, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III.",
               "lemma": "bald",
               "lemmaUrl": "https://en.wiktionary.org/wiki/bald"
             },
@@ -15205,8 +15205,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "greater bench",
               "title": "greater bench",
               "type": "Nota filológica",
-              "gloss": "Senado; autoridad superior",
-              "body": "Bench alude al órgano de gobierno superior al que Coriolano reclama obediencia. Referencias: Folger, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; Nicholas Grene, ensayo sobre Coriolanus, https://www.enotes.com/topics/coriolanus/criticism/coriolanus-vol-30/overviews/nicholas-grene-essay-date.",
+              "gloss": "magistratura superior; Senado",
+              "body": "«Bench» designa figuradamente la instancia de autoridad superior a la que, según Coriolano, el pueblo debe obediencia. No alude a un banco físico. Referencias: Folger Shakespeare Library, Coriolanus, III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale University Press, 1924), III.1, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III.",
               "lemma": "bench",
               "lemmaUrl": "https://en.wiktionary.org/wiki/bench"
             },
@@ -15214,8 +15214,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "what’s not meet but what must be",
               "title": "what’s not meet but what must be",
               "type": "Nota filológica",
-              "gloss": "no lo conveniente, sino lo necesario",
-              "body": "Antítesis meet/must: contrapone lo legítimo a lo impuesto por necesidad; Grene señala que la magistratura concedida en la crisis ya integra el orden legal. Referencias: Folger, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; Nicholas Grene, ensayo sobre Coriolanus, https://www.enotes.com/topics/coriolanus/criticism/coriolanus-vol-30/overviews/nicholas-grene-essay-date.",
+              "gloss": "lo que impone la necesidad, no lo conveniente",
+              "body": "Antítesis entre «meet» (apropiado, justo) y «must be» (impuesto por necesidad). El contraste prepara su exigencia de abolir el poder de los tribunos en tiempos más favorables. Referencias: Folger Shakespeare Library, Coriolanus, III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale University Press, 1924), III.1, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III.",
               "lemma": "meet",
               "lemmaUrl": "https://en.wiktionary.org/wiki/meet"
             },
@@ -15262,8 +15262,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "aediles",
               "title": "aediles",
               "type": "Nota filológica",
-              "gloss": "ediles; funcionarios romanos",
-              "body": "En la escena actúan como agentes de ejecución de las órdenes de los tribunos. Referencias: Folger, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; Nicholas Grene, ensayo sobre Coriolanus, https://www.enotes.com/topics/coriolanus/criticism/coriolanus-vol-30/overviews/nicholas-grene-essay-date.",
+              "gloss": "ediles; funcionarios ejecutores",
+              "body": "Los ediles son magistrados romanos; aquí reciben la orden de detener a Coriolano. Folger introduce escénicamente a un edil después de la llamada, aunque el bloque del lector no reproduce esa acotación separada. Referencias: Folger Shakespeare Library, Coriolanus, III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale University Press, 1924), III.1, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III.",
               "lemma": "aedile",
               "lemmaUrl": "https://en.wiktionary.org/wiki/aedile"
             },
@@ -15288,8 +15288,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "Attach thee",
               "title": "Attach thee",
               "type": "Nota filológica",
-              "gloss": "te detengo",
-              "body": "Attach es un tecnicismo jurídico para arrestar. Referencias: Folger, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; Nicholas Grene, ensayo sobre Coriolanus, https://www.enotes.com/topics/coriolanus/criticism/coriolanus-vol-30/overviews/nicholas-grene-essay-date.",
+              "gloss": "te detengo formalmente",
+              "body": "«Attach» es verbo jurídico de aprehensión o detención, no «unir» ni «adherir». Sicinio invoca la autoridad popular al formular la acusación. Referencias: Folger Shakespeare Library, Coriolanus, III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale University Press, 1924), III.1, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III.",
               "lemma": "attach",
               "lemmaUrl": "https://en.wiktionary.org/wiki/attach"
             },
@@ -15297,8 +15297,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "traitorous innovator",
               "title": "traitorous innovator",
               "type": "Nota filológica",
-              "gloss": "traidor que altera el orden establecido",
-              "body": "Innovator tiene sentido político acusatorio, no el elogio contemporáneo de innovar. Referencias: Folger, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; Nicholas Grene, ensayo sobre Coriolanus, https://www.enotes.com/topics/coriolanus/criticism/coriolanus-vol-30/overviews/nicholas-grene-essay-date.",
+              "gloss": "promotor de cambios políticos acusado de traición",
+              "body": "«Innovator» señala a quien altera el orden establecido, aquí en boca de un acusador. La frase es una imputación política, no una sentencia judicial acreditada. Referencias: Folger Shakespeare Library, Coriolanus, III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale University Press, 1924), III.1, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III.",
               "lemma": "innovator",
               "lemmaUrl": "https://en.wiktionary.org/wiki/innovator"
             },
@@ -15340,8 +15340,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "surety",
               "title": "surety",
               "type": "Nota filológica",
-              "gloss": "salir fiador; responder por alguien",
-              "body": "El verbo jurídico significa ofrecer garantía personal por el acusado: los patricios proponen hacerse responsables de Coriolano, no entregarlo. Shakespeare's Words registra aquí el sentido 'go bail for, act as a guarantor for'. Fuentes: Folger, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; David Crystal y Ben Crystal, Shakespeare's Words, Coriolanus III.1, https://shakespeareswords.com/Public/Play.aspx?Act=3&Content=Text&Scene=1&WorkId=3.",
+              "gloss": "responderemos por él; seremos sus fiadores",
+              "body": "El verbo «surety» expresa ofrecimiento de garantía personal frente a la detención; no equivale simplemente a «estamos seguros». Referencias: Folger Shakespeare Library, Coriolanus, III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale University Press, 1924), III.1, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III.",
               "lemma": "surety",
               "lemmaUrl": "https://en.wiktionary.org/wiki/surety"
             }
@@ -15448,8 +15448,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "Confusion’s near",
               "title": "Confusion’s near",
               "type": "Nota filológica",
-              "gloss": "se aproxima el caos",
-              "body": "La palabra 'confusion' anuncia una ruptura del orden civil; Menenio apenas consigue articular órdenes entrecortadas. Fuentes: Folger, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; David Crystal y Ben Crystal, Shakespeare's Words, Coriolanus III.1, https://shakespeareswords.com/Public/Play.aspx?Act=3&Content=Text&Scene=1&WorkId=3.",
+              "gloss": "se avecina el caos",
+              "body": "«Confusion» denota desorden civil inminente. Las frases entrecortadas de Menenio dramatizan su falta de aliento y su intento fallido de mediar. Referencias: Folger Shakespeare Library, Coriolanus, III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale University Press, 1924), III.1, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III.",
               "lemma": "confusion",
               "lemmaUrl": "https://en.wiktionary.org/wiki/confusion"
             }
@@ -15488,8 +15488,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "liberties",
               "title": "liberties",
               "type": "Nota filológica",
-              "gloss": "libertades; derechos políticos",
-              "body": "Plural que en este contexto alude a prerrogativas políticas colectivas, en particular la representación por tribunos. Es una interpretación contextual, no una equivalencia universal. Fuentes: Folger Shakespeare Library, Coriolanus III.1, líneas 1911–1923, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, Coriolanus III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "gloss": "derechos y libertades cívicas",
+              "body": "Sicinio presenta la pérdida de libertades como peligro inmediato; es una advertencia retórica del tribuno, no un hecho consumado. Referencias: Folger Shakespeare Library, Coriolanus, III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale University Press, 1924), III.1, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III.",
               "lemma": "liberty",
               "lemmaUrl": "https://en.wiktionary.org/wiki/liberty"
             }
@@ -15548,8 +15548,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "the city",
               "title": "the city",
               "type": "Nota filológica",
-              "gloss": "la ciudad como comunidad política",
-              "body": "La pregunta identifica la ciudad con su población, frente a una concepción que privilegia sus instituciones o a sus dirigentes. Lectura retórica del pasaje. Fuentes: Folger Shakespeare Library, Coriolanus III.1, líneas 1911–1923, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, Coriolanus III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "gloss": "la comunidad política; la ciudad",
+              "body": "La pregunta identifica la ciudad con sus habitantes y opone la soberanía popular a la visión jerárquica de los patricios. La réplica coral ratifica esa definición; no debe tomarse como descripción neutral del derecho romano. Referencias: Folger Shakespeare Library, Coriolanus, III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale University Press, 1924), III.1, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III.",
               "lemma": "city",
               "lemmaUrl": "https://en.wiktionary.org/wiki/city"
             }
@@ -15572,8 +15572,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "established",
               "title": "established",
               "type": "Nota filológica",
-              "gloss": "instituidos; nombrados",
-              "body": "Pasiva que presenta el tribunado como una magistratura legitimada por consentimiento colectivo. No equivale a una descripción histórica exacta del procedimiento romano. Fuentes: Folger Shakespeare Library, Coriolanus III.1, líneas 1911–1923, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, Coriolanus III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "gloss": "instituidos; designados",
+              "body": "«Established» remite a la institución de los tribunos por consentimiento colectivo, argumento de legitimidad pronunciado por Bruto. Referencias: Folger Shakespeare Library, Coriolanus, III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale University Press, 1924), III.1, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III.",
               "lemma": "establish",
               "lemmaUrl": "https://en.wiktionary.org/wiki/establish"
             }
@@ -15596,8 +15596,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "are like to",
               "title": "are like to",
               "type": "Nota filológica",
-              "gloss": "es probable que",
-              "body": "«Like» tiene aquí valor de probabilidad, no de semejanza ni de gusto. Menenio intenta contener la confrontación sin negar la legitimidad de los tribunos. Fuentes: Folger Shakespeare Library, Coriolanus III.1, líneas 1911–1923, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, Coriolanus III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "gloss": "es probable que continúen siéndolo",
+              "body": "«Be like to» expresa probabilidad, no semejanza física; Menenio intenta reducir la tensión afirmando que los tribunos conservarán sus cargos. Referencias: Folger Shakespeare Library, Coriolanus, III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale University Press, 1924), III.1, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III.",
               "lemma": "like",
               "lemmaUrl": "https://en.wiktionary.org/wiki/like"
             }
@@ -15613,8 +15613,10 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "lay the city flat",
               "title": "lay the city flat",
               "type": "Nota filológica",
-              "gloss": "arrasar la ciudad",
-              "body": "Coriolano retoma la imagen de destrucción enunciada por el primer senador en 1916: ahora la atribuye a la autoridad de los tribunos. Lectura de la continuidad retórica: Folger, Coriolanus III.1, líneas 1916 y 1924–1927, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/"
+              "gloss": "reducir la ciudad a escombros",
+              "body": "La imagen arquitectónica prolonga el lenguaje de destrucción política. Variante importante de atribución: Folger asigna este parlamento a CORIOLANUS; Brooke (Yale, 1924) y otras ediciones lo atribuyen a COMINIUS. Se mantiene la asignación Folger como texto base, sin presentar la diferencia como un error seguro. Referencias: Folger Shakespeare Library, Coriolanus, III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale University Press, 1924), III.1, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III.",
+              "lemma": "lay",
+              "lemmaUrl": "https://en.wiktionary.org/wiki/lay"
             },
             {
               "term": "distinctly ranges",

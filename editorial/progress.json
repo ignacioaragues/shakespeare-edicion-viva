@@ -2640,6 +2640,20 @@
         "https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III"
       ],
       "status": "reviewed_with_open_sources_private_books_pending"
+    },
+    {
+      "id": "coriolanus-3-1-1872-1927",
+      "act": 3,
+      "scene": 1,
+      "first_line": 1872,
+      "last_line": 1927,
+      "reviewed_on": "2026-11-17",
+      "scope": "Segunda revisión filológica de III.1, líneas Folger 1872–1927 (56 líneas): 14 fichas revisadas, glosas contextuales y enlaces a lemas; retórica de la traición, magistraturas, detención, garantías y soberanía popular. Registrada la variante de atribución del parlamento 1924–1927 (Folger Coriolano / Yale Cominio). Texto EN/ES, IDs y marcadores sin cambios. Cotejo privado y QA visual pendientes.",
+      "sources": [
+        "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/",
+        "https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III"
+      ],
+      "status": "reviewed_with_open_sources_private_books_pending"
     }
   ],
   "verse_format_reviews": [
