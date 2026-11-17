@@ -24808,8 +24808,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "made fair / hands",
               "title": "made fair / hands",
               "type": "Nota filológica",
-              "gloss": "¡menudo desastre han provocado!",
-              "body": "Fair hands es una expresión irónica de resultado desastroso. Menenio prolonga el reproche con el juego entre crafts («ardides») y crafted («tramado»). La puntuación y la separación de versos de Folger dejan visible la ironía. Cotejo: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; texto paralelo, MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.4.6.html.",
+              "gloss": "¡vaya buena obra han hecho! (irónico)",
+              "body": "Menenius censura sarcásticamente el resultado de la expulsión; Brooke, ed. Yale (1924), IV.6, nota al v. 118, explica «made fair hands» como «done fine work». https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV",
               "lemma": "craft",
               "lemmaUrl": "https://en.wiktionary.org/wiki/craft"
             }
@@ -24825,8 +24825,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "S’ incapable of help",
               "title": "S’ incapable of help",
               "type": "Nota filológica",
-              "gloss": "tan incapaz de recibir ayuda; tan indefensa",
-              "body": "S’ abrevia so. La frase caracteriza la vulnerabilidad excepcional de Roma ante la amenaza; el referente de la incapacidad es la ciudad y su posibilidad de ser socorrida. Cotejo: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; texto paralelo, MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.4.6.html.",
+              "gloss": "tan imposible de remediar",
+              "body": "La contracción «S’» representa «so»; «incapable of help» caracteriza la indefensión de Roma, no una incapacidad moral. Brooke, IV.6, vv. 119–121; Folger IV.6: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/",
               "lemma": "incapable",
               "lemmaUrl": "https://en.wiktionary.org/wiki/incapable"
             }
@@ -24849,8 +24849,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "your clusters",
               "title": "your clusters",
               "type": "Nota filológica",
-              "gloss": "sus grupos; sus multitudes",
-              "body": "Clusters designa aquí a los grupos de ciudadanos movilizados por los tribunos, con una valoración despectiva de la acción colectiva. Cotejo: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; texto paralelo, MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.4.6.html.",
+              "gloss": "sus multitudes agrupadas",
+              "body": "«Clusters» alude a grupos de ciudadanos que presionaron por el destierro. Menenio contrapone el amor de los nobles por Coriolano a su cobardía ante las masas. Brooke, IV.6, v. 123, glosa «crowds». https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV",
               "lemma": "cluster",
               "lemmaUrl": "https://en.wiktionary.org/wiki/cluster"
             },
@@ -24875,8 +24875,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "roar him in again",
               "title": "roar him in again",
               "type": "Nota filológica",
-              "gloss": "hacerlo volver entre clamores",
-              "body": "El verbo roar retoma e invierte el hoot del parlamento anterior: la multitud que lo expulsó a gritos podría aclamar su regreso. Es un contraste retórico dentro de la escena. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; Shakespeare Online, Coriolanus IV.6, https://www.shakespeare-online.com/plays/corio_4_6.html.",
+              "gloss": "recibir su regreso con alaridos de dolor",
+              "body": "Juego con «hoot him out»: quienes lo echaron a gritos ahora podrían gritar al verlo volver como enemigo. Brooke, IV.6, v. 125, interpreta «yell with pain as he returns». https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV",
               "lemma": "roar",
               "lemmaUrl": "https://en.wiktionary.org/wiki/roar"
             },
@@ -24884,8 +24884,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "The second name of men",
               "title": "The second name of men",
               "type": "Nota filológica",
-              "gloss": "el hombre de mayor renombre después de él",
-              "body": "Name significa aquí reputación o fama: Aufidio, célebre guerrero, aparece ahora subordinado a Coriolano. La jerarquía es una valoración de Cominio, no una clasificación objetiva. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; Shakespeare Online, Coriolanus IV.6, https://www.shakespeare-online.com/plays/corio_4_6.html.",
+              "gloss": "el segundo hombre más célebre",
+              "body": "Cominio coloca a Aufidio inmediatamente después de Coriolano en renombre militar; no se refiere a un apellido. Brooke, IV.6, v. 126: «the most famous man except Coriolanus». https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV",
               "lemma": "name",
               "lemmaUrl": "https://en.wiktionary.org/wiki/name"
             },
@@ -24893,8 +24893,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "obeys his points",
               "title": "obeys his points",
               "type": "Nota filológica",
-              "gloss": "obedece sus órdenes",
-              "body": "Points se entiende contextualmente como indicaciones u órdenes militares; el contraste está en que Aufidio actúa como un oficial subordinado. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; Shakespeare Online, Coriolanus IV.6, https://www.shakespeare-online.com/plays/corio_4_6.html.",
+              "gloss": "obedece sus instrucciones",
+              "body": "«Points» significa aquí órdenes o directrices militares; el pasaje subraya que Aufidio se somete a su antiguo rival. Brooke, IV.6, v. 126: «instructions». https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV",
               "lemma": "point",
               "lemmaUrl": "https://en.wiktionary.org/wiki/point"
             },
@@ -24942,8 +24942,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "coxcombs",
               "title": "coxcombs",
               "type": "Nota filológica",
-              "gloss": "cabezas de necios; cabezas",
-              "body": "Coxcomb puede significar necio o su cabeza, con resonancias de la cresta del gallo; aquí se contrapone al gorro que los ciudadanos lanzaron al aire. Traducir «cabezas» conserva la amenaza de hacerlas caer. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; Shakespeare Online, Coriolanus IV.6, https://www.shakespeare-online.com/plays/corio_4_6.html.",
+              "gloss": "cabezas de necios",
+              "body": "«Coxcomb» designa al necio, con posible evocación de su gorro; Menenio amenaza con que caerán tantas cabezas como gorras lanzaron los ciudadanos. Brooke, IV.6, v. 135: «fools' heads». https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV",
               "lemma": "coxcomb",
               "lemmaUrl": "https://en.wiktionary.org/wiki/coxcomb"
             },
@@ -24960,8 +24960,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "one coal",
               "title": "one coal",
               "type": "Nota filológica",
-              "gloss": "un solo carbón",
-              "body": "Imagen de destrucción absoluta: todos los romanos consumidos en una única masa carbonizada. Es una exageración penitencial de Menenio, que incluye su propia responsabilidad. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; Shakespeare Online, Coriolanus IV.6, https://www.shakespeare-online.com/plays/corio_4_6.html.",
+              "gloss": "una sola brasa",
+              "body": "Hipérbole de destrucción total: quemar a Roma hasta convertirla en un único carbón encendido. Brooke, IV.6, v. 138: «hot ember». https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV",
               "lemma": "coal",
               "lemmaUrl": "https://en.wiktionary.org/wiki/coal"
             }
@@ -25016,8 +25016,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "willingly ... against our will",
               "title": "willingly ... against our will",
               "type": "Nota filológica",
-              "gloss": "de buena gana ... contra nuestra voluntad",
-              "body": "Contradicción explícita que deja al descubierto el intento de eludir la responsabilidad por el voto. Shakespeare explota la incoherencia cómica del discurso, no una distinción jurídica. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; Shakespeare Online, Coriolanus IV.6, https://www.shakespeare-online.com/plays/corio_4_6.html.",
+              "gloss": "voluntariamente... contra nuestra voluntad",
+              "body": "La contradicción del ciudadano es deliberadamente cómica y revela el intento retrospectivo de eludir responsabilidad por la expulsión. Es una lectura retórica del parlamento, no una variante textual. Folger IV.6: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/",
               "lemma": "will",
               "lemmaUrl": "https://en.wiktionary.org/wiki/will"
             },
@@ -25040,8 +25040,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "you voices",
               "title": "you voices",
               "type": "Nota filológica",
-              "gloss": "ustedes, señores votos",
-              "body": "Sinécdoque política: Cominio reduce a los ciudadanos a sus votos, recordando la importancia de su apoyo al destierro. El elogio goodly es sarcástico. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; Shakespeare Online, Coriolanus IV.6, https://www.shakespeare-online.com/plays/corio_4_6.html.",
+              "gloss": "ustedes, votos andantes",
+              "body": "Cominio reduce irónicamente a los ciudadanos a los «votos» con los que expulsaron a Coriolano; «voice» significa voto en el lenguaje político de la obra. Folger IV.6: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/",
               "lemma": "voice",
               "lemmaUrl": "https://en.wiktionary.org/wiki/voice"
             }
@@ -25057,8 +25057,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "your cry",
               "title": "your cry",
               "type": "Nota filológica",
-              "gloss": "sus gritos; su clamor",
-              "body": "Cry remite a los gritos colectivos con que se expulsó a Coriolano; Menenio vuelve a responsabilizar a la multitud. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; Shakespeare Online, Coriolanus IV.6, https://www.shakespeare-online.com/plays/corio_4_6.html.",
+              "gloss": "su jauría vociferante",
+              "body": "Brooke, IV.6, v. 149, glosa «cry» como «pack (of hounds)»: la imagen animal prolonga los gritos de la multitud y sugiere una jauría. https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV",
               "lemma": "cry",
               "lemmaUrl": "https://en.wiktionary.org/wiki/cry"
             },
@@ -25067,7 +25067,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "Shall ’s",
               "type": "Nota filológica",
               "gloss": "¿vamos?",
-              "body": "Contracción histórica de shall us, usada para proponer una acción conjunta; en inglés actual se esperaría Shall we...? Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; Shakespeare Online, Coriolanus IV.6, https://www.shakespeare-online.com/plays/corio_4_6.html.",
+              "body": "Contracción coloquial de «shall us», con valor de «shall we» en la interrogación. Brooke, IV.6, v. 149: «shall we». Folger: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/",
               "lemma": "shall",
               "lemmaUrl": "https://en.wiktionary.org/wiki/shall"
             }
@@ -25090,8 +25090,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "a side",
               "title": "a side",
               "type": "Nota filológica",
-              "gloss": "un bando; una facción",
-              "body": "Side tiene aquí valor político: Sicinio acusa a los patricios de desear una crisis que los tribunos temen. Se trata de una acusación del personaje, no de un hecho establecido. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; Shakespeare Online, Coriolanus IV.6, https://www.shakespeare-online.com/plays/corio_4_6.html.",
+              "gloss": "los partidarios de una facción",
+              "body": "Sicinio atribuye las noticias alarmantes a la facción patricia, cuyos miembros supuestamente desean el desastre; Brooke, IV.6, v. 152, glosa «members of a party». https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV",
               "lemma": "side",
               "lemmaUrl": "https://en.wiktionary.org/wiki/side"
             },
@@ -25171,8 +25171,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "Would half my wealth / Would buy this for a lie",
               "title": "Would half my wealth / Would buy this for a lie",
               "type": "Nota filológica",
-              "gloss": "ojalá pudiera comprar la falsedad de esta noticia con la mitad de mi fortuna",
-              "body": "El primer would introduce un deseo; el segundo, el resultado imaginado. Buy this for a lie no significa que Bruto quiera comprar una mentira para difundirla, sino que desearía que la noticia resultase falsa. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; First Folio (1623), transcripción diplomática, https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_4_Scene_6.",
+              "gloss": "ojalá pudiera dar la mitad de mis bienes para que fuera mentira",
+              "body": "«Would» expresa deseo irreal, no una compraventa literal: Bruto desea que la noticia de la invasión resulte falsa. Folger IV.6: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/",
               "lemma": "would",
               "lemmaUrl": "https://en.wiktionary.org/wiki/would"
             },
