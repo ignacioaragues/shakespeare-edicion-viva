@@ -3131,6 +3131,20 @@
         "https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V"
       ],
       "status": "reviewed_with_open_sources_private_books_pending"
+    },
+    {
+      "id": "coriolanus-5-4-3635-3702",
+      "act": 5,
+      "scene": 4,
+      "first_line": 3635,
+      "last_line": 3702,
+      "reviewed_on": "2026-11-18",
+      "scope": "Segunda revisión filológica V.4 completa: 68 líneas Folger, 22 bloques, 43 glosas revisadas y 6 añadidas. Revisión cotejada con Folger y Brooke 1924: piedra del Capitolio, metamorfosis en dragón, máquina de guerra, ausencia de clemencia, justicia retributiva, amenaza popular, expulsión de los Tarquinios, marea de ciudadanos y música festiva. Textos, IDs y saltos preservados; QA visual y cotejo privado pendientes.",
+      "sources": [
+        "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/",
+        "https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V"
+      ],
+      "status": "reviewed_with_open_sources_private_books_pending"
     }
   ],
   "verse_format_reviews": [

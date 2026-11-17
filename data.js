@@ -28743,8 +28743,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "coign",
               "title": "coign",
               "type": "Nota filológica",
-              "gloss": "esquina saliente; ángulo",
-              "body": "Forma de coin, aquí una esquina o saliente arquitectónico. Menenio señala un elemento aparentemente imposible de mover con un dedo; el argumento depende de su solidez. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.4, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.4.html.",
+              "gloss": "ángulo saliente del Capitolio",
+              "body": "La piedra angular sirve de imagen de resistencia: Menenio cree tan imposible moverla con el meñique como convencer a Coriolano. Fuentes: Folger (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/); Brooke, Yale 1924 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V).",
               "lemma": "coign",
               "lemmaUrl": "https://en.wiktionary.org/wiki/coign"
             }
@@ -28766,8 +28766,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "prevail with",
               "title": "prevail with",
               "type": "Nota filológica",
-              "gloss": "conseguir persuadir",
-              "body": "La construcción con with indica lograr que alguien ceda ante una petición; no se refiere a vencerlo militarmente. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.4, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.4.html.",
+              "gloss": "persuadir, conseguir que ceda",
+              "body": "El verbo anticipa irónicamente el éxito de las mujeres anunciado al final de la escena. Fuentes: Folger (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/); Brooke, Yale 1924 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V).",
               "lemma": "prevail",
               "lemmaUrl": "https://en.wiktionary.org/wiki/prevail"
             },
@@ -28775,10 +28775,17 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "stay upon execution",
               "title": "stay upon execution",
               "type": "Nota filológica",
-              "gloss": "aguardan la ejecución",
-              "body": "Stay upon expresa espera o demora; el sujeto figurado son nuestras gargantas, metonimia de la vida de los romanos amenazados. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.4, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.4.html.",
+              "gloss": "esperan la ejecución de la sentencia",
+              "body": "La sentencia de muerte se representa como una ejecución inminente; «throats» alude a las vidas de los romanos. Fuentes: Folger (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/); Brooke, Yale 1924 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V).",
               "lemma": "stay",
               "lemmaUrl": "https://en.wiktionary.org/wiki/stay"
+            },
+            {
+              "term": "little finger",
+              "title": "little finger",
+              "type": "Nota filológica",
+              "gloss": "dedo meñique",
+              "body": "El dedo pequeño se contrapone a la enorme piedra del Capitolio. Fuentes: Folger (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/); Brooke, Yale 1924 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V)."
             }
           ]
         },
@@ -28792,8 +28799,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "condition",
               "title": "condition",
               "type": "Nota filológica",
-              "gloss": "carácter; disposición",
-              "body": "No designa aquí una condición social, sino la disposición moral o el carácter que Sicinio cree conocer. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.4, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.4.html.",
+              "gloss": "carácter, disposición",
+              "body": "Sicinio pregunta si un hombre puede cambiar de carácter tan rápidamente. Fuentes: Folger (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/); Brooke, Yale 1924 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V).",
               "lemma": "condition",
               "lemmaUrl": "https://en.wiktionary.org/wiki/condition"
             }
@@ -28810,7 +28817,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "differency",
               "type": "Nota filológica",
               "gloss": "diferencia",
-              "body": "Sustantivo de uso antiguo, equivalente aquí a difference; la comparación establece una metamorfosis cada vez más extrema. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.4, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.4.html.",
+              "body": "Forma sustantiva antigua de «difference», que introduce la metamorfosis. Fuentes: Folger (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/); Brooke, Yale 1924 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V).",
               "lemma": "differency",
               "lemmaUrl": "https://en.wiktionary.org/wiki/differency"
             },
@@ -28818,8 +28825,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "grub",
               "title": "grub",
               "type": "Nota filológica",
-              "gloss": "larva; oruga",
-              "body": "El contraste con butterfly presenta primero una metamorfosis natural y luego una transformación fabulosa en dragón. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.4, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.4.html.",
+              "gloss": "larva, oruga",
+              "body": "La metamorfosis natural de la oruga a mariposa prepara la transformación monstruosa del hombre en dragón. Fuentes: Folger (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/); Brooke, Yale 1924 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V).",
               "lemma": "grub",
               "lemmaUrl": "https://en.wiktionary.org/wiki/grub"
             },
@@ -28827,10 +28834,17 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "dragon",
               "title": "dragon",
               "type": "Nota filológica",
-              "gloss": "dragón",
-              "body": "La hipérbole convierte a Marcio en criatura alada y temible. La ironía dramática reside en que el público ya ha presenciado su rendición ante Volumnia. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.4, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.4.html. Jacob Ginsberg, «Coriolanus Act 5, Scene 4», LitCharts (2017), https://www.litcharts.com/lit/coriolanus/act-5-scene-4.",
+              "gloss": "dragón alado",
+              "body": "La figura monstruosa amplifica la ferocidad del héroe, ya no reducido a una criatura que se arrastra. Fuentes: Folger (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/); Brooke, Yale 1924 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V).",
               "lemma": "dragon",
               "lemmaUrl": "https://en.wiktionary.org/wiki/dragon"
+            },
+            {
+              "term": "creeping thing",
+              "title": "creeping thing",
+              "type": "Nota filológica",
+              "gloss": "criatura que se arrastra",
+              "body": "La oposición entre reptar y volar acentúa la metamorfosis monstruosa. Fuentes: Folger (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/); Brooke, Yale 1924 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V)."
             }
           ]
         },
@@ -28850,8 +28864,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "eight-year-old horse",
               "title": "eight-year-old horse",
               "type": "Nota filológica",
-              "gloss": "caballo de ocho años",
-              "body": "Menenio exagera la falta de memoria afectiva de Coriolano; la comparación no demuestra ninguna creencia zoológica precisa. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.4, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.4.html.",
+              "gloss": "caballo de ocho años, supuestamente olvidadizo",
+              "body": "La comparación niega la memoria afectiva de Coriolano; es una exageración cómica, no zoología. Fuentes: Folger (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/); Brooke, Yale 1924 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V).",
               "lemma": "horse",
               "lemmaUrl": "https://en.wiktionary.org/wiki/horse"
             },
@@ -28859,8 +28873,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "tartness",
               "title": "tartness",
               "type": "Nota filológica",
-              "gloss": "aspereza; acritud",
-              "body": "El adjetivo implícito en tartness pasa del gesto severo a la acidez que agriaría incluso uvas maduras. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.4, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.4.html.",
+              "gloss": "acidez, aspereza",
+              "body": "El rostro agria hasta las uvas maduras, prolongando el campo semántico del sabor ácido. Fuentes: Folger (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/); Brooke, Yale 1924 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V).",
               "lemma": "tartness",
               "lemmaUrl": "https://en.wiktionary.org/wiki/tartness"
             },
@@ -28868,8 +28882,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "engine",
               "title": "engine",
               "type": "Nota filológica",
-              "gloss": "máquina de guerra",
-              "body": "En el contexto militar temprano moderno, engine puede designar un artefacto bélico o de asedio; no debe entenderse como motor moderno. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.4, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.4.html.",
+              "gloss": "máquina de guerra o de asedio",
+              "body": "El término alude a un poderoso ingenio militar, no a un motor moderno. Fuentes: Folger (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/); Brooke, Yale 1924 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V).",
               "lemma": "engine",
               "lemmaUrl": "https://en.wiktionary.org/wiki/engine"
             },
@@ -28877,8 +28891,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "corslet",
               "title": "corslet",
               "type": "Nota filológica",
-              "gloss": "coraza; peto",
-              "body": "Pieza de armadura que protege el torso; atravesarla con la mirada es una hipérbole de agresividad. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.4, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.4.html.",
+              "gloss": "coraza, peto",
+              "body": "La mirada capaz de atravesar una armadura exagera la agresividad de Coriolano. Fuentes: Folger (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/); Brooke, Yale 1924 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V).",
               "lemma": "corslet",
               "lemmaUrl": "https://en.wiktionary.org/wiki/corslet"
             },
@@ -28887,7 +28901,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "knell",
               "type": "Nota filológica",
               "gloss": "toque fúnebre",
-              "body": "La voz se compara con una campana que anuncia una muerte. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.4, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.4.html.",
+              "body": "La voz se compara con la campana que anuncia una muerte. Fuentes: Folger (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/); Brooke, Yale 1924 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V).",
               "lemma": "knell",
               "lemmaUrl": "https://en.wiktionary.org/wiki/knell"
             },
@@ -28895,8 +28909,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "battery",
               "title": "battery",
               "type": "Nota filológica",
-              "gloss": "bombardeo; ataque de artillería",
-              "body": "La imagen prolonga la serie de metáforas militares: hasta el sonido apenas articulado del personaje amenaza como un ataque. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.4, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.4.html.",
+              "gloss": "ataque militar, asalto",
+              "body": "Hasta el murmullo del héroe se convierte metafóricamente en una descarga o acometida. Fuentes: Folger (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/); Brooke, Yale 1924 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V).",
               "lemma": "battery",
               "lemmaUrl": "https://en.wiktionary.org/wiki/battery"
             },
@@ -28905,7 +28919,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "Alexander",
               "type": "Nota filológica",
               "gloss": "Alejandro Magno",
-              "body": "Alusión a Alejandro III de Macedonia como modelo de majestad conquistadora; no implica que el personaje se identifique históricamente con él. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.4, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.4.html.",
+              "body": "La figura de Alejandro sirve de modelo de majestad militar; no identifica necesariamente una escultura concreta. Fuentes: Folger (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/); Brooke, Yale 1924 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V).",
               "lemma": "Alexander",
               "lemmaUrl": "https://en.wiktionary.org/wiki/Alexander"
             },
@@ -28913,10 +28927,17 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "He wants nothing of a god but eternity",
               "title": "He wants nothing of a god but eternity",
               "type": "Nota filológica",
-              "gloss": "para ser un dios solo le falta la eternidad",
-              "body": "Want significa aquí carecer de, no desear. La exageración culmina la descripción de un Coriolano casi divino, precisamente cuando el espectador sabe que ha cedido. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.4, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.4.html.",
+              "gloss": "solo le faltan inmortalidad y un cielo",
+              "body": "«Wants» significa «carece de», no «desea»; Menenio lo describe como casi divino. Fuentes: Folger (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/); Brooke, Yale 1924 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V).",
               "lemma": "want",
               "lemmaUrl": "https://en.wiktionary.org/wiki/want"
+            },
+            {
+              "term": "his hum",
+              "title": "his hum",
+              "type": "Nota filológica",
+              "gloss": "su gruñido",
+              "body": "Hasta un sonido no articulado se imagina como ataque militar. Fuentes: Folger (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/); Brooke, Yale 1924 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V)."
             }
           ]
         },
@@ -28930,8 +28951,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "mercy",
               "title": "mercy",
               "type": "Nota filológica",
-              "gloss": "piedad",
-              "body": "Exclamación elíptica que pide misericordia, no atribuye clemencia a Coriolano. Referencias: Mowat y Werstine (eds.), Coriolanus, V.4, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/; cotejo MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.4.html."
+              "gloss": "¡piedad!",
+              "body": "Sicinio invoca la piedad divina; Menenio retoma el vocablo para negar que Coriolano pueda concederla. Fuentes: Folger (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/); Brooke, Yale 1924 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V)."
             }
           ]
         },
@@ -28945,24 +28966,31 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "in the character",
               "title": "in the character",
               "type": "Nota filológica",
-              "gloss": "fielmente; tal como es",
-              "body": "Character remite a los rasgos distintivos del retratado. Referencias: Mowat y Werstine (eds.), Coriolanus, V.4, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/; cotejo MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.4.html."
+              "gloss": "con los rasgos exactos, fielmente",
+              "body": "Menenio asegura que su retrato verbal reproduce fielmente el carácter de Coriolano. Fuentes: Folger (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/); Brooke, Yale 1924 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V)."
             },
             {
               "term": "milk in a male tiger",
               "title": "milk in a male tiger",
               "type": "Nota filológica",
-              "gloss": "leche en un tigre macho",
-              "body": "Hipérbole de imposibilidad: el macho no amamanta. Referencias: Mowat y Werstine (eds.), Coriolanus, V.4, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/; cotejo MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.4.html."
+              "gloss": "leche en un tigre macho: ninguna",
+              "body": "El imposible biológico representa la absoluta ausencia de misericordia. Fuentes: Folger (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/); Brooke, Yale 1924 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V)."
             },
             {
               "term": "long of you",
               "title": "long of you",
               "type": "Nota filológica",
               "gloss": "por culpa tuya",
-              "body": "Locución histórica que atribuye causalidad y responsabilidad. Referencias: Mowat y Werstine (eds.), Coriolanus, V.4, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/; cotejo MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.4.html.",
+              "body": "Locución causal arcaica equivalente a «owing to»; Menenio acusa al tribuno de haber provocado el desastre. Fuentes: Folger (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/); Brooke, Yale 1924 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V).",
               "lemma": "long",
               "lemmaUrl": "https://en.wiktionary.org/wiki/long"
+            },
+            {
+              "term": "Mark what",
+              "title": "Mark what",
+              "type": "Nota filológica",
+              "gloss": "observa cuánto",
+              "body": "Imperativo irónico que invita a comprobar una misericordia inexistente. Fuentes: Folger (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/); Brooke, Yale 1924 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V)."
             }
           ]
         },
@@ -28982,15 +29010,15 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "respected not them",
               "title": "respected not them",
               "type": "Nota filológica",
-              "gloss": "no los respetamos",
-              "body": "Menenio interpreta el destierro como una ofensa religiosa; es una atribución del personaje, no un hecho sobrenatural confirmado. Referencias: Mowat y Werstine (eds.), Coriolanus, V.4, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/; cotejo MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.4.html."
+              "gloss": "no respetamos a los dioses",
+              "body": "Menenio formula una justicia retributiva: los dioses no protegerán a quienes antes no los respetaron. Fuentes: Folger (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/); Brooke, Yale 1924 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V)."
             },
             {
               "term": "he returning",
               "title": "he returning",
               "type": "Nota filológica",
               "gloss": "ahora que él regresa",
-              "body": "Construcción absoluta con sujeto explícito. Referencias: Mowat y Werstine (eds.), Coriolanus, V.4, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/; cotejo MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.4.html.",
+              "body": "Construcción absoluta que sitúa el regreso vengativo como circunstancia. Fuentes: Folger (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/); Brooke, Yale 1924 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V).",
               "lemma": "return",
               "lemmaUrl": "https://en.wiktionary.org/wiki/return"
             }
@@ -29007,7 +29035,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "fly to your house",
               "type": "Nota filológica",
               "gloss": "huye a tu casa",
-              "body": "Fly es aquí el imperativo de huir. Referencias: Mowat y Werstine (eds.), Coriolanus, V.4, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/; cotejo MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.4.html.",
+              "body": "El mensajero insta a Sicinio a escapar de la multitud enfurecida. Fuentes: Folger (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/); Brooke, Yale 1924 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V).",
               "lemma": "fly",
               "lemmaUrl": "https://en.wiktionary.org/wiki/fly"
             },
@@ -29015,8 +29043,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "hale him up and down",
               "title": "hale him up and down",
               "type": "Nota filológica",
-              "gloss": "lo arrastran de un lado a otro",
-              "body": "Hale expresa tirar violentamente de alguien. Referencias: Mowat y Werstine (eds.), Coriolanus, V.4, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/; cotejo MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.4.html.",
+              "gloss": "arrastrarlo de un lado a otro",
+              "body": "«Hale» expresa tirar de alguien violentamente; los plebeyos maltratan al otro tribuno. Fuentes: Folger (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/); Brooke, Yale 1924 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V).",
               "lemma": "hale",
               "lemmaUrl": "https://en.wiktionary.org/wiki/hale"
             },
@@ -29024,8 +29052,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "death by inches",
               "title": "death by inches",
               "type": "Nota filológica",
-              "gloss": "muerte lenta",
-              "body": "Amenaza de suplicio gradual sin método explícito. Referencias: Mowat y Werstine (eds.), Coriolanus, V.4, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/; cotejo MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.4.html."
+              "gloss": "muerte lenta y gradual",
+              "body": "«By inches» indica un tormento prolongado, no una distancia literal. Fuentes: Folger (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/); Brooke, Yale 1924 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V)."
             }
           ]
         },
@@ -29046,7 +29074,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "prevailed",
               "type": "Nota filológica",
               "gloss": "han conseguido persuadirlo",
-              "body": "Prevail retoma la esperanza que Menenio juzgaba imposible: que las mujeres lograsen convencer a Coriolano. Referencias: Mowat, Barbara y Paul Werstine (eds.), William Shakespeare, Coriolanus, V.4, Folger Shakespeare Library, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.4.html.",
+              "body": "El éxito de las mujeres desmiente el pesimismo inicial de Menenio. Fuentes: Folger (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/); Brooke, Yale 1924 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V).",
               "lemma": "prevail",
               "lemmaUrl": "https://en.wiktionary.org/wiki/prevail"
             },
@@ -29054,8 +29082,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "dislodged",
               "title": "dislodged",
               "type": "Nota filológica",
-              "gloss": "se han retirado de sus posiciones",
-              "body": "El verbo militar señala el levantamiento de las posiciones volscas; no implica necesariamente una derrota en combate. Referencias: Mowat, Barbara y Paul Werstine (eds.), William Shakespeare, Coriolanus, V.4, Folger Shakespeare Library, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.4.html.",
+              "gloss": "retirados de sus posiciones",
+              "body": "Verbo militar: los volscos abandonan el emplazamiento frente a Roma. Fuentes: Folger (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/); Brooke, Yale 1924 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V).",
               "lemma": "dislodge",
               "lemmaUrl": "https://en.wiktionary.org/wiki/dislodge"
             },
@@ -29064,7 +29092,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "expulsion of the Tarquins",
               "type": "Nota filológica",
               "gloss": "expulsión de los Tarquinios",
-              "body": "Alusión a la caída de la monarquía romana, tradicionalmente situada en 509 a. C.; la comparación es una hipérbole del mensajero, no una equiparación histórica demostrable. Referencias: Mowat, Barbara y Paul Werstine (eds.), William Shakespeare, Coriolanus, V.4, Folger Shakespeare Library, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.4.html."
+              "body": "Alusión al derrocamiento de la monarquía romana y al comienzo de la República. Fuentes: Folger (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/); Brooke, Yale 1924 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V)."
             }
           ]
         },
@@ -29079,7 +29107,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "Art thou",
               "type": "Nota filológica",
               "gloss": "¿estás tú...?",
-              "body": "Interrogativa con la segunda persona singular antigua thou y la forma verbal art; el tratamiento directo subraya la urgencia de la confirmación. Referencias: Mowat, Barbara y Paul Werstine (eds.), William Shakespeare, Coriolanus, V.4, Folger Shakespeare Library, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.4.html.",
+              "body": "«Thou» es segunda persona singular; Sicinio exige una confirmación de la noticia. Fuentes: Folger (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/); Brooke, Yale 1924 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V).",
               "lemma": "art",
               "lemmaUrl": "https://en.wiktionary.org/wiki/art"
             }
@@ -29096,7 +29124,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "lurked",
               "type": "Nota filológica",
               "gloss": "te has escondido",
-              "body": "La pregunta reprocha a Sicinio su aislamiento de una noticia que ya circula públicamente. Referencias: Mowat, Barbara y Paul Werstine (eds.), William Shakespeare, Coriolanus, V.4, Folger Shakespeare Library, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.4.html.",
+              "body": "El mensajero se extraña de que Sicinio ignore el júbilo ya extendido por la ciudad. Fuentes: Folger (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/); Brooke, Yale 1924 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V).",
               "lemma": "lurk",
               "lemmaUrl": "https://en.wiktionary.org/wiki/lurk"
             },
@@ -29105,14 +29133,14 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "blown tide",
               "type": "Nota filológica",
               "gloss": "marea crecida",
-              "body": "Imagen de una corriente hinchada que atraviesa un paso estrecho; el arco sirve de comparación con las puertas de la ciudad. Referencias: Mowat, Barbara y Paul Werstine (eds.), William Shakespeare, Coriolanus, V.4, Folger Shakespeare Library, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.4.html."
+              "body": "La masa de agua que atraviesa un arco representa la multitud que se precipita por las puertas. Fuentes: Folger (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/); Brooke, Yale 1924 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V)."
             },
             {
               "term": "recomforted",
               "title": "recomforted",
               "type": "Nota filológica",
-              "gloss": "reconfortados; aliviados",
-              "body": "Participio sustantivado: los romanos que recuperan el ánimo tras conocer la salvación de la ciudad. Referencias: Mowat, Barbara y Paul Werstine (eds.), William Shakespeare, Coriolanus, V.4, Folger Shakespeare Library, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.4.html.",
+              "gloss": "reconfortados, aliviados",
+              "body": "Los ciudadanos recuperan el ánimo tras el temor de la invasión. Fuentes: Folger (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/); Brooke, Yale 1924 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V).",
               "lemma": "recomfort",
               "lemmaUrl": "https://en.wiktionary.org/wiki/recomfort"
             },
@@ -29120,8 +29148,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "sackbuts",
               "title": "sackbuts",
               "type": "Nota filológica",
-              "gloss": "sacabuches",
-              "body": "Instrumentos de viento de metal, antecesores del trombón; la enumeración construye una sonoridad festiva. Referencias: Mowat, Barbara y Paul Werstine (eds.), William Shakespeare, Coriolanus, V.4, Folger Shakespeare Library, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.4.html.",
+              "gloss": "sacabuches, antiguos trombones",
+              "body": "Instrumentos de metal en una enumeración festiva de resonancia isabelina. Fuentes: Folger (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/); Brooke, Yale 1924 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V).",
               "lemma": "sackbut",
               "lemmaUrl": "https://en.wiktionary.org/wiki/sackbut"
             },
@@ -29129,8 +29157,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "psalteries",
               "title": "psalteries",
               "type": "Nota filológica",
-              "gloss": "salterios",
-              "body": "Instrumentos de cuerda pulsada, aquí integrados en el catálogo festivo de instrumentos. Referencias: Mowat, Barbara y Paul Werstine (eds.), William Shakespeare, Coriolanus, V.4, Folger Shakespeare Library, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.4.html.",
+              "gloss": "salterios, instrumentos de cuerda",
+              "body": "La enumeración reúne instrumentos de cuerda, viento y percusión. Fuentes: Folger (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/); Brooke, Yale 1924 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V).",
               "lemma": "psaltery",
               "lemmaUrl": "https://en.wiktionary.org/wiki/psaltery"
             },
@@ -29139,7 +29167,14 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "Make the sun dance",
               "type": "Nota filológica",
               "gloss": "hacen bailar al sol",
-              "body": "Hipérbole cósmica: la celebración colectiva parece afectar incluso al astro; no se afirma un prodigio literal. Referencias: Mowat, Barbara y Paul Werstine (eds.), William Shakespeare, Coriolanus, V.4, Folger Shakespeare Library, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.4.html."
+              "body": "Hipérbole cósmica que expresa la intensidad de la música y los gritos. Fuentes: Folger (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/); Brooke, Yale 1924 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V)."
+            },
+            {
+              "term": "Tabors and cymbals",
+              "title": "Tabors and cymbals",
+              "type": "Nota filológica",
+              "gloss": "tamboriles y címbalos",
+              "body": "Instrumentos de percusión que completan la enumeración festiva. Fuentes: Folger (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/); Brooke, Yale 1924 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V)."
             }
           ]
         },
@@ -29153,29 +29188,29 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "worth of consuls",
               "title": "worth of consuls",
               "type": "Nota filológica",
-              "gloss": "vale tanto como cónsules",
-              "body": "Construcción comparativa de valor, amplificada por «a city full»; la sintaxis desplaza el complemento cuantificador al verso siguiente. Referencias: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.4, Folger Shakespeare Library, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/; cotejo textual: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.4.html."
+              "gloss": "vale tanto como muchos cónsules",
+              "body": "Menenio sitúa a Volumnia por encima de una ciudad entera de magistrados y patricios. Fuentes: Folger (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/); Brooke, Yale 1924 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V)."
             },
             {
               "term": "A sea and land full",
               "title": "A sea and land full",
               "type": "Nota filológica",
-              "gloss": "un mar y una tierra llenos",
-              "body": "La desmesura contrasta el mérito de Volumnia con la multitud de tribunos, insulto jocoso dirigido a Sicinio. Referencias: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.4, Folger Shakespeare Library, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/; cotejo textual: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.4.html."
+              "gloss": "un mar y una tierra enteros llenos",
+              "body": "Hipérbole espacial con que Menenio rebaja a los tribunos. Fuentes: Folger (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/); Brooke, Yale 1924 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V)."
             },
             {
               "term": "prayed well",
               "title": "prayed well",
               "type": "Nota filológica",
-              "gloss": "has rezado con provecho",
-              "body": "Ironía de Menenio: Sicinio ha pedido auxilio divino cuando ya se había obtenido la salvación. Referencias: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.4, Folger Shakespeare Library, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/; cotejo textual: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.4.html."
+              "gloss": "has rezado con eficacia",
+              "body": "Elogio irónico de Menenio al tribuno al que antes culpaba. Fuentes: Folger (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/); Brooke, Yale 1924 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V)."
             },
             {
               "term": "doit",
               "title": "doit",
               "type": "Nota filológica",
               "gloss": "moneda de valor ínfimo",
-              "body": "Doit designa una pequeña moneda; Menenio declara que antes no habría apostado nada por la supervivencia de los tribunos. Referencias: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.4, Folger Shakespeare Library, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/; cotejo textual: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.4.html.",
+              "body": "La expresión desvaloriza diez mil vidas de tribunos. Fuentes: Folger (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/); Brooke, Yale 1924 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V).",
               "lemma": "doit",
               "lemmaUrl": "https://en.wiktionary.org/wiki/doit"
             },
@@ -29184,9 +29219,16 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "Hark",
               "type": "Nota filológica",
               "gloss": "escucha",
-              "body": "Imperativo de percepción que devuelve la atención al júbilo audible fuera de escena. Referencias: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.4, Folger Shakespeare Library, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/; cotejo textual: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.4.html.",
+              "body": "Imperativo que llama la atención sobre el regocijo sonoro de Roma. Fuentes: Folger (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/); Brooke, Yale 1924 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V).",
               "lemma": "hark",
               "lemmaUrl": "https://en.wiktionary.org/wiki/hark"
+            },
+            {
+              "term": "ten thousand of your throats",
+              "title": "ten thousand of your throats",
+              "type": "Nota filológica",
+              "gloss": "diez mil vidas como la tuya",
+              "body": "Sinécdoque de la vida por la garganta; persiste el desprecio de Menenio. Fuentes: Folger (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/); Brooke, Yale 1924 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V)."
             }
           ]
         },
@@ -29201,7 +29243,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "tidings",
               "type": "Nota filológica",
               "gloss": "noticias",
-              "body": "Sustantivo plural convencional en inglés antiguo y moderno temprano para las novedades comunicadas. Referencias: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.4, Folger Shakespeare Library, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/; cotejo textual: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.4.html.",
+              "body": "El tribuno agradece al mensajero la noticia de la salvación de Roma. Fuentes: Folger (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/); Brooke, Yale 1924 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V).",
               "lemma": "tidings",
               "lemmaUrl": "https://en.wiktionary.org/wiki/tidings"
             }
@@ -29217,8 +29259,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "great cause to give great thanks",
               "title": "great cause to give great thanks",
               "type": "Nota filológica",
-              "gloss": "sobrados motivos para dar las gracias",
-              "body": "La repetición de great intensifica la gratitud colectiva y desplaza el mérito de la noticia hacia la salvación compartida. Referencias: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.4, Folger Shakespeare Library, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/; cotejo textual: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.4.html."
+              "gloss": "grandes motivos para dar gracias",
+              "body": "La repetición de «great» intensifica la gratitud colectiva. Fuentes: Folger (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/); Brooke, Yale 1924 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V)."
             }
           ]
         },
@@ -29239,7 +29281,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "at point to enter",
               "type": "Nota filológica",
               "gloss": "a punto de entrar",
-              "body": "Locución que expresa inminencia; «almost» añade un matiz de proximidad temporal. Referencias: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.4, Folger Shakespeare Library, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/; cotejo textual: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.4.html.",
+              "body": "Construcción que expresa inminencia. Fuentes: Folger (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/); Brooke, Yale 1924 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V).",
               "lemma": "point",
               "lemmaUrl": "https://en.wiktionary.org/wiki/point"
             }
@@ -29255,8 +29297,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "help the joy",
               "title": "help the joy",
               "type": "Nota filológica",
-              "gloss": "sumémonos a la alegría",
-              "body": "Help funciona aquí como «acrecentar» o «contribuir a» la celebración, no como auxiliar a una persona. Referencias: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.4, Folger Shakespeare Library, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/; cotejo textual: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.4.html.",
+              "gloss": "sumarse a la celebración",
+              "body": "«Help» significa contribuir a aumentar el júbilo público. Fuentes: Folger (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/); Brooke, Yale 1924 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V).",
               "lemma": "help",
               "lemmaUrl": "https://en.wiktionary.org/wiki/help"
             }
