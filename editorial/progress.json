@@ -2946,6 +2946,20 @@
         "https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV"
       ],
       "status": "reviewed_with_open_sources_private_books_pending"
+    },
+    {
+      "id": "coriolanus-4-6-2969-3028",
+      "act": 4,
+      "scene": 6,
+      "first_line": 2969,
+      "last_line": 3028,
+      "reviewed_on": "2026-11-17",
+      "scope": "Segunda revisión filológica IV.6 2969–3028: sesenta líneas Folger, 22 bloques completos. Treinta glosas revisadas y tres notas añadidas (33 intervenciones editoriales) sobre acusaciones de los tribunos, contrafactual del consulado, anuncio de dos ejércitos volscos, castigo del informante y rumor corroborado, hipérboles de venganza y sentido histórico de atone. Se reparan dos anclas compuestas inválidas de la interfaz; cotejo Folger y glosario de Brooke (Yale 1924). Sin cambios en/en-es, saltos, IDs ni offsets. QA navegador y cotejo privado pendientes.",
+      "sources": [
+        "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/",
+        "https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV"
+      ],
+      "status": "reviewed_with_open_sources_private_books_pending"
     }
   ],
   "verse_format_reviews": [

@@ -23988,8 +23988,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "comely time",
               "title": "comely time",
               "type": "Nota filológica",
-              "gloss": "tiempo más armonioso y decoroso",
-              "body": "Comely suele significar agradable o decoroso; aplicado al orden cívico, Sicinio presenta la calma como una mejora visible y moral. Lectura contextual, no equivalencia única. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6, FTLN 2958–2981, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; cotejo: First Folio (1623), transcripción en Wikisource, https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_%281910%29/The_Tragedy_of_Coriolanus/Act_4_Scene_6.",
+              "gloss": "época agradable o armoniosa",
+              "body": "Brooke traduce «comely» como «gracious». Sicinio presenta la calma como prosperidad y orden; el público ya conoce la alianza de Coriolano y Aufidio, de modo que la seguridad es irónica. Fuentes: Folger Shakespeare Library, Coriolanus IV.6 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/); C. F. Tucker Brooke, edición Yale de 1924, IV.6 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV).",
               "lemma": "comely",
               "lemmaUrl": "https://en.wiktionary.org/wiki/comely"
             },
@@ -23997,8 +23997,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "Crying confusion",
               "title": "Crying confusion",
               "type": "Nota filológica",
-              "gloss": "gritando y sembrando confusión",
-              "body": "La frase permite oír tanto el clamor callejero como el desorden que se denuncia; la traducción explicita ambos valores posibles. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6, FTLN 2958–2981, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; cotejo: First Folio (1623), transcripción en Wikisource, https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_%281910%29/The_Tragedy_of_Coriolanus/Act_4_Scene_6."
+              "gloss": "clamando por el desorden o la anarquía",
+              "body": "Brooke explica «crying confusion» como «shouting for anarchy». La expresión refleja la hostilidad de Sicinio contra quienes protestaban, no una descripción neutral. Fuentes: Folger Shakespeare Library, Coriolanus IV.6 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/); C. F. Tucker Brooke, edición Yale de 1924, IV.6 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV)."
             }
           ]
         },
@@ -24021,8 +24021,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "past all thinking",
               "title": "past all thinking",
               "type": "Nota filológica",
-              "gloss": "más allá de cuanto pueda imaginarse",
-              "body": "Past es preposición de límite: la ambición excede toda medida concebible. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6, FTLN 2958–2981, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; cotejo: First Folio (1623), transcripción en Wikisource, https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_%281910%29/The_Tragedy_of_Coriolanus/Act_4_Scene_6.",
+              "gloss": "más allá de lo imaginable",
+              "body": "El giro intensifica «ambitious» y conduce a «Self-loving». Bruto admite la valía militar de Marcio, pero presenta sus defectos como justificación de la expulsión. Fuentes: Folger Shakespeare Library, Coriolanus IV.6 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/); C. F. Tucker Brooke, edición Yale de 1924, IV.6 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV).",
               "lemma": "past",
               "lemmaUrl": "https://en.wiktionary.org/wiki/past"
             },
@@ -24030,8 +24030,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "Self-loving",
               "title": "Self-loving",
               "type": "Nota filológica",
-              "gloss": "enamorado de sí mismo",
-              "body": "Compuesto que culmina la enumeración de defectos; la caracterización es acusación política de Bruto, no diagnóstico objetivo. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6, FTLN 2958–2981, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; cotejo: First Folio (1623), transcripción en Wikisource, https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_%281910%29/The_Tragedy_of_Coriolanus/Act_4_Scene_6."
+              "gloss": "egocéntrico, enamorado de sí mismo",
+              "body": "Compuesto que culmina las acusaciones de Bruto; es su juicio político, no la constatación de un narrador. Fuentes: Folger Shakespeare Library, Coriolanus IV.6 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/); C. F. Tucker Brooke, edición Yale de 1924, IV.6 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV)."
             }
           ]
         },
@@ -24045,8 +24045,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "affecting one sole throne",
               "title": "affecting one sole throne",
               "type": "Nota filológica",
-              "gloss": "aspiraba al poder monárquico exclusivo",
-              "body": "Affect puede significar pretender o ambicionar; el trono representa una acusación de inclinación monárquica en el marco republicano. Es la acusación de Sicinio, no un hecho demostrado. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6, FTLN 2958–2981, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; cotejo: First Folio (1623), transcripción en Wikisource, https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_%281910%29/The_Tragedy_of_Coriolanus/Act_4_Scene_6.",
+              "gloss": "aspirando a un trono exclusivo",
+              "body": "«Affecting» significa pretender o ambicionar. Brooke glosa «aiming at individual sovereignty». Sicinio acusa a Coriolano de inclinación monárquica sin demostrar un proyecto concreto. Fuentes: Folger Shakespeare Library, Coriolanus IV.6 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/); C. F. Tucker Brooke, edición Yale de 1924, IV.6 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV).",
               "lemma": "affect",
               "lemmaUrl": "https://en.wiktionary.org/wiki/affect"
             },
@@ -24054,8 +24054,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "without assistance",
               "title": "without assistance",
               "type": "Nota filológica",
-              "gloss": "sin compartir el poder",
-              "body": "La expresión refuerza sole: un mando sin asociados ni contrapesos. La traducción adopta esa lectura política. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6, FTLN 2958–2981, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; cotejo: First Folio (1623), transcripción en Wikisource, https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_%281910%29/The_Tragedy_of_Coriolanus/Act_4_Scene_6."
+              "gloss": "sin asociados en el mando",
+              "body": "La expresión refuerza la hipótesis de autoridad unipersonal: el poder absoluto que los tribunos imputan al desterrado. Fuentes: Folger Shakespeare Library, Coriolanus IV.6 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/); C. F. Tucker Brooke, edición Yale de 1924, IV.6 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV)."
             }
           ]
         },
@@ -24064,7 +24064,15 @@ window.SHAKESPEARE_READER_DATA = {
           "speaker": "menenius",
           "en": "I think not so.",
           "es": "Yo no lo creo.",
-          "notes": []
+          "notes": [
+            {
+              "term": "I think not so",
+              "title": "I think not so",
+              "type": "Nota filológica",
+              "gloss": "no lo creo",
+              "body": "Menenio responde brevemente a la acusación de monarquismo, en contraste con su posterior incredulidad ante la alianza con Aufidio. Fuentes: Folger Shakespeare Library, Coriolanus IV.6 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/); C. F. Tucker Brooke, edición Yale de 1924, IV.6 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV)."
+            }
+          ]
         },
         {
           "line": "2978–2979",
@@ -24073,18 +24081,18 @@ window.SHAKESPEARE_READER_DATA = {
           "es": "A estas alturas, para desgracia de todos,\nsi hubiera llegado a ser cónsul, ya habríamos comprobado que era así.",
           "notes": [
             {
-              "term": "We should ... found it so",
-              "title": "We should ... found it so",
+              "term": "We should by this",
+              "title": "We should by this",
               "type": "Nota filológica",
-              "gloss": "habríamos comprobado que era así",
-              "body": "Condicional contrafactual: should have found, con el auxiliar have elidido o absorbido en la construcción del verso; la frase atribuye una consecuencia hipotética a un consulado que no ocurrió. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6, FTLN 2958–2981, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; cotejo: First Folio (1623), transcripción en Wikisource, https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_%281910%29/The_Tragedy_of_Coriolanus/Act_4_Scene_6."
+              "gloss": "ya lo habríamos descubierto a estas alturas",
+              "body": "Brooke explica «by this» como «by this time» y «found» como «have found». La frase es contrafactual: Coriolano nunca ejerció el consulado que permitiría comprobar la acusación. Fuentes: Folger Shakespeare Library, Coriolanus IV.6 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/); C. F. Tucker Brooke, edición Yale de 1924, IV.6 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV)."
             },
             {
               "term": "gone forth consul",
               "title": "gone forth consul",
               "type": "Nota filológica",
-              "gloss": "llegado a ser cónsul",
-              "body": "Go forth señala el acceso al cargo público, no un desplazamiento físico. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6, FTLN 2958–2981, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; cotejo: First Folio (1623), transcripción en Wikisource, https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_%281910%29/The_Tragedy_of_Coriolanus/Act_4_Scene_6.",
+              "gloss": "haber llegado a ser cónsul",
+              "body": "Brooke entiende «gone forth» como convertirse finalmente en cónsul; no es un movimiento físico. Fuentes: Folger Shakespeare Library, Coriolanus IV.6 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/); C. F. Tucker Brooke, edición Yale de 1924, IV.6 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV).",
               "lemma": "go",
               "lemmaUrl": "https://en.wiktionary.org/wiki/go"
             }
@@ -24110,7 +24118,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "Sits safe and still",
               "type": "Nota filológica",
               "gloss": "permanece segura y tranquila",
-              "body": "La personificación de Roma en reposo intensifica la ironía dramática: el público conoce la alianza militar del desterrado. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6, FTLN 2958–2981, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; cotejo: First Folio (1623), transcripción en Wikisource, https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_%281910%29/The_Tragedy_of_Coriolanus/Act_4_Scene_6."
+              "body": "Roma se personifica en reposo, pero las noticias de guerra desmienten enseguida la tranquilidad que Bruto proclama. Fuentes: Folger Shakespeare Library, Coriolanus IV.6 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/); C. F. Tucker Brooke, edición Yale de 1924, IV.6 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV)."
             }
           ]
         },
@@ -24124,22 +24132,22 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "two several powers",
               "title": "two several powers",
               "type": "Nota filológica",
-              "gloss": "dos ejércitos distintos",
-              "body": "Power designa aquí una fuerza armada; several significa separadas o distintas, no necesariamente numerosas. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; cotejo textual: First Folio (1623), transcripción en Wikisource, https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_%281910%29/The_Tragedy_of_Coriolanus/Act_4_Scene_6."
+              "gloss": "dos fuerzas militares distintas",
+              "body": "«Powers» significa contingentes militares, y «several» indica separación, no abundancia. La noticia anticipa la dirección compartida de la invasión. Fuentes: Folger Shakespeare Library, Coriolanus IV.6 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/); C. F. Tucker Brooke, edición Yale de 1924, IV.6 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV)."
             },
             {
               "term": "deepest malice of the war",
               "title": "deepest malice of the war",
               "type": "Nota filológica",
-              "gloss": "toda la crueldad de la guerra",
-              "body": "La personificación de la guerra intensifica la descripción de los estragos. Malice apunta a la hostilidad destructiva, no a un delito jurídico. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; cotejo textual: First Folio (1623), transcripción en Wikisource, https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_%281910%29/The_Tragedy_of_Coriolanus/Act_4_Scene_6."
+              "gloss": "la hostilidad más destructiva de la guerra",
+              "body": "La guerra recibe metafóricamente una voluntad maliciosa. El edil describe devastación real, aunque sus superiores desconfían del testimonio. Fuentes: Folger Shakespeare Library, Coriolanus IV.6 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/); C. F. Tucker Brooke, edición Yale de 1924, IV.6 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV)."
             },
             {
               "term": "slave",
               "title": "slave",
               "type": "Nota filológica",
-              "gloss": "esclavo",
-              "body": "El mensajero original está encarcelado antes de que se investigue su informe; el texto pone en escena una reacción represiva a una noticia incómoda. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; cotejo textual: First Folio (1623), transcripción en Wikisource, https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_%281910%29/The_Tragedy_of_Coriolanus/Act_4_Scene_6."
+              "gloss": "esclavo informante",
+              "body": "El primer denunciante es encarcelado antes de que se compruebe su noticia; la escena critica la respuesta represiva contra una fuente incómoda. Fuentes: Folger Shakespeare Library, Coriolanus IV.6 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/); C. F. Tucker Brooke, edición Yale de 1924, IV.6 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV)."
             }
           ]
         },
@@ -24154,14 +24162,14 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "Thrusts forth his horns",
               "type": "Nota filológica",
               "gloss": "vuelve a sacar los cuernos",
-              "body": "La imagen animal sugiere un ser que sale de su refugio; inshelled prolonga la comparación con un animal provisto de concha, como el caracol. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; cotejo textual: First Folio (1623), transcripción en Wikisource, https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_%281910%29/The_Tragedy_of_Coriolanus/Act_4_Scene_6."
+              "body": "La imagen de un animal provisto de concha figura el valor renovado de Aufidio tras la salida de Marcio. Brooke remite a una nota ampliatoria. Fuentes: Folger Shakespeare Library, Coriolanus IV.6 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/); C. F. Tucker Brooke, edición Yale de 1924, IV.6 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV)."
             },
             {
               "term": "inshelled",
               "title": "inshelled",
               "type": "Nota filológica",
-              "gloss": "metidos en su concha",
-              "body": "Participio figurado de inshell: encerrados en una concha; Menenio ridiculiza así la cautela previa de Aufidio. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; cotejo textual: First Folio (1623), transcripción en Wikisource, https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_%281910%29/The_Tragedy_of_Coriolanus/Act_4_Scene_6.",
+              "gloss": "escondidos en una concha",
+              "body": "Brooke glosa «inshell'd» como «drawn within the shell»: la comparación ridiculiza la cautela previa de Aufidio. Fuentes: Folger Shakespeare Library, Coriolanus IV.6 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/); C. F. Tucker Brooke, edición Yale de 1924, IV.6 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV).",
               "lemma": "inshell",
               "lemmaUrl": "https://en.wiktionary.org/wiki/inshell"
             },
@@ -24173,6 +24181,13 @@ window.SHAKESPEARE_READER_DATA = {
               "body": "Forma histórica del pasado de dare, aquí negada con not; no debe leerse como presente. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; cotejo textual: First Folio (1623), transcripción en Wikisource, https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_%281910%29/The_Tragedy_of_Coriolanus/Act_4_Scene_6.",
               "lemma": "dare",
               "lemmaUrl": "https://en.wiktionary.org/wiki/dare"
+            },
+            {
+              "term": "stood for Rome",
+              "title": "stood for Rome",
+              "type": "Nota filológica",
+              "gloss": "defendía a Roma",
+              "body": "Brooke glosa «stood for» como «was champion of»: Marcio era defensor militar de Roma; su expulsión libera el avance de Aufidio. Fuentes: Folger Shakespeare Library, Coriolanus IV.6 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/); C. F. Tucker Brooke, edición Yale de 1924, IV.6 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV)."
             }
           ]
         },
@@ -24193,15 +24208,15 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "rumorer",
               "title": "rumorer",
               "type": "Nota filológica",
-              "gloss": "propagador de rumores",
-              "body": "Bruto descalifica al informante sin verificar la noticia; el sustantivo identifica a quien difunde un rumor, no demuestra que mienta. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; cotejo textual: First Folio (1623), transcripción en Wikisource, https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_%281910%29/The_Tragedy_of_Coriolanus/Act_4_Scene_6."
+              "gloss": "supuesto propagador de rumores",
+              "body": "La palabra desacredita al informante sin acreditar que mienta. Bruto ordena su castigo antes de investigar los hechos. Fuentes: Folger Shakespeare Library, Coriolanus IV.6 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/); C. F. Tucker Brooke, edición Yale de 1924, IV.6 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV)."
             },
             {
               "term": "break with us",
               "title": "break with us",
               "type": "Nota filológica",
               "gloss": "romper la paz con nosotros",
-              "body": "Break with expresa ruptura de relaciones o de la paz; la amenaza es militar, no una mera discusión. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; cotejo textual: First Folio (1623), transcripción en Wikisource, https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_%281910%29/The_Tragedy_of_Coriolanus/Act_4_Scene_6.",
+              "body": "Se refiere a una ruptura militar, no meramente verbal: los tribunos creen que la invasión es imposible. Fuentes: Folger Shakespeare Library, Coriolanus IV.6 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/); C. F. Tucker Brooke, edición Yale de 1924, IV.6 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV).",
               "lemma": "break",
               "lemmaUrl": "https://en.wiktionary.org/wiki/break"
             }
@@ -24218,7 +24233,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "three examples of the like hath been",
               "type": "Nota filológica",
               "gloss": "ha habido tres casos semejantes",
-              "body": "Hath aparece con sujeto plural en esta construcción temprana; Menenio apela a la memoria histórica, pero no identifica los tres episodios. No corresponde asignarles acontecimientos concretos sin prueba. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; cotejo textual: First Folio (1623), transcripción en Wikisource, https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_%281910%29/The_Tragedy_of_Coriolanus/Act_4_Scene_6.",
+              "body": "La construcción usa «hath» pese al sujeto plural. Menenio invoca tres antecedentes dentro de su vida, pero no los identifica; no corresponde asignarles episodios específicos. Fuentes: Folger Shakespeare Library, Coriolanus IV.6 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/); C. F. Tucker Brooke, edición Yale de 1924, IV.6 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV).",
               "lemma": "have",
               "lemmaUrl": "https://en.wiktionary.org/wiki/have"
             },
@@ -24226,8 +24241,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "reason with the fellow",
               "title": "reason with the fellow",
               "type": "Nota filológica",
-              "gloss": "pregunta a ese hombre",
-              "body": "Reason with significa aquí interrogar o conversar para averiguar el origen de la noticia, no necesariamente persuadirlo de cambiar de opinión. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; cotejo textual: First Folio (1623), transcripción en Wikisource, https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_%281910%29/The_Tragedy_of_Coriolanus/Act_4_Scene_6.",
+              "gloss": "interrogar al informante",
+              "body": "Menenio pide averiguar la procedencia de la noticia antes de castigar a su portador. «Reason with» no significa necesariamente intentar convencerlo. Fuentes: Folger Shakespeare Library, Coriolanus IV.6 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/); C. F. Tucker Brooke, edición Yale de 1924, IV.6 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV).",
               "lemma": "reason",
               "lemmaUrl": "https://en.wiktionary.org/wiki/reason"
             },
@@ -24235,8 +24250,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "whip your information",
               "title": "whip your information",
               "type": "Nota filológica",
-              "gloss": "azotando a tu propia fuente de información",
-              "body": "Metonimia: castigar al informante equivale a destruir la vía por la que llega una advertencia útil. La expresión anticipa la máxima moderna de no castigar al mensajero. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; cotejo textual: First Folio (1623), transcripción en Wikisource, https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_%281910%29/The_Tragedy_of_Coriolanus/Act_4_Scene_6."
+              "gloss": "azotar a quien trae la información",
+              "body": "Metonimia: castigar al mensajero equivale a atacar la propia información. Menenio propone verificar el contenido antes de decidir una sanción. Fuentes: Folger Shakespeare Library, Coriolanus IV.6 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/); C. F. Tucker Brooke, edición Yale de 1924, IV.6 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV)."
             }
           ]
         },
@@ -24251,7 +24266,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "Tell not me",
               "type": "Nota filológica",
               "gloss": "no me vengas con eso",
-              "body": "Imperativo negativo enfático; Sicinio rechaza el razonamiento sin responder a las pruebas aducidas. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; cotejo textual: First Folio (1623), transcripción en Wikisource, https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_%281910%29/The_Tragedy_of_Coriolanus/Act_4_Scene_6.",
+              "body": "El imperativo negativo rechaza el razonamiento de Menenio; Sicinio reafirma su certeza sin atender a la prueba. Fuentes: Folger Shakespeare Library, Coriolanus IV.6 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/); C. F. Tucker Brooke, edición Yale de 1924, IV.6 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV).",
               "lemma": "tell",
               "lemmaUrl": "https://en.wiktionary.org/wiki/tell"
             }
@@ -24274,8 +24289,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "turns their countenances",
               "title": "turns their countenances",
               "type": "Nota filológica",
-              "gloss": "les cambia la expresión",
-              "body": "La noticia se comunica primero por sus efectos visibles en los rostros de los patricios; la naturaleza de la amenaza aún se demora. Observación retórica derivada del pasaje. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus, IV.6 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; First Folio (1623), transcripción diplomática en Wikisource, https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_4_Scene_6; léxico: https://en.wiktionary.org/wiki/countenance",
+              "gloss": "les cambia el semblante",
+              "body": "Las noticias se manifiestan primero en los rostros preocupados de los patricios, antes de conocerse su contenido. Fuentes: Folger Shakespeare Library, Coriolanus IV.6 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/); C. F. Tucker Brooke, edición Yale de 1924, IV.6 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV).",
               "lemma": "countenance",
               "lemmaUrl": "https://en.wiktionary.org/wiki/countenance"
             }
@@ -24291,8 +24306,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "his raising",
               "title": "his raising",
               "type": "Nota filológica",
-              "gloss": "alboroto inventado por él",
-              "body": "La sintaxis comprimida atribuye al esclavo el origen de la alarma. La puntuación moderna conserva una dificultad del pasaje: el Folio escribe «His raising, / Nothing but his report». Se interpreta como una acusación de haber levantado el rumor, no como un hecho comprobado; cotejo: Shakespeare Online, Coriolanus IV.6, https://www.shakespeare-online.com/plays/corio_4_6.html Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus, IV.6 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; First Folio (1623), transcripción diplomática en Wikisource, https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_4_Scene_6"
+              "gloss": "alarma que él ha provocado",
+              "body": "Sicinio atribuye al esclavo la invención o propagación del alboroto y pide azotarlo públicamente; es su acusación, no un hecho acreditado. Fuentes: Folger Shakespeare Library, Coriolanus IV.6 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/); C. F. Tucker Brooke, edición Yale de 1924, IV.6 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV)."
             }
           ]
         },
@@ -24306,8 +24321,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "seconded",
               "title": "seconded",
               "type": "Nota filológica",
-              "gloss": "corroborado",
-              "body": "Seconded significa que otras voces respaldan la noticia. La insistencia en «more, / More fearful» intensifica la amenaza mediante repetición. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus, IV.6 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; First Folio (1623), transcripción diplomática en Wikisource, https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_4_Scene_6; léxico: https://en.wiktionary.org/wiki/second",
+              "gloss": "corroborado por otros testimonios",
+              "body": "La noticia inicial es apoyada por más informantes, y el mensajero advierte que hay información todavía más alarmante. Fuentes: Folger Shakespeare Library, Coriolanus IV.6 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/); C. F. Tucker Brooke, edición Yale de 1924, IV.6 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV).",
               "lemma": "second",
               "lemmaUrl": "https://en.wiktionary.org/wiki/second"
             }
@@ -24331,18 +24346,25 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "It is spoke",
               "type": "Nota filológica",
               "gloss": "se dice",
-              "body": "Participio spoke donde hoy se esperaría spoken: uso histórico del inglés moderno temprano. El mensajero señala explícitamente que transmite testimonios, no una comprobación personal. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus, IV.6 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; First Folio (1623), transcripción diplomática en Wikisource, https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_4_Scene_6; léxico: https://en.wiktionary.org/wiki/speak",
+              "body": "«Spoke» se emplea como participio pasivo donde hoy suele usarse «spoken». El mensajero menciona múltiples voces, pero reconoce que desconoce su probabilidad. Fuentes: Folger Shakespeare Library, Coriolanus IV.6 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/); C. F. Tucker Brooke, edición Yale de 1924, IV.6 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV).",
               "lemma": "speak",
               "lemmaUrl": "https://en.wiktionary.org/wiki/speak"
             },
             {
-              "term": "as spacious as between / The young’st and oldest thing",
-              "title": "as spacious as between / The young’st and oldest thing",
+              "term": "as spacious as between",
+              "title": "as spacious as between",
               "type": "Nota filológica",
-              "gloss": "tan vasta como toda la existencia",
-              "body": "Hipérbole de alcance temporal: los extremos de lo recién nacido y lo antiquísimo sirven para imaginar una venganza sin límites. Es una interpretación de la imagen, no una medida literal. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus, IV.6 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; First Folio (1623), transcripción diplomática en Wikisource, https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_4_Scene_6; léxico: https://en.wiktionary.org/wiki/spacious",
+              "gloss": "tan vasta como la distancia entre los extremos",
+              "body": "La imagen es una hipérbole de alcance ilimitado entre «the young’st and oldest thing». Se evita interpretarla como distancia mensurable. Fuentes: Folger Shakespeare Library, Coriolanus IV.6 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/); C. F. Tucker Brooke, edición Yale de 1924, IV.6 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV).",
               "lemma": "spacious",
               "lemmaUrl": "https://en.wiktionary.org/wiki/spacious"
+            },
+            {
+              "term": "How probable I do not know",
+              "title": "How probable I do not know",
+              "type": "Nota filológica",
+              "gloss": "no sé hasta qué punto es verosímil",
+              "body": "El mensajero distingue testimonio difundido y verificación personal, mientras los tribunos insisten en una certeza infundada. Fuentes: Folger Shakespeare Library, Coriolanus IV.6 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/); C. F. Tucker Brooke, edición Yale de 1924, IV.6 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV)."
             }
           ]
         },
@@ -24356,8 +24378,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "This is most likely!",
               "title": "This is most likely!",
               "type": "Nota filológica",
-              "gloss": "¡Sí, claro, muy creíble!",
-              "body": "La exclamación admite una lectura irónica: Sicinio continúa negando la información y Bruto la atribuye enseguida a una maniobra. La entonación concreta depende de la representación. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus, IV.6 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; First Folio (1623), transcripción diplomática en Wikisource, https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_4_Scene_6; léxico: https://en.wiktionary.org/wiki/likely",
+              "gloss": "¡sí, claro, muy creíble! (ironía probable)",
+              "body": "Aunque aisladamente pueda parecer afirmativa, la réplica de Bruto y las negativas previas favorecen la lectura sarcástica; la entonación queda abierta. Fuentes: Folger Shakespeare Library, Coriolanus IV.6 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/); C. F. Tucker Brooke, edición Yale de 1924, IV.6 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV).",
               "lemma": "likely",
               "lemmaUrl": "https://en.wiktionary.org/wiki/likely"
             }
@@ -24373,8 +24395,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "the weaker sort",
               "title": "the weaker sort",
               "type": "Nota filológica",
-              "gloss": "la gente más impresionable",
-              "body": "Sort designa un grupo o clase de personas; weaker expresa aquí el desprecio de Bruto por quienes, según él, pueden ser manipulados por el miedo. No debe confundirse con una incapacidad física. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus, IV.6 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; First Folio (1623), transcripción diplomática en Wikisource, https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_4_Scene_6; léxico: https://en.wiktionary.org/wiki/sort",
+              "gloss": "los más crédulos o impresionables",
+              "body": "«Sort» designa un sector de personas, cuya supuesta debilidad ante la propaganda es una imputación despectiva de Bruto. Fuentes: Folger Shakespeare Library, Coriolanus IV.6 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/); C. F. Tucker Brooke, edición Yale de 1924, IV.6 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV).",
               "lemma": "sort",
               "lemmaUrl": "https://en.wiktionary.org/wiki/sort"
             }
@@ -24390,8 +24412,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "on ’t",
               "title": "on ’t",
               "type": "Nota filológica",
-              "gloss": "de ello; del asunto",
-              "body": "Contracción de on it; la frase equivale a decir que esa es precisamente la trampa o estratagema. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus, IV.6 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; First Folio (1623), transcripción diplomática en Wikisource, https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_4_Scene_6; léxico: https://en.wiktionary.org/wiki/on",
+              "gloss": "del asunto, de ello",
+              "body": "Contracción de «on it»; Sicinio aprueba la teoría de que los rumores buscan restaurar la popularidad de Coriolano. Fuentes: Folger Shakespeare Library, Coriolanus IV.6 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/); C. F. Tucker Brooke, edición Yale de 1924, IV.6 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV).",
               "lemma": "on",
               "lemmaUrl": "https://en.wiktionary.org/wiki/on"
             }
@@ -24407,8 +24429,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "atone",
               "title": "atone",
               "type": "Nota filológica",
-              "gloss": "ponerse de acuerdo; reconciliarse",
-              "body": "Sentido histórico de atone, «hacerse uno», «concordar», no el valor moderno dominante de «expiar». Menenio se equivoca precisamente porque desconoce la alianza ya celebrada en IV.5. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus, IV.6 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; First Folio (1623), transcripción diplomática en Wikisource, https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_4_Scene_6; léxico: https://en.wiktionary.org/wiki/atone",
+              "gloss": "reconciliarse, llegar a concordar",
+              "body": "Brooke glosa «atone» como «grow reconciled». Menenio descarta erróneamente la alianza de los antiguos rivales, ya realizada en IV.5. Fuentes: Folger Shakespeare Library, Coriolanus IV.6 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/); C. F. Tucker Brooke, edición Yale de 1924, IV.6 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV).",
               "lemma": "atone",
               "lemmaUrl": "https://en.wiktionary.org/wiki/atone"
             },
@@ -24416,8 +24438,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "violent’st contrariety",
               "title": "violent’st contrariety",
               "type": "Nota filológica",
-              "gloss": "la oposición más extrema",
-              "body": "Superlativo contraído de violentest y sustantivo abstracto contrariety. La imposibilidad se formula como comparación paradójica entre antiguos enemigos y fuerzas contrarias. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus, IV.6 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/; First Folio (1623), transcripción diplomática en Wikisource, https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_4_Scene_6; léxico: https://en.wiktionary.org/wiki/contrariety",
+              "gloss": "la oposición más violenta",
+              "body": "El superlativo abreviado y el sustantivo «contrariety» presentan su enemistad como insuperable. La ironía consiste en que ya están reconciliados. Fuentes: Folger Shakespeare Library, Coriolanus IV.6 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/); C. F. Tucker Brooke, edición Yale de 1924, IV.6 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV).",
               "lemma": "contrariety",
               "lemmaUrl": "https://en.wiktionary.org/wiki/contrariety"
             }
