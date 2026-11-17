@@ -22931,8 +22931,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "you wot one",
               "title": "you wot one",
               "type": "Nota filológica",
-              "gloss": "tú conoces a uno",
-              "body": "Wot es forma histórica del verbo wit, «saber, conocer»; el criado insinúa a Aufidio. Fuentes: Folger Shakespeare Library, Coriolanus IV.5, FTLN 2840–2865, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; Shakespeare Online, IV.5, https://www.shakespeare-online.com/plays/corio_4_5.html.",
+              "gloss": "conocés a uno, sabés de quién hablo",
+              "body": "«Wot» es forma arcaica de «know»; el criado alude a Aufidio sin nombrarlo. La lectura de Folger ofrece «one», mientras la edición de Brooke imprime «on» («you wot on»); no corresponde afirmar que se trata de dos personas distintas. Fuentes: Folger Shakespeare Library, Coriolanus IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); C. F. Tucker Brooke, edición Yale de 1924, acto IV, escena 5 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV).",
               "lemma": "wit",
               "lemmaUrl": "https://en.wiktionary.org/wiki/wit"
             }
@@ -22963,7 +22963,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "Worth six on him",
               "type": "Nota filológica",
               "gloss": "vale por seis como él",
-              "body": "On equivale a of en esta comparación coloquial; se trata de una hipérbole a favor de Aufidio. Fuentes: Folger Shakespeare Library, Coriolanus IV.5, FTLN 2840–2865, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; Shakespeare Online, IV.5, https://www.shakespeare-online.com/plays/corio_4_5.html."
+              "body": "La expresión comparativa «worth six on him» exagera la valía de Aufidio frente a Coriolano. Es una hipérbole de lealtad del criado y no una proporción literal. Fuentes: Folger Shakespeare Library, Coriolanus IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); C. F. Tucker Brooke, edición Yale de 1924, acto IV, escena 5 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV)."
             }
           ]
         },
@@ -22984,8 +22984,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "Faith",
               "title": "Faith",
               "type": "Nota filológica",
-              "gloss": "a fe mía",
-              "body": "Interjección procedente de una fórmula de juramento; introduce una rectificación prudente. Fuentes: Folger Shakespeare Library, Coriolanus IV.5, FTLN 2840–2865, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; Shakespeare Online, IV.5, https://www.shakespeare-online.com/plays/corio_4_5.html.",
+              "gloss": "a fe mía, de veras",
+              "body": "Interjección que introduce una reserva diplomática: el criado evita escoger inequívocamente entre los dos generales y elogia la defensa de plazas. Fuentes: Folger Shakespeare Library, Coriolanus IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); C. F. Tucker Brooke, edición Yale de 1924, acto IV, escena 5 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV).",
               "lemma": "faith",
               "lemmaUrl": "https://en.wiktionary.org/wiki/faith"
             }
@@ -23015,8 +23015,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "Let’s partake",
               "title": "Let’s partake",
               "type": "Nota filológica",
-              "gloss": "¡cuéntanos!",
-              "body": "Partake significa participar o compartir; aquí los criados piden participar de las noticias, no de una comida, pese al banquete de fondo. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus, IV.5, FTLN 2866–2886, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; William Shakespeare, Coriolanus, IV.5, Shakespeare Online, https://www.shakespeare-online.com/plays/corio_4_5.html.",
+              "gloss": "¡compartí la noticia con nosotros!",
+              "body": "«Partake» significa aquí participar de la información o tener parte en ella, como indica Brooke («let us share it»), no compartir comida, aunque estén en un banquete. Fuentes: Folger Shakespeare Library, Coriolanus IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); C. F. Tucker Brooke, edición Yale de 1924, acto IV, escena 5 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV).",
               "lemma": "partake",
               "lemmaUrl": "https://en.wiktionary.org/wiki/partake"
             }
@@ -23032,8 +23032,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "had as lief",
               "title": "had as lief",
               "type": "Nota filológica",
-              "gloss": "preferiría",
-              "body": "Construcción idiomática histórica de preferencia, con had y lief ('gustosamente'); no expresa literalmente una obligación. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus, IV.5, FTLN 2866–2886, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; William Shakespeare, Coriolanus, IV.5, Shakespeare Online, https://www.shakespeare-online.com/plays/corio_4_5.html.",
+              "gloss": "preferiría; me daría lo mismo",
+              "body": "«Had as lief» expresa preferencia por una alternativa que se considera igualmente mala: más valdría ser un condenado que un romano ante la nueva amenaza. Fuentes: Folger Shakespeare Library, Coriolanus IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); C. F. Tucker Brooke, edición Yale de 1924, acto IV, escena 5 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV).",
               "lemma": "lief",
               "lemmaUrl": "https://en.wiktionary.org/wiki/lief"
             }
@@ -23063,13 +23063,20 @@ window.SHAKESPEARE_READER_DATA = {
           "es": "¡Pues aquí está Cayo Marcio, el que solía\ndarle palizas a nuestro general!",
           "notes": [
             {
-              "term": "was wont to / thwack",
-              "title": "was wont to / thwack",
+              "term": "thwack",
+              "title": "thwack",
               "type": "Nota filológica",
-              "gloss": "solía / dar palizas",
-              "body": "Wont to indica costumbre pasada; thwack es un verbo coloquial de golpear con fuerza. La fanfarronería del criado reduce los duelos militares a una paliza. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus, IV.5, FTLN 2866–2886, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; William Shakespeare, Coriolanus, IV.5, Shakespeare Online, https://www.shakespeare-online.com/plays/corio_4_5.html.",
+              "gloss": "golpear, dar una paliza",
+              "body": "Brooke glosa «thwack» como «beat». La expresión anterior «was wont to» indica una acción habitual: el tercero rememora las derrotas de Aufidio a manos de Marcio. Fuentes: Folger Shakespeare Library, Coriolanus IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); C. F. Tucker Brooke, edición Yale de 1924, acto IV, escena 5 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV).",
               "lemma": "wont",
               "lemmaUrl": "https://en.wiktionary.org/wiki/wont"
+            },
+            {
+              "term": "wont to",
+              "title": "wont to",
+              "type": "Nota filológica",
+              "gloss": "solía, acostumbraba a",
+              "body": "La construcción «was wont to» marca repetición habitual en el pasado y amplifica la humillación del general volscio. Fuentes: Folger Shakespeare Library, Coriolanus IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); C. F. Tucker Brooke, edición Yale de 1924, acto IV, escena 5 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV)."
             }
           ]
         },
@@ -23090,8 +23097,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "good enough for him",
               "title": "good enough for him",
               "type": "Nota filológica",
-              "gloss": "más que capaz de enfrentarlo",
-              "body": "Expresión elíptica y deliberadamente evasiva: tras la protesta, el criado suaviza la afirmación sin negar la superioridad militar de Marcio. Esta explicación es contextual, no una variante textual. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus, IV.5, FTLN 2866–2886, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; William Shakespeare, Coriolanus, IV.5, Shakespeare Online, https://www.shakespeare-online.com/plays/corio_4_5.html."
+              "gloss": "rival de sobra capaz de vencerlo",
+              "body": "La retirada verbal del criado atenúa «thwack» sin negar la superioridad de Coriolano; su fórmula cortés sigue admitiendo que era un adversario formidable. Fuentes: Folger Shakespeare Library, Coriolanus IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); C. F. Tucker Brooke, edición Yale de 1924, acto IV, escena 5 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV)."
             }
           ]
         },
@@ -23105,8 +23112,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "too hard for him",
               "title": "too hard for him",
               "type": "Nota filológica",
-              "gloss": "superior a él",
-              "body": "Too hard for equivale aquí a ser un adversario demasiado fuerte para otro; el segundo criado pasa de defender a su general a admitir su inferioridad. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus, IV.5, FTLN 2866–2886, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; William Shakespeare, Coriolanus, IV.5, Shakespeare Online, https://www.shakespeare-online.com/plays/corio_4_5.html.",
+              "gloss": "demasiado fuerte para él; superior a él",
+              "body": "«Too hard for» indica que Aufidio no podía imponerse a Coriolano. Se intensifica la rivalidad entre subordinados que compiten por interpretar las hazañas de sus jefes. Fuentes: Folger Shakespeare Library, Coriolanus IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); C. F. Tucker Brooke, edición Yale de 1924, acto IV, escena 5 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV).",
               "lemma": "hard",
               "lemmaUrl": "https://en.wiktionary.org/wiki/hard"
             }
@@ -23119,13 +23126,20 @@ window.SHAKESPEARE_READER_DATA = {
           "es": "Era claramente superior a él, a decir\nverdad: ante Corioles lo llenó de cortes y tajos,\ncomo si fuera un trozo de carne preparado para asar.",
           "notes": [
             {
-              "term": "scotched / notched / carbonado",
-              "title": "scotched / notched / carbonado",
+              "term": "scotched",
+              "title": "scotched",
               "type": "Nota filológica",
-              "gloss": "hizo cortes / muescas / carne tajada para asar",
-              "body": "Scotch y notch describen incisiones; carbonado es una pieza de carne marcada con cortes para cocinarla. La comparación culinaria rebaja cómicamente el duelo heroico al contexto del banquete. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus, IV.5, FTLN 2866–2886, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; William Shakespeare, Coriolanus, IV.5, Shakespeare Online, https://www.shakespeare-online.com/plays/corio_4_5.html.",
+              "gloss": "le hizo cortes, lo tajó",
+              "body": "«Scotched» significa hizo tajos o incisiones, no «escoció» ni «quemó». Brooke lo explica como «slashed» y distingue después «notched» (cortó o marcó con muescas). Fuentes: Folger Shakespeare Library, Coriolanus IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); C. F. Tucker Brooke, edición Yale de 1924, acto IV, escena 5 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV).",
               "lemma": "carbonado",
               "lemmaUrl": "https://en.wiktionary.org/wiki/carbonado"
+            },
+            {
+              "term": "carbonado",
+              "title": "carbonado",
+              "type": "Nota filológica",
+              "gloss": "carne cortada para asarla",
+              "body": "«Carbonado» designa un pedazo de carne marcado con tajos para asarse. La comparación convierte grotescamente el cuerpo herido del general en carne preparada para la parrilla. Fuentes: Folger Shakespeare Library, Coriolanus IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); C. F. Tucker Brooke, edición Yale de 1924, acto IV, escena 5 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV)."
             }
           ]
         },
@@ -23136,13 +23150,20 @@ window.SHAKESPEARE_READER_DATA = {
           "es": "Si hubiera tenido inclinaciones caníbales,\ntambién podría haberlo hervido y comido.",
           "notes": [
             {
-              "term": "An / cannibally given",
-              "title": "An / cannibally given",
+              "term": "cannibally given",
+              "title": "cannibally given",
               "type": "Nota filológica",
-              "gloss": "si / inclinado al canibalismo",
-              "body": "An funciona como conjunción condicional arcaica; given expresa disposición o inclinación. El chiste prolonga la metáfora culinaria del carbonado. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus, IV.5, FTLN 2866–2886, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; William Shakespeare, Coriolanus, IV.5, Shakespeare Online, https://www.shakespeare-online.com/plays/corio_4_5.html.",
+              "gloss": "inclinado al canibalismo",
+              "body": "«Given» expresa tendencia o afición; el criado prolonga con humor macabro la metáfora gastronómica del «carbonado». La escena no insinúa que Coriolano sea realmente caníbal. Fuentes: Folger Shakespeare Library, Coriolanus IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); C. F. Tucker Brooke, edición Yale de 1924, acto IV, escena 5 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV).",
               "lemma": "an",
               "lemmaUrl": "https://en.wiktionary.org/wiki/an"
+            },
+            {
+              "term": "An he",
+              "title": "An he",
+              "type": "Nota filológica",
+              "gloss": "si hubiera; si él",
+              "body": "«An» funciona como conjunción condicional equivalente a «if»; la frase plantea una hipótesis grotesca, no una acción ocurrida. Fuentes: Folger Shakespeare Library, Coriolanus IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); C. F. Tucker Brooke, edición Yale de 1924, acto IV, escena 5 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV)."
             }
           ]
         },
@@ -23163,8 +23184,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "made on",
               "title": "made on",
               "type": "Nota filológica",
-              "gloss": "agasajado, tratado con grandes honores",
-              "body": "La locución expresa el extraordinario favor que recibe el recién llegado; el criado exagera la deferencia de los nobles. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.5, FTLN 2887–2899, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; Shakespeare Online, Coriolanus IV.5, https://www.shakespeare-online.com/plays/corio_4_5.html.",
+              "gloss": "agasajado, tratado con sumo favor",
+              "body": "La expresión significa «made much of» o «pampered» según Brooke: el antiguo enemigo recibe trato de invitado de honor, no de prisionero. Fuentes: Folger Shakespeare Library, Coriolanus IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); C. F. Tucker Brooke, edición Yale de 1924, acto IV, escena 5 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV).",
               "lemma": "make",
               "lemmaUrl": "https://en.wiktionary.org/wiki/make"
             },
@@ -23173,23 +23194,23 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "son and heir to Mars",
               "type": "Nota filológica",
               "gloss": "hijo y heredero de Marte",
-              "body": "La filiación imaginaria con el dios romano de la guerra magnifica la autoridad militar de Coriolano. Es una hipérbole del criado, no una genealogía mitológica literal. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.5, FTLN 2887–2899, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; Shakespeare Online, Coriolanus IV.5, https://www.shakespeare-online.com/plays/corio_4_5.html."
+              "body": "La divinización militar es hiperbólica y procede de los criados, no de un título oficial: al compararlo con Marte se lleva la admiración a un tono burlesco. Fuentes: Folger Shakespeare Library, Coriolanus IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); C. F. Tucker Brooke, edición Yale de 1924, acto IV, escena 5 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV)."
             },
             {
               "term": "stand bald before him",
               "title": "stand bald before him",
               "type": "Nota filológica",
-              "gloss": "se descubren la cabeza ante él",
-              "body": "Bald alude aquí a estar sin sombrero, como señal de respeto, no necesariamente a la calvicie natural. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.5, FTLN 2887–2899, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; Shakespeare Online, Coriolanus IV.5, https://www.shakespeare-online.com/plays/corio_4_5.html.",
+              "gloss": "se descubren ante él por respeto",
+              "body": "«Bald» indica que se quitan los sombreros o van con la cabeza descubierta, gesto ceremonial de deferencia. No implica que todos los senadores sean calvos. Fuentes: Folger Shakespeare Library, Coriolanus IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); C. F. Tucker Brooke, edición Yale de 1924, acto IV, escena 5 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV).",
               "lemma": "bald",
               "lemmaUrl": "https://en.wiktionary.org/wiki/bald"
             },
             {
-              "term": "makes a mistress of him / sanctifies himself",
-              "title": "makes a mistress of him / sanctifies himself",
+              "term": "makes a mistress of him",
+              "title": "makes a mistress of him",
               "type": "Nota filológica",
-              "gloss": "lo trata como a una amante / se santifica",
-              "body": "El criado mezcla el lenguaje amoroso y el religioso para caricaturizar la admiración de Aufidio. La interpretación de «sanctifies» como reverencia casi devota procede de la escena y no describe un rito efectivo. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.5, FTLN 2887–2899, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; Shakespeare Online, Coriolanus IV.5, https://www.shakespeare-online.com/plays/corio_4_5.html.",
+              "gloss": "lo trata con el arrobamiento debido a una amante",
+              "body": "El criado describe la atención de Aufidio a Coriolano mediante el vocabulario amoroso. En el renglón siguiente enlaza esa exageración con otra imagen, esta vez de veneración religiosa. Fuentes: Folger Shakespeare Library, Coriolanus IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); C. F. Tucker Brooke, edición Yale de 1924, acto IV, escena 5 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV).",
               "lemma": "sanctify",
               "lemmaUrl": "https://en.wiktionary.org/wiki/sanctify"
             },
@@ -23197,8 +23218,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "the bottom of the news",
               "title": "the bottom of the news",
               "type": "Nota filológica",
-              "gloss": "lo esencial de la noticia",
-              "body": "Bottom designa aquí el fondo o núcleo del asunto; introduce la consecuencia militar concreta tras la descripción cómica del banquete. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.5, FTLN 2887–2899, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; Shakespeare Online, Coriolanus IV.5, https://www.shakespeare-online.com/plays/corio_4_5.html.",
+              "gloss": "el fondo del asunto, lo esencial de la noticia",
+              "body": "Aquí el núcleo de la noticia no es la adoración ceremonial, sino el reparto de autoridad militar entre los dos jefes volscos. Fuentes: Folger Shakespeare Library, Coriolanus IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); C. F. Tucker Brooke, edición Yale de 1924, acto IV, escena 5 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV).",
               "lemma": "bottom",
               "lemmaUrl": "https://en.wiktionary.org/wiki/bottom"
             },
@@ -23206,26 +23227,47 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "cut i’ th’ middle",
               "title": "cut i’ th’ middle",
               "type": "Nota filológica",
-              "gloss": "partido por la mitad",
-              "body": "Metáfora del reparto del mando: Aufidio concede a Coriolano la mitad de su comisión, como se ha anunciado en 2828. No se trata de una herida física. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.5, FTLN 2887–2899, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; Shakespeare Online, Coriolanus IV.5, https://www.shakespeare-online.com/plays/corio_4_5.html."
+              "gloss": "dividido por la mitad",
+              "body": "Metáfora del reparto del mando: Aufidio conserva solo una mitad de la autoridad anterior porque la otra se ha otorgado a Coriolano. No alude a una herida física. Fuentes: Folger Shakespeare Library, Coriolanus IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); C. F. Tucker Brooke, edición Yale de 1924, acto IV, escena 5 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV)."
             },
             {
-              "term": "sowl ... by th’ ears",
-              "title": "sowl ... by th’ ears",
+              "term": "sowl",
+              "title": "sowl",
               "type": "Nota filológica",
-              "gloss": "agarrar y zarandear de las orejas",
-              "body": "Sowl es un verbo raro de trato violento, asociado con agarrar o tirar de las orejas. La grafía y la intensidad exacta admiten matices; se conserva la imagen corporal. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.5, FTLN 2887–2899, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; Shakespeare Online, Coriolanus IV.5, https://www.shakespeare-online.com/plays/corio_4_5.html.",
+              "gloss": "arrastrar o zarandear violentamente",
+              "body": "«Sowl» significa arrastrar o tirar de alguien, aquí de las orejas al portero de las puertas de Roma. Brooke glosa «drag»; la violencia sirve para anunciar el asalto inminente. Fuentes: Folger Shakespeare Library, Coriolanus IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); C. F. Tucker Brooke, edición Yale de 1924, acto IV, escena 5 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV).",
               "lemma": "sowl",
               "lemmaUrl": "https://en.wiktionary.org/wiki/sowl"
             },
             {
-              "term": "mow / polled",
-              "title": "mow / polled",
+              "term": "polled",
+              "title": "polled",
               "type": "Nota filológica",
-              "gloss": "segar / despejado, rapado",
-              "body": "El juego combina la siega de enemigos con polled, 'despojado de lo que sobresale, cortado al ras'. La imagen de un camino rapado prolonga la violencia como trabajo de corte. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.5, FTLN 2887–2899, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; Shakespeare Online, Coriolanus IV.5, https://www.shakespeare-online.com/plays/corio_4_5.html.",
+              "gloss": "con la cabeza cortada; decapitado",
+              "body": "«Polled» retoma la metáfora de segar: Brooke interpreta que Coriolano dejará cuerpos sin cabeza por donde pase. La traducción existente «camino completamente despejado» suaviza esta violencia; queda señalada para revisión independiente con control de resaltados. Fuentes: Folger Shakespeare Library, Coriolanus IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); C. F. Tucker Brooke, edición Yale de 1924, acto IV, escena 5 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV).",
               "lemma": "poll",
               "lemmaUrl": "https://en.wiktionary.org/wiki/poll"
+            },
+            {
+              "term": "sanctifies",
+              "title": "sanctifies",
+              "type": "Nota filológica",
+              "gloss": "lo venera como una reliquia sagrada",
+              "body": "Brooke explica el gesto de la mano como si fuese el contacto con una reliquia de santo. La devoción caricaturesca complementa la imagen erótica de «mistress». Fuentes: Folger Shakespeare Library, Coriolanus IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); C. F. Tucker Brooke, edición Yale de 1924, acto IV, escena 5 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV)."
+            },
+            {
+              "term": "entreaty and grant",
+              "title": "entreaty and grant",
+              "type": "Nota filológica",
+              "gloss": "petición y concesión de todos los comensales",
+              "body": "Brooke interpreta que los participantes del banquete intervienen tanto en solicitar como en aprobar la distribución del mando; no es una simple cesión unilateral de Aufidio. Fuentes: Folger Shakespeare Library, Coriolanus IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); C. F. Tucker Brooke, edición Yale de 1924, acto IV, escena 5 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV)."
+            },
+            {
+              "term": "mow all down",
+              "title": "mow all down",
+              "type": "Nota filológica",
+              "gloss": "segar o abatir a todos",
+              "body": "«Mow» compara el avance bélico con una guadaña que siega lo que encuentra; prepara la imagen de la decapitación implícita en «polled». Fuentes: Folger Shakespeare Library, Coriolanus IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); C. F. Tucker Brooke, edición Yale de 1924, acto IV, escena 5 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV)."
             }
           ]
         },
@@ -23239,8 +23281,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "as like to do ’t",
               "title": "as like to do ’t",
               "type": "Nota filológica",
-              "gloss": "tan capaz de hacerlo como cualquiera",
-              "body": "Like to indica probabilidad, no semejanza física: el criado juzga verosímil la amenaza militar. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.5, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; Shakespeare Online, Coriolanus IV.5, https://www.shakespeare-online.com/plays/corio_4_5.html.",
+              "gloss": "tan probable de conseguirlo como cualquier otro",
+              "body": "La fórmula expresa probabilidad o aptitud para llevar a cabo la amenaza, no semejanza visual con otro hombre. Fuentes: Folger Shakespeare Library, Coriolanus IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); C. F. Tucker Brooke, edición Yale de 1924, acto IV, escena 5 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV).",
               "lemma": "like",
               "lemmaUrl": "https://en.wiktionary.org/wiki/like"
             }
@@ -23257,7 +23299,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "durst not",
               "type": "Nota filológica",
               "gloss": "no se atrevían",
-              "body": "Durst es una forma pretérita de dare; la construcción explica la cautela de los partidarios antes del regreso al poder. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.5, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; Shakespeare Online, Coriolanus IV.5, https://www.shakespeare-online.com/plays/corio_4_5.html.",
+              "body": "«Durst» es pretérito de «dare». El tercero sostiene que los supuestos partidarios de Coriolano ocultaron su simpatía mientras este estaba desacreditado. Fuentes: Folger Shakespeare Library, Coriolanus IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); C. F. Tucker Brooke, edición Yale de 1924, acto IV, escena 5 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV).",
               "lemma": "dare",
               "lemmaUrl": "https://en.wiktionary.org/wiki/dare"
             },
@@ -23266,7 +23308,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "whilest",
               "type": "Nota filológica",
               "gloss": "mientras",
-              "body": "Variante histórica de whilst/while; introduce la circunstancia temporal de la supuesta desventaja de Coriolano. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.5, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; Shakespeare Online, Coriolanus IV.5, https://www.shakespeare-online.com/plays/corio_4_5.html.",
+              "body": "Forma histórica de «whilst». Se encuentra en el habla vacilante y afectada del criado, que intenta sonar entendido. Fuentes: Folger Shakespeare Library, Coriolanus IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); C. F. Tucker Brooke, edición Yale de 1924, acto IV, escena 5 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV).",
               "lemma": "whilst",
               "lemmaUrl": "https://en.wiktionary.org/wiki/whilst"
             },
@@ -23274,8 +23316,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "directitude",
               "title": "directitude",
               "type": "Nota filológica",
-              "gloss": "«directitud»; palabra impropia aquí",
-              "body": "El criado usa una palabra afectadamente culta y de sentido inadecuado: parece querer decir desgracia, caída o falta de favor. Wiktionary registra directitude con el sentido obsoleto de 'directness', que no resuelve el contexto; la incomprensión del otro criado hace explícito el malapropismo. Véase https://en.wiktionary.org/wiki/directitude. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.5, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; Shakespeare Online, Coriolanus IV.5, https://www.shakespeare-online.com/plays/corio_4_5.html."
+              "gloss": "«directitud»; disparate por desacreditación",
+              "body": "Malapropismo: el criado produce una forma impropia para hablar de la mala situación de Coriolano. Brooke sugiere con cautela «discreditude» (descrédito) y añade un signo de interrogación; no es una restitución textual segura. Fuentes: Folger Shakespeare Library, Coriolanus IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); C. F. Tucker Brooke, edición Yale de 1924, acto IV, escena 5 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV)."
             }
           ]
         },
@@ -23296,8 +23338,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "crest up again",
               "title": "crest up again",
               "type": "Nota filológica",
-              "gloss": "con la cresta levantada otra vez",
-              "body": "Crest evoca el penacho del casco y la altivez o recuperación de prestigio; la comparación animal intensifica el efecto cómico. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.5, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; Shakespeare Online, Coriolanus IV.5, https://www.shakespeare-online.com/plays/corio_4_5.html.",
+              "gloss": "volver a levantar la cresta, recuperar prestigio",
+              "body": "La imagen de la cresta levantada asocia al guerrero con un ave altiva o con una insignia guerrera; el sentido contextual es la recuperación de su poder y reputación. Fuentes: Folger Shakespeare Library, Coriolanus IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); C. F. Tucker Brooke, edición Yale de 1924, acto IV, escena 5 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV).",
               "lemma": "crest",
               "lemmaUrl": "https://en.wiktionary.org/wiki/crest"
             },
@@ -23305,8 +23347,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "in blood",
               "title": "in blood",
               "type": "Nota filológica",
-              "gloss": "en pleno vigor o poder",
-              "body": "No alude aquí literalmente a estar cubierto de sangre: la expresión caracteriza una situación de fuerza y éxito. Es una lectura contextual, no una equivalencia universal. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.5, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; Shakespeare Online, Coriolanus IV.5, https://www.shakespeare-online.com/plays/corio_4_5.html.",
+              "gloss": "en plena forma; con ánimo y fuerzas",
+              "body": "La expresión no significa aquí estar cubierto de sangre: Brooke la glosa como «in fine fettle», es decir, en buenas condiciones o en pleno vigor. La traducción «en pleno poder» puede matizarse en una revisión de traducción. Fuentes: Folger Shakespeare Library, Coriolanus IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); C. F. Tucker Brooke, edición Yale de 1924, acto IV, escena 5 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV).",
               "lemma": "blood",
               "lemmaUrl": "https://en.wiktionary.org/wiki/blood"
             },
@@ -23315,7 +23357,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "coneys",
               "type": "Nota filológica",
               "gloss": "conejos",
-              "body": "Forma histórica para rabbits; la imagen de salir de las madrigueras caricaturiza a los oportunistas que reaparecen cuando cambia la fortuna. Referencias: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.5, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; Shakespeare Online, Coriolanus IV.5, https://www.shakespeare-online.com/plays/corio_4_5.html.",
+              "body": "Forma antigua de «conies», conejos que salen de sus madrigueras. La comparación satiriza a los partidarios oportunistas que reaparecen cuando Coriolano parece triunfante. Fuentes: Folger Shakespeare Library, Coriolanus IV.5 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/); C. F. Tucker Brooke, edición Yale de 1924, acto IV, escena 5 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV).",
               "lemma": "coney",
               "lemmaUrl": "https://en.wiktionary.org/wiki/coney"
             }

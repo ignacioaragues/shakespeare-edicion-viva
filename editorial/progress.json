@@ -2917,6 +2917,20 @@
         "https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV"
       ],
       "status": "reviewed_with_open_sources_private_books_pending"
+    },
+    {
+      "id": "coriolanus-4-5-2855-2911",
+      "act": 4,
+      "scene": 5,
+      "first_line": 2855,
+      "last_line": 2911,
+      "reviewed_on": "2026-11-17",
+      "scope": "Segunda revisión filológica IV.5, 2855–2911 (57 líneas Folger, 23 parlamentos completos hasta el anuncio de la reaparición de partidarios). Glosas revisadas y notas suplementarias sobre el relativo wot, thwack y habitualidad, scotched y carbonado, «An he», metáforas de agasajo erótico-religioso, reparto del mando, sowl, mow y polled, malapropismo directitude, in blood y coneys. Se reparan seis anclas de anotación que no coincidían literalmente con la cadena inglesa. Lectura Folger comprobada contra Brooke (Yale 1924), cuya interpretación de polled y directitude se consigna con cautela; quedan señaladas para futura pasada bilingüe las traducciones de polled e in blood. EN/ES, IDs, offsets y saltos intactos; QA de navegador y bibliografía privada aún pendientes.",
+      "sources": [
+        "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/",
+        "https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV"
+      ],
+      "status": "reviewed_with_open_sources_private_books_pending"
     }
   ],
   "verse_format_reviews": [
