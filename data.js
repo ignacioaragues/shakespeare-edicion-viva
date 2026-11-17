@@ -18900,8 +18900,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "this present",
               "title": "this present",
               "type": "Nota filológica",
-              "gloss": "esta comparecencia",
-              "body": "Uso sustantivado de «present» para la instancia actual del procedimiento. Fuentes: Folger, Coriolanus III.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/; MIT Shakespeare III.3: https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html.",
+              "gloss": "la comparecencia o acusación actual",
+              "body": "«This present» designa la presente ocasión judicial, no un regalo. La pregunta siguiente («Must all determine here?») pide saber si todo quedará resuelto en esta audiencia. Fuentes: Folger Shakespeare Library, Coriolanus III.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/; C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale, 1924), notas al acto III, escena 3, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III.",
               "lemma": "present",
               "lemmaUrl": "https://en.wiktionary.org/wiki/present"
             },
@@ -18909,8 +18909,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "determine",
               "title": "determine",
               "type": "Nota filológica",
-              "gloss": "resolverse",
-              "body": "Aquí significa llegar a una decisión. Fuentes: Folger, Coriolanus III.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/; MIT Shakespeare III.3: https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html.",
+              "gloss": "resolverse; concluir",
+              "body": "«Determine» es intransitivo: «terminar», «quedar decidido». Brooke glosa «end» (III.3, verso 42 de escena); no implica que Coriolano esté pidiendo deliberar libremente sobre todos los cargos. Fuentes: Folger Shakespeare Library, Coriolanus III.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/; C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale, 1924), notas al acto III, escena 3, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III.",
               "lemma": "determine",
               "lemmaUrl": "https://en.wiktionary.org/wiki/determine"
             }
@@ -18944,8 +18944,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "censure",
               "title": "censure",
               "type": "Nota filológica",
-              "gloss": "sanción legal",
-              "body": "No se reduce a una desaprobación verbal. Fuentes: Folger, Coriolanus III.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/; MIT Shakespeare III.3: https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html.",
+              "gloss": "juicio o sanción legal",
+              "body": "«Lawful censure» alude a una decisión o sanción formal conforme a la ley, no simplemente a una crítica moral. Sicinio exige primero reconocer la autoridad popular y sus magistrados. Fuentes: Folger Shakespeare Library, Coriolanus III.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/; C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale, 1924), notas al acto III, escena 3, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III.",
               "lemma": "censure",
               "lemmaUrl": "https://en.wiktionary.org/wiki/censure"
             }
@@ -19011,8 +19011,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "rougher accents",
               "title": "rougher accents",
               "type": "Nota filológica",
-              "gloss": "manera más áspera de hablar",
-              "body": "«Accents» designa aquí el tono o manera de expresarse, no el acento regional. Fuentes: Folger Shakespeare Library, Coriolanus III.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/; MIT Shakespeare, III.3: https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html.",
+              "gloss": "expresiones más ásperas",
+              "body": "Menenio contrapone el habla brusca propia del soldado al lenguaje cívico. Brooke remite a una nota específica sobre «accents» (III.3, verso 54 de escena): la distinción sirve como defensa de Coriolano, no como exculpación objetiva. Fuentes: Folger Shakespeare Library, Coriolanus III.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/; C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale, 1924), notas al acto III, escena 3, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III.",
               "lemma": "accent",
               "lemmaUrl": "https://en.wiktionary.org/wiki/accent"
             },
@@ -19020,8 +19020,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "envy you",
               "title": "envy you",
               "type": "Nota filológica",
-              "gloss": "sentir hostilidad hacia ustedes",
-              "body": "«Envy» expresa animadversión, no solamente envidia en el sentido moderno. Fuentes: Folger Shakespeare Library, Coriolanus III.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/; MIT Shakespeare, III.3: https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html.",
+              "gloss": "mostrarles hostilidad",
+              "body": "Aquí «envy» funciona como verbo de animadversión («ser hostil»), no como «envidiar» en sentido moderno. Brooke glosa expresamente «evidence hostility to» (III.3, verso 56 de escena). Fuentes: Folger Shakespeare Library, Coriolanus III.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/; C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale, 1924), notas al acto III, escena 3, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III.",
               "lemma": "envy",
               "lemmaUrl": "https://en.wiktionary.org/wiki/envy"
             }
@@ -19103,8 +19103,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "seasoned office",
               "title": "seasoned office",
               "type": "Nota filológica",
-              "gloss": "magistraturas consolidadas",
-              "body": "«Seasoned» caracteriza instituciones asentadas por el tiempo y la experiencia. Fuentes: Folger Shakespeare Library, Coriolanus III.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/; MIT Shakespeare, III.3: https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html.",
+              "gloss": "instituciones o magistraturas consolidadas",
+              "body": "«Seasoned» equivale a asentado por el tiempo o tradicional («time-honored», Brooke, III.3, verso 63 de escena). Sicinio acusa a Coriolano de intentar suprimir magistraturas establecidas para concentrar poder; es una acusación del personaje. Fuentes: Folger Shakespeare Library, Coriolanus III.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/; C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale, 1924), notas al acto III, escena 3, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III.",
               "lemma": "seasoned",
               "lemmaUrl": "https://en.wiktionary.org/wiki/seasoned"
             },
@@ -19162,8 +19162,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "fold in",
               "title": "fold in",
               "type": "Nota filológica",
-              "gloss": "envuelvan",
-              "body": "Imprecación: las llamas se cierran sobre el pueblo. Fuentes: Folger, Coriolanus III.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/; MIT Shakespeare III.3: https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html.",
+              "gloss": "envolver; cercar",
+              "body": "En la imprecación «The fires i’ th’ lowest hell fold in the people», «fold in» significa envolver o rodear («encompass», Brooke, III.3, verso 67 de escena), no «doblar» físicamente. Fuentes: Folger Shakespeare Library, Coriolanus III.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/; C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale, 1924), notas al acto III, escena 3, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III.",
               "lemma": "fold",
               "lemmaUrl": "https://en.wiktionary.org/wiki/fold"
             },
@@ -19249,8 +19249,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "capital kind",
               "title": "capital kind",
               "type": "Nota filológica",
-              "gloss": "carácter castigable con la muerte",
-              "body": "«Capital» se refiere a la pena capital. Fuentes: Folger, Coriolanus III.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/; MIT Shakespeare III.3: https://shakespeare.mit.edu/coriolanus/coriolanus.3.3.html.",
+              "gloss": "gravedad merecedora de muerte",
+              "body": "«Capital» caracteriza una clase de delito que merece pena de muerte («death-deserving», Brooke, III.3, verso 80 de escena); no significa aquí simplemente «importante». Sicinio convierte la reacción provocada en fundamento de la condena. Fuentes: Folger Shakespeare Library, Coriolanus III.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/; C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale, 1924), notas al acto III, escena 3, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III.",
               "lemma": "capital",
               "lemmaUrl": "https://en.wiktionary.org/wiki/capital"
             }
