@@ -18022,8 +18022,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "prompt",
               "title": "prompt",
               "type": "Nota filológica",
-              "gloss": "apuntar / soplar el texto",
-              "body": "El verbo evoca la ayuda de quien recuerda las palabras a un actor; responde directamente al «part» teatral de Coriolano. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; Shakespeare Online, Coriolanus III.2, https://www.shakespeare-online.com/plays/corio_3_2.html.",
+              "gloss": "soplar el parlamento",
+              "body": "Cominio se ofrece como apuntador: prolonga el «part» y «discharge to th’ life» de 2228–2229. La lectura metateatral procede del diálogo, no de una acotación explícita. Folger Shakespeare Library, Coriolanus III.2: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; C. F. Tucker Brooke (ed.), Coriolanus (Yale, 1924), acto III: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III.",
               "lemma": "prompt",
               "lemmaUrl": "https://en.wiktionary.org/wiki/prompt"
             }
@@ -18047,7 +18047,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "perform a part",
               "type": "Nota filológica",
               "gloss": "representar un papel",
-              "body": "La insistencia en la metáfora teatral une las palabras de Coriolano, Cominio y Volumnia; el consejo político exige actuación. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; Shakespeare Online, Coriolanus III.2, https://www.shakespeare-online.com/plays/corio_3_2.html.",
+              "body": "Volumnia vincula la actuación política con su aprobación materna; «part» retoma el término de Coriolano (2228), después de «prompt» (2230). Folger Shakespeare Library, Coriolanus III.2: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; C. F. Tucker Brooke (ed.), Coriolanus (Yale, 1924), acto III: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III.",
               "lemma": "perform",
               "lemmaUrl": "https://en.wiktionary.org/wiki/perform"
             }
@@ -18079,8 +18079,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "choirèd with my drum",
               "title": "choirèd with my drum",
               "type": "Léxico y metáfora",
-              "gloss": "cantaba al compás de mi tambor",
-              "body": "«Choirèd» (forma verbal de choir) representa la voz marcial concertada con el tambor. MIT transmite «quired»; se conserva la grafía modernizada de Folger, sin presentar esa diferencia ortográfica como una variante sustantiva. Fuentes: Folger, Coriolanus III.2, 2239; MIT Shakespeare, III.2, https://shakespeare.mit.edu/coriolanus/coriolanus.3.2.html.",
+              "gloss": "entonaba al compás de mi tambor",
+              "body": "El verbo de canto coral convierte la voz militar en acompañamiento del tambor. Brooke imprime «quir'd», diferencia ortográfica frente a la modernización de Folger. Folger Shakespeare Library, Coriolanus III.2: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; C. F. Tucker Brooke (ed.), Coriolanus (Yale, 1924), acto III: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III.",
               "lemma": "choir",
               "lemmaUrl": "https://en.wiktionary.org/wiki/choir"
             },
@@ -18097,8 +18097,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "Tent in my cheeks",
               "title": "Tent in my cheeks",
               "type": "Léxico",
-              "gloss": "se instalen en mis mejillas",
-              "body": "«Tent» funciona como verbo: acampar o establecerse. La imagen militar de la tienda se aplica irónicamente a las sonrisas fingidas. Fuente: Folger, Coriolanus III.2, 2241–2242; cotejo: Shakespeare Online, III.2, https://www.shakespeare-online.com/plays/corio_3_2.html.",
+              "gloss": "instalarse en mis mejillas",
+              "body": "«Tent» es aquí un verbo de alojamiento: las sonrisas de los aduladores acamparían en el rostro del soldado. La imagen conserva una resonancia militar. Folger Shakespeare Library, Coriolanus III.2: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; C. F. Tucker Brooke (ed.), Coriolanus (Yale, 1924), acto III: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III.",
               "lemma": "tent",
               "lemmaUrl": "https://en.wiktionary.org/wiki/tent"
             },
@@ -18106,8 +18106,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "glasses of my sight",
               "title": "glasses of my sight",
               "type": "Metáfora",
-              "gloss": "mis ojos",
-              "body": "Perífrasis que presenta los ojos como instrumentos de la visión, ahora ocupados por lágrimas escolares. Fuente: Folger, Coriolanus III.2, 2242–2243, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/."
+              "gloss": "cristales de mis ojos",
+              "body": "«Glasses» figura los ojos como cristales de la visión que se llenarían de lágrimas escolares; no alude a anteojos. Folger Shakespeare Library, Coriolanus III.2: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; C. F. Tucker Brooke (ed.), Coriolanus (Yale, 1924), acto III: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III."
             },
             {
               "term": "Make motion",
@@ -18122,8 +18122,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "surcease",
               "title": "surcease",
               "type": "Léxico verbal",
-              "gloss": "cesar; dejar de",
-              "body": "Verbo que aquí rige el infinitivo «to honor». No significa «sobrepasar»; expresa el temor a dejar de respetar su propia verdad. Fuente: Folger, Coriolanus III.2, 2247, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/.",
+              "gloss": "dejar de / cesar de",
+              "body": "El verbo rige «to honor»: dejar de honrar su propia verdad. Forma y lema: https://en.wiktionary.org/wiki/surcease. Folger Shakespeare Library, Coriolanus III.2: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; C. F. Tucker Brooke (ed.), Coriolanus (Yale, 1924), acto III: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III.",
               "lemma": "surcease",
               "lemmaUrl": "https://en.wiktionary.org/wiki/surcease"
             },
@@ -18180,8 +18180,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "owe thy pride thyself",
               "title": "owe thy pride thyself",
               "type": "Nota filológica",
-              "gloss": "tu orgullo es responsabilidad tuya",
-              "body": "«Owe» admite aquí el sentido de atribuirse o reconocer como propio; el contraste separa el valor que ella le transmitió del orgullo que le imputa a él. La formulación no equivale a una deuda monetaria. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; Shakespeare Online, Coriolanus III.2, https://www.shakespeare-online.com/plays/corio_3_2.html.",
+              "gloss": "tu orgullo es solo tuyo",
+              "body": "«Owe» admite el valor de poseer: Volumnia se atribuye el valor que el hijo mamó de ella, pero le adjudica a él su orgullo. Folger Shakespeare Library, Coriolanus III.2: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; C. F. Tucker Brooke (ed.), Coriolanus (Yale, 1924), acto III: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III.",
               "lemma": "owe",
               "lemmaUrl": "https://en.wiktionary.org/wiki/owe"
             }
@@ -18206,8 +18206,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "mountebank their loves",
               "title": "mountebank their loves",
               "type": "Nota filológica",
-              "gloss": "ganarme su afecto como un charlatán",
-              "body": "«Mountebank» evoca al vendedor ambulante de remedios que atrae al público mediante exhibición y persuasión. Shakespeare lo usa aquí verbalmente: Coriolano convierte la búsqueda del favor popular en una estafa escénica. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; Shakespeare Online, Coriolanus III.2, https://www.shakespeare-online.com/plays/corio_3_2.html.",
+              "gloss": "ganarse su afecto mediante charlatanería",
+              "body": "«Mountebank» se verbaliza: Coriolano presenta su cortesía futura como la actuación engañosa de un charlatán. Folger Shakespeare Library, Coriolanus III.2: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; C. F. Tucker Brooke (ed.), Coriolanus (Yale, 1924), acto III: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III.",
               "lemma": "mountebank",
               "lemmaUrl": "https://en.wiktionary.org/wiki/mountebank"
             },
@@ -18215,8 +18215,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "Cog their hearts",
               "title": "Cog their hearts",
               "type": "Nota filológica",
-              "gloss": "engañarlos para ganar su favor",
-              "body": "«Cog» se relaciona con hacer trampas o engañar; la imagen no supone literalmente extraer corazones. Su proximidad a «mountebank» intensifica la retórica del fraude. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; Shakespeare Online, Coriolanus III.2, https://www.shakespeare-online.com/plays/corio_3_2.html.",
+              "gloss": "engañarlos para ganar sus corazones",
+              "body": "«Cog» implica engañar o embaucar; refuerza «mountebank» y excluye la reconciliación sincera en la intención declarada del personaje. Folger Shakespeare Library, Coriolanus III.2: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; C. F. Tucker Brooke (ed.), Coriolanus (Yale, 1924), acto III: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III.",
               "lemma": "cog",
               "lemmaUrl": "https://en.wiktionary.org/wiki/cog"
             },
@@ -18294,8 +18294,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "more strong",
               "title": "more strong",
               "type": "Nota filológica",
-              "gloss": "más graves; más contundentes",
-              "body": "«Strong» califica la fuerza de las acusaciones, no la fuerza física de sus autores. «More strong» funciona como comparativo analítico. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; First Folio transcription, Wikisource, https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_3_Scene_2.",
+              "gloss": "más graves / contundentes",
+              "body": "Comparativo analítico referido a futuras acusaciones: Cominio advierte que los cargos podrían ser más graves. Folger Shakespeare Library, Coriolanus III.2: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; C. F. Tucker Brooke (ed.), Coriolanus (Yale, 1924), acto III: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III.",
               "lemma": "strong",
               "lemmaUrl": "https://en.wiktionary.org/wiki/strong"
             }
@@ -18318,8 +18318,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "by invention",
               "title": "by invention",
               "type": "Nota filológica",
-              "gloss": "con acusaciones inventadas",
-              "body": "«Invention» aquí señala fabricación de cargos, según la perspectiva de Coriolano; no prueba que los cargos sean efectivamente falsos. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; First Folio transcription, Wikisource, https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_3_Scene_2.",
+              "gloss": "mediante acusaciones inventadas",
+              "body": "Coriolano anticipa imputaciones fabricadas; es su valoración polémica, no un hecho certificado por el editor. Folger Shakespeare Library, Coriolanus III.2: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; C. F. Tucker Brooke (ed.), Coriolanus (Yale, 1924), acto III: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III.",
               "lemma": "invention",
               "lemmaUrl": "https://en.wiktionary.org/wiki/invention"
             },
@@ -18360,7 +18360,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "Mildly",
               "type": "Nota filológica",
               "gloss": "con moderación",
-              "body": "La triple insistencia de los últimos intercambios produce un cierre de escena irónico: la palabra repetida anticipa la dificultad de sostener esa conducta en III.3. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; First Folio transcription, Wikisource, https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_3_Scene_2."
+              "body": "La repetición final del adverbio admite una actuación irónica o resignada; el texto no impone una entonación única. Folger Shakespeare Library, Coriolanus III.2: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; C. F. Tucker Brooke (ed.), Coriolanus (Yale, 1924), acto III: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III."
             }
           ]
         }
