@@ -25233,8 +25233,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "fly to",
               "title": "fly to",
               "type": "Nota filológica",
-              "gloss": "acudir en tropel a alguien",
-              "body": "Fly to señala el movimiento apresurado de los soldados hacia Coriolano y su creciente adhesión, no una huida de él. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus, IV.7 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/7/; MIT Shakespeare, Coriolanus IV.7, https://shakespeare.mit.edu/coriolanus/coriolanus.4.7.html.",
+              "gloss": "acudir en masa a",
+              "body": "«Fly to» expresa el entusiasmo y la adhesión de los soldados volscos a Coriolano, no una retirada ante él. C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale, 1924), notas a IV.7, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV; Folger Shakespeare Library, Coriolanus IV.7, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/7/.",
               "lemma": "fly",
               "lemmaUrl": "https://en.wiktionary.org/wiki/fly"
             }
@@ -25251,7 +25251,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "the grace ’fore meat",
               "type": "Nota filológica",
               "gloss": "la bendición antes de comer",
-              "body": "Grace es la oración de agradecimiento pronunciada antes de la comida; la enumeración la extiende a la conversación y a las gracias finales, como si Coriolano monopolizara toda la atención. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus, IV.7 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/7/; MIT Shakespeare, Coriolanus IV.7, https://shakespeare.mit.edu/coriolanus/coriolanus.4.7.html.",
+              "body": "El lugarteniente traza una secuencia ritual: bendición previa, conversación durante la comida y acción de gracias final. La hipérbole convierte a Coriolano en centro de devoción de las tropas. C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale, 1924), notas a IV.7, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV; Folger Shakespeare Library, Coriolanus IV.7, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/7/.",
               "lemma": "grace",
               "lemmaUrl": "https://en.wiktionary.org/wiki/grace"
             },
@@ -25259,8 +25259,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "dark’ned",
               "title": "dark’ned",
               "type": "Nota filológica",
-              "gloss": "eclipsado; dejado en la sombra",
-              "body": "Participio contraído de darkened. La metáfora de la sombra expresa pérdida de prestigio ante los propios soldados, no una oscuridad literal. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus, IV.7 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/7/; MIT Shakespeare, Coriolanus IV.7, https://shakespeare.mit.edu/coriolanus/coriolanus.4.7.html.",
+              "gloss": "eclipsado; relegado a la sombra",
+              "body": "Brooke, nota a IV.7.5, precisa «dimmed in glory»: el prestigio militar de Aufidio queda oscurecido por el de Coriolano, incluso entre sus propios soldados. C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale, 1924), notas a IV.7, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV; Folger Shakespeare Library, Coriolanus IV.7, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/7/.",
               "lemma": "darken",
               "lemmaUrl": "https://en.wiktionary.org/wiki/darken"
             }
@@ -25276,8 +25276,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "lame the foot / Of our design",
               "title": "lame the foot / Of our design",
               "type": "Nota filológica",
-              "gloss": "dejar cojo nuestro plan",
-              "body": "Metáfora corporal: intervenir contra el ascendiente de Coriolano dañaría la marcha de la campaña militar. Es una inferencia del propio razonamiento de Aufidio. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus, IV.7 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/7/; MIT Shakespeare, Coriolanus IV.7, https://shakespeare.mit.edu/coriolanus/coriolanus.4.7.html.",
+              "gloss": "hacer cojear nuestro plan; obstaculizarlo",
+              "body": "La metáfora corporal presenta la traición o intriga como un daño al movimiento de la campaña. Brooke, IV.7.7, interpreta «using means» como «employing treachery»; Aufidio todavía dice que no puede hacerlo sin perjudicar la empresa común. C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale, 1924), notas a IV.7, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV; Folger Shakespeare Library, Coriolanus IV.7, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/7/.",
               "lemma": "lame",
               "lemmaUrl": "https://en.wiktionary.org/wiki/lame"
             },
@@ -25285,8 +25285,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "more proudlier",
               "title": "more proudlier",
               "type": "Nota filológica",
-              "gloss": "aún más orgulloso",
-              "body": "Comparativo reforzado mediante more y el sufijo -er en proudlier; no se debe normalizar silenciosamente como un error moderno. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus, IV.7 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/7/; MIT Shakespeare, Coriolanus IV.7, https://shakespeare.mit.edu/coriolanus/coriolanus.4.7.html.",
+              "gloss": "todavía más orgullosamente",
+              "body": "Comparativo doble («more» + «-er») atestiguado en la lengua dramática de Shakespeare; no debe corregirse como simple errata del texto. El énfasis pertenece al juicio resentido de Aufidio. C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale, 1924), notas a IV.7, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV; Folger Shakespeare Library, Coriolanus IV.7, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/7/.",
               "lemma": "proudly",
               "lemmaUrl": "https://en.wiktionary.org/wiki/proudly"
             },
@@ -25294,8 +25294,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "no changeling",
               "title": "no changeling",
               "type": "Nota filológica",
-              "gloss": "no ha cambiado de carácter",
-              "body": "Changeling puede designar a alguien transformado o sustituido; aquí Aufidio reconoce que la altivez de Coriolano no es nueva, aunque le resulte inconveniente. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus, IV.7 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/7/; MIT Shakespeare, Coriolanus IV.7, https://shakespeare.mit.edu/coriolanus/coriolanus.4.7.html.",
+              "gloss": "no ha cambiado de naturaleza",
+              "body": "«Changeling» designa aquí a alguien que muda de carácter: Aufidio reconoce que la altivez de Coriolano ya existía cuando lo recibió. Brooke, IV.7.11, «still what it always was». C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale, 1924), notas a IV.7, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV; Folger Shakespeare Library, Coriolanus IV.7, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/7/.",
               "lemma": "changeling",
               "lemmaUrl": "https://en.wiktionary.org/wiki/changeling"
             }
@@ -25311,8 +25311,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "for your particular",
               "title": "for your particular",
               "type": "Nota filológica",
-              "gloss": "por su propio bien; en su interés personal",
-              "body": "Particular se contrapone al interés común de la campaña: el teniente se preocupa por la posición de Aufidio. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus, IV.7 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/7/; MIT Shakespeare, Coriolanus IV.7, https://shakespeare.mit.edu/coriolanus/coriolanus.4.7.html.",
+              "gloss": "por tu propio interés",
+              "body": "«Particular» significa ventaja o interés personal, no un detalle específico. El lugarteniente teme que compartir el mando perjudique a Aufidio. Brooke, IV.7.13, «personal advantage». C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale, 1924), notas a IV.7, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV; Folger Shakespeare Library, Coriolanus IV.7, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/7/.",
               "lemma": "particular",
               "lemmaUrl": "https://en.wiktionary.org/wiki/particular"
             },
@@ -25321,7 +25321,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "Joined in commission",
               "type": "Nota filológica",
               "gloss": "compartido el mando",
-              "body": "Commission se refiere aquí a la autoridad militar conferida a ambos jefes, no a una comisión económica. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus, IV.7 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/7/; MIT Shakespeare, Coriolanus IV.7, https://shakespeare.mit.edu/coriolanus/coriolanus.4.7.html.",
+              "body": "«Commission» designa la autoridad de mando militar; el lugarteniente contrapone mando exclusivo de Aufidio, mando exclusivo de Coriolano y la fórmula compartida. Brooke, IV.7.14–15. C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale, 1924), notas a IV.7, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV; Folger Shakespeare Library, Coriolanus IV.7, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/7/.",
               "lemma": "commission",
               "lemmaUrl": "https://en.wiktionary.org/wiki/commission"
             }
@@ -25337,8 +25337,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "come to his account",
               "title": "come to his account",
               "type": "Nota filológica",
-              "gloss": "tener que rendir cuentas",
-              "body": "La expresión se repite al final en our account: Aufidio imagina una evaluación futura de la campaña y anuncia que posee motivos para acusar a su aliado. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus, IV.7 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/7/; MIT Shakespeare, Coriolanus IV.7, https://shakespeare.mit.edu/coriolanus/coriolanus.4.7.html.",
+              "gloss": "rendir cuentas; ser juzgado por sus actos",
+              "body": "«Account» sugiere una futura rendición de cuentas política y militar. La reiteración «our account» insinúa que el juicio también pondrá en peligro a Aufidio. Brooke, IV.7.24–26, remite a nota explicativa. C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale, 1924), notas a IV.7, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV; Folger Shakespeare Library, Coriolanus IV.7, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/7/.",
               "lemma": "account",
               "lemmaUrl": "https://en.wiktionary.org/wiki/account"
             },
@@ -25355,8 +25355,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "good husbandry",
               "title": "good husbandry",
               "type": "Nota filológica",
-              "gloss": "buena administración",
-              "body": "Husbandry alude a la gestión prudente de recursos y asuntos públicos, no a la condición de esposo. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus, IV.7 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/7/; MIT Shakespeare, Coriolanus IV.7, https://shakespeare.mit.edu/coriolanus/coriolanus.4.7.html.",
+              "gloss": "buena administración de los recursos",
+              "body": "«Husbandry» es gestión económica y prudente de los recursos del Estado volsco, no agricultura literal ni vida conyugal. Brooke, IV.7.21, interpreta la conducta como honorable en apariencia. C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale, 1924), notas a IV.7, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV; Folger Shakespeare Library, Coriolanus IV.7, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/7/.",
               "lemma": "husbandry",
               "lemmaUrl": "https://en.wiktionary.org/wiki/husbandry"
             },
@@ -25388,8 +25388,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "carry Rome",
               "title": "carry Rome",
               "type": "Nota filológica",
-              "gloss": "conquistar Roma",
-              "body": "Carry tiene aquí el sentido militar de tomar o conquistar una plaza, no el de transportar. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.7 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/7/; Shakespeare Online, Coriolanus IV.7, https://www.shakespeare-online.com/plays/corio_4_7.html.",
+              "gloss": "tomar Roma por la fuerza",
+              "body": "«Carry» es conquistar una plaza militarmente, no transportar la ciudad. Brooke, IV.7.27, «take by force». C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale, 1924), notas a IV.7, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV; Folger Shakespeare Library, Coriolanus IV.7, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/7/.",
               "lemma": "carry",
               "lemmaUrl": "https://en.wiktionary.org/wiki/carry"
             }
@@ -25414,8 +25414,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "ere he sits down",
               "title": "ere he sits down",
               "type": "Nota filológica",
-              "gloss": "antes de que establezca el sitio",
-              "body": "Sit down puede aludir a instalar un campamento o iniciar un asedio; aquí describe rendiciones antes de la operación militar formal. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.7 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/7/; Shakespeare Online, Coriolanus IV.7, https://www.shakespeare-online.com/plays/corio_4_7.html.",
+              "gloss": "antes de iniciar el sitio",
+              "body": "«Sit down» tiene valor militar de establecer un asedio: Brooke, IV.7.28, «besieges». La facilidad de las victorias es parte de la evaluación de Aufidio. C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale, 1924), notas a IV.7, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV; Folger Shakespeare Library, Coriolanus IV.7, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/7/.",
               "lemma": "sit",
               "lemmaUrl": "https://en.wiktionary.org/wiki/sit"
             },
@@ -25433,7 +25433,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "osprey",
               "type": "Nota filológica",
               "gloss": "águila pescadora",
-              "body": "Ave rapaz especializada en capturar peces. El símil naturaliza la supremacía militar de Coriolano: es la perspectiva de Aufidio, no una ley política. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.7 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/7/; Shakespeare Online, Coriolanus IV.7, https://www.shakespeare-online.com/plays/corio_4_7.html.",
+              "body": "La comparación naturaliza la superioridad del depredador sobre el pez; «by sovereignty of nature» es la justificación figurada de Aufidio, no una ley política objetiva. Brooke, IV.7.34–35, remite a nota explicativa. C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale, 1924), notas a IV.7, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV; Folger Shakespeare Library, Coriolanus IV.7, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/7/.",
               "lemma": "osprey",
               "lemmaUrl": "https://en.wiktionary.org/wiki/osprey"
             },
@@ -25442,7 +25442,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "Carry his honors even",
               "type": "Nota filológica",
               "gloss": "llevar sus honores con equilibrio",
-              "body": "Even funciona como adverbio de mesura o regularidad; Aufidio considera que Coriolano no supo administrar políticamente su prestigio. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.7 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/7/; Shakespeare Online, Coriolanus IV.7, https://www.shakespeare-online.com/plays/corio_4_7.html.",
+              "body": "«Even» significa «steadily» (Brooke, IV.7.37): Coriolano no supo administrar con moderación su prestigio político. No significa que sus honores fueran iguales a los de otro. C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale, 1924), notas a IV.7, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV; Folger Shakespeare Library, Coriolanus IV.7, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/7/.",
               "lemma": "even",
               "lemmaUrl": "https://en.wiktionary.org/wiki/even"
             },
@@ -25450,8 +25450,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "From th’ casque to th’ cushion",
               "title": "From th’ casque to th’ cushion",
               "type": "Nota filológica",
-              "gloss": "del casco al asiento del magistrado",
-              "body": "Casque es casco militar; cushion, cojín o asiento de autoridad civil. La antítesis condensa la incapacidad de cambiar el estilo de mando de la guerra a la paz. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.7 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/7/; Shakespeare Online, Coriolanus IV.7, https://www.shakespeare-online.com/plays/corio_4_7.html.",
+              "gloss": "del casco militar al asiento del gobierno civil",
+              "body": "Antítesis entre mando bélico y autoridad civil. Aufidio critica la incapacidad de Coriolano de adaptar sus maneras al ejercicio de la paz; Brooke, IV.7.42–43, destaca la oposición. C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale, 1924), notas a IV.7, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV; Folger Shakespeare Library, Coriolanus IV.7, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/7/.",
               "lemma": "casque",
               "lemmaUrl": "https://en.wiktionary.org/wiki/casque"
             },
@@ -25459,8 +25459,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "spices of them all",
               "title": "spices of them all",
               "type": "Nota filológica",
-              "gloss": "algo de todos esos defectos",
-              "body": "Spices significa aquí matices o pequeñas porciones; Aufidio matiza su diagnóstico y evita atribuirle por completo cada defecto. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.7 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/7/; Shakespeare Online, Coriolanus IV.7, https://www.shakespeare-online.com/plays/corio_4_7.html.",
+              "gloss": "una pizca de cada uno de esos defectos",
+              "body": "La metáfora culinaria matiza el diagnóstico de Aufidio: admite indicios de todos los defectos, pero no su presencia plena. Brooke, IV.7.46–47, «some flavor ... but not in full degree». C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale, 1924), notas a IV.7, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV; Folger Shakespeare Library, Coriolanus IV.7, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/7/.",
               "lemma": "spice",
               "lemmaUrl": "https://en.wiktionary.org/wiki/spice"
             },
@@ -25468,8 +25468,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "a merit / To choke it in the utt’rance",
               "title": "a merit / To choke it in the utt’rance",
               "type": "Nota filológica",
-              "gloss": "un mérito tan grande que cuesta expresarlo",
-              "body": "La construcción es difícil: merit puede señalar una virtud que sofoca el intento de nombrarla; se conserva la ambigüedad entre elogio sincero y cálculo hostil. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.7 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/7/; Shakespeare Online, Coriolanus IV.7, https://www.shakespeare-online.com/plays/corio_4_7.html.",
+              "gloss": "méritos capaces de acallar la acusación al pronunciarla",
+              "body": "La excelencia de Coriolano dificulta verbalizar la condena; «it» remite a la censura precedente. El referente preciso admite matices interpretativos; Brooke, IV.7.48–49, remite a nota. C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale, 1924), notas a IV.7, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV; Folger Shakespeare Library, Coriolanus IV.7, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/7/.",
               "lemma": "merit",
               "lemmaUrl": "https://en.wiktionary.org/wiki/merit"
             },
@@ -25477,8 +25477,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "interpretation of the time",
               "title": "interpretation of the time",
               "type": "Nota filológica",
-              "gloss": "interpretación de cada época",
-              "body": "Aforismo sobre el carácter histórico y variable del juicio público: las mismas cualidades pueden ser admiradas o condenadas según las circunstancias. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.7 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/7/; Shakespeare Online, Coriolanus IV.7, https://www.shakespeare-online.com/plays/corio_4_7.html.",
+              "gloss": "la interpretación que hace cada época",
+              "body": "Sentencia sobre la dependencia histórica del valor público de las virtudes. No equivale a relativismo absoluto del personaje; la formula Aufidio dentro de su argumentación interesada. Brooke, IV.7.50: «depend upon». C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale, 1924), notas a IV.7, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV; Folger Shakespeare Library, Coriolanus IV.7, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/7/.",
               "lemma": "interpretation",
               "lemmaUrl": "https://en.wiktionary.org/wiki/interpretation"
             },
@@ -25487,7 +25487,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "a tomb so evident as a chair",
               "type": "Nota filológica",
               "gloss": "una tumba tan visible como un asiento de poder",
-              "body": "Paradoja política: el cargo desde el cual el poder se ensalza puede convertirse en el lugar de su ruina. La imagen no es una descripción literal. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.7 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/7/; Shakespeare Online, Coriolanus IV.7, https://www.shakespeare-online.com/plays/corio_4_7.html.",
+              "body": "Paradoja: el poder que se celebra a sí mismo desde su puesto («chair») puede preparar su caída («tomb»). Es una lectura de la metáfora política, cuya construcción Brooke (IV.7.51–53) considera digna de nota específica. C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale, 1924), notas a IV.7, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV; Folger Shakespeare Library, Coriolanus IV.7, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/7/.",
               "lemma": "chair",
               "lemmaUrl": "https://en.wiktionary.org/wiki/chair"
             },
@@ -25496,7 +25496,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "One fire drives out one fire",
               "type": "Nota filológica",
               "gloss": "un fuego desplaza a otro fuego",
-              "body": "Paralelismo proverbial de sustitución y rivalidad, reforzado por nail/nail y rights/rights. Aufidio proyecta que una fuerza vencerá a otra. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.7 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/7/; Shakespeare Online, Coriolanus IV.7, https://www.shakespeare-online.com/plays/corio_4_7.html.",
+              "body": "Proverbio de sustitución entre fuerzas rivales, reforzado por «one nail one nail». Anticipa el plan de Aufidio de desplazar a Coriolano mediante una fuerza comparable. La aplicación dramática es interpretación. C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale, 1924), notas a IV.7, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV; Folger Shakespeare Library, Coriolanus IV.7, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/7/.",
               "lemma": "fire",
               "lemmaUrl": "https://en.wiktionary.org/wiki/fire"
             },
@@ -25505,7 +25505,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "poor’st of all",
               "type": "Nota filológica",
               "gloss": "el más pobre de todos",
-              "body": "Superlativo contraído poorest; anticipa irónicamente que la conquista de Roma dejará a Coriolano despojado y vulnerable. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus IV.7 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/7/; Shakespeare Online, Coriolanus IV.7, https://www.shakespeare-online.com/plays/corio_4_7.html.",
+              "body": "Ironía de la victoria: al conquistar Roma, Coriolano perderá el respaldo político que lo protege, quedando vulnerable ante Aufidio. Es una anticipación dramática, no una afirmación de pobreza material. C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale, 1924), notas a IV.7, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV; Folger Shakespeare Library, Coriolanus IV.7, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/7/.",
               "lemma": "poor",
               "lemmaUrl": "https://en.wiktionary.org/wiki/poor"
             }
