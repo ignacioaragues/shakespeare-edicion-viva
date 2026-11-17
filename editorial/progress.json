@@ -3160,6 +3160,20 @@
         "https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V"
       ],
       "status": "reviewed_with_open_sources_private_books_pending"
+    },
+    {
+      "id": "coriolanus-5-6-3758-3809",
+      "act": 5,
+      "scene": 6,
+      "first_line": 3758,
+      "last_line": 3809,
+      "reviewed_on": "2026-11-18",
+      "scope": "Segunda revisión filológica V.6 3758–3809: 52 líneas Folger, 12 bloques, 11 notas con glosas y bibliografía revisadas, 4 notas nuevas, 2 anclas ajustadas. Women’s rheum, inversión de autoridad en el retorno, conspiración para imponer un relato póstumo, counterpoise como más de un tercio de los gastos y formalidad del tratado. Textos EN/ES, IDs, offsets y saltos intactos; QA visual y cotejo privado pendientes.",
+      "sources": [
+        "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/",
+        "https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V"
+      ],
+      "status": "reviewed_with_open_sources_private_books_pending"
     }
   ],
   "verse_format_reviews": [

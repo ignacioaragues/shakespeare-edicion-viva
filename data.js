@@ -29781,8 +29781,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "carried Rome",
               "title": "carried Rome",
               "type": "Nota filológica",
-              "gloss": "había sometido a Roma",
-              "body": "«Carry» tiene aquí valor militar: haber alcanzado la victoria sobre Roma; el conspirador presenta como consumada una conquista que finalmente no se materializó. Fuentes: Folger, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.6.html.",
+              "gloss": "haber llegado a dominar Roma",
+              "body": "«Carry» es aquí conquistar o dominar militarmente; la rendición parecía cercana. Fuentes: Folger, Coriolanus V.6 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/); C. F. Tucker Brooke, Yale 1924, acto V (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V).",
               "lemma": "carry",
               "lemmaUrl": "https://en.wiktionary.org/wiki/carry"
             },
@@ -29816,8 +29816,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "women’s rheum",
               "title": "women’s rheum",
               "type": "Nota filológica",
-              "gloss": "lágrimas de mujeres",
-              "body": "«Rheum» designa un flujo de líquido corporal; aquí, despectivamente, las lágrimas de las mujeres que persuadieron a Coriolano. La valoración pertenece a Aufidio, no al editor. Fuentes: Folger, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.6.html.",
+              "gloss": "lágrimas femeninas",
+              "body": "«Rheum» designa secreción o flujo; Aufidio desprecia las lágrimas de la familia como causa del abandono de la campaña. Fuentes: Folger, Coriolanus V.6 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/); C. F. Tucker Brooke, Yale 1924, acto V (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V).",
               "lemma": "rheum",
               "lemmaUrl": "https://en.wiktionary.org/wiki/rheum"
             },
@@ -29832,10 +29832,17 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "renew me",
               "title": "renew me",
               "type": "Nota filológica",
-              "gloss": "recobraré mi posición",
-              "body": "El verbo alude a la recuperación del poder y prestigio de Aufidio mediante la eliminación de su rival; «renovarme» sería un calco poco claro. Fuentes: Folger, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.6.html.",
+              "gloss": "recuperar mi posición",
+              "body": "Aufidio imagina que la caída de Coriolano restablecerá su propio poder. Fuentes: Folger, Coriolanus V.6 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/); C. F. Tucker Brooke, Yale 1924, acto V (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V).",
               "lemma": "renew",
               "lemmaUrl": "https://en.wiktionary.org/wiki/renew"
+            },
+            {
+              "term": "sold the blood and labor",
+              "title": "sold the blood and labor",
+              "type": "Nota filológica",
+              "gloss": "traicionó el sacrificio militar",
+              "body": "El verbo «sell» convierte el acuerdo de paz en una venta vergonzosa de la sangre y el trabajo de los volscos. Fuentes: Folger, Coriolanus V.6 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/); C. F. Tucker Brooke, Yale 1924, acto V (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V)."
             }
           ]
         },
@@ -29849,8 +29856,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "like a post",
               "title": "like a post",
               "type": "Nota filológica",
-              "gloss": "como un mensajero de posta",
-              "body": "«Post» se refiere al correo o mensajero que llega sin ceremonia; la comparación acentúa la humillación de Aufidio frente a la acogida de Coriolano. Fuentes: Folger, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.6.html.",
+              "gloss": "como un correo de posta",
+              "body": "El mensajero llega sin ceremonia, en contraste con el recibimiento triunfal del otro general. Fuentes: Folger, Coriolanus V.6 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/); C. F. Tucker Brooke, Yale 1924, acto V (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V).",
               "lemma": "post",
               "lemmaUrl": "https://en.wiktionary.org/wiki/post"
             },
@@ -29874,7 +29881,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "patient fools",
               "type": "Nota filológica",
               "gloss": "necios resignados",
-              "body": "«Patient» destaca la tolerancia o pasividad que el conspirador desprecia: el pueblo celebra al hombre que causó pérdidas entre sus familias. Fuentes: Folger, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.6.html.",
+              "body": "«Patient» destaca la tolerancia paradójica de quienes celebran al hombre que mató a sus hijos. Fuentes: Folger, Coriolanus V.6 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/); C. F. Tucker Brooke, Yale 1924, acto V (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V).",
               "lemma": "patient",
               "lemmaUrl": "https://en.wiktionary.org/wiki/patient"
             },
@@ -29926,8 +29933,15 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "his tale pronounced",
               "title": "his tale pronounced",
               "type": "Nota filológica",
-              "gloss": "la versión pública que tú proclames",
-              "body": "La sintaxis condensa el contraste entre relato oficial y defensa silenciada. La lectura de «after your way» como «según tu versión» es contextual: el conspirador propone que Aufidio controle el relato tras el asesinato. Fuentes: Folger, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.6.html."
+              "gloss": "su versión de los hechos proclamada",
+              "body": "La sintaxis implica que, muerto Coriolano, Aufidio impondrá públicamente su relato y enterrará las razones del acusado. Fuentes: Folger, Coriolanus V.6 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/); C. F. Tucker Brooke, Yale 1924, acto V (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V)."
+            },
+            {
+              "term": "let him feel your sword",
+              "title": "let him feel your sword",
+              "type": "Nota filológica",
+              "gloss": "atácalo antes de que hable",
+              "body": "Los conspiradores quieren impedir una defensa pública y sustituirla por una versión interesada tras su muerte. Fuentes: Folger, Coriolanus V.6 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/); C. F. Tucker Brooke, Yale 1924, acto V (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V)."
             }
           ]
         },
@@ -29991,11 +30005,11 @@ window.SHAKESPEARE_READER_DATA = {
               "lemmaUrl": "https://en.wiktionary.org/wiki/fine"
             },
             {
-              "term": "there to end / Where he was to begin",
-              "title": "there to end / Where he was to begin",
+              "term": "there to end",
+              "title": "there to end",
               "type": "Nota filológica",
-              "gloss": "detenerse cuando debía empezar",
-              "body": "Antítesis temporal: para los volscos, alcanzar las puertas de Roma era el comienzo de la victoria, no el final de la campaña. Fuentes: Folger Digital Texts, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; cotejo textual: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.6.html."
+              "gloss": "detenerse donde debía empezar",
+              "body": "Los señores consideran que la capitulación de Roma era el verdadero objetivo y que pactar antes fue una renuncia. Fuentes: Folger, Coriolanus V.6 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/); C. F. Tucker Brooke, Yale 1924, acto V (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V)."
             },
             {
               "term": "levies",
@@ -30016,11 +30030,18 @@ window.SHAKESPEARE_READER_DATA = {
               "lemmaUrl": "https://en.wiktionary.org/wiki/charge"
             },
             {
-              "term": "making a treaty where / There was a yielding",
-              "title": "making a treaty where / There was a yielding",
+              "term": "making a treaty where",
+              "title": "making a treaty where",
               "type": "Nota filológica",
-              "gloss": "negociar cuando se esperaba una rendición",
-              "body": "El señor considera que Coriolano sustituyó una capitulación militar por un acuerdo. Es la valoración interesada del personaje, no un hecho que el editor deba adoptar sin matices. Fuentes: Folger Digital Texts, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; cotejo textual: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.6.html."
+              "gloss": "pactar cuando había una rendición a la vista",
+              "body": "La oposición entre tratado y sometimiento resume la acusación política contra Coriolano. Fuentes: Folger, Coriolanus V.6 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/); C. F. Tucker Brooke, Yale 1924, acto V (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V)."
+            },
+            {
+              "term": "benefit of our levies",
+              "title": "benefit of our levies",
+              "type": "Nota filológica",
+              "gloss": "fruto de las tropas movilizadas",
+              "body": "Los señores consideran desperdiciado el resultado de la movilización, aunque Coriolano ha conseguido botín y tratado. Fuentes: Folger, Coriolanus V.6 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/); C. F. Tucker Brooke, Yale 1924, acto V (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V)."
             }
           ]
         },
@@ -30075,7 +30096,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "Doth more than counterpoise",
               "type": "Nota filológica",
               "gloss": "compensa con creces",
-              "body": "«Doth» es tercera persona singular histórica de «do»; el sujeto gramatical es «Our spoils», tratado aquí como conjunto. «Counterpoise» significa equilibrar o compensar. Fuentes: Folger, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; lema: https://en.wiktionary.org/wiki/do.",
+              "body": "«Counterpoise» es equilibrar o compensar: el botín supera un tercio de los gastos, no el gasto total. Fuentes: Folger, Coriolanus V.6 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/); C. F. Tucker Brooke, Yale 1924, acto V (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V).",
               "lemma": "do",
               "lemmaUrl": "https://en.wiktionary.org/wiki/do"
             },
@@ -30092,8 +30113,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "compounded on",
               "title": "compounded on",
               "type": "Nota filológica",
-              "gloss": "acordado mediante negociación",
-              "body": "«Compound» tiene aquí sentido de llegar a un arreglo. La presentación de un acuerdo sellado contrasta con la acusación de traición que sigue. Fuentes: Folger, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; lema: https://en.wiktionary.org/wiki/compound.",
+              "gloss": "pactado mediante negociación",
+              "body": "«Compound» significa convenir o resolver mediante acuerdo; Coriolano presenta las condiciones de paz por escrito. Fuentes: Folger, Coriolanus V.6 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/); C. F. Tucker Brooke, Yale 1924, acto V (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V).",
               "lemma": "compound",
               "lemmaUrl": "https://en.wiktionary.org/wiki/compound"
             },
@@ -30102,7 +30123,14 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "El documento y la autoridad",
               "type": "Nota de contexto",
               "gloss": "firmado por los cónsules",
-              "body": "El acuerdo firmado y sellado hace visible la pretensión de legitimidad de Coriolano: entrega un instrumento de paz, no solo una explicación oral. La legitimidad que reivindica no garantiza su aceptación por los volscos. Texto: Folger V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; para el relato antiguo de la campaña y la negociación, Plutarco, Vida de Coriolano, §§27–36, https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Coriolanus%2A.html."
+              "body": "«Subscribed» remite a la suscripción documental, reforzada por el sello del Senado. Fuentes: Folger, Coriolanus V.6 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/); C. F. Tucker Brooke, Yale 1924, acto V (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V)."
+            },
+            {
+              "term": "No more infected",
+              "title": "No more infected",
+              "type": "Nota filológica",
+              "gloss": "no más contagiado",
+              "body": "La metáfora de enfermedad presenta el patriotismo romano como infección de la que Coriolano asegura estar libre. Fuentes: Folger, Coriolanus V.6 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/); C. F. Tucker Brooke, Yale 1924, acto V (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V)."
             }
           ]
         },
