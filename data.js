@@ -28309,15 +28309,15 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "poisonous of your honor",
               "title": "poisonous of your honor",
               "type": "Nota filológica",
-              "gloss": "perjudiciales para tu honor",
-              "body": "Construcción con of de valor relacional: Volumnia concede que pedir la destrucción de los volscos dañaría el honor de su hijo; su propuesta no exige esa traición. Fuente: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html."
+              "gloss": "nocivas para tu honor",
+              "body": "Volumnia reconoce que pedir la destrucción de los volscos sería perjudicial para el honor de su hijo; su petición es de reconciliación. Fuentes: Folger Shakespeare Library, Coriolanus V.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/); C. F. Tucker Brooke, Yale 1924, V.3 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V)."
             },
             {
               "term": "reconcile them",
               "title": "reconcile them",
               "type": "Nota filológica",
-              "gloss": "reconciliar a ambos pueblos",
-              "body": "El argumento se formula como una paz bilateral y no como una victoria romana a cualquier precio. La oposición entre dar y recibir clemencia estructura los versos siguientes. Fuente: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "gloss": "reconciliar a romanos y volscos",
+              "body": "La paz permitiría a ambos pueblos celebrar la clemencia de Coriolano, sin que uno deba destruir al otro. Fuentes: Folger Shakespeare Library, Coriolanus V.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/); C. F. Tucker Brooke, Yale 1924, V.3 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V).",
               "lemma": "reconcile",
               "lemmaUrl": "https://en.wiktionary.org/wiki/reconcile"
             },
@@ -28325,15 +28325,15 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "all-hail",
               "title": "all-hail",
               "type": "Nota filológica",
-              "gloss": "aclamación; saludo de homenaje",
-              "body": "La expresión funciona como saludo solemne de ambos bandos al mediador; la fórmula convierte la paz en una nueva fuente de gloria. Fuente: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html."
+              "gloss": "aclamación de homenaje",
+              "body": "Los dos bandos podrían saludar a Coriolano como pacificador; contrasta con el nombre maldito que dejaría la conquista. Fuentes: Folger Shakespeare Library, Coriolanus V.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/); C. F. Tucker Brooke, Yale 1924, V.3 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V)."
             },
             {
               "term": "dogged with curses",
               "title": "dogged with curses",
               "type": "Nota filológica",
               "gloss": "perseguido por maldiciones",
-              "body": "Dogged es participio de dog, «perseguir obstinadamente»; la fama de Coriolano quedaría inseparable de la reprobación pública. Fuente: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "body": "«Dogged» personifica las maldiciones como una persecución duradera de su nombre en la posteridad. Fuentes: Folger Shakespeare Library, Coriolanus V.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/); C. F. Tucker Brooke, Yale 1924, V.3 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V).",
               "lemma": "dog",
               "lemmaUrl": "https://en.wiktionary.org/wiki/dog"
             },
@@ -28341,22 +28341,22 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "fine strains of honor",
               "title": "fine strains of honor",
               "type": "Nota filológica",
-              "gloss": "las formas más elevadas del honor",
-              "body": "Strains puede aludir a cualidades o disposiciones: Volumnia opone el ideal heroico que él persigue a la destrucción de su propia ciudad. Fuente: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html."
+              "gloss": "formas más elevadas del honor",
+              "body": "Volumnia invoca los ideales heroicos del hijo para exigirle contención y misericordia. Fuentes: Folger Shakespeare Library, Coriolanus V.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/); C. F. Tucker Brooke, Yale 1924, V.3 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V)."
             },
             {
               "term": "charge thy sulfur with a bolt",
               "title": "charge thy sulfur with a bolt",
               "type": "Nota filológica",
-              "gloss": "cargar de azufre tu rayo",
-              "body": "La imagen atribuye al héroe un poder semejante al del rayo de Júpiter, pero lo limita al blanco menor de un roble: la desproporción forma parte del reproche. Fuente: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html."
+              "gloss": "cargar de fuego sulfuroso un rayo",
+              "body": "La imagen del rayo divino expresa un poder destructivo que, sin embargo, se limita a hender un roble. Fuentes: Folger Shakespeare Library, Coriolanus V.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/); C. F. Tucker Brooke, Yale 1924, V.3 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V)."
             },
             {
               "term": "rive an oak",
               "title": "rive an oak",
               "type": "Nota filológica",
-              "gloss": "partir un roble",
-              "body": "Rive es «hender, partir»; la comparación propone contener una fuerza devastadora en vez de dirigirla contra una ciudad. Fuente: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "gloss": "hender un roble",
+              "body": "«Rive» es partir o hender: el blanco limitado contrasta con la fuerza cósmica de la tormenta. Fuentes: Folger Shakespeare Library, Coriolanus V.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/); C. F. Tucker Brooke, Yale 1924, V.3 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V).",
               "lemma": "rive",
               "lemmaUrl": "https://en.wiktionary.org/wiki/rive"
             },
@@ -28364,29 +28364,29 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "bound to ’s mother",
               "title": "bound to ’s mother",
               "type": "Nota filológica",
-              "gloss": "obligado para con su madre",
-              "body": "Bound to indica deber moral, no sujeción física; ’s representa his en la forma contraída. Fuente: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html."
+              "gloss": "obligado moralmente con su madre",
+              "body": "La obligación filial es la base del reproche de Volumnia: el hijo no le concede la deferencia que ella reclama. Fuentes: Folger Shakespeare Library, Coriolanus V.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/); C. F. Tucker Brooke, Yale 1924, V.3 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V)."
             },
             {
               "term": "i’ th’ stocks",
               "title": "i’ th’ stocks",
               "type": "Nota filológica",
-              "gloss": "en el cepo",
-              "body": "Los stocks eran un instrumento público de inmovilización y escarnio: Volumnia presenta su propia elocuencia como humillada e impotente. Fuente: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html."
+              "gloss": "expuesta al cepo",
+              "body": "El instrumento de castigo público funciona como imagen de la humillación de hablar sin ser escuchada. Fuentes: Folger Shakespeare Library, Coriolanus V.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/); C. F. Tucker Brooke, Yale 1924, V.3 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V)."
             },
             {
               "term": "poor hen",
               "title": "poor hen",
               "type": "Nota filológica",
-              "gloss": "pobre gallina",
-              "body": "La metáfora doméstica contrapone a la madre protectora con el hijo educado para la guerra; «sin deseos de otra nidada» refuerza la singularidad de su vínculo. Fuente: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html."
+              "gloss": "pobre gallina de una sola nidada",
+              "body": "La comparación doméstica presenta a Volumnia como madre dedicada exclusivamente a su hijo guerrero. Fuentes: Folger Shakespeare Library, Coriolanus V.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/); C. F. Tucker Brooke, Yale 1924, V.3 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V)."
             },
             {
               "term": "clucked thee to the wars",
               "title": "clucked thee to the wars",
               "type": "Nota filológica",
-              "gloss": "te ha despedido hacia la guerra como una gallina que cacarea",
-              "body": "Clucked es un uso verbal figurado: el sonido de la gallina se proyecta sobre la madre que alienta y recibe al hijo. Fuente: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "gloss": "te envió a la guerra con cacareo maternal",
+              "body": "El verbo prolonga la comparación aviar: la madre despide y recibe al hijo de la guerra. Fuentes: Folger Shakespeare Library, Coriolanus V.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/); C. F. Tucker Brooke, Yale 1924, V.3 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V).",
               "lemma": "cluck",
               "lemmaUrl": "https://en.wiktionary.org/wiki/cluck"
             },
@@ -28394,8 +28394,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "’longs",
               "title": "’longs",
               "type": "Nota filológica",
-              "gloss": "pertenece; corresponde",
-              "body": "Forma aféresis de belongs: el orgullo pertenece más al sobrenombre militar que la piedad a las súplicas. Fuente: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "gloss": "pertenece, corresponde",
+              "body": "El sobrenombre militar «Coriolanus» parece exigir más orgullo que compasión. Fuentes: Folger Shakespeare Library, Coriolanus V.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/); C. F. Tucker Brooke, Yale 1924, V.3 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V).",
               "lemma": "belong",
               "lemmaUrl": "https://en.wiktionary.org/wiki/belong"
             },
@@ -28403,8 +28403,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "Does reason our petition",
               "title": "Does reason our petition",
               "type": "Nota filológica",
-              "gloss": "argumenta a favor de nuestra petición",
-              "body": "Reason es aquí verbo transitivo: el gesto del niño ofrece una razón persuasiva sin palabras. Fuente: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "gloss": "argumenta en favor de nuestra petición",
+              "body": "El niño razona con gestos más persuasivos que las palabras de los adultos, según Volumnia. Fuentes: Folger Shakespeare Library, Coriolanus V.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/); C. F. Tucker Brooke, Yale 1924, V.3 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V).",
               "lemma": "reason",
               "lemmaUrl": "https://en.wiktionary.org/wiki/reason"
             },
@@ -28412,17 +28412,59 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "had a Volscian to his mother",
               "title": "had a Volscian to his mother",
               "type": "Nota filológica",
-              "gloss": "debió de tener una volsca por madre",
-              "body": "La afirmación es una negación retórica de su filiación romana, no una noticia genealógica. Fuente: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html."
+              "gloss": "parece haber tenido una madre volsca",
+              "body": "La madre niega irónicamente su propio parentesco para denunciar la dureza de Coriolano. Fuentes: Folger Shakespeare Library, Coriolanus V.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/); C. F. Tucker Brooke, Yale 1924, V.3 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V)."
             },
             {
               "term": "I am hushed",
               "title": "I am hushed",
               "type": "Nota filológica",
               "gloss": "guardaré silencio",
-              "body": "El silencio anunciado culmina el discurso: la respuesta escénica de Coriolano se desencadena después de que ella deja de hablar. Fuente: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "body": "La amenaza de callar hasta que Roma arda cierra la súplica con la catástrofe que intenta evitar. Fuentes: Folger Shakespeare Library, Coriolanus V.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/); C. F. Tucker Brooke, Yale 1924, V.3 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V).",
               "lemma": "hush",
               "lemmaUrl": "https://en.wiktionary.org/wiki/hush"
+            },
+            {
+              "term": "end of war’s uncertain",
+              "title": "end of war’s uncertain",
+              "type": "Nota filológica",
+              "gloss": "el resultado de la guerra es incierto",
+              "body": "La incertidumbre de la victoria militar contrasta con la certeza de la deshonra si Coriolano destruye Roma. Fuentes: Folger Shakespeare Library, Coriolanus V.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/); C. F. Tucker Brooke, Yale 1924, V.3 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V)."
+            },
+            {
+              "term": "wiped it out",
+              "title": "wiped it out",
+              "type": "Nota filológica",
+              "gloss": "borró sus méritos anteriores",
+              "body": "Una sola acción final puede anular retrospectivamente toda su reputación heroica. Fuentes: Folger Shakespeare Library, Coriolanus V.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/); C. F. Tucker Brooke, Yale 1924, V.3 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V)."
+            },
+            {
+              "term": "Still to remember wrongs",
+              "title": "Still to remember wrongs",
+              "type": "Nota filológica",
+              "gloss": "seguir recordando agravios",
+              "body": "«Still» tiene valor continuativo; el rencor persistente se presenta como incompatible con la nobleza. Fuentes: Folger Shakespeare Library, Coriolanus V.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/); C. F. Tucker Brooke, Yale 1924, V.3 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V)."
+            },
+            {
+              "term": "one i’ th’ stocks",
+              "title": "one i’ th’ stocks",
+              "type": "Nota filológica",
+              "gloss": "una persona en el cepo",
+              "body": "El símil presenta a la madre ignorada como alguien públicamente castigado y expuesto. Fuentes: Folger Shakespeare Library, Coriolanus V.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/); C. F. Tucker Brooke, Yale 1924, V.3 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V)."
+            },
+            {
+              "term": "surname Coriolanus",
+              "title": "surname Coriolanus",
+              "type": "Nota filológica",
+              "gloss": "sobrenombre Coriolano",
+              "body": "El cognomen ganado en Corioles concentra la gloria militar que ahora se opone a la compasión. Fuentes: Folger Shakespeare Library, Coriolanus V.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/); C. F. Tucker Brooke, Yale 1924, V.3 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V)."
+            },
+            {
+              "term": "his child",
+              "title": "his child",
+              "type": "Nota filológica",
+              "gloss": "su propio hijo",
+              "body": "La madre niega sarcásticamente la filiación de la familia para reprochar el desapego de Coriolano. Fuentes: Folger Shakespeare Library, Coriolanus V.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/); C. F. Tucker Brooke, Yale 1924, V.3 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V)."
             }
           ]
         },
