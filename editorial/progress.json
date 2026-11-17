@@ -3046,6 +3046,21 @@
         "https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V"
       ],
       "status": "reviewed_with_open_sources_private_books_pending"
+    },
+    {
+      "id": "coriolanus-5-2-3348-3400",
+      "act": 5,
+      "scene": 2,
+      "first_line": 3348,
+      "last_line": 3400,
+      "reviewed_on": "2026-11-17",
+      "scope": "Segunda revisión filológica V.2 3348–3400 (53 líneas Folger, escena completa, 12 bloques): 33 glosas revisadas, 7 notas nuevas y cuatro anclas reparadas. Cotejo Folger y Brooke Yale 1924 de Jack guardant, office, spectatorship, synod, remission, ingrate forgetfulness, shent, curse of age, junto al tono irónico y al vocativo «This man, Aufidius». Dos cuestiones de traducción señaladas para corregir posteriormente sin alterar offsets: «say an errand for you» (denuncia, no encargo) y «This man, Aufidius» (habla de Menenio). Inglés, español, IDs, acotaciones y saltos intactos; QA de navegador y libros privados pendientes.",
+      "sources": [
+        "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/",
+        "https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V",
+        "https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Notes"
+      ],
+      "status": "reviewed_with_open_sources_private_books_pending"
     }
   ],
   "verse_format_reviews": [

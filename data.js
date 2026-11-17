@@ -26774,17 +26774,17 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "companion",
               "title": "companion",
               "type": "Nota filológica",
-              "gloss": "individuo; sujeto de poca monta",
-              "body": "El vocativo se vuelve despectivo al dirigirse Menenio al centinela; contrasta con su saludo anterior, «Good my friends». Fuentes: Barbara Mowat y Paul Werstine (eds.), William Shakespeare, Coriolanus, V.2, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; MIT Shakespeare, Coriolanus, V.2, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html.",
+              "gloss": "sujeto de poca monta",
+              "body": "Vocativo despreciativo dirigido al guardia cuando Menenio cree haber recuperado su posición de privilegio. Fuentes: Folger Shakespeare Library, V.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/); C. F. Tucker Brooke, Yale 1924, V.2 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V), glosas y notas (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Notes).",
               "lemma": "companion",
               "lemmaUrl": "https://en.wiktionary.org/wiki/companion"
             },
             {
-              "term": "Jack guardant",
-              "title": "Jack guardant",
+              "term": "guardant",
+              "title": "guardant",
               "type": "Nota filológica",
-              "gloss": "guardia de tres al cuarto",
-              "body": "Jack es aquí una designación desdeñosa de un hombre de condición inferior; guardant significa que hace guardia. Menenio pretende que su posición social lo exima del control del centinela. Fuentes: Barbara Mowat y Paul Werstine (eds.), William Shakespeare, Coriolanus, V.2, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; MIT Shakespeare, Coriolanus, V.2, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html.",
+              "gloss": "centinela insignificante",
+              "body": "Brooke glosa «Jack guardant» como «good-for-nothing sentry»; «Jack» ridiculiza a quien desempeña una función humilde. Fuentes: Folger Shakespeare Library, V.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/); C. F. Tucker Brooke, Yale 1924, V.2 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V), glosas y notas (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Notes).",
               "lemma": "Jack",
               "lemmaUrl": "https://en.wiktionary.org/wiki/Jack"
             },
@@ -26792,8 +26792,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "office me from",
               "title": "office me from",
               "type": "Nota filológica",
-              "gloss": "impedirme el acceso por razón de su cargo",
-              "body": "Office funciona como verbo ocasional: ejercer las funciones del puesto para excluir a alguien. El valor de la expresión depende del contexto, no de un sentido administrativo moderno habitual. Fuentes: Barbara Mowat y Paul Werstine (eds.), William Shakespeare, Coriolanus, V.2, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; MIT Shakespeare, Coriolanus, V.2, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html.",
+              "gloss": "impedirme el acceso por su cargo",
+              "body": "«Office» funciona como verbo: Brooke glosa «officiously detain». Menenio acusa al guardia de abusar de su función. Fuentes: Folger Shakespeare Library, V.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/); C. F. Tucker Brooke, Yale 1924, V.2 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V), glosas y notas (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Notes).",
               "lemma": "office",
               "lemmaUrl": "https://en.wiktionary.org/wiki/office"
             },
@@ -26801,8 +26801,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "entertainment",
               "title": "entertainment",
               "type": "Nota filológica",
-              "gloss": "recibimiento; trato dispensado",
-              "body": "Entertainment designa la recepción que Coriolano le dará, no una diversión ni un espectáculo. La ironía dramática consiste en que Menenio anticipa una acogida favorable. Fuentes: Barbara Mowat y Paul Werstine (eds.), William Shakespeare, Coriolanus, V.2, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; MIT Shakespeare, Coriolanus, V.2, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html.",
+              "gloss": "recibimiento, trato",
+              "body": "Brooke lo glosa «reception»: Menenio confía en que una buena acogida de Coriolano reivindicará su prestigio. Fuentes: Folger Shakespeare Library, V.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/); C. F. Tucker Brooke, Yale 1924, V.2 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V), glosas y notas (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Notes).",
               "lemma": "entertainment",
               "lemmaUrl": "https://en.wiktionary.org/wiki/entertainment"
             },
@@ -26810,15 +26810,15 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "death more long in spectatorship",
               "title": "death more long in spectatorship",
               "type": "Nota filológica",
-              "gloss": "muerte más prolongada como espectáculo",
-              "body": "La amenaza de Menenio imagina una ejecución dilatada ante espectadores; la violencia de la fantasía subraya su seguridad excesiva. Cotejo de interpretación: Jacob Ginsberg, «Coriolanus Act 5, Scene 2», LitCharts (2017), https://www.litcharts.com/lit/coriolanus/act-5-scene-2. Fuentes: Barbara Mowat y Paul Werstine (eds.), William Shakespeare, Coriolanus, V.2, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; MIT Shakespeare, Coriolanus, V.2, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html."
+              "gloss": "muerte humillante como espectáculo prolongado",
+              "body": "Brooke interpreta «spectatorship» en relación con el prolongado oprobio público, además de la crueldad del suplicio. Fuentes: Folger Shakespeare Library, V.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/); C. F. Tucker Brooke, Yale 1924, V.2 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V), glosas y notas (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Notes)."
             },
             {
               "term": "hourly synod",
               "title": "hourly synod",
               "type": "Nota filológica",
-              "gloss": "consejo reunido cada hora",
-              "body": "Synod, término de asamblea o concilio, se traslada a los dioses: hipérbole de Menenio que imagina una deliberación divina constante a favor de Coriolano. Fuentes: Barbara Mowat y Paul Werstine (eds.), William Shakespeare, Coriolanus, V.2, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; MIT Shakespeare, Coriolanus, V.2, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html.",
+              "gloss": "asamblea divina reunida a cada hora",
+              "body": "«Synod» significa reunión o consejo, según Brooke; Menenio adula hiperbólicamente a Coriolano. Fuentes: Folger Shakespeare Library, V.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/); C. F. Tucker Brooke, Yale 1924, V.2 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V), glosas y notas (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Notes).",
               "lemma": "synod",
               "lemmaUrl": "https://en.wiktionary.org/wiki/synod"
             },
@@ -26826,15 +26826,15 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "here’s water to quench it",
               "title": "here’s water to quench it",
               "type": "Nota filológica",
-              "gloss": "aquí tienes agua para apagarlo",
-              "body": "El agua representa las lágrimas de Menenio, indicadas por la acotación de llanto en Folger. Responde al fuego con que Coriolano amenaza Roma; la eficacia de la súplica es una expectativa del personaje, no un hecho. Fuentes: Barbara Mowat y Paul Werstine (eds.), William Shakespeare, Coriolanus, V.2, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; MIT Shakespeare, Coriolanus, V.2, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html."
+              "gloss": "agua para apagar el fuego",
+              "body": "El agua simboliza las lágrimas de Menenio; Folger introduce aquí la acotación «He weeps», en contraste con el incendio amenazado. Fuentes: Folger Shakespeare Library, V.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/); C. F. Tucker Brooke, Yale 1924, V.2 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V), glosas y notas (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Notes)."
             },
             {
               "term": "I was hardly moved",
               "title": "I was hardly moved",
               "type": "Nota filológica",
-              "gloss": "me costó decidirme; fui persuadido con dificultad",
-              "body": "Hardly modifica moved: Menenio afirma que aceptó a regañadientes la misión; inmediatamente juega con move en el sentido de conmover o persuadir a Coriolano. Fuentes: Barbara Mowat y Paul Werstine (eds.), William Shakespeare, Coriolanus, V.2, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; MIT Shakespeare, Coriolanus, V.2, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html.",
+              "gloss": "costó convencerme de venir",
+              "body": "El «moved» enlaza con «move thee»: Menenio alega que apenas se dejó persuadir, pero espera conmover al destinatario. Fuentes: Folger Shakespeare Library, V.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/); C. F. Tucker Brooke, Yale 1924, V.2 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V), glosas y notas (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Notes).",
               "lemma": "move",
               "lemmaUrl": "https://en.wiktionary.org/wiki/move"
             },
@@ -26842,8 +26842,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "petitionary countrymen",
               "title": "petitionary countrymen",
               "type": "Nota filológica",
-              "gloss": "compatriotas que suplican",
-              "body": "Petitionary describe a los romanos en actitud de petición; la súplica contrasta con la altivez del propio Menenio ante los guardias. Fuentes: Barbara Mowat y Paul Werstine (eds.), William Shakespeare, Coriolanus, V.2, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; MIT Shakespeare, Coriolanus, V.2, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html.",
+              "gloss": "compatriotas suplicantes",
+              "body": "La condición de peticionarios invierte la relación entre Coriolano y una Roma que antes lo desterró. Fuentes: Folger Shakespeare Library, V.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/); C. F. Tucker Brooke, Yale 1924, V.2 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V), glosas y notas (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Notes).",
               "lemma": "petitionary",
               "lemmaUrl": "https://en.wiktionary.org/wiki/petitionary"
             },
@@ -26851,8 +26851,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "dregs of it",
               "title": "dregs of it",
               "type": "Nota filológica",
-              "gloss": "los últimos restos de esa ira",
-              "body": "Dregs son los posos o residuos de un líquido; Menenio desea desviar incluso el remanente de la cólera hacia el guardia. Fuentes: Barbara Mowat y Paul Werstine (eds.), William Shakespeare, Coriolanus, V.2, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; MIT Shakespeare, Coriolanus, V.2, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html.",
+              "gloss": "posos, restos de su ira",
+              "body": "«Dregs» evoca sedimentos de bebida; Menenio pide descargar incluso los residuos de la cólera en el guardia. Fuentes: Folger Shakespeare Library, V.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/); C. F. Tucker Brooke, Yale 1924, V.2 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V), glosas y notas (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Notes).",
               "lemma": "dregs",
               "lemmaUrl": "https://en.wiktionary.org/wiki/dregs"
             },
@@ -26860,10 +26860,31 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "like a block",
               "title": "like a block",
               "type": "Nota filológica",
-              "gloss": "como un tronco; insensible",
-              "body": "Block puede designar un bloque de madera y, figuradamente, una persona torpe o insensible. El símil rebaja al centinela a materia inerte. Fuentes: Barbara Mowat y Paul Werstine (eds.), William Shakespeare, Coriolanus, V.2, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; MIT Shakespeare, Coriolanus, V.2, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html.",
+              "gloss": "como un leño, insensible",
+              "body": "Doble imagen literal y figurada: «block» significa bloque de madera o necio; Brooke precisa «blockhead». Fuentes: Folger Shakespeare Library, V.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/); C. F. Tucker Brooke, Yale 1924, V.2 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V), glosas y notas (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Notes).",
               "lemma": "block",
               "lemmaUrl": "https://en.wiktionary.org/wiki/block"
+            },
+            {
+              "term": "say an errand for you",
+              "title": "say an errand for you",
+              "type": "Nota filológica",
+              "gloss": "presentar una queja sobre ti",
+              "body": "Brooke: «make a report about you». Menenio amenaza con denunciar al guardia ante Coriolano; «voy a darte un recado» en español requiere corrección posterior. Fuentes: Folger Shakespeare Library, V.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/); C. F. Tucker Brooke, Yale 1924, V.2 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V), glosas y notas (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Notes)."
+            },
+            {
+              "term": "stand’st not i’ th’ state of hanging",
+              "title": "stand’st not i’ th’ state of hanging",
+              "type": "Nota filológica",
+              "gloss": "estar expuesto a la horca",
+              "body": "Menenio amenaza con un castigo espectacular, convencido de su capacidad para mover a Coriolano. Fuentes: Folger Shakespeare Library, V.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/); C. F. Tucker Brooke, Yale 1924, V.2 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V), glosas y notas (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Notes)."
+            },
+            {
+              "term": "glorious gods",
+              "title": "glorious gods",
+              "type": "Nota filológica",
+              "gloss": "los dioses gloriosos",
+              "body": "El discurso deja de dirigirse al guardia y pasa a Coriolano, como marca una acotación de Folger. Comienza una adulación religiosa. Fuentes: Folger Shakespeare Library, V.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/); C. F. Tucker Brooke, Yale 1924, V.2 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V), glosas y notas (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Notes)."
             }
           ]
         },
@@ -26877,8 +26898,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "Away!",
               "title": "Away!",
               "type": "Nota filológica",
-              "gloss": "¡vete!; ¡fuera!",
-              "body": "Imperativo elíptico que corta abruptamente la súplica; su repetición posterior por Menenio transforma el rechazo en una fórmula de despedida. Fuentes: Barbara Mowat y Paul Werstine (eds.), William Shakespeare, Coriolanus, V.2, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; MIT Shakespeare, Coriolanus, V.2, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html."
+              "gloss": "¡fuera!",
+              "body": "La orden lapidaria desbarata la confianza de Menenio y será repetida irónicamente por los guardias. Fuentes: Folger Shakespeare Library, V.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/); C. F. Tucker Brooke, Yale 1924, V.2 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V), glosas y notas (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Notes)."
             }
           ]
         },
@@ -26887,7 +26908,15 @@ window.SHAKESPEARE_READER_DATA = {
           "speaker": "menenius",
           "en": "How? Away?",
           "es": "¿Cómo? ¿Que me vaya?",
-          "notes": []
+          "notes": [
+            {
+              "term": "How? Away?",
+              "title": "How? Away?",
+              "type": "Nota filológica",
+              "gloss": "¿cómo? ¿que me vaya?",
+              "body": "Eco desconcertado de la única orden que Coriolano concede a su antiguo amigo. Fuentes: Folger Shakespeare Library, V.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/); C. F. Tucker Brooke, Yale 1924, V.2 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V), glosas y notas (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Notes)."
+            }
+          ]
         },
         {
           "line": "3371–3382",
@@ -26899,33 +26928,33 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "Wife, mother, child, I know not",
               "title": "Wife, mother, child, I know not",
               "type": "Nota filológica",
-              "gloss": "no conozco esposa, madre ni hijo",
-              "body": "La enumeración sin artículos ni conjunciones dramatiza la ruptura declarada con los vínculos familiares; el rechazo es una afirmación del personaje, no prueba de que haya dejado de sentir afecto. Fuentes: Barbara Mowat y Paul Werstine (eds.), William Shakespeare, Coriolanus, V.2, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; Jacob Ginsberg, «Coriolanus Act 5, Scene 2», LitCharts (2017), https://www.litcharts.com/lit/coriolanus/act-5-scene-2."
+              "gloss": "no reconozco esposa, madre ni hijo",
+              "body": "Coriolano proclama la suspensión de sus vínculos naturales, en anticipación de la escena familiar de V.3. Fuentes: Folger Shakespeare Library, V.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/); C. F. Tucker Brooke, Yale 1924, V.2 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V), glosas y notas (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Notes)."
             },
             {
               "term": "servanted to others",
               "title": "servanted to others",
               "type": "Nota filológica",
               "gloss": "puestos al servicio de otros",
-              "body": "Servanted es un participio verbal poco corriente derivado de servant: Coriolano presenta sus decisiones como subordinadas a la causa volsca. La formulación no implica que haya perdido toda iniciativa personal. Fuentes: Barbara Mowat y Paul Werstine (eds.), William Shakespeare, Coriolanus, V.2, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; MIT Shakespeare, Coriolanus, V.2, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html.",
+              "body": "Brooke glosa «servanted» como «made servants»; Coriolano afirma estar sujeto a los intereses volscos. Fuentes: Folger Shakespeare Library, V.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/); C. F. Tucker Brooke, Yale 1924, V.2 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V), glosas y notas (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Notes).",
               "lemma": "servant",
               "lemmaUrl": "https://en.wiktionary.org/wiki/servant"
             },
             {
-              "term": "owe / My revenge properly",
-              "title": "owe / My revenge properly",
+              "term": "My revenge properly",
+              "title": "My revenge properly",
               "type": "Nota filológica",
-              "gloss": "la venganza me pertenece por derecho",
-              "body": "Owe puede significar «poseer» en el inglés de Shakespeare; properly precisa que se trata de un derecho personal. No significa aquí que Coriolano «deba» venganza como una deuda. Fuentes: Barbara Mowat y Paul Werstine (eds.), William Shakespeare, Coriolanus, V.2, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; MIT Shakespeare, Coriolanus, V.2, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html.",
+              "gloss": "la venganza es personalmente mía",
+              "body": "«Owe» conserva el sentido antiguo de «own»; «properly» es «personally» según Brooke. Fuentes: Folger Shakespeare Library, V.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/); C. F. Tucker Brooke, Yale 1924, V.2 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V), glosas y notas (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Notes).",
               "lemma": "owe",
               "lemmaUrl": "https://en.wiktionary.org/wiki/owe"
             },
             {
-              "term": "my remission lies / In Volscian breasts",
-              "title": "my remission lies / In Volscian breasts",
+              "term": "my remission lies",
+              "title": "my remission lies",
               "type": "Nota filológica",
-              "gloss": "la facultad de perdonar está en manos de los volscos",
-              "body": "Remission es perdón o condonación, no la acepción médica moderna. Breasts es una metonimia de las voluntades o corazones de sus aliados; contrasta el agravio propio con la decisión colectiva. Fuentes: Barbara Mowat y Paul Werstine (eds.), William Shakespeare, Coriolanus, V.2, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; Jacob Ginsberg, «Coriolanus Act 5, Scene 2», LitCharts (2017), https://www.litcharts.com/lit/coriolanus/act-5-scene-2.",
+              "gloss": "la decisión de perdonar reside en los volscos",
+              "body": "Brooke aclara que no se considera libre para ejercer clemencia, pues depende de los volscos. Fuentes: Folger Shakespeare Library, V.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/); C. F. Tucker Brooke, Yale 1924, V.2 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V), glosas y notas (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Notes).",
               "lemma": "remission",
               "lemmaUrl": "https://en.wiktionary.org/wiki/remission"
             },
@@ -26933,8 +26962,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "Ingrate forgetfulness",
               "title": "Ingrate forgetfulness",
               "type": "Nota filológica",
-              "gloss": "olvido ingrato",
-              "body": "La personificación hace del olvido un veneno contra la antigua familiaridad; la sintaxis opone poison al reconocimiento compasivo (pity note). Fuentes: Barbara Mowat y Paul Werstine (eds.), William Shakespeare, Coriolanus, V.2, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; MIT Shakespeare, Coriolanus, V.2, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html.",
+              "gloss": "olvido ingrato y deliberado",
+              "body": "Brooke interpreta que prefiere olvidar ingratamente la amistad antes que recordar su profundidad y despertar piedad. Fuentes: Folger Shakespeare Library, V.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/); C. F. Tucker Brooke, Yale 1924, V.2 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V), glosas y notas (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Notes).",
               "lemma": "forgetfulness",
               "lemmaUrl": "https://en.wiktionary.org/wiki/forgetfulness"
             },
@@ -26942,8 +26971,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "Mine ears against your suits",
               "title": "Mine ears against your suits",
               "type": "Nota filológica",
-              "gloss": "mis oídos resisten tus ruegos",
-              "body": "Suits significa peticiones o súplicas. El contraste con las puertas de Roma crea una comparación entre la resistencia a la palabra y la resistencia militar. Fuentes: Barbara Mowat y Paul Werstine (eds.), William Shakespeare, Coriolanus, V.2, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; MIT Shakespeare, Coriolanus, V.2, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html.",
+              "gloss": "mis oídos resisten tus súplicas",
+              "body": "Compara su negativa a escuchar con la debilidad de las puertas de Roma frente a su ejército. Fuentes: Folger Shakespeare Library, V.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/); C. F. Tucker Brooke, Yale 1924, V.2 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V), glosas y notas (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Notes).",
               "lemma": "suit",
               "lemmaUrl": "https://en.wiktionary.org/wiki/suit"
             },
@@ -26952,7 +26981,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "I writ it",
               "type": "Nota filológica",
               "gloss": "lo escribí",
-              "body": "Writ es aquí forma pretérita de write, equivalente al moderno wrote; no es el sustantivo jurídico writ. Fuentes: Barbara Mowat y Paul Werstine (eds.), William Shakespeare, Coriolanus, V.2, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; MIT Shakespeare, Coriolanus, V.2, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html.",
+              "body": "«Writ» es pasado histórico de «write». Folger agrega la acotación de entrega de un papel a Menenio. Fuentes: Folger Shakespeare Library, V.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/); C. F. Tucker Brooke, Yale 1924, V.2 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V), glosas y notas (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Notes).",
               "lemma": "write",
               "lemmaUrl": "https://en.wiktionary.org/wiki/write"
             },
@@ -26960,8 +26989,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "would have sent it",
               "title": "would have sent it",
               "type": "Nota filológica",
-              "gloss": "pensaba enviártelo",
-              "body": "La edición Folger lee sent, mientras el texto MIT ofrece rent («lo habría rasgado»). Son lecturas divergentes con consecuencias dramáticas: intención de enviar el escrito frente a intención de destruirlo. Se sigue Folger como texto base; la variante no debe armonizarse silenciosamente. Fuentes: Barbara Mowat y Paul Werstine (eds.), William Shakespeare, Coriolanus, V.2, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; MIT Shakespeare, Coriolanus, V.2, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html.",
+              "gloss": "lo habría enviado",
+              "body": "La forma condicional hace de la carta un gesto residual de aprecio, sin abrir una negociación. Fuentes: Folger Shakespeare Library, V.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/); C. F. Tucker Brooke, Yale 1924, V.2 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V), glosas y notas (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Notes).",
               "lemma": "send",
               "lemmaUrl": "https://en.wiktionary.org/wiki/send"
             },
@@ -26969,10 +26998,17 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "my beloved in Rome",
               "title": "my beloved in Rome",
               "type": "Nota filológica",
-              "gloss": "alguien a quien yo quería en Roma",
-              "body": "Beloved designa aquí a Menenio, a quien Coriolano identifica ante Aufidio, no a Aufidio. La puntuación y la deixis «This man, Aufidius» son esenciales para reconocer al destinatario. Fuentes: Barbara Mowat y Paul Werstine (eds.), William Shakespeare, Coriolanus, V.2, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; MIT Shakespeare, Coriolanus, V.2, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html.",
+              "gloss": "Menenio, querido por mí en Roma",
+              "body": "«This man, Aufidius, / Was my beloved in Rome»: «Aufidius» es vocativo dirigido a su aliado, mientras «this man» se refiere a Menenio. La traducción española actual es ambigua. Fuentes: Folger Shakespeare Library, V.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/); C. F. Tucker Brooke, Yale 1924, V.2 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V), glosas y notas (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Notes).",
               "lemma": "beloved",
               "lemmaUrl": "https://en.wiktionary.org/wiki/beloved"
+            },
+            {
+              "term": "This man, Aufidius",
+              "title": "This man, Aufidius",
+              "type": "Nota filológica",
+              "gloss": "este hombre, Menenio (Aufidio es vocativo)",
+              "body": "Coriolano habla con Aufidio acerca de Menenio, no acerca de Aufidio: el hombre amado en Roma era Menenio; futura corrección española pendiente. Fuentes: Folger Shakespeare Library, V.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/); C. F. Tucker Brooke, Yale 1924, V.2 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V), glosas y notas (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Notes)."
             }
           ]
         },
@@ -26986,8 +27022,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "constant temper",
               "title": "constant temper",
               "type": "Nota filológica",
-              "gloss": "firmeza invariable; ánimo constante",
-              "body": "Aufidio elogia la aparente imperturbabilidad de Coriolano. La observación cobra ironía dramática a la luz de la posterior intervención de Volumnia; se trata de una lectura interpretativa, no de una variante textual. Fuentes: Barbara Mowat y Paul Werstine (eds.), William Shakespeare, Coriolanus, V.2, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; Jacob Ginsberg, «Coriolanus Act 5, Scene 2», LitCharts (2017), https://www.litcharts.com/lit/coriolanus/act-5-scene-2.",
+              "gloss": "firmeza invariable",
+              "body": "Aufidio elogia la constancia tras el rechazo. Su comentario contrasta con la futura súplica de la familia. Fuentes: Folger Shakespeare Library, V.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/); C. F. Tucker Brooke, Yale 1924, V.2 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V), glosas y notas (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Notes).",
               "lemma": "temper",
               "lemmaUrl": "https://en.wiktionary.org/wiki/temper"
             }
@@ -26998,7 +27034,15 @@ window.SHAKESPEARE_READER_DATA = {
           "speaker": "first-watch",
           "en": "Now, sir, is your name Menenius?",
           "es": "Y ahora, señor, ¿se llama usted Menenio?",
-          "notes": []
+          "notes": [
+            {
+              "term": "is your name Menenius",
+              "title": "is your name Menenius",
+              "type": "Nota filológica",
+              "gloss": "¿te llamás Menenio?",
+              "body": "El centinela repite con sarcasmo el nombre que debía bastar como credencial de acceso. Fuentes: Folger Shakespeare Library, V.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/); C. F. Tucker Brooke, Yale 1924, V.2 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V), glosas y notas (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Notes)."
+            }
+          ]
         },
         {
           "line": "3385–3386",
@@ -27010,8 +27054,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "spell",
               "title": "spell",
               "type": "Nota filológica",
-              "gloss": "hechizo; fórmula mágica",
-              "body": "Ironía sobre la pretendida eficacia del nombre propio: Menenio había afirmado que bastaría para franquear la guardia. El centinela se burla de la impotencia de su prestigio. Fuentes: Barbara Mowat y Paul Werstine (eds.), William Shakespeare, Coriolanus, V.2, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html.",
+              "gloss": "hechizo, fórmula mágica",
+              "body": "El guardia se burla del supuesto poder mágico del nombre «Menenio» para abrir la puerta. Fuentes: Folger Shakespeare Library, V.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/); C. F. Tucker Brooke, Yale 1924, V.2 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V), glosas y notas (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Notes).",
               "lemma": "spell",
               "lemmaUrl": "https://en.wiktionary.org/wiki/spell"
             }
@@ -27027,8 +27071,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "shent",
               "title": "shent",
               "type": "Nota filológica",
-              "gloss": "reprendidos; reprendidos severamente",
-              "body": "Participio arcaico de shend, «reprender» o «avergonzar». El centinela finge que Coriolano ha castigado a la guardia, cuando acaba de despedir al visitante; la ironía es transparente. El comentario histórico de la edición de Coriolanus en Wikimedia Commons (p. 171, nota 10) también define shent como «rebuked or scolded». Fuentes: Barbara Mowat y Paul Werstine (eds.), William Shakespeare, Coriolanus, V.2, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html.",
+              "gloss": "reprendidos, amonestados",
+              "body": "Brooke glosa «scolded»; la pregunta es irónica, pues los guardias no han sufrido castigo alguno. Fuentes: Folger Shakespeare Library, V.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/); C. F. Tucker Brooke, Yale 1924, V.2 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V), glosas y notas (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Notes).",
               "lemma": "shend",
               "lemmaUrl": "https://en.wiktionary.org/wiki/shend"
             },
@@ -27036,8 +27080,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "your Greatness",
               "title": "your Greatness",
               "type": "Nota filológica",
-              "gloss": "Su Grandeza",
-              "body": "Tratamiento honorífico exagerado y sarcástico: reproduce la altivez con que Menenio exigía acceso al campamento. Fuentes: Barbara Mowat y Paul Werstine (eds.), William Shakespeare, Coriolanus, V.2, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html."
+              "gloss": "Su Grandeza (irónico)",
+              "body": "Título honorífico exagerado empleado para ridiculizar las pretensiones del visitante. Fuentes: Folger Shakespeare Library, V.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/); C. F. Tucker Brooke, Yale 1924, V.2 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V), glosas y notas (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Notes)."
             }
           ]
         },
@@ -27051,8 +27095,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "swoon",
               "title": "swoon",
               "type": "Nota filológica",
-              "gloss": "desmayarme",
-              "body": "El centinela devuelve a Menenio la amenaza anterior de desmayarse ante el castigo que recibiría (3355–3356); la réplica completa la inversión cómica de posiciones. Fuentes: Barbara Mowat y Paul Werstine (eds.), William Shakespeare, Coriolanus, V.2, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html.",
+              "gloss": "desmayarse",
+              "body": "El centinela devuelve a Menenio la amenaza de desmayo que le había dirigido antes. Fuentes: Folger Shakespeare Library, V.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/); C. F. Tucker Brooke, Yale 1924, V.2 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V), glosas y notas (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Notes).",
               "lemma": "swoon",
               "lemmaUrl": "https://en.wiktionary.org/wiki/swoon"
             }
@@ -27069,7 +27113,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "you’re so slight",
               "type": "Nota filológica",
               "gloss": "son tan insignificantes",
-              "body": "Slight expresa poca entidad o importancia. Menenio responde a la humillación negando valor incluso a la existencia de los centinelas. Fuentes: Barbara Mowat y Paul Werstine (eds.), William Shakespeare, Coriolanus, V.2, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html.",
+              "body": "«Slight» transmite desprecio y minimiza la importancia personal de los centinelas. Fuentes: Folger Shakespeare Library, V.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/); C. F. Tucker Brooke, Yale 1924, V.2 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V), glosas y notas (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Notes).",
               "lemma": "slight",
               "lemmaUrl": "https://en.wiktionary.org/wiki/slight"
             },
@@ -27078,23 +27122,30 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "die by himself",
               "type": "Nota filológica",
               "gloss": "morir por su propia mano",
-              "body": "La frase puede aludir a la disposición de darse muerte y, por extensión, a no temer una muerte impuesta por otro. El comentario histórico impreso en Shakespeare's Tragedy of Coriolanus (p. 171, nota 11) glosa «by his own hands»; se conserva la fuerza inquietante del original. Fuentes: Barbara Mowat y Paul Werstine (eds.), William Shakespeare, Coriolanus, V.2, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html."
+              "body": "Brooke entiende que Menenio, en su desesperación, dice no temer las amenazas porque estaría dispuesto a quitarse la vida. Fuentes: Folger Shakespeare Library, V.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/); C. F. Tucker Brooke, Yale 1924, V.2 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V), glosas y notas (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Notes)."
             },
             {
-              "term": "be that you are, long",
-              "title": "be that you are, long",
+              "term": "be that you are",
+              "title": "be that you are",
               "type": "Nota filológica",
-              "gloss": "sigan siendo lo que son por mucho tiempo",
-              "body": "Maldición paradójica: no les desea prosperidad, sino una existencia prolongada en la misma condición despreciable, acompañada de miseria creciente. Fuentes: Barbara Mowat y Paul Werstine (eds.), William Shakespeare, Coriolanus, V.2, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html."
+              "gloss": "que permanezcan así mucho tiempo",
+              "body": "Brooke explica la maldición como prolongación de su presente condición miserable, agravada con los años. Fuentes: Folger Shakespeare Library, V.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/); C. F. Tucker Brooke, Yale 1924, V.2 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V), glosas y notas (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Notes)."
             },
             {
               "term": "as I was said to, away!",
               "title": "as I was said to, away!",
               "type": "Nota filológica",
-              "gloss": "como me dijeron a mí: ¡fuera!",
-              "body": "Repetición exacta de la orden que Coriolano le dirigió en 3369; Menenio transmite su humillación a quienes antes había despreciado. Fuentes: Barbara Mowat y Paul Werstine (eds.), William Shakespeare, Coriolanus, V.2, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html.",
+              "gloss": "les digo lo mismo que me dijeron: ¡fuera!",
+              "body": "La palabra de rechazo recibida de Coriolano se convierte en despedida impotente del emisario. Fuentes: Folger Shakespeare Library, V.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/); C. F. Tucker Brooke, Yale 1924, V.2 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V), glosas y notas (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Notes).",
               "lemma": "away",
               "lemmaUrl": "https://en.wiktionary.org/wiki/away"
+            },
+            {
+              "term": "your misery increase with your age",
+              "title": "your misery increase with your age",
+              "type": "Nota filológica",
+              "gloss": "que la desgracia aumente con la edad",
+              "body": "La vida larga se convierte en maldición, pues habría de prolongar y agravar su miserable condición. Fuentes: Folger Shakespeare Library, V.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/); C. F. Tucker Brooke, Yale 1924, V.2 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V), glosas y notas (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Notes)."
             }
           ]
         },
@@ -27108,8 +27159,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "I warrant him",
               "title": "I warrant him",
               "type": "Nota filológica",
-              "gloss": "se lo aseguro",
-              "body": "Warrant tiene aquí valor aseverativo; el elogio puede entenderse como burla ante la impotencia del visitante, más que como juicio sincero. Fuentes: Barbara Mowat y Paul Werstine (eds.), William Shakespeare, Coriolanus, V.2, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html.",
+              "gloss": "lo aseguro",
+              "body": "El primer guardia considera noble a Menenio, pero su compañero desplaza el elogio hacia Coriolano. Fuentes: Folger Shakespeare Library, V.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/); C. F. Tucker Brooke, Yale 1924, V.2 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V), glosas y notas (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Notes).",
               "lemma": "warrant",
               "lemmaUrl": "https://en.wiktionary.org/wiki/warrant"
             }
@@ -27126,7 +27177,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "the rock, the oak",
               "type": "Nota filológica",
               "gloss": "la roca, el roble",
-              "body": "Dos imágenes de firmeza y resistencia. El centinela atribuye a Coriolano una constancia que la intervención de Volumnia pondrá a prueba en la escena siguiente; la anticipación es una lectura dramática. Fuentes: Barbara Mowat y Paul Werstine (eds.), William Shakespeare, Coriolanus, V.2, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html.",
+              "body": "Metáforas de una firmeza inamovible que el episodio con la familia de Coriolano pondrá en entredicho. Fuentes: Folger Shakespeare Library, V.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/); C. F. Tucker Brooke, Yale 1924, V.2 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V), glosas y notas (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Notes).",
               "lemma": "oak",
               "lemmaUrl": "https://en.wiktionary.org/wiki/oak"
             },
@@ -27135,7 +27186,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "wind-shaken",
               "type": "Nota filológica",
               "gloss": "sacudido por el viento",
-              "body": "Compuesto adjetival que completa la metáfora del roble: no se trata de viento meteorológico literal, sino de presiones y ruegos. Fuentes: Barbara Mowat y Paul Werstine (eds.), William Shakespeare, Coriolanus, V.2, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html.",
+              "body": "Imagen de resistencia a la presión; las súplicas son como viento que no logra mover al roble. Fuentes: Folger Shakespeare Library, V.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/); C. F. Tucker Brooke, Yale 1924, V.2 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V), glosas y notas (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Notes).",
               "lemma": "shake",
               "lemmaUrl": "https://en.wiktionary.org/wiki/shake"
             }
