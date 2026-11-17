@@ -26398,8 +26398,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "my lover",
               "title": "my lover",
               "type": "Nota filológica",
-              "gloss": "alguien que me quiere; amigo íntimo",
-              "body": "Lover expresa aquí afecto y amistad, sin implicar una relación amorosa o sexual. Menenio invoca una intimidad que supone reconocida por Coriolano. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.2, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html.",
+              "gloss": "amigo íntimo",
+              "body": "Menenio afirma una relación de afecto y amistad con Coriolano, sin implicar necesariamente un vínculo erótico. Fuentes: Folger Shakespeare Library, Coriolanus V.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/); C. F. Tucker Brooke, Coriolanus, Yale 1924 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V).",
               "lemma": "lover",
               "lemmaUrl": "https://en.wiktionary.org/wiki/lover"
             },
@@ -26414,8 +26414,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "happily amplified",
               "title": "happily amplified",
               "type": "Nota filológica",
-              "gloss": "acaso engrandecida",
-              "body": "Happily admite el valor de «quizá» o «por ventura» en el inglés de la época. MIT transmite «haply amplified» y «His name», mientras Folger imprime «happily amplified» y «His fame»; no se mezclan ambas lecturas en el texto base. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.2, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html.",
+              "gloss": "quizá engrandecida",
+              "body": "«Happily» equivale a «haply» («quizá»); Brooke imprime «haply», frente a la forma de Folger. Fuentes: Folger Shakespeare Library, Coriolanus V.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/); C. F. Tucker Brooke, Coriolanus, Yale 1924 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V).",
               "lemma": "haply",
               "lemmaUrl": "https://en.wiktionary.org/wiki/haply"
             },
@@ -26423,14 +26423,14 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "verified my friends",
               "title": "verified my friends",
               "type": "Nota filológica",
-              "gloss": "he ponderado a mis amigos sin apartarme de la verdad",
-              "body": "Verified tiene aquí un matiz de avalar mediante afirmaciones veraces; Menenio reconoce enseguida que sus elogios pudieron rebasar ese límite. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.2, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html.",
+              "gloss": "he avalado los méritos de mis amigos",
+              "body": "La afirmación de veracidad entra en tensión con la posterior confesión de exageración. Fuentes: Folger Shakespeare Library, Coriolanus V.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/); C. F. Tucker Brooke, Coriolanus, Yale 1924 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V).",
               "lemma": "verify",
               "lemmaUrl": "https://en.wiktionary.org/wiki/verify"
             },
             {
-              "term": "with all the size that verity / Would without lapsing suffer",
-              "title": "with all the size that verity / Would without lapsing suffer",
+              "term": "verity",
+              "title": "verity",
               "type": "Nota filológica",
               "gloss": "hasta el límite permitido por la verdad sin caer en falsedad",
               "body": "Size es extensión o medida; verity, verdad; lapsing alude a desviarse de ella. La sintaxis subordina la amplitud del elogio al límite de lo verdadero. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.2, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html.",
@@ -26441,8 +26441,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "a bowl upon a subtle ground",
               "title": "a bowl upon a subtle ground",
               "type": "Nota filológica",
-              "gloss": "una bola de juego sobre un terreno engañoso",
-              "body": "Alusión al juego de bolos sobre césped: una bola puede desviarse o ir más allá del punto previsto por las irregularidades del terreno. Subtle sugiere aquí dificultad engañosa, no delicadeza estética. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.2, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html.",
+              "gloss": "una bola sobre un terreno engañoso",
+              "body": "La imagen procede del juego de bowls, donde las irregularidades del terreno pueden desviar la bola. Fuentes: Folger Shakespeare Library, Coriolanus V.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/); C. F. Tucker Brooke, Coriolanus, Yale 1924 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V).",
               "lemma": "bowl",
               "lemmaUrl": "https://en.wiktionary.org/wiki/bowl"
             },
@@ -26450,8 +26450,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "stamped the leasing",
               "title": "stamped the leasing",
               "type": "Nota filológica",
-              "gloss": "haber dado por buena una mentira",
-              "body": "Leasing es «mentira» en el uso arcaico; stamped evoca estampar un sello o marca de aprobación. Menenio confiesa una exageración cercana a la falsedad. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.2, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html.",
+              "gloss": "casi he dado sello a una mentira",
+              "body": "«Leasing» es un arcaísmo por mentira; «stamped» evoca conferir una marca de autenticidad. Fuentes: Folger Shakespeare Library, Coriolanus V.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/); C. F. Tucker Brooke, Coriolanus, Yale 1924 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V).",
               "lemma": "leasing",
               "lemmaUrl": "https://en.wiktionary.org/wiki/leasing"
             }
@@ -26464,15 +26464,15 @@ window.SHAKESPEARE_READER_DATA = {
           "es": "A fe mía, señor, aunque hubiera dicho tantas mentiras\nen favor de él como palabras acaba de pronunciar en defensa propia,\nno lo dejaría pasar; ni siquiera si mentir fuera tan virtuoso\ncomo vivir castamente. Así que regrese.",
           "notes": [
             {
-              "term": "in his behalf ... in your own",
-              "title": "in his behalf ... in your own",
+              "term": "his behalf",
+              "title": "his behalf",
               "type": "Nota filológica",
               "gloss": "en favor de él ... en defensa propia",
               "body": "El centinela opone la supuesta defensa de Coriolano a la verbosidad interesada de Menenio; el paralelismo ridiculiza su pretensión de autoridad. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.2, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html."
             },
             {
-              "term": "as virtuous / to lie as to live chastely",
-              "title": "as virtuous / to lie as to live chastely",
+              "term": "to lie as to live chastely",
+              "title": "to lie as to live chastely",
               "type": "Nota filológica",
               "gloss": "tan virtuoso mentir como vivir castamente",
               "body": "Comparación deliberadamente absurda: ni una hipotética virtud de la mentira alteraría la prohibición. La réplica recoge el «leasing» de Menenio. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.2, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html.",
@@ -26500,8 +26500,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "factionary on the party",
               "title": "factionary on the party",
               "type": "Nota filológica",
-              "gloss": "partidario del bando",
-              "body": "Factionary es un partidario de una facción; on the party refuerza la adhesión al bando de Coriolano. No implica necesariamente una pertenencia formal a un partido moderno. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.2, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html.",
+              "gloss": "partidario de su bando",
+              "body": "Factionary señala adhesión a una facción, no pertenencia a un partido moderno. Fuentes: Folger Shakespeare Library, Coriolanus V.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/); C. F. Tucker Brooke, Coriolanus, Yale 1924 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V).",
               "lemma": "factionary",
               "lemmaUrl": "https://en.wiktionary.org/wiki/factionary"
             }
@@ -26517,14 +26517,14 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "his liar",
               "title": "his liar",
               "type": "Nota filológica",
-              "gloss": "su mentiroso; quien miente por él",
-              "body": "El centinela toma maliciosamente la confesión de Menenio sobre sus exageraciones y la convierte en un oficio: mentir en favor de Coriolano. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.2, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html.",
+              "gloss": "su mentiroso, quien miente por él",
+              "body": "El guardia explota la confesión de Menenio de que pudo exagerar los méritos de Coriolano. Fuentes: Folger Shakespeare Library, Coriolanus V.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/); C. F. Tucker Brooke, Coriolanus, Yale 1924 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V).",
               "lemma": "liar",
               "lemmaUrl": "https://en.wiktionary.org/wiki/liar"
             },
             {
-              "term": "telling true under him",
-              "title": "telling true under him",
+              "term": "telling true",
+              "title": "telling true",
               "type": "Nota filológica",
               "gloss": "diciendo la verdad a sus órdenes",
               "body": "Contraste entre el supuesto adulador y el soldado que se presenta como obediente y veraz; under him señala subordinación militar. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.2, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html."
@@ -26542,7 +26542,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "can’st thou",
               "type": "Nota filológica",
               "gloss": "¿puedes tú?",
-              "body": "Can’st es la segunda persona singular antigua de can con thou; aquí se conserva la familiaridad del trato de Menenio al centinela. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.2, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html.",
+              "body": "Forma antigua de segunda persona singular del modal «can». Fuentes: Folger Shakespeare Library, Coriolanus V.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/); C. F. Tucker Brooke, Coriolanus, Yale 1924 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V).",
               "lemma": "can",
               "lemmaUrl": "https://en.wiktionary.org/wiki/can"
             },
@@ -26550,8 +26550,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "till after dinner",
               "title": "till after dinner",
               "type": "Nota filológica",
-              "gloss": "hasta después de la comida",
-              "body": "Retoma la estrategia de V.1: Menenio esperaba que Coriolano, ya alimentado, estuviera mejor dispuesto a perdonar. La pregunta tiene una función dramática, no solo doméstica. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.2, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html."
+              "gloss": "hasta después de comer",
+              "body": "Reaparece el cálculo de Menenio de que la comida predispondrá a Coriolano a escuchar. Fuentes: Folger Shakespeare Library, Coriolanus V.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/); C. F. Tucker Brooke, Coriolanus, Yale 1924 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V)."
             }
           ]
         },
@@ -26560,7 +26560,15 @@ window.SHAKESPEARE_READER_DATA = {
           "speaker": "first-watch",
           "en": "You are a Roman, are you?",
           "es": "Usted es romano, ¿verdad?",
-          "notes": []
+          "notes": [
+            {
+              "term": "You are a Roman",
+              "title": "You are a Roman",
+              "type": "Nota filológica",
+              "gloss": "usted es romano",
+              "body": "La pregunta prepara el argumento del guardia: como romano, Menenio debería odiar Roma. Fuentes: Folger Shakespeare Library, Coriolanus V.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/); C. F. Tucker Brooke, Coriolanus, Yale 1924 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V)."
+            }
+          ]
         },
         {
           "line": "3325",
@@ -26584,8 +26592,8 @@ window.SHAKESPEARE_READER_DATA = {
           "es": "Entonces debería odiar a Roma como él.\n¿Acaso cree que, después de haber expulsado de sus puertas\nal hombre que las defendía y de haber entregado,\nen un arrebato de ignorancia popular, su escudo al enemigo,\npodrá hacer frente a su venganza con los débiles lamentos\nde las ancianas, las manos virginales de sus hijas\njuntas en súplica o la intercesión temblorosa de un viejo\ncaduco y entregado a su afecto, como parece ser usted?\n¿Cree que con un aliento tan débil podrá apagar\nel incendio que está a punto de devorar su ciudad?\nNo, se engaña. Regrese, pues, a Roma y prepárese\npara su ejecución. Está condenado: nuestro general\nha jurado excluirlo de toda prórroga y de todo perdón.",
           "notes": [
             {
-              "term": "violent popular ignorance",
-              "title": "violent popular ignorance",
+              "term": "popular",
+              "title": "popular",
               "type": "Nota filológica",
               "gloss": "arrebato de ignorancia popular",
               "body": "Popular remite aquí al pueblo como cuerpo político, no a la aceptación pública; el guardia atribuye el destierro de Coriolano a la decisión colectiva. La acusación es una perspectiva del personaje, no un juicio histórico objetivo. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus V.2 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html.",
@@ -26596,15 +26604,15 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "given your enemy your shield",
               "title": "given your enemy your shield",
               "type": "Nota filológica",
-              "gloss": "entregado su escudo al enemigo",
-              "body": "Paradoja militar: al desterrar a quien defendía Roma, los romanos habrían convertido su propia protección en arma enemiga. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus V.2 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html."
+              "gloss": "entregado al enemigo su escudo",
+              "body": "Roma expulsó a su protector y lo convirtió en una ventaja militar para sus adversarios. Fuentes: Folger Shakespeare Library, Coriolanus V.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/); C. F. Tucker Brooke, Coriolanus, Yale 1924 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V)."
             },
             {
               "term": "front his revenges",
               "title": "front his revenges",
               "type": "Nota filológica",
-              "gloss": "hacer frente a su venganza",
-              "body": "Front se usa transitivamente como resistir o enfrentarse; revenges aparece en plural para abarcar los actos de represalia. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus V.2 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html.",
+              "gloss": "resistir sus represalias",
+              "body": "«Front» es un verbo transitivo de oposición; el plural «revenges» abarca diversas represalias. Fuentes: Folger Shakespeare Library, Coriolanus V.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/); C. F. Tucker Brooke, Coriolanus, Yale 1924 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V).",
               "lemma": "front",
               "lemmaUrl": "https://en.wiktionary.org/wiki/front"
             },
@@ -26612,8 +26620,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "virginal palms",
               "title": "virginal palms",
               "type": "Nota filológica",
-              "gloss": "manos virginales en súplica",
-              "body": "Palms son las palmas de las manos, imaginadas en actitud suplicante. La imagen forma una gradación de ruegos que el centinela juzga ineficaces. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus V.2 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html.",
+              "gloss": "manos de muchachas en súplica",
+              "body": "El guardia desprecia las súplicas de mujeres y ancianos como defensa frente al ataque. Fuentes: Folger Shakespeare Library, Coriolanus V.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/); C. F. Tucker Brooke, Coriolanus, Yale 1924 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V).",
               "lemma": "palm",
               "lemmaUrl": "https://en.wiktionary.org/wiki/palm"
             },
@@ -26622,13 +26630,13 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "palsied intercession",
               "type": "Nota filológica",
               "gloss": "intercesión temblorosa",
-              "body": "Palsied alude a un temblor o parálisis asociada con la vejez; el centinela ridiculiza la debilidad física de Menenio. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus V.2 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html.",
+              "body": "«Palsied» ridiculiza la fragilidad de Menenio por su edad. Fuentes: Folger Shakespeare Library, Coriolanus V.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/); C. F. Tucker Brooke, Coriolanus, Yale 1924 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V).",
               "lemma": "palsied",
               "lemmaUrl": "https://en.wiktionary.org/wiki/palsied"
             },
             {
-              "term": "decayed dotant",
-              "title": "decayed dotant",
+              "term": "dotant",
+              "title": "dotant",
               "type": "Nota filológica",
               "gloss": "viejo caduco y devoto; posible «viejo chocho»",
               "body": "La lectura tradicional entiende dotant como un anciano senil (dotard), pero existe una interpretación filológica alternativa: alguien que «dota» o profesa afecto excesivo a Coriolano, relevante tras my lover (V.2). Se mantiene la ambigüedad y no se presenta la hipótesis como certeza. Véase además el artículo crítico reproducido en https://www.researchgate.net/publication/343189837_Shakespeare%27s_King_Lear_4247-51, pasaje sobre Coriolanus V.2. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus V.2 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html.",
@@ -26656,8 +26664,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "Sirrah",
               "title": "Sirrah",
               "type": "Nota filológica",
-              "gloss": "oye tú; oiga",
-              "body": "Vocativo de superior a inferior, a menudo desdeñoso. Menenio intenta recuperar su autoridad social ante el guardia. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus V.2 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html.",
+              "gloss": "oye tú, despectivo",
+              "body": "Vocativo jerárquico empleado por Menenio para afirmar su autoridad social. Fuentes: Folger Shakespeare Library, Coriolanus V.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/); C. F. Tucker Brooke, Coriolanus, Yale 1924 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V).",
               "lemma": "sirrah",
               "lemmaUrl": "https://en.wiktionary.org/wiki/sirrah"
             },
@@ -26665,8 +26673,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "use me with estimation",
               "title": "use me with estimation",
               "type": "Nota filológica",
-              "gloss": "tratarme con consideración",
-              "body": "Use significa tratar a una persona de cierta manera; estimation implica aprecio o respeto, no cálculo numérico. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus V.2 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html.",
+              "gloss": "tratarme con respeto",
+              "body": "«Use» significa tratar a alguien de cierto modo; «estimation» expresa consideración. Fuentes: Folger Shakespeare Library, Coriolanus V.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/); C. F. Tucker Brooke, Coriolanus, Yale 1924 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V).",
               "lemma": "estimation",
               "lemmaUrl": "https://en.wiktionary.org/wiki/estimation"
             }
@@ -26692,7 +26700,15 @@ window.SHAKESPEARE_READER_DATA = {
           "speaker": "menenius",
           "en": "I mean thy general.",
           "es": "Me refiero a su general.",
-          "notes": []
+          "notes": [
+            {
+              "term": "I mean thy general",
+              "title": "I mean thy general",
+              "type": "Nota filológica",
+              "gloss": "me refiero a tu general",
+              "body": "La rectificación del rango del comandante muestra la frustración de Menenio. Fuentes: Folger Shakespeare Library, Coriolanus V.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/); C. F. Tucker Brooke, Coriolanus, Yale 1924 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V)."
+            }
+          ]
         },
         {
           "line": "3343–3345",
@@ -26705,7 +26721,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "half pint of blood",
               "type": "Nota filológica",
               "gloss": "media pinta de sangre",
-              "body": "Hipérbole despectiva: reduce la vida de Menenio a una cantidad irrisoria de sangre, como amenaza de violencia física. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus V.2 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html.",
+              "body": "Insulto hiperbólico que minimiza la vida del anciano y amenaza con derramar su sangre. Fuentes: Folger Shakespeare Library, Coriolanus V.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/); C. F. Tucker Brooke, Coriolanus, Yale 1924 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V).",
               "lemma": "pint",
               "lemmaUrl": "https://en.wiktionary.org/wiki/pint"
             },
@@ -26713,8 +26729,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "the utmost of your having",
               "title": "the utmost of your having",
               "type": "Nota filológica",
-              "gloss": "todo lo que posee",
-              "body": "El centinela identifica irónicamente el patrimonio de Menenio con su escasa sangre: un insulto a su vejez y fragilidad. Fuentes: Barbara Mowat y Paul Werstine (eds.), Folger Shakespeare Library, Coriolanus V.2 (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.2.html."
+              "gloss": "todo lo que posees",
+              "body": "El guardia reduce burlonamente las posesiones de Menenio a su sangre. Fuentes: Folger Shakespeare Library, Coriolanus V.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/); C. F. Tucker Brooke, Coriolanus, Yale 1924 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V)."
             }
           ]
         },
@@ -26723,14 +26739,30 @@ window.SHAKESPEARE_READER_DATA = {
           "speaker": "menenius",
           "en": "Nay, but fellow, fellow—",
           "es": "No, pero, amigo, amigo...",
-          "notes": []
+          "notes": [
+            {
+              "term": "fellow",
+              "title": "fellow",
+              "type": "Nota filológica",
+              "gloss": "amigo; sujeto",
+              "body": "La repetición entrecortada revela la pérdida de control de la disputa. Fuentes: Folger Shakespeare Library, Coriolanus V.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/); C. F. Tucker Brooke, Coriolanus, Yale 1924 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V)."
+            }
+          ]
         },
         {
           "line": "3347",
           "speaker": "coriolanus",
           "en": "What’s the matter?",
           "es": "¿Qué sucede?",
-          "notes": []
+          "notes": [
+            {
+              "term": "What’s the matter?",
+              "title": "What’s the matter?",
+              "type": "Nota filológica",
+              "gloss": "¿qué sucede?",
+              "body": "La llegada de Coriolano pone a prueba la confianza de Menenio en su influencia. Fuentes: Folger Shakespeare Library, Coriolanus V.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/); C. F. Tucker Brooke, Coriolanus, Yale 1924 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V)."
+            }
+          ]
         },
         {
           "line": "3348–3368",
