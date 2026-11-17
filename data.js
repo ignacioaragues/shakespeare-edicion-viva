@@ -28479,7 +28479,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "the heavens do ope",
               "type": "Nota filológica",
               "gloss": "los cielos se abren",
-              "body": "Ope es forma poética de open; la apertura del cielo convierte la decisión familiar en espectáculo ante los dioses. La risa divina es una imagen del personaje, no una acotación que confirme intervención sobrenatural. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo del First Folio: https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_5_Scene_3.",
+              "body": "La apertura del cielo y la mirada divina elevan el conflicto familiar a un orden cósmico. Fuentes: Folger, Coriolanus V.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/); C. F. Tucker Brooke, Yale 1924, V.3 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V).",
               "lemma": "ope",
               "lemmaUrl": "https://en.wiktionary.org/wiki/ope"
             },
@@ -28488,35 +28488,35 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "unnatural scene",
               "type": "Nota filológica",
               "gloss": "escena contraria al orden natural",
-              "body": "Unnatural condensa la inversión de lealtades: el hijo armado contra su patria y la madre que lo vence con súplicas. El término scene también permite una resonancia metateatral, interpretación no exigida por el texto. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo del First Folio: https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_5_Scene_3."
+              "body": "Coriolano considera antinatural que la lealtad filial deshaga su compromiso militar; la expresión no implica que la compasión sea en sí antinatural. Fuentes: Folger, Coriolanus V.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/); C. F. Tucker Brooke, Yale 1924, V.3 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V)."
             },
             {
               "term": "happy victory to Rome",
               "title": "happy victory to Rome",
               "type": "Nota filológica",
-              "gloss": "victoria favorable para Roma",
-              "body": "Happy se aplica al resultado para la ciudad; el verso siguiente contrapone expresamente ese triunfo a la amenaza personal para el vencedor. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo del First Folio: https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_5_Scene_3."
+              "gloss": "victoria afortunada para Roma",
+              "body": "«Happy» califica el desenlace favorable a Roma, en contraste con el riesgo personal del hijo. Fuentes: Folger, Coriolanus V.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/); C. F. Tucker Brooke, Yale 1924, V.3 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V)."
             },
             {
               "term": "most mortal to him",
               "title": "most mortal to him",
               "type": "Nota filológica",
-              "gloss": "quizá mortal para él",
-              "body": "Mortal significa capaz de ocasionar la muerte, no simplemente «muy grave». El condicional if not introduce la posibilidad de que la decisión le cueste la vida; no afirma todavía su desenlace. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo del First Folio: https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_5_Scene_3."
+              "gloss": "posiblemente mortal para él",
+              "body": "El adjetivo anticipa el peligro de muerte al que queda expuesto Coriolano por su concesión. Fuentes: Folger, Coriolanus V.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/); C. F. Tucker Brooke, Yale 1924, V.3 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V)."
             },
             {
               "term": "make true wars",
               "title": "make true wars",
               "type": "Nota filológica",
-              "gloss": "librar una guerra leal",
-              "body": "True implica aquí fidelidad al compromiso asumido con los volscos; Coriolano considera incompatible continuar la campaña con lo que acaba de conceder a su madre. Es una lectura contextual, no un juicio objetivo sobre qué guerra sería justa. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo del First Folio: https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_5_Scene_3."
+              "gloss": "hacer una guerra fiel a mis compromisos",
+              "body": "«True» se refiere a la fidelidad a los volscos: tras ceder, la campaña ya no puede proseguir con integridad política. Fuentes: Folger, Coriolanus V.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/); C. F. Tucker Brooke, Yale 1924, V.3 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V)."
             },
             {
               "term": "frame convenient peace",
               "title": "frame convenient peace",
               "type": "Nota filológica",
-              "gloss": "concertar una paz apropiada",
-              "body": "Frame significa elaborar o disponer; convenient, adecuada a las circunstancias y aceptable para las partes, no «cómoda» en sentido moderno. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo del First Folio: https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_5_Scene_3.",
+              "gloss": "acordar una paz apropiada",
+              "body": "«Convenient» significa adecuada a las circunstancias, no simplemente cómoda. Fuentes: Folger, Coriolanus V.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/); C. F. Tucker Brooke, Yale 1924, V.3 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V).",
               "lemma": "frame",
               "lemmaUrl": "https://en.wiktionary.org/wiki/frame"
             },
@@ -28525,9 +28525,16 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "Were you in my stead",
               "type": "Nota filológica",
               "gloss": "si estuvieras en mi lugar",
-              "body": "Stead es «lugar, posición»; la pregunta solicita a Aufidio que juzgue la decisión poniéndose en su situación. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo del First Folio: https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_5_Scene_3.",
+              "body": "La pregunta exige empatía filial a Aufidio y busca legitimar la decisión de Coriolano. Fuentes: Folger, Coriolanus V.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/); C. F. Tucker Brooke, Yale 1924, V.3 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V).",
               "lemma": "stead",
               "lemmaUrl": "https://en.wiktionary.org/wiki/stead"
+            },
+            {
+              "term": "Most dangerously",
+              "title": "Most dangerously",
+              "type": "Nota filológica",
+              "gloss": "con consecuencias gravemente peligrosas",
+              "body": "La victoria persuasiva de Volumnia amenaza el destino de su hijo. Fuentes: Folger, V.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/); Brooke, Yale 1924 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V)."
             }
           ]
         },
@@ -28541,8 +28548,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "moved withal",
               "title": "moved withal",
               "type": "Nota filológica",
-              "gloss": "conmovido por ello",
-              "body": "Withal retoma la escena de súplica; la respuesta declara emoción, sin prometer apoyo político. La ambigüedad dramática importa ante el posterior aparte de Aufidio. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo del First Folio: https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_5_Scene_3.",
+              "gloss": "conmovido también por ello",
+              "body": "«Withal» significa por ello o con ello; la admisión de Aufidio contrasta con su cálculo privado posterior. Fuentes: Folger, Coriolanus V.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/); C. F. Tucker Brooke, Yale 1924, V.3 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V).",
               "lemma": "withal",
               "lemmaUrl": "https://en.wiktionary.org/wiki/withal"
             }
@@ -28558,8 +28565,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "I dare be sworn",
               "title": "I dare be sworn",
               "type": "Nota filológica",
-              "gloss": "puedo asegurarlo",
-              "body": "Fórmula enfática de certeza: Coriolano da por sincera la conmoción de Aufidio, sin advertir todavía el conflicto que se avecina. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo del First Folio: https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_5_Scene_3.",
+              "gloss": "puedo jurarlo",
+              "body": "Fórmula enfática de seguridad, no un juramento formal. Fuentes: Folger, Coriolanus V.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/); C. F. Tucker Brooke, Yale 1924, V.3 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V).",
               "lemma": "swear",
               "lemmaUrl": "https://en.wiktionary.org/wiki/swear"
             },
@@ -28567,8 +28574,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "Mine eyes to sweat compassion",
               "title": "Mine eyes to sweat compassion",
               "type": "Nota filológica",
-              "gloss": "que mis ojos suden compasión",
-              "body": "La metáfora evita nombrar directamente las lágrimas; sweat sugiere esfuerzo físico, en consonancia con el lenguaje marcial del personaje. Es una lectura retórica de la imagen. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo del First Folio: https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_5_Scene_3.",
+              "gloss": "hacer que mis ojos suden compasión",
+              "body": "La imagen física sustituye el nombre directo de las lágrimas y destaca la dificultad de exteriorizar la ternura. Fuentes: Folger, Coriolanus V.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/); C. F. Tucker Brooke, Yale 1924, V.3 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V).",
               "lemma": "sweat",
               "lemmaUrl": "https://en.wiktionary.org/wiki/sweat"
             },
@@ -28576,15 +28583,15 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "I’ll not to Rome",
               "title": "I’ll not to Rome",
               "type": "Nota filológica",
-              "gloss": "no iré a Roma",
-              "body": "Elipsis del verbo de movimiento go: not to Rome significa que no regresará a la ciudad, aunque haya decidido salvarla. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo del First Folio: https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_5_Scene_3."
+              "gloss": "no regresaré a Roma",
+              "body": "El verbo de movimiento se sobreentiende; Coriolano no volverá a la ciudad que ha salvado. Fuentes: Folger, Coriolanus V.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/); C. F. Tucker Brooke, Yale 1924, V.3 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V)."
             },
             {
               "term": "Stand to me",
               "title": "Stand to me",
               "type": "Nota filológica",
-              "gloss": "apóyame; mantente de mi parte",
-              "body": "Stand to expresa sostener o respaldar a alguien en una causa; Coriolano solicita la solidaridad de Aufidio en las negociaciones. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo del First Folio: https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_5_Scene_3.",
+              "gloss": "mantenerte de mi parte",
+              "body": "Pide respaldo político a Aufidio para defender la paz ante los volscos. Fuentes: Folger, Coriolanus V.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/); C. F. Tucker Brooke, Yale 1924, V.3 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V).",
               "lemma": "stand",
               "lemmaUrl": "https://en.wiktionary.org/wiki/stand"
             }
@@ -28600,19 +28607,26 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "At difference",
               "title": "At difference",
               "type": "Nota filológica",
-              "gloss": "en conflicto; enfrentados",
-              "body": "La expresión describe dos impulsos que Aufidio juzga incompatibles en Coriolano. El aparte permite al público conocer su cálculo mientras el otro personaje conversa con las mujeres. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "gloss": "en pugna",
+              "body": "Aufidio opone interesadamente clemencia y honor militar. Fuentes: Folger, Coriolanus V.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/); C. F. Tucker Brooke, Yale 1924, V.3 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V).",
               "lemma": "difference",
               "lemmaUrl": "https://en.wiktionary.org/wiki/difference"
             },
             {
-              "term": "work / Myself a former fortune",
-              "title": "work / Myself a former fortune",
+              "term": "Myself a former fortune",
+              "title": "Myself a former fortune",
               "type": "Nota filológica",
-              "gloss": "recuperar para mí una fortuna anterior",
-              "body": "Work rige aquí el resultado que Aufidio pretende obtener: restablecer su antigua posición. La referencia a su rivalidad previa es una interpretación dramática respaldada por el desarrollo de la obra, no una promesa explícita de asesinato en estos versos. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "gloss": "recuperar mi posición anterior",
+              "body": "«Work» expresa conseguir mediante una maniobra: Aufidio espera restaurar su prestigio a costa de Coriolano. Fuentes: Folger, Coriolanus V.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/); C. F. Tucker Brooke, Yale 1924, V.3 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V).",
               "lemma": "work",
               "lemmaUrl": "https://en.wiktionary.org/wiki/work"
+            },
+            {
+              "term": "thy mercy and thy honor",
+              "title": "thy mercy and thy honor",
+              "type": "Nota filológica",
+              "gloss": "tu clemencia y tu honor",
+              "body": "Aufidio aprovecha el conflicto entre compasión familiar y honor militar para recuperar su fortuna. Fuentes: Folger, V.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/); Brooke, Yale 1924 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V)."
             }
           ]
         },
@@ -28626,8 +28640,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "by and by",
               "title": "by and by",
               "type": "Nota filológica",
-              "gloss": "enseguida; dentro de un momento",
-              "body": "La respuesta de Coriolano se dirige a las mujeres después del aparte de Aufidio; la edición Folger marca explícitamente el cambio de destinatario. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "gloss": "enseguida",
+              "body": "Señala la proximidad de la celebración y la formalización de la paz. Fuentes: Folger, Coriolanus V.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/); C. F. Tucker Brooke, Yale 1924, V.3 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V).",
               "lemma": "by_and_by",
               "lemmaUrl": "https://en.wiktionary.org/wiki/by_and_by"
             },
@@ -28635,8 +28649,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "a better witness back than words",
               "title": "a better witness back than words",
               "type": "Nota filológica",
-              "gloss": "una prueba más firme que las palabras",
-              "body": "Witness significa aquí testimonio o garantía: la paz debe quedar acreditada por algo más que una promesa oral. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "gloss": "garantía más firme que palabras",
+              "body": "La prueba formal del pacto reemplazará a la promesa oral. Fuentes: Folger, Coriolanus V.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/); C. F. Tucker Brooke, Yale 1924, V.3 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V).",
               "lemma": "witness",
               "lemmaUrl": "https://en.wiktionary.org/wiki/witness"
             },
@@ -28644,8 +28658,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "countersealed",
               "title": "countersealed",
               "type": "Nota filológica",
-              "gloss": "refrendado; sellado por ambas partes",
-              "body": "El verbo alude a la ratificación mediante un sello adicional o correspondiente. La traducción conserva la idea de una garantía formal, sin presumir un procedimiento diplomático preciso. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "gloss": "refrendado con otro sello",
+              "body": "El documento se confirma por ambas partes; la expresión siguiente introduce condiciones pactadas. Fuentes: Folger, Coriolanus V.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/); C. F. Tucker Brooke, Yale 1924, V.3 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V).",
               "lemma": "counterseal",
               "lemmaUrl": "https://en.wiktionary.org/wiki/counterseal"
             },
@@ -28653,8 +28667,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "a temple built you",
               "title": "a temple built you",
               "type": "Nota filológica",
-              "gloss": "un templo erigido en honor de ustedes",
-              "body": "La hipérbole convierte la mediación de las mujeres en un acto digno de veneración pública; el texto no afirma que el templo llegue a construirse. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "gloss": "un templo levantado en su honor",
+              "body": "La alabanza convierte a las mujeres en heroínas dignas de honores religiosos. Fuentes: Folger, Coriolanus V.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/); C. F. Tucker Brooke, Yale 1924, V.3 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V).",
               "lemma": "temple",
               "lemmaUrl": "https://en.wiktionary.org/wiki/temple"
             },
@@ -28662,10 +28676,17 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "confederate arms",
               "title": "confederate arms",
               "type": "Nota filológica",
-              "gloss": "las fuerzas de sus aliados",
-              "body": "Confederate funciona como adjetivo de alianza militar; la comparación subraya que la persuasión logró lo que los ejércitos no podían. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "gloss": "las armas de los aliados de Italia",
+              "body": "Las fuerzas coaligadas no habrían logrado la paz conseguida por las súplicas. Fuentes: Folger, Coriolanus V.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/); C. F. Tucker Brooke, Yale 1924, V.3 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V).",
               "lemma": "confederate",
               "lemmaUrl": "https://en.wiktionary.org/wiki/confederate"
+            },
+            {
+              "term": "On like conditions",
+              "title": "On like conditions",
+              "type": "Nota filológica",
+              "gloss": "con condiciones acordadas",
+              "body": "La frase enlaza con «countersealed» y exige un pacto formal entre los dos bandos. Fuentes: Folger, V.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/); Brooke, Yale 1924 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V)."
             }
           ]
         }
