@@ -16078,8 +16078,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "brace",
               "title": "brace",
               "type": "Nota filológica",
-              "gloss": "pareja; par",
-              "body": "«Brace» designa dos individuos. Menenio transforma la fanfarronada de Coriolano en una provocación dirigida a los dos tribunos. Referencias: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; First Folio (1623), facsímil, III.1, https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_%281910%29/The_Tragedy_of_Coriolanus/Act_3_Scene_1",
+              "gloss": "un par",
+              "body": "Cuantificador de dos personas; Menenio se refiere a los dos tribunos. Fuentes: Folger Shakespeare Library, Coriolanus, III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus, Yale, 1924, notas a III.1, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III.",
               "lemma": "brace",
               "lemmaUrl": "https://en.wiktionary.org/wiki/brace"
             }
@@ -16095,22 +16095,22 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "odds beyond arithmetic",
               "title": "odds beyond arithmetic",
               "type": "Nota filológica",
-              "gloss": "una desproporción imposible de calcular",
-              "body": "Cominio abandona el alarde numérico anterior: la fuerza de la multitud no puede medirse como un duelo. Referencias: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html"
+              "gloss": "desventaja incalculable",
+              "body": "Hipérbole de superioridad numérica; Brooke (1924, III.1.244) glosa «incalculable». Fuentes: Folger Shakespeare Library, Coriolanus, III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus, Yale, 1924, notas a III.1, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III."
             },
             {
               "term": "falling fabric",
               "title": "falling fabric",
               "type": "Nota filológica",
-              "gloss": "estructura que se derrumba",
-              "body": "«Fabric» alude a una construcción; la imagen puede sugerir un edificio que cae sobre quien intenta sostenerlo. Es una metáfora, no una acotación de derrumbe real. Referencias: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html"
+              "gloss": "edificio que se derrumba",
+              "body": "Fabric significa aquí estructura o edificio, no tejido; Brooke (1924, III.1.246). Fuentes: Folger Shakespeare Library, Coriolanus, III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus, Yale, 1924, notas a III.1, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III."
             },
             {
               "term": "tag",
               "title": "tag",
               "type": "Nota filológica",
-              "gloss": "chusma; gentuza",
-              "body": "Término despectivo para la gente humilde o desarrapada. Hudson lo vincula con «tag and rag»; la valoración pertenece al personaje, no al editor. Referencias: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; The New Hudson Shakespeare, comentario a III.1, https://upload.wikimedia.org/wikipedia/commons/d/dc/The_tragedy_of_Coriolanus_%28IA_tragedyofcoriola00shak%29.pdf",
+              "gloss": "chusma, multitud",
+              "body": "Designación despectiva de la multitud; Brooke (1924, III.1.247) glosa «rabble». Fuentes: Folger Shakespeare Library, Coriolanus, III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus, Yale, 1924, notas a III.1, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III.",
               "lemma": "tag",
               "lemmaUrl": "https://en.wiktionary.org/wiki/tag"
             },
@@ -16118,8 +16118,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "interrupted waters",
               "title": "interrupted waters",
               "type": "Nota filológica",
-              "gloss": "aguas represadas que irrumpen",
-              "body": "La comparación imagina aguas cuyo curso fue interrumpido y que desbordan sus límites. «O’erbear» expresa la fuerza que vence una resistencia. Referencias: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html",
+              "gloss": "aguas represadas",
+              "body": "Las aguas obstruidas rompen sus límites; Brooke (1924, III.1.248) explica «obstructed». Fuentes: Folger Shakespeare Library, Coriolanus, III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus, Yale, 1924, notas a III.1, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III.",
               "lemma": "overbear",
               "lemmaUrl": "https://en.wiktionary.org/wiki/overbear"
             }
@@ -16151,8 +16151,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "cloth of any color",
               "title": "cloth of any color",
               "type": "Nota filológica",
-              "gloss": "tela de cualquier color",
-              "body": "La indiferencia al color sugiere flexibilidad pragmática: cualquier medio conciliador puede servir. Es una interpretación de la metáfora, no un modismo técnico acreditado. Referencias: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html"
+              "gloss": "remedio de cualquier clase",
+              "body": "Imagen de remiendo político: Menenio admite soluciones improvisadas. Brooke (1924, III.1.251–252) entiende remedios ásperos. Fuentes: Folger Shakespeare Library, Coriolanus, III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus, Yale, 1924, notas a III.1, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III."
             }
           ]
         },
@@ -16199,15 +16199,15 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "His heart’s his mouth",
               "title": "His heart’s his mouth",
               "type": "Nota filológica",
-              "gloss": "dice sin reservas lo que siente",
-              "body": "Identificación metafórica del sentimiento interior con la expresión pública: Menenio admira su franqueza, pero también expone su imprudencia. Referencias: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html."
+              "gloss": "dice lo que siente",
+              "body": "Menenio elogia la franqueza absoluta, aunque la escena muestra sus costes políticos. Fuentes: Folger Shakespeare Library, Coriolanus, III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus, Yale, 1924, notas a III.1, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III."
             },
             {
               "term": "forges",
               "title": "forges",
               "type": "Nota filológica",
-              "gloss": "forja; elabora en su interior",
-              "body": "La metáfora de la fragua hace del pecho un taller y de la lengua la salida inevitable de lo producido. Referencias: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "gloss": "forja, produce",
+              "body": "El pecho figura como fragua de pensamientos que la lengua debe exteriorizar. Fuentes: Folger Shakespeare Library, Coriolanus, III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus, Yale, 1924, notas a III.1, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III.",
               "lemma": "forge",
               "lemmaUrl": "https://en.wiktionary.org/wiki/forge"
             },
@@ -16256,8 +16256,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "speak ’em fair",
               "title": "speak ’em fair",
               "type": "Nota filológica",
-              "gloss": "hablarles con buenas maneras",
-              "body": "«Fair» funciona adverbialmente: tratar a alguien con cortesía o palabras conciliadoras. El pronombre «’em» equivale a «them». Referencias: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html.",
+              "gloss": "hablarles con cortesía",
+              "body": "Se trata de apaciguarlos con palabras; Brooke (1924, III.1.262) glosa «conciliate them». Fuentes: Folger Shakespeare Library, Coriolanus, III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus, Yale, 1924, notas a III.1, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III.",
               "lemma": "fair",
               "lemmaUrl": "https://en.wiktionary.org/wiki/fair"
             }
@@ -16282,8 +16282,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "Be every man himself",
               "title": "Be every man himself",
               "type": "Nota filológica",
-              "gloss": "ser él solo toda la ciudadanía",
-              "body": "Hipérbole que acusa a Coriolano de querer sustituir la pluralidad política por su sola voluntad. Es una acusación de Sicinio, no un hecho demostrado. Referencias: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html."
+              "gloss": "querer representar a todos él solo",
+              "body": "Sicinio imputa a Coriolano una pretensión de monopolizar la ciudad; es acusación retórica. Fuentes: Folger Shakespeare Library, Coriolanus, III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus, Yale, 1924, notas a III.1, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III."
             }
           ]
         },
@@ -16333,7 +16333,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "scorn him further trial",
               "type": "Nota filológica",
               "gloss": "negarle otro juicio",
-              "body": "La personificación de «law» permite que la ley misma desprecie la posibilidad de un proceso ulterior; Sicinio justifica la violencia con lenguaje jurídico. Referencias: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html."
+              "body": "Sicinio pretende que la resistencia a la autoridad justifique la supresión de garantías; no se presenta como derecho romano establecido. Fuentes: Folger Shakespeare Library, Coriolanus, III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus, Yale, 1924, notas a III.1, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III."
             },
             {
               "term": "sets at naught",
@@ -16356,8 +16356,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "people’s mouths",
               "title": "people’s mouths",
               "type": "Nota filológica",
-              "gloss": "la voz del pueblo",
-              "body": "El ciudadano distribuye las funciones políticas entre los tribunos, que hablan, y los ciudadanos, que ejecutan. La imagen es una reivindicación de representación, no una descripción institucional neutral. Referencias: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/."
+              "gloss": "portavoces del pueblo",
+              "body": "Los tribunos son las bocas y los ciudadanos las manos: metáfora de representación y fuerza. Fuentes: Folger Shakespeare Library, Coriolanus, III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus, Yale, 1924, notas a III.1, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III."
             }
           ]
         },
@@ -16400,8 +16400,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "cry havoc",
               "title": "cry havoc",
               "type": "Nota filológica",
-              "gloss": "dar la señal de una matanza indiscriminada",
-              "body": "«Havoc» podía ser una consigna de devastación en combate y cacería. Menenio contrapone la violencia sin límites a una persecución restringida; el matiz histórico está confirmado por el glosario de Crystal y Crystal. Referencias: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; David y Ben Crystal, Shakespeare’s Words, voz «havoc», https://www.shakespeareswords.com/Public/GlossaryHeadword.aspx?headwordId=18146.",
+              "gloss": "dar la señal de matanza indiscriminada",
+              "body": "Brooke (1924, III.1.273) explica la señal militar para una matanza sin distinción. Fuentes: Folger Shakespeare Library, Coriolanus, III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus, Yale, 1924, notas a III.1, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III.",
               "lemma": "havoc",
               "lemmaUrl": "https://en.wiktionary.org/wiki/havoc"
             },
@@ -16409,8 +16409,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "modest warrant",
               "title": "modest warrant",
               "type": "Nota filológica",
-              "gloss": "autorización limitada; mandato prudente",
-              "body": "«Warrant» puede designar autorización o fundamento para actuar; «modest» restringe su alcance. No se presupone aquí una orden judicial concreta. Referencias: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/.",
+              "gloss": "autorización proporcionada",
+              "body": "Menenio reclama moderación; Brooke (1924, III.1.274) interpreta «as moderation warrants». Fuentes: Folger Shakespeare Library, Coriolanus, III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus, Yale, 1924, notas a III.1, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III.",
               "lemma": "warrant",
               "lemmaUrl": "https://en.wiktionary.org/wiki/warrant"
             }
@@ -16426,8 +16426,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "holp",
               "title": "holp",
               "type": "Nota filológica",
-              "gloss": "ayudado; contribuido",
-              "body": "Forma antigua de pasado o participio de «help». Aquí, después de «have», funciona como participio, no como pasado simple. Collins registra ambos usos históricos. Referencias: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; Collins English Dictionary, voz «holp», https://www.collinsdictionary.com/dictionary/english/holp.",
+              "gloss": "ayudado",
+              "body": "Participio fuerte histórico de help; equivale a helped en esta construcción. Fuentes: Folger Shakespeare Library, Coriolanus, III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus, Yale, 1924, notas a III.1, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III.",
               "lemma": "help",
               "lemmaUrl": "https://en.wiktionary.org/wiki/help"
             }
@@ -16443,8 +16443,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "As I do know ... So can I",
               "title": "As I do know ... So can I",
               "type": "Nota filológica",
-              "gloss": "así como conozco... también puedo",
-              "body": "Construcción correlativa «as ... so» que equilibra elogio y crítica; «do» refuerza la afirmación sin cambiar el tiempo verbal. Referencias: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/."
+              "gloss": "así como sé… también puedo…",
+              "body": "Correlación as…so… que legitima la evaluación equilibrada de Menenio. Fuentes: Folger Shakespeare Library, Coriolanus, III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus, Yale, 1924, notas a III.1, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III."
             },
             {
               "term": "Consul’s worthiness",
