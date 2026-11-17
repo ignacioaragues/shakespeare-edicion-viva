@@ -75,7 +75,6 @@
       button.dataset.sceneId = item.id;
       button.append(el('span', 'scene-number', String(item.scene).padStart(2, '0')));
       button.append(el('span', '', item.place || 'Escena ' + item.scene));
-      button.append(el('span', 'scene-dot'));
       nav.append(button);
     }
     const lastAct = Math.max(0, ...data.scenes.map(item => item.act));
