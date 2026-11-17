@@ -17469,7 +17469,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "too absolute",
               "type": "Nota filológica",
               "gloss": "demasiado inflexible",
-              "body": "«Absolute» describe aquí una firmeza sin concesiones, no el poder absoluto de un gobernante. La madre concede su nobleza, pero cuestiona su aplicación en circunstancias extremas. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; MIT Shakespeare, Coriolanus III.2, https://shakespeare.mit.edu/coriolanus/coriolanus.3.2.html.",
+              "body": "Brooke (ed., *Coriolanus*, Yale, 1924, III.2, nota a v. 39) glosa «absolute» como «positive, peremptory»: resolución tajante, no poder político absoluto. Volumnia reconoce la nobleza de esa firmeza, pero la limita por la urgencia. Fuentes: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III; Folger, III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/",
               "lemma": "absolute",
               "lemmaUrl": "https://en.wiktionary.org/wiki/absolute"
             },
@@ -17478,7 +17478,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "extremities speak",
               "type": "Nota filológica",
               "gloss": "las circunstancias extremas se imponen",
-              "body": "La personificación atribuye voz a la necesidad: el principio de nobleza deja de bastar cuando una crisis exige otra conducta. Interpretación contextual, no una máxima jurídica. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; MIT Shakespeare, Coriolanus III.2, https://shakespeare.mit.edu/coriolanus/coriolanus.3.2.html.",
+              "body": "Brooke (Yale, 1924, III.2, nota a v. 41) entiende «But when extremities speak» como excepción impuesta por la necesidad. La personificación de las circunstancias extremas introduce una salvedad al elogio de la nobleza. Fuentes: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III; https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/",
               "lemma": "extremity",
               "lemmaUrl": "https://en.wiktionary.org/wiki/extremity"
             },
@@ -17487,7 +17487,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "policy",
               "type": "Nota filológica",
               "gloss": "prudencia estratégica",
-              "body": "No equivale aquí a «política» en sentido institucional, sino a cálculo prudente y estrategia. Volumnia insiste en que ese cálculo puede acompañar al honor en paz igual que en guerra. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; MIT Shakespeare, Coriolanus III.2, https://shakespeare.mit.edu/coriolanus/coriolanus.3.2.html.",
+              "body": "Brooke (Yale, 1924, III.2, nota a v. 42) glosa «policy» como «craft», es decir, habilidad estratégica o astucia. La equivalencia no debe confundirse con política pública moderna: Volumnia defiende la compatibilidad entre honor y táctica. Fuentes: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III; https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/",
               "lemma": "policy",
               "lemmaUrl": "https://en.wiktionary.org/wiki/policy"
             },
@@ -17572,7 +17572,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "in like request",
               "type": "Nota filológica",
               "gloss": "igualmente necesaria / requerida",
-              "body": "«Request» significa aquí necesidad o demanda de una cualidad, no una petición formal. La lectura sigue la comparación explícita entre paz y guerra. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; MIT Shakespeare, Coriolanus III.2, https://shakespeare.mit.edu/coriolanus/coriolanus.3.2.html.",
+              "body": "Brooke (Yale, 1924, III.2, nota a v. 51) explica «stands in like request» como «is equally valuable». La pregunta de Volumnia sostiene que la estrategia vale tanto en la paz como en la guerra. Fuentes: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III; https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/",
               "lemma": "request",
               "lemmaUrl": "https://en.wiktionary.org/wiki/request"
             }
@@ -17589,7 +17589,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "force you this",
               "type": "Nota filológica",
               "gloss": "por qué insistes en esto",
-              "body": "«Force» expresa aquí apremio argumentativo: Coriolano siente que su madre le impone una conclusión, no que ejerza fuerza física. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; MIT Shakespeare, Coriolanus III.2, https://shakespeare.mit.edu/coriolanus/coriolanus.3.2.html.",
+              "body": "Brooke (Yale, 1924, III.2, nota a v. 51) glosa «force» como «urge»: Coriolano pregunta por qué su madre insiste en imponer ese argumento, sin aludir a violencia física. Fuentes: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III; https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/",
               "lemma": "force",
               "lemmaUrl": "https://en.wiktionary.org/wiki/force"
             }
@@ -17606,7 +17606,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "lies you on",
               "type": "Nota filológica",
               "gloss": "te corresponde / te incumbe",
-              "body": "Construcción de obligación personal; «Because that» introduce la justificación de la insistencia de Volumnia. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; MIT Shakespeare, III.2, https://shakespeare.mit.edu/coriolanus/coriolanus.3.2.html.",
+              "body": "Brooke (Yale, 1924, III.2, nota a v. 52) glosa la construcción «lies you on» como «is incumbent upon you»: es tu obligación. Volumnia exige una actuación verbal deliberada, no una conversión íntima. Fuentes: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III; https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/",
               "lemma": "lie",
               "lemmaUrl": "https://en.wiktionary.org/wiki/lie"
             },
@@ -17633,7 +17633,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "Of no allowance",
               "type": "Nota filológica",
               "gloss": "que no cuentan con la aprobación",
-              "body": "«Allowance» designa aceptación o reconocimiento: el pecho no avala esas palabras. No significa aquí una asignación monetaria. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; MIT Shakespeare, III.2, https://shakespeare.mit.edu/coriolanus/coriolanus.3.2.html.",
+              "body": "Brooke (Yale, 1924, III.2, nota a v. 57) explica «of no allowance to» como «unapproved by»: palabras que el pecho o conciencia de Coriolano no autoriza. No se refiere a dinero ni a una asignación. Fuentes: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III; https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/",
               "lemma": "allowance",
               "lemmaUrl": "https://en.wiktionary.org/wiki/allowance"
             },
@@ -17642,7 +17642,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "take in a town",
               "type": "Nota filológica",
               "gloss": "tomar una ciudad",
-              "body": "«Take in» tiene sentido militar de conquistar una plaza. Volumnia justifica la persuasión política mediante una analogía con la capitulación sin derramamiento de sangre. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; MIT Shakespeare, III.2, https://shakespeare.mit.edu/coriolanus/coriolanus.3.2.html.",
+              "body": "Brooke (Yale, 1924, III.2, nota a v. 59) glosa «take in» como «get possession of». La comparación entre persuasión y conquista incruenta constituye el núcleo de la defensa de la simulación de Volumnia. Fuentes: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III; https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/",
               "lemma": "take",
               "lemmaUrl": "https://en.wiktionary.org/wiki/take"
             },
