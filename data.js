@@ -21188,8 +21188,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "favor",
               "title": "favor",
               "type": "Nota filológica",
-              "gloss": "rostro; aspecto",
-              "body": "«Favor» significa aquí apariencia facial, no favor o benevolencia; la voz permite reconocer a quien ha cambiado de aspecto. Cotejo: Folger Shakespeare Library, Coriolanus IV.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/3/); MIT Shakespeare, IV.3 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.3.html).",
+              "gloss": "rostro; apariencia",
+              "body": "«Favour» designa el rostro o aspecto de Nicanor, no un favor recibido. Brooke (1924), notas a IV.3, v. 9, glosa «face»; el reconocimiento llega por la voz. Folger IV.3: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/3/; Brooke: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV",
               "lemma": "favour",
               "lemmaUrl": "https://en.wiktionary.org/wiki/favour"
             },
@@ -21197,15 +21197,15 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "approved by your tongue",
               "title": "approved by your tongue",
               "type": "Nota filológica",
-              "gloss": "confirmado por su manera de hablar",
-              "body": "La voz y el habla sirven de prueba de identidad, frente al cambio de barba. Cotejo: Folger Shakespeare Library, Coriolanus IV.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/3/); MIT Shakespeare, IV.3 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.3.html)."
+              "gloss": "reconocible por tu manera de hablar",
+              "body": "Folger imprime «approved», mientras Brooke (1924), IV.3, v. 9, lee «appeared» y glosa «made to appear, manifested». La ficha distingue ambas lecturas sin tratarlas como equivalentes exactos. Folger: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/3/; Brooke: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV"
             },
             {
               "term": "a note from the Volscian state",
               "title": "a note from the Volscian state",
               "type": "Nota filológica",
-              "gloss": "un encargo del Estado volsco",
-              "body": "«Note» se entiende como comunicación o instrucción oficial, no como una nota musical. Cotejo: Folger Shakespeare Library, Coriolanus IV.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/3/); MIT Shakespeare, IV.3 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.3.html)."
+              "gloss": "instrucciones del gobierno volsco",
+              "body": "«Note» es una instrucción o encargo oficial, no necesariamente una nota escrita. Brooke, notas a IV.3, v. 11: «instruction». Folger: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/3/; Brooke: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV"
             }
           ]
         },
@@ -21281,8 +21281,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "ripe aptness",
               "title": "ripe aptness",
               "type": "Nota filológica",
-              "gloss": "estar más que dispuestos",
-              "body": "La madurez figurada sugiere una disposición a actuar ya desarrollada, no que la acción se haya consumado. Cotejo: Folger Shakespeare Library, Coriolanus IV.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/3/); MIT Shakespeare, IV.3 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.3.html)."
+              "gloss": "plena disposición para actuar",
+              "body": "La metáfora de maduración («ripe», «mature») describe una crisis política lista para estallar; Brooke, IV.3, v. 23, glosa «complete readiness». Folger: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/3/; Brooke: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV"
             },
             {
               "term": "pluck from them their tribunes",
@@ -21364,8 +21364,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "in no request",
               "title": "in no request",
               "type": "Nota filológica",
-              "gloss": "sin el favor de su patria",
-              "body": "«Request» significa aquí estima, demanda o favor público, no una petición formal; la expresión explica la ventaja de Aufidio. Cotejo: Folger Shakespeare Library, Coriolanus IV.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/3/); MIT Shakespeare, IV.3 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.3.html).",
+              "gloss": "sin estima ni demanda en su patria",
+              "body": "«In no request of his country» indica que Roma ya no valora ni reclama a Coriolano; no significa que no haya presentado una solicitud formal. Brooke, IV.3, v. 37: «unvalued by». Folger: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/3/; Brooke: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV",
               "lemma": "request",
               "lemmaUrl": "https://en.wiktionary.org/wiki/request"
             }
@@ -21381,8 +21381,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "He cannot choose",
               "title": "He cannot choose",
               "type": "Nota filológica",
-              "gloss": "no tiene otra alternativa",
-              "body": "La locución expresa inevitabilidad: Aufidio destacará necesariamente, dada la ausencia de su rival. Fuentes: Folger Shakespeare Library, Coriolanus IV.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/3/); MIT Shakespeare, IV.3 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.3.html)."
+              "gloss": "no puede sino prosperar",
+              "body": "La expresión idiomática señala que Aufidio inevitablemente saldrá favorecido por la ausencia de su rival. Brooke, IV.3, v. 39, glosa «cannot fail to appear well». Folger: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/3/; Brooke: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV"
             },
             {
               "term": "accidentally",
@@ -21446,8 +21446,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "distinctly billeted",
               "title": "distinctly billeted",
               "type": "Nota filológica",
-              "gloss": "distribuidos en alojamientos",
-              "body": "«Billeted» alude al alojamiento militar asignado; «distinctly» sugiere una distribución diferenciada y ordenada. Fuentes: Folger Shakespeare Library, Coriolanus IV.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/3/); MIT Shakespeare, IV.3 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.3.html); Wiktionary, billet (https://en.wiktionary.org/wiki/billet).",
+              "gloss": "alistados y asignados por separado",
+              "body": "«Billeted» no significa aquí necesariamente alojados: Brooke (1924), IV.3, v. 48, interpreta «carefully enrolled». El pasaje presenta la organización de las centurias y sus efectivos. Folger: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/3/; Brooke: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV",
               "lemma": "billet",
               "lemmaUrl": "https://en.wiktionary.org/wiki/billet"
             },
@@ -21455,15 +21455,15 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "in th’ entertainment",
               "title": "in th’ entertainment",
               "type": "Nota filológica",
-              "gloss": "incorporados al servicio",
-              "body": "Uso histórico de «entertainment»: admisión o mantenimiento en servicio militar, no diversión. La forma «th’» representa contracción del artículo. Fuentes: Folger Shakespeare Library, Coriolanus IV.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/3/); MIT Shakespeare, IV.3 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.3.html); Wiktionary, entertainment (https://en.wiktionary.org/wiki/entertainment)."
+              "gloss": "ya incorporados a sueldo",
+              "body": "«Entertainment» es recepción de paga o contratación militar, no diversión. Brooke, IV.3, v. 49: «receipt of pay». Folger: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/3/; Brooke: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV"
             },
             {
               "term": "on foot at an hour’s warning",
               "title": "on foot at an hour’s warning",
               "type": "Nota filológica",
-              "gloss": "listos para marchar con una hora de aviso",
-              "body": "«On foot» significa aquí movilizados o en marcha, no una oposición técnica entre infantería y caballería. Fuentes: Folger Shakespeare Library, Coriolanus IV.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/3/); MIT Shakespeare, IV.3 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.3.html)."
+              "gloss": "listos para entrar en armas con una hora de aviso",
+              "body": "«On foot» alude a estar movilizados y armados, no simplemente a desplazarse caminando. Brooke, IV.3, v. 49: «under arms». Folger: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/3/; Brooke: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV"
             }
           ]
         },
@@ -21499,8 +21499,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "You take my part from me",
               "title": "You take my part from me",
               "type": "Nota filológica",
-              "gloss": "se me ha adelantado",
-              "body": "«Part» alude al papel que le correspondería desempeñar en el intercambio de cortesías: Adriano reclama para sí la mayor gratitud. Fuentes: Folger Shakespeare Library, Coriolanus IV.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/3/); MIT Shakespeare, IV.3 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.3.html)."
+              "gloss": "me quitas las palabras que iba a decir",
+              "body": "Fórmula de cortesía recíproca: Adrián se adelanta a expresar la alegría que Nicanor quería manifestar. Brooke, IV.3, v. 55: «the words I should say». Folger: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/3/; Brooke: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV"
             }
           ]
         },
@@ -21564,8 +21564,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "’fore my wars",
               "title": "’fore my wars",
               "type": "Nota filológica",
-              "gloss": "antes de mis campañas",
-              "body": "«’Fore» es aféresis de «before»; la inversión «Have I heard» conserva el énfasis en los herederos caídos. Fuentes: Folger Shakespeare Library, Coriolanus IV.4 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/4/); MIT Shakespeare, IV.4 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.4.html).",
+              "gloss": "al enfrentarse a mí en la guerra",
+              "body": "«’Fore» es «before», pero Brooke, IV.4, v. 3, precisa el valor contextual: «confronting me in battle». Coriolano recuerda a los herederos muertos por sus campañas contra Ancio. Folger: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/4/; Brooke: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV",
               "lemma": "before",
               "lemmaUrl": "https://en.wiktionary.org/wiki/before"
             },
@@ -21580,8 +21580,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "puny battle",
               "title": "puny battle",
               "type": "Nota filológica",
-              "gloss": "combate insignificante",
-              "body": "El contraste entre sus hazañas militares y una posible muerte a manos de civiles desarmados es deliberadamente humillante. Fuentes: Folger Shakespeare Library, Coriolanus IV.4 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/4/); MIT Shakespeare, IV.4 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.4.html)."
+              "gloss": "combate desigual y mezquino",
+              "body": "«Puny» reduce irónicamente el posible linchamiento por mujeres con asadores y niños con piedras frente a las antiguas hazañas militares de Coriolano. Es interpretación de la ironía, no un término técnico. Folger: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/4/; Brooke: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV"
             }
           ]
         },
