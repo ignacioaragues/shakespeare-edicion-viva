@@ -3969,7 +3969,15 @@ window.SHAKESPEARE_READER_DATA = {
           "es": "Bien, entonces, adiós.",
           "notes": []
         }
-      ]
+      ],
+      "lineationAudit": {
+        "first_line": 370,
+        "last_line": 485,
+        "source": "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/3/",
+        "source_checked": true,
+        "browser_highlight_regression": "pending",
+        "notes": "116 líneas Folger I.3 cotejadas: prosa 370–399 y 420–485 sin cortes versales artificiales; verso 400–419 con 15 límites internos en cuatro parlamentos; 410 y 417 son intervenciones de un solo verso. EN/ES, notas, IDs y offsets intactos. Disposición española y QA visual de resaltados pendientes."
+      }
     },
     {
       "id": "coriolanus-1-4",

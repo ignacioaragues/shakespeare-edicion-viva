@@ -245,6 +245,10 @@
   // Verse breaks are zero-text DOM markers: neither en/es nor reading offsets change.
   // Each anchor is checked against the published string before applying the layout.
   const verifiedVerseStarts = {
+    'coriolanus-1-3|400–409': { en: ["Methinks I hear hither","See him pluck Aufidius","As children from a bear","Methinks I see him stamp","“Come on, you cowards!","Though you were born","With his mailed hand","Like to a harvestman","Or all or lose his hire."] },
+    'coriolanus-1-3|411–416': { en: ["Than gilt his trophy.","When she did suckle Hector","Than Hector’s forehead","At Grecian sword","We are fit to bid"] },
+    'coriolanus-1-3|418–419': { en: ["And tread upon his neck."] },
+
     'coriolanus-1-2|322–324': { en: ["That they of Rome","And know how we proceed."] },
     'coriolanus-1-2|325–340': { en: ["Whatever have been thought","That could be brought","Had circumvention?","Since I heard thence.","I have the letter here.","They have pressed a power","known Whether","Whether for east or west.","The people mutinous;","Cominius, Martius","Who is of Rome","And Titus Lartius","These three lead","Whither ’tis bent.","Consider of it."] },
     'coriolanus-1-2|341–343': { en: ["We never yet","To answer us."] },

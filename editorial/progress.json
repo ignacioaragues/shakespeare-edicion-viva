@@ -3383,6 +3383,17 @@
       "status": "source_lineation_verified_browser_highlight_qa_pending",
       "source": "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/2/",
       "scope": "48 líneas Folger de I.2 cotejadas una por una; 6 parlamentos multiversales con marcadores ingleses no destructivos, cinco despedidas de un verso y acotaciones independientes. Traducción ES conservada y pendiente cotejo visual de saltos; QA de navegador/resaltados pendiente. Tanda abreviada para cerrar la escena."
+    },
+    {
+      "id": "coriolanus-1-3-370-485",
+      "act": 1,
+      "scene": 3,
+      "first_line": 370,
+      "last_line": 485,
+      "reviewed_on": "2026-11-18",
+      "status": "source_lineation_verified_browser_highlight_qa_pending",
+      "source": "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/3/",
+      "scope": "116 líneas Folger I.3 cotejadas: prosa 370–399 y 420–485 sin cortes versales artificiales; verso 400–419 con 15 límites internos en cuatro parlamentos; 410 y 417 son intervenciones de un solo verso. EN/ES, notas, IDs y offsets intactos. Disposición española y QA visual de resaltados pendientes."
     }
   ]
 }
