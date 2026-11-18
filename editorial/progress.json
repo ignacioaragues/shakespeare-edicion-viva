@@ -3405,6 +3405,39 @@
       "status": "source_lineation_verified_browser_highlight_qa_pending",
       "source": "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/4/",
       "scope": "82 líneas Folger I.4 cotejadas contra la disposición de Folger: 53 límites internos de verso en 9 bloques multiversales; parlamentos de verso único y acotaciones independientes conservados. Se respetan los cortes especiales 500/501 (hence), 509/510 (rushes), 527/528 (plagues), 540/541 (seconds!) y 556/557 (Martius). Marcadores tipográficos EN sin modificar cadenas, notas, IDs ni offsets; cortes ES y QA visual/resaltados pendientes."
+    },
+    {
+      "id": "coriolanus-1-5-568-599",
+      "act": 1,
+      "scene": 5,
+      "first_line": 568,
+      "last_line": 599,
+      "reviewed_on": "2026-11-18",
+      "status": "source_lineation_verified_browser_highlight_qa_pending",
+      "source": "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/5/",
+      "scope": "32 líneas Folger cotejadas contra disposición original; 22 inicios de verso internos verificados, sin alterar EN/ES, notas, IDs ni offsets. Acotaciones y parlamentos de verso único conservados. Cotejo visual español y QA de navegador/resaltados pendientes."
+    },
+    {
+      "id": "coriolanus-1-6-600-706",
+      "act": 1,
+      "scene": 6,
+      "first_line": 600,
+      "last_line": 706,
+      "reviewed_on": "2026-11-18",
+      "status": "source_lineation_verified_browser_highlight_qa_pending",
+      "source": "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/6/",
+      "scope": "107 líneas Folger cotejadas contra disposición original; 80 inicios de verso internos verificados, sin alterar EN/ES, notas, IDs ni offsets. Acotaciones y parlamentos de verso único conservados. Cotejo visual español y QA de navegador/resaltados pendientes."
+    },
+    {
+      "id": "coriolanus-1-7-707-715",
+      "act": 1,
+      "scene": 7,
+      "first_line": 707,
+      "last_line": 715,
+      "reviewed_on": "2026-11-18",
+      "status": "source_lineation_verified_browser_highlight_qa_pending",
+      "source": "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/7/",
+      "scope": "9 líneas Folger cotejadas contra disposición original; 6 inicios de verso internos verificados, sin alterar EN/ES, notas, IDs ni offsets. Acotaciones y parlamentos de verso único conservados. Cotejo visual español y QA de navegador/resaltados pendientes."
     }
   ]
 }
