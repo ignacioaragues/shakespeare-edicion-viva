@@ -3438,6 +3438,28 @@
       "status": "source_lineation_verified_browser_highlight_qa_pending",
       "source": "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/7/",
       "scope": "9 líneas Folger cotejadas contra disposición original; 6 inicios de verso internos verificados, sin alterar EN/ES, notas, IDs ni offsets. Acotaciones y parlamentos de verso único conservados. Cotejo visual español y QA de navegador/resaltados pendientes."
+    },
+    {
+      "id": "coriolanus-1-8-716-737",
+      "act": 1,
+      "scene": 8,
+      "first_line": 716,
+      "last_line": 737,
+      "reviewed_on": "2026-11-18",
+      "status": "source_lineation_verified_browser_highlight_qa_pending",
+      "source": "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/8/",
+      "scope": "22 líneas Folger I.8: límites cotejados uno por uno con Folger; marcadores ingleses sin texto para 16 comienzos internos de verso en parlamentos multiversales. Intervenciones de verso único y acotaciones independientes; texto EN/ES, notas, IDs y offsets intactos. Cortes españoles, prueba visual de navegador y regresión de resaltados pendientes."
+    },
+    {
+      "id": "coriolanus-1-9-738-843",
+      "act": 1,
+      "scene": 9,
+      "first_line": 738,
+      "last_line": 843,
+      "reviewed_on": "2026-11-18",
+      "status": "source_lineation_verified_browser_highlight_qa_pending",
+      "source": "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/9/",
+      "scope": "106 líneas Folger I.9: límites cotejados uno por uno con Folger; marcadores ingleses sin texto para 85 comienzos internos de verso en parlamentos multiversales. Intervenciones de verso único y acotaciones independientes; texto EN/ES, notas, IDs y offsets intactos. Cortes españoles, prueba visual de navegador y regresión de resaltados pendientes."
     }
   ]
 }
