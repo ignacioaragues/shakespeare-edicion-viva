@@ -245,6 +245,7 @@
   // Verse breaks are zero-text DOM markers: neither en/es nor reading offsets change.
   // Each anchor is checked against the published string before applying the layout.
   const verifiedVerseStarts = {
+    'coriolanus-2-1|1042–1045': { en: ["he carries noise", "Death, that dark spirit", "Which, being advanced"] },
     'coriolanus-1-10|846–859': { en: ["I would I were","Being a Volsce","What good condition","I’ th’ part","I have fought","And wouldst do","As often as","If e’er again","He’s mine","Hath not that","I thought to crush","True sword to sword","Or wrath or craft"] },
     'coriolanus-1-10|861–873': { en: ["With only suff’ring","Shall fly out","Being naked","The prayers of priests","Embarquements all","Their rotten privilege","My hate to Martius","At home","Against the hospitable","Wash my fierce hand","Learn how ’tis held","Be hostages"] },
     'coriolanus-1-10|875–878': { en: ["’Tis south the city","How the world goes","I may spur"] },

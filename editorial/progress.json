@@ -3471,6 +3471,17 @@
       "status": "source_lineation_verified_browser_highlight_qa_pending",
       "source": "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/10/",
       "scope": "36 líneas Folger cotejadas con la disposición de I.10: 28 límites internos de verso en tres parlamentos extensos, con dos intervenciones iniciales, dos preguntas breves y despedida final independientes. Conservados textos EN/ES, IDs, notas y offsets; correspondencia visual ES y regresión de resaltados pendientes. La escena termina en 879."
+    },
+    {
+      "id": "coriolanus-2-1-880-1045",
+      "act": 2,
+      "scene": 1,
+      "first_line": 880,
+      "last_line": 1045,
+      "reviewed_on": "2026-11-18",
+      "status": "source_lineation_verified_browser_highlight_qa_pending",
+      "source": "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/1/",
+      "scope": "166 líneas Folger y 57 bloques consecutivos cotejados: 880–1041 diálogo en prosa, sin cortes versales artificiales pese a los números de línea de la edición; 1042–1045 intervención versificada de Volumnia, con tres límites internos marcados (he carries noise / Death / Which). Entradas, salida frustrada, acotaciones y cambios de interlocutor permanecen separados. EN/ES, IDs, notas y offsets sin modificación. Comprobación visual ES y regresión de resaltados pendientes."
     }
   ]
 }
