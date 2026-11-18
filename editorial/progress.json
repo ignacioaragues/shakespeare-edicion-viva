@@ -3548,6 +3548,17 @@
       "status": "source_lineation_verified_browser_highlight_qa_pending",
       "source": "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/",
       "scope": "146 líneas Folger cotejadas con Folger II.3, 40 bloques hasta cierre de escena. Restituido corte interno entre 'your' (1598) y 'bodies' (1599) sin alterar caracteres léxicos; reparadas 2 anclas de notas que no coincidían literalmente. Versos breves 1527, 1531–1534, 1605–1609; acotaciones independientes, y discursos de Bruto/Sicinio 1569–1656 verificados. Texto español, IDs, offsets y navegación conservados. Pendiente QA visual español, móvil y regresión de resaltados."
+    },
+    {
+      "id": "coriolanus-3-1-1669-1847",
+      "act": 3,
+      "scene": 1,
+      "first_line": 1669,
+      "last_line": 1847,
+      "reviewed_on": "2026-11-19",
+      "status": "source_lineation_verified_browser_highlight_qa_pending",
+      "source": "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/",
+      "scope": "179 líneas Folger 1669–1847 cotejadas línea por línea con la disposición pública Folger III.1; 61 bloques consecutivos, sin saltos de numeración; verso y cambios de parlamento ya coinciden con Folger, por lo que no se altera data.js. Confirmados cortes excepcionalmente breves 'them' (1696), 'offices' (1714), 'teeth' (1716), 'scattered' (1762), 'corn' (1825), 'service' (1830). La acotación de entrada 1693/1694 permanece dentro del bloque existente. Detectadas tres anclas de notas con divergencia literal o espacios tipográficos (1768, 1790), reservadas para corrección posterior no destructiva. Pendiente QA visual español, móvil y regresión de resaltados; no se declara aprobado."
     }
   ]
 }
