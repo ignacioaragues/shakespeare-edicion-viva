@@ -3504,6 +3504,17 @@
       "status": "source_lineation_verified_browser_highlight_qa_pending",
       "source": "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/1/",
       "scope": "81 líneas Folger cotejadas con Folger en II.1, desde la descripción de Bruto hasta el cierre de escena. 63 inicios internos de verso anclados en 13 parlamentos multiversales; 4 intervenciones de verso único y acotaciones independientes. Se conserva el contenido EN/ES, IDs, notas y offsets; QA visual español, navegador y resaltados pendientes."
+    },
+    {
+      "id": "coriolanus-2-2-1184-1334",
+      "act": 2,
+      "scene": 2,
+      "first_line": 1184,
+      "last_line": 1334,
+      "reviewed_on": "2026-11-19",
+      "status": "source_lineation_verified_browser_highlight_qa_pending",
+      "source": "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/2/",
+      "scope": "151 líneas Folger cotejadas con edición pública II.2: 1184–1219 diálogo de oficiales en prosa (sin cortes tipográficos versales); 1220–1334 parlamentos senatoriales en verso, con límites de línea ya presentes en data.js y cotejados contra Folger. Se preservan divisiones tipográficas de versos breves (1225 you, 1269 people, 1278 see), acotaciones y cambios de personaje. No se modifica texto, IDs, offsets ni notas. QA visual en navegador, resaltados y fluidez ES pendientes."
     }
   ]
 }
