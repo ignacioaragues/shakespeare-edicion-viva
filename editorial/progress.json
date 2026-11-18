@@ -3515,6 +3515,17 @@
       "status": "source_lineation_verified_browser_highlight_qa_pending",
       "source": "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/2/",
       "scope": "151 líneas Folger cotejadas con edición pública II.2: 1184–1219 diálogo de oficiales en prosa (sin cortes tipográficos versales); 1220–1334 parlamentos senatoriales en verso, con límites de línea ya presentes en data.js y cotejados contra Folger. Se preservan divisiones tipográficas de versos breves (1225 you, 1269 people, 1278 see), acotaciones y cambios de personaje. No se modifica texto, IDs, offsets ni notas. QA visual en navegador, resaltados y fluidez ES pendientes."
+    },
+    {
+      "id": "coriolanus-2-2-1335-1373",
+      "act": 2,
+      "scene": 2,
+      "first_line": 1335,
+      "last_line": 1373,
+      "reviewed_on": "2026-11-19",
+      "status": "source_lineation_verified_browser_highlight_qa_pending",
+      "source": "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/2/",
+      "scope": "39 líneas Folger cotejadas con Folger en 15 parlamentos hasta fin de II.2. Verso breve 'you' (1345), réplicas breves, acotaciones independientes y cierre de tribunos; un salto EN por línea Folger ya existente en data.js. Texto EN/ES, IDs y offsets conservados. QA visual español, móvil y regresión de resaltados pendientes. Anclas de notas pendientes de revisión: ninguna"
     }
   ]
 }
