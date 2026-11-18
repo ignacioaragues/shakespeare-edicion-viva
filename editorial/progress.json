@@ -3526,6 +3526,17 @@
       "status": "source_lineation_verified_browser_highlight_qa_pending",
       "source": "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/2/",
       "scope": "39 líneas Folger cotejadas con Folger en 15 parlamentos hasta fin de II.2. Verso breve 'you' (1345), réplicas breves, acotaciones independientes y cierre de tribunos; un salto EN por línea Folger ya existente en data.js. Texto EN/ES, IDs y offsets conservados. QA visual español, móvil y regresión de resaltados pendientes. Anclas de notas pendientes de revisión: ninguna"
+    },
+    {
+      "id": "coriolanus-2-3-1374-1522",
+      "act": 2,
+      "scene": 3,
+      "first_line": 1374,
+      "last_line": 1522,
+      "reviewed_on": "2026-11-19",
+      "status": "source_lineation_verified_browser_highlight_qa_pending",
+      "source": "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/",
+      "scope": "149 líneas Folger cotejadas con Folger II.3, desde deliberación de ciudadanos hasta 'Worthy voices!' (1522). Prosa 1374–1423 y 1445–1494, sin imponer cortes versales; verso 1424–1444 y 1495–1515, con cortes originales preservados. Réplicas ciudadanas 1516–1522 y acotaciones independientes. 50 bloques revisados; no se modifican EN/ES, IDs, offsets ni anclas. Pendiente QA visual ES, navegador y resaltados."
     }
   ]
 }
