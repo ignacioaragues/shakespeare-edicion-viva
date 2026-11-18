@@ -3570,6 +3570,17 @@
       "status": "source_lineation_verified_browser_highlight_qa_pending",
       "source": "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/",
       "scope": "145 líneas Folger consecutivas III.1, 59 bloques, cotejadas con Folger. Restituidos 4 cortes internos de verso en 1848–1871 (wisdom, you—), 1886–1890 (myself) y 1981–1987 (hence); preservados todos los caracteres salvo los saltos tipográficos, traducción, IDs y offsets. Acotaciones de entrada, arresto, tumulto y espada independientes. 78 notas inspeccionadas; 0 anclas con divergencia literal quedan pendientes de reparación no destructiva: []. QA visual español, móvil y resaltados pendiente."
+    },
+    {
+      "id": "coriolanus-3-1-1993-2099",
+      "act": 3,
+      "scene": 1,
+      "first_line": 1993,
+      "last_line": 2099,
+      "reviewed_on": "2026-11-19",
+      "status": "source_lineation_verified_browser_highlight_qa_pending",
+      "source": "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/",
+      "scope": "107 líneas Folger consecutivas hasta el final de III.1; 41 bloques cotejados con Folger. Restituidos cuatro límites tipográficos internos: mouth (1997), attend (2092), Let (2096) y come (2097); sin cambios de caracteres, IDs, offsets o traducción. Se comprobaron 65 notas; tres anclas de notas no literales pendientes de reparación sin alterar los resaltados: 2024–2026 (As I do know ... So can I); 2041–2045 (enrolled / In Jove’s own book); 2083–2086 (the end of it / Unknown to the beginning). QA visual español, móvil y regresión de resaltados pendientes."
     }
   ]
 }

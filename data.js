@@ -16207,7 +16207,7 @@ window.SHAKESPEARE_READER_DATA = {
         {
           "line": "1994–2001",
           "speaker": "menenius",
-          "en": "His nature is too noble for the world.\nHe would not flatter Neptune for his trident\nOr Jove for ’s power to thunder. His heart’s his mouth;\nWhat his breast forges, that his tongue must vent,\nAnd, being angry, does forget that ever\nHe heard the name of death.\nHere’s goodly work.",
+          "en": "His nature is too noble for the world.\nHe would not flatter Neptune for his trident\nOr Jove for ’s power to thunder. His heart’s his\nmouth;\nWhat his breast forges, that his tongue must vent,\nAnd, being angry, does forget that ever\nHe heard the name of death.\nHere’s goodly work.",
           "es": "Su carácter es demasiado noble para este mundo.\nNo adularía a Neptuno para conseguir su tridente\nni a Júpiter para obtener su poder de lanzar truenos. Lleva el corazón en la boca;\ntodo lo que se forja en su pecho tiene que salir por su lengua\ny, cuando se enfurece, olvida incluso\nque alguna vez oyó hablar de la muerte.\n¡Bonito desastre!",
           "notes": [
             {
@@ -16992,7 +16992,7 @@ window.SHAKESPEARE_READER_DATA = {
         {
           "line": "2091–2094",
           "speaker": "sicinius",
-          "en": "Meet on the marketplace. We’ll attend you there,\nWhere if you bring not Martius, we’ll proceed\nIn our first way.",
+          "en": "Meet on the marketplace. We’ll\nattend you there,\nWhere if you bring not Martius, we’ll proceed\nIn our first way.",
           "es": "Reúnanse en la plaza del mercado. Allí te esperaremos,\ny, si no traes a Marcio, procederemos\ncomo habíamos decidido al principio.",
           "notes": [
             {
@@ -17018,7 +17018,7 @@ window.SHAKESPEARE_READER_DATA = {
         {
           "line": "2095–2098",
           "speaker": "menenius",
-          "en": "I’ll bring him to you. Let me desire your company. He must come,\nOr what is worst will follow.",
+          "en": "I’ll bring him to you.\nLet me desire your company. He must\ncome,\nOr what is worst will follow.",
           "es": "Se lo traeré. Les ruego que me acompañen.\nTiene que venir,\no sucederá lo peor.",
           "notes": [
             {
