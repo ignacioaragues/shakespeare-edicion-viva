@@ -3052,7 +3052,15 @@ window.SHAKESPEARE_READER_DATA = {
           "notes": [],
           "stageAfter": "Salen todos."
         }
-      ]
+      ],
+      "lineationAudit": {
+        "first_line": 322,
+        "last_line": 369,
+        "source": "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/2/",
+        "source_checked": true,
+        "browser_highlight_regression": "pending",
+        "notes": "48 líneas Folger I.2 cotejadas; cortes de verso EN en seis parlamentos, con 331/332 y 346/347 en mitad de frase; parlamentos breves 365–369 sin cortes. Traducción ES sin resegmentación; QA visual y resaltados pendiente."
+      }
     },
     {
       "id": "coriolanus-1-3",

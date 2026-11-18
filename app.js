@@ -245,6 +245,12 @@
   // Verse breaks are zero-text DOM markers: neither en/es nor reading offsets change.
   // Each anchor is checked against the published string before applying the layout.
   const verifiedVerseStarts = {
+    'coriolanus-1-2|322–324': { en: ["That they of Rome","And know how we proceed."] },
+    'coriolanus-1-2|325–340': { en: ["Whatever have been thought","That could be brought","Had circumvention?","Since I heard thence.","I have the letter here.","They have pressed a power","known Whether","Whether for east or west.","The people mutinous;","Cominius, Martius","Who is of Rome","And Titus Lartius","These three lead","Whither ’tis bent.","Consider of it."] },
+    'coriolanus-1-2|341–343': { en: ["We never yet","To answer us."] },
+    'coriolanus-1-2|344–351': { en: ["To keep your great","They needs must","hatching, It seemed","It seemed, appeared","We shall be shortened","To take in many towns","Should know we were afoot."] },
+    'coriolanus-1-2|352–357': { en: ["Take your commission","Let us alone","If they set down","Bring up your army.","They’ve not prepared"] },
+    'coriolanus-1-2|358–364': { en: ["I speak from certainties.","Some parcels of their power","And only hitherward.","If we and Caius Martius","’Tis sworn between us","Till one can do no more."] },
     'coriolanus-1-1|301–308': {
       en: ["In whom already he’s well graced","Better be held nor more attained","A place below the first;","Shall be the General’s fault","To th’ utmost of a man","Will then cry out of Martius","Had borne the business!"],
       es: ["y que ya lo favorece tanto","no podría conservarse","ocupando el segundo puesto.","Porque cualquier fracaso","aunque este haga cuanto humanamente pueda","y la opinión, tan voluble","«¡Ah, si él hubiera estado al mando!»"]

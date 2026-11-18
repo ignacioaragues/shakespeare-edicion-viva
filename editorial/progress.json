@@ -3372,6 +3372,17 @@
       "status": "source_lineation_verified_browser_highlight_qa_pending",
       "source": "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/",
       "scope": "76 líneas Folger cotejadas directamente con disposición I.1, 246–321, incluidas entradas, salidas y acotaciones. Marcadores previos 246–300 cotejados, corregido inicio 278 en Follow Cominius; restaurados 16 límites ingleses en 301–320 y cortes españoles de lectura no métricos. Conservados textos, IDs, offsets y notas. QA visual de navegador y resaltados pendiente; tanda menor de 150 por cierre natural de escena y cambio a I.2."
+    },
+    {
+      "id": "coriolanus-1-2-322-369",
+      "act": 1,
+      "scene": 2,
+      "first_line": 322,
+      "last_line": 369,
+      "reviewed_on": "2026-11-18",
+      "status": "source_lineation_verified_browser_highlight_qa_pending",
+      "source": "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/2/",
+      "scope": "48 líneas Folger de I.2 cotejadas una por una; 6 parlamentos multiversales con marcadores ingleses no destructivos, cinco despedidas de un verso y acotaciones independientes. Traducción ES conservada y pendiente cotejo visual de saltos; QA de navegador/resaltados pendiente. Tanda abreviada para cerrar la escena."
     }
   ]
 }
