@@ -306,7 +306,7 @@
       es: ['dicen que la ciudad']
     },
     'coriolanus-1-1|203–215': {
-      en: ['They say?', 'What’s done i’ th’ Capitol', 'Who thrives, and who declines', 'Conjectural marriages', 'And feebling such', 'Below their cobbled shoes.', 'Would the nobility', 'And let me use my sword', 'With thousands', 'As I could pick my lance.'],
+      en: ["They’ll sit by th’ fire","What’s done i’ th’ Capitol","Who thrives, and who declines","give out","Conjectural marriages","And feebling such","Below their cobbled shoes","enough? Would the nobility","Would the nobility","And let me use my sword","With thousands","As I could pick"],
       es: ['¿Eso dicen?', 'qué ocurre en el Capitolio', 'quién prospera y quién cae.', 'Toman partido por unas facciones', 'fortaleciendo a unos bandos', 'ni estar bajo sus zapatos remendados.', 'Si la nobleza dejara', 'y me permitiera usar la espada', 'amontonaría los cuerpos descuartizados', 'hasta donde alcanzara']
     },
     'coriolanus-1-1|216–219': {
@@ -314,7 +314,7 @@
       es: ['aunque les falta muchísimo juicio', 'son extraordinariamente cobardes.', '¿qué dice el otro grupo?']
     },
     'coriolanus-1-1|220–235': {
-      en: ['They said they were an-hungry', 'That hunger broke stone walls', 'That meat was made for mouths', 'Corn for the rich men only.', 'They vented their complainings', 'And a petition granted them', 'To break the heart of generosity', 'And make bold power look pale', 'As they would hang them', 'Shouting their emulation.'],
+      en: ["’em! They said","They said they were","proverbs That hunger","That hunger broke","That meat was made","not Corn for","Corn for the rich","They vented their complainings","answered And a petition","And a petition granted","To break the heart","And make bold power","caps As they would","As they would hang","Shouting their emulation"],
       es: ['Decían que tenían hambre', 'que el hambre derriba muros', 'que la comida se hizo para las bocas', 'y que los dioses no enviaron', 'Con esos retazos daban salida', 'Cuando recibieron respuesta', 'una petición insólita', 'y hacer palidecer al poder', 'lanzaron sus gorros', 'gritando en su afán']
     },
     'coriolanus-1-1|174–176': {
@@ -322,7 +322,7 @@
       es: ['De tanto rascarse', '¿acaban convirtiéndose']
     },
     'coriolanus-1-1|178–200': {
-      en: ['Beneath abhorring.', 'That like nor peace nor war?', 'The other makes you proud.', 'Where he should find you lions', 'Where foxes, geese.', 'Than is the coal', 'Or hailstone in the sun.', 'To make him worthy', 'And curse that justice', 'Deserves your hate;', 'A sick man’s appetite', 'Which would increase his evil.', 'Upon your favors', 'And hews down oaks', 'With every minute', 'And call him noble', 'Him vile that was your garland.', 'That in these several places', 'You cry against', 'Under the gods', 'Would feed on one another?'],
+      en: ["Beneath abhorring.","That like nor peace","The other makes","Where he should","Where foxes, geese.","Than is the coal","Or hailstone","To make him worthy","And curse that justice","Deserves your hate","A sick man’s appetite","Which would increase","Upon your favors","And hews down oaks","you? With every minute","With every minute","And call him noble","Him vile that was","That in these several","You cry against","Under the gods","Would feed on one another"],
       es: ['más allá de lo que permite', '¿Qué quieren, perros', 'La una los asusta', 'Quien confía en ustedes', 'donde espera zorros', 'No son más constantes', 'o que un granizo', 'Su virtud consiste', 'y maldecir a la justicia', 'Quien merece grandeza', 'sus afectos son como', 'que desea precisamente', 'Quien depende de su favor', 'y pretende talar robles', '¡Malditos sean!', 'Cambian de parecer', 'y vil a quien antes', '¿Qué ocurre para que', 'protesten contra el noble Senado', 'que, después de los dioses', 'Sin él, se devorarían']
     },
     'coriolanus-1-1|151–155': {
