@@ -12654,7 +12654,7 @@ window.SHAKESPEARE_READER_DATA = {
           "es": "Entonces, ¿fueron incapaces de advertirlo\no, aun advirtiéndolo, tan ingenuamente complacientes\nque le dieron sus votos?",
           "notes": [
             {
-              "term": "either ... Or",
+              "term": "either",
               "type": "Nota filológica",
               "title": "either ... Or",
               "gloss": "o bien… o bien",
@@ -12857,7 +12857,7 @@ window.SHAKESPEARE_READER_DATA = {
         {
           "line": "1594–1601",
           "speaker": "brutus",
-          "en": "Did you perceive\nHe did solicit you in free contempt\nWhen he did need your loves, and do you think\nThat his contempt shall not be bruising to you\nWhen he hath power to crush? Why, had your bodies\nNo heart among you? Or had you tongues to cry\nAgainst the rectorship of judgment?",
+          "en": "Did you perceive\nHe did solicit you in free contempt\nWhen he did need your loves, and do you think\nThat his contempt shall not be bruising to you\nWhen he hath power to crush? Why, had your\nbodies\nNo heart among you? Or had you tongues to cry\nAgainst the rectorship of judgment?",
           "es": "¿Se dieron cuenta\nde que les pidió sus votos con abierto desprecio\ncuando necesitaba su apoyo? ¿Y creen\nque ese desprecio no los lastimará\ncuando tenga poder para aplastarlos? ¿Acaso sus cuerpos\nno tenían corazón? ¿O tenían lengua para protestar\ncontra el gobierno del buen juicio?",
           "notes": [
             {
@@ -13452,7 +13452,7 @@ window.SHAKESPEARE_READER_DATA = {
               "lemmaUrl": "https://en.wiktionary.org/wiki/stay"
             },
             {
-              "term": "observe and answer / The vantage",
+              "term": "The vantage",
               "title": "observe and answer / The vantage",
               "type": "Nota filológica",
               "gloss": "detectar y aprovechar la oportunidad",
