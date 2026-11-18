@@ -245,6 +245,22 @@
   // Verse breaks are zero-text DOM markers: neither en/es nor reading offsets change.
   // Each anchor is checked against the published string before applying the layout.
   const verifiedVerseStarts = {
+    'coriolanus-1-1|301–308': {
+      en: ["In whom already he’s well graced","Better be held nor more attained","A place below the first;","Shall be the General’s fault","To th’ utmost of a man","Will then cry out of Martius","Had borne the business!"],
+      es: ["y que ya lo favorece tanto","no podría conservarse","ocupando el segundo puesto.","Porque cualquier fracaso","aunque este haga cuanto humanamente pueda","y la opinión, tan voluble","«¡Ah, si él hubiera estado al mando!»"]
+    },
+    'coriolanus-1-1|309–311': {
+      en: ["Opinion that so sticks","Of his demerits rob Cominius."],
+      es: ["la opinión pública","despojará a Cominio"]
+    },
+    'coriolanus-1-1|312–316': {
+      en: ["Half all Cominius’ honors","Though Martius earned them not","To Martius shall be honors","In aught he merit not."],
+      es: ["La mitad de todos los honores","aunque Marcio no los haya ganado","y hasta los errores de Cominio","aunque este no haya hecho nada"]
+    },
+    'coriolanus-1-1|317–320': {
+      en: ["How the dispatch is made","More than his singularity","Upon this present action."],
+      es: ["cómo se organiza la partida","aparte de su habitual extravagancia","emprende esta campaña."]
+    },
     'coriolanus-1-1|294–295': {
       en: ['Too proud to be so valiant.'],
       es: ['Se ha vuelto demasiado soberbio']
@@ -270,7 +286,7 @@
       es: ['donde sé que nos esperan']
     },
     'coriolanus-1-1|277–279': {
-      en: ['We must follow you;', 'Right worthy you priority.'],
+      en: ['Follow Cominius.', 'We must follow you;', 'Right worthy you priority.'],
       es: ['Nosotros debemos seguirte', 'bien mereces ir primero.']
     },
     'coriolanus-1-1|282–284': {

@@ -3361,6 +3361,17 @@
       "status": "source_lineation_verified_browser_highlight_qa_pending",
       "source": "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/",
       "scope": "72 líneas Folger cotejadas en I.1, desde la entrada de Marcio hasta su orden a la plebe. Revisadas las fronteras de versos de los parlamentos, especialmente 178–200, 203–215 y 220–235, con restitución de 49 marcadores EN según Folger (incluidos encabalgamientos de palabras cortas en 193, 207, 211, 221, 223, 226, 229 y 233). Prosa no interpolada; español y notas intactos, sin alterar IDs ni offsets. Marcadores españoles preliminares conservados, QA de navegador/resaltados pendiente. Tanda inferior a 150 por densidad de reparaciones y comprobación de anclas."
+    },
+    {
+      "id": "coriolanus-1-1-246-321",
+      "act": 1,
+      "scene": 1,
+      "first_line": 246,
+      "last_line": 321,
+      "reviewed_on": "2026-11-18",
+      "status": "source_lineation_verified_browser_highlight_qa_pending",
+      "source": "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/",
+      "scope": "76 líneas Folger cotejadas directamente con disposición I.1, 246–321, incluidas entradas, salidas y acotaciones. Marcadores previos 246–300 cotejados, corregido inicio 278 en Follow Cominius; restaurados 16 límites ingleses en 301–320 y cortes españoles de lectura no métricos. Conservados textos, IDs, offsets y notas. QA visual de navegador y resaltados pendiente; tanda menor de 150 por cierre natural de escena y cambio a I.2."
     }
   ]
 }
