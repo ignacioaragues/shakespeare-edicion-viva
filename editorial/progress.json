@@ -3460,6 +3460,17 @@
       "status": "source_lineation_verified_browser_highlight_qa_pending",
       "source": "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/9/",
       "scope": "106 líneas Folger I.9: límites cotejados uno por uno con Folger; marcadores ingleses sin texto para 85 comienzos internos de verso en parlamentos multiversales. Intervenciones de verso único y acotaciones independientes; texto EN/ES, notas, IDs y offsets intactos. Cortes españoles, prueba visual de navegador y regresión de resaltados pendientes."
+    },
+    {
+      "id": "coriolanus-1-10-844-879",
+      "act": 1,
+      "scene": 10,
+      "first_line": 844,
+      "last_line": 879,
+      "reviewed_on": "2026-11-18",
+      "status": "source_lineation_verified_browser_highlight_qa_pending",
+      "source": "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/10/",
+      "scope": "36 líneas Folger cotejadas con la disposición de I.10: 28 límites internos de verso en tres parlamentos extensos, con dos intervenciones iniciales, dos preguntas breves y despedida final independientes. Conservados textos EN/ES, IDs, notas y offsets; correspondencia visual ES y regresión de resaltados pendientes. La escena termina en 879."
     }
   ]
 }
