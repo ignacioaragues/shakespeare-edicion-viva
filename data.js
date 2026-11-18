@@ -30145,21 +30145,21 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "Read it not",
               "type": "Nota filológica",
               "gloss": "no lo lean",
-              "body": "Imperativo negativo que impide considerar el documento: Aufidio sustituye la lectura del tratado por una acusación pública. Fuentes: Folger, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/."
+              "body": "Aufidio impide leer la defensa antes de formular la acusación. Fuentes: Folger Shakespeare Library, Coriolanus V.6: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/ ; C. F. Tucker Brooke (ed.), Coriolanus (Yale, 1924), Act V: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V ; Notes: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Notes"
             },
             {
               "term": "in the highest degree",
               "title": "in the highest degree",
               "type": "Nota filológica",
               "gloss": "en grado máximo; de la peor especie",
-              "body": "Intensificador aplicado a «traitor»; Aufidio formula una condena antes de que los señores examinen el acuerdo. Fuentes: Folger, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/."
+              "body": "El superlativo convierte el cargo en traición de máxima gravedad. Fuentes: Folger Shakespeare Library, Coriolanus V.6: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/ ; C. F. Tucker Brooke (ed.), Coriolanus (Yale, 1924), Act V: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V ; Notes: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Notes"
             },
             {
               "term": "hath abused your powers",
               "title": "hath abused your powers",
               "type": "Nota filológica",
               "gloss": "ha abusado de la autoridad que le confiaron",
-              "body": "«Hath» es forma antigua de tercera persona de «have»; «powers» puede referirse a facultades de mando y fuerzas puestas a su disposición. Fuentes: Folger, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; lema: https://en.wiktionary.org/wiki/have.",
+              "body": "La autonomía del general se presenta como abuso del poder delegado. Fuentes: Folger Shakespeare Library, Coriolanus V.6: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/ ; C. F. Tucker Brooke (ed.), Coriolanus (Yale, 1924), Act V: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V ; Notes: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Notes",
               "lemma": "have",
               "lemmaUrl": "https://en.wiktionary.org/wiki/have"
             }
@@ -30176,7 +30176,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "How now?",
               "type": "Nota filológica",
               "gloss": "¿qué pasa?; ¿qué significa esto?",
-              "body": "Interjección de sorpresa y protesta, no pregunta literal sobre el tiempo presente. Fuentes: Folger, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/."
+              "body": "Coriolano expresa incredulidad ante la acusación. Fuentes: Folger Shakespeare Library, Coriolanus V.6: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/ ; C. F. Tucker Brooke (ed.), Coriolanus (Yale, 1924), Act V: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V ; Notes: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Notes"
             }
           ]
         },
@@ -30191,7 +30191,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "Martius",
               "type": "Nota filológica",
               "gloss": "Marcio",
-              "body": "Aufidio abandona deliberadamente el sobrenombre «Coriolano», ganado en la conquista de la ciudad volsca; el cambio de nombre anticipa su ataque a la identidad heroica del rival. Fuentes: Folger, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/."
+              "body": "La omisión del sobrenombre honorífico pretende despojarlo de su gloria. Fuentes: Folger Shakespeare Library, Coriolanus V.6: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/ ; C. F. Tucker Brooke (ed.), Coriolanus (Yale, 1924), Act V: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V ; Notes: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Notes"
             }
           ]
         },
@@ -30206,7 +30206,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "Martius?",
               "type": "Nota filológica",
               "gloss": "¿Marcio?",
-              "body": "La repetición aislada registra el impacto de ser llamado por el nombre anterior a «Coriolanus». Su interpretación como indignación es dramática, no una indicación explícita de escena. Fuentes: Folger, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/."
+              "body": "Coriolano repite incrédulo el nombre empleado por su rival. Fuentes: Folger Shakespeare Library, Coriolanus V.6: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/ ; C. F. Tucker Brooke (ed.), Coriolanus (Yale, 1924), Act V: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V ; Notes: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Notes"
             }
           ]
         },
@@ -30221,7 +30221,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "Dost thou think",
               "type": "Nota filológica",
               "gloss": "¿crees?",
-              "body": "«Dost» es segunda persona singular histórica del auxiliar «do», concordante con «thou»; el ataque directo cambia enseguida a una acusación en tercera persona ante los señores. Fuentes: Folger Digital Texts, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; análisis interpretativo contrastado con LitCharts, «Coriolanus Act 5, Scene 6 Summary & Analysis», https://www.litcharts.com/lit/coriolanus/act-5-scene-6.",
+              "body": "Pregunta retórica que introduce la deslegitimación de su nombre. Fuentes: Folger Shakespeare Library, Coriolanus V.6: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/ ; C. F. Tucker Brooke (ed.), Coriolanus (Yale, 1924), Act V: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V ; Notes: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Notes",
               "lemma": "do",
               "lemmaUrl": "https://en.wiktionary.org/wiki/do"
             },
@@ -30230,14 +30230,14 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "thy stol’n name",
               "type": "Nota filológica",
               "gloss": "tu nombre usurpado",
-              "body": "Aufidio impugna el sobrenombre militar «Coriolanus», concedido por la conquista de Corioles (I.9). «Robbery» convierte el honor en un supuesto robo; es una acusación del personaje, no un hecho establecido. Fuentes: Folger Digital Texts, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; análisis interpretativo contrastado con LitCharts, «Coriolanus Act 5, Scene 6 Summary & Analysis», https://www.litcharts.com/lit/coriolanus/act-5-scene-6."
+              "body": "El sobrenombre obtenido en Corioles se presenta como botín usurpado. Fuentes: Folger Shakespeare Library, Coriolanus V.6: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/ ; C. F. Tucker Brooke (ed.), Coriolanus (Yale, 1924), Act V: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V ; Notes: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Notes"
             },
             {
               "term": "perfidiously",
               "title": "perfidiously",
               "type": "Nota filológica",
               "gloss": "con perfidia; traicioneramente",
-              "body": "El adverbio califica la supuesta traición al encargo de los volscos; la condena de Aufidio forma parte de su estrategia pública. Fuentes: Folger Digital Texts, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; análisis interpretativo contrastado con LitCharts, «Coriolanus Act 5, Scene 6 Summary & Analysis», https://www.litcharts.com/lit/coriolanus/act-5-scene-6.",
+              "body": "El tratado de paz es presentado como una traición deliberada. Fuentes: Folger Shakespeare Library, Coriolanus V.6: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/ ; C. F. Tucker Brooke (ed.), Coriolanus (Yale, 1924), Act V: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V ; Notes: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Notes",
               "lemma": "perfidiously",
               "lemmaUrl": "https://en.wiktionary.org/wiki/perfidiously"
             },
@@ -30246,35 +30246,35 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "certain drops of salt",
               "type": "Nota filológica",
               "gloss": "unas gotas saladas; lágrimas",
-              "body": "Metonimia despectiva de las lágrimas de Volumnia y Virgilia: Aufidio reduce la intervención política de ambas a una sustancia insignificante. Fuentes: Folger Digital Texts, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; análisis interpretativo contrastado con LitCharts, «Coriolanus Act 5, Scene 6 Summary & Analysis», https://www.litcharts.com/lit/coriolanus/act-5-scene-6."
+              "body": "Las lágrimas de Volumnia y Virgilia se reducen despectivamente a gotas saladas. Fuentes: Folger Shakespeare Library, Coriolanus V.6: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/ ; C. F. Tucker Brooke (ed.), Coriolanus (Yale, 1924), Act V: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V ; Notes: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Notes"
             },
             {
               "term": "your city Rome",
               "title": "your city Rome",
               "type": "Nota filológica",
               "gloss": "Roma, la ciudad de ustedes",
-              "body": "La insistencia «I say your city» reinterpreta la ciudad enemiga como posesión ya ganada por los volscos; es una apropiación retórica, no un hecho militar consumado. Fuentes: Folger Digital Texts, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; análisis interpretativo contrastado con LitCharts, «Coriolanus Act 5, Scene 6 Summary & Analysis», https://www.litcharts.com/lit/coriolanus/act-5-scene-6."
+              "body": "Aufidio se apropia retóricamente de Roma como ciudad que debía conquistar el ejército volsco. Fuentes: Folger Shakespeare Library, Coriolanus V.6: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/ ; C. F. Tucker Brooke (ed.), Coriolanus (Yale, 1924), Act V: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V ; Notes: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Notes"
             },
             {
               "term": "A twist of rotten silk",
               "title": "A twist of rotten silk",
               "type": "Nota filológica",
               "gloss": "una hebra de seda podrida",
-              "body": "Símil de la fragilidad del juramento roto: el material valioso pierde toda resistencia por la podredumbre. Fuentes: Folger Digital Texts, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; análisis interpretativo contrastado con LitCharts, «Coriolanus Act 5, Scene 6 Summary & Analysis», https://www.litcharts.com/lit/coriolanus/act-5-scene-6."
+              "body": "Imagen de un juramento frágil, comparable a una hebra de seda podrida. Fuentes: Folger Shakespeare Library, Coriolanus V.6: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/ ; C. F. Tucker Brooke (ed.), Coriolanus (Yale, 1924), Act V: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V ; Notes: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Notes"
             },
             {
               "term": "his nurse’s tears",
               "title": "his nurse’s tears",
               "type": "Nota filológica",
               "gloss": "las lágrimas de su nodriza",
-              "body": "«Nurse» infantiliza a Coriolano y desdibuja deliberadamente la autoridad materna de Volumnia; la identificación literal de la nodriza no está confirmada en escena. Fuentes: Folger Digital Texts, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; análisis interpretativo contrastado con LitCharts, «Coriolanus Act 5, Scene 6 Summary & Analysis», https://www.litcharts.com/lit/coriolanus/act-5-scene-6."
+              "body": "Aufidio infantiliza al guerrero al llamar nodriza a su madre. Fuentes: Folger Shakespeare Library, Coriolanus V.6: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/ ; C. F. Tucker Brooke (ed.), Coriolanus (Yale, 1924), Act V: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V ; Notes: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Notes"
             },
             {
               "term": "He whined and roared away",
               "title": "He whined and roared away",
               "type": "Nota filológica",
               "gloss": "gimoteó y bramó hasta perder",
-              "body": "Los verbos yuxtaponen quejido infantil y rugido animal; «away» expresa aquí el resultado de malgastar o hacer desaparecer la victoria. Fuentes: Folger Digital Texts, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; análisis interpretativo contrastado con LitCharts, «Coriolanus Act 5, Scene 6 Summary & Analysis», https://www.litcharts.com/lit/coriolanus/act-5-scene-6.",
+              "body": "Los gemidos y bramidos animalizan la decisión de renunciar a la victoria. Fuentes: Folger Shakespeare Library, Coriolanus V.6: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/ ; C. F. Tucker Brooke (ed.), Coriolanus (Yale, 1924), Act V: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V ; Notes: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Notes",
               "lemma": "whine",
               "lemmaUrl": "https://en.wiktionary.org/wiki/whine"
             },
@@ -30283,7 +30283,14 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "pages blushed",
               "type": "Nota filológica",
               "gloss": "los pajes se sonrojaron",
-              "body": "La vergüenza de los muchachos sirve de contraste acusatorio con «men of heart», hombres de valor; es la caracterización interesada de Aufidio. Fuentes: Folger Digital Texts, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; análisis interpretativo contrastado con LitCharts, «Coriolanus Act 5, Scene 6 Summary & Analysis», https://www.litcharts.com/lit/coriolanus/act-5-scene-6."
+              "body": "Hasta los pajes, de menor experiencia militar, se avergüenzan. Fuentes: Folger Shakespeare Library, Coriolanus V.6: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/ ; C. F. Tucker Brooke (ed.), Coriolanus (Yale, 1924), Act V: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V ; Notes: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Notes"
+            },
+            {
+              "term": "Coriolanus, in Corioles",
+              "title": "Coriolanus, in Corioles",
+              "type": "Nota filológica",
+              "gloss": "Coriolano, en Corioles",
+              "body": "El lugar donde ganó su sobrenombre es ahora escenario de su deslegitimación. Fuentes: Folger Shakespeare Library, Coriolanus V.6: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/ ; C. F. Tucker Brooke (ed.), Coriolanus (Yale, 1924), Act V: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V ; Notes: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Notes"
             }
           ]
         },
@@ -30298,7 +30305,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "Hear’st thou",
               "type": "Nota filológica",
               "gloss": "¿oyes tú?",
-              "body": "«Hear’st» contrae «hearest», segunda persona singular histórica con «thou». La invocación al dios de la guerra enfrenta la acusación de cobardía con la identidad marcial del protagonista. Fuentes: Folger Digital Texts, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; análisis interpretativo contrastado con LitCharts, «Coriolanus Act 5, Scene 6 Summary & Analysis», https://www.litcharts.com/lit/coriolanus/act-5-scene-6.",
+              "body": "Invocación a Marte como testigo del insulto. Fuentes: Folger Shakespeare Library, Coriolanus V.6: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/ ; C. F. Tucker Brooke (ed.), Coriolanus (Yale, 1924), Act V: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V ; Notes: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Notes",
               "lemma": "hear",
               "lemmaUrl": "https://en.wiktionary.org/wiki/hear"
             }
@@ -30315,7 +30322,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "boy of tears",
               "type": "Nota filológica",
               "gloss": "muchacho llorón",
-              "body": "El insulto niega a Coriolano su madurez guerrera; «boy» provoca la reacción inmediata del héroe. La glosa conserva el desprecio infantilizante sin convertirlo en una descripción objetiva. Fuentes: Folger Digital Texts, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; análisis interpretativo contrastado con LitCharts, «Coriolanus Act 5, Scene 6 Summary & Analysis», https://www.litcharts.com/lit/coriolanus/act-5-scene-6."
+              "body": "El ataque a su virilidad guerrera desencadena la respuesta de Coriolano. Fuentes: Folger Shakespeare Library, Coriolanus V.6: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/ ; C. F. Tucker Brooke (ed.), Coriolanus (Yale, 1924), Act V: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V ; Notes: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Notes"
             }
           ]
         },
@@ -30344,23 +30351,23 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "Measureless liar",
               "type": "Nota filológica",
               "gloss": "mentiroso sin medida",
-              "body": "La imagen del corazón que excede su continente convierte la indignación en una presión corporal. Fuentes: Folger, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/"
+              "body": "El desafío personal reemplaza la discusión política. Fuentes: Folger Shakespeare Library, Coriolanus V.6: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/ ; C. F. Tucker Brooke (ed.), Coriolanus (Yale, 1924), Act V: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V ; Notes: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Notes"
             },
             {
               "term": "scold",
               "title": "scold",
               "type": "Nota filológica",
               "gloss": "reñir; lanzar improperios",
-              "body": "Coriolano presenta la violencia verbal como excepcional. Fuentes: Folger, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/",
+              "body": "Coriolano afirma que el insulto es una excepción, aunque su ira caracteriza la tragedia. Fuentes: Folger Shakespeare Library, Coriolanus V.6: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/ ; C. F. Tucker Brooke (ed.), Coriolanus (Yale, 1924), Act V: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V ; Notes: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Notes",
               "lemma": "scold",
               "lemmaUrl": "https://en.wiktionary.org/wiki/scold"
             },
             {
-              "term": "grave lords",
-              "title": "grave lords",
+              "term": "lords",
+              "title": "lords",
               "type": "Nota filológica",
               "gloss": "respetables señores",
-              "body": "«Grave» indica dignidad y autoridad, no tristeza. Fuentes: Folger, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/",
+              "body": "«Grave» es solemne o venerable; la frase está partida por un salto de verso. Fuentes: Folger Shakespeare Library, Coriolanus V.6: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/ ; C. F. Tucker Brooke (ed.), Coriolanus (Yale, 1924), Act V: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V ; Notes: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Notes",
               "lemma": "grave",
               "lemmaUrl": "https://en.wiktionary.org/wiki/grave"
             },
@@ -30369,28 +30376,35 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "cur",
               "type": "Nota filológica",
               "gloss": "perro despreciable",
-              "body": "Insulto animalizante dirigido a Aufidio. Fuentes: Folger, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/"
+              "body": "Insulto animal, perro despreciable. Fuentes: Folger Shakespeare Library, Coriolanus V.6: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/ ; C. F. Tucker Brooke (ed.), Coriolanus (Yale, 1924), Act V: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V ; Notes: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Notes"
             },
             {
               "term": "his own notion",
               "title": "his own notion",
               "type": "Nota filológica",
               "gloss": "su propio conocimiento; conciencia",
-              "body": "La frase puede aludir al conocimiento que Aufidio tiene de las derrotas sufridas; interpretación del pasaje, no variante textual. Fuentes: Folger, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/"
+              "body": "El conocimiento personal de Aufidio incluiría la memoria de las derrotas sufridas. Fuentes: Folger Shakespeare Library, Coriolanus V.6: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/ ; C. F. Tucker Brooke (ed.), Coriolanus (Yale, 1924), Act V: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V ; Notes: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Notes"
             },
             {
               "term": "stripes impressed upon him",
               "title": "stripes impressed upon him",
               "type": "Nota filológica",
               "gloss": "marcas de los golpes recibidos",
-              "body": "Las cicatrices invocadas funcionan como testimonio corporal de la superioridad anterior de Coriolano. Fuentes: Folger, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/"
+              "body": "Las marcas corporales de los golpes son prueba de su antigua inferioridad. Fuentes: Folger Shakespeare Library, Coriolanus V.6: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/ ; C. F. Tucker Brooke (ed.), Coriolanus (Yale, 1924), Act V: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V ; Notes: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Notes"
             },
             {
               "term": "thrust the lie unto him",
               "title": "thrust the lie unto him",
               "type": "Nota filológica",
               "gloss": "refutar violentamente su mentira",
-              "body": "«Thrust» traslada el lenguaje de la lucha física al desmentido. Plutarco, en la Vida de Coriolano, narra cómo la disputa final precipita la violencia. Fuentes: Folger, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; Plutarco, Vida de Coriolano, §39, https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Coriolanus%2A.html"
+              "body": "La refutación se expresa como agresión verbal. Fuentes: Folger Shakespeare Library, Coriolanus V.6: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/ ; C. F. Tucker Brooke (ed.), Coriolanus (Yale, 1924), Act V: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V ; Notes: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Notes"
+            },
+            {
+              "term": "Too great for what contains it",
+              "title": "Too great for what contains it",
+              "type": "Nota filológica",
+              "gloss": "demasiado grande para el pecho",
+              "body": "La cólera expande metafóricamente el corazón más allá de su continente físico. Fuentes: Folger Shakespeare Library, Coriolanus V.6: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/ ; C. F. Tucker Brooke (ed.), Coriolanus (Yale, 1924), Act V: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V ; Notes: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Notes"
             }
           ]
         },
@@ -30412,14 +30426,14 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "Stain all your edges",
               "type": "Nota filológica",
               "gloss": "manchen todos sus filos",
-              "body": "«Edges» designa los filos de las armas; los desafía a ensangrentarlos. Fuentes: Folger, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/"
+              "body": "Los filos de las armas se mancharían con su sangre. Fuentes: Folger Shakespeare Library, Coriolanus V.6: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/ ; C. F. Tucker Brooke (ed.), Coriolanus (Yale, 1924), Act V: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V ; Notes: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Notes"
             },
             {
               "term": "annals",
               "title": "annals",
               "type": "Nota filológica",
               "gloss": "anales; crónicas",
-              "body": "Apela a una memoria histórica escrita de la conquista de Corioles. Fuentes: Folger, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/",
+              "body": "La memoria escrita de la victoria se opone a la acusación actual. Fuentes: Folger Shakespeare Library, Coriolanus V.6: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/ ; C. F. Tucker Brooke (ed.), Coriolanus (Yale, 1924), Act V: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V ; Notes: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Notes",
               "lemma": "annals",
               "lemmaUrl": "https://en.wiktionary.org/wiki/annals"
             },
@@ -30428,16 +30442,23 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "an eagle in a dovecote",
               "type": "Nota filológica",
               "gloss": "un águila en un palomar",
-              "body": "El símil enfrenta un depredador solitario a aves indefensas. Fuentes: Folger, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/"
+              "body": "Coriolano se compara con un depredador entre presas indefensas. Fuentes: Folger Shakespeare Library, Coriolanus V.6: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/ ; C. F. Tucker Brooke (ed.), Coriolanus (Yale, 1924), Act V: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V ; Notes: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Notes"
             },
             {
               "term": "Fluttered",
               "title": "Fluttered",
               "type": "Nota filológica",
               "gloss": "hice revolotear aterrados; sembré el pánico",
-              "body": "La imagen evoca el aleteo desordenado y la dispersión de los defensores. Fuentes: Folger, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/",
+              "body": "El verbo evoca el aleteo aterrorizado de palomas. Fuentes: Folger Shakespeare Library, Coriolanus V.6: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/ ; C. F. Tucker Brooke (ed.), Coriolanus (Yale, 1924), Act V: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V ; Notes: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Notes",
               "lemma": "flutter",
               "lemmaUrl": "https://en.wiktionary.org/wiki/flutter"
+            },
+            {
+              "term": "Alone I did it",
+              "title": "Alone I did it",
+              "type": "Nota filológica",
+              "gloss": "yo solo lo hice",
+              "body": "La afirmación extrema de autosuficiencia militar repite su orgullo y precipita el ataque. Fuentes: Folger Shakespeare Library, Coriolanus V.6: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/ ; C. F. Tucker Brooke (ed.), Coriolanus (Yale, 1924), Act V: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V ; Notes: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Notes"
             }
           ]
         },
@@ -30452,14 +30473,14 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "blind fortune",
               "type": "Nota filológica",
               "gloss": "fortuna ciega; suerte caprichosa",
-              "body": "Aufidio reduce la victoria de Coriolano en Corioles a un golpe de suerte, en oposición al relato heroico que acaba de pronunciar. Fuentes: Folger Shakespeare Library, Coriolanus, V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; First Folio, Coriolanus, V.6, facsímil textual, https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_5_Scene_6."
+              "body": "Aufidio atribuye la derrota al azar y no a Coriolano. Fuentes: Folger Shakespeare Library, Coriolanus V.6: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/ ; C. F. Tucker Brooke (ed.), Coriolanus (Yale, 1924), Act V: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V ; Notes: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Notes"
             },
             {
               "term": "unholy braggart",
               "title": "unholy braggart",
               "type": "Nota filológica",
               "gloss": "fanfarrón impío",
-              "body": "La descalificación convierte la evocación de la hazaña militar en una ofensa pública a los volscos; «unholy» añade censura moral. Fuentes: Folger Shakespeare Library, Coriolanus, V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; First Folio, Coriolanus, V.6, facsímil textual, https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_5_Scene_6.",
+              "body": "La jactancia militar es denunciada como impiedad. Fuentes: Folger Shakespeare Library, Coriolanus V.6: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/ ; C. F. Tucker Brooke (ed.), Coriolanus (Yale, 1924), Act V: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V ; Notes: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Notes",
               "lemma": "braggart",
               "lemmaUrl": "https://en.wiktionary.org/wiki/braggart"
             },
@@ -30468,7 +30489,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "’Fore your own eyes and ears",
               "type": "Nota filológica",
               "gloss": "ante sus propios ojos y oídos",
-              "body": "Apela a los testigos presentes y convierte la memoria de la derrota en una humillación inmediata. «’Fore» es una contracción de «before». Fuentes: Folger Shakespeare Library, Coriolanus, V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; First Folio, Coriolanus, V.6, facsímil textual, https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_5_Scene_6.",
+              "body": "Apela a los testigos presentes para provocar indignación. Fuentes: Folger Shakespeare Library, Coriolanus V.6: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/ ; C. F. Tucker Brooke (ed.), Coriolanus (Yale, 1924), Act V: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V ; Notes: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Notes",
               "lemma": "before",
               "lemmaUrl": "https://en.wiktionary.org/wiki/before"
             }
@@ -30485,7 +30506,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "for ’t",
               "type": "Nota filológica",
               "gloss": "por eso; por lo que acaba de decir",
-              "body": "La contracción «’t» representa «it»; los conspiradores presentan la fanfarronería como causa suficiente para matarlo. Fuentes: Folger Shakespeare Library, Coriolanus, V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; First Folio, Coriolanus, V.6, facsímil textual, https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_5_Scene_6."
+              "body": "El grito de los conspiradores convierte una ofensa verbal en pena de muerte. Fuentes: Folger Shakespeare Library, Coriolanus V.6: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/ ; C. F. Tucker Brooke (ed.), Coriolanus (Yale, 1924), Act V: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V ; Notes: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Notes"
             }
           ]
         },
@@ -30500,7 +30521,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "presently",
               "type": "Nota filológica",
               "gloss": "ahora mismo; sin demora",
-              "body": "En este contexto «presently» exige acción inmediata, no una promesa de actuar más adelante. Fuentes: Folger Shakespeare Library, Coriolanus, V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; First Folio, Coriolanus, V.6, facsímil textual, https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_5_Scene_6.",
+              "body": "Significa «de inmediato» en este contexto, no «actualmente». Fuentes: Folger Shakespeare Library, Coriolanus V.6: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/ ; C. F. Tucker Brooke (ed.), Coriolanus (Yale, 1924), Act V: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V ; Notes: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Notes",
               "lemma": "presently",
               "lemmaUrl": "https://en.wiktionary.org/wiki/presently"
             },
@@ -30509,14 +30530,14 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "my son! My daughter!",
               "type": "Nota filológica",
               "gloss": "¡mi hijo! ¡Mi hija!",
-              "body": "Las voces colectivas enumeran pérdidas familiares distintas. La acotación «All People» no implica necesariamente que un solo individuo pronuncie todas las acusaciones; la distribución escénica es interpretativa. Fuentes: Folger Shakespeare Library, Coriolanus, V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; First Folio, Coriolanus, V.6, facsímil textual, https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_5_Scene_6."
+              "body": "La multitud recuerda las víctimas de Corioles y legitima la violencia con agravios personales. Fuentes: Folger Shakespeare Library, Coriolanus V.6: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/ ; C. F. Tucker Brooke (ed.), Coriolanus (Yale, 1924), Act V: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V ; Notes: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Notes"
             },
             {
               "term": "Marcus",
               "title": "Marcus",
               "type": "Nota filológica",
               "gloss": "Marcio",
-              "body": "Nombre propio del pariente de una de las voces del pueblo; no debe confundirse con Cayo Marcio Coriolano. Fuentes: Folger Shakespeare Library, Coriolanus, V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; First Folio, Coriolanus, V.6, facsímil textual, https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_5_Scene_6."
+              "body": "«Marcus» es un nombre propio distinto de «Martius»: «mi primo Marcio» en español requiere revisión posterior. Fuentes: Folger Shakespeare Library, Coriolanus V.6: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/ ; C. F. Tucker Brooke (ed.), Coriolanus (Yale, 1924), Act V: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V ; Notes: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Notes"
             }
           ]
         },
@@ -30531,23 +30552,23 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "No outrage",
               "type": "Nota filológica",
               "gloss": "¡nada de violencia!",
-              "body": "«Outrage» designa un acto violento o desaforado, no simplemente indignación. Fuentes: Folger Shakespeare Library, Coriolanus, V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; First Folio, Coriolanus, V.6, facsímil textual, https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_5_Scene_6.",
+              "body": "El segundo señor intenta impedir el linchamiento. Fuentes: Folger Shakespeare Library, Coriolanus V.6: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/ ; C. F. Tucker Brooke (ed.), Coriolanus (Yale, 1924), Act V: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V ; Notes: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Notes",
               "lemma": "outrage",
               "lemmaUrl": "https://en.wiktionary.org/wiki/outrage"
             },
             {
-              "term": "his fame folds in / This orb o’ th’ Earth",
-              "title": "his fame folds in / This orb o’ th’ Earth",
+              "term": "his fame folds in",
+              "title": "his fame folds in",
               "type": "Nota filológica",
               "gloss": "su fama abarca todo el orbe terrestre",
-              "body": "La imagen de envolver el mundo magnifica la reputación del héroe, en contraste con la muchedumbre que exige su muerte. Fuentes: Folger Shakespeare Library, Coriolanus, V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; First Folio, Coriolanus, V.6, facsímil textual, https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_5_Scene_6."
+              "body": "La fama se imagina como una envoltura que abarca el mundo. Fuentes: Folger Shakespeare Library, Coriolanus V.6: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/ ; C. F. Tucker Brooke (ed.), Coriolanus (Yale, 1924), Act V: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V ; Notes: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Notes"
             },
             {
               "term": "judicious hearing",
               "title": "judicious hearing",
               "type": "Nota filológica",
               "gloss": "audiencia justa; examen con criterio",
-              "body": "El señor reclama un procedimiento de evaluación antes de castigar al acusado; es una exigencia dentro del diálogo, no prueba de un proceso judicial histórico. Fuentes: Folger Shakespeare Library, Coriolanus, V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; First Folio, Coriolanus, V.6, facsímil textual, https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_5_Scene_6.",
+              "body": "Reclama un juicio razonado frente a la violencia inmediata. Fuentes: Folger Shakespeare Library, Coriolanus V.6: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/ ; C. F. Tucker Brooke (ed.), Coriolanus (Yale, 1924), Act V: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V ; Notes: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Notes",
               "lemma": "judicious",
               "lemmaUrl": "https://en.wiktionary.org/wiki/judicious"
             },
@@ -30556,9 +30577,16 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "Stand, Aufidius",
               "type": "Nota filológica",
               "gloss": "detente, Aufidio",
-              "body": "Imperativo de suspensión o contención: el señor intenta frenar la escalada de violencia. Fuentes: Folger Shakespeare Library, Coriolanus, V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; First Folio, Coriolanus, V.6, facsímil textual, https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_5_Scene_6.",
+              "body": "Orden de detener la agitación. Fuentes: Folger Shakespeare Library, Coriolanus V.6: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/ ; C. F. Tucker Brooke (ed.), Coriolanus (Yale, 1924), Act V: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V ; Notes: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Notes",
               "lemma": "stand",
               "lemmaUrl": "https://en.wiktionary.org/wiki/stand"
+            },
+            {
+              "term": "The man is noble",
+              "title": "The man is noble",
+              "type": "Nota filológica",
+              "gloss": "este hombre es noble",
+              "body": "La defensa de su nobleza contrasta con el juicio sumario de los conspiradores. Fuentes: Folger Shakespeare Library, Coriolanus V.6: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/ ; C. F. Tucker Brooke (ed.), Coriolanus (Yale, 1924), Act V: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V ; Notes: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Notes"
             }
           ]
         },
@@ -30573,14 +30601,14 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "six Aufidiuses",
               "type": "Nota filológica",
               "gloss": "seis Aufidios más",
-              "body": "La multiplicación hiperbólica del enemigo transforma el desafío personal en provocación a todo su linaje. Fuentes: Folger Shakespeare Library, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/"
+              "body": "Hipérbole: Coriolano se imagina capaz de vencer a varios rivales. Fuentes: Folger Shakespeare Library, Coriolanus V.6: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/ ; C. F. Tucker Brooke (ed.), Coriolanus (Yale, 1924), Act V: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V ; Notes: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Notes"
             },
             {
               "term": "lawful sword",
               "title": "lawful sword",
               "type": "Nota filológica",
               "gloss": "espada legítima; espada usada con derecho",
-              "body": "Coriolano reivindica el derecho a combatir, pese a estar ante una autoridad que acaba de reclamar un juicio. La legitimidad es su afirmación, no una conclusión jurídica. Fuentes: Folger Shakespeare Library, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/"
+              "body": "Afirma la legitimidad de un combate abierto frente al asesinato colectivo. Fuentes: Folger Shakespeare Library, Coriolanus V.6: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/ ; C. F. Tucker Brooke (ed.), Coriolanus (Yale, 1924), Act V: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V ; Notes: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Notes"
             }
           ]
         },
