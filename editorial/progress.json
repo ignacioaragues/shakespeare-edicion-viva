@@ -3559,6 +3559,17 @@
       "status": "source_lineation_verified_browser_highlight_qa_pending",
       "source": "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/",
       "scope": "179 líneas Folger 1669–1847 cotejadas línea por línea con la disposición pública Folger III.1; 61 bloques consecutivos, sin saltos de numeración; verso y cambios de parlamento ya coinciden con Folger, por lo que no se altera data.js. Confirmados cortes excepcionalmente breves 'them' (1696), 'offices' (1714), 'teeth' (1716), 'scattered' (1762), 'corn' (1825), 'service' (1830). La acotación de entrada 1693/1694 permanece dentro del bloque existente. Detectadas tres anclas de notas con divergencia literal o espacios tipográficos (1768, 1790), reservadas para corrección posterior no destructiva. Pendiente QA visual español, móvil y regresión de resaltados; no se declara aprobado."
+    },
+    {
+      "id": "coriolanus-3-1-1848-1992",
+      "act": 3,
+      "scene": 1,
+      "first_line": 1848,
+      "last_line": 1992,
+      "reviewed_on": "2026-11-19",
+      "status": "source_lineation_verified_browser_highlight_qa_pending",
+      "source": "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/",
+      "scope": "145 líneas Folger consecutivas III.1, 59 bloques, cotejadas con Folger. Restituidos 5 cortes internos de verso en 1848–1871 (wisdom, you—), 1886–1890 (myself) y 1981–1987 (hence); preservados todos los caracteres salvo los saltos tipográficos, traducción, IDs y offsets. Acotaciones de entrada, arresto, tumulto y espada independientes. 78 notas inspeccionadas; 0 anclas con divergencia literal quedan pendientes de reparación no destructiva: []. QA visual español, móvil y resaltados pendiente."
     }
   ]
 }

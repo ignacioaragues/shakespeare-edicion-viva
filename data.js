@@ -15087,7 +15087,7 @@ window.SHAKESPEARE_READER_DATA = {
         {
           "line": "1848–1871",
           "speaker": "coriolanus",
-          "en": "No, take more!\nWhat may be sworn by, both divine and human,\nSeal what I end withal! This double worship—\nWhere one part does disdain with cause, the other\nInsult without all reason, where gentry, title, wisdom\nCannot conclude but by the yea and no\nOf general ignorance—it must omit\nReal necessities and give way the while\nTo unstable slightness. Purpose so barred, it follows\nNothing is done to purpose. Therefore, beseech you—\nYou that will be less fearful than discreet,\nThat love the fundamental part of state\nMore than you doubt the change on ’t, that prefer\nA noble life before a long, and wish\nTo jump a body with a dangerous physic\nThat’s sure of death without it—at once pluck out\nThe multitudinous tongue; let them not lick\nThe sweet which is their poison. Your dishonor\nMangles true judgment and bereaves the state\nOf that integrity which should become ’t,\nNot having the power to do the good it would\nFor th’ ill which doth control ’t.",
+          "en": "No, take more!\nWhat may be sworn by, both divine and human,\nSeal what I end withal! This double worship—\nWhere one part does disdain with cause, the other\nInsult without all reason, where gentry, title,\nwisdom\nCannot conclude but by the yea and no\nOf general ignorance—it must omit\nReal necessities and give way the while\nTo unstable slightness. Purpose so barred, it follows\nNothing is done to purpose. Therefore, beseech\nyou—\nYou that will be less fearful than discreet,\nThat love the fundamental part of state\nMore than you doubt the change on ’t, that prefer\nA noble life before a long, and wish\nTo jump a body with a dangerous physic\nThat’s sure of death without it—at once pluck out\nThe multitudinous tongue; let them not lick\nThe sweet which is their poison. Your dishonor\nMangles true judgment and bereaves the state\nOf that integrity which should become ’t,\nNot having the power to do the good it would\nFor th’ ill which doth control ’t.",
           "es": "¡No, escuchen más!\nQue todo aquello por lo que se puede jurar, divino y humano,\nselle mis palabras finales. Esta doble autoridad,\nen la que una parte desprecia con razón y la otra\nse insolenta sin motivo; en la que el linaje, el rango y la prudencia\nno pueden decidir nada sin el sí o el no\nde la ignorancia general, tiene que desatender\nlas necesidades verdaderas y ceder entretanto\nante caprichos inconstantes. Cuando se obstaculiza así toda decisión,\nno se consigue nada de lo que se pretende. Por eso les ruego,\na ustedes, que prefieren la prudencia al miedo,\nque aman los fundamentos del Estado\nmás de lo que temen modificarlos, que anteponen\nuna vida noble a una vida larga y están dispuestos\na arriesgar el cuerpo con un remedio peligroso,\nsabiendo que sin él la muerte es segura: arranquen de una vez\nla lengua de la multitud. No permitan que saboree\nla dulzura que la envenena. Su deshonra\ndestroza el buen juicio y priva al Estado\nde la entereza que le corresponde,\npues le impide hacer el bien que desea\npor culpa del mal que lo domina.",
           "notes": [
             {
@@ -15305,7 +15305,7 @@ window.SHAKESPEARE_READER_DATA = {
         {
           "line": "1886–1890",
           "speaker": "sicinius",
-          "en": "Go, call the people; in whose name myself\nAttach thee as a traitorous innovator,\nA foe to th’ public weal. Obey, I charge thee,\nAnd follow to thine answer.",
+          "en": "Go, call the people; in whose name\nmyself\nAttach thee as a traitorous innovator,\nA foe to th’ public weal. Obey, I charge thee,\nAnd follow to thine answer.",
           "es": "Ve a llamar al pueblo. En su nombre, yo mismo\nte detengo como traidor que pretende alterar el orden,\nenemigo del bien común. Te ordeno que obedezcas\ny comparezcas para responder de tus actos.",
           "notes": [
             {
@@ -16112,7 +16112,7 @@ window.SHAKESPEARE_READER_DATA = {
         {
           "line": "1981–1987",
           "speaker": "cominius",
-          "en": "But now ’tis odds beyond arithmetic,\nAnd manhood is called foolery when it stands\nAgainst a falling fabric. Will you hence,\nBefore the tag return, whose rage doth rend\nLike interrupted waters and o’erbear\nWhat they are used to bear?",
+          "en": "But now ’tis odds beyond arithmetic,\nAnd manhood is called foolery when it stands\nAgainst a falling fabric. Will you\nhence,\nBefore the tag return, whose rage doth rend\nLike interrupted waters and o’erbear\nWhat they are used to bear?",
           "es": "Pero ahora la desproporción supera cualquier cálculo,\ny el valor se convierte en insensatez cuando se enfrenta\na una estructura que se viene abajo. ¿Te marcharás\nantes de que regrese la chusma? Su furia irrumpe\ncomo aguas contenidas que rompen sus barreras\ny arrastran aquello que normalmente las contiene.",
           "notes": [
             {
