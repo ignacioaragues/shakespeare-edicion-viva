@@ -245,6 +245,16 @@
   // Verse breaks are zero-text DOM markers: neither en/es nor reading offsets change.
   // Each anchor is checked against the published string before applying the layout.
   const verifiedVerseStarts = {
+    'coriolanus-1-4|494–495': { en: ["For half a hundred years."] },
+    'coriolanus-1-4|498–502': { en: ["Now, Mars,","That we with smoking swords","hence","To help our fielded friends!"] },
+    'coriolanus-1-4|504–514': { en: ["That’s lesser than a little.","Hark, our drums","Are bringing forth our youth.","Rather than they shall pound","Which yet seem shut","rushes.","They’ll open of themselves.","Hark you, far off!","There is Aufidius.","Amongst your cloven army."] },
+    'coriolanus-1-4|517–525': { en: ["Now put your shields","With hearts more proof","brave Titus.","They do disdain us","Which makes me sweat","fellows!","He that retires","And he shall feel"] },
+    'coriolanus-1-4|526–539': { en: ["You shames of Rome!","plagues","Plaster you o’er","Farther than seen","Against the wind","That bear the shapes","From slaves that apes","All hurt behind.","With flight and agued","Or, by the fires","And make my wars","If you’ll stand fast","As they us to our trenches."] },
+    'coriolanus-1-4|540–543': { en: ["seconds!","’Tis for the followers","Not for the fliers."] },
+    'coriolanus-1-4|550–553': { en: ["With them he enters","Clapped to their gates.","To answer all the city."] },
+    'coriolanus-1-4|554–564': { en: ["Who sensibly outdares","And when it bows","Martius.","A carbuncle entire","Were not so rich","Even to ⌜Cato’s⌝ wish","Only in strokes","The thunderlike percussion","Thou mad’st thine enemies","Were feverous"] },
+    'coriolanus-1-4|566–567': { en: ["Let’s fetch him off"] },
+
     'coriolanus-1-3|400–409': { en: ["Methinks I hear hither","See him pluck Aufidius","As children from a bear","Methinks I see him stamp","“Come on, you cowards!","Though you were born","With his mailed hand","Like to a harvestman","Or all or lose his hire."] },
     'coriolanus-1-3|411–416': { en: ["Than gilt his trophy.","When she did suckle Hector","Than Hector’s forehead","At Grecian sword","We are fit to bid"] },
     'coriolanus-1-3|418–419': { en: ["And tread upon his neck."] },

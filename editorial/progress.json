@@ -3394,6 +3394,17 @@
       "status": "source_lineation_verified_browser_highlight_qa_pending",
       "source": "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/3/",
       "scope": "116 líneas Folger I.3 cotejadas: prosa 370–399 y 420–485 sin cortes versales artificiales; verso 400–419 con 15 límites internos en cuatro parlamentos; 410 y 417 son intervenciones de un solo verso. EN/ES, notas, IDs y offsets intactos. Disposición española y QA visual de resaltados pendientes."
+    },
+    {
+      "id": "coriolanus-1-4-486-567",
+      "act": 1,
+      "scene": 4,
+      "first_line": 486,
+      "last_line": 567,
+      "reviewed_on": "2026-11-18",
+      "status": "source_lineation_verified_browser_highlight_qa_pending",
+      "source": "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/4/",
+      "scope": "82 líneas Folger I.4 cotejadas contra la disposición de Folger: 54 límites internos de verso en 9 bloques multiversales; parlamentos de verso único y acotaciones independientes conservados. Se respetan los cortes especiales 500/501 (hence), 509/510 (rushes), 527/528 (plagues), 540/541 (seconds!) y 556/557 (Martius). Marcadores tipográficos EN sin modificar cadenas, notas, IDs ni offsets; cortes ES y QA visual/resaltados pendientes."
     }
   ]
 }
