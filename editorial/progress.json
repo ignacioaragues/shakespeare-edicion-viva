@@ -3338,5 +3338,18 @@
       "source": "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/"
     }
   ],
-  "active_review_phase": "verse_lineation_pending_start"
+  "active_review_phase": "verse_lineation",
+  "verified_verse_lineation": [
+    {
+      "id": "coriolanus-1-1-1-173",
+      "act": 1,
+      "scene": 1,
+      "first_line": 1,
+      "last_line": 173,
+      "reviewed_on": "2026-11-18",
+      "status": "source_lineation_verified_browser_highlight_qa_pending",
+      "source": "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/",
+      "scope": "173 líneas Folger cotejadas, prosa 1–54, 58–62, 81–88 y 95–97, verso y cambios de voz. Se restaura corte 148/149 y reparan dos anclas de notas. Pruebas de navegador y resaltados pendientes; no se declara QA visual."
+    }
+  ]
 }

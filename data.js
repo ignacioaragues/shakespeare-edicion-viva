@@ -1090,7 +1090,7 @@ window.SHAKESPEARE_READER_DATA = {
               "lemmaUrl": "https://en.wiktionary.org/wiki/tauntingly"
             },
             {
-              "term": "they are not such as you",
+              "term": "They are not such as you",
               "title": "they are not such as you",
               "type": "Nota interpretativa",
               "gloss": "no son como ustedes",
@@ -1226,7 +1226,7 @@ window.SHAKESPEARE_READER_DATA = {
           "es": "Se lo diré, si me concede un poco de algo que tiene muy poco: paciencia. Espere un momento y oirá la respuesta del vientre.",
           "notes": [
             {
-              "term": "bestow a small—of what you have little—Patience",
+              "term": "bestow a small—of what you have little—",
               "title": "bestow a small—of what you have little—Patience",
               "type": "Nota filológica",
               "gloss": "conceder un poco de paciencia, que escasea",
@@ -2734,7 +2734,15 @@ window.SHAKESPEARE_READER_DATA = {
           "notes": [],
           "stageAfter": "Salen Sicinio y Bruto. Fin de la escena primera."
         }
-      ]
+      ],
+      "lineationAudit": {
+        "first_line": 1,
+        "last_line": 173,
+        "source": "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/",
+        "source_checked": true,
+        "browser_highlight_regression": "pending",
+        "notes": "Prosa y verso cotejados con Folger; corte 148/149 restituido. Dos anclas de notas reparadas; EN/ES, IDs y offsets intactos."
+      }
     },
     {
       "id": "coriolanus-1-2",

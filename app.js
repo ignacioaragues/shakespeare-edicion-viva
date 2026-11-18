@@ -342,8 +342,8 @@
       es: ['si me concede un poco', 'Espere un momento']
     },
     'coriolanus-1-1|134–149': {
-      en: ['Your most grave belly', 'Not rash like his accusers', '“True is it', '“That I receive', 'Which you do live upon', 'Because I am', 'Of the whole body.', 'I send it through', 'Even to the court', 'And, through the cranks', 'The strongest nerves', 'From me receive', 'Whereby they live.', 'You, my good friends'],
-      es: ['el muy respetable vientre', 'no se precipitó', 'Y dijo:', 'que soy el primero', 'Y así debe ser', 'porque soy el almacén', 'Pero recuerden', 'hasta la corte del corazón', 'y que, a través', 'tanto los nervios', 'como las venas menores', 'reciben de mí', 'Y aunque todos a la vez', 'Esto lo dice el vientre']
+      en: ['Your most grave belly', 'Not rash like his accusers', '“True is it', '“That I receive', 'Which you do live upon', 'Because I am', 'Of the whole body.', 'I send it through', 'Even to the court', 'And, through the cranks', 'The strongest nerves', 'From me receive', 'Whereby they live.', 'You, my good friends', 'me—'],
+      es: ['el muy respetable vientre', 'no se precipitó', 'Y dijo:', 'que soy el primero', 'Y así debe ser', 'porque soy el almacén', 'Pero recuerden', 'hasta la corte del corazón', 'y que, a través', 'tanto los nervios', 'como las venas menores', 'reciben de mí', 'Y aunque todos a la vez', 'Esto lo dice el vientre', 'fíjese bien…']
     },
     'coriolanus-1-1|109–116': {
       en: ['Which ne’er came', 'For, look you', 'As well as speak', 'To th’ discontented', 'That envied his receipt', 'As you malign', 'They are not such'],
