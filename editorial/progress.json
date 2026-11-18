@@ -3581,6 +3581,17 @@
       "status": "source_lineation_verified_browser_highlight_qa_pending",
       "source": "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/",
       "scope": "107 líneas Folger consecutivas hasta el final de III.1; 41 bloques cotejados con Folger. Restituidos cuatro límites tipográficos internos: mouth (1997), attend (2092), Let (2096) y come (2097); sin cambios de caracteres, IDs, offsets o traducción. Se comprobaron 65 notas; tres anclas de notas no literales pendientes de reparación sin alterar los resaltados: 2024–2026 (As I do know ... So can I); 2041–2045 (enrolled / In Jove’s own book); 2083–2086 (the end of it / Unknown to the beginning). QA visual español, móvil y regresión de resaltados pendientes."
+    },
+    {
+      "id": "coriolanus-3-2-2100-2276",
+      "act": 3,
+      "scene": 2,
+      "first_line": 2100,
+      "last_line": 2276,
+      "reviewed_on": "2026-11-19",
+      "status": "source_lineation_verified_browser_highlight_qa_pending",
+      "source": "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/",
+      "scope": "177 líneas Folger consecutivas (43 bloques) III.2 cotejadas con disposición de Folger; 43/43 bloques conservan exactamente un renglón inglés por línea Folger, y los rangos son consecutivos. Prosa no detectada en esta escena; preservados cortes, texto EN/ES, acotaciones, IDs y offsets sin alteración. 110 notas inspeccionadas: tres anclas expresadas con barra en lugar del texto contiguo literal (2114–2117 play / The man I am; 2160–2165 to seem / The same you are not; 2189–2204 frame / Thyself), pendientes de reparación no destructiva. QA navegador, móvil, alineación visual española y resaltados pendiente."
     }
   ]
 }
