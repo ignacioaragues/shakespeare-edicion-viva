@@ -245,6 +245,19 @@
   // Verse breaks are zero-text DOM markers: neither en/es nor reading offsets change.
   // Each anchor is checked against the published string before applying the layout.
   const verifiedVerseStarts = {
+    'coriolanus-2-1|1103–1120': { en: ["Are spectacled","Into a rapture","While she chats","Her richest lockram","Clamb’ring the walls","windows Are smothered","Are smothered up","With variable complexions","In earnestness","Do press among","To win a vulgar","Commit the war","Their nicely-gauded","Of Phoebus’ burning","As if that","Were slyly crept","And gave him"] },
+    'coriolanus-2-1|1121–1122': { en: ["I warrant him"] },
+    'coriolanus-2-1|1123–1124': { en: ["During his power"] },
+    'coriolanus-2-1|1125–1127': { en: ["From where he","Lose those he"] },
+    'coriolanus-2-1|1129–1135': { en: ["not The commoners","The commoners, for whom","Upon their ancient","With the least cause","That he will give","As he is proud"] },
+    'coriolanus-2-1|1136–1141': { en: ["Were he to stand","Appear i’ th’","The napless vesture","Nor showing, as","To th’ people"] },
+    'coriolanus-2-1|1143–1145': { en: ["Than carry it","And the desire"] },
+    'coriolanus-2-1|1146–1148': { en: ["Than have him","In execution"] },
+    'coriolanus-2-1|1150–1151': { en: ["A sure destruction"] },
+    'coriolanus-2-1|1152–1162': { en: ["To him, or","We must suggest","He still hath","Have made them","Dispropertied their","In human action","Of no more","Than camels in","Only for bearing","For sinking under"] },
+    'coriolanus-2-1|1163–1169': { en: ["At some time","Shall touch the","If he be","As to set","To kindle their","Shall darken him"] },
+    'coriolanus-2-1|1171–1179': { en: ["That Martius shall","The dumb men","To hear him","Ladies and maids","Upon him as","As to Jove’s","A shower and","I never saw"] },
+    'coriolanus-2-1|1180–1182': { en: ["And carry with","But hearts for"] },
     'coriolanus-2-1|1046–1050': { en: ["Within Corioles’ gates","With fame, a name","In honor follows","Welcome to Rome"] },
     'coriolanus-2-1|1052–1053': { en: ["Pray now, no more"] },
     'coriolanus-2-1|1055–1057': { en: ["You have, I know","For my prosperity"] },
