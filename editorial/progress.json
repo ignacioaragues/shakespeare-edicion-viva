@@ -3188,6 +3188,20 @@
         "https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V"
       ],
       "status": "reviewed_with_open_sources_private_books_pending"
+    },
+    {
+      "id": "coriolanus-5-6-3865-3895",
+      "act": 5,
+      "scene": 6,
+      "first_line": 3865,
+      "last_line": 3895,
+      "reviewed_on": "2026-11-18",
+      "scope": "Segunda revisión filológica V.6 3865–3895: 31 líneas Folger, 11 bloques, 19 notas/anclas cotejadas; precisiones de Martius en la acotación, impatience como descontrol y widowed/unchilded como verbos causativos. Conservados EN/ES, IDs, offsets y cortes; QA visual y cotejo privado pendientes. Fase filológica al final del texto, pendiente comprobación de cobertura total antes de habilitar auditoría versal.",
+      "sources": [
+        "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/",
+        "https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V"
+      ],
+      "status": "reviewed_with_open_sources_private_books_pending"
     }
   ],
   "verse_format_reviews": [
@@ -3323,5 +3337,6 @@
       "scope": "287–293 son parlamentos de un verso cada uno. 294–295: un salto; 296–300: cuatro saltos visuales en EN y cortes españoles. Primera pasada de marcadores completada hasta línea 300, sin certificar todavía exactitud Folger ni QA de resaltados; segmentos 1–43 pendientes de auditoría global.",
       "source": "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/"
     }
-  ]
+  ],
+  "active_review_phase": "verse_lineation_pending_start"
 }

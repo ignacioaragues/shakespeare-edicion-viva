@@ -30630,7 +30630,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "Martius",
               "type": "Nota filológica",
               "gloss": "Marcio (no «Coriolano»)",
-              "body": "La acotación de Folger llama «Martius» al personaje asesinado: en la escena Aufidio le ha negado expresamente el sobrenombre honorífico. La resonancia es una interpretación dramatúrgica, no prueba de que la acotación sea un comentario deliberado del autor. Fuentes: Folger Shakespeare Library, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/"
+              "body": "La acotación emplea el nombre familiar Martius, no el sobrenombre honorífico Coriolanus. La posible resonancia con la disputa por el nombre es una lectura escénica, no una intención autoral demostrable. Fuente: Folger Shakespeare Library, Coriolanus V.6: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/"
             },
             {
               "term": "Aufidius stands on him",
@@ -30789,7 +30789,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "impatience",
               "type": "Nota filológica",
               "gloss": "impetuosidad; falta de dominio de sí",
-              "body": "No significa simplemente impaciencia por esperar: atribuye a Coriolano una incapacidad para contener su ira. La intervención distribuye la responsabilidad del asesinato sin absolver a Aufidio. Referencias: Folger Shakespeare Library, «Coriolanus», V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/",
+              "body": "Aquí alude a la impetuosidad y al descontrol de Coriolano, no a una espera frustrada. El segundo señor atenúa la responsabilidad de Aufidio sin absolverlo: «a great part» no equivale a toda la culpa. Fuentes: Folger Shakespeare Library, Coriolanus V.6: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/ ; Brooke, Yale (1924), Act V: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V",
               "lemma": "impatience",
               "lemmaUrl": "https://en.wiktionary.org/wiki/impatience"
             },
@@ -30835,8 +30835,8 @@ window.SHAKESPEARE_READER_DATA = {
               "term": "widowed and unchilded",
               "title": "widowed and unchilded",
               "type": "Nota filológica",
-              "gloss": "privado de esposos y de hijos",
-              "body": "Dos verbos transitivos derivados de sustantivos, coordinados para expresar el costo humano de la conquista de Corioles; «unchilded» es especialmente expresivo y poco usual. Referencias: Folger Shakespeare Library, «Coriolanus», V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/",
+              "gloss": "dejó sin esposos y sin hijos",
+              "body": "Dos formaciones verbales causativas: Coriolano ha privado a familias volscas de esposos y de hijos. La simetría verbal condensa el costo humano de sus victorias, incluso mientras Aufidio le concede honras fúnebres. Fuentes: Folger Shakespeare Library, Coriolanus V.6: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/ ; C. F. Tucker Brooke (ed.), Coriolanus (Yale, 1924), Act V: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V",
               "lemma": "unchild",
               "lemmaUrl": "https://en.wiktionary.org/wiki/unchild"
             },
