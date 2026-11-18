@@ -3482,6 +3482,17 @@
       "status": "source_lineation_verified_browser_highlight_qa_pending",
       "source": "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/1/",
       "scope": "166 líneas Folger y 57 bloques consecutivos cotejados: 880–1041 diálogo en prosa, sin cortes versales artificiales pese a los números de línea de la edición; 1042–1045 intervención versificada de Volumnia, con tres límites internos marcados (he carries noise / Death / Which). Entradas, salida frustrada, acotaciones y cambios de interlocutor permanecen separados. EN/ES, IDs, notas y offsets sin modificación. Comprobación visual ES y regresión de resaltados pendientes."
+    },
+    {
+      "id": "coriolanus-2-1-1046-1102",
+      "act": 2,
+      "scene": 1,
+      "first_line": 1046,
+      "last_line": 1102,
+      "reviewed_on": "2026-11-18",
+      "status": "source_lineation_verified_browser_highlight_qa_pending",
+      "source": "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/1/",
+      "scope": "57 líneas Folger de II.1 cotejadas en 17 bloques, 39 inicios internos de verso verificados con anclas únicas en EN. Intervenciones breves y acotaciones independientes; texto EN/ES, IDs, notas y offsets conservados. QA visual español, navegador y resaltados pendientes."
     }
   ]
 }

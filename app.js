@@ -245,6 +245,18 @@
   // Verse breaks are zero-text DOM markers: neither en/es nor reading offsets change.
   // Each anchor is checked against the published string before applying the layout.
   const verifiedVerseStarts = {
+    'coriolanus-2-1|1046–1050': { en: ["Within Corioles’ gates","With fame, a name","In honor follows","Welcome to Rome"] },
+    'coriolanus-2-1|1052–1053': { en: ["Pray now, no more"] },
+    'coriolanus-2-1|1055–1057': { en: ["You have, I know","For my prosperity"] },
+    'coriolanus-2-1|1058–1062': { en: ["My gentle Martius","By deed-achieving","What is it? Coriolanus","But, O, thy wife"] },
+    'coriolanus-2-1|1063–1068': { en: ["Wouldst thou have laughed","home,","That weep’st to see","Such eyes the widows","And mothers that lack"] },
+    'coriolanus-2-1|1069–1070': { en: ["thee!"] },
+    'coriolanus-2-1|1071–1072': { en: ["pardon."] },
+    'coriolanus-2-1|1073–1074': { en: ["And, welcome, general"] },
+    'coriolanus-2-1|1075–1084': { en: ["And I could laugh","A curse begin","That is not glad","That Rome should dote","We have some old","not Be grafted","Be grafted to your relish","We call a nettle","The faults of fools"] },
+    'coriolanus-2-1|1088–1093': { en: ["and yours.","Ere in our own house","The good patricians","From whom I have","But with them change"] },
+    'coriolanus-2-1|1094–1098': { en: ["To see inherited","And the buildings","There’s one thing wanting","Our Rome will cast"] },
+    'coriolanus-2-1|1099–1101': { en: ["I had rather be","Than sway with them"] },
     'coriolanus-2-1|1042–1045': { en: ["he carries noise", "Death, that dark spirit", "Which, being advanced"] },
     'coriolanus-1-10|846–859': { en: ["I would I were","Being a Volsce","What good condition","I’ th’ part","I have fought","And wouldst do","As often as","If e’er again","He’s mine","Hath not that","I thought to crush","True sword to sword","Or wrath or craft"] },
     'coriolanus-1-10|861–873': { en: ["With only suff’ring","Shall fly out","Being naked","The prayers of priests","Embarquements all","Their rotten privilege","My hate to Martius","At home","Against the hospitable","Wash my fierce hand","Learn how ’tis held","Be hostages"] },
