@@ -3713,6 +3713,28 @@
       "status": "source_lineation_checked_layout_discrepancies_pending_browser_qa",
       "source": "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/7/",
       "scope": "61 líneas Folger, 8 parlamentos. Comprobada la disposición Folger de los versos de Aufidio y su teniente, con cortes intencionales 3181/3182 ('commanding / peace') y 3194/3195 ('do / fail'). El bloque 3166–3197 conserva 32 líneas Folger; quedan pendientes cotejo visual de correspondencia española y regresión de resaltados. Sin modificación de contenido ni IDs."
+    },
+    {
+      "id": "coriolanus-5-1-3198-3283",
+      "act": 5,
+      "scene": 1,
+      "first_line": 3198,
+      "last_line": 3283,
+      "reviewed_on": "2026-11-19",
+      "status": "source_lineation_checked_browser_highlight_qa_pending",
+      "source": "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/1/",
+      "scope": "86 líneas Folger consecutivas, 22 parlamentos. Se cotejaron los límites de parlamento y disposición versal del original en el lector frente a Folger V.1; destaca 3245–3249, donde 'Martius' ocupa un renglón tipográfico separado dentro del bloque de cinco líneas, pendiente de corrección de presentación sin cambiar texto ni offsets. No se modificaron EN/ES, IDs ni notas. QA visual, móvil y resaltados pendiente."
+    },
+    {
+      "id": "coriolanus-5-2-3284-3311",
+      "act": 5,
+      "scene": 2,
+      "first_line": 3284,
+      "last_line": 3311,
+      "reviewed_on": "2026-11-19",
+      "status": "source_lineation_checked_browser_highlight_qa_pending",
+      "source": "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/",
+      "scope": "28 líneas Folger consecutivas, 10 parlamentos del encuentro de Menenio con los centinelas. Se cotejó el cambio de escena y la sucesión de hablantes con Folger V.2; los renglones 3301–3311 conservan la intervención continua de Menenio. Queda pendiente QA visual de la traducción y resaltados. No se modificó el texto ni la interfaz."
     }
   ]
 }
