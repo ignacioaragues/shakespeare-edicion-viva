@@ -311,3 +311,6 @@ body.dividers-on .inline-stage,body.dividers-on .stage-direction{border-bottom:1
 .sidebar-library-back{display:inline-flex;align-items:center;gap:6px;color:var(--accent);font-size:11px;font-weight:600;text-decoration:none;margin:5px 7px 16px}
 .sidebar-library-back:hover{text-decoration:underline;text-underline-offset:3px}
 @media(max-width:860px){.app-shell .library-home-link{display:none}}
+
+/* Stage directions inside speeches: separate theatrical action from spoken verse. */
+.embedded-stage-direction{display:block;font-family:var(--sans);font-size:.82em;font-style:italic;color:var(--ink-mid);line-height:1.5;margin:.3em 0;white-space:normal}

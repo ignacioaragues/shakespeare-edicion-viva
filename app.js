@@ -531,6 +531,31 @@
     }
   }
 
+  // Style stage directions in place, retaining the original text and note offsets.
+  function markStageDirections(paragraph) {
+    const walker = document.createTreeWalker(paragraph, NodeFilter.SHOW_TEXT);
+    const nodes = [];
+    let node;
+    while ((node = walker.nextNode())) {
+      if (!node.parentElement?.closest('.supplemental-notes')) nodes.push(node);
+    }
+    for (const textNode of nodes) {
+      const source = textNode.nodeValue;
+      const pattern = /\[[^\r\n\]]+\]|⌜[^⌝\r\n]+⌝/g;
+      let match, cursor = 0;
+      const fragment = document.createDocumentFragment();
+      while ((match = pattern.exec(source))) {
+        if (match.index > cursor) fragment.appendChild(document.createTextNode(source.slice(cursor, match.index)));
+        fragment.appendChild(el('span', 'embedded-stage-direction', match[0]));
+        cursor = match.index + match[0].length;
+      }
+      if (cursor) {
+        if (cursor < source.length) fragment.appendChild(document.createTextNode(source.slice(cursor)));
+        textNode.replaceWith(fragment);
+      }
+    }
+  }
+
   function renderSpeech(block, index, sourceScene) {
     const row = el('article', 'speech-row');
     row.dataset.index = String(index);
@@ -564,6 +589,7 @@
     englishParagraph.appendChild(originalText(block.en, block.notes || []));
     const verseLayout = verifiedVerseStarts[sourceScene.id + '|' + block.line];
     restoreVisualVerseLines(englishParagraph, block.en, verseLayout?.en);
+    markStageDirections(englishParagraph);
     englishCell.appendChild(englishParagraph);
     row.appendChild(englishCell);
 
@@ -571,6 +597,7 @@
     spanishCell.appendChild(characterButton(character, true));
     const spanishParagraph = el('p', 'speech-text', block.es);
     restoreVisualVerseLines(spanishParagraph, block.es, verseLayout?.es);
+    markStageDirections(spanishParagraph);
     spanishCell.appendChild(spanishParagraph);
     row.appendChild(spanishCell);
     return row;
