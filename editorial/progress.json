@@ -3776,9 +3776,9 @@
       "first_line": 3635,
       "last_line": 3702,
       "reviewed_on": "2026-11-19",
-      "status": "internal_lineation_audit_external_source_and_browser_qa_pending",
+      "status": "source_lineation_checked_browser_highlight_qa_pending",
       "source": "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/",
-      "scope": "68 líneas, 22 bloques. V.4 alterna prosa de Menenio/Sicinio (3635–3670) y versos de los mensajeros y celebración (3671–3702); los cortes de renglón de la prosa no representan versos. La intervención 3650–3659 tiene 10 líneas inglesas y 11 españolas: comprobar correspondencia visual. Texto, notas, IDs y offsets intactos."
+      "scope": "68 líneas Folger 3635–3702, 22 bloques de V.4 cotejados con Folger: 3635–3670 son parlamentos en prosa, cuyos renglones corresponden a la disposición editorial, no a versos métricos; 3671–3702 son intervenciones versales con acotaciones y cambios de hablante diferenciados. 3650–3659 presenta diez renglones EN y once ES sin exigir isometría. Reparadas dos anclas de nota que atravesaban salto de renglón: 'milk in a male' y 'respected not'; glosas y fuentes conservadas. Sin modificación de EN/ES, IDs u offsets. QA de navegador, móvil y resaltados pendiente."
     },
     {
       "id": "coriolanus-5-5-3703-3710",

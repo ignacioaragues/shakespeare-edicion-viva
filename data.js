@@ -28994,7 +28994,7 @@ window.SHAKESPEARE_READER_DATA = {
               "body": "Menenio asegura que su retrato verbal reproduce fielmente el carácter de Coriolano. Fuentes: Folger (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/); Brooke, Yale 1924 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V)."
             },
             {
-              "term": "milk in a male tiger",
+              "term": "milk in a male",
               "title": "milk in a male tiger",
               "type": "Nota filológica",
               "gloss": "leche en un tigre macho: ninguna",
@@ -29031,7 +29031,7 @@ window.SHAKESPEARE_READER_DATA = {
           "es": "No. En semejante situación, los dioses no\nserán benévolos con nosotros. Cuando lo desterramos,\nno mostramos respeto por ellos; y ahora que él\nregresa para quebrarnos el cuello, ellos no nos respetan.",
           "notes": [
             {
-              "term": "respected not them",
+              "term": "respected not",
               "title": "respected not them",
               "type": "Nota filológica",
               "gloss": "no respetamos a los dioses",
