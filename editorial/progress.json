@@ -3809,9 +3809,9 @@
       "first_line": 3720,
       "last_line": 3895,
       "reviewed_on": "2026-11-19",
-      "status": "internal_lineation_audit_external_source_and_browser_qa_pending",
+      "status": "source_lineation_checked_browser_highlight_qa_pending",
       "source": "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/",
-      "scope": "Registro histórico de inspección interna 3720–3895; cotejo externo Folger y QA visual pendientes. No cuenta como cobertura verificada."
+      "scope": "176 líneas Folger 3720–3895 de V.6 cotejadas con Folger (edición pública, acto V escena 6). Verificados 42 bloques y sus inicios/finales, cambios de hablante y numeración; versos breves 3720, 3721, 3815, 3831 y 3832 legítimos. Las palabras aisladas 'home' (3802) y 'lords' (3837) son líneas Folger reales. Acotaciones fuera de numeración en 3768–3770 (tambores), 3780–3781 (entrada de señores), 3794 (entrada de Coriolano), 3862 (desenvaina), 3866 (asesinato) y 3887–3895 (salida/marcha); no fusionarlas con el verso. 3854–3856 es griterío colectivo en prosa, no tres versos métricos. 3795–3809 contiene 15 versos y una acotación independiente; conteo de renglones no es prueba de error. No se cambió EN/ES ni offsets. QA real de navegador, móvil, marcadores y resaltados sigue pendiente; tampoco se certifica cobertura global de los cinco actos."
     }
   ]
 }
