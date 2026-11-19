@@ -24693,11 +24693,11 @@ window.SHAKESPEARE_READER_DATA = {
         {
           "line": "3061–3062",
           "speaker": "menenius",
-          "en": "As Hercules\nDid shake down mellow fruit.\nYou have made fair work.",
+          "en": "As Hercules did shake down mellow fruit.\nYou have made fair work.",
           "es": "Como Hércules hacía caer\nla fruta madura de los árboles.\n¡Menuda obra han hecho!",
           "notes": [
             {
-              "term": "As Hercules / Did shake down mellow fruit",
+              "term": "As Hercules did shake down mellow fruit.",
               "title": "As Hercules / Did shake down mellow fruit",
               "type": "Nota filológica",
               "gloss": "como Hércules sacudía la fruta madura",
