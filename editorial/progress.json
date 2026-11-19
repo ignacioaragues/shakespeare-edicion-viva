@@ -3603,6 +3603,28 @@
       "status": "source_lineation_verified_browser_highlight_qa_pending",
       "source": "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/",
       "scope": "165 líneas Folger III.3 (2277–2441) cotejadas con la disposición de Folger en 58 bloques dramáticos; todos los bloques conservan un renglón inglés por línea Folger, incluidos los versos breves 2316–2317 (you), 2319–2320 (gods), 2343–2344 (briars), 2386 (You?) y los encabalgamientos de la sentencia y respuesta de Coriolano. Prosa no identificada en este tramo. 96 notas comprobadas; tres anclas no literales pendientes de corrección no destructiva: 2373 (the rock frente a th’ rock), 2396–2408 (ministers / That doth distribute it), 2413–2420 (my dear wife’s estimate frente a My dear wife’s estimate). Sin cambios en data.js, traducción, IDs, offsets ni interfaz. QA visual español, móvil y regresión de resaltados pendiente."
+    },
+    {
+      "id": "coriolanus-3-3-2442-2449",
+      "act": 3,
+      "scene": 3,
+      "first_line": 2442,
+      "last_line": 2449,
+      "reviewed_on": "2026-11-19",
+      "status": "source_lineation_verified_browser_highlight_qa_pending",
+      "source": "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/",
+      "scope": "8 líneas Folger cotejadas con la disposición original III.3; versos, parlamentos y acotaciones independientes. Se conserva la exclamación coral y salida final. 53 notas inspeccionadas en 2442–2518, anclas literales comprobadas. QA visual español, móvil y resaltados pendientes."
+    },
+    {
+      "id": "coriolanus-4-1-2450-2518",
+      "act": 4,
+      "scene": 1,
+      "first_line": 2450,
+      "last_line": 2518,
+      "reviewed_on": "2026-11-19",
+      "status": "source_lineation_verified_browser_highlight_qa_pending",
+      "source": "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/1/",
+      "scope": "69 líneas Folger cotejadas con la disposición original IV.1; versos, parlamentos y acotaciones independientes. Restituido corte 2457/2458 (wounded / craves), sin cambiar letras ni IDs. 53 notas inspeccionadas en 2442–2518, anclas literales comprobadas. QA visual español, móvil y resaltados pendientes."
     }
   ]
 }

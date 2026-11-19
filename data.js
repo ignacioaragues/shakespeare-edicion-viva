@@ -19899,7 +19899,7 @@ window.SHAKESPEARE_READER_DATA = {
         {
           "line": "2450–2461",
           "speaker": "coriolanus",
-          "en": "Come, leave your tears. A brief farewell. The beast\nWith many heads butts me away. Nay, mother,\nWhere is your ancient courage? You were used\nTo say extremities was the trier of spirits;\nThat common chances common men could bear;\nThat when the sea was calm, all boats alike\nShowed mastership in floating; fortune’s blows\nWhen most struck home, being gentle wounded craves\nA noble cunning. You were used to load me\nWith precepts that would make invincible\nThe heart that conned them.",
+          "en": "Come, leave your tears. A brief farewell. The beast\nWith many heads butts me away. Nay, mother,\nWhere is your ancient courage? You were used\nTo say extremities was the trier of spirits;\nThat common chances common men could bear;\nThat when the sea was calm, all boats alike\nShowed mastership in floating; fortune’s blows\nWhen most struck home, being gentle wounded\ncraves\nA noble cunning. You were used to load me\nWith precepts that would make invincible\nThe heart that conned them.",
           "es": "Vamos, dejen de llorar. Una despedida breve. La bestia\nde muchas cabezas me echa a empellones. No, madre,\n¿dónde está tu valor de antaño? Solías\ndecir que las adversidades extremas ponen a prueba el espíritu;\nque cualquier hombre soporta las desgracias corrientes;\nque, cuando el mar está en calma, todas las embarcaciones\nparecen gobernadas con destreza; que, cuando los golpes de la fortuna\nhieren más profundamente, soportar la herida con serenidad exige\nuna noble sabiduría. Solías llenarme\nde enseñanzas capaces de volver invencible\nel corazón que las aprendiera.",
           "notes": [
             {
