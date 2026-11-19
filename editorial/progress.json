@@ -3787,20 +3787,31 @@
       "first_line": 3703,
       "last_line": 3710,
       "reviewed_on": "2026-11-19",
-      "status": "internal_lineation_audit_external_source_and_browser_qa_pending",
+      "status": "source_lineation_checked_browser_highlight_qa_pending",
       "source": "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/5/",
-      "scope": "8 líneas, 2 bloques. El senador 3703–3709 tiene un corte tipográfico aislado en 'them', que produce 8 renglones para 7 líneas Folger; pendiente corrección no destructiva. 3710 es aclamación coral. Texto, notas, IDs y offsets intactos."
+      "scope": "8 líneas Folger V.5 3703–3710 cotejadas con Folger: 'them' constituye el verso 3706, aunque sea una sola palabra; no fusionarlo con 3705. Aclamación coral 3710 y acotaciones de salida fuera de numeración versal. EN/ES sin cambios; QA visual pendiente."
     },
     {
-      "id": "coriolanus-5-6-3711-3895",
+      "id": "coriolanus-5-6-3711-3719",
       "act": 5,
       "scene": 6,
       "first_line": 3711,
+      "last_line": 3719,
+      "reviewed_on": "2026-11-19",
+      "status": "source_lineation_checked_browser_highlight_qa_pending",
+      "source": "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/",
+      "scope": "9 líneas Folger V.6 3711–3719 cotejadas con Folger: 3712 'Deliver them this paper' y 3713 'Having read it' son versos separados, con acotación de entrega del papel en 3712. Los nueve cortes del inglés corresponden a los nueve números Folger; no añadir ni suprimir versos. QA visual y de acotaciones pendiente."
+    },
+    {
+      "id": "coriolanus-5-6-3720-3895",
+      "act": 5,
+      "scene": 6,
+      "first_line": 3720,
       "last_line": 3895,
       "reviewed_on": "2026-11-19",
       "status": "internal_lineation_audit_external_source_and_browser_qa_pending",
       "source": "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/",
-      "scope": "185 líneas, 44 bloques inspeccionados hasta la última acotación. Revisada continuidad de rangos y turnos entre Aufidio, conspiradores, Coriolano, señores y pueblo. Incidencias: 3711–3719 presenta 8 renglones para 9 líneas; 3768–3770 y 3780–3781 contienen acotaciones integradas; 3795–3809 contiene un corte aislado 'home' y acotación; 3816–3828 tiene 13 líneas numeradas y 13 renglones; 3833–3841 corta 'lords' artificialmente; 3854–3856 es prosa coral con tres renglones ingleses y uno español; 3862–3864, 3866 y 3887–3895 incorporan acotaciones que no deben contarse como versos. Cierre en 'Yet he shall have a noble memory. Assist.' seguido de salida y marcha fúnebre. Pendientes cotejo externo Folger, ajuste de saltos tipográficos, alineación EN/ES y QA visual/móvil/resaltados. Texto, notas, IDs y offsets intactos."
+      "scope": "Registro histórico de inspección interna 3720–3895; cotejo externo Folger y QA visual pendientes. No cuenta como cobertura verificada."
     }
   ]
 }
