@@ -28091,7 +28091,7 @@ window.SHAKESPEARE_READER_DATA = {
         {
           "line": "3506–3508",
           "speaker": "coriolanus",
-          "en": "Aufidius, and you Volsces, mark, for we’ll\nHear naught from Rome in private. Your request?",
+          "en": "Aufidius, and you Volsces, mark, for we’ll\nHear naught from Rome in private. Your\nrequest?",
           "es": "Aufidio, y ustedes, volscos, sean testigos, pues no\nescucharemos nada de Roma en privado. ¿Qué solicitan?",
           "notes": [
             {
@@ -29510,7 +29510,7 @@ window.SHAKESPEARE_READER_DATA = {
         {
           "line": "3711–3719",
           "speaker": "aufidius",
-          "en": "Go tell the lords o’ th’ city I am here.\nDeliver them this paper. Having read it,\nBid them repair to th’ marketplace, where I,\nEven in theirs and in the commons’ ears,\nWill vouch the truth of it. Him I accuse\nThe city ports by this hath entered and\nIntends t’ appear before the people, hoping\nTo purge himself with words. Dispatch.",
+          "en": "Go tell the lords o’ th’ city I am here.\nDeliver them this paper.\nHaving read it,\nBid them repair to th’ marketplace, where I,\nEven in theirs and in the commons’ ears,\nWill vouch the truth of it. Him I accuse\nThe city ports by this hath entered and\nIntends t’ appear before the people, hoping\nTo purge himself with words. Dispatch.",
           "es": "Vayan a decirles a los señores de la ciudad que estoy aquí.\nEntréguenles este escrito. Cuando lo hayan leído,\npídanles que acudan a la plaza del mercado, donde yo,\nante ellos y ante el pueblo,\nconfirmaré que cuanto dice es verdad. El hombre al que acuso\nya habrá entrado por las puertas de la ciudad\ny pretende presentarse ante el pueblo con la esperanza\nde exculparse con palabras. Apresúrense.",
           "after": "Aufidio entrega el escrito. Salen los acompañantes. Entran tres o cuatro conspiradores de su partido.",
           "notes": [
