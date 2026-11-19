@@ -3754,9 +3754,9 @@
       "first_line": 3401,
       "last_line": 3486,
       "reviewed_on": "2026-11-19",
-      "status": "internal_lineation_audit_external_source_and_browser_qa_pending",
+      "status": "source_lineation_verified_browser_highlight_qa_pending",
       "source": "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/",
-      "scope": "86 líneas Folger consecutivas, 13 bloques inspeccionados en data.js. Comprobada continuidad de rangos, cambios de hablante y saltos de verso de Coriolano, Aufidio, Virgilia y Volumnia; el bloque 3446–3459 tiene 13 saltos internos para 14 líneas numeradas y requiere comprobar si la acotación explica la diferencia. Pendientes cotejo Folger externo, disposición española, QA visual y resaltados. No se alteraron datos ni interfaz."
+      "scope": "86 líneas Folger V.3 (3401–3486), 14 parlamentos cotejados con Folger, secuencia de voces, límites de verso y acotaciones. 3410–3424: Shout within entre 3421/3422; 3425–3441: reverencia de Volumnia entre 3432/3433; 3446–3459: beso entre 3450/3451. 65 notas ancladas literalmente. EN/ES y offsets intactos. Pendiente QA navegador/móvil/resaltados. Fuera de rango: 3507/3508 requiere 'Your' al final de 3507 y 'request?' en 3508."
     },
     {
       "id": "coriolanus-5-3-3487-3634",
