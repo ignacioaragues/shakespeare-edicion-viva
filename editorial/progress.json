@@ -3592,6 +3592,17 @@
       "status": "source_lineation_verified_browser_highlight_qa_pending",
       "source": "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/",
       "scope": "177 líneas Folger consecutivas (43 bloques) III.2 cotejadas con disposición de Folger; 43/43 bloques conservan exactamente un renglón inglés por línea Folger, y los rangos son consecutivos. Prosa no detectada en esta escena; preservados cortes, texto EN/ES, acotaciones, IDs y offsets sin alteración. 110 notas inspeccionadas: tres anclas expresadas con barra en lugar del texto contiguo literal (2114–2117 play / The man I am; 2160–2165 to seem / The same you are not; 2189–2204 frame / Thyself), pendientes de reparación no destructiva. QA navegador, móvil, alineación visual española y resaltados pendiente."
+    },
+    {
+      "id": "coriolanus-3-3-2277-2441",
+      "act": 3,
+      "scene": 3,
+      "first_line": 2277,
+      "last_line": 2441,
+      "reviewed_on": "2026-11-19",
+      "status": "source_lineation_verified_browser_highlight_qa_pending",
+      "source": "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/3/",
+      "scope": "165 líneas Folger III.3 (2277–2441) cotejadas con la disposición de Folger en 58 bloques dramáticos; todos los bloques conservan un renglón inglés por línea Folger, incluidos los versos breves 2316–2317 (you), 2319–2320 (gods), 2343–2344 (briars), 2386 (You?) y los encabalgamientos de la sentencia y respuesta de Coriolano. Prosa no identificada en este tramo. 96 notas comprobadas; tres anclas no literales pendientes de corrección no destructiva: 2373 (the rock frente a th’ rock), 2396–2408 (ministers / That doth distribute it), 2413–2420 (my dear wife’s estimate frente a My dear wife’s estimate). Sin cambios en data.js, traducción, IDs, offsets ni interfaz. QA visual español, móvil y regresión de resaltados pendiente."
     }
   ]
 }
