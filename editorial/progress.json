@@ -3743,9 +3743,9 @@
       "first_line": 3312,
       "last_line": 3400,
       "reviewed_on": "2026-11-19",
-      "status": "internal_lineation_audit_external_source_and_browser_qa_pending",
+      "status": "source_lineation_verified_browser_highlight_qa_pending",
       "source": "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/2/",
-      "scope": "89 líneas Folger consecutivas, 24 bloques inspeccionados en data.js. 3312–3346: prosa de centinelas y Menenio; no interpretar las envolturas tipográficas como versos. 3348–3368: largo parlamento de Menenio en prosa; 3371–3382: respuesta de Coriolano en verso. Los bloques 3385–3400 vuelven a la prosa de los centinelas y Menenio. Pendiente cotejo externo de la fuente, revisión española y QA visual, móvil y resaltados. Texto, IDs y offsets sin cambios."
+      "scope": "89 líneas Folger V.2 (3312–3400) cotejadas contra el texto numerado de Folger: 3312–3368 y 3384–3400 son prosa, sin convertir los renglones editoriales en versos; 3371–3382 son 12 versos consecutivos; 3369–3370, 3383 y 3398 son intervenciones de una línea. Acotaciones 3347, 3352, 3356, 3359, 3379 y salida final son elementos escénicos, no versos. Discrepancia semántica detectada en la traducción de 3381–3382: «This man, Aufidius, / Was my beloved in Rome» se refiere a Menenio, con Aufidio como destinatario; corregir en revisión española posterior sin alterar offsets. QA navegador/móvil/resaltados pendiente."
     },
     {
       "id": "coriolanus-5-3-3401-3486",
