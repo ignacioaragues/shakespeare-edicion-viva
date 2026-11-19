@@ -3691,6 +3691,28 @@
       "status": "source_lineation_verified_browser_highlight_qa_pending",
       "source": "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/",
       "scope": "125 líneas Folger consecutivas (2936–3060), 51 bloques cotejados con la disposición Folger IV.6. Se preservan los cortes del diálogo en verso y los versos breves en cambios de hablante; las acotaciones incrustadas en 2945–2946 y 2958–2959 quedan señaladas para tratamiento visual independiente sin alterar texto ni offsets. Se detectan anclas no literales en 3035–3036 ('made good work') y 3061–3062 (fuera del tramo, sin revisar). Detenida la tanda antes de 3061 porque el bloque 3061–3062 contiene tres renglones tipográficos frente a dos líneas Folger; requiere corrección no destructiva. No se declara QA visual, móvil ni de resaltados."
+    },
+    {
+      "id": "coriolanus-4-6-3061-3136",
+      "act": 4,
+      "scene": 6,
+      "first_line": 3061,
+      "last_line": 3136,
+      "reviewed_on": "2026-11-19",
+      "status": "source_lineation_checked_layout_discrepancies_pending_browser_qa",
+      "source": "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/",
+      "scope": "76 líneas Folger, 27 bloques consecutivos. Cotejo de la segmentación original con Folger: 3061 es un solo verso ('As Hercules did shake down mellow fruit.') y 3062 otro ('You have made fair work.'), mientras data.js divide 3061 en dos renglones; no se modificó el texto ni offsets, queda corrección tipográfica pendiente. Se preservan cortes editoriales expresivos 3076/3077 ('him / even'), 3083/3084 ('fair / hands'), 3086/3087 ('have / brought') y 3100/3101 ('the / clusters'). 3116–3119 y 3128–3131 corresponden a prosa: no convertir a verso por el mero conteo de renglones. Anclas de nota que contienen barra o salto de línea requieren validación no destructiva. QA visual, móvil y resaltados pendiente."
+    },
+    {
+      "id": "coriolanus-4-7-3137-3197",
+      "act": 4,
+      "scene": 7,
+      "first_line": 3137,
+      "last_line": 3197,
+      "reviewed_on": "2026-11-19",
+      "status": "source_lineation_checked_layout_discrepancies_pending_browser_qa",
+      "source": "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/7/",
+      "scope": "61 líneas Folger, 8 parlamentos. Comprobada la disposición Folger de los versos de Aufidio y su teniente, con cortes intencionales 3181/3182 ('commanding / peace') y 3194/3195 ('do / fail'). El bloque 3166–3197 conserva 32 líneas Folger; quedan pendientes cotejo visual de correspondencia española y regresión de resaltados. Sin modificación de contenido ni IDs."
     }
   ]
 }
