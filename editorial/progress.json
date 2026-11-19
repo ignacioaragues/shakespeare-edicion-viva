@@ -3757,6 +3757,17 @@
       "status": "internal_lineation_audit_external_source_and_browser_qa_pending",
       "source": "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/",
       "scope": "86 líneas Folger consecutivas, 13 bloques inspeccionados en data.js. Comprobada continuidad de rangos, cambios de hablante y saltos de verso de Coriolano, Aufidio, Virgilia y Volumnia; el bloque 3446–3459 tiene 13 saltos internos para 14 líneas numeradas y requiere comprobar si la acotación explica la diferencia. Pendientes cotejo Folger externo, disposición española, QA visual y resaltados. No se alteraron datos ni interfaz."
+    },
+    {
+      "id": "coriolanus-5-3-3487-3634",
+      "act": 5,
+      "scene": 3,
+      "first_line": 3487,
+      "last_line": 3634,
+      "reviewed_on": "2026-11-19",
+      "status": "internal_lineation_audit_external_source_and_browser_qa_pending",
+      "source": "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/",
+      "scope": "148 líneas consecutivas del final de V.3, 15 bloques inspeccionados en data.js. Conservados los cambios de hablante, especialmente 3544–3548 (Virgilia y el niño), el largo discurso de Volumnia 3552–3604 y la respuesta de Coriolano 3605–3616. Discrepancias tipográficas internas: 3506–3508 tiene dos renglones para tres líneas numeradas; 3509–3543 separa 'should' en un renglón aislado; 3552–3604 separa 'us' en un renglón aislado. Requieren cotejo con fuente Folger y reparación no destructiva. No se realizaron cambios EN/ES ni QA de navegador, móvil o resaltados."
     }
   ]
 }
