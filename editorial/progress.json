@@ -3680,6 +3680,17 @@
       "status": "source_lineation_verified_browser_highlight_qa_pending",
       "source": "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/",
       "scope": "110 líneas Folger 2826–2935, 38 parlamentos cotejados con Folger IV.5. Verso de Aufidio 2826–2839 (14 renglones) conservado, con cortes 2830/2831 (own / ways) y 2838/2839 (Most / welcome!) ya correctos; salida de Aufidio y Coriolano seguida por prosa de los criados 2840–2935, cuyos renglones Folger son envolturas editoriales y no versos métricos. 38/38 bloques conservan la correspondencia de rangos y renglones Folger. 67 notas examinadas; una ancla no literal 'set down ... thine own ways' en 2826–2839 pendiente de reparación no destructiva. Se conserva data.js, texto EN/ES, IDs, offsets, navegación. Pendiente QA visual de prosa, español, móvil y resaltados; no se declara aprobado."
+    },
+    {
+      "id": "coriolanus-4-6-2936-3060",
+      "act": 4,
+      "scene": 6,
+      "first_line": 2936,
+      "last_line": 3060,
+      "reviewed_on": "2026-11-19",
+      "status": "source_lineation_verified_browser_highlight_qa_pending",
+      "source": "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/6/",
+      "scope": "125 líneas Folger consecutivas (2936–3060), 51 bloques cotejados con la disposición Folger IV.6. Se preservan los cortes del diálogo en verso y los versos breves en cambios de hablante; las acotaciones incrustadas en 2945–2946 y 2958–2959 quedan señaladas para tratamiento visual independiente sin alterar texto ni offsets. Se detectan anclas no literales en 3035–3036 ('made good work') y 3061–3062 (fuera del tramo, sin revisar). Detenida la tanda antes de 3061 porque el bloque 3061–3062 contiene tres renglones tipográficos frente a dos líneas Folger; requiere corrección no destructiva. No se declara QA visual, móvil ni de resaltados."
     }
   ]
 }
