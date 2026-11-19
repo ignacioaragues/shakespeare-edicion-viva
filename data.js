@@ -291,16 +291,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "What authority surfeits on",
               "type": "Nota filológica",
               "gloss": "aquello de lo que se atiborran los poderosos",
-              "body": "Relativa libre que funciona como sujeto de «would relieve us»; «authority» se entiende colectivamente como quienes detentan el poder. Referencias: Folger Digital Texts, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/",
-              "lemma": "surfeit",
-              "lemmaUrl": "https://en.wiktionary.org/wiki/surfeit"
-            },
-            {
-              "term": "surfeits on",
-              "title": "surfeits on",
-              "type": "Nota filológica",
-              "gloss": "se atiborran de",
-              "body": "El First Folio (1623) presenta «surfets one»; Folger imprime «surfeits on». La diferencia exige distinguir la lectura transmitida de la regularización editorial, sin tratarla como un cambio seguro de sentido. Referencias: Folger Digital Texts, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; First Folio (1623), transcripción, https://www.vellumandveil.com/shakespeare/shakespeare-first-folio/the-tragedie-of-coriolanus",
+              "body": "Relativa libre que funciona como sujeto de «would relieve us»; «authority» se entiende colectivamente como quienes detentan el poder. Referencias: Folger Digital Texts, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/\n\nMatiz complementario (surfeits on): se atiborran de. Nota complementaria: El First Folio (1623) presenta «surfets one»; Folger imprime «surfeits on». La diferencia exige distinguir la lectura transmitida de la regularización editorial, sin tratarla como un cambio seguro de sentido. Referencias: Folger Digital Texts, Coriolanus I.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; First Folio (1623), transcripción, https://www.vellumandveil.com/shakespeare/shakespeare-first-folio/the-tragedie-of-coriolanus",
               "lemma": "surfeit",
               "lemmaUrl": "https://en.wiktionary.org/wiki/surfeit"
             }
@@ -1989,12 +1980,6 @@ window.SHAKESPEARE_READER_DATA = {
           "es": "Cinco tribunos elegidos por ellos mismos para defender la sabiduría de la plebe. Uno es Junio Bruto; otro, Sicinio Veluto, y no sé quiénes más. ¡Por la muerte de Dios! Antes habría tenido que arrancar los tejados de la ciudad esa chusma que conseguir semejante cosa de mí. Con el tiempo, esto le irá ganando terreno al poder y dará nuevos motivos para justificar la insurrección.",
           "notes": [
             {
-              "term": "tribunes",
-              "type": "Instituciones romanas",
-              "title": "Los tribunos de la plebe",
-              "body": "Magistrados encargados de representar y proteger a los plebeyos. La concesión es un acontecimiento de la trama y no debe confundirse sin más con la cronología histórica exacta de la institución."
-            },
-            {
               "term": "vulgar wisdoms",
               "type": "Nota filológica",
               "title": "vulgar wisdoms",
@@ -2035,7 +2020,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "Five tribunes",
               "type": "Nota filológica",
               "gloss": "cinco tribunos",
-              "body": "Los tribunos representan a la plebe. La cifra pertenece a la narración dramática; no presupone una correspondencia exacta con la cronología institucional romana. Fuente: Folger Shakespeare Library, Coriolanus I.1.236–245, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; Shakespeare Online, I.1, https://www.shakespeare-online.com/plays/corio_1_1.html.",
+              "body": "Los tribunos representan a la plebe. La cifra pertenece a la narración dramática; no presupone una correspondencia exacta con la cronología institucional romana. Fuente: Folger Shakespeare Library, Coriolanus I.1.236–245, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/1/; Shakespeare Online, I.1, https://www.shakespeare-online.com/plays/corio_1_1.html.\n\nNota complementaria: Magistrados encargados de representar y proteger a los plebeyos. La concesión es un acontecimiento de la trama y no debe confundirse sin más con la cronología histórica exacta de la institución.",
               "lemma": "tribune",
               "lemmaUrl": "https://en.wiktionary.org/wiki/tribune"
             },
@@ -5314,17 +5299,10 @@ window.SHAKESPEARE_READER_DATA = {
           "es": "Un pastor no distingue el trueno de un tambor mejor de lo que yo distingo la voz de Marcio de la de cualquier hombre inferior a él.",
           "notes": [
             {
-              "term": "tabor",
-              "type": "Léxico musical",
-              "title": "Tambor pequeño",
-              "body": "Tabor es un tambor usado, entre otros contextos, en música popular; contrasta con el trueno por su sonido. Fuente textual: Folger Shakespeare Library, Coriolanus I.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/6/.",
-              "gloss": "tamboril"
-            },
-            {
               "term": "knows not thunder from a tabor",
               "type": "Retórica",
               "title": "Comparación de reconocimiento",
-              "body": "Cominio afirma que reconoce la voz de Marcio de inmediato; la comparación exagerada sirve para subrayar su familiaridad. Fuente textual: Folger Shakespeare Library, Coriolanus I.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/6/.",
+              "body": "Cominio afirma que reconoce la voz de Marcio de inmediato; la comparación exagerada sirve para subrayar su familiaridad. Fuente textual: Folger Shakespeare Library, Coriolanus I.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/6/.\n\nMatiz complementario (Tambor pequeño): tamboril. Nota complementaria: Tabor es un tambor usado, entre otros contextos, en música popular; contrasta con el trueno por su sonido. Fuente textual: Folger Shakespeare Library, Coriolanus I.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/1/6/.",
               "gloss": "distingue el trueno del tamboril"
             },
             {
@@ -17193,16 +17171,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "my ordinance",
               "type": "Nota filológica",
               "gloss": "mi categoría / autoridad",
-              "body": "En contexto apunta al rango o disposición de mando del hablante, no a una «ordenanza» municipal moderna; se mantiene una equivalencia interpretativa. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; MIT Shakespeare, Coriolanus III.2, https://shakespeare.mit.edu/coriolanus/coriolanus.3.2.html.",
-              "lemma": "ordinance",
-              "lemmaUrl": "https://en.wiktionary.org/wiki/ordinance"
-            },
-            {
-              "term": "ordinance",
-              "title": "ordinance",
-              "type": "Nota filológica",
-              "gloss": "rango; categoría social",
-              "body": "«One but of my ordinance» alude a alguien de su orden social, no a una ordenanza jurídica; Brooke lo glosa como «rank». Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; C. F. Tucker Brooke (ed.), Coriolanus, Yale, 1924, acto III, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III.",
+              "body": "En contexto apunta al rango o disposición de mando del hablante, no a una «ordenanza» municipal moderna; se mantiene una equivalencia interpretativa. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; MIT Shakespeare, Coriolanus III.2, https://shakespeare.mit.edu/coriolanus/coriolanus.3.2.html.\n\nMatiz complementario (ordinance): rango; categoría social. Nota complementaria: «One but of my ordinance» alude a alguien de su orden social, no a una ordenanza jurídica; Brooke lo glosa como «rank». Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; C. F. Tucker Brooke (ed.), Coriolanus, Yale, 1924, acto III, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III.",
               "lemma": "ordinance",
               "lemmaUrl": "https://en.wiktionary.org/wiki/ordinance"
             }
@@ -17215,20 +17184,11 @@ window.SHAKESPEARE_READER_DATA = {
           "es": "Precisamente hablaba de ti.\n¿Por qué querías que fuera más moderado? ¿Pretendes\nque traicione mi naturaleza? Mejor di que interpreto\nal hombre que soy.",
           "notes": [
             {
-              "term": "The man I am",
-              "title": "play / The man I am",
-              "type": "Nota filológica",
-              "gloss": "interpretar al hombre que soy",
-              "body": "Paradoja teatral: Coriolano rechaza fingir moderación, pero formula su autenticidad mediante el verbo «play», que también significa representar un papel. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; MIT Shakespeare, Coriolanus III.2, https://shakespeare.mit.edu/coriolanus/coriolanus.3.2.html.",
-              "lemma": "play",
-              "lemmaUrl": "https://en.wiktionary.org/wiki/play"
-            },
-            {
               "term": "play\nThe man I am",
               "title": "play\nThe man I am",
               "type": "Nota filológica",
               "gloss": "representar al hombre que soy",
-              "body": "Paradoja metateatral: Coriolano presenta su conducta como expresión auténtica de sí mismo, pero la formula mediante el verbo «play». Es una lectura retórica, no una variante textual. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; C. F. Tucker Brooke (ed.), Coriolanus, Yale, 1924, acto III, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III.",
+              "body": "Paradoja metateatral: Coriolano presenta su conducta como expresión auténtica de sí mismo, pero la formula mediante el verbo «play». Es una lectura retórica, no una variante textual. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; C. F. Tucker Brooke (ed.), Coriolanus, Yale, 1924, acto III, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_III.\n\nMatiz complementario (play / The man I am): interpretar al hombre que soy. Nota complementaria: Paradoja teatral: Coriolano rechaza fingir moderación, pero formula su autenticidad mediante el verbo «play», que también significa representar un papel. Fuentes: Folger Shakespeare Library, Coriolanus III.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/2/; MIT Shakespeare, Coriolanus III.2, https://shakespeare.mit.edu/coriolanus/coriolanus.3.2.html.",
               "lemma": "play",
               "lemmaUrl": "https://en.wiktionary.org/wiki/play"
             }
@@ -27866,16 +27826,9 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "interpretation of full time",
               "type": "Nota filológica",
               "gloss": "lo que el paso del tiempo revelará",
-              "body": "La metáfora convierte el crecimiento en interpretación: solo la madurez permitirá desplegar el significado del hijo como imagen paterna. Es una lectura contextual de la sintaxis, no una variante textual. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo: MIT Shakespeare, Coriolanus, V.3, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.",
+              "body": "La metáfora convierte el crecimiento en interpretación: solo la madurez permitirá desplegar el significado del hijo como imagen paterna. Es una lectura contextual de la sintaxis, no una variante textual. Fuentes: Barbara Mowat y Paul Werstine (eds.), Coriolanus, V.3, Folger Shakespeare Library (2015), https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/; cotejo: MIT Shakespeare, Coriolanus, V.3, https://shakespeare.mit.edu/coriolanus/coriolanus.5.3.html.\n\nMatiz complementario (full time): madurez; tiempo cumplido. Nota complementaria: La semejanza entre padre e hijo se desplegará con el paso de los años. Folger: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/. Brooke (1924): https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V.",
               "lemma": "interpretation",
               "lemmaUrl": "https://en.wiktionary.org/wiki/interpretation"
-            },
-            {
-              "term": "full time",
-              "title": "full time",
-              "type": "Nota filológica",
-              "gloss": "madurez; tiempo cumplido",
-              "body": "La semejanza entre padre e hijo se desplegará con el paso de los años. Folger: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/. Brooke (1924): https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V."
             }
           ]
         },
@@ -28392,13 +28345,6 @@ window.SHAKESPEARE_READER_DATA = {
               "body": "La obligación filial es la base del reproche de Volumnia: el hijo no le concede la deferencia que ella reclama. Fuentes: Folger Shakespeare Library, Coriolanus V.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/); C. F. Tucker Brooke, Yale 1924, V.3 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V)."
             },
             {
-              "term": "i’ th’ stocks",
-              "title": "i’ th’ stocks",
-              "type": "Nota filológica",
-              "gloss": "expuesta al cepo",
-              "body": "El instrumento de castigo público funciona como imagen de la humillación de hablar sin ser escuchada. Fuentes: Folger Shakespeare Library, Coriolanus V.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/); C. F. Tucker Brooke, Yale 1924, V.3 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V)."
-            },
-            {
               "term": "poor hen",
               "title": "poor hen",
               "type": "Nota filológica",
@@ -28474,7 +28420,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "one i’ th’ stocks",
               "type": "Nota filológica",
               "gloss": "una persona en el cepo",
-              "body": "El símil presenta a la madre ignorada como alguien públicamente castigado y expuesto. Fuentes: Folger Shakespeare Library, Coriolanus V.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/); C. F. Tucker Brooke, Yale 1924, V.3 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V)."
+              "body": "El símil presenta a la madre ignorada como alguien públicamente castigado y expuesto. Fuentes: Folger Shakespeare Library, Coriolanus V.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/); C. F. Tucker Brooke, Yale 1924, V.3 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V).\n\nMatiz complementario (i’ th’ stocks): expuesta al cepo. Nota complementaria: El instrumento de castigo público funciona como imagen de la humillación de hablar sin ser escuchada. Fuentes: Folger Shakespeare Library, Coriolanus V.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/); C. F. Tucker Brooke, Yale 1924, V.3 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V)."
             },
             {
               "term": "surname Coriolanus",
@@ -30036,15 +29982,6 @@ window.SHAKESPEARE_READER_DATA = {
               "body": "Los señores consideran que la capitulación de Roma era el verdadero objetivo y que pactar antes fue una renuncia. Fuentes: Folger, Coriolanus V.6 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/); C. F. Tucker Brooke, Yale 1924, acto V (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V)."
             },
             {
-              "term": "levies",
-              "title": "levies",
-              "type": "Nota filológica",
-              "gloss": "tropas reclutadas; levas",
-              "body": "Aquí alude a los recursos humanos movilizados para la guerra, no a impuestos en abstracto. Fuentes: Folger Digital Texts, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; cotejo textual: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.6.html.",
-              "lemma": "levy",
-              "lemmaUrl": "https://en.wiktionary.org/wiki/levy"
-            },
-            {
               "term": "our own charge",
               "title": "our own charge",
               "type": "Nota filológica",
@@ -30065,7 +30002,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "benefit of our levies",
               "type": "Nota filológica",
               "gloss": "fruto de las tropas movilizadas",
-              "body": "Los señores consideran desperdiciado el resultado de la movilización, aunque Coriolano ha conseguido botín y tratado. Fuentes: Folger, Coriolanus V.6 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/); C. F. Tucker Brooke, Yale 1924, acto V (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V)."
+              "body": "Los señores consideran desperdiciado el resultado de la movilización, aunque Coriolano ha conseguido botín y tratado. Fuentes: Folger, Coriolanus V.6 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/); C. F. Tucker Brooke, Yale 1924, acto V (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V).\n\nMatiz complementario (levies): tropas reclutadas; levas. Nota complementaria: Aquí alude a los recursos humanos movilizados para la guerra, no a impuestos en abstracto. Fuentes: Folger Digital Texts, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; cotejo textual: MIT Shakespeare, https://shakespeare.mit.edu/coriolanus/coriolanus.5.6.html."
             }
           ]
         },
@@ -30095,7 +30032,7 @@ window.SHAKESPEARE_READER_DATA = {
               "title": "infected with my country’s love",
               "type": "Nota filológica",
               "gloss": "contagiado de amor por mi patria",
-              "body": "La metáfora de enfermedad presenta el afecto patriótico como una posible contaminación de la lealtad militar. Coriolano niega que haya aumentado, pese a su decisión de salvar Roma. Fuentes: Folger, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; lema: https://en.wiktionary.org/wiki/infect.",
+              "body": "La metáfora de enfermedad presenta el afecto patriótico como una posible contaminación de la lealtad militar. Coriolano niega que haya aumentado, pese a su decisión de salvar Roma. Fuentes: Folger, Coriolanus V.6, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/; lema: https://en.wiktionary.org/wiki/infect.\n\nMatiz complementario (No more infected): no más contagiado. Nota complementaria: La metáfora de enfermedad presenta el patriotismo romano como infección de la que Coriolano asegura estar libre. Fuentes: Folger, Coriolanus V.6 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/); C. F. Tucker Brooke, Yale 1924, acto V (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V).",
               "lemma": "infect",
               "lemmaUrl": "https://en.wiktionary.org/wiki/infect"
             },
@@ -30148,13 +30085,6 @@ window.SHAKESPEARE_READER_DATA = {
               "type": "Nota de contexto",
               "gloss": "firmado por los cónsules",
               "body": "«Subscribed» remite a la suscripción documental, reforzada por el sello del Senado. Fuentes: Folger, Coriolanus V.6 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/); C. F. Tucker Brooke, Yale 1924, acto V (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V)."
-            },
-            {
-              "term": "No more infected",
-              "title": "No more infected",
-              "type": "Nota filológica",
-              "gloss": "no más contagiado",
-              "body": "La metáfora de enfermedad presenta el patriotismo romano como infección de la que Coriolano asegura estar libre. Fuentes: Folger, Coriolanus V.6 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/); C. F. Tucker Brooke, Yale 1924, acto V (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V)."
             }
           ]
         },

@@ -3815,7 +3815,7 @@
     }
   ],
   "final_qa": {
-    "status": "blocked_pending_browser_regression_and_annotation_repairs",
+    "status": "blocked_pending_browser_regression",
     "checked_on": "2026-11-19",
     "editorial_review_ranges": {
       "count": 91,
@@ -3834,7 +3834,11 @@
       "corrected_in_prior_commit": 9,
       "corrected_in_this_commit": 49,
       "remaining_unmatched_note_terms": 0,
-      "method": "Case-insensitive literal anchor presence in English speech; exact line breaks preserved; discontinuous phrases anchored to attested component"
+      "method": "Literal case-insensitive term matching plus nonoverlapping first-match intervals, consistent with app.js notesForBlock; nested note explanations retained in parent popup body",
+      "overlapping_anchors_before": 9,
+      "overlapping_anchors_after": 0,
+      "merged_duplicate_note_pairs": 9,
+      "notes_after_merge": 2565
     },
     "scene_audit": {
       "scenes": 29,
@@ -3843,9 +3847,9 @@
       "notable_prose_overlap": "Act I scene 1 has shared Folger line references at 16, 18 and 21 between adjacent prose blocks; do not treat as missing lines"
     },
     "blocking_checks": [
-      "Real browser highlight and note popup regression not run",
-      "Mobile layout, navigation and Pages publication not visually verified"
+      "Browser note popover and private highlight regression not executed",
+      "Mobile navigation, visual lineation, and GitHub Pages deployment not verified"
     ],
-    "note": "All note terms now match a substring of their English speech blocks, case-insensitively; static check only."
+    "note": "Nine overlapping note anchors merged into the larger matching note's popup body; no reading text, IDs, offsets, or app.js changed. Browser QA pending."
   }
 }
