@@ -3636,6 +3636,28 @@
       "status": "source_lineation_verified_browser_highlight_qa_pending",
       "source": "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/2/",
       "scope": "73 líneas Folger de IV.2 cotejadas contra la disposición pública de Folger, 31 bloques; restaurado el corte 2587/2588 entre feeding. / Come, let’s go. sin cambiar caracteres, IDs ni offsets. Conservados versos breves 2539 (you be gone), 2578 (you) y 2585 (me?), cambios de interlocutor y acotaciones independientes. 56 notas examinadas; cuatro anclas no literales pendientes de reparación no destructiva: 2519–2521 (in his behalf / In his behalf), 2548–2552 (I would my son / Were), 2559–2561 (unknit himself / The noble knot), 2563–2566 (as fitly ... As I can). QA visual español, móvil y resaltados pendiente."
+    },
+    {
+      "id": "coriolanus-4-3-2592-2644",
+      "act": 4,
+      "scene": 3,
+      "first_line": 2592,
+      "last_line": 2644,
+      "reviewed_on": "2026-11-19",
+      "status": "source_lineation_verified_browser_highlight_qa_pending",
+      "source": "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/3/",
+      "scope": "53 líneas Folger, 19 parlamentos, 33 notas examinadas. Folger IV.3 presenta diálogo en prosa; los saltos visibles en el HTML de Folger son envolturas editoriales, no versos métricos. data.js conserva saltos de origen en campos en; no se alteraron IDs, offsets ni textos. Pendiente comprobar que el lector no fuerce saltos de prosa en pantalla. Cuatro anclas no literales: 2599–2603 (a note from the Volscian state), 2607–2610 (in the heat of their division), 2611–2617 (receive so to heart), 2635–2637 (their charges). QA móvil, español y resaltados pendiente."
+    },
+    {
+      "id": "coriolanus-4-4-2645-2676",
+      "act": 4,
+      "scene": 4,
+      "first_line": 2645,
+      "last_line": 2676,
+      "reviewed_on": "2026-11-19",
+      "status": "source_lineation_verified_browser_highlight_qa_pending",
+      "source": "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/4/",
+      "scope": "32 líneas Folger, 9 bloques, 21 notas examinadas. Cotejados versos y parlamentos: verso breve 2658 (you?), encabalgamiento 2668/2669 (their / sleep), monólogo final 2661–2676 y acotaciones independientes. Los cortes ingleses coinciden con Folger, sin cambios en data.js. Dos anclas no literales por salto interno: 2657–2658 (beseech you) y 2661–2676 (have broke their sleep). QA visual español, móvil y resaltados pendiente."
     }
   ]
 }
