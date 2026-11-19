@@ -28247,14 +28247,14 @@ window.SHAKESPEARE_READER_DATA = {
               "body": "La apariencia corporal revela el deterioro sufrido en la ausencia de Coriolano; la formulación une evidencia visible y sufrimiento emocional. Fuentes: Folger Shakespeare Library, Coriolanus V.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/); C. F. Tucker Brooke, ed. Yale 1924, acto V (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V)."
             },
             {
-              "term": "our prayers to the gods",
+              "term": "Our prayers to the gods",
               "title": "our prayers to the gods",
               "type": "Nota filológica",
               "gloss": "nuestras plegarias a los dioses",
               "body": "La paradoja central: rezar por Roma implica desear la derrota del hijo, y rezar por el hijo implica desear la ruina de Roma. Fuentes: Folger Shakespeare Library, Coriolanus V.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/); C. F. Tucker Brooke, ed. Yale 1924, acto V (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_V)."
             },
             {
-              "term": "an evident calamity",
+              "term": "An evident calamity",
               "title": "an evident calamity",
               "type": "Nota filológica",
               "gloss": "una desgracia inevitable y manifiesta",
@@ -28670,7 +28670,7 @@ window.SHAKESPEARE_READER_DATA = {
               "lemmaUrl": "https://en.wiktionary.org/wiki/by_and_by"
             },
             {
-              "term": "a better witness back than words",
+              "term": "A better witness back than words",
               "title": "a better witness back than words",
               "type": "Nota filológica",
               "gloss": "garantía más firme que palabras",

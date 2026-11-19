@@ -3765,9 +3765,9 @@
       "first_line": 3487,
       "last_line": 3634,
       "reviewed_on": "2026-11-19",
-      "status": "internal_lineation_audit_external_source_and_browser_qa_pending",
+      "status": "source_lineation_checked_browser_highlight_qa_pending",
       "source": "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/",
-      "scope": "148 líneas consecutivas del final de V.3, 15 bloques inspeccionados en data.js. Conservados los cambios de hablante, especialmente 3544–3548 (Virgilia y el niño), el largo discurso de Volumnia 3552–3604 y la respuesta de Coriolano 3605–3616. Discrepancias tipográficas internas: 3506–3508 tiene dos renglones para tres líneas numeradas; 3509–3543 separa 'should' en un renglón aislado; 3552–3604 separa 'us' en un renglón aislado. Requieren cotejo con fuente Folger y reparación no destructiva. No se realizaron cambios EN/ES ni QA de navegador, móvil o resaltados."
+      "scope": "148 líneas Folger (3487–3634), 15 bloques de V.3 cotejados con el texto público Folger. Conservados los versos de una sola palabra 3514 'should', 3516 'comforts', 3518 'sorrow' y 3556 'us' tal como aparecen en la fuente. 3506–3508 mantiene 'Your' al final de 3507 y 'request?' en 3508; no modificar por simple recuento. Reparadas tres anclas de notas por coincidencia de mayúsculas (3523, 3530, 3628–3629). Acotaciones escénicas y traducción requieren QA visual; texto EN/ES y offsets intactos."
     },
     {
       "id": "coriolanus-5-4-3635-3702",
