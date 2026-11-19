@@ -8972,13 +8972,13 @@ window.SHAKESPEARE_READER_DATA = {
               "lemmaUrl": "https://en.wiktionary.org/wiki/rather"
             },
             {
-              "term": "servant ... sway",
+              "term": "servant",
               "type": "Antítesis política",
               "title": "Servicio y gobierno",
               "body": "La contraposición entre servir y ejercer autoridad no es simple modestia: Coriolano rechaza ejercer el poder según las condiciones de otros."
             },
             {
-              "term": "in my way ... in theirs",
+              "term": "in my way",
               "type": "Retórica",
               "title": "Dos maneras de actuar",
               "body": "El paralelismo opone la autonomía del soldado a las exigencias de la vida política; «theirs» refiere a quienes condicionan el ejercicio del poder."
@@ -12602,7 +12602,7 @@ window.SHAKESPEARE_READER_DATA = {
           "es": "Dijo que tenía heridas que podía mostrarnos\nen privado;\ny, agitando así el sombrero con desprecio,\n«Quisiera ser cónsul», dijo. «La antigua costumbre,\nsin embargo, no me lo permite sin sus votos;\npor tanto, sus votos». Cuando se los concedimos,\nsiguió: «Les agradezco sus votos. Gracias.\n¡Sus dulcísimos votos! Ahora que han dejado aquí\nsus votos,\nya no tengo nada más que tratar con ustedes». ¿No era esto una burla?",
           "notes": [
             {
-              "term": "in private",
+              "term": "in\nprivate",
               "type": "Nota filológica",
               "title": "in private",
               "gloss": "en privado",
@@ -12632,7 +12632,7 @@ window.SHAKESPEARE_READER_DATA = {
               "body": "«Voices» significa aquí sufragios; la repetición imita la insistencia interesada atribuida a Coriolano. Fuentes: Folger, Coriolanus II.3, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/; cotejo Shakespeare Online, https://www.shakespeare-online.com/plays/corio_2_3.html."
             },
             {
-              "term": "left your voices",
+              "term": "left your\nvoices",
               "type": "Nota filológica",
               "title": "left your voices",
               "gloss": "han dejado aquí sus votos",
@@ -13121,7 +13121,7 @@ window.SHAKESPEARE_READER_DATA = {
           "es": "Échennos la culpa a nosotros, sus tribunos: digan que insistimos,\nsin permitir que nada se interpusiera, en que ustedes\ndebían darle sus votos.",
           "notes": [
             {
-              "term": "Lay a fault on us",
+              "term": "Lay\nA fault on us",
               "title": "Lay a fault on us",
               "type": "Nota retórica",
               "gloss": "échenos la culpa",
@@ -14272,7 +14272,7 @@ window.SHAKESPEARE_READER_DATA = {
               "lemmaUrl": "https://en.wiktionary.org/wiki/stir"
             },
             {
-              "term": "inquire your way",
+              "term": "inquire your\nway",
               "title": "inquire your way",
               "type": "Nota filológica",
               "gloss": "buscar el camino",
@@ -14483,7 +14483,7 @@ window.SHAKESPEARE_READER_DATA = {
               "lemmaUrl": "https://en.wiktionary.org/wiki/cockle"
             },
             {
-              "term": "plowed for, sowed, and scattered",
+              "term": "plowed for, sowed, and\nscattered",
               "title": "plowed for, sowed, and scattered",
               "type": "Nota filológica",
               "gloss": "preparado la tierra, sembrado y esparcido",
@@ -14585,7 +14585,7 @@ window.SHAKESPEARE_READER_DATA = {
               "lemmaUrl": "https://en.wiktionary.org/wiki/tetter"
             },
             {
-              "term": "sought / The very way to catch them",
+              "term": "The very way to catch them",
               "title": "sought / The very way to catch them",
               "type": "Nota filológica",
               "gloss": "buscamos el modo de contagiarnos",
@@ -14793,7 +14793,7 @@ window.SHAKESPEARE_READER_DATA = {
               "body": "La Hidra mitológica funciona como imagen despectiva de la multitud política. No se debe tomar como una descripción neutral del pueblo. Fuentes: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, Coriolanus III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html."
             },
             {
-              "term": "peremptory “shall”",
+              "term": "peremptory",
               "title": "peremptory “shall”",
               "type": "Nota filológica",
               "gloss": "«deberá» terminante",
@@ -14841,7 +14841,7 @@ window.SHAKESPEARE_READER_DATA = {
               "body": "Los cojines simbolizan aquí la dignidad y el asiento institucional: la invitación es sarcástica, pues igualaría a los tribunos con los senadores. Fuentes: Folger Shakespeare Library, Coriolanus III.1, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/3/1/; MIT Shakespeare, Coriolanus III.1, https://shakespeare.mit.edu/coriolanus/coriolanus.3.1.html."
             },
             {
-              "term": "the great’st taste / Most palates theirs",
+              "term": "Most palates theirs",
               "title": "the great’st taste / Most palates theirs",
               "type": "Nota filológica",
               "gloss": "predomina el gusto de ellos",
@@ -16220,7 +16220,7 @@ window.SHAKESPEARE_READER_DATA = {
               "lemmaUrl": "https://en.wiktionary.org/wiki/Neptune"
             },
             {
-              "term": "His heart’s his mouth",
+              "term": "His heart’s his\nmouth",
               "title": "His heart’s his mouth",
               "type": "Nota filológica",
               "gloss": "dice lo que siente",
@@ -16464,7 +16464,7 @@ window.SHAKESPEARE_READER_DATA = {
           "es": "Déjeme hablar.\nAsí como conozco los méritos del cónsul,\ntambién puedo señalar sus defectos.",
           "notes": [
             {
-              "term": "As I do know ... So can I",
+              "term": "As I do know",
               "title": "As I do know ... So can I",
               "type": "Nota filológica",
               "gloss": "así como sé… también puedo…",
@@ -16606,7 +16606,7 @@ window.SHAKESPEARE_READER_DATA = {
           "es": "¡Que los buenos dioses impidan\nque nuestra célebre Roma, cuya gratitud\nhacia sus hijos beneméritos está inscrita\nen el propio libro de Júpiter, devore ahora\na uno de los suyos como una madre desnaturalizada!",
           "notes": [
             {
-              "term": "enrolled / In Jove’s own book",
+              "term": "In Jove’s own book",
               "title": "enrolled / In Jove’s own book",
               "type": "Nota filológica",
               "gloss": "inscrita en el libro del propio Júpiter",
@@ -16936,7 +16936,7 @@ window.SHAKESPEARE_READER_DATA = {
           "es": "Nobles tribunos,\nese es el camino humano; la otra opción\nresultará demasiado sangrienta, y nadie puede saber,\nal iniciarla, cómo terminará.",
           "notes": [
             {
-              "term": "the end of it / Unknown to the beginning",
+              "term": "Unknown to the beginning",
               "title": "the end of it / Unknown to the beginning",
               "type": "Nota filológica",
               "gloss": "un desenlace imprevisible al comienzo",
@@ -17215,7 +17215,7 @@ window.SHAKESPEARE_READER_DATA = {
           "es": "Precisamente hablaba de ti.\n¿Por qué querías que fuera más moderado? ¿Pretendes\nque traicione mi naturaleza? Mejor di que interpreto\nal hombre que soy.",
           "notes": [
             {
-              "term": "play / The man I am",
+              "term": "The man I am",
               "title": "play / The man I am",
               "type": "Nota filológica",
               "gloss": "interpretar al hombre que soy",
@@ -17574,7 +17574,7 @@ window.SHAKESPEARE_READER_DATA = {
           "es": "Si en la guerra es honorable aparentar\nlo que no eres, y para alcanzar tus mejores fines\nrecurres a la prudencia estratégica, ¿por qué habría de ser peor\nque esa prudencia acompañe al honor en la paz\nigual que en la guerra, si en ambas situaciones\nes igualmente necesaria?",
           "notes": [
             {
-              "term": "to seem / The same you are not",
+              "term": "The same you are not",
               "title": "to seem / The same you are not",
               "type": "Nota filológica",
               "gloss": "aparentar lo que no eres",
@@ -17818,7 +17818,7 @@ window.SHAKESPEARE_READER_DATA = {
               "lemmaUrl": "https://en.wiktionary.org/wiki/broil"
             },
             {
-              "term": "frame / Thyself",
+              "term": "Thyself",
               "title": "frame / Thyself",
               "type": "Nota filológica",
               "gloss": "adaptarte / acomodarte",
@@ -19235,7 +19235,7 @@ window.SHAKESPEARE_READER_DATA = {
           "es": "¡A la roca con él! ¡A la roca!",
           "notes": [
             {
-              "term": "the rock",
+              "term": "th’ rock",
               "title": "the rock",
               "type": "Nota filológica",
               "gloss": "la roca Tarpeya",
@@ -19470,7 +19470,7 @@ window.SHAKESPEARE_READER_DATA = {
               "lemmaUrl": "https://en.wiktionary.org/wiki/pluck"
             },
             {
-              "term": "ministers / That doth distribute it",
+              "term": "That doth distribute it",
               "title": "ministers / That doth distribute it",
               "type": "Nota filológica",
               "gloss": "los funcionarios que administran justicia",
@@ -19935,7 +19935,7 @@ window.SHAKESPEARE_READER_DATA = {
               "lemmaUrl": "https://en.wiktionary.org/wiki/mastership"
             },
             {
-              "term": "being gentle wounded craves",
+              "term": "being gentle wounded\ncraves",
               "title": "being gentle wounded craves",
               "type": "Nota filológica",
               "gloss": "estar sereno cuando se recibe una herida exige",
@@ -20070,7 +20070,7 @@ window.SHAKESPEARE_READER_DATA = {
               "lemmaUrl": "https://en.wiktionary.org/wiki/salt"
             },
             {
-              "term": "sometime general",
+              "term": "sometime\ngeneral",
               "title": "sometime general",
               "type": "Nota filológica",
               "gloss": "antiguo general",
@@ -20714,7 +20714,7 @@ window.SHAKESPEARE_READER_DATA = {
               "body": "Comparación elíptica: se sobreentiende «hast spoken» tras «thou». Cotejo: Folger, Coriolanus IV.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/2/); First Folio, IV.2 (https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_4_Scene_2)."
             },
             {
-              "term": "I would my son / Were",
+              "term": "I would my son",
               "title": "I would my son / Were",
               "type": "Nota filológica",
               "gloss": "ojalá mi hijo estuviera",
@@ -20809,7 +20809,7 @@ window.SHAKESPEARE_READER_DATA = {
               "body": "«Continue to» indica aquí perseverancia en una relación de servicio o lealtad, no mero desplazamiento físico. Fuentes: Folger Shakespeare Library, Coriolanus IV.2 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/2/); First Folio, IV.2, transcripción diplomática (https://en.wikisource.org/wiki/Shakespeare_-_First_Folio_facsimile_(1910)/The_Tragedy_of_Coriolanus/Act_4_Scene_2)."
             },
             {
-              "term": "unknit himself / The noble knot",
+              "term": "unknit himself",
               "title": "unknit himself / The noble knot",
               "type": "Nota filológica",
               "gloss": "desatar el noble vínculo que él mismo había formado",
@@ -20856,7 +20856,7 @@ window.SHAKESPEARE_READER_DATA = {
               "body": "Volumnia degrada a los tribunos comparándolos con gatos incapaces de valorar la virtud de Coriolano. La comparación se prolonga en la imposibilidad de comprender misterios celestes. Folger, IV.2, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/2/; cotejo textual: C. F. Tucker Brooke (ed.), The Tragedy of Coriolanus (Yale, 1924), acto IV, https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV."
             },
             {
-              "term": "as fitly ... As I can",
+              "term": "as fitly",
               "title": "as fitly ... As I can",
               "type": "Nota filológica",
               "gloss": "tan acertadamente como yo podría",
@@ -21225,7 +21225,7 @@ window.SHAKESPEARE_READER_DATA = {
               "body": "Folger imprime «approved», mientras Brooke (1924), IV.3, v. 9, lee «appeared» y glosa «made to appear, manifested». La ficha distingue ambas lecturas sin tratarlas como equivalentes exactos. Folger: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/3/; Brooke: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV"
             },
             {
-              "term": "a note from the Volscian state",
+              "term": "a note from the\nVolscian state",
               "title": "a note from the Volscian state",
               "type": "Nota filológica",
               "gloss": "instrucciones del gobierno volsco",
@@ -21273,7 +21273,7 @@ window.SHAKESPEARE_READER_DATA = {
               "body": "«Come upon» expresa aquí irrupción militar contra un enemigo dividido. Cotejo: Folger Shakespeare Library, Coriolanus IV.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/3/); MIT Shakespeare, IV.3 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.3.html)."
             },
             {
-              "term": "in the heat of their division",
+              "term": "in the heat of their\ndivision",
               "title": "in the heat of their division",
               "type": "Nota filológica",
               "gloss": "en pleno ardor de sus divisiones",
@@ -21295,7 +21295,7 @@ window.SHAKESPEARE_READER_DATA = {
               "body": "Metáfora del conflicto civil: la revuelta visible ha disminuido, pero no se ha extinguido. Cotejo: Folger Shakespeare Library, Coriolanus IV.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/3/); MIT Shakespeare, IV.3 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.3.html)."
             },
             {
-              "term": "receive so to heart",
+              "term": "receive\nso to heart",
               "title": "receive so to heart",
               "type": "Nota filológica",
               "gloss": "tomarse tan a pecho",
@@ -21460,7 +21460,7 @@ window.SHAKESPEARE_READER_DATA = {
               "body": "Adjetivo encomiástico e intensificador; no afirma que los volscos estén gobernados por un rey. Fuentes: Folger Shakespeare Library, Coriolanus IV.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/3/); MIT Shakespeare, IV.3 (https://shakespeare.mit.edu/coriolanus/coriolanus.4.3.html)."
             },
             {
-              "term": "their charges",
+              "term": "their\ncharges",
               "title": "their charges",
               "type": "Nota filológica",
               "gloss": "las tropas a su cargo",
@@ -21681,7 +21681,7 @@ window.SHAKESPEARE_READER_DATA = {
           "es": "¿Cuál es su casa, se lo ruego?",
           "notes": [
             {
-              "term": "beseech you",
+              "term": "beseech\nyou",
               "title": "beseech you",
               "type": "Nota filológica",
               "gloss": "se lo ruego",
@@ -21771,7 +21771,7 @@ window.SHAKESPEARE_READER_DATA = {
               "lemmaUrl": "https://en.wiktionary.org/wiki/fell"
             },
             {
-              "term": "have broke their sleep",
+              "term": "have broke their\nsleep",
               "title": "have broke their sleep",
               "type": "Nota filológica",
               "gloss": "les han interrumpido el sueño",
@@ -21870,7 +21870,7 @@ window.SHAKESPEARE_READER_DATA = {
           "es": "¡Vino, vino, vino! ¿Qué clase de servicio\nes este? Creo que nuestros compañeros están dormidos.",
           "notes": [
             {
-              "term": "What service is here?",
+              "term": "What service is\nhere?",
               "title": "What service is here?",
               "type": "Nota filológica",
               "gloss": "¿qué clase de servicio es este?",
@@ -22681,7 +22681,7 @@ window.SHAKESPEARE_READER_DATA = {
           "es": "¡Oh, Marcio, Marcio!\nCada palabra que has pronunciado ha arrancado de mi corazón\nuna raíz de mi antiguo rencor. Si Júpiter\nhablara desde aquella nube con palabras divinas\ny afirmara que son ciertas, no le creería más\nque a ti, nobilísimo Marcio. Déjame rodear con mis brazos\nese cuerpo contra el que mi lanza de fresno endurecido\nse ha quebrado cien veces,\nsalpicando la luna con sus astillas.\nAhora abrazo el yunque de mi espada y rivalizo\ncon tu afecto con tanto ardor y nobleza\ncomo antes rivalizaba, con toda mi ambición y mi fuerza,\ncon tu valor. Has de saber primero\nque amé a la joven con quien me casé;\nningún hombre suspiró con mayor sinceridad.\nPero verte aquí, criatura noble,\nhace bailar mi corazón arrebatado\nmás que cuando vi por primera vez\na mi esposa cruzar el umbral de mi casa.\n¡Tú, que eres como Marte! Te digo que tenemos\nun ejército en marcha, y que me proponía\nvolver a arrancarte el escudo del brazo,\no perder el mío en el intento. Me has derrotado\nen doce ocasiones distintas, y desde entonces\nhe soñado cada noche con encuentros entre nosotros:\nen sueños hemos caído juntos al suelo,\nnos hemos quitado los cascos, nos hemos agarrado del cuello\ny he despertado medio muerto, sin haber conseguido nada.\nDigno Marcio, aunque no tuviéramos contra Roma\notro motivo de disputa que tu destierro,\nreuniríamos a todos nuestros hombres, de doce a setenta años,\ny derramaríamos la guerra en las entrañas\nde la ingrata Roma, hasta arrollarla como una crecida impetuosa.\nPero ven, entra y estrecha la mano\nde nuestros senadores amigos, que están aquí\ndespidiéndose de mí. Me disponía a atacar\nlos territorios de ustedes, aunque todavía no la propia Roma.",
           "notes": [
             {
-              "term": "weeded from my heart / root of ancient envy",
+              "term": "root of ancient envy",
               "title": "weeded from my heart / root of ancient envy",
               "type": "Nota filológica",
               "gloss": "arrancado de mi corazón una raíz de antiguo rencor",
@@ -22699,7 +22699,7 @@ window.SHAKESPEARE_READER_DATA = {
               "lemmaUrl": "https://en.wiktionary.org/wiki/ash"
             },
             {
-              "term": "Here I clip / The anvil of my sword",
+              "term": "The anvil of my sword",
               "title": "Here I clip / The anvil of my sword",
               "type": "Nota filológica",
               "gloss": "abrazo ahora el yunque contra el que golpeaba mi espada",
@@ -22708,7 +22708,7 @@ window.SHAKESPEARE_READER_DATA = {
               "lemmaUrl": "https://en.wiktionary.org/wiki/clip"
             },
             {
-              "term": "contest / Contend",
+              "term": "contest",
               "title": "contest / Contend",
               "type": "Nota filológica",
               "gloss": "rivalizo / rivalizaba",
@@ -22726,7 +22726,7 @@ window.SHAKESPEARE_READER_DATA = {
               "lemmaUrl": "https://en.wiktionary.org/wiki/bestride"
             },
             {
-              "term": "power on foot / target / brawn",
+              "term": "power on foot",
               "title": "power on foot / target / brawn",
               "type": "Nota filológica",
               "gloss": "ejército movilizado / escudo / brazo musculoso",
@@ -22735,7 +22735,7 @@ window.SHAKESPEARE_READER_DATA = {
               "lemmaUrl": "https://en.wiktionary.org/wiki/target"
             },
             {
-              "term": "Thou hast beat me out / Twelve several times",
+              "term": "Thou hast beat me out",
               "title": "Thou hast beat me out / Twelve several times",
               "type": "Nota filológica",
               "gloss": "me has vencido / doce veces distintas",
@@ -22751,7 +22751,7 @@ window.SHAKESPEARE_READER_DATA = {
               "body": "Aufidio promete movilizar a hombres de edades extremas: es una fórmula de amplitud militar y entusiasmo, no una norma documentada de reclutamiento volsco. Folger, IV.5: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/5/; Brooke, IV.5: https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_IV"
             },
             {
-              "term": "bowels of ungrateful Rome / bold flood",
+              "term": "bowels of ungrateful Rome",
               "title": "bowels of ungrateful Rome / bold flood",
               "type": "Nota filológica",
               "gloss": "entrañas de la ingrata Roma / crecida impetuosa",
@@ -22802,7 +22802,7 @@ window.SHAKESPEARE_READER_DATA = {
               "lemmaUrl": "https://en.wiktionary.org/wiki/commission"
             },
             {
-              "term": "set down ... thine own ways",
+              "term": "set down",
               "title": "set down ... thine own ways",
               "type": "Nota filológica",
               "gloss": "determina tu propia estrategia",
@@ -24493,7 +24493,7 @@ window.SHAKESPEARE_READER_DATA = {
           "es": "¡Ah, qué buena obra\nhan hecho ustedes!",
           "notes": [
             {
-              "term": "made good work",
+              "term": "made good\nwork",
               "title": "made good work",
               "type": "Nota filológica",
               "gloss": "¡menuda obra han hecho!",
@@ -24761,7 +24761,7 @@ window.SHAKESPEARE_READER_DATA = {
           "es": "Estamos todos perdidos, a menos que\nese noble hombre tenga piedad de nosotros.",
           "notes": [
             {
-              "term": "unless / The noble man have mercy",
+              "term": "The noble man have mercy",
               "title": "unless / The noble man have mercy",
               "type": "Nota filológica",
               "gloss": "a menos que ese noble hombre tenga piedad",
@@ -24778,7 +24778,7 @@ window.SHAKESPEARE_READER_DATA = {
           "es": "¿Y quién va a pedírsela?\nLos tribunos no pueden hacerlo, de pura vergüenza; el pueblo\nmerece de él tanta compasión como la que un lobo\nmerece de los pastores. En cuanto a sus mejores amigos, si\nle dijeran «Ten piedad de Roma», le estarían exigiendo\nlo mismo\nque quienes se han ganado su odio,\ny parecerían enemigos suyos.",
           "notes": [
             {
-              "term": "such pity of him as the wolf / Does of the shepherds",
+              "term": "such pity of him as the wolf",
               "title": "such pity of him as the wolf / Does of the shepherds",
               "type": "Nota filológica",
               "gloss": "tanta compasión como un lobo de los pastores",
@@ -24811,7 +24811,7 @@ window.SHAKESPEARE_READER_DATA = {
           "es": "Es verdad.\nAunque estuviera aplicando a mi casa la antorcha\nque habría de consumirla, no tendría el descaro\nde decirle «Te ruego que te detengas». ¡Menudo desastre\nhan provocado\nustedes con sus artimañas! ¡Qué bien han tramado todo!",
           "notes": [
             {
-              "term": "the brand / That should consume it",
+              "term": "That should consume it",
               "title": "the brand / That should consume it",
               "type": "Nota filológica",
               "gloss": "la antorcha que habría de consumirla",
@@ -24829,7 +24829,7 @@ window.SHAKESPEARE_READER_DATA = {
               "lemmaUrl": "https://en.wiktionary.org/wiki/face"
             },
             {
-              "term": "made fair / hands",
+              "term": "made fair",
               "title": "made fair / hands",
               "type": "Nota filológica",
               "gloss": "¡vaya buena obra han hecho! (irónico)",
@@ -24956,7 +24956,7 @@ window.SHAKESPEARE_READER_DATA = {
               "lemmaUrl": "https://en.wiktionary.org/wiki/cap"
             },
             {
-              "term": "not a hair upon a soldier’s head / Which will not prove a whip",
+              "term": "not a hair upon a soldier’s head",
               "title": "not a hair upon a soldier’s head / Which will not prove a whip",
               "type": "Nota filológica",
               "gloss": "hasta cada cabello de los soldados será un látigo",
@@ -25037,7 +25037,7 @@ window.SHAKESPEARE_READER_DATA = {
           "es": "Y yo también. Y, a decir verdad, lo mismo\nhicimos muchos de nosotros. Lo que hicimos fue con\nla mejor intención; y aunque aceptamos de buena gana\nsu destierro, fue contra nuestra voluntad.",
           "notes": [
             {
-              "term": "willingly ... against our will",
+              "term": "against our will",
               "title": "willingly ... against our will",
               "type": "Nota filológica",
               "gloss": "voluntariamente... contra nuestra voluntad",
@@ -25046,7 +25046,7 @@ window.SHAKESPEARE_READER_DATA = {
               "lemmaUrl": "https://en.wiktionary.org/wiki/will"
             },
             {
-              "term": "for the best",
+              "term": "for the\nbest",
               "title": "for the best",
               "type": "Nota filológica",
               "gloss": "con la mejor intención",
@@ -25192,7 +25192,7 @@ window.SHAKESPEARE_READER_DATA = {
           "es": "Vayamos al Capitolio. ¡Ojalá la mitad de mi fortuna\nbastara para demostrar que esto es mentira!",
           "notes": [
             {
-              "term": "Would half my wealth / Would buy this for a lie",
+              "term": "Would buy this for a lie",
               "title": "Would half my wealth / Would buy this for a lie",
               "type": "Nota filológica",
               "gloss": "ojalá pudiera dar la mitad de mis bienes para que fuera mentira",
@@ -25297,7 +25297,7 @@ window.SHAKESPEARE_READER_DATA = {
           "es": "Ahora no puedo remediarlo\nsin recurrir a medidas que dejarían cojo\nnuestro plan. Se muestra aún más orgulloso,\nincluso conmigo, de lo que pensé\ncuando lo acogí por primera vez. Sin embargo,\nen eso su carácter no ha cambiado, y debo tolerar\nlo que no puede corregirse.",
           "notes": [
             {
-              "term": "lame the foot / Of our design",
+              "term": "lame the foot",
               "title": "lame the foot / Of our design",
               "type": "Nota filológica",
               "gloss": "hacer cojear nuestro plan; obstaculizarlo",
@@ -25489,7 +25489,7 @@ window.SHAKESPEARE_READER_DATA = {
               "lemmaUrl": "https://en.wiktionary.org/wiki/spice"
             },
             {
-              "term": "a merit / To choke it in the utt’rance",
+              "term": "To choke it in the utt’rance",
               "title": "a merit / To choke it in the utt’rance",
               "type": "Nota filológica",
               "gloss": "méritos capaces de acallar la acusación al pronunciarla",

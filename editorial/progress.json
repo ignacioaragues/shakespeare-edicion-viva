@@ -3831,9 +3831,10 @@
     },
     "static_annotation_audit": {
       "initial_unmatched_note_terms": 64,
-      "corrected_in_this_commit": 9,
-      "remaining_unmatched_note_terms": 55,
-      "method": "literal term substring presence in corresponding English speech block; false negatives may include deliberately discontinuous quotations or line-break-spanning phrases"
+      "corrected_in_prior_commit": 9,
+      "corrected_in_this_commit": 49,
+      "remaining_unmatched_note_terms": 0,
+      "method": "Case-insensitive literal anchor presence in English speech; exact line breaks preserved; discontinuous phrases anchored to attested component"
     },
     "scene_audit": {
       "scenes": 29,
@@ -3842,10 +3843,9 @@
       "notable_prose_overlap": "Act I scene 1 has shared Folger line references at 16, 18 and 21 between adjacent prose blocks; do not treat as missing lines"
     },
     "blocking_checks": [
-      "55 annotation anchors still require individual verification/repair or explicit non-anchor designation",
       "Real browser highlight and note popup regression not run",
       "Mobile layout, navigation and Pages publication not visually verified"
     ],
-    "note": "No final completion claimed; source-lineation checkpoints alone do not certify functional browser QA."
+    "note": "All note terms now match a substring of their English speech blocks, case-insensitively; static check only."
   }
 }
