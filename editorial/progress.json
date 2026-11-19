@@ -3813,5 +3813,39 @@
       "source": "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/",
       "scope": "176 líneas Folger 3720–3895 de V.6 cotejadas con Folger (edición pública, acto V escena 6). Verificados 42 bloques y sus inicios/finales, cambios de hablante y numeración; versos breves 3720, 3721, 3815, 3831 y 3832 legítimos. Las palabras aisladas 'home' (3802) y 'lords' (3837) son líneas Folger reales. Acotaciones fuera de numeración en 3768–3770 (tambores), 3780–3781 (entrada de señores), 3794 (entrada de Coriolano), 3862 (desenvaina), 3866 (asesinato) y 3887–3895 (salida/marcha); no fusionarlas con el verso. 3854–3856 es griterío colectivo en prosa, no tres versos métricos. 3795–3809 contiene 15 versos y una acotación independiente; conteo de renglones no es prueba de error. No se cambió EN/ES ni offsets. QA real de navegador, móvil, marcadores y resaltados sigue pendiente; tampoco se certifica cobertura global de los cinco actos."
     }
-  ]
+  ],
+  "final_qa": {
+    "status": "blocked_pending_browser_regression_and_annotation_repairs",
+    "checked_on": "2026-11-19",
+    "editorial_review_ranges": {
+      "count": 91,
+      "first_line": 1,
+      "last_line": 3895,
+      "consecutive": true
+    },
+    "verse_source_ranges": {
+      "count": 43,
+      "first_line": 1,
+      "last_line": 3895,
+      "consecutive": true
+    },
+    "static_annotation_audit": {
+      "initial_unmatched_note_terms": 64,
+      "corrected_in_this_commit": 9,
+      "remaining_unmatched_note_terms": 55,
+      "method": "literal term substring presence in corresponding English speech block; false negatives may include deliberately discontinuous quotations or line-break-spanning phrases"
+    },
+    "scene_audit": {
+      "scenes": 29,
+      "first_line": 1,
+      "last_line": 3895,
+      "notable_prose_overlap": "Act I scene 1 has shared Folger line references at 16, 18 and 21 between adjacent prose blocks; do not treat as missing lines"
+    },
+    "blocking_checks": [
+      "55 annotation anchors still require individual verification/repair or explicit non-anchor designation",
+      "Real browser highlight and note popup regression not run",
+      "Mobile layout, navigation and Pages publication not visually verified"
+    ],
+    "note": "No final completion claimed; source-lineation checkpoints alone do not certify functional browser QA."
+  }
 }

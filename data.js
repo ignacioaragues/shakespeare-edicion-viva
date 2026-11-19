@@ -10241,7 +10241,7 @@ window.SHAKESPEARE_READER_DATA = {
               "gloss": "según lo que valen"
             },
             {
-              "term": "your people",
+              "term": "people",
               "type": "Retórica política",
               "title": "your people",
               "body": "El posesivo atribuye a Bruto la representación del pueblo y mantiene la distancia de Coriolano respecto de los ciudadanos.",
@@ -10700,7 +10700,7 @@ window.SHAKESPEARE_READER_DATA = {
               "gloss": "voto"
             },
             {
-              "term": "Please you",
+              "term": "Please",
               "type": "Sintaxis histórica",
               "title": "Petición cortés",
               "body": "Fórmula equivalente a «si les parece bien».",
@@ -11129,7 +11129,7 @@ window.SHAKESPEARE_READER_DATA = {
               "gloss": "facultad efectiva; poder"
             },
             {
-              "term": "if he show",
+              "term": "he show",
               "type": "Gramática histórica",
               "title": "Subjuntivo sin -s",
               "body": "La forma «show» tras «if», con sujeto singular, corresponde a un subjuntivo posible en el inglés moderno temprano. Referencias: Folger, Coriolanus II.3 (https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/); C. F. Tucker Brooke (ed.), Coriolanus, Yale, 1924, acto II, escena 3 (https://en.wikisource.org/wiki/Coriolanus_(1924)_Yale/Text/Act_II).",
@@ -11172,14 +11172,14 @@ window.SHAKESPEARE_READER_DATA = {
           "es": "Y para que piensen todavía peor de nosotros, bastaría muy poco: cuando nos alzamos por el grano, él mismo no vaciló en llamarnos la multitud de muchas cabezas.",
           "notes": [
             {
-              "term": "a little help will serve",
+              "term": "little help will serve",
               "type": "Ironía",
               "title": "Basta poco",
               "body": "El ciudadano responde a la amenaza de ser considerados monstruosos: su reputación ya es mala.",
               "gloss": "bastará muy poco"
             },
             {
-              "term": "stood up about the corn",
+              "term": "stood up about",
               "type": "Contexto dramático",
               "title": "Protesta por el grano",
               "body": "Remite a la revuelta alimentaria con la que comienza la obra.",
@@ -11288,7 +11288,7 @@ window.SHAKESPEARE_READER_DATA = {
           "es": "Para perderse en la niebla, donde los vapores malsanos disolverían tres cuartas partes de ella; la cuarta regresaría, por escrúpulo de conciencia, para ayudarte a conseguir esposa.",
           "notes": [
             {
-              "term": "three parts",
+              "term": "parts melted away",
               "type": "Léxico",
               "title": "Tres cuartas partes",
               "body": "«Three parts» contrasta con «the fourth»: se imagina que solo una cuarta parte del ingenio sobreviviría.",
@@ -11324,7 +11324,7 @@ window.SHAKESPEARE_READER_DATA = {
           "es": "Siempre tienes alguna de tus bromas. Está bien, está bien.",
           "notes": [
             {
-              "term": "You may, you may",
+              "term": "may, you may",
               "type": "Pragmática",
               "title": "Aceptación resignada",
               "body": "La repetición puede interpretarse como una concesión ante la burla, no como permiso literal. Folger, II.3, líneas 1409–1410, https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/.",
@@ -11375,7 +11375,7 @@ window.SHAKESPEARE_READER_DATA = {
               "gloss": "toga de humildad"
             },
             {
-              "term": "Mark his behavior",
+              "term": "his behavior",
               "type": "Dramaturgia",
               "title": "Observar al candidato",
               "body": "La invitación a observar el comportamiento de Coriolano anticipa que el modo de pedir los votos será tan importante como sus méritos. Folger, Coriolanus, II.3, 1415–1416: https://www.folger.edu/explore/shakespeares-works/coriolanus/read/2/3/.",
@@ -12205,7 +12205,7 @@ window.SHAKESPEARE_READER_DATA = {
           "es": "Entonces, que sea cónsul. ¡Que los dioses le concedan felicidad y lo conviertan en un buen amigo del pueblo!",
           "notes": [
             {
-              "term": "good friend to the people",
+              "term": "good friend to",
               "type": "Pragmática política",
               "title": "Un deseo que anticipa el conflicto",
               "gloss": "buen amigo del pueblo",
