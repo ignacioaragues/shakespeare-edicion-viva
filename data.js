@@ -21059,7 +21059,7 @@ window.SHAKESPEARE_READER_DATA = {
         {
           "line": "2586–2590",
           "speaker": "volumnia",
-          "en": "Anger’s my meat. I sup upon myself\nAnd so shall starve with feeding. Come, let’s go.\nLeave this faint puling, and lament as I do,\nIn anger, Juno-like. Come, come, come.",
+          "en": "Anger’s my meat. I sup upon myself\nAnd so shall starve with feeding.\nCome, let’s go.\nLeave this faint puling, and lament as I do,\nIn anger, Juno-like. Come, come, come.",
           "es": "La ira es mi alimento. Me devoro a mí misma\ny así moriré de hambre mientras como. Vamos, vámonos.\nDeja esos débiles lloriqueos y laméntate como yo,\ncon furia, como Juno. Vamos, vamos, vamos.",
           "notes": [
             {

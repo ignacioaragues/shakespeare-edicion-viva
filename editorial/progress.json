@@ -3625,6 +3625,17 @@
       "status": "source_lineation_verified_browser_highlight_qa_pending",
       "source": "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/1/",
       "scope": "69 líneas Folger cotejadas con la disposición original IV.1; versos, parlamentos y acotaciones independientes. Restituido corte 2457/2458 (wounded / craves), sin cambiar letras ni IDs. 53 notas inspeccionadas en 2442–2518, anclas literales comprobadas. QA visual español, móvil y resaltados pendientes."
+    },
+    {
+      "id": "coriolanus-4-2-2519-2591",
+      "act": 4,
+      "scene": 2,
+      "first_line": 2519,
+      "last_line": 2591,
+      "reviewed_on": "2026-11-19",
+      "status": "source_lineation_verified_browser_highlight_qa_pending",
+      "source": "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/4/2/",
+      "scope": "73 líneas Folger de IV.2 cotejadas contra la disposición pública de Folger, 31 bloques; restaurado el corte 2587/2588 entre feeding. / Come, let’s go. sin cambiar caracteres, IDs ni offsets. Conservados versos breves 2539 (you be gone), 2578 (you) y 2585 (me?), cambios de interlocutor y acotaciones independientes. 56 notas examinadas; cuatro anclas no literales pendientes de reparación no destructiva: 2519–2521 (in his behalf / In his behalf), 2548–2552 (I would my son / Were), 2559–2561 (unknit himself / The noble knot), 2563–2566 (as fitly ... As I can). QA visual español, móvil y resaltados pendiente."
     }
   ]
 }
