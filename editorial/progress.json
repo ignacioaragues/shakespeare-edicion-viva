@@ -3768,6 +3768,39 @@
       "status": "internal_lineation_audit_external_source_and_browser_qa_pending",
       "source": "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/3/",
       "scope": "148 líneas consecutivas del final de V.3, 15 bloques inspeccionados en data.js. Conservados los cambios de hablante, especialmente 3544–3548 (Virgilia y el niño), el largo discurso de Volumnia 3552–3604 y la respuesta de Coriolano 3605–3616. Discrepancias tipográficas internas: 3506–3508 tiene dos renglones para tres líneas numeradas; 3509–3543 separa 'should' en un renglón aislado; 3552–3604 separa 'us' en un renglón aislado. Requieren cotejo con fuente Folger y reparación no destructiva. No se realizaron cambios EN/ES ni QA de navegador, móvil o resaltados."
+    },
+    {
+      "id": "coriolanus-5-4-3635-3702",
+      "act": 5,
+      "scene": 4,
+      "first_line": 3635,
+      "last_line": 3702,
+      "reviewed_on": "2026-11-19",
+      "status": "internal_lineation_audit_external_source_and_browser_qa_pending",
+      "source": "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/4/",
+      "scope": "68 líneas, 22 bloques. V.4 alterna prosa de Menenio/Sicinio (3635–3670) y versos de los mensajeros y celebración (3671–3702); los cortes de renglón de la prosa no representan versos. La intervención 3650–3659 tiene 10 líneas inglesas y 11 españolas: comprobar correspondencia visual. Texto, notas, IDs y offsets intactos."
+    },
+    {
+      "id": "coriolanus-5-5-3703-3710",
+      "act": 5,
+      "scene": 5,
+      "first_line": 3703,
+      "last_line": 3710,
+      "reviewed_on": "2026-11-19",
+      "status": "internal_lineation_audit_external_source_and_browser_qa_pending",
+      "source": "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/5/",
+      "scope": "8 líneas, 2 bloques. El senador 3703–3709 tiene un corte tipográfico aislado en 'them', que produce 8 renglones para 7 líneas Folger; pendiente corrección no destructiva. 3710 es aclamación coral. Texto, notas, IDs y offsets intactos."
+    },
+    {
+      "id": "coriolanus-5-6-3711-3895",
+      "act": 5,
+      "scene": 6,
+      "first_line": 3711,
+      "last_line": 3895,
+      "reviewed_on": "2026-11-19",
+      "status": "internal_lineation_audit_external_source_and_browser_qa_pending",
+      "source": "https://www.folger.edu/explore/shakespeares-works/coriolanus/read/5/6/",
+      "scope": "185 líneas, 44 bloques inspeccionados hasta la última acotación. Revisada continuidad de rangos y turnos entre Aufidio, conspiradores, Coriolano, señores y pueblo. Incidencias: 3711–3719 presenta 8 renglones para 9 líneas; 3768–3770 y 3780–3781 contienen acotaciones integradas; 3795–3809 contiene un corte aislado 'home' y acotación; 3816–3828 tiene 13 líneas numeradas y 13 renglones; 3833–3841 corta 'lords' artificialmente; 3854–3856 es prosa coral con tres renglones ingleses y uno español; 3862–3864, 3866 y 3887–3895 incorporan acotaciones que no deben contarse como versos. Cierre en 'Yet he shall have a noble memory. Assist.' seguido de salida y marcha fúnebre. Pendientes cotejo externo Folger, ajuste de saltos tipográficos, alineación EN/ES y QA visual/móvil/resaltados. Texto, notas, IDs y offsets intactos."
     }
   ]
 }
